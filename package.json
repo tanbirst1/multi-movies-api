@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "scripts": {
+    "postinstall": "npx playwright install --with-deps"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "playwright": "^1.45.0"
