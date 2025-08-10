@@ -1,5 +1,6 @@
 import express from 'express';
-import chromium from 'chrome-aws-lambda';
+import express from 'express';
+import { chromium } from 'playwright';
 
 const app = express();
 
@@ -8,15 +9,13 @@ app.get('/scrape', async (req, res) => {
   if (!url) return res.json({ status: false, error: "Missing URL" });
 
   try {
-    const browser = await chromium.puppeteer.launch({
-      args: chromium.args,
-      defaultViewport: chromium.defaultViewport,
-      executablePath: await chromium.executablePath,
-      headless: chromium.headless,
+    const browser = await chromium.launch({
+      headless: true,
+      args: ["--no-sandbox", "--disable-setuid-sandbox"]
     });
 
     const page = await browser.newPage();
-    await page.goto(url, { waitUntil: "networkidle0" });
+    await page.goto(url, { waitUntil: "networkidle" });
 
     const html = await page.content();
     await browser.close();
@@ -27,4 +26,4 @@ app.get('/scrape', async (req, res) => {
   }
 });
 
-app.listen(3000, () => console.log("✅ Scraper running"));
+app.listen(3000, () => console.log("✅ Playwright scraper running"));
