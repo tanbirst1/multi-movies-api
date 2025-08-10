@@ -1,5 +1,5 @@
 import express from 'express';
-import { chromium } from 'playwright';
+import chromium from 'chrome-aws-lambda';
 
 const app = express();
 
@@ -8,20 +8,23 @@ app.get('/scrape', async (req, res) => {
   if (!url) return res.json({ status: false, error: "Missing URL" });
 
   try {
-    const browser = await chromium.launch({ headless: true });
+    const browser = await chromium.puppeteer.launch({
+      args: chromium.args,
+      defaultViewport: chromium.defaultViewport,
+      executablePath: await chromium.executablePath,
+      headless: chromium.headless,
+    });
+
     const page = await browser.newPage();
+    await page.goto(url, { waitUntil: "networkidle0" });
 
-    await page.goto(url, { waitUntil: "networkidle" });
-
-    // If page loads, status true
     const html = await page.content();
     await browser.close();
 
     res.json({ status: true, html });
-
   } catch (err) {
     res.json({ status: false, error: err.toString() });
   }
 });
 
-app.listen(3000, () => console.log("✅ Render scraper running on port 3000"));
+app.listen(3000, () => console.log("✅ Scraper running"));
