@@ -1,5 +1,4 @@
 import express from 'express';
-import express from 'express';
 import { chromium } from 'playwright';
 
 const app = express();
