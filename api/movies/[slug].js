@@ -1,88 +1,116 @@
-export default {
-  async fetch(request, { params }) {
-    const TARGET_BASE = "https://multimovies.coupons/movies";
-    const slug = params.slug;  // dynamic slug from URL
-    const url = `${TARGET_BASE}/${slug}/`;
+import { parse } from "node-html-parser";
 
-    try {
-      // Fetch the page
-      const res = await fetch(url, {
-        headers: {
-          "User-Agent":
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
-        },
-      });
+export const config = {
+  runtime: "edge",
+};
 
-      if (!res.ok) {
-        return new Response(
-          JSON.stringify({ error: "Failed to fetch movie page" }),
-          { status: 500, headers: { "Content-Type": "application/json" } }
-        );
-      }
+export default async function handler(req) {
+  const { searchParams } = new URL(req.url);
+  const slug = searchParams.get("slug");
 
-      const html = await res.text();
+  if (!slug) {
+    return new Response(
+      JSON.stringify({ error: "Missing slug parameter" }),
+      { status: 400, headers: { "Content-Type": "application/json" } }
+    );
+  }
 
-      // Basic extraction example using regex or simple DOMParser
-      // Since this is edge, DOMParser might not be available,
-      // so we use regex for key info as example.
+  const targetURL = `https://multimovies.coupons/movies/${slug}`;
 
-      // Extract movie title
-      const titleMatch = html.match(/<h1[^>]*>([^<]+)<\/h1>/i);
-      const title = titleMatch ? titleMatch[1].trim() : null;
+  try {
+    // Fetch the movie page HTML
+    const res = await fetch(targetURL, {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
+      },
+    });
 
-      // Extract poster URL
-      const posterMatch = html.match(
-        /<div class="poster">[\s\S]*?<img[^>]+src="([^"]+)"[^>]*>/i
-      );
-      const poster = posterMatch ? posterMatch[1] : null;
-
-      // Extract synopsis from #info section
-      const synopsisMatch = html.match(
-        /<div id="info"[^>]*>[\s\S]*?<div itemprop="description"[^>]*>([\s\S]*?)<\/div>/i
-      );
-      let synopsis = synopsisMatch ? synopsisMatch[1] : null;
-      if (synopsis) {
-        // Strip HTML tags from synopsis
-        synopsis = synopsis.replace(/<[^>]+>/g, "").trim();
-      }
-
-      // Extract rating (example TMDb rating)
-      const tmdbRatingMatch = html.match(
-        /<div class="custom_fields">[\s\S]*?<b class="variante">TMDb Rating<\/b>[\s\S]*?<span class="valor"><strong>([\d.]+)<\/strong>/i
-      );
-      const tmdbRating = tmdbRatingMatch ? tmdbRatingMatch[1] : null;
-
-      // Extract genres (all <a> inside .sgeneros)
-      const genreMatches = [...html.matchAll(/<div class="sgeneros">([\s\S]*?)<\/div>/i)];
-      let genres = [];
-      if (genreMatches.length) {
-        const genreHtml = genreMatches[0][1];
-        const genreLinks = [...genreHtml.matchAll(/<a[^>]+>([^<]+)<\/a>/g)];
-        genres = genreLinks.map((m) => m[1]);
-      }
-
-      // Extract embedded video iframe URLs (for example gdmirror and youtube trailer)
-      const iframeMatches = [...html.matchAll(/<iframe[^>]+src="([^"]+)"[^>]*>/g)];
-      const videoSources = iframeMatches.map((m) => m[1]);
-
-      // Compose response JSON
-      const data = {
-        title,
-        poster,
-        synopsis,
-        tmdbRating,
-        genres,
-        videoSources,
-      };
-
-      return new Response(JSON.stringify(data), {
-        headers: { "Content-Type": "application/json" },
-      });
-    } catch (err) {
+    if (!res.ok) {
       return new Response(
-        JSON.stringify({ error: "Error scraping movie", details: err.message }),
+        JSON.stringify({ error: "Failed to fetch movie page" }),
         { status: 500, headers: { "Content-Type": "application/json" } }
       );
     }
-  },
-};
+
+    const html = await res.text();
+    const root = parse(html);
+
+    // Extract poster
+    const posterEl = root.querySelector(".poster img");
+    const poster = posterEl ? posterEl.getAttribute("src") : null;
+
+    // Extract title
+    const titleEl = root.querySelector(".data h1");
+    const title = titleEl ? titleEl.text.trim() : null;
+
+    // Extract tagline and date
+    const taglineEl = root.querySelector(".extra .tagline");
+    const tagline = taglineEl ? taglineEl.text.trim() : null;
+    const dateEl = root.querySelector(".extra .date");
+    const releaseDate = dateEl ? dateEl.text.trim() : null;
+
+    // Extract synopsis
+    const synopsisEl = root.querySelector("#info .wp-content p");
+    const synopsis = synopsisEl ? synopsisEl.text.trim() : null;
+
+    // Extract IMDb rating
+    const imdbEl = root.querySelector(".custom_fields b#repimdb strong");
+    const imdbRating = imdbEl ? imdbEl.text.trim() : null;
+
+    // Extract TMDb rating
+    const tmdbEl = root.querySelector(".custom_fields span strong");
+    const tmdbRating = tmdbEl ? tmdbEl.text.trim() : null;
+
+    // Extract genres (array)
+    const genreEls = root.querySelectorAll(".sgeneros a");
+    const genres = genreEls.map((a) => a.text.trim());
+
+    // Extract views count
+    const viewsEl = root.querySelector("#playernotice");
+    const views = viewsEl ? viewsEl.getAttribute("data-text") || viewsEl.text.trim() : null;
+
+    // Extract trailer and main embed iframe URLs
+    const trailerIframe = root.querySelector("#source-player-trailer iframe");
+    const trailerUrl = trailerIframe ? trailerIframe.getAttribute("src") : null;
+
+    const mainIframe = root.querySelector("#source-player-1 iframe");
+    const mainUrl = mainIframe ? mainIframe.getAttribute("src") : null;
+
+    // Extract cast list
+    const castNodes = root.querySelectorAll("#cast .person");
+    const cast = castNodes.map((person) => {
+      const name = person.querySelector("[itemprop=name]")?.getAttribute("content") || "";
+      const character = person.querySelector(".caracter")?.text.trim() || "";
+      const image = person.querySelector("img")?.getAttribute("src") || "";
+      const profileUrl = person.querySelector("a")?.getAttribute("href") || "";
+      return { name, character, image, profileUrl };
+    });
+
+    // Prepare JSON response
+    const data = {
+      title,
+      poster,
+      tagline,
+      releaseDate,
+      synopsis,
+      imdbRating,
+      tmdbRating,
+      genres,
+      views,
+      trailerUrl,
+      mainUrl,
+      cast,
+      sourceUrl: targetURL,
+    };
+
+    return new Response(JSON.stringify(data), {
+      headers: { "Content-Type": "application/json" },
+    });
+  } catch (err) {
+    return new Response(
+      JSON.stringify({ error: "Server error", details: err.message }),
+      { status: 500, headers: { "Content-Type": "application/json" } }
+    );
+  }
+}
