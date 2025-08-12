@@ -1,164 +1,81 @@
-export default {
-  async fetch(request) {
-    const TARGET = "https://multimovies.coupons";
+import requests
+from bs4 import BeautifulSoup
+import re
+import json
 
-    try {
-      const r = await fetch(TARGET, {
-        headers: {
-          "User-Agent":
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
-        },
-      });
-      if (!r.ok) {
-        return new Response(
-          JSON.stringify({ error: "fetch_failed", status: r.status }),
-          { status: 502, headers: { "Content-Type": "application/json" } }
-        );
-      }
+BASE_URL = "https://multimovies.coupons"
 
-      const html = await r.text();
+def clean_img_url(url):
+    # Remove size suffix like -90x135 or -185x278 before .jpg/.png/.webp
+    return re.sub(r"-\d+x\d+(?=\.(jpg|png|webp)$)", "", url)
 
-      // 1) Find positions of all <header>...<h2>SectionName...</h2>...</header>
-      const headerRegex = /<header[^>]*>[\s\S]*?<h2[^>]*>([^<]+)<\/h2>[\s\S]*?<\/header>/gi;
-      const headers = [];
-      let hMatch;
-      while ((hMatch = headerRegex.exec(html)) !== null) {
-        const name = hMatch[1].trim();
-        const headerEnd = hMatch.index + hMatch[0].length;
-        headers.push({ name, headerEnd });
-      }
+def to_relative(url):
+    if url.startswith(BASE_URL):
+        return url.replace(BASE_URL, "")
+    return url
 
-      // Helper to find next <div ... class="... items ..."> after a position
-      function findItemsDivStart(fromPos) {
-        const sub = html.slice(fromPos);
-        const itemsDivRegex = /<div\b[^>]*\bclass=(?:"|')[^"']*?\bitems\b[^"']*(?:"|')[^>]*>/i;
-        const m = itemsDivRegex.exec(sub);
-        if (!m) return -1;
-        return fromPos + m.index; // global index
-      }
+def scrape_sections():
+    r = requests.get(BASE_URL)
+    soup = BeautifulSoup(r.text, "html.parser")
 
-      // Helper to extract all <article>...</article> between startPos and endPos
-      function extractArticlesBetween(startPos, endPos) {
-        const scope = html.slice(startPos, endPos === -1 ? undefined : endPos);
-        const articleRegex = /<article\b[\s\S]*?<\/article>/gi;
-        const out = [];
-        let a;
-        while ((a = articleRegex.exec(scope)) !== null) {
-          out.push(a[0]);
-        }
-        return out;
-      }
-
-      // Flexible extractor for fields from an <article> block
-      function parseArticleBlock(blockHtml) {
-        // id: matches post-featured-123 or post-123
-        const idMatch = /post(?:-featured)?-(\d+)/i.exec(blockHtml);
-        const id = idMatch ? idMatch[1] : null;
-
-        // image src
-        const imgMatch = /<img[^>]*\bsrc=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
-        let img = imgMatch ? imgMatch[1] : null;
-        if (img) {
-          // remove -{width}x{height} before extension, e.g. -185x278.jpg => .jpg
-          img = img.replace(/-\d+x\d+(\.\w{2,6})$/i, "$1");
-        }
-
-        // rating
-        const ratingMatch = /<div[^>]*\bclass=(?:"|')[^"']*?\brating\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(blockHtml);
-        const rating = ratingMatch ? ratingMatch[1].trim() : null;
-
-        // url (anchor inside poster or h3)
-        const urlMatch = /<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>[^<]*<div[^>]*class=(?:"|')[^"']*?\bsee\b[^"']*(?:"|')/i.exec(blockHtml)
-                       || /<h3>[\s\S]*?<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
-        let url = urlMatch ? urlMatch[1] : null;
-        if (url) url = url.replace(/^https?:\/\/[^/]+/i, ""); // relative
-
-        // title (from h3 a text)
-        const titleMatch = /<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>/i.exec(blockHtml);
-        const title = titleMatch ? titleMatch[1].trim() : null;
-
-        // year or date (span after h3)
-        const dateMatch = /<h3[\s\S]*?<\/h3>\s*<span[^>]*>([^<]+)<\/span>/i.exec(blockHtml);
-        const date = dateMatch ? dateMatch[1].trim() : null;
-
-        return { id, img, rating, url, title, date };
-      }
-
-      // Build sections map
-      const sections = {};
-      for (let i = 0; i < headers.length; i++) {
-        const sec = headers[i];
-        const nextHeader = headers[i + 1];
-        // find items div after this header
-        const divStart = findItemsDivStart(sec.headerEnd);
-        if (divStart === -1) {
-          // no items carousel after this header; skip
-          continue;
-        }
-        // define scanning end: position of next header or end of document
-        const scanEnd = nextHeader ? nextHeader.headerEnd : -1;
-        // extract article blocks between divStart and scanEnd
-        const articlesHtml = extractArticlesBetween(divStart, scanEnd);
-        const items = [];
-        for (const artHtml of articlesHtml) {
-          const item = parseArticleBlock(artHtml);
-          // skip if no title or url (likely not a valid item)
-          if (item.title && item.url) items.push(item);
-        }
-
-        sections[sec.name] = items;
-      }
-
-      // If no headers detected (fallback: try to parse known sections manually)
-      if (Object.keys(sections).length === 0) {
-        // fallback: try featured and movies regex captures (simple)
-        const fallback = { featured: [], movies: [] };
-        const featuredRegex = /<article[^>]*?post-featured-(\d+)[\s\S]*?<img[^>]*src=(?:"|')([^"']+)(?:"|')[\s\S]*?<div[^>]*class=(?:"|')rating(?:"|')[^>]*>([^<]+)<\/div>[\s\S]*?<a[^>]*href=(?:"|')([^"']+)(?:"|')[\s\S]*?<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>[\s\S]*?<span[^>]*>([^<]+)<\/span>/gi;
-        let fm;
-        while ((fm = featuredRegex.exec(html)) !== null) {
-          let img = fm[2].replace(/-\d+x\d+(\.\w+)$/, "$1");
-          let url = fm[4].replace(/^https?:\/\/[^/]+/, "");
-          fallback.featured.push({
-            id: fm[1],
-            img,
-            rating: fm[3].trim(),
-            url,
-            title: fm[5].trim(),
-            date: fm[6].trim(),
-          });
-        }
-
-        const moviesRegex = /<article[^>]*?id="post-(\d+)"[\s\S]*?<img[^>]*src=(?:"|')([^"']+)(?:"|')[\s\S]*?<div[^>]*class=(?:"|')rating(?:"|')[^>]*>([^<]+)<\/div>[\s\S]*?<a[^>]*href=(?:"|')([^"']+)(?:"|')[\s\S]*?<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>[\s\S]*?<span[^>]*>([^<]+)<\/span>/gi;
-        while ((fm = moviesRegex.exec(html)) !== null) {
-          let img = fm[2].replace(/-\d+x\d+(\.\w+)$/, "$1");
-          let url = fm[4].replace(/^https?:\/\/[^/]+/, "");
-          fallback.movies.push({
-            id: fm[1],
-            img,
-            rating: fm[3].trim(),
-            url,
-            title: fm[5].trim(),
-            date: fm[6].trim(),
-          });
-        }
-        // add fallback if present
-        if (fallback.featured.length) sections["Featured titles"] = fallback.featured;
-        if (fallback.movies.length) sections["Movies"] = fallback.movies;
-      }
-
-      // Build summary counts
-      const summary = {};
-      for (const k of Object.keys(sections)) summary[k] = sections[k].length;
-
-      return new Response(
-        JSON.stringify({ status: "ok", counts: summary, sections }, null, 2),
-        { status: 200, headers: { "Content-Type": "application/json" } }
-      );
-    } catch (err) {
-      return new Response(
-        JSON.stringify({ error: err.message || String(err) }),
-        { status: 500, headers: { "Content-Type": "application/json" } }
-      );
+    data = {
+        "status": "ok",
+        "featured": [],
+        "top_movies": [],
+        "top_tvshows": []
     }
-  },
-};
+
+    # Featured section (detect dynamically by h2 title)
+    featured_section = soup.find("h2", string=re.compile("Featured", re.I))
+    if featured_section:
+        featured_container = featured_section.find_next("div", class_="nav_items_module")
+        if featured_container:
+            for item in featured_container.find_all("a", href=True):
+                img_tag = item.find("img")
+                if img_tag:
+                    img_url = clean_img_url(img_tag["src"])
+                    data["featured"].append({
+                        "title": img_tag.get("alt", "").strip(),
+                        "url": to_relative(item["href"]),
+                        "img": img_url
+                    })
+
+    # Top Movies
+    top_movies_h3 = soup.find("h3", string=re.compile("TOP Movies", re.I))
+    if top_movies_h3:
+        for item in top_movies_h3.find_all_next("div", class_="top-imdb-item", limit=20):
+            title_tag = item.find("div", class_="title").find("a", href=True)
+            img_tag = item.find("img")
+            rank_tag = item.find("div", class_="puesto")
+            rating_tag = item.find("div", class_="rating")
+
+            data["top_movies"].append({
+                "rank": int(rank_tag.text.strip()) if rank_tag else None,
+                "title": title_tag.text.strip() if title_tag else "",
+                "url": to_relative(title_tag["href"]) if title_tag else "",
+                "img": clean_img_url(img_tag["src"]) if img_tag else "",
+                "rating": float(rating_tag.text.strip()) if rating_tag else None
+            })
+
+    # Top TV Shows
+    top_tv_h3 = soup.find("h3", string=re.compile("TOP TVShows", re.I))
+    if top_tv_h3:
+        for item in top_tv_h3.find_all_next("div", class_="top-imdb-item", limit=20):
+            title_tag = item.find("div", class_="title").find("a", href=True)
+            img_tag = item.find("img")
+            rank_tag = item.find("div", class_="puesto")
+            rating_tag = item.find("div", class_="rating")
+
+            data["top_tvshows"].append({
+                "rank": int(rank_tag.text.strip()) if rank_tag else None,
+                "title": title_tag.text.strip() if title_tag else "",
+                "url": to_relative(title_tag["href"]) if title_tag else "",
+                "img": clean_img_url(img_tag["src"]) if img_tag else "",
+                "rating": float(rating_tag.text.strip()) if rating_tag else None
+            })
+
+    return data
+
+if __name__ == "__main__":
+    scraped_data = scrape_sections()
+    print(json.dumps(scraped_data, indent=2, ensure_ascii=False))
