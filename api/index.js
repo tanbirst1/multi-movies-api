@@ -1,37 +1,45 @@
 import fs from "fs";
 import path from "path";
 import * as cheerio from "cheerio";
-import chromium from "@sparticuz/chromium";
-import playwright from "playwright-core";
 
 export default async function handler(req, res) {
-  let browser;
   try {
+    // Read base URL
     const baseUrlPath = path.join(process.cwd(), "src", "baseurl.txt");
-    const baseUrl = fs.readFileSync(baseUrlPath, "utf8").trim();
+    const baseUrl = fs.readFileSync(baseUrlPath, "utf8").trim().replace(/\/$/, "");
 
-    browser = await playwright.chromium.launch({
-      args: chromium.args,
-      executablePath: await chromium.executablePath(),
-      headless: true
+    if (!baseUrl) {
+      return res.status(500).json({ error: "Base URL not found" });
+    }
+
+    // The site loads featured titles from a module endpoint
+    const featuredUrl = `${baseUrl}/wp-admin/admin-ajax.php?action=load_home_featured`;
+
+    const response = await fetch(featuredUrl, {
+      headers: {
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "text/html"
+      }
     });
 
-    const page = await browser.newPage();
-    await page.goto(baseUrl, { waitUntil: "networkidle" });
+    if (!response.ok) {
+      return res.status(500).json({ error: `Failed to fetch featured titles` });
+    }
 
-    // Get rendered HTML
-    const html = await page.content();
+    const html = await response.text();
     const $ = cheerio.load(html);
 
     const featured = [];
-    $("#featured-titles .owl-item article").each((_, el) => {
-      featured.push({
-        title: $(el).find("h3 a").text().trim(),
-        year: $(el).find(".data.dfeatur span").text().trim(),
-        rating: $(el).find(".rating").text().trim(),
-        img: $(el).find(".poster img").attr("src"),
-        link: $(el).find(".poster a").attr("href")
-      });
+    $("article.item.movies").each((_, el) => {
+      const title = $(el).find("h3 a").text().trim();
+      const year = $(el).find(".data.dfeatur span").text().trim();
+      const rating = $(el).find(".rating").text().trim();
+      const img = $(el).find(".poster img").attr("src");
+      const link = $(el).find(".poster a").attr("href");
+
+      if (title) {
+        featured.push({ title, year, rating, img, link });
+      }
     });
 
     res.status(200).json({
@@ -42,7 +50,5 @@ export default async function handler(req, res) {
 
   } catch (err) {
     res.status(500).json({ error: err.message });
-  } finally {
-    if (browser) await browser.close();
   }
 }
