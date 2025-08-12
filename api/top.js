@@ -1,9 +1,12 @@
+const DEFAULT_BASE_URL = "https://multimovies.coupons";
+
 export default {
-  async fetch(request) {
-    const TARGET = "https://multimovies.coupons";
+  async fetch(request, env) {
+    // Get base URL from environment variable BASE_URL or fallback
+    const BASE_URL = env.BASE_URL?.trim() || DEFAULT_BASE_URL;
 
     try {
-      const r = await fetch(TARGET, {
+      const r = await fetch(BASE_URL, {
         headers: {
           "User-Agent":
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
@@ -18,51 +21,57 @@ export default {
 
       const html = await r.text();
 
-      // Helper: extract top items by selector text in h3 and class top-imdb-item
+      // Extract Top Items helper: uses loose div capturing and improved regex
       function extractTopItems(sectionName) {
-        // Locate <h3> sectionName ... </h3>
-        // Then grab all <div class="top-imdb-item" ...> after it until next <h3> or end
-
-        const sectionRegex = new RegExp(
+        // Find <h3> with sectionName (case insensitive)
+        const headerRegex = new RegExp(
           `<h3[^>]*>\\s*${sectionName}\\s*<a[^>]*>[^<]*<\\/a>\\s*<\\/h3>`,
           "i"
         );
-        const startMatch = sectionRegex.exec(html);
-        if (!startMatch) return [];
+        const headerMatch = headerRegex.exec(html);
+        if (!headerMatch) return [];
 
-        const startIndex = startMatch.index + startMatch[0].length;
-        const restHtml = html.slice(startIndex);
+        const startIndex = headerMatch.index + headerMatch[0].length;
+        const htmlAfter = html.slice(startIndex);
 
-        // Find all top-imdb-item divs after startIndex but before next <h3>
-        const nextH3Index = restHtml.search(/<h3[^>]*>/i);
-        const limitHtml =
-          nextH3Index === -1 ? restHtml : restHtml.slice(0, nextH3Index);
+        // Grab all consecutive .top-imdb-item divs until next <h3> or end
+        // Each .top-imdb-item div looks like <div class="top-imdb-item" id="top-xxxx">...</div>
+        // We'll use a global regex to match each one
 
-        // Extract each top-imdb-item block
         const itemRegex = /<div class="top-imdb-item"[^>]*>([\s\S]*?)<\/div>\s*<\/div>\s*<\/div>/gi;
-        // Note: The blocks seem nested 3 divs, so to capture full block I match 3 closing divs
+
+        // This regex was too strict previously; instead, let's match individual top-imdb-item divs
+        // Each top-imdb-item div is self-contained; better to match with balanced divs or just non-greedy
+
+        // Let's try simpler: match <div class="top-imdb-item" ...> ... </div> non-greedy
+        const simpleItemRegex = /<div class="top-imdb-item"[^>]*>[\s\S]*?<\/div>/gi;
+
+        const limitedHtml = (() => {
+          const nextH3 = htmlAfter.search(/<h3[^>]*>/i);
+          return nextH3 === -1 ? htmlAfter : htmlAfter.slice(0, nextH3);
+        })();
 
         const items = [];
-        let m;
-        while ((m = itemRegex.exec(limitHtml)) !== null) {
-          const block = m[0];
+        let match;
+        while ((match = simpleItemRegex.exec(limitedHtml)) !== null) {
+          const block = match[0];
 
-          // Extract id from id="top-12345"
+          // id
           const idMatch = /id="top-(\d+)"/i.exec(block);
           const id = idMatch ? idMatch[1] : null;
 
-          // Extract image src
+          // image src
           const imgMatch = /<img[^>]*\bsrc=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(block);
           let img = imgMatch ? imgMatch[1] : null;
           if (img) img = img.replace(/-\d+x\d+(\.\w{2,6})$/i, "$1");
 
-          // Extract rating div
+          // rating
           const ratingMatch = /<div[^>]*class=(?:"|')rating(?:"|')[^>]*>([^<]+)<\/div>/i.exec(
             block
           );
           const rating = ratingMatch ? ratingMatch[1].trim() : null;
 
-          // Extract url from <a> inside poster or title div
+          // url (from poster anchor or title anchor)
           const urlMatch =
             /<div class="poster">[\s\S]*?<a[^>]*href=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(
               block
@@ -71,15 +80,17 @@ export default {
               block
             );
           let url = urlMatch ? urlMatch[1] : null;
-          if (url) url = url.replace(/^https?:\/\/[^/]+/i, "");
+          if (url) url = url.replace(new RegExp(`^${BASE_URL.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')}`, "i"), "");
 
-          // Extract title (from alt or link text)
+          // title (alt attr or title link text)
           const titleMatch =
             /<img[^>]*alt=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(block) ||
             /<div class="title">[\s\S]*?<a[^>]*>([^<]+)<\/a>/i.exec(block);
           const title = titleMatch ? titleMatch[1].trim() : null;
 
-          items.push({ id, img, rating, url, title });
+          if (id && title && url) {
+            items.push({ id, img, rating, url, title });
+          }
         }
 
         return items;
@@ -92,10 +103,7 @@ export default {
         JSON.stringify(
           {
             status: "ok",
-            counts: {
-              topMovies: topMovies.length,
-              topTvShows: topTvShows.length,
-            },
+            counts: { topMovies: topMovies.length, topTvShows: topTvShows.length },
             topMovies,
             topTvShows,
           },
