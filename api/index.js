@@ -1,52 +1,51 @@
-// /api/index.js
-import fs from 'fs';
-import path from 'path';
-import cheerio from 'cheerio';
-import fetch from 'node-fetch';
+import fs from "fs";
+import path from "path";
+import axios from "axios";
+import * as cheerio from "cheerio";
 
 export default async function handler(req, res) {
   try {
-    // 1. Read base URL from ../src/baseurl.txt
-    const basePath = path.join(process.cwd(), 'src', 'baseurl.txt');
-    const baseUrl = fs.readFileSync(basePath, 'utf8').trim();
+    // Read base URL from file
+    const baseFile = path.join(process.cwd(), "src", "baseurl.txt");
+    const baseUrl = fs.readFileSync(baseFile, "utf-8").trim();
 
-    // 2. Fetch fully rendered HTML using an HTML formatter API (jina.ai proxy)
-    const formattedUrl = `https://r.jina.ai/http://${baseUrl.replace(/^https?:\/\//, '')}`;
-    const htmlResponse = await fetch(formattedUrl);
-    const html = await htmlResponse.text();
-
-    // 3. Parse HTML with cheerio
-    const $ = cheerio.load(html);
-    let featured = [];
-
-    $('#featured-titles article').each((i, el) => {
-      const img = $(el).find('.poster img').attr('src');
-      const title = $(el).find('h3 a').text().trim();
-      const link = $(el).find('h3 a').attr('href');
-      const rating = $(el).find('.rating').text().trim();
-      const year = $(el).find('.data span').text().trim();
-
-      featured.push({
-        title,
-        link,
-        img,
-        rating,
-        year
-      });
+    // Step 1: Fetch raw HTML
+    const { data: rawHtml } = await axios.get(baseUrl, {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      },
     });
 
-    // 4. Send response
+    // Step 2: Send HTML to formatting API
+    const { data: formattedHtml } = await axios.post(
+      "https://api.htmlcleaner.com/v1/beautify",
+      { html: rawHtml },
+      { headers: { "Content-Type": "application/json" } }
+    );
+
+    // Step 3: Load formatted HTML into cheerio
+    const $ = cheerio.load(formattedHtml.html || formattedHtml);
+
+    // Step 4: Extract featured titles
+    const featured = [];
+    $("#featured-titles article").each((_, el) => {
+      const title = $(el).find("h3 a").text().trim();
+      const link = $(el).find("h3 a").attr("href");
+      const img = $(el).find(".poster img").attr("src");
+      const rating = $(el).find(".rating").text().trim();
+      featured.push({ title, link, img, rating });
+    });
+
     res.status(200).json({
       status: "ok",
       base: baseUrl,
       totalFeatured: featured.length,
-      featured
+      featured,
     });
-
   } catch (err) {
     res.status(500).json({
       status: "error",
-      message: err.message
+      message: err.message,
     });
   }
 }
