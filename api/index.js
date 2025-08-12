@@ -1,54 +1,83 @@
-import fs from "fs";
-import path from "path";
-import * as cheerio from "cheerio";
+import fetch from 'node-fetch';
+import * as cheerio from 'cheerio';
+import fs from 'fs';
+import path from 'path';
 
 export default async function handler(req, res) {
   try {
-    // Read base URL from ../src/baseurl.txt
-    const baseUrlPath = path.join(process.cwd(), "src", "baseurl.txt");
-    const baseUrl = fs.readFileSync(baseUrlPath, "utf8").trim().replace(/\/$/, "");
+    // Read base URL from src/base_url.txt
+    const basePath = path.join(process.cwd(), 'src', 'base_url.txt');
+    const baseURL = fs.readFileSync(basePath, 'utf8').trim();
 
-    if (!baseUrl) {
-      return res.status(500).json({ error: "Base URL not found in baseurl.txt" });
-    }
+    // Optional: Grab initial cookies to bypass Cloudflare
+    let cookieHeaders = '';
+    const homeResp = await fetch(baseURL, {
+      headers: { "User-Agent": "Mozilla/5.0", "Accept": "text/html" }
+    });
+    const setCookies = homeResp.headers.get('set-cookie');
+    if (setCookies) cookieHeaders = setCookies.split(',').map(c => c.split(';')[0]).join('; ');
 
-    // This URL directly returns the HTML for the featured carousel
-    const ajaxUrl = `${baseUrl}/wp-admin/admin-ajax.php?action=featured_titles`;
-
-    const response = await fetch(ajaxUrl, {
+    // Fetch homepage HTML
+    const response = await fetch(baseURL + '/', {
       headers: {
         "User-Agent": "Mozilla/5.0",
-        "Referer": baseUrl
+        "Accept": "text/html",
+        "Cookie": cookieHeaders
       }
     });
-
     if (!response.ok) {
-      return res.status(500).json({ error: `Failed to fetch ${ajaxUrl}` });
+      return res.status(500).json({ error: `Fetch failed: ${response.status}` });
     }
 
     const html = await response.text();
     const $ = cheerio.load(html);
 
-    const featured = [];
-    $(".owl-item article").each((_, el) => {
-      const title = $(el).find("h3 a").text().trim();
-      const year = $(el).find(".data.dfeatur span").text().trim();
-      const rating = $(el).find(".rating").text().trim();
-      const img = $(el).find(".poster img").attr("src");
-      const link = $(el).find(".poster a").attr("href");
+    // Helper functions
+    function cleanLink(link) {
+      if (!link) return '';
+      if (link.startsWith(baseURL)) return link.replace(baseURL, '');
+      return link;
+    }
+    function fixImage(src) {
+      if (!src) return '';
+      if (src.startsWith('//')) return 'https:' + src;
+      return src;
+    }
 
-      if (title) {
-        featured.push({ title, year, rating, img, link });
-      }
-    });
+    // Scrape Featured section
+    function scrapeFeatured() {
+      let data = [];
+      $('#featured-titles .owl-item').each((i, el) => {
+        const article = $(el).find('article');
+        const title = article.find('.data.dfeatur h3 a').text().trim();
+        let link = article.find('.data.dfeatur h3 a').attr('href');
+        let image = article.find('.poster img').attr('src');
+        const rating = article.find('.poster .rating').text().trim();
+        const year = article.find('.data.dfeatur span').text().trim();
+        link = cleanLink(link);
+        image = fixImage(image);
+        if (title) {
+          data.push({ title, link, image, rating, year });
+        }
+      });
+      return data;
+    }
+
+    const featured = scrapeFeatured();
+    const totalFeatured = featured.length;
+
+    // You can still scrape other sections like in your example
+    // const newestDrops = scrapeSwiperSection("Newest Drops"); ...
 
     res.status(200).json({
-      baseUrl,
-      totalFeatured: featured.length,
+      status: "ok",
+      base: baseURL,
+      totalFeatured,
       featured
+      // newestDrops, ...
     });
 
-  } catch (err) {
-    res.status(500).json({ error: err.message });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
   }
 }
