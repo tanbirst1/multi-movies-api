@@ -4,33 +4,38 @@ import * as cheerio from "cheerio";
 
 export default async function handler(req, res) {
   try {
-    // Read base URL
+    // Read base URL from ../src/baseurl.txt
     const baseUrlPath = path.join(process.cwd(), "src", "baseurl.txt");
     const baseUrl = fs.readFileSync(baseUrlPath, "utf8").trim().replace(/\/$/, "");
 
     if (!baseUrl) {
-      return res.status(500).json({ error: "Base URL not found" });
+      return res.status(500).json({ error: "Base URL not found in baseurl.txt" });
     }
 
-    // The site loads featured titles from a module endpoint
-    const featuredUrl = `${baseUrl}/wp-admin/admin-ajax.php?action=load_home_featured`;
-
-    const response = await fetch(featuredUrl, {
+    // Step 1: Fetch raw HTML
+    const rawRes = await fetch(baseUrl, {
       headers: {
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "text/html"
+        "User-Agent": "Mozilla/5.0"
       }
     });
-
-    if (!response.ok) {
-      return res.status(500).json({ error: `Failed to fetch featured titles` });
+    if (!rawRes.ok) {
+      return res.status(500).json({ error: `Failed to fetch ${baseUrl}` });
     }
+    const rawHtml = await rawRes.text();
 
-    const html = await response.text();
-    const $ = cheerio.load(html);
+    // Step 2: Send HTML to formatter API to make it clean
+    const formatRes = await fetch("https://api.codetabs.com/v1/proxy/?quest=https://tools.w3clubs.com/html-beautify", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: new URLSearchParams({ content: rawHtml })
+    });
+    const formattedHtml = await formatRes.text();
+
+    // Step 3: Parse formatted HTML
+    const $ = cheerio.load(formattedHtml);
 
     const featured = [];
-    $("article.item.movies").each((_, el) => {
+    $("#featured-titles .owl-item article").each((_, el) => {
       const title = $(el).find("h3 a").text().trim();
       const year = $(el).find(".data.dfeatur span").text().trim();
       const rating = $(el).find(".rating").text().trim();
