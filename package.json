@@ -1,15 +1,9 @@
 {
-  "name": "vercel-web-scraper",
+  "name": "multi-movies-api",
   "version": "1.0.0",
-  "description": "A simple Cheerio-based web scraper for Vercel.",
-  "main": "api/index.js",
   "type": "module",
-  "scripts": {
-    "dev": "vercel dev",
-    "start": "node api/index.js"
-  },
   "dependencies": {
-    "cheerio": "^1.0.0",
+    "cheerio": "^1.0.0-rc.12",
     "node-fetch": "^3.3.2"
   }
 }
