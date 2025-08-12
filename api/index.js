@@ -1,7 +1,7 @@
 export default {
   async fetch(request) {
     try {
-      const baseUrl = "https://multimovies.coupons"; // target site
+      const baseUrl = "https://multimovies.coupons";
       const res = await fetch(baseUrl, {
         headers: {
           "User-Agent":
@@ -19,18 +19,20 @@ export default {
       const html = await res.text();
       const featured = [];
 
-      // Use regex to extract article blocks
       const regex =
         /<article[^>]*?post-featured-(\d+)[\s\S]*?<img\s+src="([^"]+)"\s+alt="([^"]+)".*?<div class="rating">([^<]+)<\/div>[\s\S]*?<a\s+href="([^"]+)">[\s\S]*?<h3><a[^>]+>([^<]+)<\/a><\/h3>\s*<span>([^<]+)<\/span>/g;
 
       let match;
       while ((match = regex.exec(html)) !== null) {
+        let imgUrl = match[2].replace(/-\d+x\d+(\.\w+)$/, "$1"); // remove -185x278
+        let relativeUrl = match[5].replace(/^https?:\/\/[^/]+/, ""); // make /path
+
         featured.push({
           id: match[1],
-          img: match[2],
+          img: imgUrl,
           alt: match[3],
           rating: match[4],
-          url: match[5],
+          url: relativeUrl,
           title: match[6],
           year: match[7],
         });
@@ -39,7 +41,6 @@ export default {
       return new Response(
         JSON.stringify({
           status: "ok",
-          base: baseUrl,
           totalFeatured: featured.length,
           featured,
         }),
