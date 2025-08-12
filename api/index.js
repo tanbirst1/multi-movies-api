@@ -12,30 +12,25 @@ export default async function handler(req, res) {
       return res.status(500).json({ error: "Base URL not found in baseurl.txt" });
     }
 
-    // Step 1: Fetch raw HTML
-    const rawRes = await fetch(baseUrl, {
+    // This URL directly returns the HTML for the featured carousel
+    const ajaxUrl = `${baseUrl}/wp-admin/admin-ajax.php?action=featured_titles`;
+
+    const response = await fetch(ajaxUrl, {
       headers: {
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": "Mozilla/5.0",
+        "Referer": baseUrl
       }
     });
-    if (!rawRes.ok) {
-      return res.status(500).json({ error: `Failed to fetch ${baseUrl}` });
+
+    if (!response.ok) {
+      return res.status(500).json({ error: `Failed to fetch ${ajaxUrl}` });
     }
-    const rawHtml = await rawRes.text();
 
-    // Step 2: Send HTML to formatter API to make it clean
-    const formatRes = await fetch("https://api.codetabs.com/v1/proxy/?quest=https://tools.w3clubs.com/html-beautify", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: new URLSearchParams({ content: rawHtml })
-    });
-    const formattedHtml = await formatRes.text();
-
-    // Step 3: Parse formatted HTML
-    const $ = cheerio.load(formattedHtml);
+    const html = await response.text();
+    const $ = cheerio.load(html);
 
     const featured = [];
-    $("#featured-titles .owl-item article").each((_, el) => {
+    $(".owl-item article").each((_, el) => {
       const title = $(el).find("h3 a").text().trim();
       const year = $(el).find(".data.dfeatur span").text().trim();
       const rating = $(el).find(".rating").text().trim();
