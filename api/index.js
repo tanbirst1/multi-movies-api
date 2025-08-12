@@ -1,48 +1,81 @@
-import fs from "fs";
-import path from "path";
 import fetch from "node-fetch";
 import * as cheerio from "cheerio";
+import fs from "fs";
+import path from "path";
 
 export default async function handler(req, res) {
   try {
-    // Read base URL from ../src/baseurl.txt
-    const baseUrlPath = path.join(process.cwd(), "src", "baseurl.txt");
-    const baseUrl = fs.readFileSync(baseUrlPath, "utf8").trim();
+    // Read base URL from src/baseurl.txt
+    const basePath = path.join(process.cwd(), "src", "baseurl.txt");
+    const baseURL = fs.readFileSync(basePath, "utf8").trim();
 
-    // Step 1: Get raw HTML from the target site
-    const rawHtml = await fetch(baseUrl).then(r => r.text());
+    // Step 1: Get Cloudflare cookies
+    let cookieHeaders = "";
+    const homeResp = await fetch(baseURL, {
+      headers: { "User-Agent": "Mozilla/5.0", "Accept": "text/html" },
+    });
+    const setCookies = homeResp.headers.get("set-cookie");
+    if (setCookies) {
+      cookieHeaders = setCookies
+        .split(",")
+        .map((c) => c.split(";")[0])
+        .join("; ");
+    }
 
-    // Step 2: Send HTML to a formatter API so we get consistent markup
-    const formattedHtml = await fetch("https://www.prettifyhtmlapi.com/api/format", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ html: rawHtml })
-    }).then(r => r.text());
+    // Step 2: Fetch homepage HTML with cookies
+    const response = await fetch(baseURL + "/", {
+      headers: {
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "text/html",
+        "Cookie": cookieHeaders,
+      },
+    });
+    if (!response.ok)
+      return res.status(500).json({ error: `Fetch failed: ${response.status}` });
 
-    // Step 3: Load into Cheerio
-    const $ = cheerio.load(formattedHtml);
+    const html = await response.text();
+    const $ = cheerio.load(html);
 
-    // Step 4: Scrape Featured Titles
+    // Helper: Clean link (make relative from baseURL)
+    function cleanLink(link) {
+      if (!link) return "";
+      if (link.startsWith(baseURL)) return link.replace(baseURL, "");
+      return link;
+    }
+
+    // Helper: Fix image URL (add https: if starts with //)
+    function fixImage(src) {
+      if (!src) return "";
+      if (src.startsWith("//")) return "https:" + src;
+      return src;
+    }
+
+    // Step 3: Scrape Featured Titles
     const featured = [];
-    $("#featured-titles article").each((_, el) => {
-      const poster = $(el).find(".poster img").attr("src") || "";
+    $("#featured-titles .owl-item article").each((i, el) => {
       const title = $(el).find("h3 a").text().trim();
-      const year = $(el).find(".data span").text().trim();
+      const year = $(el).find(".data.dfeatur span").text().trim();
       const rating = $(el).find(".rating").text().trim();
-      const link = $(el).find(".poster a").attr("href") || "";
+      let img = $(el).find(".poster img").attr("src") || $(el).find(".poster img").attr("data-src");
+      let link = $(el).find(".poster a").attr("href");
+
+      img = fixImage(img);
+      link = cleanLink(link);
 
       if (title) {
-        featured.push({ title, year, rating, poster, link });
+        featured.push({ title, year, rating, img, link });
       }
     });
 
+    // Step 4: Send JSON response
     res.status(200).json({
-      baseUrl,
+      status: "ok",
+      base: baseURL,
       totalFeatured: featured.length,
-      featured
+      featured,
     });
 
-  } catch (err) {
-    res.status(500).json({ error: err.message });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
   }
 }
