@@ -1,77 +1,52 @@
-import fetch from 'node-fetch';
-import * as cheerio from 'cheerio';
+// /api/index.js
 import fs from 'fs';
 import path from 'path';
+import cheerio from 'cheerio';
+import fetch from 'node-fetch';
 
 export default async function handler(req, res) {
   try {
-    // Try to read base URL from ../src/baseurl.txt, otherwise default
-    let baseURL;
-    try {
-      const basePath = path.join(process.cwd(), 'src', 'baseurl.txt');
-      baseURL = fs.readFileSync(basePath, 'utf8').trim();
-    } catch {
-      baseURL = 'https://multimovies.coupons/';
-    }
-    baseURL = baseURL.replace(/\/$/, ''); // remove trailing slash
+    // 1. Read base URL from ../src/baseurl.txt
+    const basePath = path.join(process.cwd(), 'src', 'baseurl.txt');
+    const baseUrl = fs.readFileSync(basePath, 'utf8').trim();
 
-    // Get cookies (optional for Cloudflare)
-    let cookieHeaders = '';
-    const homeResp = await fetch(baseURL, {
-      headers: { "User-Agent": "Mozilla/5.0", "Accept": "text/html" }
-    });
-    const setCookies = homeResp.headers.get('set-cookie');
-    if (setCookies) cookieHeaders = setCookies.split(',').map(c => c.split(';')[0]).join('; ');
+    // 2. Fetch fully rendered HTML using an HTML formatter API (jina.ai proxy)
+    const formattedUrl = `https://r.jina.ai/http://${baseUrl.replace(/^https?:\/\//, '')}`;
+    const htmlResponse = await fetch(formattedUrl);
+    const html = await htmlResponse.text();
 
-    // Fetch homepage HTML with cookies
-    const response = await fetch(baseURL + '/', {
-      headers: {
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "text/html",
-        "Cookie": cookieHeaders
-      }
-    });
-    if (!response.ok) {
-      return res.status(500).json({ error: `Fetch failed: ${response.status}` });
-    }
-
-    const html = await response.text();
+    // 3. Parse HTML with cheerio
     const $ = cheerio.load(html);
+    let featured = [];
 
-    // Helper functions
-    function cleanLink(link) {
-      if (!link) return '';
-      if (link.startsWith(baseURL)) return link.replace(baseURL, '');
-      return link;
-    }
-    function fixImage(src) {
-      if (!src) return '';
-      if (src.startsWith('//')) return 'https:' + src;
-      return src;
-    }
-
-    // Scrape Featured Titles
-    const featured = [];
-    $('#featured-titles .owl-item article').each((_, el) => {
+    $('#featured-titles article').each((i, el) => {
+      const img = $(el).find('.poster img').attr('src');
       const title = $(el).find('h3 a').text().trim();
-      const year = $(el).find('.data.dfeatur span').text().trim();
+      const link = $(el).find('h3 a').attr('href');
       const rating = $(el).find('.rating').text().trim();
-      const img = fixImage($(el).find('.poster img').attr('src'));
-      const link = cleanLink($(el).find('.poster a').attr('href'));
+      const year = $(el).find('.data span').text().trim();
 
-      if (title) {
-        featured.push({ title, year, rating, img, link });
-      }
+      featured.push({
+        title,
+        link,
+        img,
+        rating,
+        year
+      });
     });
 
+    // 4. Send response
     res.status(200).json({
-      status: 'ok',
-      base: baseURL,
+      status: "ok",
+      base: baseUrl,
       totalFeatured: featured.length,
       featured
     });
 
-  } catch (error) {
-    res.status(500).json({ error: error.message });
+  } catch (err) {
+    res.status(500).json({
+      status: "error",
+      message: err.message
+    });
   }
 }
