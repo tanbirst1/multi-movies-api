@@ -1,43 +1,36 @@
 import fs from "fs";
 import path from "path";
 import * as cheerio from "cheerio";
+import chromium from "@sparticuz/chromium";
+import playwright from "playwright-core";
 
 export default async function handler(req, res) {
+  let browser;
   try {
-    // Read base URL from ../src/baseurl.txt
     const baseUrlPath = path.join(process.cwd(), "src", "baseurl.txt");
     const baseUrl = fs.readFileSync(baseUrlPath, "utf8").trim();
 
-    if (!baseUrl) {
-      return res.status(500).json({ error: "Base URL not found in baseurl.txt" });
-    }
+    browser = await playwright.chromium.launch({
+      args: chromium.args,
+      executablePath: await chromium.executablePath(),
+      headless: true
+    });
 
-    // Fetch HTML
-    const response = await fetch(baseUrl);
-    if (!response.ok) {
-      return res.status(500).json({ error: `Failed to fetch ${baseUrl}` });
-    }
-    const html = await response.text();
+    const page = await browser.newPage();
+    await page.goto(baseUrl, { waitUntil: "networkidle" });
 
-    // Load HTML into cheerio
+    // Get rendered HTML
+    const html = await page.content();
     const $ = cheerio.load(html);
 
-    // Scrape "Featured titles" section
     const featured = [];
     $("#featured-titles .owl-item article").each((_, el) => {
-      const $el = $(el);
-      const title = $el.find("h3 a").text().trim();
-      const year = $el.find(".data.dfeatur span").text().trim();
-      const rating = $el.find(".rating").text().trim();
-      const img = $el.find(".poster img").attr("src");
-      const link = $el.find(".poster a").attr("href");
-
       featured.push({
-        title,
-        year,
-        rating,
-        img,
-        link
+        title: $(el).find("h3 a").text().trim(),
+        year: $(el).find(".data.dfeatur span").text().trim(),
+        rating: $(el).find(".rating").text().trim(),
+        img: $(el).find(".poster img").attr("src"),
+        link: $(el).find(".poster a").attr("href")
       });
     });
 
@@ -49,5 +42,7 @@ export default async function handler(req, res) {
 
   } catch (err) {
     res.status(500).json({ error: err.message });
+  } finally {
+    if (browser) await browser.close();
   }
 }
