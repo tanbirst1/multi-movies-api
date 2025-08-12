@@ -17,24 +17,42 @@ export default {
       }
 
       const html = await res.text();
-      const featured = [];
 
-      const regex =
-        /<article[^>]*?post-featured-(\d+)[\s\S]*?<img\s+src="([^"]+)"\s+alt="([^"]+)".*?<div class="rating">([^<]+)<\/div>[\s\S]*?<a\s+href="([^"]+)">[\s\S]*?<h3><a[^>]+>([^<]+)<\/a><\/h3>\s*<span>([^<]+)<\/span>/g;
+      // -------- FEATURED SECTION --------
+      const featured = [];
+      const featuredRegex =
+        /<article[^>]*?post-featured-(\d+)[\s\S]*?<img\s+src="([^"]+)".*?<div class="rating">([^<]+)<\/div>[\s\S]*?<a\s+href="([^"]+)">[\s\S]*?<h3><a[^>]+>([^<]+)<\/a><\/h3>\s*<span>([^<]+)<\/span>/g;
 
       let match;
-      while ((match = regex.exec(html)) !== null) {
-        let imgUrl = match[2].replace(/-\d+x\d+(\.\w+)$/, "$1"); // remove -185x278
-        let relativeUrl = match[5].replace(/^https?:\/\/[^/]+/, ""); // make /path
-
+      while ((match = featuredRegex.exec(html)) !== null) {
+        let imgUrl = match[2].replace(/-\d+x\d+(\.\w+)$/, "$1");
+        let relativeUrl = match[4].replace(/^https?:\/\/[^/]+/, "");
         featured.push({
           id: match[1],
           img: imgUrl,
-          alt: match[3],
-          rating: match[4],
+          rating: match[3],
           url: relativeUrl,
-          title: match[6],
-          year: match[7],
+          title: match[5],
+          year: match[6],
+        });
+      }
+
+      // -------- MOVIES SECTION --------
+      const movies = [];
+      const moviesRegex =
+        /<article[^>]*?id="post-(\d+)"[\s\S]*?<img\s+src="([^"]+)".*?<div class="rating">([^<]+)<\/div>[\s\S]*?<a\s+href="([^"]+)">[\s\S]*?<h3><a[^>]+>([^<]+)<\/a><\/h3>\s*<span>([^<]+)<\/span>/g;
+
+      let movieMatch;
+      while ((movieMatch = moviesRegex.exec(html)) !== null) {
+        let imgUrl = movieMatch[2].replace(/-\d+x\d+(\.\w+)$/, "$1");
+        let relativeUrl = movieMatch[4].replace(/^https?:\/\/[^/]+/, "");
+        movies.push({
+          id: movieMatch[1],
+          img: imgUrl,
+          rating: movieMatch[3],
+          url: relativeUrl,
+          title: movieMatch[5],
+          date: movieMatch[6], // full date like "Oct. 11, 2024"
         });
       }
 
@@ -42,7 +60,9 @@ export default {
         JSON.stringify({
           status: "ok",
           totalFeatured: featured.length,
+          totalMovies: movies.length,
           featured,
+          movies,
         }),
         {
           headers: { "Content-Type": "application/json" },
