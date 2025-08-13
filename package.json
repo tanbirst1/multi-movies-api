@@ -5,7 +5,6 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "node-fetch": "^3.3.2",
-    "selenium-webdriver": "^4.22.0",
-    "chromedriver": "^130.0.0"
+    "cloudscraper": "^4.6.0"
   }
 }
