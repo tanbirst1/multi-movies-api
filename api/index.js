@@ -1,6 +1,6 @@
 export default {
   async fetch(request) {
-    const TARGET = "https://multimovies.coupons";
+    const TARGET = "https://multimovies.pro";
 
     try {
       const r = await fetch(TARGET, {
