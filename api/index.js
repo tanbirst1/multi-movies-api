@@ -1,6 +1,20 @@
 export default {
   async fetch(request) {
-    const TARGET = "https://multimovies.pro";
+    // Default target
+    let TARGET = "https://multimovies.pro";
+
+    // Attempt to load custom target from ../src/baseurl.txt
+    try {
+      const urlResponse = await fetch(
+        new URL("../src/baseurl.txt", import.meta.url)
+      );
+      if (urlResponse.ok) {
+        const text = (await urlResponse.text()).trim();
+        if (text) TARGET = text;
+      }
+    } catch (e) {
+      // ignore error, fallback to default
+    }
 
     try {
       const r = await fetch(TARGET, {
@@ -17,7 +31,7 @@ export default {
           "Sec-Fetch-Site": "same-origin",
           "Sec-Fetch-User": "?1",
           "Upgrade-Insecure-Requests": "1",
-          // optionally add cookie if you have
+          // optionally add cookie if needed
           // "Cookie": "somecookie=value",
         },
       });
@@ -31,8 +45,7 @@ export default {
 
       const html = await r.text();
 
-      // (rest of your existing code unchanged below...)
-      // 1) Find positions of all <header>...<h2>SectionName...</h2>...</header>
+      // 1) Find all headers with <h2>SectionName</h2>
       const headerRegex = /<header[^>]*>[\s\S]*?<h2[^>]*>([^<]+)<\/h2>[\s\S]*?<\/header>/gi;
       const headers = [];
       let hMatch;
@@ -65,11 +78,11 @@ export default {
         const idMatch = /post(?:-featured)?-(\d+)/i.exec(blockHtml);
         const id = idMatch ? idMatch[1] : null;
 
-        const imgMatch = /<img[^>]*\bsrc=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
+        const imgMatch = /<img[^>]*\bsrc=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(
+          blockHtml
+        );
         let img = imgMatch ? imgMatch[1] : null;
-        if (img) {
-          img = img.replace(/-\d+x\d+(\.\w{2,6})$/i, "$1");
-        }
+        if (img) img = img.replace(/-\d+x\d+(\.\w{2,6})$/i, "$1");
 
         const ratingMatch = /<div[^>]*\bclass=(?:"|')[^"']*?\brating\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(
           blockHtml
@@ -79,14 +92,20 @@ export default {
         const urlMatch =
           /<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>[^<]*<div[^>]*class=(?:"|')[^"']*?\bsee\b[^"']*(?:"|')/i.exec(
             blockHtml
-          ) || /<h3>[\s\S]*?<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
+          ) || /<h3>[\s\S]*?<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(
+            blockHtml
+          );
         let url = urlMatch ? urlMatch[1] : null;
         if (url) url = url.replace(/^https?:\/\/[^/]+/i, "");
 
-        const titleMatch = /<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>/i.exec(blockHtml);
+        const titleMatch = /<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>/i.exec(
+          blockHtml
+        );
         const title = titleMatch ? titleMatch[1].trim() : null;
 
-        const dateMatch = /<h3[\s\S]*?<\/h3>\s*<span[^>]*>([^<]+)<\/span>/i.exec(blockHtml);
+        const dateMatch = /<h3[\s\S]*?<\/h3>\s*<span[^>]*>([^<]+)<\/span>/i.exec(
+          blockHtml
+        );
         const date = dateMatch ? dateMatch[1].trim() : null;
 
         return { id, img, rating, url, title, date };
@@ -97,9 +116,7 @@ export default {
         const sec = headers[i];
         const nextHeader = headers[i + 1];
         const divStart = findItemsDivStart(sec.headerEnd);
-        if (divStart === -1) {
-          continue;
-        }
+        if (divStart === -1) continue;
         const scanEnd = nextHeader ? nextHeader.headerEnd : -1;
         const articlesHtml = extractArticlesBetween(divStart, scanEnd);
         const items = [];
@@ -107,10 +124,10 @@ export default {
           const item = parseArticleBlock(artHtml);
           if (item.title && item.url) items.push(item);
         }
-
         sections[sec.name] = items;
       }
 
+      // fallback parsing if sections empty
       if (Object.keys(sections).length === 0) {
         const fallback = { featured: [], movies: [] };
         const featuredRegex =
