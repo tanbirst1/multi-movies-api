@@ -350,61 +350,154 @@ export default {
           const cards = simBlock.match(/<article>[\s\S]*?<\/article>/gi) || [];
           for (const card of cards) {
             const href = (/<a href="([^"]+)"/i.exec(card) || [null, null])[1];
-            const alt = (/\balt="([^"]+)"/i.exec(card) || [null, null])[1];
-            if (href) {
-              similar.push({
-                title: decode(alt) || null,
-                url: abs(href),
+// api/index.js
+export default {
+  async fetch(request) {
+    const reqUrl = new URL(request.url);
+    const name = reqUrl.searchParams.get("name");
+    const wantPretty = reqUrl.searchParams.get("pretty") === "1";
+
+    if (!name) {
+      return new Response(JSON.stringify({ error: "Missing ?name={slug}" }), {
+        status: 400,
+        headers: { "Content-Type": "application/json" },
+      });
+    }
+
+    // --- Load base URL from ../src/baseurl.txt (fallback) ---
+    let BASEURL = "https://multimovies.pro";
+    try {
+      const urlResponse = await fetch(new URL("../src/baseurl.txt", import.meta.url));
+      if (urlResponse.ok) {
+        const text = (await urlResponse.text()).trim();
+        if (text) BASEURL = text;
+      }
+    } catch (_) {}
+
+    const targetURL = `${BASEURL.replace(/\/+$/, "")}/tvshows/${name}`;
+
+    try {
+      const r = await fetch(targetURL, {
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
+          Accept:
+            "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+          "Accept-Language": "en-US,en;q=0.9",
+          Connection: "keep-alive",
+          Referer: BASEURL,
+          "Upgrade-Insecure-Requests": "1",
+        },
+      });
+
+      if (!r.ok)
+        return new Response(
+          JSON.stringify({ error: "fetch_failed", status: r.status, target: targetURL }),
+          { status: 502, headers: { "Content-Type": "application/json" } }
+        );
+
+      let html = await r.text();
+
+      // --- HTML formatter ---
+      function formatHTML(s) {
+        return s
+          .replace(/>(\s*)</g, ">\n<")
+          .replace(/<\/(div|li|article|section|span|h\d|p)>/g, "</$1>\n")
+          .replace(/(<li\b)/g, "\n$1")
+          .replace(/(\s){2,}/g, " ")
+          .trim();
+      }
+
+      html = formatHTML(html);
+
+      const decode = (str) =>
+        str
+          ?.replace(/&amp;/g, "&")
+          .replace(/&lt;/g, "<")
+          .replace(/&gt;/g, ">")
+          .replace(/&quot;/g, '"')
+          .replace(/&#39;/g, "'")
+          .trim() ?? null;
+
+      const first = (re, i = 1) => {
+        const m = re.exec(html);
+        return m ? decode(m[i]) : null;
+      };
+      const allMatches = (re, group = 1) => {
+        const out = [];
+        let m;
+        while ((m = re.exec(html)) !== null) out.push(decode(m[group]));
+        return out;
+      };
+
+      const cleanImg = (url) => {
+        if (!url) return null;
+        // Remove size like [-200x300]
+        return url.replace(/\[\-?\d+x\d+\]/, "");
+      };
+
+      // --- Basic data ---
+      const title =
+        first(/<div class="data">\s*<h1[^>]*>([^<]+)<\/h1>/i) ||
+        decode(name.replace(/-/g, " "));
+
+      let poster =
+        first(/<div class="poster">[\s\S]*?<img[^>]+(?:src|data-src)="([^">]+)"/i) || null;
+      poster = cleanImg(poster);
+
+      const seasons = [];
+      // --- Parse episodes per season ---
+      const seasonsBlock = first(/<div id="seasons">([\s\S]*?)<\/div>/i);
+      if (seasonsBlock) {
+        const seCards = seasonsBlock.match(/<div class="se-c">[\s\S]*?<\/div>\s*<\/div>?/gi) || [];
+        let seasonCounter = 1;
+        for (const card of seCards) {
+          const seasonNumber = seasonCounter++;
+          const epListBlock = /<ul class="episodios">([\s\S]*?)<\/ul>/i.exec(card)?.[1];
+          const episodes = [];
+          if (epListBlock) {
+            const epItems = epListBlock.match(/<li\b[^>]*>[\s\S]*?<\/li>/gi) || [];
+            for (const li of epItems) {
+              const epNum = /<div class="numerando">([^<]+)<\/div>/i.exec(li)?.[1]?.trim();
+              const epTitle = /<div class="episodiotitle"><a[^>]*>([^<]+)<\/a>/i.exec(li)?.[1];
+              const epUrl = /<div class="episodiotitle"><a[^>]+href="([^"]+)"/i.exec(li)?.[1];
+              const epDate = /<div class="episodiotitle">[\s\S]*?<span class="date">([^<]+)<\/span>/i.exec(li)?.[1];
+              let epImg =
+                /<div class="imagen">[\s\S]*?<img[^>]+(?:data-src|src)="([^">]+)"/i.exec(li)?.[1];
+              epImg = cleanImg(epImg);
+
+              episodes.push({
+                number: epNum ? `${seasonNumber}x${epNum.split("-").pop().trim()}` : null,
+                title: decode(epTitle),
+                url: epUrl || null, // relative
+                date: decode(epDate),
+                poster: epImg,
               });
             }
           }
+          seasons.push({ season: seasonNumber, episodes });
         }
       }
 
-      // Build response
       const res = {
         status: "ok",
         slug: name,
-        url: targetURL,
         title,
-        original_title,
         poster,
-        date_created: dateCreated, // top-left date in header
-        networks,
-        site_rating: siteRating ? parseFloat(siteRating) : null,
-        site_votes: siteVotes,
-        tmdb_rating: tmdb_rating ? parseFloat(tmdb_rating) : null,
-        tmdb_votes,
-        first_air_date,
-        last_air_date,
-        seasons_count,
-        episodes_count,
-        episodes_total,
-        average_duration,
-        genres,
-        trailer,
-        synopsis,
-        gallery_images,
         seasons,
-        creators,
-        cast,
-        similar,
       };
 
-      if (wantPretty) {
-        // include formatted HTML to help debugging (careful: large!)
-        res.formatted_html = formatted;
-      }
+      if (wantPretty) res.formatted_html = html;
 
       return new Response(JSON.stringify(res, null, 2), {
         status: 200,
         headers: { "Content-Type": "application/json" },
       });
     } catch (err) {
-      return new Response(
-        JSON.stringify({ error: err?.message || String(err) }),
-        { status: 500, headers: { "Content-Type": "application/json" } }
-      );
+      return new Response(JSON.stringify({ error: err?.message || String(err) }), {
+        status: 500,
+        headers: { "Content-Type": "application/json" },
+      });
     }
   },
 };
