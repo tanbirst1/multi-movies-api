@@ -1,60 +1,86 @@
-import fs from 'fs';
-import path from 'path';
-import axios from 'axios';
-import cheerio from 'cheerio';
+// index.js
+import fs from "fs";
+import path from "path";
 
-export default async function handler(req, res) {
-  const { name } = req.query;
-  if (!name) {
-    return res.status(400).json({ error: "Please provide ?name={show-name}" });
-  }
+export default {
+  async fetch(request) {
+    const url = new URL(request.url);
+    const nameParam = url.searchParams.get("name");
+    if (!nameParam) {
+      return new Response(
+        JSON.stringify({ error: "Missing name parameter" }),
+        { status: 400, headers: { "Content-Type": "application/json" } }
+      );
+    }
 
-  try {
-    // Read base URL
-    const basePath = path.join(process.cwd(), 'src', 'baseurl.txt');
-    const baseUrl = fs.readFileSync(basePath, 'utf-8').trim();
-
-    const showUrl = `${baseUrl}/tvshows/${name}`;
-    const { data } = await axios.get(showUrl, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+    // Load base URL from ../src/baseurl.txt
+    let BASEURL = "https://multimovies.pro";
+    try {
+      const baseurlPath = path.resolve("./src/baseurl.txt");
+      if (fs.existsSync(baseurlPath)) {
+        const text = fs.readFileSync(baseurlPath, "utf-8").trim();
+        if (text) BASEURL = text;
       }
-    });
+    } catch (e) {
+      // fallback to default
+    }
 
-    const $ = cheerio.load(data);
+    const targetURL = `${BASEURL}/tvshows/${nameParam}`;
 
-    // Title
-    const title = $('h1[itemprop="name"]').text().trim();
-
-    // Description
-    const description = $('div.description').text().trim() || $('div[itemprop="description"]').text().trim();
-
-    // Cover Image
-    const coverImage = $('div.thumb img').attr('src') || $('img[itemprop="image"]').attr('src');
-
-    // Episodes list
-    const episodes = [];
-    $('ul.episodes li a').each((i, el) => {
-      const epTitle = $(el).text().trim();
-      const epUrl = $(el).attr('href');
-      episodes.push({
-        episode: epTitle,
-        url: epUrl.startsWith('http') ? epUrl : `${baseUrl}${epUrl}`
+    try {
+      const res = await fetch(targetURL, {
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
+          "Accept":
+            "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        },
       });
-    });
 
-    res.json({
-      baseUrl,
-      showUrl,
-      title,
-      description,
-      coverImage,
-      totalEpisodes: episodes.length,
-      episodes
-    });
+      if (!res.ok) {
+        return new Response(
+          JSON.stringify({ error: "fetch_failed", status: res.status }),
+          { status: 502, headers: { "Content-Type": "application/json" } }
+        );
+      }
 
-  } catch (err) {
-    console.error(err.message);
-    res.status(500).json({ error: "Failed to fetch show details" });
-  }
-}
+      const html = await res.text();
+
+      // Extract episode list
+      const episodeRegex =
+        /<li[^>]*>\s*<a[^>]*href="([^"]+)"[^>]*>([^<]+)<\/a>\s*<\/li>/gi;
+
+      let episodes = [];
+      let match;
+      while ((match = episodeRegex.exec(html)) !== null) {
+        episodes.push({
+          url: match[1].replace(/^https?:\/\/[^/]+/i, ""),
+          title: match[2].trim(),
+        });
+      }
+
+      // Extract main show info
+      const titleMatch = /<h1[^>]*>([^<]+)<\/h1>/i.exec(html);
+      const title = titleMatch ? titleMatch[1].trim() : nameParam;
+
+      const imgMatch = /<img[^>]*class="[^"]*wp-post-image[^"]*"[^>]*src="([^"]+)"/i.exec(html);
+      const img = imgMatch ? imgMatch[1] : null;
+
+      const summary = { total_episodes: episodes.length };
+
+      return new Response(
+        JSON.stringify(
+          { status: "ok", title, img, summary, episodes },
+          null,
+          2
+        ),
+        { status: 200, headers: { "Content-Type": "application/json" } }
+      );
+    } catch (err) {
+      return new Response(
+        JSON.stringify({ error: err.message || String(err) }),
+        { status: 500, headers: { "Content-Type": "application/json" } }
+      );
+    }
+  },
+};
