@@ -1,4 +1,4 @@
-// index.js
+// api/index.js
 import fs from "fs";
 import path from "path";
 
@@ -7,12 +7,11 @@ export default {
     try {
       const url = new URL(request.url);
       const name = url.searchParams.get("name");
-      if (!name) {
-        return new Response(
-          JSON.stringify({ error: "Missing name parameter" }),
-          { status: 400, headers: { "Content-Type": "application/json" } }
-        );
-      }
+      if (!name)
+        return new Response(JSON.stringify({ error: "Missing name parameter" }), {
+          status: 400,
+          headers: { "Content-Type": "application/json" },
+        });
 
       // Load base URL
       let BASEURL = "https://multimovies.pro";
@@ -25,7 +24,6 @@ export default {
       } catch (e) {}
 
       const targetURL = `${BASEURL}/tvshows/${name}`;
-
       const res = await fetch(targetURL, {
         headers: {
           "User-Agent":
@@ -36,57 +34,50 @@ export default {
       });
 
       if (!res.ok)
-        return new Response(
-          JSON.stringify({ error: "fetch_failed", status: res.status }),
-          { status: 502, headers: { "Content-Type": "application/json" } }
-        );
+        return new Response(JSON.stringify({ error: "fetch_failed", status: res.status }), {
+          status: 502,
+          headers: { "Content-Type": "application/json" },
+        });
 
       const html = await res.text();
 
-      // --- Basic show info ---
-      const titleMatch = /<h1[^>]*>([^<]+)<\/h1>/i.exec(html);
-      const title = titleMatch ? titleMatch[1].trim() : name;
+      // --- Show info ---
+      const title = (/<h1[^>]*>([^<]+)<\/h1>/i.exec(html) || [null, name])[1].trim();
 
-      const originalTitleMatch = /Original title<\/strong>\s*([^<\n]+)/i.exec(html);
-      const original_title = originalTitleMatch ? originalTitleMatch[1].trim() : null;
+      const original_title =
+        (/<strong>\s*Original title\s*<\/strong>\s*([^<]+)/i.exec(html) || [null, null])[1]?.trim() ||
+        null;
 
-      const posterMatch = /<img[^>]*data-src="([^"]+)"[^>]*class="[^"]*wp-post-image[^"]*"/i.exec(html);
-      const poster = posterMatch ? posterMatch[1] : null;
+      const poster =
+        (/<div class="galeria"[\s\S]*?<img[^>]*data-src="([^"]+)"/i.exec(html) || [null, null])[1] || null;
 
-      const tmdbMatch = /TMDb Rating<\/strong>\s*([\d.]+)\s*[^<]+<[^>]*>\s*(\d+)\s*votes/i.exec(html);
+      const tmdbMatch = /TMDb Rating<\/strong>\s*([\d.]+).*?(\d+)\s*votes/i.exec(html);
       const tmdb_rating = tmdbMatch ? tmdbMatch[1] : null;
       const tmdb_votes = tmdbMatch ? parseInt(tmdbMatch[2]) : null;
 
-      const firstAirMatch = /First air date<\/strong>\s*([^<]+)/i.exec(html);
-      const first_air_date = firstAirMatch ? firstAirMatch[1].trim() : null;
+      const first_air_date =
+        (/<strong>\s*First air date\s*<\/strong>\s*([^<]+)/i.exec(html) || [null, null])[1]?.trim() || null;
+      const last_air_date =
+        (/<strong>\s*Last air date\s*<\/strong>\s*([^<]+)/i.exec(html) || [null, null])[1]?.trim() || null;
 
-      const lastAirMatch = /Last air date<\/strong>\s*([^<]+)/i.exec(html);
-      const last_air_date = lastAirMatch ? lastAirMatch[1].trim() : null;
-
-      const seasonsMatch = /Seasons<\/strong>\s*(\d+)/i.exec(html);
-      const seasons_count = seasonsMatch ? parseInt(seasonsMatch[1]) : 0;
-
-      const episodesMatch = /Episodes<\/strong>\s*(\d+)/i.exec(html);
-      const episodes_count = episodesMatch ? parseInt(episodesMatch[1]) : 0;
-
-      const durationMatch = /Average Duration<\/strong>\s*([\d\s\w]+)/i.exec(html);
-      const average_duration = durationMatch ? durationMatch[1].trim() : null;
+      const seasons_count = parseInt((/<strong>\s*Seasons\s*<\/strong>\s*(\d+)/i.exec(html) || [0, 0])[1]);
+      const episodes_count = parseInt((/<strong>\s*Episodes\s*<\/strong>\s*(\d+)/i.exec(html) || [0, 0])[1]);
+      const average_duration =
+        (/<strong>\s*Average Duration\s*<\/strong>\s*([^<]+)/i.exec(html) || [null, null])[1]?.trim() || null;
 
       // --- Genres ---
-      const genreRegex = /<a[^>]*href="[^"]*\/genre\/[^"]+"[^>]*>([^<]+)<\/a>/gi;
       const genres = [];
+      const genreRegex = /<a[^>]*\/genre\/[^"]+[^>]*>([^<]+)<\/a>/gi;
       let gm;
-      while ((gm = genreRegex.exec(html)) !== null) {
-        genres.push(gm[1].trim());
-      }
+      while ((gm = genreRegex.exec(html)) !== null) genres.push(gm[1].trim());
 
       // --- Trailer ---
       const trailerMatch = /<iframe[^>]+src="([^"]+)"[^>]*><\/iframe>/i.exec(html);
       const trailer = trailerMatch ? trailerMatch[1] : null;
 
       // --- Seasons & episodes ---
-      const seasonRegex = /<span class="se-t">(\d+)<\/span><span class="title">Season\s*\d+\s*<i>([^<]+)<\/i>/gi;
       const seasons = [];
+      const seasonRegex = /<span class="se-t">(\d+)<\/span>[\s\S]*?Season\s*\d+\s*<i>([^<]+)<\/i>/gi;
       let sm;
       while ((sm = seasonRegex.exec(html)) !== null) {
         const seasonNumber = parseInt(sm[1]);
@@ -101,7 +92,6 @@ export default {
         const epUrl = em[2];
         const epTitle = em[3].trim();
         const epDate = em[4].trim();
-        // Find season index
         const seasonIndex = parseInt(epNumber.split("-")[0]) - 1;
         if (seasons[seasonIndex]) {
           seasons[seasonIndex].episodes.push({ number: epNumber, title: epTitle, url: epUrl, date: epDate });
@@ -133,9 +123,7 @@ export default {
       const simRegex = /<a href="([^"]+)"[^>]*>([^<]+)<\/a>/gi;
       let sim;
       while ((sim = simRegex.exec(html)) !== null) {
-        if (sim[1].includes("/tvshows/")) {
-          similar.push({ url: sim[1], title: sim[2].trim() });
-        }
+        if (sim[1].includes("/tvshows/")) similar.push({ url: sim[1], title: sim[2].trim() });
       }
 
       return new Response(
@@ -164,10 +152,10 @@ export default {
         { status: 200, headers: { "Content-Type": "application/json" } }
       );
     } catch (err) {
-      return new Response(
-        JSON.stringify({ error: err.message || String(err) }),
-        { status: 500, headers: { "Content-Type": "application/json" } }
-      );
+      return new Response(JSON.stringify({ error: err.message || String(err) }), {
+        status: 500,
+        headers: { "Content-Type": "application/json" },
+      });
     }
   },
 };
