@@ -1,161 +1,229 @@
-// api/index.js
-import fs from "fs";
-import path from "path";
-
 export default {
   async fetch(request) {
+    // Default target
+    let TARGET = "https://multimovies.pro";
+
+    // Attempt to load custom target from ../src/baseurl.txt
     try {
-      const url = new URL(request.url);
-      const name = url.searchParams.get("name");
-      if (!name)
-        return new Response(JSON.stringify({ error: "Missing name parameter" }), {
-          status: 400,
-          headers: { "Content-Type": "application/json" },
-        });
+      const urlResponse = await fetch(
+        new URL("../src/baseurl.txt", import.meta.url)
+      );
+      if (urlResponse.ok) {
+        const text = (await urlResponse.text()).trim();
+        if (text) TARGET = text;
+      }
+    } catch (e) {
+      // ignore error, fallback to default
+    }
 
-      // Load base URL
-      let BASEURL = "https://multimovies.pro";
-      try {
-        const baseurlPath = path.resolve("./src/baseurl.txt");
-        if (fs.existsSync(baseurlPath)) {
-          const txt = fs.readFileSync(baseurlPath, "utf-8").trim();
-          if (txt) BASEURL = txt;
-        }
-      } catch (e) {}
+    try {
+      const urlObj = new URL(request.url);
+      const name = urlObj.searchParams.get('name');
+      if (!name) {
+        return new Response(
+          JSON.stringify({ error: "name parameter is required" }),
+          { status: 400, headers: { "Content-Type": "application/json" } }
+        );
+      }
 
-      const targetURL = `${BASEURL}/tvshows/${name}`;
-      const res = await fetch(targetURL, {
+      const targetUrl = `${TARGET}/tvshows/${name}/`;
+
+      const r = await fetch(targetUrl, {
         headers: {
           "User-Agent":
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
-          Accept:
-            "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+          "Accept":
+            "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Referer": "https://multimovies.coupons/",
+          "Sec-Fetch-Dest": "document",
+          "Sec-Fetch-Mode": "navigate",
+          "Sec-Fetch-Site": "same-origin",
+          "Sec-Fetch-User": "?1",
+          "Upgrade-Insecure-Requests": "1",
+          // optionally add cookie if needed
+          // "Cookie": "somecookie=value",
         },
       });
 
-      if (!res.ok)
-        return new Response(JSON.stringify({ error: "fetch_failed", status: res.status }), {
-          status: 502,
-          headers: { "Content-Type": "application/json" },
-        });
-
-      const html = await res.text();
-
-      // --- Show info ---
-      const title = (/<h1[^>]*>([^<]+)<\/h1>/i.exec(html) || [null, name])[1].trim();
-
-      const original_title =
-        (/<strong>\s*Original title\s*<\/strong>\s*([^<]+)/i.exec(html) || [null, null])[1]?.trim() ||
-        null;
-
-      const poster =
-        (/<div class="galeria"[\s\S]*?<img[^>]*data-src="([^"]+)"/i.exec(html) || [null, null])[1] || null;
-
-      const tmdbMatch = /TMDb Rating<\/strong>\s*([\d.]+).*?(\d+)\s*votes/i.exec(html);
-      const tmdb_rating = tmdbMatch ? tmdbMatch[1] : null;
-      const tmdb_votes = tmdbMatch ? parseInt(tmdbMatch[2]) : null;
-
-      const first_air_date =
-        (/<strong>\s*First air date\s*<\/strong>\s*([^<]+)/i.exec(html) || [null, null])[1]?.trim() || null;
-      const last_air_date =
-        (/<strong>\s*Last air date\s*<\/strong>\s*([^<]+)/i.exec(html) || [null, null])[1]?.trim() || null;
-
-      const seasons_count = parseInt((/<strong>\s*Seasons\s*<\/strong>\s*(\d+)/i.exec(html) || [0, 0])[1]);
-      const episodes_count = parseInt((/<strong>\s*Episodes\s*<\/strong>\s*(\d+)/i.exec(html) || [0, 0])[1]);
-      const average_duration =
-        (/<strong>\s*Average Duration\s*<\/strong>\s*([^<]+)/i.exec(html) || [null, null])[1]?.trim() || null;
-
-      // --- Genres ---
-      const genres = [];
-      const genreRegex = /<a[^>]*\/genre\/[^"]+[^>]*>([^<]+)<\/a>/gi;
-      let gm;
-      while ((gm = genreRegex.exec(html)) !== null) genres.push(gm[1].trim());
-
-      // --- Trailer ---
-      const trailerMatch = /<iframe[^>]+src="([^"]+)"[^>]*><\/iframe>/i.exec(html);
-      const trailer = trailerMatch ? trailerMatch[1] : null;
-
-      // --- Seasons & episodes ---
-      const seasons = [];
-      const seasonRegex = /<span class="se-t">(\d+)<\/span>[\s\S]*?Season\s*\d+\s*<i>([^<]+)<\/i>/gi;
-      let sm;
-      while ((sm = seasonRegex.exec(html)) !== null) {
-        const seasonNumber = parseInt(sm[1]);
-        const seasonDate = sm[2].trim();
-        seasons.push({ season: seasonNumber, date: seasonDate, episodes: [] });
+      if (!r.ok) {
+        return new Response(
+          JSON.stringify({ error: "fetch_failed", status: r.status }),
+          { status: 502, headers: { "Content-Type": "application/json" } }
+        );
       }
 
-      const episodeRegex = /<li class="mark-[^"]*">[\s\S]*?<div class="numerando">([\d\s\-]+)<\/div>[\s\S]*?<div class="episodiotitle"><a href="([^"]+)">([^<]+)<\/a>\s*<span class="date">([^<]+)<\/span>/gi;
-      let em;
-      while ((em = episodeRegex.exec(html)) !== null) {
-        const epNumber = em[1].trim();
-        const epUrl = em[2];
-        const epTitle = em[3].trim();
-        const epDate = em[4].trim();
-        const seasonIndex = parseInt(epNumber.split("-")[0]) - 1;
-        if (seasons[seasonIndex]) {
-          seasons[seasonIndex].episodes.push({ number: epNumber, title: epTitle, url: epUrl, date: epDate });
+      const html = await r.text();
+
+      const data = {};
+
+      // Extract title
+      const titleRegex = /<h1>([^<]+)<\/h1>/;
+      data.title = titleRegex.exec(html)?.[1] || '';
+
+      // Extract poster
+      const posterRegex = /<div class="poster">\s*<img[^>]*data-src="([^"]+)"[^>]*alt="([^"]+)"[^>]*class="lazy-loaded"[^>]*>/;
+      const posterMatch = posterRegex.exec(html);
+      data.poster = posterMatch ? posterMatch[1] : '';
+      data.posterAlt = posterMatch ? posterMatch[2] : '';
+
+      // Extract date
+      const dateRegex = /<span class="date" itemprop="dateCreated">([^<]+)<\/span>/;
+      data.date = dateRegex.exec(html)?.[1] || '';
+
+      // Extract networks
+      data.networks = [];
+      const networkRegex = /<a href="https:\/\/multimovies\.pro\/network\/[^"]+" rel="tag">([^<]+)<\/a>/g;
+      let match;
+      while ((match = networkRegex.exec(html)) !== null) {
+        data.networks.push(match[1]);
+      }
+
+      // Extract genres
+      data.genres = [];
+      const genreRegex = /<a href="https:\/\/multimovies\.pro\/genre\/[^"]+" rel="tag">([^<]+)<\/a>/g;
+      while ((match = genreRegex.exec(html)) !== null) {
+        data.genres.push(match[1]);
+      }
+
+      // Extract rating
+      const ratingValueRegex = /<span class="dt_rating_vgs" itemprop="ratingValue">([^<]+)<\/span>/;
+      data.ratingValue = ratingValueRegex.exec(html)?.[1] || '';
+      const ratingCountRegex = /<span class="rating-count" itemprop="ratingCount">([^<]+)<\/span>/;
+      data.ratingCount = ratingCountRegex.exec(html)?.[1] || '';
+
+      // Extract seasons and episodes
+      data.seasons = [];
+      const episodesDivRegex = /<div id="episodes" class="sbox fixidtab" style="display: block;">([\s\S]*?)<\/div>/;
+      const episodesContent = episodesDivRegex.exec(html)?.[1] || '';
+      if (episodesContent) {
+        const seasonRegex = /<div class="se-c">([\s\S]*?)<\/div>/g;
+        let seasonMatch;
+        while ((seasonMatch = seasonRegex.exec(episodesContent)) !== null) {
+          const seasonContent = seasonMatch[1];
+          const seasonNumRegex = /<span class="se-t(?: se-o)?">(\d+)<\/span>/;
+          const seasonNum = seasonNumRegex.exec(seasonContent)?.[1] || '';
+          const seasonTitleRegex = /<span class="title">Season \d+ <i>([^<]+)<\/i><\/span>/;
+          const seasonDate = seasonTitleRegex.exec(seasonContent)?.[1] || '';
+          const episodes = [];
+          const ulRegex = /<ul class="episodios">([\s\S]*?)<\/ul>/;
+          const ulContent = ulRegex.exec(seasonContent)?.[1] || '';
+          const epLiRegex = /<li class="mark-\d+">([\s\S]*?)<\/li>/g;
+          let epMatch;
+          while ((epMatch = epLiRegex.exec(ulContent)) !== null) {
+            const epContent = epMatch[1];
+            const imgRegex = /<img[^>]*data-src="([^"]+)"[^>]*>/;
+            const img = imgRegex.exec(epContent)?.[1] || '';
+            const numRegex = /<div class="numerando">([^<]+)<\/div>/;
+            const num = numRegex.exec(epContent)?.[1] || '';
+            const titleRegex = /<div class="episodiotitle"><a href="([^"]+)">([^<]+)<\/a> <span class="date">([^<]+)<\/span><\/div>/;
+            const titleMatch = titleRegex.exec(epContent);
+            const ep = {
+              img,
+              num,
+              url: titleMatch ? titleMatch[1] : '',
+              title: titleMatch ? titleMatch[2] : '',
+              date: titleMatch ? titleMatch[3] : '',
+            };
+            episodes.push(ep);
+          }
+          data.seasons.push({
+            season: seasonNum,
+            date: seasonDate,
+            episodes,
+          });
         }
       }
+      data.totalEpisodes = data.seasons.reduce((acc, s) => acc + s.episodes.length, 0);
 
-      // --- Cast & creators ---
-      const cast = [];
-      const castRegex = /<div class="person"[^>]*>([\s\S]*?)<\/div>\s*<\/div>\s*<\/div>/gi;
-      let cm;
-      while ((cm = castRegex.exec(html)) !== null) {
-        const block = cm[1];
-        const nameMatch = /<div class="name"><a[^>]*>([^<]+)<\/a><\/div>/i.exec(block);
-        const roleMatch = /<div class="caracter">([^<]+)<\/div>/i.exec(block);
-        const imgMatch = /data-src="([^"]+)"/i.exec(block);
-        const urlMatch = /<a[^>]*href="([^"]+)"/i.exec(block);
-        if (nameMatch && roleMatch) {
-          cast.push({
-            name: nameMatch[1].trim(),
-            role: roleMatch[1].trim(),
-            image: imgMatch ? imgMatch[1] : null,
-            url: urlMatch ? urlMatch[1] : null,
+      // Extract cast
+      data.cast = [];
+      const castDivRegex = /<div id="cast" class="sbox fixidtab" style="display: none;">([\s\S]*?)<\/div>/;
+      const castContent = castDivRegex.exec(html)?.[1] || '';
+      if (castContent) {
+        const personRegex = /<div class="person" itemprop="actor" itemscope="" itemtype="http:\/\/schema.org\/Person">([\s\S]*?)<\/div>/g;
+        let personMatch;
+        while ((personMatch = personRegex.exec(castContent)) !== null) {
+          const personContent = personMatch[1];
+          const nameMetaRegex = /<meta itemprop="name" content="([^"]+)" \/>/;
+          const metaName = nameMetaRegex.exec(personContent)?.[1] || '';
+          const imgRegex = /<img[^>]*data-src="([^"]+)"[^>]*alt="([^"]+)"[^>]*>/;
+          const imgMatch = imgRegex.exec(personContent);
+          const img = imgMatch ? imgMatch[1] : '';
+          const alt = imgMatch ? imgMatch[2] : '';
+          const linkRegex = /<div class="name"><a itemprop="url" href="([^"]+)">([^<]+)<\/a><\/div>/;
+          const linkMatch = linkRegex.exec(personContent);
+          const url = linkMatch ? linkMatch[1] : '';
+          const name = linkMatch ? linkMatch[2] : '';
+          const charRegex = /<div class="caracter">([^<]+)<\/div>/;
+          const character = charRegex.exec(personContent)?.[1] || '';
+          data.cast.push({
+            metaName,
+            img,
+            alt,
+            url,
+            name,
+            character,
           });
         }
       }
 
-      // --- Similar titles ---
-      const similar = [];
-      const simRegex = /<a href="([^"]+)"[^>]*>([^<]+)<\/a>/gi;
-      let sim;
-      while ((sim = simRegex.exec(html)) !== null) {
-        if (sim[1].includes("/tvshows/")) similar.push({ url: sim[1], title: sim[2].trim() });
+      // Extract trailer
+      const trailerRegex = /<iframe class="rptss" src="([^"]+)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""><\/iframe>/;
+      data.trailer = trailerRegex.exec(html)?.[1] || '';
+
+      // Extract synopsis
+      const synopsisRegex = /<h2>Synopsis<\/h2>\s*<div class="wp-content">\s*<p>([\s\S]*?)<\/p>/;
+      data.synopsis = synopsisRegex.exec(html)?.[1].replace(/\s+/g, ' ').trim() || '';
+
+      // Extract gallery
+      data.gallery = [];
+      const galleryRegex = /<a\s+href="([^"]+)"[^>]*title="[^"]*">\s*<img[^>]*data-src="([^"]+)"[^>]*>/g;
+      while ((match = galleryRegex.exec(html)) !== null) {
+        data.gallery.push({
+          full: match[1],
+          thumb: match[2],
+        });
+      }
+
+      // Extract custom fields
+      data.fields = {};
+      const fieldsRegex = /<div class="custom_fields"><b class="variante">([^<]+)<\/b> <span class="valor">([^<]+)<\/span><\/div>/g;
+      while ((match = fieldsRegex.exec(html)) !== null) {
+        let key = match[1].trim();
+        let value = match[2].trim();
+        data.fields[key] = value;
+      }
+      // Special handling for TMDb Rating if needed
+      if (data.fields['TMDb Rating']) {
+        const tmdbRegex = /<strong>(\d+)<\/strong> (\d+ votes)/;
+        const tmdbMatch = tmdbRegex.exec(data.fields['TMDb Rating']);
+        if (tmdbMatch) {
+          data.fields['TMDb Rating'] = { rating: tmdbMatch[1], votes: tmdbMatch[2] };
+        }
+      }
+
+      // Extract similar titles
+      data.similar = [];
+      const similarRegex = /<article>\s*<a href="([^"]+)">\s*<img[^>]*data-src="([^"]+)"[^>]*alt="([^"]+)"[^>]*\/>\s*<\/a>\s*<\/article>/g;
+      while ((match = similarRegex.exec(html)) !== null) {
+        data.similar.push({
+          url: match[1],
+          img: match[2],
+          title: match[3],
+        });
       }
 
       return new Response(
-        JSON.stringify(
-          {
-            status: "ok",
-            title,
-            original_title,
-            poster,
-            tmdb_rating,
-            tmdb_votes,
-            first_air_date,
-            last_air_date,
-            seasons_count,
-            episodes_count,
-            average_duration,
-            genres,
-            trailer,
-            seasons,
-            cast,
-            similar,
-          },
-          null,
-          2
-        ),
+        JSON.stringify(data, null, 2),
         { status: 200, headers: { "Content-Type": "application/json" } }
       );
     } catch (err) {
-      return new Response(JSON.stringify({ error: err.message || String(err) }), {
-        status: 500,
-        headers: { "Content-Type": "application/json" },
-      });
+      return new Response(
+        JSON.stringify({ error: err.message || String(err) }),
+        { status: 500, headers: { "Content-Type": "application/json" } }
+      );
     }
   },
 };
