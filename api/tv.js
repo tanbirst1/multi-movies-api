@@ -1,117 +1,135 @@
-// api/index.js
-export default {
-  async fetch(request) {
-    try {
-      const reqUrl = new URL(request.url);
-      const name = reqUrl.searchParams.get("name");
-      const wantPretty = reqUrl.searchParams.get("pretty") === "1";
+const axios = require('axios');
+const cheerio = require('cheerio');
 
-      if (!name) {
-        return new Response(JSON.stringify({ error: "Missing ?name={slug}" }), {
-          status: 400,
-          headers: { "Content-Type": "application/json" },
-        });
+async function scrapeWebsite(https://multimovies.pro) {
+  try {
+    // Fetch the HTML content
+    const response = await axios.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
       }
+    });
+    const html = response.data;
 
-      // Base URL
-      const BASEURL = "https://multimovies.pro";
-      const targetURL = `${BASEURL.replace(/\/+$/, "")}/tvshows/${name}`;
+    // Load HTML into cheerio
+    const $ = cheerio.load(html);
 
-      // Fetch HTML
-      const r = await fetch(targetURL, {
-        headers: {
-          "User-Agent":
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
-          Accept:
-            "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-          "Accept-Language": "en-US,en;q=0.9",
-          Connection: "keep-alive",
-          Referer: BASEURL,
-        },
+    // Extract title
+    const title = $('h1').first().text().trim();
+
+    // Extract poster
+    const poster = $('.poster img').attr('src') || $('.poster img').attr('data-src');
+
+    // Extract genres
+    const genres = $('.sgeneros a').map((i, el) => $(el).text().trim()).get();
+
+    // Extract networks
+    const networks = $('.extra span a').map((i, el) => $(el).text().trim()).get();
+
+    // Extract rating
+    const rating = $('.dt_rating_vgs').text().trim();
+    const ratingCount = $('.rating-count').text().trim();
+
+    // Extract synopsis
+    const synopsis = $('#info .wp-content p').text().trim();
+
+    // Extract seasons and episodes
+    const seasons = [];
+    $('#seasons .se-c').each((i, seasonEl) => {
+      const seasonNumber = $(seasonEl).find('.se-t').text().trim();
+      const seasonTitle = $(seasonEl).find('.title').text().trim();
+      const episodes = [];
+
+      $(seasonEl).find('.episodios li').each((j, episodeEl) => {
+        const episodeNumber = $(episodeEl).find('.numerando').text().trim();
+        const episodeTitle = $(episodeEl).find('.episodiotitle a').text().trim();
+        const episodeUrl = $(episodeEl).find('.episodiotitle a').attr('href');
+        const episodeDate = $(episodeEl).find('.episodiotitle .date').text().trim();
+        const episodeImage = $(episodeEl).find('.imagen img').attr('data-src') || $(episodeEl).find('.imagen img').attr('src');
+
+        episodes.push({
+          episodeNumber,
+          title: episodeTitle,
+          url: episodeUrl,
+          date: episodeDate,
+          image: episodeImage
+        });
       });
 
-      if (!r.ok) {
-        return new Response(
-          JSON.stringify({ error: "fetch_failed", status: r.status, target: targetURL }),
-          { status: 502, headers: { "Content-Type": "application/json" } }
-        );
-      }
+      seasons.push({
+        seasonNumber,
+        title: seasonTitle,
+        episodes
+      });
+    });
 
-      let html = await r.text();
+    // Extract cast
+    const cast = [];
+    $('#cast .person').each((i, personEl) => {
+      const name = $(personEl).find('.data .name a').text().trim();
+      const character = $(personEl).find('.data .caracter').text().trim();
+      const image = $(personEl).find('.img img').attr('data-src') || $(personEl).find('.img img').attr('src');
 
-      // --- HTML formatter ---
-      function formatHTML(s) {
-        return s
-          .replace(/>(\s*)</g, ">\n<")
-          .replace(/<\/(div|li|article|section|span|h\d|p)>/g, "</$1>\n")
-          .replace(/(<li\b)/g, "\n$1")
-          .replace(/(\s){2,}/g, " ")
-          .trim();
-      }
+      cast.push({
+        name,
+        character,
+        image
+      });
+    });
 
-      html = formatHTML(html);
+    // Extract additional metadata
+    const metadata = {};
+    $('.custom_fields').each((i, el) => {
+      const key = $(el).find('.variante').text().trim().replace(/\s+/g, '_').toLowerCase();
+      const value = $(el).find('.valor').text().trim();
+      metadata[key] = value;
+    });
 
-      const decode = (str) =>
-        str
-          ?.replace(/&amp;/g, "&")
-          .replace(/&lt;/g, "<")
-          .replace(/&gt;/g, ">")
-          .replace(/&quot;/g, '"')
-          .replace(/&#39;/g, "'")
-          .trim() ?? null;
+    // Construct the response object
+    return {
+      status: 'ok',
+      slug: $('meta[id="dooplay-ajax-counter"]').attr('data-postid'),
+      title,
+      poster,
+      genres,
+      networks,
+      rating,
+      ratingCount,
+      synopsis,
+      seasons,
+      cast,
+      metadata
+    };
+  } catch (error) {
+    console.error('Scraping error:', error.message);
+    return {
+      status: 'error',
+      message: error.message
+    };
+  }
+}
 
-      const first = (re, i = 1) => {
-        const m = re.exec(html);
-        return m ? decode(m[i]) : null;
-      };
+// Vercel serverless function handler
+module.exports = async (req, res) => {
+  // Handle CORS
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
 
-      const cleanImg = (url) => (url ? url.replace(/\[\-?\d+x\d+\]/, "") : null);
+  if (req.method === 'OPTIONS') {
+    return res.status(200).end();
+  }
 
-      // --- Title & Poster ---
-      const title = first(/<div class="data">\s*<h1[^>]*>([^<]+)<\/h1>/i) || decode(name.replace(/-/g, " "));
-      let poster = first(/<div class="poster">[\s\S]*?<img[^>]+(?:src|data-src)="([^">]+)"/i);
-      poster = cleanImg(poster);
+  // Get URL from query parameter or use default
+  const url = req.query.url || 'https://multimovies.pro/tvshows/a-couple-of-cuckoos/';
 
-      // --- Seasons & Episodes ---
-      const seasons = [];
-      const seasonsBlock = first(/<div id="seasons">([\s\S]*?)<\/div>/i);
-      if (seasonsBlock) {
-        const seCards = seasonsBlock.match(/<div class="se-c">[\s\S]*?<\/div>\s*<\/div>?/gi) || [];
-        let seasonCounter = 1;
-        for (const card of seCards) {
-          const seasonNumber = seasonCounter++;
-          const epListBlock = /<ul class="episodios">([\s\S]*?)<\/ul>/i.exec(card)?.[1];
-          const episodes = [];
-          if (epListBlock) {
-            const epItems = epListBlock.match(/<li\b[^>]*>[\s\S]*?<\/li>/gi) || [];
-            for (const li of epItems) {
-              const epNum = /<div class="numerando">([^<]+)<\/div>/i.exec(li)?.[1]?.trim();
-              const epTitle = /<div class="episodiotitle"><a[^>]*>([^<]+)<\/a>/i.exec(li)?.[1];
-              const epUrl = /<div class="episodiotitle"><a[^>]+href="([^"]+)"/i.exec(li)?.[1];
-              const epDate = /<div class="episodiotitle">[\s\S]*?<span class="date">([^<]+)<\/span>/i.exec(li)?.[1];
-              let epImg =
-                /<div class="imagen">[\s\S]*?<img[^>]+(?:data-src|src)="([^">]+)"/i.exec(li)?.[1];
-              epImg = cleanImg(epImg);
-
-              episodes.push({
-                number: epNum ? `${seasonNumber}x${epNum.split("-").pop().trim()}` : null,
-                title: decode(epTitle),
-                url: epUrl || null,
-                date: decode(epDate),
-                poster: epImg,
-              });
-            }
-          }
-          seasons.push({ season: seasonNumber, episodes });
-        }
-      }
-
-      const res = { status: "ok", slug: name, title, poster, seasons };
-      if (wantPretty) res.formatted_html = html;
-
-      return new Response(JSON.stringify(res, null, 2), { status: 200, headers: { "Content-Type": "application/json" } });
-    } catch (err) {
-      return new Response(JSON.stringify({ error: err?.message || String(err) }), { status: 500, headers: { "Content-Type": "application/json" } });
-    }
-  },
+  try {
+    const data = await scrapeWebsite(url);
+    res.status(200).json(data);
+  } catch (error) {
+    res.status(500).json({
+      status: 'error',
+      message: error.message
+    });
+  }
 };
