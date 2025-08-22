@@ -65,35 +65,32 @@ export default {
       const posterTag = first(/<div class="poster">[\s\S]*?(<img[^>]+>)/i, html, 1);
       const poster = preferDataSrc(posterTag);
 
-      // --- Episodes (inside ul.episodios) ---
-      const ulBlock = first(/<ul class="episodios">([\s\S]*?)<\/ul>/i);
+      // --- Episodes (find all li.mark-XXX) ---
+      const liMatches = html.match(/<li class="mark-[^"]+">[\s\S]*?<\/li>/gi) || [];
       const episodes = [];
 
-      if (ulBlock) {
-        const liMatches = ulBlock.match(/<li\b[^>]*>[\s\S]*?<\/li>/gi) || [];
-        for (const li of liMatches) {
-          const numRaw = first(/<div class="numerando">([\s\S]*?)<\/div>/i, li);
-          let number = numRaw ? numRaw.replace(/\s+/g, "") : null;
-          if (number && number.includes("-")) {
-            const [s, e] = number.split("-").map((x) => x.trim());
-            if (s && e) number = `${s}x${e.padStart(2, "0")}`;
-          }
-
-          const epTitle = first(/<div class="episodiotitle">[\s\S]*?<a[^>]*>([^<]+)<\/a>/i, li);
-          const epUrl = first(/<div class="episodiotitle">[\s\S]*?<a[^>]+href="([^"]+)"/i, li);
-          const epDate = first(/<span class="date">([^<]+)<\/span>/i, li);
-
-          const imgTag = first(/<div class="imagen">[\s\S]*?(<img[^>]+>)/i, li, 1);
-          const epPoster = preferDataSrc(imgTag);
-
-          episodes.push({
-            number,
-            title: epTitle,
-            url: epUrl,
-            date: epDate,
-            poster: epPoster,
-          });
+      for (const li of liMatches) {
+        const numRaw = first(/<div class="numerando">([\s\S]*?)<\/div>/i, li);
+        let number = numRaw ? numRaw.replace(/\s+/g, "") : null;
+        if (number && number.includes("-")) {
+          const [s, e] = number.split("-").map((x) => x.trim());
+          if (s && e) number = `${s}x${e.padStart(2, "0")}`;
         }
+
+        const epTitle = first(/<div class="episodiotitle">[\s\S]*?<a[^>]*>([^<]+)<\/a>/i, li);
+        const epUrl = first(/<div class="episodiotitle">[\s\S]*?<a[^>]+href="([^"]+)"/i, li);
+        const epDate = first(/<span class="date">([^<]+)<\/span>/i, li);
+
+        const imgTag = first(/<div class="imagen">[\s\S]*?(<img[^>]+>)/i, li, 1);
+        const epPoster = preferDataSrc(imgTag);
+
+        episodes.push({
+          number,
+          title: epTitle,
+          url: epUrl,
+          date: epDate,
+          poster: epPoster,
+        });
       }
 
       const res = {
