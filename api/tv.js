@@ -7,10 +7,10 @@ export default {
       const pretty = reqUrl.searchParams.get("pretty") === "1";
 
       if (!name) {
-        return new Response(
-          JSON.stringify({ error: "Missing ?name={slug}" }),
-          { status: 400, headers: { "Content-Type": "application/json" } }
-        );
+        return new Response(JSON.stringify({ error: "Missing ?name={slug}" }), {
+          status: 400,
+          headers: { "Content-Type": "application/json" },
+        });
       }
 
       const BASEURL = "https://multimovies.pro";
@@ -45,7 +45,7 @@ export default {
               .trim()
           : null;
 
-      const first = (re, src = html, i = 1) => {
+      const first = (re, src, i = 1) => {
         const m = re.exec(src);
         return m ? decode(m[i]) : null;
       };
@@ -59,45 +59,48 @@ export default {
 
       // --- Title & Poster ---
       const title =
-        first(/<div\s+class="data">[\s\S]*?<h1[^>]*>([^<]+)<\/h1>/i) ||
+        first(/<div\s+class="data">[\s\S]*?<h1[^>]*>([^<]+)<\/h1>/i, html) ||
         decode(name.replace(/-/g, " "));
 
       const posterTag = first(/<div\s+class="poster">[\s\S]*?(<img[^>]+>)/i, html);
       const poster = preferDataSrc(posterTag);
 
       // --- Episodes ---
-      const liMatches = html.match(/<li\s+class="mark-[^"]+">[\s\S]*?<\/li>/gi) || [];
+      const seABlocks = html.match(/<div\s+class="se-a"[\s\S]*?<\/div>\s*<\/div>/gi) || [];
       const episodes = [];
 
-      for (const li of liMatches) {
-        const numRaw = first(/<div\s+class="numerando">([\s\S]*?)<\/div>/i, li);
-        let number = numRaw ? numRaw.replace(/\s+/g, "") : null;
+      for (const se of seABlocks) {
+        const liMatches = se.match(/<li\s+class="mark-[^"]+">[\s\S]*?<\/li>/gi) || [];
 
-        if (number && number.includes("-")) {
-          const [s, e] = number.split("-").map((x) => x.trim());
-          if (s && e) number = `${s}x${e.padStart(2, "0")}`;
+        for (const li of liMatches) {
+          const numRaw = first(/<div\s+class="numerando">([\s\S]*?)<\/div>/i, li);
+          let number = numRaw ? numRaw.replace(/\s+/g, "") : null;
+          if (number && number.includes("-")) {
+            const [s, e] = number.split("-").map((x) => x.trim());
+            if (s && e) number = `${s}x${e.padStart(2, "0")}`;
+          }
+
+          const epTitle = first(
+            /<div\s+class="episodiotitle">[\s\S]*?<a[^>]*>([\s\S]*?)<\/a>/i,
+            li
+          );
+          const epUrl = first(
+            /<div\s+class="episodiotitle">[\s\S]*?<a[^>]+href="([^"]+)"/i,
+            li
+          );
+          const epDate = first(/<span\s+class="date">([\s\S]*?)<\/span>/i, li);
+
+          const imgTag = first(/<div\s+class="imagen">[\s\S]*?(<img[^>]+>)/i, li);
+          const epPoster = preferDataSrc(imgTag);
+
+          episodes.push({
+            number,
+            title: epTitle,
+            url: epUrl,
+            date: epDate,
+            poster: epPoster,
+          });
         }
-
-        const epTitle = first(
-          /<div\s+class="episodiotitle">[\s\S]*?<a[^>]*>([\s\S]*?)<\/a>/i,
-          li
-        );
-        const epUrl = first(
-          /<div\s+class="episodiotitle">[\s\S]*?<a[^>]+href="([^"]+)"/i,
-          li
-        );
-        const epDate = first(/<span\s+class="date">([\s\S]*?)<\/span>/i, li);
-
-        const imgTag = first(/<div\s+class="imagen">[\s\S]*?(<img[^>]+>)/i, li);
-        const epPoster = preferDataSrc(imgTag);
-
-        episodes.push({
-          number,
-          title: epTitle,
-          url: epUrl,
-          date: epDate,
-          poster: epPoster,
-        });
       }
 
       const res = {
@@ -113,10 +116,10 @@ export default {
         headers: { "Content-Type": "application/json" },
       });
     } catch (err) {
-      return new Response(
-        JSON.stringify({ error: err.message }),
-        { status: 500, headers: { "Content-Type": "application/json" } }
-      );
+      return new Response(JSON.stringify({ error: err.message }), {
+        status: 500,
+        headers: { "Content-Type": "application/json" },
+      });
     }
   },
 };
