@@ -13,7 +13,7 @@ export default {
         if (text) TARGET = text;
       }
     } catch (e) {
-      // ignore error, fallback to default
+      // Ignore error, fallback to default
     }
 
     try {
@@ -42,8 +42,6 @@ export default {
           "Sec-Fetch-Site": "same-origin",
           "Sec-Fetch-User": "?1",
           "Upgrade-Insecure-Requests": "1",
-          // optionally add cookie if needed
-          // "Cookie": "somecookie=value",
         },
       });
 
@@ -60,74 +58,68 @@ export default {
 
       // Extract title
       const titleRegex = /<h1>([^<]+)<\/h1>/;
-      data.title = titleRegex.exec(html)?.[1] || '';
+      data.title = titleRegex.exec(html)?.[1]?.trim() || '';
 
-      // Extract poster
-      const posterRegex = /<div class="poster">\s*<img[^>]*data-src="([^"]+)"[^>]*alt="([^"]+)"[^>]*class="lazy-loaded"[^>]*>/;
+      // Extract poster and posterAlt (handling lazy-loaded images)
+      const posterRegex = /<div class="poster">\s*<img[^>]*src="([^"]+)"[^>]*itemprop="image"[^>]*alt="([^"]+)"[^>]*>/;
       const posterMatch = posterRegex.exec(html);
       data.poster = posterMatch ? posterMatch[1] : '';
       data.posterAlt = posterMatch ? posterMatch[2] : '';
 
       // Extract date
       const dateRegex = /<span class="date" itemprop="dateCreated">([^<]+)<\/span>/;
-      data.date = dateRegex.exec(html)?.[1] || '';
+      data.date = dateRegex.exec(html)?.[1]?.trim() || '';
 
       // Extract networks
       data.networks = [];
       const networkRegex = /<a href="https:\/\/multimovies\.pro\/network\/[^"]+" rel="tag">([^<]+)<\/a>/g;
       let match;
       while ((match = networkRegex.exec(html)) !== null) {
-        data.networks.push(match[1]);
+        data.networks.push(match[1].trim());
       }
 
       // Extract genres
       data.genres = [];
       const genreRegex = /<a href="https:\/\/multimovies\.pro\/genre\/[^"]+" rel="tag">([^<]+)<\/a>/g;
       while ((match = genreRegex.exec(html)) !== null) {
-        data.genres.push(match[1]);
+        data.genres.push(match[1].trim());
       }
 
       // Extract rating
       const ratingValueRegex = /<span class="dt_rating_vgs" itemprop="ratingValue">([^<]+)<\/span>/;
-      data.ratingValue = ratingValueRegex.exec(html)?.[1] || '';
+      data.ratingValue = ratingValueRegex.exec(html)?.[1]?.trim() || '';
       const ratingCountRegex = /<span class="rating-count" itemprop="ratingCount">([^<]+)<\/span>/;
-      data.ratingCount = ratingCountRegex.exec(html)?.[1] || '';
+      data.ratingCount = ratingCountRegex.exec(html)?.[1]?.trim() || '';
 
       // Extract seasons and episodes
       data.seasons = [];
-      const episodesDivRegex = /<div id="episodes" class="sbox fixidtab" style="display: block;">([\s\S]*?)<\/div>/;
-      const episodesContent = episodesDivRegex.exec(html)?.[1] || '';
-      if (episodesContent) {
-        const seasonRegex = /<div class="se-c">([\s\S]*?)<\/div>/g;
-        let seasonMatch;
-        while ((seasonMatch = seasonRegex.exec(episodesContent)) !== null) {
-          const seasonContent = seasonMatch[1];
-          const seasonNumRegex = /<span class="se-t(?: se-o)?">(\d+)<\/span>/;
-          const seasonNum = seasonNumRegex.exec(seasonContent)?.[1] || '';
-          const seasonTitleRegex = /<span class="title">Season \d+ <i>([^<]+)<\/i><\/span>/;
-          const seasonDate = seasonTitleRegex.exec(seasonContent)?.[1] || '';
-          const episodes = [];
-          const ulRegex = /<ul class="episodios">([\s\S]*?)<\/ul>/;
-          const ulContent = ulRegex.exec(seasonContent)?.[1] || '';
-          const epLiRegex = /<li class="mark-\d+">([\s\S]*?)<\/li>/g;
-          let epMatch;
-          while ((epMatch = epLiRegex.exec(ulContent)) !== null) {
-            const epContent = epMatch[1];
-            const imgRegex = /<img[^>]*data-src="([^"]+)"[^>]*>/;
-            const img = imgRegex.exec(epContent)?.[1] || '';
-            const numRegex = /<div class="numerando">([^<]+)<\/div>/;
-            const num = numRegex.exec(epContent)?.[1] || '';
-            const titleRegex = /<div class="episodiotitle"><a href="([^"]+)">([^<]+)<\/a> <span class="date">([^<]+)<\/span><\/div>/;
-            const titleMatch = titleRegex.exec(epContent);
-            const ep = {
-              img,
-              num,
-              url: titleMatch ? titleMatch[1] : '',
-              title: titleMatch ? titleMatch[2] : '',
-              date: titleMatch ? titleMatch[3] : '',
-            };
-            episodes.push(ep);
-          }
+      const seasonRegex = /<div class="se-c">([\s\S]*?)<\/div>/g;
+      while ((match = seasonRegex.exec(html)) !== null) {
+        const seasonContent = match[1];
+        const seasonNumRegex = /<span class="se-t(?: se-o)?">(\d+)<\/span>/;
+        const seasonNum = seasonNumRegex.exec(seasonContent)?.[1]?.trim() || '';
+        const seasonTitleRegex = /<span class="title">Season \d+ <i>([^<]+)<\/i><\/span>/;
+        const seasonDate = seasonTitleRegex.exec(seasonContent)?.[1]?.trim() || '';
+        const episodes = [];
+        const episodeRegex = /<li class="mark-\d+">([\s\S]*?)<\/li>/g;
+        let epMatch;
+        while ((epMatch = episodeRegex.exec(seasonContent)) !== null) {
+          const epContent = epMatch[1];
+          const imgRegex = /<img[^>]*data-src="([^"]+)"[^>]*class="lazy-loaded"[^>]*>/;
+          const img = imgRegex.exec(epContent)?.[1] || '';
+          const numRegex = /<div class="numerando">([^<]+)<\/div>/;
+          const num = numRegex.exec(epContent)?.[1]?.trim() || '';
+          const titleRegex = /<div class="episodiotitle"><a href="([^"]+)">([^<]+)<\/a>\s*<span class="date">([^<]+)<\/span><\/div>/;
+          const titleMatch = titleRegex.exec(epContent);
+          episodes.push({
+            img,
+            num,
+            url: titleMatch ? titleMatch[1] : '',
+            title: titleMatch ? titleMatch[2]?.trim() : '',
+            date: titleMatch ? titleMatch[3]?.trim() : '',
+          });
+        }
+        if (episodes.length > 0) {
           data.seasons.push({
             season: seasonNum,
             date: seasonDate,
@@ -135,47 +127,42 @@ export default {
           });
         }
       }
-      data.totalEpisodes = data.seasons.reduce((acc, s) => acc + s.episodes.length, 0);
+      data.totalEpisodes = data.seasons.reduce((acc, season) => acc + season.episodes.length, 0);
 
       // Extract cast
       data.cast = [];
-      const castDivRegex = /<div id="cast" class="sbox fixidtab" style="display: none;">([\s\S]*?)<\/div>/;
-      const castContent = castDivRegex.exec(html)?.[1] || '';
-      if (castContent) {
-        const personRegex = /<div class="person" itemprop="actor" itemscope="" itemtype="http:\/\/schema.org\/Person">([\s\S]*?)<\/div>/g;
-        let personMatch;
-        while ((personMatch = personRegex.exec(castContent)) !== null) {
-          const personContent = personMatch[1];
-          const nameMetaRegex = /<meta itemprop="name" content="([^"]+)" \/>/;
-          const metaName = nameMetaRegex.exec(personContent)?.[1] || '';
-          const imgRegex = /<img[^>]*data-src="([^"]+)"[^>]*alt="([^"]+)"[^>]*>/;
-          const imgMatch = imgRegex.exec(personContent);
-          const img = imgMatch ? imgMatch[1] : '';
-          const alt = imgMatch ? imgMatch[2] : '';
-          const linkRegex = /<div class="name"><a itemprop="url" href="([^"]+)">([^<]+)<\/a><\/div>/;
-          const linkMatch = linkRegex.exec(personContent);
-          const url = linkMatch ? linkMatch[1] : '';
-          const name = linkMatch ? linkMatch[2] : '';
-          const charRegex = /<div class="caracter">([^<]+)<\/div>/;
-          const character = charRegex.exec(personContent)?.[1] || '';
-          data.cast.push({
-            metaName,
-            img,
-            alt,
-            url,
-            name,
-            character,
-          });
-        }
+      const castRegex = /<div class="person" itemprop="actor" itemscope="" itemtype="http:\/\/schema.org\/Person">([\s\S]*?)<\/div>/g;
+      while ((match = castRegex.exec(html)) !== null) {
+        const personContent = match[1];
+        const nameMetaRegex = /<meta itemprop="name" content="([^"]+)" \/>/;
+        const metaName = nameMetaRegex.exec(personContent)?.[1]?.trim() || '';
+        const imgRegex = /<img[^>]*data-src="([^"]+)"[^>]*alt="([^"]+)"[^>]*>/;
+        const imgMatch = imgRegex.exec(personContent);
+        const img = imgMatch ? imgMatch[1] : '';
+        const alt = imgMatch ? imgMatch[2]?.trim() : '';
+        const linkRegex = /<div class="name"><a itemprop="url" href="([^"]+)">([^<]+)<\/a><\/div>/;
+        const linkMatch = linkRegex.exec(personContent);
+        const url = linkMatch ? linkMatch[1] : '';
+        const name = linkMatch ? linkMatch[2]?.trim() : '';
+        const charRegex = /<div class="caracter">([^<]+)<\/div>/;
+        const character = charRegex.exec(personContent)?.[1]?.trim() || '';
+        data.cast.push({
+          metaName,
+          img,
+          alt,
+          url,
+          name,
+          character,
+        });
       }
 
       // Extract trailer
-      const trailerRegex = /<iframe class="rptss" src="([^"]+)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""><\/iframe>/;
-      data.trailer = trailerRegex.exec(html)?.[1] || '';
+      const trailerRegex = /<iframe class="rptss" src="([^"]+)"[^>]*>/;
+      data.trailer = trailerRegex.exec(html)?.[1]?.trim() || '';
 
       // Extract synopsis
       const synopsisRegex = /<h2>Synopsis<\/h2>\s*<div class="wp-content">\s*<p>([\s\S]*?)<\/p>/;
-      data.synopsis = synopsisRegex.exec(html)?.[1].replace(/\s+/g, ' ').trim() || '';
+      data.synopsis = synopsisRegex.exec(html)?.[1]?.replace(/\s+/g, ' ').trim() || '';
 
       // Extract gallery
       data.gallery = [];
@@ -189,15 +176,15 @@ export default {
 
       // Extract custom fields
       data.fields = {};
-      const fieldsRegex = /<div class="custom_fields"><b class="variante">([^<]+)<\/b> <span class="valor">([^<]+)<\/span><\/div>/g;
+      const fieldsRegex = /<div class="custom_fields"><b class="variante">([^<]+)<\/b>\s*<span class="valor">([^<]+(?:<[^>]+>[^<]+<\/[^>]+>)?[^<]*)<\/span><\/div>/g;
       while ((match = fieldsRegex.exec(html)) !== null) {
         let key = match[1].trim();
         let value = match[2].trim();
         data.fields[key] = value;
       }
-      // Special handling for TMDb Rating if needed
+      // Special handling for TMDb Rating
       if (data.fields['TMDb Rating']) {
-        const tmdbRegex = /<strong>(\d+)<\/strong> (\d+ votes)/;
+        const tmdbRegex = /<strong>(\d+)<\/strong>\s*(\d+\s*votes)/;
         const tmdbMatch = tmdbRegex.exec(data.fields['TMDb Rating']);
         if (tmdbMatch) {
           data.fields['TMDb Rating'] = { rating: tmdbMatch[1], votes: tmdbMatch[2] };
@@ -211,7 +198,18 @@ export default {
         data.similar.push({
           url: match[1],
           img: match[2],
-          title: match[3],
+          title: match[3]?.trim(),
+        });
+      }
+
+      // Check for missing critical fields and log potential issues
+      if (!data.poster || !data.seasons.length || !data.cast.length || !data.trailer) {
+        console.warn('Some fields are empty:', {
+          poster: !!data.poster,
+          seasons: data.seasons.length,
+          totalEpisodes: data.totalEpisodes,
+          cast: data.cast.length,
+          trailer: !!data.trailer,
         });
       }
 
