@@ -1,37 +1,35 @@
 // api/index.js
 export default {
   async fetch(request) {
-    const reqUrl = new URL(request.url);
-    const name = reqUrl.searchParams.get("name");
-    const wantPretty = reqUrl.searchParams.get("pretty") === "1";
-
-    if (!name) {
-      return new Response(JSON.stringify({ error: "Missing ?name={slug}" }), {
-        status: 400,
-        headers: { "Content-Type": "application/json" },
-      });
-    }
-
-    let BASEURL = "https://multimovies.pro";
     try {
-      const urlResponse = await fetch(new URL("../src/baseurl.txt", import.meta.url));
-      if (urlResponse.ok) {
-        const text = (await urlResponse.text()).trim();
-        if (text) BASEURL = text;
+      const reqUrl = new URL(request.url);
+      const name = reqUrl.searchParams.get("name");
+      const wantPretty = reqUrl.searchParams.get("pretty") === "1";
+
+      if (!name) {
+        return new Response(JSON.stringify({ error: "Missing ?name={slug}" }), {
+          status: 400,
+          headers: { "Content-Type": "application/json" },
+        });
       }
-    } catch (_) {}
 
-    const targetURL = `${BASEURL.replace(/\/+$/, "")}/tvshows/${name}`;
+      // Base URL
+      const BASEURL = "https://multimovies.pro";
+      const targetURL = `${BASEURL.replace(/\/+$/, "")}/tvshows/${name}`;
 
-    try {
+      // Fetch HTML
       const r = await fetch(targetURL, {
         headers: {
-          "User-Agent": "Mozilla/5.0",
-          Accept: "text/html",
+          "User-Agent":
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
+          Accept:
+            "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
           "Accept-Language": "en-US,en;q=0.9",
+          Connection: "keep-alive",
           Referer: BASEURL,
         },
       });
+
       if (!r.ok) {
         return new Response(
           JSON.stringify({ error: "fetch_failed", status: r.status, target: targetURL }),
@@ -41,7 +39,7 @@ export default {
 
       let html = await r.text();
 
-      // --- HTML formatter for minified pages ---
+      // --- HTML formatter ---
       function formatHTML(s) {
         return s
           .replace(/>(\s*)</g, ">\n<")
@@ -50,10 +48,12 @@ export default {
           .replace(/(\s){2,}/g, " ")
           .trim();
       }
+
       html = formatHTML(html);
 
       const decode = (str) =>
-        str?.replace(/&amp;/g, "&")
+        str
+          ?.replace(/&amp;/g, "&")
           .replace(/&lt;/g, "<")
           .replace(/&gt;/g, ">")
           .replace(/&quot;/g, '"')
@@ -65,113 +65,53 @@ export default {
         return m ? decode(m[i]) : null;
       };
 
-      const allMatches = (re, group = 1) => {
-        const out = [];
-        let m;
-        while ((m = re.exec(html)) !== null) out.push(decode(m[group]));
-        return out;
-      };
+      const cleanImg = (url) => (url ? url.replace(/\[\-?\d+x\d+\]/, "") : null);
 
-      const abs = (u) => {
-        if (!u) return null;
-        if (/^https?:\/\//i.test(u)) return u;
-        return BASEURL.replace(/\/+$/, "") + "/" + u.replace(/^\/+/, "");
-      };
-
-      // --- Basic show info ---
-      const title = first(/<h1[^>]*>([^<]+)<\/h1>/i) || decode(name.replace(/-/g, " "));
+      // --- Title & Poster ---
+      const title = first(/<div class="data">\s*<h1[^>]*>([^<]+)<\/h1>/i) || decode(name.replace(/-/g, " "));
       let poster = first(/<div class="poster">[\s\S]*?<img[^>]+(?:src|data-src)="([^">]+)"/i);
-      poster = poster ? poster.replace(/-\d+x\d+/, "") : null;
-      poster = abs(poster);
+      poster = cleanImg(poster);
 
-      const original_title = first(/<div class="custom_fields">[\s\S]*?<b[^>]*>Original title<\/b>\s*<span[^>]*>([\s\S]*?)<\/span>/i);
-
-      const tmdb_rating = first(/<div class="custom_fields">[\s\S]*?<b[^>]*>TMDb Rating<\/b>\s*<span[^>]*>([\d.]+)/i);
-      const tmdb_votes = first(/<div class="custom_fields">[\s\S]*?<b[^>]*>TMDb Rating<\/b>\s*<span[^>]*>[\d.]+ (\d+) votes/i);
-
-      const first_air_date = first(/<div class="custom_fields">[\s\S]*?<b[^>]*>First air date<\/b>\s*<span[^>]*>([^<]+)<\/span>/i);
-      const last_air_date = first(/<div class="custom_fields">[\s\S]*?<b[^>]*>Last air date<\/b>\s*<span[^>]*>([^<]+)<\/span>/i);
-
-      const seasons_count = parseInt(first(/<div class="custom_fields">[\s\S]*?<b[^>]*>Seasons<\/b>\s*<span[^>]*>(\d+)/i) || "0", 10);
-      const episodes_count = parseInt(first(/<div class="custom_fields">[\s\S]*?<b[^>]*>Episodes<\/b>\s*<span[^>]*>(\d+)/i) || "0", 10);
-
-      const average_duration = first(/<div class="custom_fields">[\s\S]*?<b[^>]*>Average Duration<\/b>\s*<span[^>]*>([^<]+)<\/span>/i);
-
-      const trailer = first(/<div id="trailer"[\s\S]*?<iframe[^>]+src="([^"]+)"/i);
-
-      const synopsis = first(/<div id="info"[^>]*>[\s\S]*?<div class="wp-content">\s*<p>([\s\S]*?)<\/p>/i)?.replace(/<[^>]+>/g, "");
-
-      // --- Seasons and Episodes ---
+      // --- Seasons & Episodes ---
       const seasons = [];
       const seasonsBlock = first(/<div id="seasons">([\s\S]*?)<\/div>/i);
       if (seasonsBlock) {
-        const seasonMatches = seasonsBlock.match(/<div class="se-c">[\s\S]*?<\/ul>/gi) || [];
-        for (const s of seasonMatches) {
-          const seasonNumber = parseInt(/<span class="se-t[^>]*">(\d+)<\/span>/i.exec(s)?.[1] || "0", 10);
-          const epBlock = /<ul class="episodios">([\s\S]*?)<\/ul>/i.exec(s)?.[1] || "";
-          const epItems = epBlock.match(/<li\b[^>]*>[\s\S]*?<\/li>/gi) || [];
+        const seCards = seasonsBlock.match(/<div class="se-c">[\s\S]*?<\/div>\s*<\/div>?/gi) || [];
+        let seasonCounter = 1;
+        for (const card of seCards) {
+          const seasonNumber = seasonCounter++;
+          const epListBlock = /<ul class="episodios">([\s\S]*?)<\/ul>/i.exec(card)?.[1];
           const episodes = [];
-          let epCount = 1;
-          for (const li of epItems) {
-            const epTitle = first(/<div class="episodiotitle"><a[^>]*>([^<]+)<\/a>/i, 1, li) || `Episode ${epCount}`;
-            const epUrl = first(/<div class="episodiotitle"><a[^>]+href="([^"]+)"/i, 1, li);
-            let epImg = /<div class="imagen">[\s\S]*?<img[^>]+(?:data-src|src)="([^">]+)"/i.exec(li)?.[1] || null;
-            epImg = epImg ? epImg.replace(/-\d+x\d+/, "") : null;
-            episodes.push({
-              number: `${seasonNumber}x${epCount}`,
-              title: epTitle,
-              url: epUrl ? epUrl.replace(BASEURL, "") : null,
-              date: first(/<span class="date">([^<]+)<\/span>/i, 1, li),
-              poster: epImg ? abs(epImg) : null
-            });
-            epCount++;
+          if (epListBlock) {
+            const epItems = epListBlock.match(/<li\b[^>]*>[\s\S]*?<\/li>/gi) || [];
+            for (const li of epItems) {
+              const epNum = /<div class="numerando">([^<]+)<\/div>/i.exec(li)?.[1]?.trim();
+              const epTitle = /<div class="episodiotitle"><a[^>]*>([^<]+)<\/a>/i.exec(li)?.[1];
+              const epUrl = /<div class="episodiotitle"><a[^>]+href="([^"]+)"/i.exec(li)?.[1];
+              const epDate = /<div class="episodiotitle">[\s\S]*?<span class="date">([^<]+)<\/span>/i.exec(li)?.[1];
+              let epImg =
+                /<div class="imagen">[\s\S]*?<img[^>]+(?:data-src|src)="([^">]+)"/i.exec(li)?.[1];
+              epImg = cleanImg(epImg);
+
+              episodes.push({
+                number: epNum ? `${seasonNumber}x${epNum.split("-").pop().trim()}` : null,
+                title: decode(epTitle),
+                url: epUrl || null,
+                date: decode(epDate),
+                poster: epImg,
+              });
+            }
           }
           seasons.push({ season: seasonNumber, episodes });
         }
       }
 
-      const res = {
-        status: "ok",
-        slug: name,
-        url: targetURL,
-        title,
-        original_title,
-        poster,
-        date_created: first_air_date,
-        networks: [],
-        site_rating: parseFloat(tmdb_rating) || null,
-        site_votes: parseInt(tmdb_votes) || null,
-        tmdb_rating: parseFloat(tmdb_rating) || null,
-        tmdb_votes: parseInt(tmdb_votes) || null,
-        first_air_date,
-        last_air_date,
-        seasons_count,
-        episodes_count,
-        episodes_total: episodes_count,
-        average_duration,
-        genres: [],
-        trailer,
-        synopsis,
-        gallery_images: [],
-        seasons,
-        creators: [],
-        cast: [],
-        similar: []
-      };
+      const res = { status: "ok", slug: name, title, poster, seasons };
+      if (wantPretty) res.formatted_html = html;
 
-      if (wantPretty) {
-        res.formatted_html = html;
-      }
-
-      return new Response(JSON.stringify(res, null, 2), {
-        status: 200,
-        headers: { "Content-Type": "application/json" }
-      });
+      return new Response(JSON.stringify(res, null, 2), { status: 200, headers: { "Content-Type": "application/json" } });
     } catch (err) {
-      return new Response(JSON.stringify({ error: err?.message || String(err) }), {
-        status: 500,
-        headers: { "Content-Type": "application/json" }
-      });
+      return new Response(JSON.stringify({ error: err?.message || String(err) }), { status: 500, headers: { "Content-Type": "application/json" } });
     }
   },
 };
