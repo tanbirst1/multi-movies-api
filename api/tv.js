@@ -7,10 +7,10 @@ export default {
       const pretty = reqUrl.searchParams.get("pretty") === "1";
 
       if (!name) {
-        return new Response(JSON.stringify({ error: "Missing ?name={slug}" }), {
-          status: 400,
-          headers: { "Content-Type": "application/json" },
-        });
+        return new Response(
+          JSON.stringify({ error: "Missing ?name={slug}" }),
+          { status: 400, headers: { "Content-Type": "application/json" } }
+        );
       }
 
       const BASEURL = "https://multimovies.pro";
@@ -52,36 +52,43 @@ export default {
 
       const preferDataSrc = (imgTag) => {
         if (!imgTag) return null;
-        const ds = /data-src="([^"]+)"/i.exec(imgTag)?.[1];
-        const s = /src="([^"]+)"/i.exec(imgTag)?.[1];
+        const ds = /data-src\s*=\s*"([^"]+)"/i.exec(imgTag)?.[1];
+        const s = /src\s*=\s*"([^"]+)"/i.exec(imgTag)?.[1];
         return ds || (s && !/^data:image\//i.test(s) ? s : null);
       };
 
       // --- Title & Poster ---
       const title =
-        first(/<div class="data">[\s\S]*?<h1[^>]*>([^<]+)<\/h1>/i) ||
+        first(/<div\s+class="data">[\s\S]*?<h1[^>]*>([^<]+)<\/h1>/i) ||
         decode(name.replace(/-/g, " "));
 
-      const posterTag = first(/<div class="poster">[\s\S]*?(<img[^>]+>)/i, html, 1);
+      const posterTag = first(/<div\s+class="poster">[\s\S]*?(<img[^>]+>)/i, html);
       const poster = preferDataSrc(posterTag);
 
-      // --- Episodes (find all li.mark-XXX) ---
-      const liMatches = html.match(/<li class="mark-[^"]+">[\s\S]*?<\/li>/gi) || [];
+      // --- Episodes ---
+      const liMatches = html.match(/<li\s+class="mark-[^"]+">[\s\S]*?<\/li>/gi) || [];
       const episodes = [];
 
       for (const li of liMatches) {
-        const numRaw = first(/<div class="numerando">([\s\S]*?)<\/div>/i, li);
+        const numRaw = first(/<div\s+class="numerando">([\s\S]*?)<\/div>/i, li);
         let number = numRaw ? numRaw.replace(/\s+/g, "") : null;
+
         if (number && number.includes("-")) {
           const [s, e] = number.split("-").map((x) => x.trim());
           if (s && e) number = `${s}x${e.padStart(2, "0")}`;
         }
 
-        const epTitle = first(/<div class="episodiotitle">[\s\S]*?<a[^>]*>([^<]+)<\/a>/i, li);
-        const epUrl = first(/<div class="episodiotitle">[\s\S]*?<a[^>]+href="([^"]+)"/i, li);
-        const epDate = first(/<span class="date">([^<]+)<\/span>/i, li);
+        const epTitle = first(
+          /<div\s+class="episodiotitle">[\s\S]*?<a[^>]*>([\s\S]*?)<\/a>/i,
+          li
+        );
+        const epUrl = first(
+          /<div\s+class="episodiotitle">[\s\S]*?<a[^>]+href="([^"]+)"/i,
+          li
+        );
+        const epDate = first(/<span\s+class="date">([\s\S]*?)<\/span>/i, li);
 
-        const imgTag = first(/<div class="imagen">[\s\S]*?(<img[^>]+>)/i, li, 1);
+        const imgTag = first(/<div\s+class="imagen">[\s\S]*?(<img[^>]+>)/i, li);
         const epPoster = preferDataSrc(imgTag);
 
         episodes.push({
@@ -106,10 +113,10 @@ export default {
         headers: { "Content-Type": "application/json" },
       });
     } catch (err) {
-      return new Response(JSON.stringify({ error: err.message }), {
-        status: 500,
-        headers: { "Content-Type": "application/json" },
-      });
+      return new Response(
+        JSON.stringify({ error: err.message }),
+        { status: 500, headers: { "Content-Type": "application/json" } }
+      );
     }
   },
 };
