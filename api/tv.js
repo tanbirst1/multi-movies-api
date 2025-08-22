@@ -1,231 +1,166 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
-const fs = require('fs').promises;
-const path = require('path');
-
-// Retry logic for HTTP requests with exponential backoff
-async function fetchWithRetry(url, maxRetries = 3, baseDelay = 1000) {
-  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+// api/index.js
+export default {
+  async fetch(request) {
     try {
-      const response = await axios.get(url, {
+      const reqUrl = new URL(request.url);
+      const name = reqUrl.searchParams.get("name");
+      const wantPretty = reqUrl.searchParams.get("pretty") === "1";
+
+      if (!name) {
+        return new Response(
+          JSON.stringify({ error: "Missing ?name={slug}" }),
+          { status: 400, headers: { "Content-Type": "application/json" } }
+        );
+      }
+
+      // Base URL
+      const BASEURL = "https://multimovies.pro";
+      const targetURL = `${BASEURL.replace(/\/+$/, "")}/tvshows/${name}`;
+
+      // Fetch HTML
+      const r = await fetch(targetURL, {
         headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+          "User-Agent":
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
+          Accept:
+            "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+          "Accept-Language": "en-US,en;q=0.9",
+          Connection: "keep-alive",
+          Referer: BASEURL,
         },
-        timeout: 8000, // Reduced timeout to 8 seconds to prevent hanging
-        maxContentLength: 5 * 1024 * 1024 // Limit response size to 5MB to prevent memory issues
       });
 
-      // Check for Cloudflare protection or invalid response
-      if (response.status >= 400 || response.data.includes('cf-browser-verification')) {
-        throw new Error(`Request failed with status ${response.status} or Cloudflare protection detected`);
+      if (!r.ok) {
+        return new Response(
+          JSON.stringify({
+            error: "fetch_failed",
+            status: r.status,
+            target: targetURL,
+          }),
+          { status: 502, headers: { "Content-Type": "application/json" } }
+        );
       }
 
-      return response;
-    } catch (error) {
-      if (attempt === maxRetries) {
-        console.error(`Final attempt failed for ${url}: ${error.message}`);
-        throw new Error(`Failed to fetch ${url}: ${error.message}`);
+      let html = await r.text();
+
+      // --- HTML formatter ---
+      function formatHTML(s) {
+        return s
+          .replace(/>(\s*)</g, ">\n<")
+          .replace(/<\/(div|li|article|section|span|h\d|p)>/g, "</$1>\n")
+          .replace(/(<li\b)/g, "\n$1")
+          .replace(/(\s){2,}/g, " ")
+          .trim();
       }
-      const delay = baseDelay * Math.pow(2, attempt - 1); // Exponential backoff
-      console.warn(`Attempt ${attempt} failed for ${url}: ${error.message}. Retrying in ${delay}ms...`);
-      await new Promise(resolve => setTimeout(resolve, delay));
-    }
-  }
-}
 
-// Safely read base URL from file
-async function readBaseUrl() {
-  try {
-    const baseUrlPath = path.join(__dirname, '..', 'src', 'baseurl.txt');
-    const baseUrl = await fs.readFile(baseUrlPath, 'utf8');
-    const trimmedUrl = baseUrl.trim();
-    // Validate URL
-    if (!trimmedUrl.startsWith('http')) {
-      throw new Error('Invalid URL in baseurl.txt');
-    }
-    return trimmedUrl;
-  } catch (error) {
-    console.error('Error reading baseurl.txt:', error.message);
-    return 'https://multimovies.pro/'; // Fallback URL
-  }
-}
+      html = formatHTML(html);
 
-// Main scraping function with enhanced error handling
-async function scrapeWebsite(url) {
-  try {
-    // Fetch HTML with retry
-    const response = await fetchWithRetry(url);
-    if (!response || !response.data) {
-      throw new Error('No response data received');
-    }
+      const decode = (str) =>
+        str
+          ?.replace(/&amp;/g, "&")
+          .replace(/&lt;/g, "<")
+          .replace(/&gt;/g, ">")
+          .replace(/&quot;/g, '"')
+          .replace(/&#39;/g, "'")
+          .trim() ?? null;
 
-    // Load HTML into cheerio with error handling
-    let $;
-    try {
-      $ = cheerio.load(response.data, { xmlMode: false, decodeEntities: true });
-    } catch (error) {
-      throw new Error(`Failed to parse HTML: ${error.message}`);
-    }
+      const first = (re, i = 1) => {
+        const m = re.exec(html);
+        return m ? decode(m[i]) : null;
+      };
 
-    // Helper function to safely extract text
-    const safeText = (selector, defaultValue = 'N/A') => {
-      try {
-        return $(selector).text().trim() || defaultValue;
-      } catch {
-        return defaultValue;
+      const cleanImg = (url) =>
+        url ? url.replace(/\[\-?\d+x\d+\]/, "") : null;
+
+      // --- Title & Poster ---
+      const title =
+        first(/<div class="data">\s*<h1[^>]*>([^<]+)<\/h1>/i) ||
+        decode(name.replace(/-/g, " "));
+      let poster = first(
+        /<div class="poster">[\s\S]*?<img[^>]+(?:src|data-src)="([^">]+)"/i
+      );
+      poster = cleanImg(poster);
+
+      // --- Seasons & Episodes ---
+      const seasons = [];
+      const seasonsBlockMatch = /<div id="seasons">([\s\S]*?)<\/div>\s*<\/div>/i.exec(
+        html
+      );
+      if (seasonsBlockMatch) {
+        const seasonsBlock = seasonsBlockMatch[1];
+        const seCards =
+          seasonsBlock.match(
+            /<div class="se-c">[\s\S]*?(?=<div class="se-c"|$)/gi
+          ) || [];
+
+        for (const card of seCards) {
+          // Season number
+          const seasonNumber =
+            /<span class="se-t[^"]*">(\d+)<\/span>/i.exec(card)?.[1] || null;
+
+          const epListBlock =
+            /<ul class="episodios">([\s\S]*?)<\/ul>/i.exec(card)?.[1];
+          const episodes = [];
+          if (epListBlock) {
+            const epItems =
+              epListBlock.match(/<li\b[^>]*>[\s\S]*?<\/li>/gi) || [];
+            for (const li of epItems) {
+              const epNumRaw =
+                /<div class="numerando">([^<]+)<\/div>/i.exec(li)?.[1] ||
+                null;
+              const epNum = epNumRaw
+                ? epNumRaw.split("-").map((x) => x.trim())
+                : null;
+
+              const epTitle =
+                /<div class="episodiotitle"><a[^>]*>([^<]+)<\/a>/i.exec(li)?.[1];
+              const epUrl =
+                /<div class="episodiotitle"><a[^>]+href="([^"]+)"/i.exec(li)?.[1];
+              const epDate =
+                /<div class="episodiotitle">[\s\S]*?<span class="date">([^<]+)<\/span>/i.exec(
+                  li
+                )?.[1];
+
+              let epImg =
+                /<div class="imagen">[\s\S]*?<img[^>]+(?:data-src|src)="([^">]+)"/i.exec(
+                  li
+                )?.[1];
+              epImg = cleanImg(epImg);
+
+              episodes.push({
+                number:
+                  seasonNumber && epNum
+                    ? `${seasonNumber}x${epNum.pop()}`
+                    : null,
+                title: decode(epTitle),
+                url: epUrl || null,
+                date: decode(epDate),
+                poster: epImg,
+              });
+            }
+          }
+          seasons.push({ season: parseInt(seasonNumber), episodes });
+        }
       }
-    };
 
-    // Helper function to safely extract attribute
-    const safeAttr = (selector, attr, defaultValue = '') => {
-      try {
-        return $(selector).attr(attr) || defaultValue;
-      } catch {
-        return defaultValue;
-      }
-    };
+      const res = {
+        status: "ok",
+        slug: name,
+        title,
+        poster,
+        seasons,
+      };
+      if (wantPretty) res.formatted_html = html;
 
-    // Helper function to safely map elements
-    const safeMap = (selector, callback, defaultValue = []) => {
-      try {
-        return $(selector).length ? $(selector).map((i, el) => callback($(el))).get() : defaultValue;
-      } catch {
-        return defaultValue;
-      }
-    };
-
-    // Extract title
-    const title = safeText('h1:first-child', 'Unknown Title');
-
-    // Extract poster
-    const poster = safeAttr('.poster img', 'src') || safeAttr('.poster img', 'data-src', '');
-
-    // Extract genres
-    const genres = safeMap('.sgeneros a', el => el.text().trim(), []);
-
-    // Extract networks
-    const networks = safeMap('.extra span a', el => el.text().trim(), []);
-
-    // Extract rating
-    const rating = safeText('.dt_rating_vgs', 'N/A');
-    const ratingCount = safeText('.rating-count', '0');
-
-    // Extract synopsis
-    const synopsis = safeText('#info .wp-content p', 'No synopsis available');
-
-    // Extract seasons and episodes
-    const seasons = [];
-    try {
-      $('#seasons .se-c').each((i, seasonEl) => {
-        const seasonNumber = safeText($(seasonEl).find('.se-t'), 'Unknown');
-        const seasonTitle = safeText($(seasonEl).find('.title'), `Season ${seasonNumber}`);
-        const episodes = [];
-
-        $(seasonEl).find('.episodios li').each((j, episodeEl) => {
-          const episodeNumber = safeText($(episodeEl).find('.numerando'), 'N/A');
-          const episodeTitle = safeText($(episodeEl).find('.episodiotitle a'), 'Untitled Episode');
-          const episodeUrl = safeAttr($(episodeEl).find('.episodiotitle a'), 'href', '');
-          const episodeDate = safeText($(episodeEl).find('.episodiotitle .date'), 'Unknown Date');
-          const episodeImage = safeAttr($(episodeEl).find('.imagen img'), 'data-src') || 
-                              safeAttr($(episodeEl).find('.imagen img'), 'src', '');
-
-          episodes.push({
-            episodeNumber,
-            title: episodeTitle,
-            url: episodeUrl,
-            date: episodeDate,
-            image: episodeImage
-          });
-        });
-
-        seasons.push({
-          seasonNumber,
-          title: seasonTitle,
-          episodes
-        });
+      return new Response(JSON.stringify(res, null, 2), {
+        status: 200,
+        headers: { "Content-Type": "application/json" },
       });
-    } catch (error) {
-      console.error('Error parsing seasons:', error.message);
-      seasons.push({ seasonNumber: 'N/A', title: 'No Seasons', episodes: [] });
+    } catch (err) {
+      return new Response(
+        JSON.stringify({ error: err?.message || String(err) }),
+        { status: 500, headers: { "Content-Type": "application/json" } }
+      );
     }
-
-    // Extract cast
-    const cast = safeMap('#cast .person', personEl => ({
-      name: safeText(personEl.find('.data .name a'), 'Unknown Actor'),
-      character: safeText(personEl.find('.data .caracter'), 'Unknown Character'),
-      image: safeAttr(personEl.find('.img img'), 'data-src') || safeAttr(personEl.find('.img img'), 'src', '')
-    }), []);
-
-    // Extract metadata
-    const metadata = {};
-    try {
-      $('.custom_fields').each((i, el) => {
-        const key = safeText($(el).find('.variante'), `field_${i}`).replace(/\s+/g, '_').toLowerCase();
-        const value = safeText($(el).find('.valor'), 'N/A');
-        metadata[key] = value;
-      });
-    } catch (error) {
-      console.error('Error parsing metadata:', error.message);
-    }
-
-    return {
-      status: 'ok',
-      slug: safeAttr('meta[id="dooplay-ajax-counter"]', 'data-postid', 'N/A'),
-      title,
-      poster,
-      genres,
-      networks,
-      rating,
-      ratingCount,
-      synopsis,
-      seasons,
-      cast,
-      metadata
-    };
-  } catch (error) {
-    console.error('Scraping error:', error.message);
-    return {
-      status: 'error',
-      message: `Scraping failed: ${error.message}`
-    };
-  }
-}
-
-// Vercel serverless function handler
-module.exports = async (req, res) => {
-  // Handle CORS
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
-
-  if (req.method === 'OPTIONS') {
-    return res.status(200).end();
-  }
-
-  try {
-    // Read base URL
-    const baseUrl = await readBaseUrl();
-    
-    // Construct URL
-    const slug = req.query.slug || 'a-couple-of-cuckoos';
-    const url = req.query.url || `${baseUrl}tvshows/${slug}/`;
-
-    // Validate URL
-    if (!url.match(/^https?:\/\/[^\s/$.?#].[^\s]*$/)) {
-      return res.status(400).json({
-        status: 'error',
-        message: 'Invalid URL provided'
-      });
-    }
-
-    const data = await scrapeWebsite(url);
-    res.status(200).json(data);
-  } catch (error) {
-    console.error('Handler error:', error.message);
-    res.status(500).json({
-      status: 'error',
-      message: `Server error: ${error.message}`
-    });
-  }
+  },
 };
