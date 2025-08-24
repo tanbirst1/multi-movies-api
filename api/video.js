@@ -28,37 +28,45 @@ async function fetchHTML(target, timeoutMs = 20000) {
     const resp = await fetch(target, {
       method: "GET",
       headers: {
-        "user-agent": "Mozilla/5.0 (compatible; VercelScraper/1.2; +https://vercel.com/)",
+        "user-agent": "Mozilla/5.0 (compatible; VercelScraper/1.3; +https://vercel.com/)",
         accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
       },
       signal: ac.signal
     });
-    if (!resp.ok) {
-      const text = await resp.text().catch(() => "");
-      throw new Error(`Fetch failed ${resp.status} ${resp.statusText} for ${target} :: ${text.slice(0,200)}`);
-    }
+    if (!resp.ok) throw new Error(`Fetch failed ${resp.status} ${resp.statusText}`);
     return await resp.text();
   } finally { clearTimeout(t); }
 }
 
-function parseEpisodePage(html, pageUrl, siteRoot) {
+async function fetchAjaxEmbed(root, { post, nume, type }) {
+  const url = `${root}/wp-admin/admin-ajax.php`;
+  const body = new URLSearchParams({
+    action: "doo_player_ajax",
+    post,
+    nume,
+    type
+  });
+  const resp = await fetch(url, {
+    method: "POST",
+    headers: {
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "user-agent": "Mozilla/5.0 (compatible; VercelScraper/1.3; +https://vercel.com/)"
+    },
+    body
+  });
+  const text = await resp.text();
+  // the response is usually an iframe HTML string
+  const $ = cheerio.load(text);
+  const src = $("iframe").attr("src") || "";
+  return src;
+}
+
+async function parseEpisodePage(html, pageUrl, siteRoot) {
   const $ = cheerio.load(html);
 
   // Views
   const viewsText = $("#playernotice").data("text") || "";
   const views = parseInt(String(viewsText).replace(/\D/g, ""), 10) || 0;
-
-  // Video sources (support delayed loading / black screen embeds)
-  const sources = [];
-  $("div[id^='source-player-']").each((_, div) => {
-    const $div = $(div);
-    const $iframe = $div.find("iframe.metaframe, iframe.rptss, iframe").first();
-    if ($iframe.length) {
-      let src = $iframe.attr("src") || "";
-      if (src && !/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
-      sources.push(src);
-    }
-  });
 
   // Player options
   const options = [];
@@ -70,6 +78,34 @@ function parseEpisodePage(html, pageUrl, siteRoot) {
     const title = $li.find(".title").text().trim() || "";
     options.push({ type, post, nume, title });
   });
+
+  // Try iframe directly
+  const sources = [];
+  $("div[id^='source-player-']").each((_, div) => {
+    const $div = $(div);
+    const $iframe = $div.find("iframe").first();
+    if ($iframe.length) {
+      let src = $iframe.attr("src") || "";
+      if (src && src !== "about:blank") {
+        if (!/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
+        sources.push(src);
+      }
+    }
+  });
+
+  // If no valid iframe (or only about:blank), resolve via Ajax
+  if (sources.length === 0 || sources.includes("about:blank")) {
+    for (const opt of options) {
+      try {
+        const resolved = await fetchAjaxEmbed(siteRoot, opt);
+        if (resolved) {
+          sources.push(resolved);
+        }
+      } catch (e) {
+        // ignore failed option
+      }
+    }
+  }
 
   return { ok: true, scrapedFrom: pageUrl, views, sources, options };
 }
@@ -97,7 +133,7 @@ module.exports = async function handler(req, res) {
 
     // fetch and parse
     const html = await fetchHTML(target);
-    const data = parseEpisodePage(html, target, siteRoot);
+    const data = await parseEpisodePage(html, target, siteRoot);
 
     res.setHeader("cache-control", "s-maxage=300, stale-while-revalidate=600");
     res.status(200).json(data);
