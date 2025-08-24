@@ -1,58 +1,110 @@
-// api/video.js
-import fetch from "node-fetch";
-import * as cheerio from "cheerio";
+const fs = require("fs");
+const path = require("path");
+const cheerio = require("cheerio");
 
-export default async function handler(req, res) {
+// --------- Helpers ---------
+function readBaseURL() {
+  const envBase = (process.env.BASE_URL || "").trim();
+  if (/^https?:\/\//i.test(envBase)) return envBase.replace(/\/+$/, "");
   try {
-    const { slug } = req.query;
-    if (!slug) {
-      return res.status(400).json({ error: "Missing slug parameter" });
+    const filePath = path.resolve(process.cwd(), "src", "baseurl.txt");
+    if (fs.existsSync(filePath)) {
+      const txt = fs.readFileSync(filePath, "utf8").trim();
+      if (/^https?:\/\//i.test(txt)) return txt.replace(/\/+$/, "");
     }
-
-    // Build target URL
-    const targetUrl = `https://multimovies.pro/${slug}`;
-
-    // Fetch HTML
-    const response = await fetch(targetUrl, {
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
-      },
-    });
-
-    const html = await response.text();
-    const $ = cheerio.load(html);
-
-    // Function to safely get iframe src
-    const getIframeSrc = () =>
-      $("#source-player-1 iframe").attr("src") || "";
-
-    // First attempt
-    let iframeSrc = getIframeSrc();
-
-    // If blank, retry a few times with delays (simulate waiting for AJAX)
-    let attempts = 0;
-    while (
-      (!iframeSrc || iframeSrc.startsWith("about:blank")) &&
-      attempts < 5
-    ) {
-      await new Promise((r) => setTimeout(r, 1500)); // wait 1.5s
-      iframeSrc = getIframeSrc();
-      attempts++;
-    }
-
-    if (!iframeSrc || iframeSrc.startsWith("about:blank")) {
-      return res
-        .status(404)
-        .json({ error: "Could not resolve video iframe src" });
-    }
-
-    res.status(200).json({
-      slug,
-      iframe: iframeSrc,
-    });
-  } catch (err) {
-    console.error("Scraper error:", err);
-    res.status(500).json({ error: "Internal Server Error" });
-  }
+  } catch (_) {}
+  return "https://multimovies.pro";
 }
+
+function toAbs(base, href) {
+  if (!href) return "";
+  try { return new URL(href, base).toString(); } catch { return href; }
+}
+
+async function fetchHTML(target, timeoutMs = 20000) {
+  const ac = new AbortController();
+  const t = setTimeout(() => ac.abort(), timeoutMs);
+  try {
+    const resp = await fetch(target, {
+      method: "GET",
+      headers: {
+        "user-agent": "Mozilla/5.0 (compatible; VercelScraper/1.4; +https://vercel.com/)",
+        accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+      },
+      signal: ac.signal
+    });
+    if (!resp.ok) throw new Error(`Fetch failed ${resp.status} ${resp.statusText}`);
+    return await resp.text();
+  } finally { clearTimeout(t); }
+}
+
+function parseEpisodePage(html, pageUrl, siteRoot) {
+  const $ = cheerio.load(html);
+
+  // Views
+  const viewsText = $("#playernotice").data("text") || "";
+  const views = parseInt(String(viewsText).replace(/\D/g, ""), 10) || 0;
+
+  // Player options
+  const options = [];
+  $("#playeroptionsul li").each((_, li) => {
+    const $li = $(li);
+    const type = $li.data("type") || "";
+    const post = $li.data("post") || "";
+    const nume = $li.data("nume") || "";
+    const title = $li.find(".title").text().trim() || "";
+    options.push({ type, post, nume, title });
+  });
+
+  // Collect iframe sources
+  const sources = [];
+  $("div[id^='source-player-'] iframe").each((_, iframe) => {
+    let src = $(iframe).attr("src") || "";
+    if (src && src !== "about:blank") {
+      if (!/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
+      sources.push(src);
+    }
+  });
+
+  return { ok: true, scrapedFrom: pageUrl, views, sources, options };
+}
+
+// --------- Handler ---------
+module.exports = async function handler(req, res) {
+  try {
+    const q = req.query || {};
+    const base = (q.base && String(q.base)) || readBaseURL();
+
+    let target = (q.url && String(q.url).trim()) || "";
+
+    // support ?slug=episodes/naruto-shippuden-1x1/
+    if (!target && q.slug) {
+      const slug = String(q.slug).replace(/^\/+/, "").replace(/\/+$/, "");
+      target = `${base.replace(/\/+$/, "")}/${slug}`;
+    }
+
+    if (!target) {
+      res.status(400).json({ ok: false, error: "Missing target URL. Provide ?url= or ?slug=" });
+      return;
+    }
+
+    const siteRoot = (() => {
+      try { return new URL(base || target).origin; }
+      catch { return base || target; }
+    })();
+
+    // fetch and parse
+    const html = await fetchHTML(target);
+    const data = parseEpisodePage(html, target, siteRoot);
+
+    res.setHeader("cache-control", "s-maxage=300, stale-while-revalidate=600");
+    res.status(200).json(data);
+  } catch (err) {
+    const dev = process.env.NODE_ENV !== "production";
+    res.status(500).json({
+      ok: false,
+      error: err && err.message ? err.message : String(err),
+      stack: dev ? (err && err.stack) : undefined
+    });
+  }
+};
