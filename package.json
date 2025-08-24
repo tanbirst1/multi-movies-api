@@ -1,10 +1,17 @@
 {
-  "name": "multi-movies-api",
+  "name": "vercel-multimovies-scraper",
   "version": "1.0.0",
+  "private": true,
   "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
-    "node-fetch": "^3.3.2",
-    "cloudscraper": "^4.6.0"
+    "cheerio": "^1.0.0",
+    "undici": "^6.19.8"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/health.js"
   }
 }
