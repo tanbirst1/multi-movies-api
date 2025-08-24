@@ -1,14 +1,14 @@
 {
-  "name": "vercel-multimovies-scraper",
-  "version": "1.1.0",
-  "private": true,
-  "description": "Serverless scraper for multimovies-style pages (crash-proof)",
-  "engines": { "node": ">=18" },
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.12"
-  },
+  "name": "tv-api",
+  "version": "1.0.0",
+  "main": "api/tv.js",
   "scripts": {
+    "start": "node api/tv.js",
     "dev": "vercel dev",
-    "start": "node api/health.js"
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
   }
 }
