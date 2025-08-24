@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const cheerio = require("cheerio");
 
-// ------- Helpers -------
+// --------- Helpers ---------
 function readBaseURL() {
   const envBase = (process.env.BASE_URL || "").trim();
   if (/^https?:\/\//i.test(envBase)) return envBase.replace(/\/+$/, "");
@@ -28,7 +28,7 @@ async function fetchHTML(target, timeoutMs = 20000) {
     const resp = await fetch(target, {
       method: "GET",
       headers: {
-        "user-agent": "Mozilla/5.0 (compatible; VercelScraper/1.1; +https://vercel.com/)",
+        "user-agent": "Mozilla/5.0 (compatible; VercelScraper/1.2; +https://vercel.com/)",
         accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
       },
       signal: ac.signal
@@ -48,12 +48,16 @@ function parseEpisodePage(html, pageUrl, siteRoot) {
   const viewsText = $("#playernotice").data("text") || "";
   const views = parseInt(String(viewsText).replace(/\D/g, ""), 10) || 0;
 
-  // Video sources
+  // Video sources (support delayed loading / black screen embeds)
   const sources = [];
-  $("#source-player-1, #source-player-2, #source-player-3").each((_, div) => {
+  $("div[id^='source-player-']").each((_, div) => {
     const $div = $(div);
-    const iframeSrc = $div.find("iframe").attr("src") || "";
-    if (iframeSrc) sources.push(toAbs(siteRoot, iframeSrc));
+    const $iframe = $div.find("iframe.metaframe, iframe.rptss, iframe").first();
+    if ($iframe.length) {
+      let src = $iframe.attr("src") || "";
+      if (src && !/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
+      sources.push(src);
+    }
   });
 
   // Player options
@@ -70,7 +74,7 @@ function parseEpisodePage(html, pageUrl, siteRoot) {
   return { ok: true, scrapedFrom: pageUrl, views, sources, options };
 }
 
-// ------- Handler -------
+// --------- Handler ---------
 module.exports = async function handler(req, res) {
   try {
     const q = req.query || {};
@@ -91,6 +95,7 @@ module.exports = async function handler(req, res) {
 
     const siteRoot = (() => { try { return new URL(base || target).origin; } catch { return base || target; } })();
 
+    // fetch and parse
     const html = await fetchHTML(target);
     const data = parseEpisodePage(html, target, siteRoot);
 
