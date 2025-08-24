@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "builds": [
-    { "src": "index.js", "use": "@vercel/node" }
-  ],
+  "functions": {
+    "api/*.js": {
+      "runtime": "nodejs20.x",
+      "memory": 768,
+      "maxDuration": 30
+    }
+  },
   "routes": [
-    { "src": "/(.*)", "dest": "index.js" }
+    { "src": "/api/health", "dest": "/api/health.js" },
+    { "src": "/api/scrape", "dest": "/api/scrape.js" }
   ]
 }
