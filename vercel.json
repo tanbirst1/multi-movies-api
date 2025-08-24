@@ -1,12 +1,5 @@
 {
-  "version": 2,
-  "functions": {
-    "api/*.js": {
-      "runtime": "nodejs20.x",
-      "memory": 768,
-      "maxDuration": 30
-    }
-  },
+  
   "routes": [
     { "src": "/api/health", "dest": "/api/health.js" },
     { "src": "/api/scrape", "dest": "/api/scrape.js" }
