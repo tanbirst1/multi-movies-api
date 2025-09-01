@@ -28,8 +28,9 @@ async function fetchHTML(target, timeoutMs = 20000) {
     const resp = await fetch(target, {
       method: "GET",
       headers: {
-        "user-agent": "Mozilla/5.0 (compatible; VercelScraper/1.4; +https://vercel.com/)",
-        accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        "user-agent": "Mozilla/5.0 (compatible; VercelScraper/1.5; +https://vercel.com/)",
+        accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "accept-encoding": "gzip, deflate, br"
       },
       signal: ac.signal
     });
@@ -39,7 +40,10 @@ async function fetchHTML(target, timeoutMs = 20000) {
 }
 
 function parseEpisodePage(html, pageUrl, siteRoot) {
-  const $ = cheerio.load(html);
+  const $ = cheerio.load(html, { decodeEntities: true });
+
+  // Remove heavy tags early (speed up DOM ops)
+  $("script, style, link").remove();
 
   // Views
   const viewsText = $("#playernotice").data("text") || "";
@@ -49,22 +53,22 @@ function parseEpisodePage(html, pageUrl, siteRoot) {
   const options = [];
   $("#playeroptionsul li").each((_, li) => {
     const $li = $(li);
-    const type = $li.data("type") || "";
-    const post = $li.data("post") || "";
-    const nume = $li.data("nume") || "";
-    const title = $li.find(".title").text().trim() || "";
-    options.push({ type, post, nume, title });
+    options.push({
+      type: $li.data("type") || "",
+      post: $li.data("post") || "",
+      nume: $li.data("nume") || "",
+      title: $li.find(".title").text().trim() || ""
+    });
   });
 
   // Collect iframe sources
   const sources = [];
   $("div[id^='source-player-'] iframe").each((_, iframe) => {
-    let src = $(iframe).attr("src") || "";
-
-    // handle about:blank → fallback attributes
-    if (!src || src === "about:blank") {
-      src = $(iframe).attr("data-litespeed-src") || $(iframe).attr("data-src") || "";
-    }
+    let src =
+      $(iframe).attr("src") ||
+      $(iframe).attr("data-litespeed-src") ||
+      $(iframe).attr("data-src") ||
+      "";
 
     if (src) {
       if (!/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
@@ -103,7 +107,8 @@ module.exports = async function handler(req, res) {
     const html = await fetchHTML(target);
     const data = parseEpisodePage(html, target, siteRoot);
 
-    res.setHeader("cache-control", "s-maxage=300, stale-while-revalidate=600");
+    // 🔥 Fast cache: 500s CDN cache, SWR for 600s
+    res.setHeader("cache-control", "s-maxage=500, stale-while-revalidate=600");
     res.status(200).json(data);
   } catch (err) {
     const dev = process.env.NODE_ENV !== "production";
