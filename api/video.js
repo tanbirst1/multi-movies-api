@@ -60,7 +60,13 @@ function parseEpisodePage(html, pageUrl, siteRoot) {
   const sources = [];
   $("div[id^='source-player-'] iframe").each((_, iframe) => {
     let src = $(iframe).attr("src") || "";
-    if (src && src !== "about:blank") {
+
+    // handle about:blank → fallback attributes
+    if (!src || src === "about:blank") {
+      src = $(iframe).attr("data-litespeed-src") || $(iframe).attr("data-src") || "";
+    }
+
+    if (src) {
       if (!/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
       sources.push(src);
     }
