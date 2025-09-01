@@ -28,7 +28,7 @@ async function fetchHTML(target, timeoutMs = 20000) {
     const resp = await fetch(target, {
       method: "GET",
       headers: {
-        "user-agent": "Mozilla/5.0 (compatible; VercelScraper/1.5; +https://vercel.com/)",
+        "user-agent": "Mozilla/5.0 (compatible; VercelScraper/1.6; +https://vercel.com/)",
         accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "accept-encoding": "gzip, deflate, br"
       },
@@ -64,13 +64,18 @@ function parseEpisodePage(html, pageUrl, siteRoot) {
   // Collect iframe sources
   const sources = [];
   $("div[id^='source-player-'] iframe").each((_, iframe) => {
-    let src =
-      $(iframe).attr("src") ||
-      $(iframe).attr("data-litespeed-src") ||
-      $(iframe).attr("data-src") ||
-      "";
+    let src = $(iframe).attr("src") || "";
 
-    if (src) {
+    // skip about:blank and try fallbacks
+    if (!src || src === "about:blank") {
+      src =
+        $(iframe).attr("data-litespeed-src") ||
+        $(iframe).attr("data-src") ||
+        "";
+    }
+
+    // only push if valid and not about:blank
+    if (src && src !== "about:blank") {
       if (!/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
       sources.push(src);
     }
@@ -107,7 +112,7 @@ module.exports = async function handler(req, res) {
     const html = await fetchHTML(target);
     const data = parseEpisodePage(html, target, siteRoot);
 
-    // 🔥 Fast cache: 500s CDN cache, SWR for 600s
+    // cache: 500s CDN cache, SWR for 600s
     res.setHeader("cache-control", "s-maxage=500, stale-while-revalidate=600");
     res.status(200).json(data);
   } catch (err) {
