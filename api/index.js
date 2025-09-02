@@ -1,4 +1,14 @@
+// In-memory cache
+let CACHE = { ts: 0, data: null };
+const CACHE_TTL = 500 * 1000; // 500 seconds
+
 export default async function handler(req, res) {
+  // --- Return cached data if still valid ---
+  const now = Date.now();
+  if (CACHE.data && now - CACHE.ts < CACHE_TTL) {
+    return res.status(200).json(CACHE.data);
+  }
+
   // Default target
   let TARGET = "https://multimovies.pro";
 
@@ -10,7 +20,7 @@ export default async function handler(req, res) {
     const text = (await fs.readFile(filePath, "utf8")).trim();
     if (text) TARGET = text;
   } catch (e) {
-    // ignore if file missing, fallback to default
+    // ignore if file missing
   }
 
   try {
@@ -18,16 +28,9 @@ export default async function handler(req, res) {
       headers: {
         "User-Agent":
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
-        "Accept":
-          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
         "Connection": "keep-alive",
-        "Referer": "https://multimovies.coupons/",
-        "Sec-Fetch-Dest": "document",
-        "Sec-Fetch-Mode": "navigate",
-        "Sec-Fetch-Site": "same-origin",
-        "Sec-Fetch-User": "?1",
-        "Upgrade-Insecure-Requests": "1"
       },
     });
 
@@ -37,7 +40,7 @@ export default async function handler(req, res) {
 
     const html = await r.text();
 
-    // === Parsing logic stays the same ===
+    // === Existing parsing logic (sections) ===
     const headerRegex = /<header[^>]*>[\s\S]*?<h2[^>]*>([^<]+)<\/h2>[\s\S]*?<\/header>/gi;
     const headers = [];
     let hMatch;
@@ -70,26 +73,25 @@ export default async function handler(req, res) {
       const idMatch = /post(?:-featured)?-(\d+)/i.exec(blockHtml);
       const id = idMatch ? idMatch[1] : null;
 
-      const imgMatch = /<img[^>]*\bsrc=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
+      const imgMatch = /<img[^>]*\bdata-src=(?:"|')([^"']+)(?:"|')/i.exec(blockHtml) 
+                    || /<img[^>]*\bsrc=(?:"|')([^"']+)(?:"|')/i.exec(blockHtml);
       let img = imgMatch ? imgMatch[1] : null;
       if (img) img = img.replace(/-\d+x\d+(\.\w{2,6})$/i, "$1");
 
-      const ratingMatch = /<div[^>]*\bclass=(?:"|')[^"']*?\brating\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(blockHtml);
-      const rating = ratingMatch ? ratingMatch[1].trim() : null;
+      const ratingMatch = /<b>(\d+\.\d+)<\/b>/i.exec(blockHtml);
+      const rating = ratingMatch ? ratingMatch[1] : null;
 
-      const urlMatch =
-        /<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>[^<]*<div[^>]*class=(?:"|')[^"']*?\bsee\b[^"']*(?:"|')/i.exec(blockHtml) ||
-        /<h3>[\s\S]*?<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
+      const yearMatch = /<span[^>]*class=(?:"|')year(?:"|')[^>]*>(\d{4})<\/span>/i.exec(blockHtml);
+      const year = yearMatch ? yearMatch[1] : null;
+
+      const urlMatch = /<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')/i.exec(blockHtml);
       let url = urlMatch ? urlMatch[1] : null;
       if (url) url = url.replace(/^https?:\/\/[^/]+/i, "");
 
-      const titleMatch = /<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>/i.exec(blockHtml);
+      const titleMatch = /<h3[^>]*>([^<]+)<\/h3>/i.exec(blockHtml);
       const title = titleMatch ? titleMatch[1].trim() : null;
 
-      const dateMatch = /<h3[\s\S]*?<\/h3>\s*<span[^>]*>([^<]+)<\/span>/i.exec(blockHtml);
-      const date = dateMatch ? dateMatch[1].trim() : null;
-
-      return { id, img, rating, url, title, date };
+      return { id, img, rating, year, url, title };
     }
 
     const sections = {};
@@ -108,48 +110,30 @@ export default async function handler(req, res) {
       sections[sec.name] = items;
     }
 
-    // fallback parsing
-    if (Object.keys(sections).length === 0) {
-      const fallback = { featured: [], movies: [] };
-      const featuredRegex =
-        /<article[^>]*?post-featured-(\d+)[\s\S]*?<img[^>]*src=(?:"|')([^"']+)(?:"|')[\s\S]*?<div[^>]*class=(?:"|')rating(?:"|')[^>]*>([^<]+)<\/div>[\s\S]*?<a[^>]*href=(?:"|')([^"']+)(?:"|')[\s\S]*?<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>[\s\S]*?<span[^>]*>([^<]+)<\/span>/gi;
-      let fm;
-      while ((fm = featuredRegex.exec(html)) !== null) {
-        let img = fm[2].replace(/-\d+x\d+(\.\w+)$/, "$1");
-        let url = fm[4].replace(/^https?:\/\/[^/]+/, "");
-        fallback.featured.push({
-          id: fm[1],
-          img,
-          rating: fm[3].trim(),
-          url,
-          title: fm[5].trim(),
-          date: fm[6].trim(),
-        });
+    // === New: Parse "Most Popular" aside ===
+    const asideRegex = /<aside[^>]*class="widget doothemes_widget"[^>]*>[\s\S]*?<\/aside>/i;
+    const asideMatch = asideRegex.exec(html);
+    if (asideMatch) {
+      const asideHtml = asideMatch[0];
+      const articleRegex = /<article\b[\s\S]*?<\/article>/gi;
+      const items = [];
+      let m;
+      while ((m = articleRegex.exec(asideHtml)) !== null) {
+        const item = parseArticleBlock(m[0]);
+        if (item.title && item.url) items.push(item);
       }
-
-      const moviesRegex =
-        /<article[^>]*?id="post-(\d+)"[\s\S]*?<img[^>]*src=(?:"|')([^"']+)(?:"|')[\s\S]*?<div[^>]*class=(?:"|')rating(?:"|')[^>]*>([^<]+)<\/div>[\s\S]*?<a[^>]*href=(?:"|')([^"']+)(?:"|')[\s\S]*?<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>[\s\S]*?<span[^>]*>([^<]+)<\/span>/gi;
-      while ((fm = moviesRegex.exec(html)) !== null) {
-        let img = fm[2].replace(/-\d+x\d+(\.\w+)$/, "$1");
-        let url = fm[4].replace(/^https?:\/\/[^/]+/, "");
-        fallback.movies.push({
-          id: fm[1],
-          img,
-          rating: fm[3].trim(),
-          url,
-          title: fm[5].trim(),
-          date: fm[6].trim(),
-        });
-      }
-
-      if (fallback.featured.length) sections["Featured titles"] = fallback.featured;
-      if (fallback.movies.length) sections["Movies"] = fallback.movies;
+      if (items.length) sections["Most Popular"] = items;
     }
 
     const summary = {};
     for (const k of Object.keys(sections)) summary[k] = sections[k].length;
 
-    return res.status(200).json({ status: "ok", counts: summary, sections });
+    const payload = { status: "ok", counts: summary, sections };
+
+    // Save to cache
+    CACHE = { ts: now, data: payload };
+
+    return res.status(200).json(payload);
   } catch (err) {
     return res.status(500).json({ error: err.message || String(err) });
   }
