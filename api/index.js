@@ -13,22 +13,7 @@ function cleanCache() {
 
 export default async function handler(req, res) {
   // Default target
-  let TARGET = "https://multimovies.pro";
-
-  // Optional: load custom target from ../src/baseurl.txt if exists
-  try {
-    // Check if running in a serverless environment with file system access
-    const { default: fs } = await import("fs/promises").catch(() => ({}));
-    const { default: path } = await import("path").catch(() => ({}));
-    if (fs && fs.readFile && path && path.resolve) {
-      const filePath = path.resolve(process.cwd(), "src/baseurl.txt");
-      const text = await fs.readFile(filePath, "utf8").catch(() => "");
-      if (text) TARGET = text.trim();
-    }
-  } catch (e) {
-    console.error("Failed to read baseurl.txt:", e.message);
-    // Continue with default TARGET
-  }
+  const TARGET = "https://multimovies.pro";
 
   // Check cache for previous 500 error
   const cacheKey = `error_${TARGET}`;
@@ -138,6 +123,35 @@ export default async function handler(req, res) {
       }
     }
 
+    function parseTopImdbItem(blockHtml) {
+      try {
+        const idMatch = /id=['"]top-(\d+)['"]/i.exec(blockHtml);
+        const id = idMatch ? idMatch[1] : null;
+
+        const imgMatch = /<img[^>]*\bdata-src=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
+        let img = imgMatch ? imgMatch[1] : null;
+        if (img) img = img.replace(/-\d+x\d+(\.\w{2,6})$/i, "$1");
+
+        const ratingMatch = /<div[^>]*\bclass=(?:"|')[^"']*?\b(rating)\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(blockHtml);
+        const rating = ratingMatch ? ratingMatch[2].trim() : null;
+
+        const urlMatch = /<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>[^<]*<img/i.exec(blockHtml);
+        let url = urlMatch ? urlMatch[1] : null;
+        if (url) url = url.replace(/^https?:\/\/[^/]+/i, "");
+
+        const titleMatch = /<div[^>]*\bclass=(?:"|')[^"']*?\btitle\b[^"']*(?:"|')[^>]*><a[^>]*>([^<]+)<\/a>/i.exec(blockHtml);
+        const title = titleMatch ? titleMatch[1].trim() : null;
+
+        const rankMatch = /<div[^>]*\bclass=(?:"|')[^"']*?\bpuesto\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(blockHtml);
+        const rank = rankMatch ? rankMatch[1].trim() : null;
+
+        return { id, img, rating, url, title, rank };
+      } catch (e) {
+        console.error("Error parsing TOP IMDb item:", e.message);
+        return null;
+      }
+    }
+
     const sections = {};
     for (let i = 0; i < headers.length; i++) {
       const sec = headers[i];
@@ -165,6 +179,27 @@ export default async function handler(req, res) {
         if (item && item.title && item.url) latestItems.push(item);
       }
       if (latestItems.length) sections["Latest Releases"] = latestItems;
+    }
+
+    // New section: TOP Movies
+    const topImdbRegex = /<div[^>]*class=(?:"|')[^"']*?\btop-imdb-list\b[^"']*(?:"|')[^>]*>[\s\S]*?(<div[^>]*class=(?:"|')[^"']*?\btop-imdb-item\b[^"']*(?:"|')[^>]*>[\s\S]*?<\/div>[\s\S]*?)*<\/div>/i;
+    const topImdbMatch = topImdbRegex.exec(html);
+    if (topImdbMatch) {
+      const topImdbItemRegex = /<div[^>]*class=(?:"|')[^"']*?\btop-imdb-item\b[^"']*(?:"|')[^>]*>[\s\S]*?(?=<\/div>)/gi;
+      const topItemsHtml = [];
+      let itemMatch;
+      let itemCount = 0;
+      const MAX_TOP_ITEMS = 100; // Limit to prevent excessive processing
+      while ((itemMatch = topImdbItemRegex.exec(topImdbMatch[0])) !== null && itemCount < MAX_TOP_ITEMS) {
+        topItemsHtml.push(itemMatch[0] + "</div>"); // Include closing tag
+        itemCount++;
+      }
+      const topItems = [];
+      for (const itemHtml of topItemsHtml) {
+        const item = parseTopImdbItem(itemHtml);
+        if (item && item.title && item.url) topItems.push(item);
+      }
+      if (topItems.length) sections["TOP Movies"] = topItems;
     }
 
     // Fallback parsing
