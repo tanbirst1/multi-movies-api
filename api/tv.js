@@ -102,6 +102,21 @@ async function fetchHTML(target, timeoutMs = 20000) {
   }
 }
 
+async function fetchMovieSources(target) {
+  try {
+    const apiUrl = `https://multi-movies-api.vercel.app/api/video.js?url=${encodeURIComponent(
+      target
+    )}`;
+    const resp = await fetch(apiUrl, {
+      headers: { "user-agent": "Mozilla/5.0 (MovieFetcher/1.0)" },
+    });
+    if (!resp.ok) return null;
+    return await resp.json();
+  } catch {
+    return null;
+  }
+}
+
 function parsePage(html, pageUrl, siteRoot) {
   const $ = cheerio.load(html);
 
@@ -317,6 +332,16 @@ module.exports = async function handler(req, res) {
     // --- Fetch + Parse ---
     const html = await fetchHTML(target);
     const data = parsePage(html, target, siteRoot || target);
+
+    // If it's a movie, fetch movie sources
+    if (/\/movies\//i.test(target)) {
+      const movieExtra = await fetchMovieSources(target);
+      if (movieExtra) {
+        data.views = movieExtra.views || null;
+        data.sources = movieExtra.sources || [];
+        data.options = movieExtra.options || [];
+      }
+    }
 
     // Save to cache for 500s
     cacheStore.set(target, { data, expiry: now + 500 * 1000 });
