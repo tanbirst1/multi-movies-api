@@ -2,6 +2,9 @@ const fs = require("fs");
 const path = require("path");
 const cheerio = require("cheerio");
 
+// ------- Simple In-memory Cache -------
+const cacheStore = new Map(); // key: target URL, value: { data, expiry }
+
 // ------- Helpers -------
 function readBaseURL() {
   // Prefer ENV, then file, else default
@@ -30,7 +33,11 @@ function getImgSrc($el) {
 
 function toAbs(base, href) {
   if (!href) return "";
-  try { return new URL(href, base).toString(); } catch { return href; }
+  try {
+    return new URL(href, base).toString();
+  } catch {
+    return href;
+  }
 }
 
 // normalize WP thumbs like ...-200x300.jpg(.webp) → full
@@ -45,10 +52,11 @@ function normalizeImageURL(u) {
     if (urlObj.hostname.includes("image.tmdb.org")) {
       return urlObj.toString();
     }
-  } catch { /* not absolute yet; skip */ }
+  } catch {
+    /* not absolute yet; skip */
+  }
 
   // Remove -WxH right before final (or double) extension e.g. .jpg.webp
-  // Handles ...-300x170.jpg, ...-300x170.jpg.webp, etc.
   out = out.replace(/-\d+x\d+(?=(?:\.[a-z0-9]+){1,2}$)/i, "");
 
   return out;
@@ -58,7 +66,8 @@ function slugifyTitle(s) {
   return String(s || "")
     .trim()
     .toLowerCase()
-    .normalize("NFKD").replace(/[\u0300-\u036f]/g, "") // remove accents
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "") // remove accents
     .replace(/&/g, " and ")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/-+/g, "-")
@@ -72,14 +81,20 @@ async function fetchHTML(target, timeoutMs = 20000) {
     const resp = await fetch(target, {
       method: "GET",
       headers: {
-        "user-agent": "Mozilla/5.0 (compatible; VercelScraper/1.2; +https://vercel.com/)",
-        accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        "user-agent":
+          "Mozilla/5.0 (compatible; VercelScraper/1.2; +https://vercel.com/)",
+        accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
       },
-      signal: ac.signal
+      signal: ac.signal,
     });
     if (!resp.ok) {
       const text = await resp.text().catch(() => "");
-      throw new Error(`Fetch failed ${resp.status} ${resp.statusText} for ${target} :: ${text.slice(0,200)}`);
+      throw new Error(
+        `Fetch failed ${resp.status} ${resp.statusText} for ${target} :: ${text.slice(
+          0,
+          200
+        )}`
+      );
     }
     return await resp.text();
   } finally {
@@ -108,14 +123,21 @@ function parsePage(html, pageUrl, siteRoot) {
 
   const firstAirDate =
     $("#single .sheader .data .extra .date").first().text().trim() ||
-    $('#info .custom_fields:contains("First air date") .valor').first().text().trim() ||
+    $('#info .custom_fields:contains("First air date") .valor')
+      .first()
+      .text()
+      .trim() ||
     "";
 
   const ratingValue =
     $(".starstruck-rating .dt_rating_vgs").first().text().trim() ||
-    $("#info .custom_fields:contains('TMDb Rating') .valor strong").first().text().trim() ||
+    $("#info .custom_fields:contains('TMDb Rating') .valor strong")
+      .first()
+      .text()
+      .trim() ||
     "";
-  const ratingCount = $(".starstruck-rating .rating-count").first().text().trim() || "";
+  const ratingCount =
+    $(".starstruck-rating .rating-count").first().text().trim() || "";
 
   const genres = [];
   $("#single .sheader .data .sgeneros a[rel='tag']").each((_, a) => {
@@ -141,7 +163,9 @@ function parsePage(html, pageUrl, siteRoot) {
       $se.find(".se-q .se-t").first().text().trim() ||
       $se.find(".se-q .se-t.se-o").first().text().trim() ||
       "";
-    const seasonNumber = seasonNumberText ? parseInt(seasonNumberText, 10) : null;
+    const seasonNumber = seasonNumberText
+      ? parseInt(seasonNumberText, 10)
+      : null;
     const seasonTitle = $se.find(".se-q .title").first().text().trim();
 
     const episodes = [];
@@ -165,7 +189,7 @@ function parsePage(html, pageUrl, siteRoot) {
         title: epTitle,
         url: epUrl,
         airDate,
-        thumbnail: thumb
+        thumbnail: thumb,
       });
     });
 
@@ -174,7 +198,7 @@ function parsePage(html, pageUrl, siteRoot) {
         seasonNumber,
         seasonTitle,
         episodeCount: episodes.length,
-        episodes
+        episodes,
       });
     }
   });
@@ -204,7 +228,6 @@ function parsePage(html, pageUrl, siteRoot) {
     const thumb = normalizeImageURL(toAbs(siteRoot, thumbRaw));
     let alt = ($img.attr("alt") || "").trim();
     if (!alt && href) {
-      // Derive a readable title from slug if alt missing
       try {
         const u = new URL(href);
         const seg = u.pathname.split("/").filter(Boolean).pop() || "";
@@ -212,7 +235,8 @@ function parsePage(html, pageUrl, siteRoot) {
       } catch {}
     }
     seen.add(href);
-    if (href) similar.push({ title: alt || "", url: href, thumbnail: thumb || "" });
+    if (href)
+      similar.push({ title: alt || "", url: href, thumbnail: thumb || "" });
   });
 
   const infoFields = {};
@@ -234,29 +258,32 @@ function parsePage(html, pageUrl, siteRoot) {
       ratingValue,
       ratingCount,
       synopsis,
-      infoFields
+      infoFields,
     },
     seasons,
     cast,
     gallery,
-    similar
+    similar,
   };
 }
 
+// ------- Handler -------
 module.exports = async function handler(req, res) {
   try {
     const q = req.query || {};
-    const base = (q.base && String(q.base)) || readBaseURL(); // origin like https://multimovies.pro
+    const base = (q.base && String(q.base)) || readBaseURL();
 
     let target = (q.url && String(q.url).trim()) || "";
 
-    // Support ?slug=Naruto (auto-builds https://.../tvshows/naruto/)
+    // Support ?slug=Naruto
     if (!target) {
       const slugParam = q.slug ? String(q.slug) : "";
       if (!base) {
         res.status(400).json({
           ok: false,
-          error: "Base URL missing. Provide BASE_URL env, src/baseurl.txt, or ?base= param."
+          cache: false,
+          error:
+            "Base URL missing. Provide BASE_URL env, src/baseurl.txt, or ?base= param.",
         });
         return;
       }
@@ -266,25 +293,43 @@ module.exports = async function handler(req, res) {
         const section = (q.section && String(q.section)) || "tvshows";
         target = `${origin}/${section.replace(/^\/|\/$/g, "")}/${slug}/`;
       } else {
-        // example default page
         target = `${origin}/tvshows/a-couple-of-cuckoos/`;
       }
     }
 
     let siteRoot = "";
-    try { siteRoot = new URL(base || target).origin; } catch {}
+    try {
+      siteRoot = new URL(base || target).origin;
+    } catch {}
 
+    // --- Cache Check ---
+    const now = Date.now();
+    const cached = cacheStore.get(target);
+    if (cached && cached.expiry > now) {
+      res.setHeader(
+        "cache-control",
+        "s-maxage=500, stale-while-revalidate=600"
+      );
+      res.status(200).json({ ...cached.data, cache: true });
+      return;
+    }
+
+    // --- Fetch + Parse ---
     const html = await fetchHTML(target);
     const data = parsePage(html, target, siteRoot || target);
 
-    res.setHeader("cache-control", "s-maxage=300, stale-while-revalidate=600");
-    res.status(200).json(data);
+    // Save to cache for 500s
+    cacheStore.set(target, { data, expiry: now + 500 * 1000 });
+
+    res.setHeader("cache-control", "s-maxage=500, stale-while-revalidate=600");
+    res.status(200).json({ ...data, cache: false });
   } catch (err) {
     const dev = process.env.NODE_ENV !== "production";
     res.status(500).json({
       ok: false,
+      cache: false,
       error: err && err.message ? err.message : String(err),
-      stack: dev ? (err && err.stack) : undefined
+      stack: dev ? err.stack : undefined,
     });
   }
 };
