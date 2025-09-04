@@ -3,12 +3,58 @@ const errorCache = new Map();
 const CACHE_TTL = 5 * 60 * 1000; // 5 minutes
 const MAX_CACHE_SIZE = 100; // Limit cache entries
 
+// Global limits to avoid ReferenceError in fallbacks/loops
+const MAX_ITERATIONS = 1000;
+const MAX_ARTICLES = 500;
+const MAX_TOP_ITEMS = 100;
+
 // Utility to clean cache
 function cleanCache() {
   if (errorCache.size > MAX_CACHE_SIZE) {
     const oldestKey = errorCache.keys().next().value;
     errorCache.delete(oldestKey);
   }
+}
+
+// --- helpers ---
+function stripDomain(url) {
+  if (!url) return url;
+  return url.replace(/^https?:\/\/[^/]+/i, "");
+}
+
+// Prefer data-src over src on lazy images
+function extractImg(blockHtml) {
+  const dataSrc = /<img[^>]*\bdata-src=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
+  const src = /<img[^>]*\bsrc=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
+  let img = (dataSrc ? dataSrc[1] : (src ? src[1] : null)) || null;
+  if (img && img.startsWith("data:image/")) {
+    // If only placeholder is present and a data-src exists elsewhere, try again narrowly
+    const fallback = /data-src=(?:"|')([^"']+)(?:"|')/i.exec(blockHtml);
+    img = fallback ? fallback[1] : img;
+  }
+  if (img) img = img.replace(/-\d+x\d+(\.\w{2,6})$/i, "$1");
+  return img;
+}
+
+// Balanced <div> extractor to correctly capture big containers (like the slider)
+function extractBalancedDiv(html, openIndex) {
+  const openTagEnd = html.indexOf(">", openIndex);
+  if (openTagEnd === -1) return null;
+  let depth = 1;
+  const re = /<div\b|<\/div>/gi;
+  re.lastIndex = openTagEnd + 1;
+  let m;
+  while ((m = re.exec(html)) !== null) {
+    if (m[0].toLowerCase() === "<div") depth++;
+    else depth--;
+    if (depth === 0) {
+      return {
+        start: openIndex,
+        end: re.lastIndex, // position just after the matched </div>
+      };
+    }
+  }
+  return null;
 }
 
 export default async function handler(req, res) {
@@ -62,7 +108,6 @@ export default async function handler(req, res) {
     const headers = [];
     let hMatch;
     let iterationCount = 0;
-    const MAX_ITERATIONS = 1000; // Prevent infinite loops
     while (
       (hMatch = headerRegex.exec(html)) !== null &&
       iterationCount < MAX_ITERATIONS
@@ -90,7 +135,6 @@ export default async function handler(req, res) {
       const out = [];
       let a;
       let articleCount = 0;
-      const MAX_ARTICLES = 500; // Prevent excessive memory usage
       while (
         (a = articleRegex.exec(scope)) !== null &&
         articleCount < MAX_ARTICLES
@@ -106,14 +150,12 @@ export default async function handler(req, res) {
 
     function parseArticleBlock(blockHtml) {
       try {
-        const idMatch = /post(?:-featured)?-(\d+)/i.exec(blockHtml);
+        const idMatch = /id=(?:"|')(?:post(?:-featured)?-(\d+))(?:["'])/i.exec(
+          blockHtml
+        );
         const id = idMatch ? idMatch[1] : null;
 
-        const imgMatch =
-          /<img[^>]*\bsrc=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml) ||
-          /<img[^>]*\bdata-src=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
-        let img = imgMatch ? imgMatch[1] : null;
-        if (img) img = img.replace(/-\d+x\d+(\.\w{2,6})$/i, "$1");
+        const img = extractImg(blockHtml);
 
         const ratingMatch =
           /<div[^>]*\bclass=(?:"|')[^"']*?\brating\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(
@@ -130,23 +172,28 @@ export default async function handler(req, res) {
           ) ||
           /<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>\s*<img/i.exec(blockHtml);
         let url = urlMatch ? urlMatch[1] : null;
-        if (url) url = url.replace(/^https?:\/\/[^/]+/i, "");
+        url = stripDomain(url);
 
         const titleMatch =
           /<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>/i.exec(
             blockHtml
-          ) ||
-          /<h3 class="title">([^<]+)<\/h3>/i.exec(blockHtml);
+          ) || /<h3[^>]*class=(?:"|')[^"']*?\btitle\b[^"']*(?:"|')>([^<]+)<\/h3>/i.exec(blockHtml);
         const title = titleMatch ? titleMatch[1].trim() : null;
 
         const dateMatch =
           /<h3[\s\S]*?<\/h3>\s*<span[^>]*>([^<]+)<\/span>/i.exec(blockHtml) ||
-          /<div class="data">[\s\S]*?<span[^>]*>([^<]+)<\/span>/i.exec(
+          /<div[^>]*class=(?:"|')[^"']*?\bdata\b[^"']*(?:"|')[^>]*>[\s\S]*?<span[^>]*>([^<]+)<\/span>/i.exec(
             blockHtml
           );
         const date = dateMatch ? dateMatch[1].trim() : null;
 
-        return { id, img, rating, url, title, date };
+        const typeMatch =
+          /<span[^>]*class=(?:"|')[^"']*?\bitem_type\b[^"']*(?:"|')[^>]*>([^<]+)<\/span>/i.exec(
+            blockHtml
+          );
+        const item_type = typeMatch ? typeMatch[1].trim() : null;
+
+        return { id, img, rating, url, title, date, item_type };
       } catch (e) {
         console.error("Error parsing article block:", e.message);
         return null;
@@ -158,10 +205,7 @@ export default async function handler(req, res) {
         const idMatch = /id=['"]top-(\d+)['"]/i.exec(blockHtml);
         const id = idMatch ? idMatch[1] : null;
 
-        const imgMatch =
-          /<img[^>]*\bdata-src=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
-        let img = imgMatch ? imgMatch[1] : null;
-        if (img) img = img.replace(/-\d+x\d+(\.\w{2,6})$/i, "$1");
+        const img = extractImg(blockHtml);
 
         const ratingMatch =
           /<div[^>]*\bclass=(?:"|')[^"']*?\b(rating)\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(
@@ -174,7 +218,7 @@ export default async function handler(req, res) {
             blockHtml
           );
         let url = urlMatch ? urlMatch[1] : null;
-        if (url) url = url.replace(/^https?:\/\/[^/]+/i, "");
+        url = stripDomain(url);
 
         const titleMatch =
           /<div[^>]*\bclass=(?:"|')[^"']*?\btitle\b[^"']*(?:"|')[^>]*><a[^>]*>([^<]+)<\/a>/i.exec(
@@ -195,26 +239,7 @@ export default async function handler(req, res) {
       }
     }
 
-    // === NEW: parse slider section ===
-    function parseSliderItems(html) {
-      const sliderRegex =
-        /<div[^>]*id=["']slider-movies-tvshows["'][^>]*>([\s\S]*?)<\/div>/i;
-      const match = sliderRegex.exec(html);
-      if (!match) return [];
-
-      const sliderHtml = match[1];
-      const articleRegex = /<article\b[\s\S]*?<\/article>/gi;
-      const out = [];
-      let m;
-      let count = 0;
-      while ((m = articleRegex.exec(sliderHtml)) !== null && count < 200) {
-        const item = parseArticleBlock(m[0]);
-        if (item && item.title && item.url) out.push(item);
-        count++;
-      }
-      return out;
-    }
-
+    // === parse main sections discovered via headers ===
     const sections = {};
     for (let i = 0; i < headers.length; i++) {
       const sec = headers[i];
@@ -258,7 +283,6 @@ export default async function handler(req, res) {
       const topItemsHtml = [];
       let itemMatch;
       let itemCount = 0;
-      const MAX_TOP_ITEMS = 100; // Limit to prevent excessive processing
       while (
         (itemMatch = topImdbItemRegex.exec(topImdbMatch[0])) !== null &&
         itemCount < MAX_TOP_ITEMS
@@ -274,15 +298,34 @@ export default async function handler(req, res) {
       if (topItems.length) sections["TOP Movies"] = topItems;
     }
 
-    // === Add slider section ===
-    const sliderItems = parseSliderItems(html);
-    if (sliderItems.length) sections["Slider Movies & TV Shows"] = sliderItems;
+    // === NEW: Slider Movies & TV Shows (balanced div extraction) ===
+    (function parseSlider() {
+      const openRegex =
+        /<div[^>]*\bid=(?:"|')slider-movies-tvshows(?:"|')[^>]*>/i;
+      const openMatch = openRegex.exec(html);
+      if (!openMatch) return;
+
+      const balanced = extractBalancedDiv(html, openMatch.index);
+      if (!balanced) return;
+
+      const sliderScope = html.slice(balanced.start, balanced.end);
+      const articleRegex = /<article\b[\s\S]*?<\/article>/gi;
+      const out = [];
+      let m;
+      let count = 0;
+      while ((m = articleRegex.exec(sliderScope)) !== null && count < 200) {
+        const item = parseArticleBlock(m[0]);
+        if (item && item.title && item.url) out.push(item);
+        count++;
+      }
+      if (out.length) sections["Slider Movies & TV Shows"] = out;
+    })();
 
     // Fallback parsing
     if (Object.keys(sections).length === 0) {
       const fallback = { featured: [], movies: [] };
       const featuredRegex =
-        /<article[^>]*?post-featured-(\d+)[\s\S]*?<img[^>]*src=(?:"|')([^"']+)(?:"|')[\s\S]*?<div[^>]*class=(?:"|')rating(?:"|')[^>]*>([^<]+)<\/div>[\s\S]*?<a[^>]*href=(?:"|')([^"']+)(?:"|')[\s\S]*?<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>[\s\S]*?<span[^>]*>([^<]+)<\/span>/gi;
+        /<article[^>]*?post-featured-(\d+)[\s\S]*?<img[^>]*(?:data-src|src)=(?:"|')([^"']+)(?:"|')[\s\S]*?<div[^>]*class=(?:"|')rating(?:"|')[^>]*>([^<]+)<\/div>[\s\S]*?<a[^>]*href=(?:"|')([^"']+)(?:"|')[\s\S]*?<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>[\s\S]*?<span[^>]*>([^<]+)<\/span>/gi;
       let fm;
       let featuredCount = 0;
       while (
@@ -290,7 +333,7 @@ export default async function handler(req, res) {
         featuredCount < MAX_ARTICLES
       ) {
         let img = fm[2].replace(/-\d+x\d+(\.\w+)$/, "$1");
-        let url = fm[4].replace(/^https?:\/\/[^/]+/, "");
+        let url = stripDomain(fm[4]);
         fallback.featured.push({
           id: fm[1],
           img,
@@ -303,14 +346,14 @@ export default async function handler(req, res) {
       }
 
       const moviesRegex =
-        /<article[^>]*?id="post-(\d+)"[\s\S]*?<img[^>]*src=(?:"|')([^"']+)(?:"|')[\s\S]*?<div[^>]*class=(?:"|')rating(?:"|')[^>]*>([^<]+)<\/div>[\s\S]*?<a[^>]*href=(?:"|')([^"']+)(?:"|')[\s\S]*?<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>[\s\S]*?<span[^>]*>([^<]+)<\/span>/gi;
+        /<article[^>]*?id="post-(\d+)"[\s\S]*?<img[^>]*(?:data-src|src)=(?:"|')([^"']+)(?:"|')[\s\S]*?<div[^>]*class=(?:"|')rating(?:"|')[^>]*>([^<]+)<\/div>[\s\S]*?<a[^>]*href=(?:"|')([^"']+)(?:"|')[\s\S]*?<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>[\s\S]*?<span[^>]*>([^<]+)<\/span>/gi;
       let movieCount = 0;
       while (
         (fm = moviesRegex.exec(html)) !== null &&
         movieCount < MAX_ARTICLES
       ) {
         let img = fm[2].replace(/-\d+x\d+(\.\w+)$/, "$1");
-        let url = fm[4].replace(/^https?:\/\/[^/]+/, "");
+        let url = stripDomain(fm[4]);
         fallback.movies.push({
           id: fm[1],
           img,
