@@ -46,7 +46,10 @@ export default async function handler(req, res) {
 
     if (!r.ok) {
       const error = { error: "fetch_failed", status: r.status };
-      errorCache.set(cacheKey, { message: JSON.stringify(error), timestamp: Date.now() });
+      errorCache.set(cacheKey, {
+        message: JSON.stringify(error),
+        timestamp: Date.now(),
+      });
       cleanCache();
       return res.status(502).json(error);
     }
@@ -54,14 +57,19 @@ export default async function handler(req, res) {
     const html = await r.text();
 
     // === Parsing logic ===
-    const headerRegex = /<header[^>]*>[\s\S]*?<h2[^>]*>([^<]+)<\/h2>[\s\S]*?<\/header>/gi;
+    const headerRegex =
+      /<header[^>]*>[\s\S]*?<h2[^>]*>([^<]+)<\/h2>[\s\S]*?<\/header>/gi;
     const headers = [];
     let hMatch;
     let iterationCount = 0;
     const MAX_ITERATIONS = 1000; // Prevent infinite loops
-    while ((hMatch = headerRegex.exec(html)) !== null && iterationCount < MAX_ITERATIONS) {
+    while (
+      (hMatch = headerRegex.exec(html)) !== null &&
+      iterationCount < MAX_ITERATIONS
+    ) {
       const name = hMatch[1]?.trim();
-      if (name) headers.push({ name, headerEnd: hMatch.index + hMatch[0].length });
+      if (name)
+        headers.push({ name, headerEnd: hMatch.index + hMatch[0].length });
       iterationCount++;
     }
     if (iterationCount >= MAX_ITERATIONS) {
@@ -70,7 +78,8 @@ export default async function handler(req, res) {
 
     function findItemsDivStart(fromPos) {
       const sub = html.slice(fromPos);
-      const itemsDivRegex = /<div\b[^>]*\bclass=(?:"|')[^"']*?\bitems\b[^"']*(?:"|')[^>]*>/i;
+      const itemsDivRegex =
+        /<div\b[^>]*\bclass=(?:"|')[^"']*?\bitems\b[^"']*(?:"|')[^>]*>/i;
       const m = itemsDivRegex.exec(sub);
       return m ? fromPos + m.index : -1;
     }
@@ -82,7 +91,10 @@ export default async function handler(req, res) {
       let a;
       let articleCount = 0;
       const MAX_ARTICLES = 500; // Prevent excessive memory usage
-      while ((a = articleRegex.exec(scope)) !== null && articleCount < MAX_ARTICLES) {
+      while (
+        (a = articleRegex.exec(scope)) !== null &&
+        articleCount < MAX_ARTICLES
+      ) {
         out.push(a[0]);
         articleCount++;
       }
@@ -97,23 +109,41 @@ export default async function handler(req, res) {
         const idMatch = /post(?:-featured)?-(\d+)/i.exec(blockHtml);
         const id = idMatch ? idMatch[1] : null;
 
-        const imgMatch = /<img[^>]*\bsrc=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
+        const imgMatch =
+          /<img[^>]*\bsrc=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml) ||
+          /<img[^>]*\bdata-src=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
         let img = imgMatch ? imgMatch[1] : null;
         if (img) img = img.replace(/-\d+x\d+(\.\w{2,6})$/i, "$1");
 
-        const ratingMatch = /<div[^>]*\bclass=(?:"|')[^"']*?\brating\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(blockHtml);
+        const ratingMatch =
+          /<div[^>]*\bclass=(?:"|')[^"']*?\brating\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(
+            blockHtml
+          );
         const rating = ratingMatch ? ratingMatch[1].trim() : null;
 
         const urlMatch =
-          /<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>[^<]*<div[^>]*class=(?:"|')[^"']*?\bsee\b[^"']*(?:"|')/i.exec(blockHtml) ||
-          /<h3>[\s\S]*?<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
+          /<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>[^<]*<div[^>]*class=(?:"|')[^"']*?\bsee\b[^"']*(?:"|')/i.exec(
+            blockHtml
+          ) ||
+          /<h3>[\s\S]*?<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(
+            blockHtml
+          ) ||
+          /<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>\s*<img/i.exec(blockHtml);
         let url = urlMatch ? urlMatch[1] : null;
         if (url) url = url.replace(/^https?:\/\/[^/]+/i, "");
 
-        const titleMatch = /<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>/i.exec(blockHtml);
+        const titleMatch =
+          /<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>/i.exec(
+            blockHtml
+          ) ||
+          /<h3 class="title">([^<]+)<\/h3>/i.exec(blockHtml);
         const title = titleMatch ? titleMatch[1].trim() : null;
 
-        const dateMatch = /<h3[\s\S]*?<\/h3>\s*<span[^>]*>([^<]+)<\/span>/i.exec(blockHtml);
+        const dateMatch =
+          /<h3[\s\S]*?<\/h3>\s*<span[^>]*>([^<]+)<\/span>/i.exec(blockHtml) ||
+          /<div class="data">[\s\S]*?<span[^>]*>([^<]+)<\/span>/i.exec(
+            blockHtml
+          );
         const date = dateMatch ? dateMatch[1].trim() : null;
 
         return { id, img, rating, url, title, date };
@@ -128,21 +158,34 @@ export default async function handler(req, res) {
         const idMatch = /id=['"]top-(\d+)['"]/i.exec(blockHtml);
         const id = idMatch ? idMatch[1] : null;
 
-        const imgMatch = /<img[^>]*\bdata-src=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
+        const imgMatch =
+          /<img[^>]*\bdata-src=(?:"|')([^"']+)(?:"|')[^>]*>/i.exec(blockHtml);
         let img = imgMatch ? imgMatch[1] : null;
         if (img) img = img.replace(/-\d+x\d+(\.\w{2,6})$/i, "$1");
 
-        const ratingMatch = /<div[^>]*\bclass=(?:"|')[^"']*?\b(rating)\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(blockHtml);
+        const ratingMatch =
+          /<div[^>]*\bclass=(?:"|')[^"']*?\b(rating)\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(
+            blockHtml
+          );
         const rating = ratingMatch ? ratingMatch[2].trim() : null;
 
-        const urlMatch = /<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>[^<]*<img/i.exec(blockHtml);
+        const urlMatch =
+          /<a[^>]*\bhref=(?:"|')([^"']+)(?:"|')[^>]*>[^<]*<img/i.exec(
+            blockHtml
+          );
         let url = urlMatch ? urlMatch[1] : null;
         if (url) url = url.replace(/^https?:\/\/[^/]+/i, "");
 
-        const titleMatch = /<div[^>]*\bclass=(?:"|')[^"']*?\btitle\b[^"']*(?:"|')[^>]*><a[^>]*>([^<]+)<\/a>/i.exec(blockHtml);
+        const titleMatch =
+          /<div[^>]*\bclass=(?:"|')[^"']*?\btitle\b[^"']*(?:"|')[^>]*><a[^>]*>([^<]+)<\/a>/i.exec(
+            blockHtml
+          );
         const title = titleMatch ? titleMatch[1].trim() : null;
 
-        const rankMatch = /<div[^>]*\bclass=(?:"|')[^"']*?\bpuesto\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(blockHtml);
+        const rankMatch =
+          /<div[^>]*\bclass=(?:"|')[^"']*?\bpuesto\b[^"']*(?:"|')[^>]*>([^<]+)<\/div>/i.exec(
+            blockHtml
+          );
         const rank = rankMatch ? rankMatch[1].trim() : null;
 
         return { id, img, rating, url, title, rank };
@@ -150,6 +193,26 @@ export default async function handler(req, res) {
         console.error("Error parsing TOP IMDb item:", e.message);
         return null;
       }
+    }
+
+    // === NEW: parse slider section ===
+    function parseSliderItems(html) {
+      const sliderRegex =
+        /<div[^>]*id=["']slider-movies-tvshows["'][^>]*>([\s\S]*?)<\/div>/i;
+      const match = sliderRegex.exec(html);
+      if (!match) return [];
+
+      const sliderHtml = match[1];
+      const articleRegex = /<article\b[\s\S]*?<\/article>/gi;
+      const out = [];
+      let m;
+      let count = 0;
+      while ((m = articleRegex.exec(sliderHtml)) !== null && count < 200) {
+        const item = parseArticleBlock(m[0]);
+        if (item && item.title && item.url) out.push(item);
+        count++;
+      }
+      return out;
     }
 
     const sections = {};
@@ -169,10 +232,14 @@ export default async function handler(req, res) {
     }
 
     // Additional section: Latest Releases
-    const latestReleasesRegex = /<section[^>]*class=(?:"|')[^"']*?\blatest-releases\b[^"']*(?:"|')[^>]*>[\s\S]*?<div[^>]*class=(?:"|')[^"']*?\bitems\b[^"']*(?:"|')[^>]*>([\s\S]*?)<\/div>/i;
+    const latestReleasesRegex =
+      /<section[^>]*class=(?:"|')[^"']*?\blatest-releases\b[^"']*(?:"|')[^>]*>[\s\S]*?<div[^>]*class=(?:"|')[^"']*?\bitems\b[^"']*(?:"|')[^>]*>([\s\S]*?)<\/div>/i;
     const latestMatch = latestReleasesRegex.exec(html);
     if (latestMatch) {
-      const latestArticles = extractArticlesBetween(latestMatch.index, latestMatch.index + latestMatch[0].length);
+      const latestArticles = extractArticlesBetween(
+        latestMatch.index,
+        latestMatch.index + latestMatch[0].length
+      );
       const latestItems = [];
       for (const artHtml of latestArticles) {
         const item = parseArticleBlock(artHtml);
@@ -182,15 +249,20 @@ export default async function handler(req, res) {
     }
 
     // New section: TOP Movies
-    const topImdbRegex = /<div[^>]*class=(?:"|')[^"']*?\btop-imdb-list\b[^"']*(?:"|')[^>]*>[\s\S]*?(<div[^>]*class=(?:"|')[^"']*?\btop-imdb-item\b[^"']*(?:"|')[^>]*>[\s\S]*?<\/div>[\s\S]*?)*<\/div>/i;
+    const topImdbRegex =
+      /<div[^>]*class=(?:"|')[^"']*?\btop-imdb-list\b[^"']*(?:"|')[^>]*>[\s\S]*?(<div[^>]*class=(?:"|')[^"']*?\btop-imdb-item\b[^"']*(?:"|')[^>]*>[\s\S]*?<\/div>[\s\S]*?)*<\/div>/i;
     const topImdbMatch = topImdbRegex.exec(html);
     if (topImdbMatch) {
-      const topImdbItemRegex = /<div[^>]*class=(?:"|')[^"']*?\btop-imdb-item\b[^"']*(?:"|')[^>]*>[\s\S]*?(?=<\/div>)/gi;
+      const topImdbItemRegex =
+        /<div[^>]*class=(?:"|')[^"']*?\btop-imdb-item\b[^"']*(?:"|')[^>]*>[\s\S]*?(?=<\/div>)/gi;
       const topItemsHtml = [];
       let itemMatch;
       let itemCount = 0;
       const MAX_TOP_ITEMS = 100; // Limit to prevent excessive processing
-      while ((itemMatch = topImdbItemRegex.exec(topImdbMatch[0])) !== null && itemCount < MAX_TOP_ITEMS) {
+      while (
+        (itemMatch = topImdbItemRegex.exec(topImdbMatch[0])) !== null &&
+        itemCount < MAX_TOP_ITEMS
+      ) {
         topItemsHtml.push(itemMatch[0] + "</div>"); // Include closing tag
         itemCount++;
       }
@@ -202,6 +274,10 @@ export default async function handler(req, res) {
       if (topItems.length) sections["TOP Movies"] = topItems;
     }
 
+    // === Add slider section ===
+    const sliderItems = parseSliderItems(html);
+    if (sliderItems.length) sections["Slider Movies & TV Shows"] = sliderItems;
+
     // Fallback parsing
     if (Object.keys(sections).length === 0) {
       const fallback = { featured: [], movies: [] };
@@ -209,7 +285,10 @@ export default async function handler(req, res) {
         /<article[^>]*?post-featured-(\d+)[\s\S]*?<img[^>]*src=(?:"|')([^"']+)(?:"|')[\s\S]*?<div[^>]*class=(?:"|')rating(?:"|')[^>]*>([^<]+)<\/div>[\s\S]*?<a[^>]*href=(?:"|')([^"']+)(?:"|')[\s\S]*?<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>[\s\S]*?<span[^>]*>([^<]+)<\/span>/gi;
       let fm;
       let featuredCount = 0;
-      while ((fm = featuredRegex.exec(html)) !== null && featuredCount < MAX_ARTICLES) {
+      while (
+        (fm = featuredRegex.exec(html)) !== null &&
+        featuredCount < MAX_ARTICLES
+      ) {
         let img = fm[2].replace(/-\d+x\d+(\.\w+)$/, "$1");
         let url = fm[4].replace(/^https?:\/\/[^/]+/, "");
         fallback.featured.push({
@@ -226,7 +305,10 @@ export default async function handler(req, res) {
       const moviesRegex =
         /<article[^>]*?id="post-(\d+)"[\s\S]*?<img[^>]*src=(?:"|')([^"']+)(?:"|')[\s\S]*?<div[^>]*class=(?:"|')rating(?:"|')[^>]*>([^<]+)<\/div>[\s\S]*?<a[^>]*href=(?:"|')([^"']+)(?:"|')[\s\S]*?<h3[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>[\s\S]*?<\/h3>[\s\S]*?<span[^>]*>([^<]+)<\/span>/gi;
       let movieCount = 0;
-      while ((fm = moviesRegex.exec(html)) !== null && movieCount < MAX_ARTICLES) {
+      while (
+        (fm = moviesRegex.exec(html)) !== null &&
+        movieCount < MAX_ARTICLES
+      ) {
         let img = fm[2].replace(/-\d+x\d+(\.\w+)$/, "$1");
         let url = fm[4].replace(/^https?:\/\/[^/]+/, "");
         fallback.movies.push({
@@ -240,7 +322,8 @@ export default async function handler(req, res) {
         movieCount++;
       }
 
-      if (fallback.featured.length) sections["Featured titles"] = fallback.featured;
+      if (fallback.featured.length)
+        sections["Featured titles"] = fallback.featured;
       if (fallback.movies.length) sections["Movies"] = fallback.movies;
     }
 
@@ -250,7 +333,10 @@ export default async function handler(req, res) {
     return res.status(200).json({ status: "ok", counts: summary, sections });
   } catch (err) {
     console.error("Serverless function error:", err);
-    const errorMessage = err.name === "AbortError" ? "Fetch timeout" : err.message || "Internal server error";
+    const errorMessage =
+      err.name === "AbortError"
+        ? "Fetch timeout"
+        : err.message || "Internal server error";
     errorCache.set(cacheKey, { message: errorMessage, timestamp: Date.now() });
     cleanCache();
     return res.status(500).json({ error: errorMessage });
