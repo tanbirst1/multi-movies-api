@@ -1,55 +1,55 @@
-// api/header.js (Vercel Edge / Cloudflare Worker compatible)
-export const config = {
-  runtime: "edge",
-};
+// api/header.js (Edge Function compatible, no DOMParser)
+export const config = { runtime: "edge" };
 
 export default async function handler(req) {
   try {
-    // Fetch HTML from multimovies.pro
     const res = await fetch("https://multimovies.pro");
     const html = await res.text();
 
-    // Parse HTML using DOMParser (Edge-friendly)
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(html, "text/html");
-
-    const header = doc.querySelector("#main_header");
-    if (!header) {
+    // Extract main header UL
+    const headerMatch = html.match(/<ul id=["']main_header["'][^>]*>([\s\S]*?)<\/ul>/i);
+    if (!headerMatch) {
       return new Response(JSON.stringify({ error: "Header not found" }), {
         status: 404,
         headers: { "Content-Type": "application/json" },
       });
     }
 
-    function parseMenu(liElements) {
-      const menuArray = [];
-      liElements.forEach((li) => {
-        const aTag = li.querySelector("a");
-        if (!aTag) return;
+    const headerHTML = headerMatch[1];
 
-        let href = aTag.getAttribute("href") || "#";
+    // Function to parse <li> recursively
+    function parseMenu(html) {
+      const items = [];
+      const liRegex = /<li[^>]*>([\s\S]*?)<\/li>/gi;
+      let liMatch;
+      while ((liMatch = liRegex.exec(html))) {
+        const liContent = liMatch[1];
+
+        // Extract <a> tag
+        const aMatch = liContent.match(/<a[^>]*href=["']([^"']*)["'][^>]*>(.*?)<\/a>/i);
+        if (!aMatch) continue;
+        let href = aMatch[1];
+        const title = aMatch[2].replace(/<[^>]+>/g, "").trim();
+
         // Convert multimovies.pro URLs to relative paths
         if (href.includes("multimovies.pro")) {
           href = new URL(href).pathname;
         }
 
-        const menuItem = {
-          title: aTag.textContent.trim(),
-          url: href,
-        };
+        const item = { title, url: href };
 
-        const subMenuItems = li.querySelectorAll(":scope > ul.sub-menu > li");
-        if (subMenuItems.length > 0) {
-          menuItem.children = parseMenu(subMenuItems);
+        // Check for nested <ul class="sub-menu">
+        const subMenuMatch = liContent.match(/<ul[^>]*class=["']sub-menu["'][^>]*>([\s\S]*?)<\/ul>/i);
+        if (subMenuMatch) {
+          item.children = parseMenu(subMenuMatch[1]);
         }
 
-        menuArray.push(menuItem);
-      });
-      return menuArray;
+        items.push(item);
+      }
+      return items;
     }
 
-    const topLevelItems = header.querySelectorAll(":scope > li");
-    const menu = parseMenu(topLevelItems);
+    const menu = parseMenu(headerHTML);
 
     return new Response(JSON.stringify(menu, null, 2), {
       headers: { "Content-Type": "application/json" },
