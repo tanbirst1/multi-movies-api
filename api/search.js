@@ -1,25 +1,12 @@
 // api/search.js
-import fs from "fs";
-import path from "path";
 import fetch from "node-fetch";
 import cheerio from "cheerio";
 
-// Helper to read base URL
-function getBaseURL() {
-  const filePath = path.resolve(process.cwd(), "src", "baseurl.txt");
-  try {
-    const baseURL = fs.readFileSync(filePath, "utf-8").trim();
-    return baseURL.replace(/\/+$/, "");
-  } catch (err) {
-    console.error("Error reading baseurl.txt:", err);
-    return "https://multimovies.pro"; // fallback
-  }
-}
+// Base URL (no fs, just hardcode or env variable)
+const BASE_URL = process.env.BASE_URL || "https://multimovies.pro";
 
-// Scrape search results
 async function scrapeSearch(searchTerm) {
-  const baseURL = getBaseURL();
-  const url = `${baseURL}/?s=${encodeURIComponent(searchTerm)}`;
+  const url = `${BASE_URL}/?s=${encodeURIComponent(searchTerm)}`;
 
   const res = await fetch(url, { timeout: 15000 });
   if (!res.ok) throw new Error("Failed to fetch search results");
@@ -54,7 +41,6 @@ async function scrapeSearch(searchTerm) {
   return results;
 }
 
-// Vercel handler
 export default async function handler(req, res) {
   try {
     const searchTerm = req.query.s || "";
