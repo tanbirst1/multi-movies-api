@@ -1,57 +1,56 @@
 // api/search.js
-import fetch from "node-fetch";
-import cheerio from "cheerio";
+export const config = {
+  runtime: "edge", // <- Important for Vercel Edge Function
+};
 
-// Base URL (no fs, just hardcode or env variable)
-const BASE_URL = process.env.BASE_URL || "https://multimovies.pro";
+const BASE_URL = "https://multimovies.pro";
 
-async function scrapeSearch(searchTerm) {
-  const url = `${BASE_URL}/?s=${encodeURIComponent(searchTerm)}`;
-
-  const res = await fetch(url, { timeout: 15000 });
-  if (!res.ok) throw new Error("Failed to fetch search results");
-
-  const html = await res.text();
-  const $ = cheerio.load(html);
-
-  const results = [];
-
-  $(".result-item article").each((_, el) => {
-    const $el = $(el);
-
-    const link = $el.find(".thumbnail a").attr("href") || "";
-    const img = $el.find(".thumbnail img").attr("src") || "";
-    const type = $el.find(".thumbnail span").text() || "";
-    const title = $el.find(".details .title a").text() || "";
-    const year = $el.find(".details .meta .year").text() || "";
-    const rating = $el.find(".details .meta .rating").text() || "";
-    const description = $el.find(".details .contenido p").text() || "";
-
-    results.push({
-      title,
-      link,
-      img,
-      type,
-      year,
-      rating,
-      description,
-    });
-  });
-
-  return results;
-}
-
-export default async function handler(req, res) {
+export default async function handler(req) {
   try {
-    const searchTerm = req.query.s || "";
-    if (!searchTerm) {
-      return res.status(400).json({ error: "Missing search term (?s=...)" });
-    }
+    const { searchParams } = new URL(req.url);
+    const query = searchParams.get("s");
+    if (!query) return new Response(JSON.stringify({ error: "Missing ?s=" }), { status: 400 });
 
-    const results = await scrapeSearch(searchTerm);
-    res.status(200).json({ status: "ok", query: searchTerm, results });
+    const res = await fetch(`${BASE_URL}/?s=${encodeURIComponent(query)}`);
+    if (!res.ok) throw new Error("Failed to fetch search results");
+
+    const html = await res.text();
+
+    // Parse HTML using DOMParser (works in Edge runtime)
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
+
+    const results = [];
+    const articles = doc.querySelectorAll(".result-item article");
+
+    articles.forEach(article => {
+      const linkEl = article.querySelector(".thumbnail a");
+      const imgEl = article.querySelector(".thumbnail img");
+      const typeEl = article.querySelector(".thumbnail span");
+      const titleEl = article.querySelector(".details .title a");
+      const yearEl = article.querySelector(".details .meta .year");
+      const ratingEl = article.querySelector(".details .meta .rating");
+      const descEl = article.querySelector(".details .contenido p");
+
+      results.push({
+        title: titleEl?.textContent?.trim() || "",
+        link: linkEl?.href || "",
+        img: imgEl?.src || "",
+        type: typeEl?.textContent?.trim() || "",
+        year: yearEl?.textContent?.trim() || "",
+        rating: ratingEl?.textContent?.trim() || "",
+        description: descEl?.textContent?.trim() || "",
+      });
+    });
+
+    return new Response(JSON.stringify({ status: "ok", query, results }), {
+      status: 200,
+      headers: { "Content-Type": "application/json" },
+    });
   } catch (err) {
-    console.error(err);
-    res.status(500).json({ status: "error", message: err.message });
+    return new Response(JSON.stringify({ status: "error", message: err.message }), {
+      status: 500,
+      headers: { "Content-Type": "application/json" },
+    });
   }
 }
