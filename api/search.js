@@ -31,7 +31,7 @@ export default {
           // ✅ Convert to TMDB real URL if possible
           const fileName = img.split("/").pop(); // erEVbUNiNwbH8Pns2texFV1u5Xi.jpg
           if (fileName && fileName.length > 10) {
-            img = `https://image.tmdb.org/t/p/original/${fileName}`;
+            img = `https://image.tmdb.org/t/p/w500/${fileName}`;
           }
         }
 
