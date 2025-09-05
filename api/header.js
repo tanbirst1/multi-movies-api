@@ -1,4 +1,4 @@
-// api/header.js (Edge Function compatible, no DOMParser)
+// api/header.js
 export const config = { runtime: "edge" };
 
 export default async function handler(req) {
@@ -6,18 +6,31 @@ export default async function handler(req) {
     const res = await fetch("https://multimovies.pro");
     const html = await res.text();
 
-    // Extract main header UL
-    const headerMatch = html.match(/<ul id=["']main_header["'][^>]*>([\s\S]*?)<\/ul>/i);
+    // Extract the main <header id="header" class="main"> ... </header>
+    const headerMatch = html.match(
+      /<header id=["']header["'][^>]*class=["']main["'][\s\S]*?<\/header>/i
+    );
     if (!headerMatch) {
       return new Response(JSON.stringify({ error: "Header not found" }), {
         status: 404,
         headers: { "Content-Type": "application/json" },
       });
     }
+    const headerHTML = headerMatch[0];
 
-    const headerHTML = headerMatch[1];
+    // Extract logo
+    const logoMatch = headerHTML.match(
+      /<div class=["']logo["'][^>]*>[\s\S]*?<img[^>]*data-src=['"]([^'"]+)['"]/i
+    );
+    const logoURL = logoMatch ? logoMatch[1] : null;
 
-    // Function to parse <li> recursively
+    // Extract search form action
+    const searchMatch = headerHTML.match(
+      /<form[^>]*id=["']searchform["'][^>]*action=['"]([^'"]+)['"]/i
+    );
+    const searchAction = searchMatch ? searchMatch[1] : null;
+
+    // Recursive function to parse <ul> menu into JSON
     function parseMenu(html) {
       const items = [];
       const liRegex = /<li[^>]*>([\s\S]*?)<\/li>/gi;
@@ -31,14 +44,12 @@ export default async function handler(req) {
         let href = aMatch[1];
         const title = aMatch[2].replace(/<[^>]+>/g, "").trim();
 
-        // Convert multimovies.pro URLs to relative paths
-        if (href.includes("multimovies.pro")) {
-          href = new URL(href).pathname;
-        }
+        // Make relative paths for multimovies.pro URLs
+        if (href.includes("multimovies.pro")) href = new URL(href).pathname;
 
         const item = { title, url: href };
 
-        // Check for nested <ul class="sub-menu">
+        // Nested sub-menu
         const subMenuMatch = liContent.match(/<ul[^>]*class=["']sub-menu["'][^>]*>([\s\S]*?)<\/ul>/i);
         if (subMenuMatch) {
           item.children = parseMenu(subMenuMatch[1]);
@@ -49,9 +60,12 @@ export default async function handler(req) {
       return items;
     }
 
-    const menu = parseMenu(headerHTML);
+    // Extract main navigation menu <ul id="main_header" ...>
+    const menuMatch = headerHTML.match(/<ul[^>]*id=["']main_header["'][^>]*>([\s\S]*?)<\/ul>/i);
+    const menuHTML = menuMatch ? menuMatch[1] : "";
+    const menu = parseMenu(menuHTML);
 
-    return new Response(JSON.stringify(menu, null, 2), {
+    return new Response(JSON.stringify({ logo: logoURL, searchAction, menu }, null, 2), {
       headers: { "Content-Type": "application/json" },
     });
   } catch (err) {
