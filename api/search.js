@@ -7,22 +7,30 @@ export default {
       // Target search URL
       const targetUrl = `https://multimovies.pro/?s=${encodeURIComponent(query)}`;
 
-      // Fetch page
+      // Fetch the page
       const response = await fetch(targetUrl, {
         headers: { "User-Agent": "Mozilla/5.0" }
       });
       const html = await response.text();
 
-      // Simple scrape using regex (no cheerio/jsdom in workers!)
+      // Scrape results (regex-based, lightweight for Workers)
       const items = [...html.matchAll(
-        /<div class="result-item">([\s\S]*?)<\/div>\s*<\/div>/g
+        /<div class="result-item">([\s\S]*?)<\/article>/g
       )].map(match => {
         const block = match[1];
+
         const title = (block.match(/<div class="title"><a[^>]*>(.*?)<\/a>/) || [])[1] || "";
         const link = (block.match(/<div class="title"><a href="([^"]+)/) || [])[1] || "";
-        const img = (block.match(/<img src="([^"]+)/) || [])[1] || "";
+        let img = (block.match(/<img src="([^"]+)/) || [])[1] || "";
+
+        // ✅ Fix thumbnail -> original
+        if (img) {
+          img = img.replace(/-150x150(?=\.\w+$)/, "");
+        }
+
         const year = (block.match(/<span class="year">([^<]+)/) || [])[1] || "";
         const rating = (block.match(/<span class="rating">([^<]+)/) || [])[1] || "";
+
         return { title, link, img, year, rating };
       });
 
