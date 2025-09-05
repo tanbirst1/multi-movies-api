@@ -2,22 +2,6 @@ addEventListener("fetch", event => {
   event.respondWith(handleRequest(event.request));
 });
 
-async function handleRequest(request) {
-  const targetUrl = "https://multimovies.pro/";
-
-  try {
-    const res = await fetch(targetUrl, {
-      headers: { "User-Agent": "Mozilla/5.0" }
-    });
-    const html = await res.text();
-
-    // Extract the menu container
-    const menuMatch = html.match(/<div class="menu-menu1-container">([\s\S]*?)<\/div>/i);
-    if (!menuMatch) {
-addEventListener("fetch", event => {
-  event.respondWith(handleRequest(event.request));
-});
-
 async function handleRequest() {
   const targetUrl = "https://multimovies.pro/";
 
