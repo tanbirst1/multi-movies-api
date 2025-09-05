@@ -1,21 +1,25 @@
-// api/header.js (Vercel Serverless Function)
-import fetch from "node-fetch";
-import { JSDOM } from "jsdom";
-
+// api/header.js (Vercel Edge / Cloudflare Worker compatible)
 export const config = {
   runtime: "edge",
 };
 
 export default async function handler(req) {
   try {
-    const response = await fetch("https://multimovies.pro");
-    const html = await response.text();
+    // Fetch HTML from multimovies.pro
+    const res = await fetch("https://multimovies.pro");
+    const html = await res.text();
 
-    const dom = new JSDOM(html);
-    const document = dom.window.document;
+    // Parse HTML using DOMParser (Edge-friendly)
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
 
-    const header = document.querySelector("#main_header");
-    const items = [];
+    const header = doc.querySelector("#main_header");
+    if (!header) {
+      return new Response(JSON.stringify({ error: "Header not found" }), {
+        status: 404,
+        headers: { "Content-Type": "application/json" },
+      });
+    }
 
     function parseMenu(liElements) {
       const menuArray = [];
@@ -24,7 +28,7 @@ export default async function handler(req) {
         if (!aTag) return;
 
         let href = aTag.getAttribute("href") || "#";
-        // Convert to relative path if from multimovies.pro
+        // Convert multimovies.pro URLs to relative paths
         if (href.includes("multimovies.pro")) {
           href = new URL(href).pathname;
         }
@@ -34,10 +38,9 @@ export default async function handler(req) {
           url: href,
         };
 
-        // Check if submenu exists
-        const subMenu = li.querySelectorAll(":scope > ul.sub-menu > li");
-        if (subMenu.length > 0) {
-          menuItem.children = parseMenu(subMenu);
+        const subMenuItems = li.querySelectorAll(":scope > ul.sub-menu > li");
+        if (subMenuItems.length > 0) {
+          menuItem.children = parseMenu(subMenuItems);
         }
 
         menuArray.push(menuItem);
