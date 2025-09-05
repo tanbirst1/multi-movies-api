@@ -1,84 +1,48 @@
-addEventListener("fetch", event => {
-  event.respondWith(handleRequest(event.request));
-});
+// api/menu.js
+import fetch from "node-fetch";
+import cheerio from "cheerio";
 
-async function handleRequest() {
-  const targetUrl = "https://multimovies.pro/";
-
+export default async function handler(req, res) {
   try {
-    const res = await fetch(targetUrl, {
+    const targetUrl = "https://multimovies.pro/";
+
+    const response = await fetch(targetUrl, {
       headers: { "User-Agent": "Mozilla/5.0" }
     });
-    const html = await res.text();
+    const html = await response.text();
 
-    // 1. Extract menu container
-    const menuStart = html.indexOf('<div class="menu-menu1-container">');
-    const menuEnd = html.indexOf('</div>', menuStart);
-    if (menuStart === -1 || menuEnd === -1) {
-      return new Response(JSON.stringify({ error: "Menu container not found" }, null, 2), { status: 404 });
-    }
-    const menuHtml = html.slice(menuStart, menuEnd + 6);
+    const $ = cheerio.load(html);
 
-    // 2. Parse all <li> recursively
-    function parseMenu(htmlChunk) {
-      const items = [];
-      let pos = 0;
-
-      while (true) {
-        const liStart = htmlChunk.indexOf('<li', pos);
-        if (liStart === -1) break;
-        const liEnd = htmlChunk.indexOf('</li>', liStart);
-        if (liEnd === -1) break;
-
-        const liHtml = htmlChunk.slice(liStart, liEnd + 5);
-
-        // Extract class/id
-        const classMatch = liHtml.match(/class="([^"]+)"/);
-        const idMatch = classMatch ? classMatch[1].match(/menu-item-(\d+)/) : null;
-        const id = idMatch ? idMatch[1] : null;
-
-        // Extract <a> link
-        const aMatch = liHtml.match(/<a[^>]*href="([^"]*)"[^>]*>(.*?)<\/a>/);
-        const url = aMatch ? aMatch[1] : null;
-        const title = aMatch ? aMatch[2].trim() : null;
-
-        // Extract submenu recursively
-        let submenu = null;
-        const subUlStart = liHtml.indexOf('<ul class="sub-menu">');
-        const subUlEnd = liHtml.indexOf('</ul>', subUlStart);
-        if (subUlStart !== -1 && subUlEnd !== -1) {
-          const subUlHtml = liHtml.slice(subUlStart + 18, subUlEnd);
-          submenu = parseMenu(subUlHtml);
-        }
-
-        const item = { id, title, url };
-        if (submenu) item.submenu = submenu;
-
-        items.push(item);
-        pos = liEnd + 5;
-      }
-
-      return items;
+    const menuContainer = $(".menu-menu1-container");
+    if (!menuContainer.length) {
+      return res.status(404).json({ error: "Menu container not found" });
     }
 
-    // 3. Extract main <ul id="main_header">
-    const ulStart = menuHtml.indexOf('<ul id="main_header"');
-    const ulEnd = menuHtml.indexOf('</ul>', ulStart);
-    if (ulStart === -1 || ulEnd === -1) {
-      return new Response(JSON.stringify({ error: "Main menu not found" }, null, 2), { status: 404 });
+    // Recursive function to parse <li> items
+    function parseLi(li) {
+      const $li = $(li);
+      const title = $li.children("a").first().text().trim();
+      const url = $li.children("a").first().attr("href") || null;
+      const idMatch = ($li.attr("class") || "").match(/menu-item-(\d+)/);
+      const id = idMatch ? idMatch[1] : null;
+
+      let submenu = [];
+      $li.children("ul.sub-menu").children("li").each((_, subLi) => {
+        submenu.push(parseLi(subLi));
+      });
+
+      const item = { id, title, url };
+      if (submenu.length) item.submenu = submenu;
+      return item;
     }
-    const ulHtml = menuHtml.slice(ulStart, ulEnd + 5);
 
-    const menuData = parseMenu(ulHtml);
-
-    return new Response(JSON.stringify(menuData, null, 2), {
-      headers: { "Content-Type": "application/json" }
+    const menuData = [];
+    menuContainer.find("#main_header > li").each((_, li) => {
+      menuData.push(parseLi(li));
     });
 
+    res.status(200).json(menuData);
   } catch (err) {
-    return new Response(JSON.stringify({ error: err.message }, null, 2), {
-      status: 500,
-      headers: { "Content-Type": "application/json" }
-    });
+    res.status(500).json({ error: err.message });
   }
 }
