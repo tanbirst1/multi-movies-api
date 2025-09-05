@@ -1,77 +1,58 @@
-// api/header.js
-export const config = { runtime: "edge" };
+addEventListener("fetch", event => {
+  event.respondWith(handleRequest(event.request));
+});
 
-export default async function handler(req) {
+async function handleRequest(request) {
+  const targetUrl = "https://multimovies.pro/"; // Page to scrape
+
   try {
-    const res = await fetch("https://multimovies.pro");
+    const res = await fetch(targetUrl, {
+      headers: { "User-Agent": "Mozilla/5.0" } // mimic browser
+    });
     const html = await res.text();
 
-    // Extract the main <header id="header" class="main"> ... </header>
-    const headerMatch = html.match(
-      /<header id=["']header["'][^>]*class=["']main["'][\s\S]*?<\/header>/i
-    );
-    if (!headerMatch) {
-      return new Response(JSON.stringify({ error: "Header not found" }), {
-        status: 404,
-        headers: { "Content-Type": "application/json" },
-      });
+    // Parse HTML
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
+
+    const menuContainer = doc.querySelector(".menu-menu1-container ul#main_header");
+    if (!menuContainer) {
+      return new Response(JSON.stringify({ error: "Menu not found" }, null, 2), { status: 404 });
     }
-    const headerHTML = headerMatch[0];
 
-    // Extract logo
-    const logoMatch = headerHTML.match(
-      /<div class=["']logo["'][^>]*>[\s\S]*?<img[^>]*data-src=['"]([^'"]+)['"]/i
-    );
-    const logoURL = logoMatch ? logoMatch[1] : null;
-
-    // Extract search form action
-    const searchMatch = headerHTML.match(
-      /<form[^>]*id=["']searchform["'][^>]*action=['"]([^'"]+)['"]/i
-    );
-    const searchAction = searchMatch ? searchMatch[1] : null;
-
-    // Recursive function to parse <ul> menu into JSON
-    function parseMenu(html) {
+    // Recursive function to extract menu items
+    function parseMenu(ul) {
       const items = [];
-      const liRegex = /<li[^>]*>([\s\S]*?)<\/li>/gi;
-      let liMatch;
-      while ((liMatch = liRegex.exec(html))) {
-        const liContent = liMatch[1];
+      ul.querySelectorAll(":scope > li").forEach(li => {
+        const a = li.querySelector(":scope > a");
+        if (!a) return;
 
-        // Extract <a> tag
-        const aMatch = liContent.match(/<a[^>]*href=["']([^"']*)["'][^>]*>(.*?)<\/a>/i);
-        if (!aMatch) continue;
-        let href = aMatch[1];
-        const title = aMatch[2].replace(/<[^>]+>/g, "").trim();
+        const item = {
+          id: li.className.match(/menu-item-(\d+)/)?.[1] || null,
+          title: a.textContent.trim(),
+          url: a.href || null
+        };
 
-        // Make relative paths for multimovies.pro URLs
-        if (href.includes("multimovies.pro")) href = new URL(href).pathname;
-
-        const item = { title, url: href };
-
-        // Nested sub-menu
-        const subMenuMatch = liContent.match(/<ul[^>]*class=["']sub-menu["'][^>]*>([\s\S]*?)<\/ul>/i);
-        if (subMenuMatch) {
-          item.children = parseMenu(subMenuMatch[1]);
+        const subMenu = li.querySelector(":scope > ul.sub-menu");
+        if (subMenu) {
+          item.submenu = parseMenu(subMenu);
         }
 
         items.push(item);
-      }
+      });
       return items;
     }
 
-    // Extract main navigation menu <ul id="main_header" ...>
-    const menuMatch = headerHTML.match(/<ul[^>]*id=["']main_header["'][^>]*>([\s\S]*?)<\/ul>/i);
-    const menuHTML = menuMatch ? menuMatch[1] : "";
-    const menu = parseMenu(menuHTML);
+    const menuData = parseMenu(menuContainer);
 
-    return new Response(JSON.stringify({ logo: logoURL, searchAction, menu }, null, 2), {
-      headers: { "Content-Type": "application/json" },
+    return new Response(JSON.stringify(menuData, null, 2), {
+      headers: { "Content-Type": "application/json" }
     });
+
   } catch (err) {
-    return new Response(JSON.stringify({ error: err.message }), {
+    return new Response(JSON.stringify({ error: err.message }, null, 2), {
       status: 500,
-      headers: { "Content-Type": "application/json" },
+      headers: { "Content-Type": "application/json" }
     });
   }
 }
