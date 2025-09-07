@@ -1,16 +1,32 @@
 // api/header.js
-export default async function handler(req, res) {
-  try {
-    const targetUrl = "https://multimovies.lol/";
 
-    // fetch HTML
+export const config = {
+  runtime: "edge", // Run on Vercel Edge
+};
+
+export default async function handler(req) {
+  try {
+    // 1) Fetch base URL from GitHub raw
+    const baseUrlTxt =
+      "https://raw.githubusercontent.com/tanbirst1/multi-movies-api/refs/heads/main/src/baseurl.txt";
+
+    const baseRes = await fetch(baseUrlTxt);
+    if (!baseRes.ok) {
+      return new Response(
+        JSON.stringify({ error: "Failed to load baseurl.txt" }),
+        { status: 500, headers: { "Content-Type": "application/json" } }
+      );
+    }
+    const targetUrl = (await baseRes.text()).trim();
+
+    // 2) Fetch HTML from the base URL
     const response = await fetch(targetUrl, {
       headers: { "User-Agent": "Mozilla/5.0 (compatible)" },
     });
     const html = await response.text();
     const htmlLower = html.toLowerCase();
 
-    // Utility: find matching closing tag
+    // ---------- Helpers ----------
     function findMatchingTag(strLower, openIndex, tagName) {
       const openToken = "<" + tagName;
       const closeToken = "</" + tagName + ">";
@@ -34,21 +50,6 @@ export default async function handler(req, res) {
       return -1;
     }
 
-    // 1) extract full menu container
-    const menuStart = htmlLower.search(
-      /<div[^>]*class=["'][^"']*menu-menu1-container[^"']*["'][^>]*>/
-    );
-    if (menuStart === -1) {
-      return res.status(404).json({ error: "menu-menu1-container not found" });
-    }
-    const menuEndPos = findMatchingTag(htmlLower, menuStart, "div");
-    if (menuEndPos === -1) {
-      return res.status(500).json({ error: "could not find closing </div>" });
-    }
-    const menuBlock = html.slice(menuStart, menuEndPos);
-    const menuBlockLower = menuBlock.toLowerCase();
-
-    // Helper: parse attributes
     function parseAttrs(openTag) {
       const attrs = {};
       const attrRegex = /([\w-:]+)\s*=\s*(['"])(.*?)\2/g;
@@ -59,11 +60,11 @@ export default async function handler(req, res) {
       return attrs;
     }
 
-    // Parse UL recursively
     function parseUlString(ulHtml) {
       const ulHtmlLower = ulHtml.toLowerCase();
       const firstGT = ulHtml.indexOf(">");
-      if (firstGT === -1) return { type: "ul", id: null, class: null, items: [] };
+      if (firstGT === -1)
+        return { type: "ul", id: null, class: null, items: [] };
       const openTag = ulHtml.slice(0, firstGT + 1);
       const attrs = parseAttrs(openTag);
       const ulId = attrs.id || null;
@@ -71,7 +72,8 @@ export default async function handler(req, res) {
 
       const closeToken = "</ul>";
       const closeIndex = ulHtmlLower.lastIndexOf(closeToken);
-      const innerHtml = closeIndex === -1 ? "" : ulHtml.slice(firstGT + 1, closeIndex);
+      const innerHtml =
+        closeIndex === -1 ? "" : ulHtml.slice(firstGT + 1, closeIndex);
 
       const items = [];
       const innerLower = innerHtml.toLowerCase();
@@ -85,7 +87,8 @@ export default async function handler(req, res) {
         const liBlockLower = liBlock.toLowerCase();
 
         const liOpenTagEnd = liBlock.indexOf(">");
-        const liOpenTag = liOpenTagEnd === -1 ? "" : liBlock.slice(0, liOpenTagEnd + 1);
+        const liOpenTag =
+          liOpenTagEnd === -1 ? "" : liBlock.slice(0, liOpenTagEnd + 1);
         const liAttrs = parseAttrs(liOpenTag);
 
         let id = null;
@@ -94,7 +97,9 @@ export default async function handler(req, res) {
           if (idm) id = idm[1];
         }
 
-        const aMatch = liBlock.match(/<a[^>]*href=(['"])(.*?)\1[^>]*>([\s\S]*?)<\/a>/i);
+        const aMatch = liBlock.match(
+          /<a[^>]*href=(['"])(.*?)\1[^>]*>([\s\S]*?)<\/a>/i
+        );
         let url = null;
         let title = "";
         if (aMatch) {
@@ -126,8 +131,22 @@ export default async function handler(req, res) {
 
       return { type: "ul", id: ulId, class: ulClass, items };
     }
+    // ---------- End Helpers ----------
 
-    // Find ULs
+    // 3) Extract menu
+    const menuStart = htmlLower.search(
+      /<div[^>]*class=["'][^"']*menu-menu1-container[^"']*["'][^>]*>/
+    );
+    if (menuStart === -1) {
+      return new Response(JSON.stringify({ error: "menu not found" }), {
+        status: 404,
+        headers: { "Content-Type": "application/json" },
+      });
+    }
+    const menuEndPos = findMatchingTag(htmlLower, menuStart, "div");
+    const menuBlock = html.slice(menuStart, menuEndPos);
+    const menuBlockLower = menuBlock.toLowerCase();
+
     const ulResults = [];
     let scanPos = 0;
     while (true) {
@@ -139,48 +158,59 @@ export default async function handler(req, res) {
       const openGt = fullUl.indexOf(">");
       const openTag = openGt === -1 ? fullUl : fullUl.slice(0, openGt + 1);
       const attrs = parseAttrs(openTag);
-      ulResults.push({ fullUl, id: attrs.id || null, class: attrs.class || null });
+      ulResults.push({
+        fullUl,
+        id: attrs.id || null,
+        class: attrs.class || null,
+      });
       scanPos = ulEnd;
     }
-
     const menus = ulResults.map((u) => parseUlString(u.fullUl));
 
-    // logos
+    // 4) Logos
     const logos = [];
-    const logoRegex = /<div[^>]*class=["']logo["'][^>]*>[\s\S]*?<img[^>]*?(?:data-src|src)=['"]([^'"]+)['"][^>]*>/ig;
+    const logoRegex =
+      /<div[^>]*class=["']logo["'][^>]*>[\s\S]*?<img[^>]*?(?:data-src|src)=['"]([^'"]+)['"][^>]*>/gi;
     let lm;
     while ((lm = logoRegex.exec(html)) !== null) {
       logos.push(lm[1]);
     }
 
-    // search forms
+    // 5) Search forms
     const searchForms = [];
-    const searchRegex = /<form[^>]*id=['"]?(searchform|form-search-resp)[\'"]?[^>]*action=['"]([^'"]+)['"][^>]*>/ig;
+    const searchRegex =
+      /<form[^>]*id=['"]?(searchform|form-search-resp)['"]?[^>]*action=['"]([^'"]+)['"][^>]*>/gi;
     let sm;
     while ((sm = searchRegex.exec(html)) !== null) {
       searchForms.push({ id: sm[1], action: sm[2] });
     }
 
-    // login
-    const loginMatch = html.match(/<a[^>]*href=['"]([^'"]*\/account\/\?action=log-in[^'"]*)['"][^>]*class=['"][^'"]*clicklogin[^'"]*['"][^>]*>/i);
+    // 6) Login
+    const loginMatch = html.match(
+      /<a[^>]*href=['"]([^'"]*\/account\/\?action=log-in[^'"]*)['"][^>]*class=['"][^'"]*clicklogin[^'"]*['"][^>]*>/i
+    );
     const loginUrl = loginMatch ? loginMatch[1] : null;
 
-    // final result
+    // 7) Final result
     const result = {
+      targetUrl,
       menus,
       logos,
       searchForms,
       loginUrl,
     };
 
-    // ✅ Cache headers for Vercel Edge/CDN
-    res.setHeader("Cache-Control", "s-maxage=3600, stale-while-revalidate=86400");
-    res.setHeader("Content-Type", "application/json");
-    return res.status(200).json(result);
-
+    return new Response(JSON.stringify(result), {
+      status: 200,
+      headers: {
+        "Cache-Control": "s-maxage=3600, stale-while-revalidate=86400",
+        "Content-Type": "application/json",
+      },
+    });
   } catch (err) {
-    console.error("Scrape error:", err);
-    res.setHeader("Content-Type", "application/json");
-    return res.status(500).json({ error: String(err) });
+    return new Response(JSON.stringify({ error: String(err) }), {
+      status: 500,
+      headers: { "Content-Type": "application/json" },
+    });
   }
 }
