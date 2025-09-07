@@ -1,7 +1,7 @@
 // api/header.js
 export default async function handler(req, res) {
   try {
-    const targetUrl = "https://multimovies.pro/";
+    const targetUrl = "https://multimovies.lol/";
 
     // fetch HTML
     const response = await fetch(targetUrl, {
