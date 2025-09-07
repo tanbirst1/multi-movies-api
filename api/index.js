@@ -59,7 +59,7 @@ function extractBalancedDiv(html, openIndex) {
 
 export default async function handler(req, res) {
   // Default target
-  const TARGET = "https://multimovies.pro";
+  const TARGET = "https://multimovies.lol/";
 
   // Check cache for previous 500 error
   const cacheKey = `error_${TARGET}`;
