@@ -6,7 +6,7 @@ export default {
       const page = searchParams.get("page") || "1";
 
       // Build target search URL
-      const targetUrl = `https://multimovies.pro/page/${page}/?s=${encodeURIComponent(query)}`;
+      const targetUrl = `https://multimovies.lol/page/${page}/?s=${encodeURIComponent(query)}`;
 
       // Fetch the page
       const response = await fetch(targetUrl, {
