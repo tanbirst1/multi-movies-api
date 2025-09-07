@@ -15,7 +15,7 @@ async function handleRequest(request) {
     }
 
     // Construct movie URL
-    const movieUrl = `https://multimovies.coupons/movies/${encodeURIComponent(slug)}/`;
+    const movieUrl = `https://multimovies.lol//movies/${encodeURIComponent(slug)}/`;
 
     // Fetch the movie page HTML
     const res = await fetch(movieUrl);
