@@ -5,7 +5,7 @@ export default async function handler(req, res) {
   try {
     const { path, url } = req.query;
 
-    // get base URL from github raw if path is used
+    // 1. get base url from github raw if ?path used
     let sourceUrl = url;
     if (!sourceUrl && path) {
       const raw = await fetch(
@@ -19,12 +19,12 @@ export default async function handler(req, res) {
       return;
     }
 
-    // fetch page HTML
+    // 2. fetch page HTML
     const html = await fetch(sourceUrl, {
-      headers: { "user-agent": "VercelScraper/1.0" }
+      headers: { "user-agent": "VercelScraper/1.1" }
     }).then(r => r.text());
 
-    // regex helpers
+    // helper: extract all regex matches
     function extractAll(regex, str) {
       let m, out = [];
       while ((m = regex.exec(str)) !== null) {
@@ -33,62 +33,94 @@ export default async function handler(req, res) {
       return out;
     }
 
-    // extract articles
-    const articleRegex = /<article\b[^>]*>([\s\S]*?)<\/article>/gi;
-    const articles = extractAll(articleRegex, html);
+    // helper: clean image (remove -90x135, -185x278, .webp etc.)
+    function cleanImage(url) {
+      if (!url) return null;
+      let u = url.replace(/-\d+x\d+(?=\.(jpg|jpeg|png|webp))/i, "");
+      // strip .webp if double extension
+      u = u.replace(/(\.(jpg|jpeg|png))\.webp$/i, "$1");
+      return u;
+    }
 
-    const items = articles.map(match => {
-      const block = match[1];
+    // helper: extract tmdb id from image
+    function tmdbFromImage(url) {
+      if (!url) return null;
+      const match = /\/([A-Za-z0-9]{10,})\.(jpg|jpeg|png)$/i.exec(url);
+      return match ? match[1] : null;
+    }
 
-      // title + link
-      let title = null, link = null;
-      const t = /<h3[^>]*>\s*<a[^>]*href="([^"]+)"[^>]*>(.*?)<\/a>/.exec(block)
-            || /<a[^>]*href="([^"]+)"[^>]*>(.*?)<\/a>/.exec(block);
-      if (t) {
-        link = t[1];
-        title = t[2].replace(/<[^>]+>/g, "").trim();
-      }
+    // split sections by <h2>Title</h2>
+    const sectionRegex = /<h2[^>]*>(.*?)<\/h2>/gi;
+    const sections = {};
+    let secMatch;
+    let lastIndex = 0;
+    const titles = [];
 
-      // year/date
-      let date_or_year = null;
-      const d = /<span[^>]*>(.*?)<\/span>/.exec(block);
-      if (d) date_or_year = d[1].trim();
+    while ((secMatch = sectionRegex.exec(html)) !== null) {
+      titles.push({ title: secMatch[1].trim(), index: secMatch.index });
+    }
 
-      // rating
-      let rating = null;
-      const r = /<div[^>]*class="[^"]*rating[^"]*"[^>]*>(.*?)<\/div>/.exec(block);
-      if (r) rating = r[1].trim();
+    for (let i = 0; i < titles.length; i++) {
+      const current = titles[i];
+      const nextIndex = titles[i + 1] ? titles[i + 1].index : html.length;
+      const block = html.slice(current.index, nextIndex);
 
-      // original image
-      let original_image = null;
-      const imgMatch = /<img[^>]+(?:data-src|src)="([^"]+)"/.exec(block);
-      if (imgMatch) original_image = imgMatch[1];
+      // extract all <article> inside this block
+      const articles = extractAll(/<article\b[^>]*>([\s\S]*?)<\/article>/gi, block);
 
-      // tmdb image id extraction
-      let tmdb_image = null;
-      if (original_image) {
-        const idMatch = /\/([A-Za-z0-9]{10,})-/.exec(original_image);
-        if (idMatch) {
-          const tid = idMatch[1];
+      const items = articles.map(m => {
+        const art = m[1];
+
+        // title & link
+        let title = null, link = null;
+        const t = /<h3[^>]*>\s*<a[^>]*href="([^"]+)"[^>]*>(.*?)<\/a>/.exec(art)
+              || /<a[^>]*href="([^"]+)"[^>]*>(.*?)<\/a>/.exec(art);
+        if (t) {
+          link = t[1];
+          title = t[2].replace(/<[^>]+>/g, "").trim();
+        }
+
+        // year/date
+        let date_or_year = null;
+        const d = /<span[^>]*>(.*?)<\/span>/.exec(art);
+        if (d) date_or_year = d[1].trim();
+
+        // rating
+        let rating = null;
+        const r = /<div[^>]*class="[^"]*rating[^"]*"[^>]*>(.*?)<\/div>/.exec(art);
+        if (r) rating = r[1].trim();
+
+        // original image
+        let original_image = null;
+        const imgMatch = /<img[^>]+(?:data-src|src)="([^"]+)"/.exec(art);
+        if (imgMatch) original_image = cleanImage(imgMatch[1]);
+
+        // tmdb image
+        let tmdb_image = null;
+        const tid = tmdbFromImage(original_image);
+        if (tid) {
           tmdb_image = `https://image.tmdb.org/t/p/original/${tid}.jpg`;
         }
-      }
 
-      return {
-        title,
-        link,
-        date_or_year,
-        rating,
-        original_image,
-        tmdb_image
-      };
-    });
+        return {
+          title,
+          link,
+          date_or_year,
+          rating,
+          original_image,
+          tmdb_image
+        };
+      });
+
+      sections[current.title] = items;
+    }
 
     res.setHeader("Content-Type", "application/json");
     res.status(200).json({
       source: sourceUrl,
-      items
+      sections
     });
+
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
