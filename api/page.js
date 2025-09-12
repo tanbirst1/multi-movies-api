@@ -3,9 +3,9 @@
 
 export default async function handler(req, res) {
   try {
-    const { path, url } = req.query;
+    const { path, url, allpages } = req.query;
 
-    // 1. get base url from github raw if ?path used
+    // 1. Get base url from github raw if ?path used
     let sourceUrl = url;
     if (!sourceUrl && path) {
       const raw = await fetch(
@@ -19,106 +19,120 @@ export default async function handler(req, res) {
       return;
     }
 
-    // 2. fetch page HTML
-    const html = await fetch(sourceUrl, {
-      headers: { "user-agent": "VercelScraper/1.1" }
-    }).then(r => r.text());
-
-    // helper: extract all regex matches
-    function extractAll(regex, str) {
-      let m, out = [];
-      while ((m = regex.exec(str)) !== null) {
-        out.push(m);
-      }
-      return out;
-    }
-
-    // helper: clean image (remove -90x135, -185x278, .webp etc.)
+    // ---- Helpers ----
     function cleanImage(url) {
       if (!url) return null;
       let u = url.replace(/-\d+x\d+(?=\.(jpg|jpeg|png|webp))/i, "");
-      // strip .webp if double extension
       u = u.replace(/(\.(jpg|jpeg|png))\.webp$/i, "$1");
       return u;
     }
 
-    // helper: extract tmdb id from image
     function tmdbFromImage(url) {
       if (!url) return null;
       const match = /\/([A-Za-z0-9]{10,})\.(jpg|jpeg|png)$/i.exec(url);
       return match ? match[1] : null;
     }
 
-    // split sections by <h2>Title</h2>
-    const sectionRegex = /<h2[^>]*>(.*?)<\/h2>/gi;
-    const sections = {};
-    let secMatch;
-    let lastIndex = 0;
-    const titles = [];
-
-    while ((secMatch = sectionRegex.exec(html)) !== null) {
-      titles.push({ title: secMatch[1].trim(), index: secMatch.index });
+    function extractAll(regex, str) {
+      let m, out = [];
+      while ((m = regex.exec(str)) !== null) out.push(m);
+      return out;
     }
 
-    for (let i = 0; i < titles.length; i++) {
-      const current = titles[i];
-      const nextIndex = titles[i + 1] ? titles[i + 1].index : html.length;
-      const block = html.slice(current.index, nextIndex);
+    // ---- Extract data from a page ----
+    async function parsePage(pageUrl) {
+      const html = await fetch(pageUrl, {
+        headers: { "user-agent": "VercelScraper/1.2" }
+      }).then(r => r.text());
 
-      // extract all <article> inside this block
-      const articles = extractAll(/<article\b[^>]*>([\s\S]*?)<\/article>/gi, block);
+      // total pages from pagination
+      let totalPages = 1;
+      const p = /Page\s+\d+\s+of\s+(\d+)/i.exec(html);
+      if (p) totalPages = parseInt(p[1]);
 
-      const items = articles.map(m => {
-        const art = m[1];
+      const sectionRegex = /<h2[^>]*>(.*?)<\/h2>/gi;
+      const sections = {};
+      let secMatch;
+      const titles = [];
 
-        // title & link
-        let title = null, link = null;
-        const t = /<h3[^>]*>\s*<a[^>]*href="([^"]+)"[^>]*>(.*?)<\/a>/.exec(art)
-              || /<a[^>]*href="([^"]+)"[^>]*>(.*?)<\/a>/.exec(art);
-        if (t) {
-          link = t[1];
-          title = t[2].replace(/<[^>]+>/g, "").trim();
+      while ((secMatch = sectionRegex.exec(html)) !== null) {
+        titles.push({ title: secMatch[1].trim(), index: secMatch.index });
+      }
+
+      for (let i = 0; i < titles.length; i++) {
+        const current = titles[i];
+        const nextIndex = titles[i + 1] ? titles[i + 1].index : html.length;
+        const block = html.slice(current.index, nextIndex);
+
+        const articles = extractAll(/<article\b[^>]*>([\s\S]*?)<\/article>/gi, block);
+
+        const items = articles.map(m => {
+          const art = m[1];
+
+          let title = null, link = null;
+          const t = /<h3[^>]*>\s*<a[^>]*href="([^"]+)"[^>]*>(.*?)<\/a>/.exec(art)
+                || /<a[^>]*href="([^"]+)"[^>]*>(.*?)<\/a>/.exec(art);
+          if (t) {
+            link = t[1];
+            title = t[2].replace(/<[^>]+>/g, "").trim();
+          }
+
+          let date_or_year = null;
+          const d = /<span[^>]*>(.*?)<\/span>/.exec(art);
+          if (d) date_or_year = d[1].trim();
+
+          let rating = null;
+          const r = /<div[^>]*class="[^"]*rating[^"]*"[^>]*>(.*?)<\/div>/.exec(art);
+          if (r) rating = r[1].trim();
+
+          let original_image = null;
+          const imgMatch = /<img[^>]+(?:data-src|src)="([^"]+)"/.exec(art);
+          if (imgMatch) original_image = cleanImage(imgMatch[1]);
+
+          let tmdb_image = null;
+          const tid = tmdbFromImage(original_image);
+          if (tid) tmdb_image = `https://image.tmdb.org/t/p/original/${tid}.jpg`;
+
+          return {
+            title,
+            link,
+            date_or_year,
+            rating,
+            original_image,
+            tmdb_image
+          };
+        });
+
+        if (!sections[current.title]) sections[current.title] = [];
+        sections[current.title].push(...items);
+      }
+
+      return { sections, totalPages };
+    }
+
+    // ---- Fetch all or single ----
+    const firstPage = await parsePage(sourceUrl);
+
+    let finalSections = JSON.parse(JSON.stringify(firstPage.sections));
+    const totalPages = firstPage.totalPages;
+
+    if (allpages === "true" && totalPages > 1) {
+      for (let p = 2; p <= totalPages; p++) {
+        const pageUrl = sourceUrl.replace(/\/page\/\d+\/?$/, "").replace(/\/$/, "") + `/page/${p}/`;
+        const parsed = await parsePage(pageUrl);
+        for (const [sec, items] of Object.entries(parsed.sections)) {
+          if (!finalSections[sec]) finalSections[sec] = [];
+          finalSections[sec].push(...items);
         }
-
-        // year/date
-        let date_or_year = null;
-        const d = /<span[^>]*>(.*?)<\/span>/.exec(art);
-        if (d) date_or_year = d[1].trim();
-
-        // rating
-        let rating = null;
-        const r = /<div[^>]*class="[^"]*rating[^"]*"[^>]*>(.*?)<\/div>/.exec(art);
-        if (r) rating = r[1].trim();
-
-        // original image
-        let original_image = null;
-        const imgMatch = /<img[^>]+(?:data-src|src)="([^"]+)"/.exec(art);
-        if (imgMatch) original_image = cleanImage(imgMatch[1]);
-
-        // tmdb image
-        let tmdb_image = null;
-        const tid = tmdbFromImage(original_image);
-        if (tid) {
-          tmdb_image = `https://image.tmdb.org/t/p/original/${tid}.jpg`;
-        }
-
-        return {
-          title,
-          link,
-          date_or_year,
-          rating,
-          original_image,
-          tmdb_image
-        };
-      });
-
-      sections[current.title] = items;
+      }
     }
 
     res.setHeader("Content-Type", "application/json");
     res.status(200).json({
       source: sourceUrl,
-      sections
+      total_pages: totalPages,
+      allpages: allpages === "true",
+      sections: finalSections
     });
 
   } catch (err) {
