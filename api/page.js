@@ -102,7 +102,7 @@ export default async function handler(req, res) {
 
           let tmdb_image = null;
           const tid = tmdbFromImage(original_image);
-          if (tid) tmdb_image = `https://image.tmdb.org/t/p/500w/${tid}.jpg`;
+          if (tid) tmdb_image = `https://image.tmdb.org/t/p/w500/${tid}.jpg`;
 
           return {
             title,
