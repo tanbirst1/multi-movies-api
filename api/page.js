@@ -1,6 +1,20 @@
-// pages/api/scrape.js
-// Vercel serverless Node.js scraper, no dependencies
+// In-memory cache for 500 errors with size limit
+const errorCache = new Map();
+const CACHE_TTL = 5 * 60 * 1000; // 5 minutes
+const MAX_CACHE_SIZE = 100; // Limit cache entries
 
+// Global limits to avoid ReferenceError in fallbacks/loops
+const MAX_ITERATIONS = 1000;
+const MAX_ARTICLES = 500;
+const MAX_TOP_ITEMS = 100;
+
+// Utility to clean cache
+function cleanCache() {
+  if (errorCache.size > MAX_CACHE_SIZE) {
+    const oldestKey = errorCache.keys().next().value;
+    errorCache.delete(oldestKey);
+  }
+}
 export default async function handler(req, res) {
   try {
     const { path, url, page } = req.query;
