@@ -1,11 +1,11 @@
 // pages/api/scrape.js
-// Vercel serverless Node.js API, no dependencies
+// Vercel serverless Node.js scraper, no dependencies
 
 export default async function handler(req, res) {
   try {
-    const { path, url, allpages } = req.query;
+    const { path, url, page } = req.query;
 
-    // 1. Get base url from github raw if ?path used
+    // -------- Get source url --------
     let sourceUrl = url;
     if (!sourceUrl && path) {
       const raw = await fetch(
@@ -19,33 +19,30 @@ export default async function handler(req, res) {
       return;
     }
 
-    // ---- Helpers ----
+    // -------- Helpers --------
     function cleanImage(url) {
       if (!url) return null;
       let u = url.replace(/-\d+x\d+(?=\.(jpg|jpeg|png|webp))/i, "");
       u = u.replace(/(\.(jpg|jpeg|png))\.webp$/i, "$1");
       return u;
     }
-
     function tmdbFromImage(url) {
       if (!url) return null;
       const match = /\/([A-Za-z0-9]{10,})\.(jpg|jpeg|png)$/i.exec(url);
       return match ? match[1] : null;
     }
-
     function extractAll(regex, str) {
       let m, out = [];
       while ((m = regex.exec(str)) !== null) out.push(m);
       return out;
     }
 
-    // ---- Extract data from a page ----
-    async function parsePage(pageUrl) {
+    // -------- Parse a single page --------
+    async function parsePage(pageUrl, current) {
       const html = await fetch(pageUrl, {
-        headers: { "user-agent": "VercelScraper/1.2" }
+        headers: { "user-agent": "VercelScraper/2.0" }
       }).then(r => r.text());
 
-      // total pages from pagination
       let totalPages = 1;
       const p = /Page\s+\d+\s+of\s+(\d+)/i.exec(html);
       if (p) totalPages = parseInt(p[1]);
@@ -60,9 +57,9 @@ export default async function handler(req, res) {
       }
 
       for (let i = 0; i < titles.length; i++) {
-        const current = titles[i];
+        const currentSec = titles[i];
         const nextIndex = titles[i + 1] ? titles[i + 1].index : html.length;
-        const block = html.slice(current.index, nextIndex);
+        const block = html.slice(currentSec.index, nextIndex);
 
         const articles = extractAll(/<article\b[^>]*>([\s\S]*?)<\/article>/gi, block);
 
@@ -103,35 +100,59 @@ export default async function handler(req, res) {
           };
         });
 
-        if (!sections[current.title]) sections[current.title] = [];
-        sections[current.title].push(...items);
+        if (!sections[currentSec.title]) sections[currentSec.title] = [];
+        sections[currentSec.title].push(...items);
       }
 
-      return { sections, totalPages };
+      return { sections, totalPages, currentPage: current };
     }
 
-    // ---- Fetch all or single ----
-    const firstPage = await parsePage(sourceUrl);
+    // -------- Handle ?page logic --------
+    const firstParsed = await parsePage(sourceUrl, 1);
+    const totalPages = firstParsed.totalPages;
 
-    let finalSections = JSON.parse(JSON.stringify(firstPage.sections));
-    const totalPages = firstPage.totalPages;
+    let finalSections = JSON.parse(JSON.stringify(firstParsed.sections));
+    let currentPage = 1;
 
-    if (allpages === "true" && totalPages > 1) {
-      for (let p = 2; p <= totalPages; p++) {
-        const pageUrl = sourceUrl.replace(/\/page\/\d+\/?$/, "").replace(/\/$/, "") + `/page/${p}/`;
-        const parsed = await parsePage(pageUrl);
-        for (const [sec, items] of Object.entries(parsed.sections)) {
-          if (!finalSections[sec]) finalSections[sec] = [];
-          finalSections[sec].push(...items);
+    if (page) {
+      if (page === "all") {
+        for (let p = 2; p <= totalPages; p++) {
+          const pageUrl = sourceUrl.replace(/\/page\/\d+\/?$/, "").replace(/\/$/, "") + `/page/${p}/`;
+          const parsed = await parsePage(pageUrl, p);
+          for (const [sec, items] of Object.entries(parsed.sections)) {
+            if (!finalSections[sec]) finalSections[sec] = [];
+            finalSections[sec].push(...items);
+          }
         }
+        currentPage = "all";
+      } else if (/^\d+$/.test(page)) {
+        const pNum = parseInt(page);
+        if (pNum > 1) {
+          const pageUrl = sourceUrl.replace(/\/page\/\d+\/?$/, "").replace(/\/$/, "") + `/page/${pNum}/`;
+          const parsed = await parsePage(pageUrl, pNum);
+          finalSections = parsed.sections;
+          currentPage = pNum;
+        }
+      } else if (/^\d+-$/i.test(page)) {
+        const start = parseInt(page);
+        for (let p = start; p <= totalPages; p++) {
+          const pageUrl = sourceUrl.replace(/\/page\/\d+\/?$/, "").replace(/\/$/, "") + `/page/${p}/`;
+          const parsed = await parsePage(pageUrl, p);
+          for (const [sec, items] of Object.entries(parsed.sections)) {
+            if (!finalSections[sec]) finalSections[sec] = [];
+            finalSections[sec].push(...items);
+          }
+        }
+        currentPage = `${start}-end`;
       }
     }
 
+    // -------- Response --------
     res.setHeader("Content-Type", "application/json");
     res.status(200).json({
       source: sourceUrl,
       total_pages: totalPages,
-      allpages: allpages === "true",
+      current_page: currentPage,
       sections: finalSections
     });
 
