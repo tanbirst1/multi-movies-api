@@ -1,0 +1,387 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/american-dragon-jake-long/",
+  "meta": {
+    "title": "American Dragon: Jake Long",
+    "poster": "https://image.tmdb.org/t/p/w500/sAgoJOdvuMa3DD0JDpos9bdaF9S.jpg",
+    "networks": [
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/network/disney-channel/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/genre/disney-channel/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Jan. 21, 2005",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "American Dragon is a coming of age comedy-action series about Jake Long, a 13-year-old Asian-American boy who strives to find balance in his life as a skateboard-grinding, New York \u2018tween while learning to master his mystical powers (in his secret identity) as the American Dragon, the protector and guardian of all magical creatures secretly living amidst the human world.",
+    "infoFields": {
+      "Original title": "American Dragon: Jake Long",
+      "TMDb Rating": "7.8 449 votes",
+      "First air date": "Jan. 21, 2005",
+      "Last air date": "Sep. 01, 2007",
+      "Seasons": "2",
+      "Episodes": "55",
+      "Average Duration": "22 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Jan. 21, 2005",
+      "episodeCount": 21,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Old School Training",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x1/",
+          "airDate": "Jan. 21, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/zqMxb0N94LR9xIisjq2OVZkRAS1.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/8g16q1tgebt6"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Dragon Breath",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x2/",
+          "airDate": "Jan. 22, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/3g3t09UkdRnQ36Qu49LqbYWHZ6u.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/gp9vr4ulicz7"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "The Talented Mr. Long",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x3/",
+          "airDate": "Jan. 28, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/nResS24USeRVQXly53XYdxtQptJ.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/h58p0bynigx7"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "The Legend of the Dragon Tooth",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x4/",
+          "airDate": "Feb. 04, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/bFfsKwxNFwYuHYjX5vWBECd13kQ.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/8vohf5kxlvv5"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Act 4, Scene 15",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x5/",
+          "airDate": "Feb. 11, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/jAEIkPe6a7I8RL2Ix2oHIj0sslq.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/on76y27eoib4"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Adventures in Trollsitting",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x6/",
+          "airDate": "Feb. 18, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/nPeP8VvEyCPWWoJPMShJ7TYoUYk.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/hcnyqv355jxx"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Fu Dog Takes a Walk",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x7/",
+          "airDate": "Feb. 18, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/q29kdyf8uo59"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Professor Rotwood's Thesis",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x8/",
+          "airDate": "Feb. 25, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/qeV16D7AXgBmv43K9AqkxiVSGno.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/5weg8qfn6o42"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "The Egg",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x9/",
+          "airDate": "Mar. 25, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/x9MdW4X4YaGLAtsjEHQcVL5pkSC.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/5drdfs7j1zio"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "The Heist",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x10/",
+          "airDate": "Mar. 25, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/0nvoxmazh86d"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Dragon Summit",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x11/",
+          "airDate": "Apr. 01, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/32dDl4ZTGOUFHuWqRhUbKq2KUpf.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/nxkb45kpkdua"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Body Guard Duty",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x12/",
+          "airDate": "Apr. 29, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/1JRuPH7LHeOHzQjOR5ibU6cp4tO.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/8juozeyo3qz1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Shapeshifter",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x13/",
+          "airDate": "May. 13, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/fvIDEFcQaodH2kMvsfDxgEb00iD.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/oapd18w33wwm"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 14,
+          "title": "The Ski Trip",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x14/",
+          "airDate": "May. 27, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/mo6EHoZmnNGFQuQC53p8s7lRT.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/blei3gfvoouu"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 15,
+          "title": "The Long Weekend",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x15/",
+          "airDate": "Jul. 01, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/3LvOoQ7SpqTF5RoidPWfcgNYC2A.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/bq0vbjpmkmqq"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 16,
+          "title": "Eye of the Beholder",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x16/",
+          "airDate": "Jul. 30, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/sZxnrzlgE2dAGNNmbAHL9iB8mR8.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/4ov0xsn17zab"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 17,
+          "title": "Jake Takes the Cake",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x17/",
+          "airDate": "Aug. 26, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/2WINlwPtYVm1pJaH20Opn0sXe7J.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/qmtiov52ayhs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 18,
+          "title": "Hong Kong Nights",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x18/",
+          "airDate": "Sep. 08, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/1tSEDjkMJ0i9vVooBQbvBeose7E.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/10xr3bfitl9b"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 19,
+          "title": "The Halloween Bash",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x19/",
+          "airDate": "Oct. 22, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/dEa1KNF5v4yTP56a2OuH503gCBV.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/sw6psz5kc65u"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 20,
+          "title": "Fu and Tell",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x20/",
+          "airDate": "Nov. 03, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/hMlqQfM45ohdANvvpx2SVMZeXpJ.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/3c5i4s4lmku5"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 21,
+          "title": "Flight of the Unicorn",
+          "url": "https://multimovies.city/episodes/american-dragon-jake-long-1x21/",
+          "airDate": "Nov. 03, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/zyg6dakj7bzq"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 2,
+      "seasonTitle": "Season 2 Jun. 10, 2006",
+      "episodeCount": 1,
+      "episodes": [
+        {
+          "seasonNo": null,
+          "episodeNo": null,
+          "title": "",
+          "url": "",
+          "airDate": "",
+          "thumbnail": "",
+          "sources": []
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jeff Goode",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/jeff-goode/",
+      "image": "https://image.tmdb.org/t/p/w92/efGgSiRAbnfxiOJNkFxZgYdbgDa.jpg"
+    },
+    {
+      "name": "Dante Basco",
+      "role": "Jake Long (voice)",
+      "url": "https://multimovies.city/cast/dante-basco/",
+      "image": "https://image.tmdb.org/t/p/w92/2bfQho7MEo4wAQTmC687FkXUoKU.jpg"
+    },
+    {
+      "name": "Keone Young",
+      "role": "Lao Shi (voice)",
+      "url": "https://multimovies.city/cast/keone-young/",
+      "image": "https://image.tmdb.org/t/p/w92/nDTQe7D7NmbzAryfKQKx2NALmid.jpg"
+    },
+    {
+      "name": "John DiMaggio",
+      "role": "Fu Dog (voice)",
+      "url": "https://multimovies.city/cast/john-dimaggio/",
+      "image": "https://image.tmdb.org/t/p/w92/awmyFwU6ErFJbGFFzhBYZ9AQn8m.jpg"
+    },
+    {
+      "name": "kittie KaBoom",
+      "role": "Trixie Carter (voice)",
+      "url": "https://multimovies.city/cast/kittie-kaboom/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Charlie Finn",
+      "role": "Spud (voice)",
+      "url": "https://multimovies.city/cast/charlie-finn/",
+      "image": "https://image.tmdb.org/t/p/w92/7JhwW89aEUNtimTIBH9Tq0NS44w.jpg"
+    },
+    {
+      "name": "Mae Whitman",
+      "role": "Rose / The Huntsgirl (voice)",
+      "url": "https://multimovies.city/cast/mae-whitman/",
+      "image": "https://image.tmdb.org/t/p/w92/x0DdzjoYN8K2PwjrnH3ogPYv2zo.jpg"
+    },
+    {
+      "name": "Paul Rugg",
+      "role": "Professor Rotwood / The Huntsman (voice)",
+      "url": "https://multimovies.city/cast/paul-rugg/",
+      "image": "https://image.tmdb.org/t/p/w92/rr5KUJtzAAa39gqF22DzBrpGW6a.jpg"
+    },
+    {
+      "name": "Amy Bruckner",
+      "role": "Haley Long (voice)",
+      "url": "https://multimovies.city/cast/amy-bruckner/",
+      "image": "https://image.tmdb.org/t/p/w92/olwaU1wCEr8kKcLds7k0a27RkSx.jpg"
+    },
+    {
+      "name": "Jeff Bennett",
+      "role": "Jonathan Long (voice)",
+      "url": "https://multimovies.city/cast/jeff-bennett/",
+      "image": "https://image.tmdb.org/t/p/w92/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "name": "Lauren Tom",
+      "role": "Susan Long (voice)",
+      "url": "https://multimovies.city/cast/lauren-tom/",
+      "image": "https://image.tmdb.org/t/p/w92/8tzC0SPIcM9TLo9VqvEmvse6u25.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3lTao8ECc1OidUuelD3NcR01DmI.jpg",
+    "https://image.tmdb.org/t/p/w300/50sFrf503SfNdNezar9QrAFZuPG.jpg",
+    "https://image.tmdb.org/t/p/w300/46bqHHakHti1faD6JIa4uTZQY1J.jpg",
+    "https://image.tmdb.org/t/p/w300/kqNg8ZCTWHc0SXx7xEI535S1Sck.jpg",
+    "https://image.tmdb.org/t/p/w300/5MsrqoUkKWGabuPVslmz9Eeic2G.jpg",
+    "https://image.tmdb.org/t/p/w300/dj0WynSKpRSFwDkBLTzfEYVA0ch.jpg",
+    "https://image.tmdb.org/t/p/w300/8LOSdPM0MDo1msDzezLyRVpF9mx.jpg",
+    "https://image.tmdb.org/t/p/w300/jrF2u0YvdIeRcJSMZLKU2g9QuNG.jpg",
+    "https://image.tmdb.org/t/p/w300/zwiuK2Av1BDOoWCTeNwPj2qB44J.jpg",
+    "https://image.tmdb.org/t/p/w300/f8Zqg43N5b0qrFNeXdPsr0PRMuQ.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
