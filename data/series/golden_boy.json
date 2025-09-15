@@ -1,0 +1,173 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/golden-boy/",
+  "meta": {
+    "title": "Golden Boy",
+    "poster": "https://image.tmdb.org/t/p/w500/fx2DqPaW5OwFTBgS4nbTuCxdYFj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Series",
+        "url": "https://multimovies.city/genre/anime-series/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      }
+    ],
+    "firstAirDate": "Oct. 27, 1995",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Kintaro Oe is a 25-year-old boy who left Tokyo University and now lives a simple life, traveling by bicycle to learn everything he can about the world.",
+    "infoFields": {
+      "Original title": "\u3055\u3059\u3089\u3044\u306e\u304a\u52c9\u5f37\u91ce\u90ce-",
+      "TMDb Rating": "8.2 352 votes",
+      "First air date": "Oct. 27, 1995",
+      "Last air date": "Jun. 28, 1996",
+      "Seasons": "1",
+      "Episodes": "6",
+      "Average Duration": "30 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Oct. 27, 1995",
+      "episodeCount": 6,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Computer Studies",
+          "url": "https://multimovies.city/episodes/golden-boy-1x1/",
+          "airDate": "Oct. 27, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/l8xMcQXMrRqEv1GdFVdPCD6a9zP.jpg",
+          "sources": [
+            "https://multimovies.website/e/j0s6s7n820f4.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Temptation of the Maiden",
+          "url": "https://multimovies.city/episodes/golden-boy-1x2/",
+          "airDate": "Nov. 22, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/wwO1Q49shM6jPfn5bRKzhf8Tbyg.jpg",
+          "sources": [
+            "https://multimovies.website/e/i0tqdc4fpj7i.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Danger! The Virgin's First Love",
+          "url": "https://multimovies.city/episodes/golden-boy-1x3/",
+          "airDate": "Dec. 22, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/rgcyMW1PwxQiPlrUalNqeuNcwt2.jpg",
+          "sources": [
+            "https://multimovies.website/e/74uy0h81yvq9.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Swimming In the Sea of Love",
+          "url": "https://multimovies.city/episodes/golden-boy-1x4/",
+          "airDate": "Apr. 26, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/s0RcRZeOWpT1NNswA0AwDIi3o8z.jpg",
+          "sources": [
+            "https://multimovies.website/e/s8gh42wrxyaz.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Unstoppable Youth",
+          "url": "https://multimovies.city/episodes/golden-boy-1x5/",
+          "airDate": "May. 24, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/kCXbgsPq69y67yiTfAjhR5Wv03L.jpg",
+          "sources": [
+            "https://multimovies.website/e/krwdydtr8vl9.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Animation is Fun!",
+          "url": "https://multimovies.city/episodes/golden-boy-1x6/",
+          "airDate": "Jun. 28, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/7LEeKwj0jmOea8yxRRNGURgLjFX.jpg",
+          "sources": [
+            "https://multimovies.website/e/qw30tt2a9mfw.html"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mitsuo Iwata",
+      "role": "Kintaro Oe (voice)",
+      "url": "https://multimovies.city/cast/mitsuo-iwata/",
+      "image": "https://image.tmdb.org/t/p/w92/xCAsuzc5OBQZWhG5WSZIyhBZ7xj.jpg"
+    },
+    {
+      "name": "Gor\u014d Naya",
+      "role": "Narrator (voice)",
+      "url": "https://multimovies.city/cast/goro-naya/",
+      "image": "https://image.tmdb.org/t/p/w92/v5R3cjPEVeLRPWlZPziYP8ooV5w.jpg"
+    },
+    {
+      "name": "Hiromi Tsuru",
+      "role": "Madame President (voice)",
+      "url": "https://multimovies.city/cast/hiromi-tsuru/",
+      "image": "https://image.tmdb.org/t/p/w92/oFU9CCNLUhklLhEuLutM0FyTUbt.jpg"
+    },
+    {
+      "name": "Yuko Minaguchi",
+      "role": "Naoko Katsuda (voice)",
+      "url": "https://multimovies.city/cast/yuko-minaguchi/",
+      "image": "https://image.tmdb.org/t/p/w92/bEv0ho89VNgWkCCmT2GdNjMAuvZ.jpg"
+    },
+    {
+      "name": "Yuri Shiratori",
+      "role": "Noriko (voice)",
+      "url": "https://multimovies.city/cast/yuri-shiratori/",
+      "image": "https://image.tmdb.org/t/p/w92/lEyxHlmcywDZmqYVA9mDbZMcCGp.jpg"
+    },
+    {
+      "name": "Kikuko Inoue",
+      "role": "Ayuko Hayami (voice)",
+      "url": "https://multimovies.city/cast/kikuko-inoue/",
+      "image": "https://image.tmdb.org/t/p/w92/pPxGWy53FgYSC79zmxblmHe0gI3.jpg"
+    },
+    {
+      "name": "Sakiko Tamagawa",
+      "role": "Reiko Terayama (voice)",
+      "url": "https://multimovies.city/cast/sakiko-tamagawa/",
+      "image": "https://image.tmdb.org/t/p/w92/o27moSbRqOxiwXf4VTv8UYXkGR7.jpg"
+    },
+    {
+      "name": "Mika Kanai",
+      "role": "Chie (voice)",
+      "url": "https://multimovies.city/cast/mika-kanai/",
+      "image": "https://image.tmdb.org/t/p/w92/ff9Ok5k6r5M49TAKHakLD2x4fFW.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/a08RnkU3LwE5R552Q5VBJoQUuEL.jpg",
+    "https://image.tmdb.org/t/p/w300/jKKZJTKohKYM3sdyZgAOMQ7OGjR.jpg",
+    "https://image.tmdb.org/t/p/w300/rQ0cVHQkljzDDQSDqM5nYSjoC0t.jpg",
+    "https://image.tmdb.org/t/p/w300/xf0fTxVtp7LxMataJ61jiLGEJBJ.jpg",
+    "https://image.tmdb.org/t/p/w300/hsC4YOjmPcRwpgK2IeC9Axk0ZBV.jpg",
+    "https://image.tmdb.org/t/p/w300/wTIJqjrDRdqWouSGYOe6Up689Pn.jpg",
+    "https://image.tmdb.org/t/p/w300/9y24Dh2xfD96AFTbitiO0NCyjO4.jpg",
+    "https://image.tmdb.org/t/p/w300/37EBHuSeQIzomevh67TbvmFMUtF.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
