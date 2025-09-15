@@ -1,0 +1,825 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/ducktales-2/",
+  "meta": {
+    "title": "DuckTales",
+    "poster": "https://image.tmdb.org/t/p/w500/muplnM90daPCQ5Bn1olcwN1EO22.jpg",
+    "networks": [
+      {
+        "name": "Syndication",
+        "url": "https://multimovies.city/network/syndication/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/genre/disney-channel/"
+      },
+      {
+        "name": "Kids",
+        "url": "https://multimovies.city/genre/kids/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Sci-Fi & Fantasy",
+        "url": "https://multimovies.city/genre/sci-fi-fantasy/"
+      }
+    ],
+    "firstAirDate": "Sep. 18, 1987",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Scrooge McDuck finds his hands full at home when nephews Huey, Dewey and Louie move to Duckburg. Joined by their loyal pals Launchpad McQuack, Gyro Gearloose and Mrs. Beakley, the DuckTales gang never fails to deliver a wealth of adventure. Get ready for a fortune of fun with DuckTales!",
+    "infoFields": {
+      "Original title": "DuckTales",
+      "TMDb Rating": "7.642 658 votes",
+      "First air date": "Sep. 18, 1987",
+      "Last air date": "Nov. 28, 1990",
+      "Seasons": "4",
+      "Episodes": "101"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Sep. 18, 1987",
+      "episodeCount": 62,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Don't Give Up the Ship (1)",
+          "url": "https://multimovies.city/episodes/ducktales-1x1-2/",
+          "airDate": "Sep. 18, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/mDzp4PVPSvoCODWitI6OO34UbPT.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/b96r0z7"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Wronguay in Ronguay (2)",
+          "url": "https://multimovies.city/episodes/ducktales-1x2-2/",
+          "airDate": "Sep. 18, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/fuw6GOoKu621GgY19SM0kr3KQkI.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/xc3sehu"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Three Ducks of the Condor (3)",
+          "url": "https://multimovies.city/episodes/ducktales-1x3-2/",
+          "airDate": "Sep. 18, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/pGmj5lOwDDngNkpDtQCsKIosyLG.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/uxam8a0"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Cold Duck (4)",
+          "url": "https://multimovies.city/episodes/ducktales-1x4-2/",
+          "airDate": "Sep. 18, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/1fEPrvOwuqhlMH2a8sRrDXyWfGK.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ove13j6"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Too Much of a Gold Thing (5)",
+          "url": "https://multimovies.city/episodes/ducktales-1x5-2/",
+          "airDate": "Sep. 18, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/82fVBSx4j8l4g4WUMdS3IezGGZK.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/n3rx3xs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Send in the Clones",
+          "url": "https://multimovies.city/episodes/ducktales-1x6-2/",
+          "airDate": "Sep. 21, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/zxih4xShUCXuntLS8KIm7P77mbY.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/j27fk3r"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Sphinx for the Memories",
+          "url": "https://multimovies.city/episodes/ducktales-1x7-2/",
+          "airDate": "Sep. 22, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/eSk4LKpL8N1iKBm1RjjT62QcuvX.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/qsxpznj"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Where No Duck Has Gone Before",
+          "url": "https://multimovies.city/episodes/ducktales-1x8-2/",
+          "airDate": "Sep. 23, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/jrB4yqvDpQgOu5gta9rMBXEcaTt.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ex6zzqq"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Armstrong",
+          "url": "https://multimovies.city/episodes/ducktales-1x9-2/",
+          "airDate": "Sep. 24, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/kdrogGyofNAoE9VKRR3Jtr32pJQ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/wi03rnm"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "Robot Robbers",
+          "url": "https://multimovies.city/episodes/ducktales-1x10-2/",
+          "airDate": "Sep. 25, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/9lXvCAmsfl4ie4JqGhonpzE0ICQ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/z1zig4o"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Magica's Shadow War",
+          "url": "https://multimovies.city/episodes/ducktales-1x11-2/",
+          "airDate": "Sep. 28, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/uKGBtY4arG88GWIr3eLhdFErU4Z.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/dklk3z6"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Master of the Djinni",
+          "url": "https://multimovies.city/episodes/ducktales-1x12-2/",
+          "airDate": "Sep. 29, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/gFTTiCtbr5NZ6pRZztbM9U2Z44E.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/yivobi2"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Hotel Strangeduck",
+          "url": "https://multimovies.city/episodes/ducktales-1x13-2/",
+          "airDate": "Sep. 30, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/wt1cSArBAPSid2YB7E1ZARugGhU.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/twmhngp"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 14,
+          "title": "Lost Crown of Genghis Khan",
+          "url": "https://multimovies.city/episodes/ducktales-1x14-2/",
+          "airDate": "Oct. 01, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/33u4tSq5BUnP1hIFDIifb8l2SCA.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/jxz1eb9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 15,
+          "title": "Duckman of Aquatraz",
+          "url": "https://multimovies.city/episodes/ducktales-1x15-2/",
+          "airDate": "Oct. 02, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/qIlMr79HMzRILYNlsDFKGc87Ilx.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/rn7sc6x"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 16,
+          "title": "The Money Vanishes",
+          "url": "https://multimovies.city/episodes/ducktales-1x16-2/",
+          "airDate": "Oct. 05, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/qgFdccdLmdeEB7q0EL6V5X7SgrX.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/wxw0vzc"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 17,
+          "title": "Sir Gyro de Gearloose",
+          "url": "https://multimovies.city/episodes/ducktales-1x17-2/",
+          "airDate": "Oct. 06, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/hbo9tGpQC6mOFX2pbgG5y6yhemX.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/bnw1joj"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 18,
+          "title": "Dinosaur Ducks",
+          "url": "https://multimovies.city/episodes/ducktales-1x18-2/",
+          "airDate": "Oct. 07, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/4zII2PAET1ZIfXnNnzC49YGFFrP.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/qb1zsyt"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 19,
+          "title": "Hero for Hire",
+          "url": "https://multimovies.city/episodes/ducktales-1x19-2/",
+          "airDate": "Oct. 08, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/aghHfHvIrJ7J1No8YtkJ5aXqQru.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pay5ehp"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 20,
+          "title": "Superdoo!",
+          "url": "https://multimovies.city/episodes/ducktales-1x20-2/",
+          "airDate": "Oct. 09, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/tA3lfIv1kUoVAo25rMMOXeogEFx.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/i8lmpt6"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 21,
+          "title": "Maid of the Myth",
+          "url": "https://multimovies.city/episodes/ducktales-1x21-2/",
+          "airDate": "Oct. 12, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/sFqX4oRM7m3DyrTayC2CC7k49W5.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/jq44sv1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 22,
+          "title": "Down & Out in Duckburg",
+          "url": "https://multimovies.city/episodes/ducktales-1x22-2/",
+          "airDate": "Oct. 13, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/ntHQIDd4mdrr6GCBra4ccTXbhKN.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/sau60hf"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 23,
+          "title": "Much Ado About Scrooge",
+          "url": "https://multimovies.city/episodes/ducktales-1x23-2/",
+          "airDate": "Oct. 14, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/gODv2jNVG26gxpUpQvLnLcmuTEu.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/fjwo8e3"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 24,
+          "title": "Top Duck",
+          "url": "https://multimovies.city/episodes/ducktales-1x24/",
+          "airDate": "Oct. 15, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/l7S2Bag8eQ5csCdUENSC6OScRuH.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/jjhtq9f"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 25,
+          "title": "Pearl of Wisdom",
+          "url": "https://multimovies.city/episodes/ducktales-1x25/",
+          "airDate": "Oct. 16, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/jIzeKBVwnUSlmGG0BqiVBu84SVo.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/g51fpv7"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 26,
+          "title": "The Curse of Castle McDuck",
+          "url": "https://multimovies.city/episodes/ducktales-1x26/",
+          "airDate": "Oct. 19, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/bOdnUFXwpspKBOXsdxb5m8UIteI.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/rl7owvw"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 27,
+          "title": "Launchpad's Civil War",
+          "url": "https://multimovies.city/episodes/ducktales-1x27/",
+          "airDate": "Oct. 20, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/aijymiOAtlLfbENFjJ6CtXzvESk.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/fhpajz4"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 28,
+          "title": "Sweet Duck of Youth",
+          "url": "https://multimovies.city/episodes/ducktales-1x28/",
+          "airDate": "Oct. 21, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/j2vuewIDsJSy0nh2sb8uBe04EdQ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ccpeqvq"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 29,
+          "title": "Earth Quack",
+          "url": "https://multimovies.city/episodes/ducktales-1x29/",
+          "airDate": "Oct. 22, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/dC1ZCNUfA1kmtDhnviVYF6Av5Gb.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/vnagtn9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 30,
+          "title": "Home Sweet Homer",
+          "url": "https://multimovies.city/episodes/ducktales-1x30/",
+          "airDate": "Oct. 23, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/qGWOqfPDqMwhEypyLayu4ZKonZX.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/agtpumn"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 31,
+          "title": "Bermuda Triangle Tangle",
+          "url": "https://multimovies.city/episodes/ducktales-1x31/",
+          "airDate": "Oct. 26, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/8pfB6wtPUmW43505BwjdMNoWxYs.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/w8tjyii"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 32,
+          "title": "Micro Ducks from Outer Space",
+          "url": "https://multimovies.city/episodes/ducktales-1x32/",
+          "airDate": "Oct. 27, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/uZ4awYc1Ct8O195WOBwhfTi2O16.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/bkw72qs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 33,
+          "title": "Back to the Klondike",
+          "url": "https://multimovies.city/episodes/ducktales-1x33/",
+          "airDate": "Oct. 28, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/5VWRNJFxWvhGQGHbob380wGQJ6E.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/rea679s"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 34,
+          "title": "Horse Scents",
+          "url": "https://multimovies.city/episodes/ducktales-1x34/",
+          "airDate": "Oct. 29, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/d9NGARkWyfDb6Trx4UkUqbJkw2t.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/qqmw6if"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 35,
+          "title": "Scrooge's Pet",
+          "url": "https://multimovies.city/episodes/ducktales-1x35/",
+          "airDate": "Oct. 30, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/8GSFWRy6Q55gQKZvgaQhrfTGbcd.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/x5c7n5o"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 36,
+          "title": "A Drain on the Economy (1)",
+          "url": "https://multimovies.city/episodes/ducktales-1x36/",
+          "airDate": "Nov. 02, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/qiAvvF0NcRkFY5d8JOHsB6D83oF.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/fp5d7qb"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 37,
+          "title": "A Whale of a Bad Time (2)",
+          "url": "https://multimovies.city/episodes/ducktales-1x37/",
+          "airDate": "Nov. 03, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/63jYGhbnVhgPyyxL2gSuKXQoBLj.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/hyxbo0x"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 38,
+          "title": "Aqua Ducks (3)",
+          "url": "https://multimovies.city/episodes/ducktales-1x38/",
+          "airDate": "Nov. 04, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/iyetivorWi1txpDNCjKLe6Pp1MR.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/f9ieeup"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 39,
+          "title": "Working for Scales (4)",
+          "url": "https://multimovies.city/episodes/ducktales-1x39/",
+          "airDate": "Nov. 05, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/fxSliIB7RZ2UJRllQJUChz3kPu5.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/be7eclz"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 40,
+          "title": "Merit-Time Adventure",
+          "url": "https://multimovies.city/episodes/ducktales-1x40/",
+          "airDate": "Nov. 06, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/6zWaFbDBqGLQtYyek1U4LtHMvTc.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/bep0b3l"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 41,
+          "title": "The Golden Fleecing",
+          "url": "https://multimovies.city/episodes/ducktales-1x41/",
+          "airDate": "Nov. 16, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/mDmN5EVcXKO1Z2u4aVvjcRlCoQi.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/d53sp8m"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 42,
+          "title": "Ducks of the West",
+          "url": "https://multimovies.city/episodes/ducktales-1x42/",
+          "airDate": "Nov. 17, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/qFsJxqFPWaGUqHS0HE5ZaomW887.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/bwmvmuj"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 43,
+          "title": "Time Teasers",
+          "url": "https://multimovies.city/episodes/ducktales-1x43/",
+          "airDate": "Nov. 18, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/vSFR6ICQVqEWaDR0bCRQ4WJP9V9.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/gbjwy1k"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 44,
+          "title": "Back Out in the Outback",
+          "url": "https://multimovies.city/episodes/ducktales-1x44/",
+          "airDate": "Nov. 19, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/rXCgtvNwxmsJfPrCb4u8m7pMTEU.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/qm57qs1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 45,
+          "title": "Raiders of the Lost Harp",
+          "url": "https://multimovies.city/episodes/ducktales-1x45/",
+          "airDate": "Nov. 20, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/msGNBhmlIzOkHV7tFOdVtqRwHtc.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/zlsobxs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 46,
+          "title": "The Right Duck",
+          "url": "https://multimovies.city/episodes/ducktales-1x46/",
+          "airDate": "Nov. 23, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/oVbaQrfM8f0RP5Qv2hwRqfmkB8w.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/g5nl5br"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 47,
+          "title": "Scroogerello",
+          "url": "https://multimovies.city/episodes/ducktales-1x47/",
+          "airDate": "Nov. 24, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/5GTdVsEYdTDOGE6q22sCEQpIodF.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/eyltlvv"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 48,
+          "title": "Double-O-Duck",
+          "url": "https://multimovies.city/episodes/ducktales-1x48/",
+          "airDate": "Nov. 25, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/kRGwcuNNNnAXuPi5S0iDf4rLZOJ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/o84rjq4"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 49,
+          "title": "Luck o' the Ducks",
+          "url": "https://multimovies.city/episodes/ducktales-1x49/",
+          "airDate": "Nov. 26, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/Zb2U0B5suP0gYPR5sbNWaDQ5dG.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/wsflzxs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 50,
+          "title": "Duckworth's Revolt",
+          "url": "https://multimovies.city/episodes/ducktales-1x50/",
+          "airDate": "Nov. 27, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/tGVNAsH4iXEnmzQVMnkRSnZiYI1.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/q7tbco0"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 51,
+          "title": "Magica's Magic Mirror",
+          "url": "https://multimovies.city/episodes/ducktales-1x51/",
+          "airDate": "Nov. 30, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/5jQRxL1trELCfNCbpRSFtOTtln7.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ugp6bft"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 52,
+          "title": "Take Me Out of the Ballgame",
+          "url": "https://multimovies.city/episodes/ducktales-1x52/",
+          "airDate": "Nov. 30, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/oNNSDQ2pyBCD8m6SzZqRudFjAMU.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/n10fl8o"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 53,
+          "title": "Duck to the Future",
+          "url": "https://multimovies.city/episodes/ducktales-1x53/",
+          "airDate": "Dec. 01, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/jUNSZeIRXbzgcbFKCzrZ6THpMsY.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/a0gcsyn"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 54,
+          "title": "Jungle Duck",
+          "url": "https://multimovies.city/episodes/ducktales-1x54/",
+          "airDate": "Dec. 02, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/5y6gPZhYvGPQ73i7SzFbRVvXud9.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/x704074"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 55,
+          "title": "Launchpad's First Crash",
+          "url": "https://multimovies.city/episodes/ducktales-1x55/",
+          "airDate": "Dec. 03, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/tqHwGLvZozqte857M6matIF3gfg.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/vj3uxwu"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 56,
+          "title": "Dime Enough For Luck",
+          "url": "https://multimovies.city/episodes/ducktales-1x56/",
+          "airDate": "Dec. 04, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/h8KO4d0WVye3YAx93tdr9S3Denf.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/c71j8gu"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 57,
+          "title": "Duck in the Iron Mask",
+          "url": "https://multimovies.city/episodes/ducktales-1x57/",
+          "airDate": "Dec. 07, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/dzUFcqHIh5DSuzudJQVA7hKllqL.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/jzrfr2p"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 58,
+          "title": "The Uncrashable Hindentanic",
+          "url": "https://multimovies.city/episodes/ducktales-1x58/",
+          "airDate": "Dec. 08, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/oTX9MiSMEYZjX1IvZ9u6prC5wnA.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/vhf0jat"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 59,
+          "title": "The Status Seekers",
+          "url": "https://multimovies.city/episodes/ducktales-1x59/",
+          "airDate": "Dec. 09, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/mqDNHsLGZ3AF36NuXBq1GpSKxJr.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/txstqqd"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 60,
+          "title": "Nothing to Fear",
+          "url": "https://multimovies.city/episodes/ducktales-1x60/",
+          "airDate": "Dec. 14, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/4C703JMrYDhH3ZLkQxmc6VZP66o.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/y3lv4kz"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 61,
+          "title": "Dr. Jekyll & Mr. McDuck",
+          "url": "https://multimovies.city/episodes/ducktales-1x61/",
+          "airDate": "Dec. 23, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/sc7TnJBMwt4SehhWCGuj3h06gGa.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nlfez8b"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 62,
+          "title": "Once Upon a Dime",
+          "url": "https://multimovies.city/episodes/ducktales-1x62/",
+          "airDate": "Dec. 24, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/1VFIZsZFBQybTDM8BhD5iDdR5pR.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/tq91jqq"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jymn Magon",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/jymn-magon/",
+      "image": "https://image.tmdb.org/t/p/w92/tZlwzC3HIXWtGjcZxEhkAFsQWj.jpg"
+    },
+    {
+      "name": "Alan Young",
+      "role": "Scrooge McDuck (voice)",
+      "url": "https://multimovies.city/cast/alan-young/",
+      "image": "https://image.tmdb.org/t/p/w92/9sMQDRksfRxXysHCSP98S8Z9mf8.jpg"
+    },
+    {
+      "name": "Russi Taylor",
+      "role": "Huey Duck / Dewey Duck / Louie Duck (voice)",
+      "url": "https://multimovies.city/cast/russi-taylor/",
+      "image": "https://image.tmdb.org/t/p/w92/r79GVF7LyBExJP7cRMob8QQZ6IU.jpg"
+    },
+    {
+      "name": "Terence McGovern",
+      "role": "Launchpad McQuack (voice)",
+      "url": "https://multimovies.city/cast/terence-mcgovern/",
+      "image": "https://image.tmdb.org/t/p/w92/85ceNcXJd4XE0elNSxzHVCCKwuV.jpg"
+    },
+    {
+      "name": "Chuck McCann",
+      "role": "Duckworth / Burger Beagle / Bouncer Beagle (voice)",
+      "url": "https://multimovies.city/cast/chuck-mccann/",
+      "image": "https://image.tmdb.org/t/p/w92/s3qNTQbRHRfbLd2rdtEl0Lmh2va.jpg"
+    },
+    {
+      "name": "Frank Welker",
+      "role": "Bigtime Beagle / Baggy Beagle / Bubba the Caveduck (voice)",
+      "url": "https://multimovies.city/cast/frank-welker/",
+      "image": "https://image.tmdb.org/t/p/w92/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "name": "Hal Smith",
+      "role": "Gyro Gearloose / Flintheart Glomgold (voice)",
+      "url": "https://multimovies.city/cast/hal-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg"
+    },
+    {
+      "name": "Joan Gerber",
+      "role": "Mrs. Bentina Beakley (voice)",
+      "url": "https://multimovies.city/cast/joan-gerber/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Brian Cummings",
+      "role": "Doofus Drake (voice)",
+      "url": "https://multimovies.city/cast/brian-cummings/",
+      "image": "https://image.tmdb.org/t/p/w92/4q4Y9qVTPh3og39kGNWkNCmMJAx.jpg"
+    },
+    {
+      "name": "Hamilton Camp",
+      "role": "Fenton Crackshell (voice)",
+      "url": "https://multimovies.city/cast/hamilton-camp/",
+      "image": "https://image.tmdb.org/t/p/w92/1ftUhoIOkYzzPW9lmkMYrskxgXT.jpg"
+    },
+    {
+      "name": "June Foray",
+      "role": "Ma Beagle / Magica De Spell / Mrs. Featherby (voice)",
+      "url": "https://multimovies.city/cast/june-foray/",
+      "image": "https://image.tmdb.org/t/p/w92/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/exXuOvRwzkbtZmojV65CJpwc2BU.jpg",
+    "https://image.tmdb.org/t/p/w300/qGL9FKuoLCe20DpC1L0DblSpJ11.jpg",
+    "https://image.tmdb.org/t/p/w300/95bmbJDihK9vUOof4QaNTCAeZqJ.jpg",
+    "https://image.tmdb.org/t/p/w300/n7swEGVQ8UCIoCScz2b9olDLXqo.jpg",
+    "https://image.tmdb.org/t/p/w300/myI4QvUU18UiGglr6NEjNkciXOk.jpg",
+    "https://image.tmdb.org/t/p/w300/usIxKaflO1Ns2CgmX23Mo1C9cdC.jpg",
+    "https://image.tmdb.org/t/p/w300/v4fOZbR99xRVomfzzmTbQtf2wnh.jpg",
+    "https://image.tmdb.org/t/p/w300/6lmsdKc0SB6hpiL0B7fjSMLMdLs.jpg",
+    "https://image.tmdb.org/t/p/w300/zPV4q10aOArSexSiyj3MKmsmnf0.jpg",
+    "https://image.tmdb.org/t/p/w300/xITlloKrbhwDsY1L8eaMMHHXCf.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
