@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-karate-kid/",
+  "meta": {
+    "title": "The Karate Kid",
+    "poster": "https://image.tmdb.org/t/p/w500/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 22, 1984",
+    "ratingValue": "7.4",
+    "ratingCount": "5",
+    "synopsis": "Daniel, a fatherless teenager, arrives in Los Angeles and becomes the object of bullying by a gang of karate students when he strikes up a relationship with Ali, the gang leader\u2019s ex-girlfriend, so Daniel asks Miyagi, a master of martial arts, to help him learn karate.",
+    "infoFields": {
+      "Original title": "The Karate Kid",
+      "IMDb Rating": "7.3 232,022 votes",
+      "TMDb Rating": "7.177 3,629 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John G. Avildsen",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-g-avildsen/",
+      "image": "https://image.tmdb.org/t/p/w92/cBpz7xPTfT0cfPhQoGrp7x7esma.jpg"
+    },
+    {
+      "name": "Ralph Macchio",
+      "role": "Daniel LaRusso",
+      "url": "https://multimovies.city/cast/ralph-macchio/",
+      "image": "https://image.tmdb.org/t/p/w92/kehn6kNTFPlAYrWJzBzrEu6WHJp.jpg"
+    },
+    {
+      "name": "Pat Morita",
+      "role": "Mr. Miyagi",
+      "url": "https://multimovies.city/cast/pat-morita/",
+      "image": "https://image.tmdb.org/t/p/w92/urxkD8FV5ajhjiFTyVQlbECGyRI.jpg"
+    },
+    {
+      "name": "Elisabeth Shue",
+      "role": "Ali Mills",
+      "url": "https://multimovies.city/cast/elisabeth-shue/",
+      "image": "https://image.tmdb.org/t/p/w92/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+    },
+    {
+      "name": "Martin Kove",
+      "role": "John Kreese",
+      "url": "https://multimovies.city/cast/martin-kove/",
+      "image": "https://image.tmdb.org/t/p/w92/vKfS55g6rqldWekNdy4JifuJQsw.jpg"
+    },
+    {
+      "name": "Randee Heller",
+      "role": "Lucille LaRusso",
+      "url": "https://multimovies.city/cast/randee-heller/",
+      "image": "https://image.tmdb.org/t/p/w92/asb43syJO1U8SEpcBbfK1On3ECf.jpg"
+    },
+    {
+      "name": "William Zabka",
+      "role": "Johnny Lawrence",
+      "url": "https://multimovies.city/cast/william-zabka/",
+      "image": "https://image.tmdb.org/t/p/w92/AoTxNif6Kv5KtIk3YdfQUxLrLeR.jpg"
+    },
+    {
+      "name": "Ron Thomas",
+      "role": "Bobby Brown",
+      "url": "https://multimovies.city/cast/ron-thomas/",
+      "image": "https://image.tmdb.org/t/p/w92/rjaSjOIQwg77r6ZvZlER1Vblzpu.jpg"
+    },
+    {
+      "name": "Rob Garrison",
+      "role": "Tommy",
+      "url": "https://multimovies.city/cast/rob-garrison/",
+      "image": "https://image.tmdb.org/t/p/w92/9Vs91nvKTDtKyzNk4ygqftEkZEj.jpg"
+    },
+    {
+      "name": "Chad McQueen",
+      "role": "Dutch",
+      "url": "https://multimovies.city/cast/chad-mcqueen/",
+      "image": "https://image.tmdb.org/t/p/w92/wHU54LIBJwxjnNvmc6sofdiy8Bi.jpg"
+    },
+    {
+      "name": "Tony O'Dell",
+      "role": "Jimmy",
+      "url": "https://multimovies.city/cast/tony-odell/",
+      "image": "https://image.tmdb.org/t/p/w92/2culRlSt9jIExS3LmSfORCJygWU.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/4TRL9t8yOQ74j7jI4dGy7C9OVvC.jpg",
+    "https://image.tmdb.org/t/p/w300/g8Q4QfwO3curRpMqE4JUxPXfL3H.jpg",
+    "https://image.tmdb.org/t/p/w300/8dMN35znNgW9VJBmcbiXgvOqBb0.jpg",
+    "https://image.tmdb.org/t/p/w300/klZKHmAex2FVAXcNH9X8ZPrZ15K.jpg",
+    "https://image.tmdb.org/t/p/w300/p3QHGm3Y5z5jJqh59U463L9N3pq.jpg",
+    "https://image.tmdb.org/t/p/w300/hFaQiV1ZTTRtv7bMnNdukgOmOh9.jpg",
+    "https://image.tmdb.org/t/p/w300/u46LtA0NIYfacekh6dSNU52K2UN.jpg",
+    "https://image.tmdb.org/t/p/w300/ydYopY9r2jUhbUf1EOW1WrvDnzY.jpg"
+  ],
+  "similar": [],
+  "views": 3846,
+  "sources": [
+    "https://www.youtube.com/embed/r_8Rw16uscg?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/al8z2hr"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5385,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5385,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
