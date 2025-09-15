@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/raiders-of-the-lost-ark/",
+  "meta": {
+    "title": "Indiana Jones : Raiders of the Lost Ark",
+    "poster": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 12, 1981",
+    "ratingValue": "8",
+    "ratingCount": "4",
+    "synopsis": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+    "infoFields": {
+      "Original title": "Raiders of the Lost Ark",
+      "IMDb Rating": "8.4 1,002,213 votes",
+      "TMDb Rating": "7.924 11,202 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Steven Spielberg",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steven-spielberg/",
+      "image": "https://image.tmdb.org/t/p/w92/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+    },
+    {
+      "name": "Harrison Ford",
+      "role": "Indiana Jones",
+      "url": "https://multimovies.city/cast/harrison-ford/",
+      "image": "https://image.tmdb.org/t/p/w92/ActhM39LTxgx3tnJv3s5nM6hGD1.jpg"
+    },
+    {
+      "name": "Karen Allen",
+      "role": "Marion Ravenwood",
+      "url": "https://multimovies.city/cast/karen-allen/",
+      "image": "https://image.tmdb.org/t/p/w92/eJszpndpRzrXbSlz7RUlApoTykn.jpg"
+    },
+    {
+      "name": "Paul Freeman",
+      "role": "Dr. Ren\u00e9 Belloq",
+      "url": "https://multimovies.city/cast/paul-freeman/",
+      "image": "https://image.tmdb.org/t/p/w92/mLDHLughdhSe6AqsklX0Zhjk9Rx.jpg"
+    },
+    {
+      "name": "John Rhys-Davies",
+      "role": "Sallah",
+      "url": "https://multimovies.city/cast/john-rhys-davies/",
+      "image": "https://image.tmdb.org/t/p/w92/bfn4WvhGo2QKYtv5ynk7tKu7NnL.jpg"
+    },
+    {
+      "name": "Ronald Lacey",
+      "role": "Major Arnold Toht",
+      "url": "https://multimovies.city/cast/ronald-lacey/",
+      "image": "https://image.tmdb.org/t/p/w92/wrFU5EkxKIq0TpEBuKXzcRAld73.jpg"
+    },
+    {
+      "name": "Wolf Kahler",
+      "role": "Colonel Dietrich",
+      "url": "https://multimovies.city/cast/wolf-kahler/",
+      "image": "https://image.tmdb.org/t/p/w92/qj8kHiwkluEAH7kwfsBgmDyjGH1.jpg"
+    },
+    {
+      "name": "Anthony Higgins",
+      "role": "Gobler",
+      "url": "https://multimovies.city/cast/anthony-higgins/",
+      "image": "https://image.tmdb.org/t/p/w92/uHQ4SZoa16g7BYeICqll6uFZXeL.jpg"
+    },
+    {
+      "name": "Denholm Elliott",
+      "role": "Dr. Marcus Brody",
+      "url": "https://multimovies.city/cast/denholm-elliott/",
+      "image": "https://image.tmdb.org/t/p/w92/eS5KwltqEj4QQGXK2zqP1WWUxKi.jpg"
+    },
+    {
+      "name": "Alfred Molina",
+      "role": "Satipo",
+      "url": "https://multimovies.city/cast/alfred-molina/",
+      "image": "https://image.tmdb.org/t/p/w92/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "name": "Vic Tablian",
+      "role": "Barranca / Monkey Man",
+      "url": "https://multimovies.city/cast/vic-tablian/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/oxK0OlJ5brTZMLQu5AD1oLDgwt3.jpg",
+    "https://image.tmdb.org/t/p/w300/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+    "https://image.tmdb.org/t/p/w300/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+    "https://image.tmdb.org/t/p/w300/f3XrGXd34Ru7o39LUwWvk5igEV7.jpg",
+    "https://image.tmdb.org/t/p/w300/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
+    "https://image.tmdb.org/t/p/w300/5WMfKMXfn0wDRwoe1LJtf8ZP57d.jpg",
+    "https://image.tmdb.org/t/p/w300/6isGitfq45acCDFDW2uAGO3Im4x.jpg",
+    "https://image.tmdb.org/t/p/w300/tJUQlNtlG5JSTO0cl3p6uXtnZzc.jpg",
+    "https://image.tmdb.org/t/p/w300/5VtsgHqFZCTHBFlv9U5khppiG2O.jpg",
+    "https://image.tmdb.org/t/p/w300/n3mqt8gZemJ8YXAjX0Yc8QajBrH.jpg"
+  ],
+  "similar": [],
+  "views": 2805,
+  "sources": [
+    "https://www.youtube.com/embed/X4DOyCPRlx0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/29hdph1l2o9t"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25589,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 25589,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
