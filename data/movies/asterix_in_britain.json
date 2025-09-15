@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/asterix-in-britain/",
+  "meta": {
+    "title": "Asterix in Britain",
+    "poster": "https://image.tmdb.org/t/p/w500/10L5R1l03MqDx36e0LJ99NKLGD3.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Dec. 03, 1986",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "One little ancient British village still holds out against the Roman invaders. Asterix and Obelix are invited to help. They must face fog, rain, warm beer and boiled boar with mint sauce, but they soon have Governor Encyclopaedius Britannicus\u2019s Romans declining and falling. Until a wild race for a barrel of magic potion lands them in the drink.",
+    "infoFields": {
+      "Original title": "Ast\u00e9rix chez les Bretons",
+      "IMDb Rating": "7.1 12,772 votes",
+      "TMDb Rating": "6.8 664 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Pino Van Lamsweerde",
+      "role": "Director",
+      "url": "https://multimovies.city/director/pino-van-lamsweerde/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Roger Carel",
+      "role": "Ast\u00e9rix (voice) / Id\u00e9fix (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/roger-carel/",
+      "image": "https://image.tmdb.org/t/p/w92/nIibRj2FbvhGQqXMrLJJqAsG107.jpg"
+    },
+    {
+      "name": "Pierre Tornade",
+      "role": "Ob\u00e9lix (voice)",
+      "url": "https://multimovies.city/cast/pierre-tornade/",
+      "image": "https://image.tmdb.org/t/p/w92/jtxGufvDwQSpwyuJKitxSMTEAfd.jpg"
+    },
+    {
+      "name": "Graham Bushnell",
+      "role": "Jolitorax (voice)",
+      "url": "https://multimovies.city/cast/graham-bushnell/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Pierre Mondy",
+      "role": "C\u00e9tinlapsus (voice)",
+      "url": "https://multimovies.city/cast/pierre-mondy/",
+      "image": "https://image.tmdb.org/t/p/w92/xRk7iv46tFfzrawX1hb3TfkT8Mv.jpg"
+    },
+    {
+      "name": "Maurice Risch",
+      "role": "Chateaupetrus (voice)",
+      "url": "https://multimovies.city/cast/maurice-risch/",
+      "image": "https://image.tmdb.org/t/p/w92/MlYsObrpDX2Ykj6vONieUFU0ug.jpg"
+    },
+    {
+      "name": "Roger Lumont",
+      "role": "Stratocumulus (voice)",
+      "url": "https://multimovies.city/cast/roger-lumont/",
+      "image": "https://image.tmdb.org/t/p/w92/ziJQtP0tYua77eJdLRfoJ2lPPiB.jpg"
+    },
+    {
+      "name": "Nicolas Silberg",
+      "role": "Motus (voice)",
+      "url": "https://multimovies.city/cast/nicolas-silberg/",
+      "image": "https://image.tmdb.org/t/p/w92/A6Sombkj1L5B32WLkQhJLTfKUJi.jpg"
+    },
+    {
+      "name": "Albert Augier",
+      "role": "Epidema\u00efs",
+      "url": "https://multimovies.city/cast/albert-augier/",
+      "image": "https://image.tmdb.org/t/p/w92/qrh9HIvl7VK9dEYY0rpErpTFG6Q.jpg"
+    },
+    {
+      "name": "Paul Bisciglia",
+      "role": "Voix additionnelles (voice)",
+      "url": "https://multimovies.city/cast/paul-bisciglia/",
+      "image": "https://image.tmdb.org/t/p/w92/rRpleKwfHaT1plFAPkZ9B9rlIt9.jpg"
+    },
+    {
+      "name": "Bertie Cortez",
+      "role": "Voix additionnelles (voice)",
+      "url": "https://multimovies.city/cast/bertie-cortez/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/cNwnAack1iyaLoWqGyTGocMOarg.jpg",
+    "https://image.tmdb.org/t/p/w300/8OKnRK70WJH0pWuiIHsjuXRiRYR.jpg",
+    "https://image.tmdb.org/t/p/w300/hjghk9fOElXqRPArtOh6T531xcl.jpg",
+    "https://image.tmdb.org/t/p/w300/wTXDhIDQHMTinWRlozBQs43D9cW.jpg"
+  ],
+  "similar": [],
+  "views": 253,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/zmndoh9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 70265,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
