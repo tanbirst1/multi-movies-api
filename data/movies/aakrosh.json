@@ -1,0 +1,122 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/aakrosh/",
+  "meta": {
+    "title": "Aakrosh",
+    "poster": "https://image.tmdb.org/t/p/w500/uJRbl9X6agXb3gTjHsmJebW7HDh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Jan. 01, 1980",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Allegedly based on a true incident reported on page 7 of a local newspaper, the film was a scathing satire on the corruption in the judicial system and the victimization of the underprivileged by the able and the powerful.",
+    "infoFields": {
+      "Original title": "\u0906\u0915\u094d\u0930\u094b\u0936",
+      "IMDb Rating": "7.9 1,030 votes",
+      "TMDb Rating": "7.3 8 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Govind Nihalani",
+      "role": "Director",
+      "url": "https://multimovies.city/director/govind-nihalani/",
+      "image": "https://image.tmdb.org/t/p/w92/ssUajzS4kD2h74ndKRZXcAYv7I3.jpg"
+    },
+    {
+      "name": "Naseeruddin Shah",
+      "role": "Bhaskar Kulkarni",
+      "url": "https://multimovies.city/cast/naseeruddin-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/lFvGfKypi5NNyUjrsT8Y7ebWc7G.jpg"
+    },
+    {
+      "name": "Om Puri",
+      "role": "Lahanya Bhiku",
+      "url": "https://multimovies.city/cast/om-puri/",
+      "image": "https://image.tmdb.org/t/p/w92/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+    },
+    {
+      "name": "Smita Patil",
+      "role": "Nagi Bhiku",
+      "url": "https://multimovies.city/cast/smita-patil/",
+      "image": "https://image.tmdb.org/t/p/w92/zQEmmkcWphdV2rQjV2cIpJwngZ8.jpg"
+    },
+    {
+      "name": "Amrish Puri",
+      "role": "Dushane",
+      "url": "https://multimovies.city/cast/amrish-puri/",
+      "image": "https://image.tmdb.org/t/p/w92/f9F456K0ydJCIIUS5YSmQWAgEgI.jpg"
+    },
+    {
+      "name": "Mohan Agashe",
+      "role": "Bhonsle",
+      "url": "https://multimovies.city/cast/mohan-agashe/",
+      "image": "https://image.tmdb.org/t/p/w92/p3LfmPZ0cZD0eUVb4LvH0Sm3jOw.jpg"
+    },
+    {
+      "name": "Mahesh Elkunchwar",
+      "role": "Social worker",
+      "url": "https://multimovies.city/cast/mahesh-elkunchwar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Nana Palsikar",
+      "role": "Bhiku's father",
+      "url": "https://multimovies.city/cast/nana-palsikar/",
+      "image": "https://image.tmdb.org/t/p/w92/iVC6oyjy7EhuiILdIGsIrqxVBar.jpg"
+    },
+    {
+      "name": "Achyut Potdar",
+      "role": "More",
+      "url": "https://multimovies.city/cast/achyut-potdar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Deepak Shirke",
+      "role": "ruffian",
+      "url": "https://multimovies.city/cast/deepak-shirke/",
+      "image": "https://image.tmdb.org/t/p/w92/eiPMYKXPjWEhOVzQ0KyNiEDkAes.jpg"
+    },
+    {
+      "name": "Bhagyashree Kotnis",
+      "role": "Bhiku's sister",
+      "url": "https://multimovies.city/cast/bhagyashree-kotnis/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/99Pyi0TDgBa3LadcNaPeVm9uBe9.jpg",
+    "https://image.tmdb.org/t/p/w300/tJZrOa2NSKHu56BQs0ZF5rGgDIU.jpg"
+  ],
+  "similar": [],
+  "views": 541,
+  "sources": [
+    "https://www.youtube.com/embed/0pHT_44imDU?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/xyb40binjndj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 3455,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 3455,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
