@@ -1,0 +1,141 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-empire-strikes-back/",
+  "meta": {
+    "title": "Star Wars: Episode V \u2013 The Empire Strikes Back",
+    "poster": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Star wars",
+        "url": "https://multimovies.city/genre/star-wars/"
+      }
+    ],
+    "firstAirDate": "May. 20, 1980",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+    "infoFields": {
+      "Original title": "The Empire Strikes Back",
+      "TMDb Rating": "8.391 16,064 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Peter MacDonald",
+      "role": "Director",
+      "url": "https://multimovies.city/director/peter-macdonald/",
+      "image": "https://image.tmdb.org/t/p/w92/sulOWgN2WZKDOlg8JMpTv8TUSHh.jpg"
+    },
+    {
+      "name": "Mark Hamill",
+      "role": "Luke Skywalker",
+      "url": "https://multimovies.city/cast/mark-hamill/",
+      "image": "https://image.tmdb.org/t/p/w92/2ZulC2Ccq1yv3pemusks6Zlfy2s.jpg"
+    },
+    {
+      "name": "Harrison Ford",
+      "role": "Han Solo",
+      "url": "https://multimovies.city/cast/harrison-ford/",
+      "image": "https://image.tmdb.org/t/p/w92/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+    },
+    {
+      "name": "Carrie Fisher",
+      "role": "Princess Leia",
+      "url": "https://multimovies.city/cast/carrie-fisher/",
+      "image": "https://image.tmdb.org/t/p/w92/d60ZwPUoizvw1gdU6dXvKUOeoDK.jpg"
+    },
+    {
+      "name": "Billy Dee Williams",
+      "role": "Lando Calrissian",
+      "url": "https://multimovies.city/cast/billy-dee-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/dCiHLiCapPuRwKkM1ytVZ7PwYQY.jpg"
+    },
+    {
+      "name": "Anthony Daniels",
+      "role": "C-3PO",
+      "url": "https://multimovies.city/cast/anthony-daniels/",
+      "image": "https://image.tmdb.org/t/p/w92/c876ZM5ObwYgXksrRWNNrL9KeZg.jpg"
+    },
+    {
+      "name": "David Prowse",
+      "role": "Darth Vader",
+      "url": "https://multimovies.city/cast/david-prowse/",
+      "image": "https://image.tmdb.org/t/p/w92/xTocYiKHlRYN8tfh8vyQFsRXC0K.jpg"
+    },
+    {
+      "name": "Peter Mayhew",
+      "role": "Chewbacca",
+      "url": "https://multimovies.city/cast/peter-mayhew/",
+      "image": "https://image.tmdb.org/t/p/w92/bWv4RHLhjH6Ujrfhzm6ZC8ms3f2.jpg"
+    },
+    {
+      "name": "Kenny Baker",
+      "role": "R2-D2",
+      "url": "https://multimovies.city/cast/kenny-baker/",
+      "image": "https://image.tmdb.org/t/p/w92/uo3RorCoGDWHecLtqjviwzFExxR.jpg"
+    },
+    {
+      "name": "Frank Oz",
+      "role": "Yoda (Voice)",
+      "url": "https://multimovies.city/cast/frank-oz/",
+      "image": "https://image.tmdb.org/t/p/w92/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+    },
+    {
+      "name": "Alec Guinness",
+      "role": "Obi-Wan Kenobi",
+      "url": "https://multimovies.city/cast/alec-guinness/",
+      "image": "https://image.tmdb.org/t/p/w92/gplGgl6XERpvYdluiwY8GlxSdpi.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+    "https://image.tmdb.org/t/p/w300/dMZxEdrWIzUmUoOz2zvmFuutbj7.jpg",
+    "https://image.tmdb.org/t/p/w300/azIbQpeKKNF9r85lBSRrNnMK0Si.jpg",
+    "https://image.tmdb.org/t/p/w300/b37U5gN6itEjaFcmaKhUOqG2Mkt.jpg",
+    "https://image.tmdb.org/t/p/w300/8snreMaPUZGebY97SaCTA4bWq9o.jpg",
+    "https://image.tmdb.org/t/p/w300/rY1jvGx3KckUfqOcPtuApuxxRvi.jpg",
+    "https://image.tmdb.org/t/p/w300/ycBA7zK0v32oY4ohcK5dV3LjJbB.jpg",
+    "https://image.tmdb.org/t/p/w300/uuxAORz6twfHL8hmhiGMq9f3tSp.jpg",
+    "https://image.tmdb.org/t/p/w300/p4p4f4hFapdP4NMexh7B4YMqrnt.jpg",
+    "https://image.tmdb.org/t/p/w300/nJcAQO0zauDTp72SEMcneIDjA7c.jpg"
+  ],
+  "similar": [],
+  "views": 1847,
+  "sources": [
+    "https://www.youtube.com/embed/KwYa7UpoWtM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/6tuwknlj7912"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 36995,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 36995,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
