@@ -1,0 +1,227 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/mr-bean/",
+  "meta": {
+    "title": "Mr. Bean",
+    "poster": "https://image.tmdb.org/t/p/w500/pUNQV35kDaKuejnXGNiUeEBurNE.jpg",
+    "networks": [
+      {
+        "name": "ITV",
+        "url": "https://multimovies.city/network/itv/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Amazon Prime",
+        "url": "https://multimovies.city/genre/amazon-prime/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Jan. 01, 1990",
+    "ratingValue": "7.4",
+    "ratingCount": "5",
+    "synopsis": "Mr Bean turns simple everyday tasks into chaotic situations and will leave you in stitches as he creates havoc wherever he goes.",
+    "infoFields": {
+      "Original title": "Mr. Bean",
+      "TMDb Rating": "7.955 1,203 votes",
+      "First air date": "Jan. 01, 1990",
+      "Last air date": "Nov. 15, 1995",
+      "Seasons": "1",
+      "Episodes": "14",
+      "Average Duration": "25 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Jan. 01, 1990",
+      "episodeCount": 14,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Mr. Bean",
+          "url": "https://multimovies.city/episodes/mr-bean-1x1/",
+          "airDate": "Jan. 01, 1990",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/lh2K2eyftjjmP1tJcywDbw6zWqh.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/srae34pc6106"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "The Return of Mr. Bean",
+          "url": "https://multimovies.city/episodes/mr-bean-1x2/",
+          "airDate": "Nov. 05, 1990",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/dqKsEGlO39aAfB4S6QV7rmYeQso.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/xntyiw1jdmz7"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "The Curse of Mr. Bean",
+          "url": "https://multimovies.city/episodes/mr-bean-1x3/",
+          "airDate": "Dec. 30, 1990",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/5z1LD8AxIznlj7cgy6EL1dogCYf.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/y1vqnhuvqlon"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Mr. Bean Goes to Town",
+          "url": "https://multimovies.city/episodes/mr-bean-1x4/",
+          "airDate": "Oct. 15, 1991",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/wD56LG2Wevp5Bw6hWMEckyGcQr3.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/pxhd7x7wpzru"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "The Trouble with Mr. Bean",
+          "url": "https://multimovies.city/episodes/mr-bean-1x5/",
+          "airDate": "Jan. 01, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/2EQBRq1lmMVQ5MJNPIoNpHP8TKF.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/ugmfpxf7u17b"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Mr. Bean Rides Again",
+          "url": "https://multimovies.city/episodes/mr-bean-1x6/",
+          "airDate": "Feb. 17, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/AhnynPfy9T85HxfAfgKK2VlwvuF.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/fbapee01u03y"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Merry Christmas Mr. Bean",
+          "url": "https://multimovies.city/episodes/mr-bean-1x7/",
+          "airDate": "Dec. 29, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/d5E7zYfKrdUJBs3gtHuFVto42Ma.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/jnu0xedkiq57"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Mr. Bean in Room 426",
+          "url": "https://multimovies.city/episodes/mr-bean-1x8/",
+          "airDate": "Feb. 17, 1993",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/9FOgRmHFwukMAPr7d4iYudObQzv.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/whvzif4d2jnq"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Do It Yourself Mr. Bean",
+          "url": "https://multimovies.city/episodes/mr-bean-1x9/",
+          "airDate": "Jan. 10, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/f0lNpmcCM7uHMtzt2oacwqBHkLj.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/zpebyjwq9yjl"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "Mind the Baby, Mr. Bean",
+          "url": "https://multimovies.city/episodes/mr-bean-1x10/",
+          "airDate": "Apr. 25, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/hezs9eNpNjJ1dSKwyppmIK7Bz6k.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/qyindsipy6qd"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Back to School Mr. Bean",
+          "url": "https://multimovies.city/episodes/mr-bean-1x11/",
+          "airDate": "Oct. 26, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/f0uODCbxTB3s7uNAcexKBJkFvXf.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/zalzn1hn5qs1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Tee Off, Mr. Bean",
+          "url": "https://multimovies.city/episodes/mr-bean-1x12/",
+          "airDate": "Sep. 20, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/tP9ALNHyVu5istSZAWqcekd7lC7.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/0fdj6k8szphh"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Goodnight, Mr. Bean",
+          "url": "https://multimovies.city/episodes/mr-bean-1x13/",
+          "airDate": "Oct. 31, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/gGLgGxSSk65649y1yQmIjbWjWxr.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/hs1c7syhhi6i"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 14,
+          "title": "Hair by Mr. Bean of London",
+          "url": "https://multimovies.city/episodes/mr-bean-1x14/",
+          "airDate": "Nov. 15, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/9ZzYy2Kef3lgZK5fAmY9TliaYnZ.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/fdadpvjdr6q8"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Richard Curtis",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/richard-curtis/",
+      "image": "https://image.tmdb.org/t/p/w92/idJ1oulpoD7UAy9odVBcxUyAabW.jpg"
+    },
+    {
+      "name": "Rowan Atkinson",
+      "role": "Mr. Bean",
+      "url": "https://multimovies.city/cast/rowan-atkinson/",
+      "image": "https://image.tmdb.org/t/p/w92/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3U11A8yrO0PA9tSdD13UouwEMwE.jpg",
+    "https://image.tmdb.org/t/p/w300/cUm1oG25Kf1ePQZT8H2MhYRhzMv.jpg",
+    "https://image.tmdb.org/t/p/w300/ivvSF7erxJ6g6PHNvglrI6sQmSl.jpg",
+    "https://image.tmdb.org/t/p/w300/iqzwGNs4abeKDuAUM1lhIHAtoMb.jpg",
+    "https://image.tmdb.org/t/p/w300/eHdYqiJpLRsovwH4rUmrsVKrjuH.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
