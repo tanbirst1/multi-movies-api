@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rambo-iii/",
+  "meta": {
+    "title": "Rambo 3",
+    "poster": "https://image.tmdb.org/t/p/w500/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Rambo",
+        "url": "https://multimovies.city/genre/rambo/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      },
+      {
+        "name": "War",
+        "url": "https://multimovies.city/genre/war/"
+      }
+    ],
+    "firstAirDate": "May. 24, 1988",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Combat has taken its toll on Rambo, but he\u2019s finally begun to find inner peace in a monastery. When Rambo\u2019s friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.",
+    "infoFields": {
+      "Original title": "Rambo III",
+      "IMDb Rating": "5.8 144,334 votes",
+      "TMDb Rating": "6.2 3,216 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Peter MacDonald",
+      "role": "Director",
+      "url": "https://multimovies.city/director/peter-macdonald/",
+      "image": "https://image.tmdb.org/t/p/w92/sulOWgN2WZKDOlg8JMpTv8TUSHh.jpg"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "Rambo",
+      "url": "https://multimovies.city/cast/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/qDRGPAcQoW8Wuig9bvoLpHwf1gU.jpg"
+    },
+    {
+      "name": "Richard Crenna",
+      "role": "Trautman",
+      "url": "https://multimovies.city/cast/richard-crenna/",
+      "image": "https://image.tmdb.org/t/p/w92/dsViQ2ate32xTSQgxoEHKQl0Evj.jpg"
+    },
+    {
+      "name": "Marc de Jonge",
+      "role": "Coronel Zaysen",
+      "url": "https://multimovies.city/cast/marc-de-jonge/",
+      "image": "https://image.tmdb.org/t/p/w92/a0BfIL3Ru4QpievnOWMN9RUJEU2.jpg"
+    },
+    {
+      "name": "Kurtwood Smith",
+      "role": "Griggs",
+      "url": "https://multimovies.city/cast/kurtwood-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg"
+    },
+    {
+      "name": "Spiros Foc\u00e1s",
+      "role": "Masoud",
+      "url": "https://multimovies.city/cast/spiros-focas/",
+      "image": "https://image.tmdb.org/t/p/w92/fE2TyuWyYrB2kGiwOdd35zYAfpm.jpg"
+    },
+    {
+      "name": "Sasson Gabai",
+      "role": "Mousa",
+      "url": "https://multimovies.city/cast/sasson-gabai/",
+      "image": "https://image.tmdb.org/t/p/w92/5ow43b9JxUZWrZPp8hJ1jn3nxUF.jpg"
+    },
+    {
+      "name": "Doudi Shoua",
+      "role": "Hamid",
+      "url": "https://multimovies.city/cast/doudi-shoua/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Randy Raney",
+      "role": "Kourov",
+      "url": "https://multimovies.city/cast/randy-raney/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Marcus Gilbert",
+      "role": "Tomask",
+      "url": "https://multimovies.city/cast/marcus-gilbert/",
+      "image": "https://image.tmdb.org/t/p/w92/h3djDOkNHLwep1fwbGbEhT5c6dz.jpg"
+    },
+    {
+      "name": "Alon Abutbul",
+      "role": "Nissem",
+      "url": "https://multimovies.city/cast/alon-abutbul/",
+      "image": "https://image.tmdb.org/t/p/w92/ja0vix3b43U5whDTYZascbeXlQo.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+    "https://image.tmdb.org/t/p/w300/hSOrDU4f8dqE7T8uw5e9I9g59i9.jpg",
+    "https://image.tmdb.org/t/p/w300/hrRL9Ag1ilxswRMS6ZYyrrs4J6Q.jpg",
+    "https://image.tmdb.org/t/p/w300/kyHrxR1maV2U0S2drf3Lr8s3p51.jpg",
+    "https://image.tmdb.org/t/p/w300/aMPR3QtikoSi4RJz07EUXNb3SAq.jpg",
+    "https://image.tmdb.org/t/p/w300/f1PRhFPSPKqa6OKIpnNOmP0StKH.jpg",
+    "https://image.tmdb.org/t/p/w300/9vNoX1RrmpJoqLtFKuVSRIZwq7w.jpg"
+  ],
+  "similar": [],
+  "views": 2614,
+  "sources": [
+    "https://www.youtube.com/embed/6lurfSSkat0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ee7b511"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26760,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 26760,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
