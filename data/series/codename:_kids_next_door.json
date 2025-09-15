@@ -1,0 +1,244 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/codename-kids-next-door/",
+  "meta": {
+    "title": "Codename: Kids Next Door",
+    "poster": "https://image.tmdb.org/t/p/w500/ppM8Pl6e8JIr39HPLRFgqDH3Vf1.jpg",
+    "networks": [
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/network/cartoon-network/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Sci-Fi & Fantasy",
+        "url": "https://multimovies.city/genre/sci-fi-fantasy/"
+      }
+    ],
+    "firstAirDate": "Dec. 06, 2002",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Taking numbers instead of names, five extraordinary 10-year-olds form a covert team called the Kids Next Door with one dedicated mission: to free all children from the tyrannical rule of adults.",
+    "infoFields": {
+      "Original title": "Codename: Kids Next Door",
+      "TMDb Rating": "8.207 661 votes",
+      "First air date": "Dec. 06, 2002",
+      "Last air date": "Nov. 23, 2007",
+      "Seasons": "6",
+      "Episodes": "139",
+      "Average Duration": "11 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Dec. 06, 2002",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Operation: C.A.K.E.D.",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x1/",
+          "airDate": "Dec. 06, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/61y10ihrwk9m"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Diseasy Does It",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x2/",
+          "airDate": "Dec. 06, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/v3ir5fdvg5rs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "No P in the OOL",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x3/",
+          "airDate": "Dec. 06, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/8m93ahnbzd1p"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Operation: I.-S.C.R.E.A.M.",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x4/",
+          "airDate": "Dec. 06, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/nciwgie572d1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Operation: C.A.N.N.O.N.",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x5/",
+          "airDate": "Dec. 06, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/nvaji84d1ejk"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Operation: N.O.-P.O.W.U.H.",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x6/",
+          "airDate": "Dec. 13, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/707dfbb2n0q2"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Operation: T.E.E.T.H.",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x7/",
+          "airDate": "Dec. 13, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/6ewujd9tf1ue"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Operation: P.I.R.A.T.E.",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x8/",
+          "airDate": "Dec. 20, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/50tv5adcql5e"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Operation: C.O.W.G.I.R.L.",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x9/",
+          "airDate": "Dec. 20, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/4cn4rjv5lx1a"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "Operation: T.U.R.N.I.P.",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x10/",
+          "airDate": "Dec. 27, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/fwpsdpz2j4yx"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Operation: M.I.N.I.G.O.L.F.",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x11/",
+          "airDate": "Dec. 27, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/dtg23d19x5pd"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Operation: O.F.F.I.C.E.",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x12/",
+          "airDate": "Jan. 03, 2003",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/p9k8pswil0ke"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Operation: A.R.C.T.I.C.",
+          "url": "https://multimovies.city/episodes/codename-kids-next-door-1x13/",
+          "airDate": "Jan. 03, 2003",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/82vced0gqbyd"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tom Warburton",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/tom-warburton/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ben Diskin",
+      "role": "Numbuh 1 / Numbuh 2 (voice)",
+      "url": "https://multimovies.city/cast/ben-diskin/",
+      "image": "https://image.tmdb.org/t/p/w92/4RWjcrPgfTG1yp19kFKRZYimv2B.jpg"
+    },
+    {
+      "name": "Lauren Tom",
+      "role": "Numbuh 3 (voice)",
+      "url": "https://multimovies.city/cast/lauren-tom/",
+      "image": "https://image.tmdb.org/t/p/w92/8tzC0SPIcM9TLo9VqvEmvse6u25.jpg"
+    },
+    {
+      "name": "Dee Bradley Baker",
+      "role": "Numbuh 4 (voice)",
+      "url": "https://multimovies.city/cast/dee-bradley-baker/",
+      "image": "https://image.tmdb.org/t/p/w92/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "name": "Cree Summer",
+      "role": "Numbuh 5 (voice)",
+      "url": "https://multimovies.city/cast/cree-summer/",
+      "image": "https://image.tmdb.org/t/p/w92/3WqlRxNF4sG6hjh6zJ1NbvtC2s5.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/4v6hmNGr8EeVLTQiN1pfDQVzmEg.jpg",
+    "https://image.tmdb.org/t/p/w300/361msNlwo0C7I2332lIiMGj7i3I.jpg",
+    "https://image.tmdb.org/t/p/w300/4SZpc7jpBBWMMfY6HeZJkzCmOIk.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
