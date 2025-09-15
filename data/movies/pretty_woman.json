@@ -1,0 +1,162 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/pretty-woman/",
+  "meta": {
+    "title": "Pretty Woman",
+    "poster": "https://image.tmdb.org/t/p/w500/hVHUfT801LQATGd26VPzhorIYza.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Mar. 23, 1990",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "When a millionaire wheeler-dealer enters a business contract with a Hollywood hooker Vivian Ward, he loses his heart in the bargain.",
+    "infoFields": {
+      "Original title": "Pretty Woman",
+      "IMDb Rating": "7.1 335,622 votes",
+      "TMDb Rating": "7.425 6,996 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Garry Marshall",
+      "role": "Director",
+      "url": "https://multimovies.city/director/garry-marshall/",
+      "image": "https://image.tmdb.org/t/p/w92/ergjvb7J3UnbBnX1f7GvFVZSaci.jpg"
+    },
+    {
+      "name": "Richard Gere",
+      "role": "Edward Lewis",
+      "url": "https://multimovies.city/cast/richard-gere/",
+      "image": "https://image.tmdb.org/t/p/w92/lWjnKsszeYaY7McFPyyQxK2gONV.jpg"
+    },
+    {
+      "name": "Julia Roberts",
+      "role": "Vivian Ward",
+      "url": "https://multimovies.city/cast/julia-roberts/",
+      "image": "https://image.tmdb.org/t/p/w92/AhQMyQ10kz5g8Y3Fp54GPhgDxQS.jpg"
+    },
+    {
+      "name": "Ralph Bellamy",
+      "role": "James Morse",
+      "url": "https://multimovies.city/cast/ralph-bellamy/",
+      "image": "https://image.tmdb.org/t/p/w92/vC6cdrUUewgurTlVXt36eRAtQKb.jpg"
+    },
+    {
+      "name": "Jason Alexander",
+      "role": "Philip Stuckey",
+      "url": "https://multimovies.city/cast/jason-alexander/",
+      "image": "https://image.tmdb.org/t/p/w92/67pvqalQz6zCkMrcm6dk4lRneaC.jpg"
+    },
+    {
+      "name": "Laura San Giacomo",
+      "role": "Kit De Luca",
+      "url": "https://multimovies.city/cast/laura-san-giacomo/",
+      "image": "https://image.tmdb.org/t/p/w92/3ssTmPfsir5DNzyKRO4ZJS6XGFW.jpg"
+    },
+    {
+      "name": "Alex Hyde-White",
+      "role": "David Morse",
+      "url": "https://multimovies.city/cast/alex-hyde-white/",
+      "image": "https://image.tmdb.org/t/p/w92/1h2jQgYgbqtkZyiHsudlKY1eZED.jpg"
+    },
+    {
+      "name": "Amy Yasbeck",
+      "role": "Elizabeth Stuckey",
+      "url": "https://multimovies.city/cast/amy-yasbeck/",
+      "image": "https://image.tmdb.org/t/p/w92/wDd71vFKUMJutO3fZjY2Pw0HWb.jpg"
+    },
+    {
+      "name": "Elinor Donahue",
+      "role": "Bridget",
+      "url": "https://multimovies.city/cast/elinor-donahue/",
+      "image": "https://image.tmdb.org/t/p/w92/irlz1IeDuZpTzozCK0FPtcKDmT6.jpg"
+    },
+    {
+      "name": "Hector Elizondo",
+      "role": "Barney Thompson",
+      "url": "https://multimovies.city/cast/hector-elizondo/",
+      "image": "https://image.tmdb.org/t/p/w92/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg"
+    },
+    {
+      "name": "Judith Baldwin",
+      "role": "Susan",
+      "url": "https://multimovies.city/cast/judith-baldwin/",
+      "image": "https://image.tmdb.org/t/p/w92/8eLpmqWUsAM4ZX6LWBoIEUDUV42.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3tuWpnCTe14zZZPt6sI1W9ByOXx.jpg",
+    "https://image.tmdb.org/t/p/w300/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
+    "https://image.tmdb.org/t/p/w300/QdpsQEnkgJtF8R8MynajZlt81U.jpg",
+    "https://image.tmdb.org/t/p/w300/qR65BuiuYtazfO2TiUejkYeWc7V.jpg",
+    "https://image.tmdb.org/t/p/w300/iPX2H1CswMzQbSB6s406c5dpdBh.jpg",
+    "https://image.tmdb.org/t/p/w300/juFVjxVi0DjULZaI0Y1DfHaK0jq.jpg",
+    "https://image.tmdb.org/t/p/w300/25g0ICRdyBqwgJSJl9f57RESRDz.jpg",
+    "https://image.tmdb.org/t/p/w300/gg0hsUOv1cAVU5WJrq9lro2Yqul.jpg",
+    "https://image.tmdb.org/t/p/w300/lP7FWXPiruhp3ohKwqxr0QUPcyX.jpg",
+    "https://image.tmdb.org/t/p/w300/zfEAP6lBX8jbdgPnUkxVlh1TPlL.jpg"
+  ],
+  "similar": [],
+  "views": 2598,
+  "sources": [
+    "https://www.youtube.com/embed/toGEheu4eq4?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/vk89mh5f2bxx",
+    "https://sbplay.org/embed-rgvozb11ueqk.html",
+    "https://dood.la/e/a2ixe9hst0nn",
+    "https://mixdrop.co/e/rw3d36mdbgzgev",
+    "https://hydrax.net/watch?v=A1tolVLC_"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7350,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7350,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 7350,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 7350,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 7350,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 7350,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
