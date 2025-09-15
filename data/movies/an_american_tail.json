@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/an-american-tail/",
+  "meta": {
+    "title": "An American Tail",
+    "poster": "https://image.tmdb.org/t/p/w500/qbmRSCMMIlBboot0BIJeDGD15iX.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Nov. 21, 1986",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "A young mouse named Fievel and his family decide to migrate to America, a \u201cland without cats,\u201d at the turn of the 20th century. But somehow, Fievel ends up in the New World alone and must fend off not only the felines he never thought he\u2019d have to deal with again but also the loneliness of being away from home.",
+    "infoFields": {
+      "Original title": "An American Tail",
+      "IMDb Rating": "6.9 59,219 votes",
+      "TMDb Rating": "6.723 1,323 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Don Bluth",
+      "role": "Director",
+      "url": "https://multimovies.city/director/don-bluth/",
+      "image": "https://image.tmdb.org/t/p/w92/vzeIEidWO7v2Dfw7iMv3Xjnmfwd.jpg"
+    },
+    {
+      "name": "Phillip Glasser",
+      "role": "Fievel Mousekewitz (voice)",
+      "url": "https://multimovies.city/cast/phillip-glasser/",
+      "image": "https://image.tmdb.org/t/p/w92/hak1JvlAozZJmEuzxM50brnYw6c.jpg"
+    },
+    {
+      "name": "Erica Yohn",
+      "role": "Mama Mousekewitz (voice)",
+      "url": "https://multimovies.city/cast/erica-yohn/",
+      "image": "https://image.tmdb.org/t/p/w92/ArpkNzcdaYQTjg6VdYtDFxAygIX.jpg"
+    },
+    {
+      "name": "Nehemiah Persoff",
+      "role": "Papa Mousekewitz (voice)",
+      "url": "https://multimovies.city/cast/nehemiah-persoff/",
+      "image": "https://image.tmdb.org/t/p/w92/vJoqhr7HVxP9HLTqt2rxo5OsSvq.jpg"
+    },
+    {
+      "name": "Amy Green",
+      "role": "Tanya Mousekewitz (voice)",
+      "url": "https://multimovies.city/cast/amy-green/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Christopher Plummer",
+      "role": "Henri (voice)",
+      "url": "https://multimovies.city/cast/christopher-plummer/",
+      "image": "https://image.tmdb.org/t/p/w92/iZh3s9Vy9vYD4DYnAda6C1kdeco.jpg"
+    },
+    {
+      "name": "John Finnegan",
+      "role": "Warren T. Rat (voice)",
+      "url": "https://multimovies.city/cast/john-finnegan/",
+      "image": "https://image.tmdb.org/t/p/w92/xYhWWV2LkzgwsoXdR6ASdb2dfZT.jpg"
+    },
+    {
+      "name": "Will Ryan",
+      "role": "Digit (voice)",
+      "url": "https://multimovies.city/cast/will-ryan/",
+      "image": "https://image.tmdb.org/t/p/w92/qRkyGcSju2VmEb7RTBM3Wpa0rvI.jpg"
+    },
+    {
+      "name": "Hal Smith",
+      "role": "Moe (voice)",
+      "url": "https://multimovies.city/cast/hal-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg"
+    },
+    {
+      "name": "Pat Musick",
+      "role": "Tony Toponi (voice)",
+      "url": "https://multimovies.city/cast/pat-musick/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Cathianne Blore",
+      "role": "Bridget (voice)",
+      "url": "https://multimovies.city/cast/cathianne-blore/",
+      "image": "https://image.tmdb.org/t/p/w92/5Ikyu1HSHXyriH99eL4gNKaznAV.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/pISPVlpTPOXe7SHhCwvlrTbJjYl.jpg",
+    "https://image.tmdb.org/t/p/w300/WRgAzhlujb9BRnSj97TZVMIvpz.jpg",
+    "https://image.tmdb.org/t/p/w300/t58wkvQwVdfhbkdDFTkoJL7lMA6.jpg",
+    "https://image.tmdb.org/t/p/w300/he7MSGivQT08CKVALQnEnzyzByY.jpg",
+    "https://image.tmdb.org/t/p/w300/wyqbw960aIPMVssaZ0he0qhZUhM.jpg",
+    "https://image.tmdb.org/t/p/w300/uyXBAHTMt73KYyqhJkMCzcMH75M.jpg",
+    "https://image.tmdb.org/t/p/w300/9FijwKWYz04gE8rMtoC2egN8tCs.jpg"
+  ],
+  "similar": [],
+  "views": 266,
+  "sources": [
+    "https://www.youtube.com/embed/xALAMGrZ-do?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vn3fjd2"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 69913,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 69913,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
