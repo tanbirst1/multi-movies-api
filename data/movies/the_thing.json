@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-thing-2/",
+  "meta": {
+    "title": "The Thing",
+    "poster": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jun. 25, 1982",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "In the winter of 1982, a twelve-man research team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror\u2026 and becomes one of them.",
+    "infoFields": {
+      "Original title": "The Thing",
+      "IMDb Rating": "8.2 462,283 votes",
+      "TMDb Rating": "8.059 6,525 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Larry J. Franco",
+      "role": "Director",
+      "url": "https://multimovies.city/director/larry-j-franco/",
+      "image": "https://image.tmdb.org/t/p/w92/ohtAUK0wFyRJa5a9TIM3BSQkoCG.jpg"
+    },
+    {
+      "name": "Kurt Russell",
+      "role": "R.J. MacReady",
+      "url": "https://multimovies.city/cast/kurt-russell/",
+      "image": "https://image.tmdb.org/t/p/w92/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+    },
+    {
+      "name": "Keith David",
+      "role": "Childs",
+      "url": "https://multimovies.city/cast/keith-david/",
+      "image": "https://image.tmdb.org/t/p/w92/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg"
+    },
+    {
+      "name": "Wilford Brimley",
+      "role": "Blair",
+      "url": "https://multimovies.city/cast/wilford-brimley/",
+      "image": "https://image.tmdb.org/t/p/w92/pOfcXSGKiHcdFIcnhBV3ibGUruW.jpg"
+    },
+    {
+      "name": "T.K. Carter",
+      "role": "Nauls",
+      "url": "https://multimovies.city/cast/t-k-carter/",
+      "image": "https://image.tmdb.org/t/p/w92/rqlDLtg8USZsO07VEiYQpQyjyA2.jpg"
+    },
+    {
+      "name": "David Clennon",
+      "role": "Palmer",
+      "url": "https://multimovies.city/cast/david-clennon/",
+      "image": "https://image.tmdb.org/t/p/w92/1N4KuiRXoX5fAJu9vHpiPOJRGLG.jpg"
+    },
+    {
+      "name": "Richard Dysart",
+      "role": "Dr. Copper",
+      "url": "https://multimovies.city/cast/richard-dysart/",
+      "image": "https://image.tmdb.org/t/p/w92/yQOaZexN3YbqGWOguu2VrjsvX2G.jpg"
+    },
+    {
+      "name": "Charles Hallahan",
+      "role": "Norris",
+      "url": "https://multimovies.city/cast/charles-hallahan/",
+      "image": "https://image.tmdb.org/t/p/w92/zQr2ytNB23Dy3uzbGkxfIsANw3y.jpg"
+    },
+    {
+      "name": "Peter Maloney",
+      "role": "Bennings",
+      "url": "https://multimovies.city/cast/peter-maloney/",
+      "image": "https://image.tmdb.org/t/p/w92/AuWdzHWJA6Jx9mdxxjJs6VcIs7m.jpg"
+    },
+    {
+      "name": "Richard Masur",
+      "role": "Clark",
+      "url": "https://multimovies.city/cast/richard-masur/",
+      "image": "https://image.tmdb.org/t/p/w92/eTKFP76mnSgIhoknfxtebqnWb6K.jpg"
+    },
+    {
+      "name": "Donald Moffat",
+      "role": "Garry",
+      "url": "https://multimovies.city/cast/donald-moffat/",
+      "image": "https://image.tmdb.org/t/p/w92/8kZ2Ow3cPtTmDwTxL7jFEsQi4ia.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+    "https://image.tmdb.org/t/p/w300/7yjCaRXAIrwRN4EajGjvGe4CiGB.jpg",
+    "https://image.tmdb.org/t/p/w300/fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg",
+    "https://image.tmdb.org/t/p/w300/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+    "https://image.tmdb.org/t/p/w300/ypWFqKVspqQvh3zzRfa5ta0lj7A.jpg",
+    "https://image.tmdb.org/t/p/w300/add3EGc4JDljt0lTvKjbX760KSJ.jpg",
+    "https://image.tmdb.org/t/p/w300/2AaztbdbQQZs3JqD3GM4DGrniLw.jpg",
+    "https://image.tmdb.org/t/p/w300/gl8jhRWV8k7yDEJLp51qtrV9FM0.jpg",
+    "https://image.tmdb.org/t/p/w300/6XzBqtnupPmDLMMkh6CKarfb3YB.jpg",
+    "https://image.tmdb.org/t/p/w300/3eb63ISwxqVaJbSbkgUNfrfB2NS.jpg"
+  ],
+  "similar": [],
+  "views": 1093,
+  "sources": [
+    "https://www.youtube.com/embed/czqSL4TvLzk?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/4bg9buerzok9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 43289,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 43289,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
