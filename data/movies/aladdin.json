@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/aladdin/",
+  "meta": {
+    "title": "Aladdin",
+    "poster": "https://image.tmdb.org/t/p/w500/fhyun1mja3WwQsYr1a3x1x9BttP.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Nov. 25, 1992",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Princess Jasmine grows tired of being forced to remain in the palace, so she sneaks out into the marketplace, in disguise, where she meets street-urchin Aladdin. The couple falls in love, although Jasmine may only marry a prince. After being thrown in jail, Aladdin becomes embroiled in a plot to find a mysterious lamp, with which the evil Jafar hopes to rule the land.",
+    "infoFields": {
+      "Original title": "Aladdin",
+      "IMDb Rating": "8 430,706 votes",
+      "TMDb Rating": "7.6 10,224 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ron Clements",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ron-clements/",
+      "image": "https://image.tmdb.org/t/p/w92/u9k9yg2EGlDsxYo3ehf35yRUfcD.jpg"
+    },
+    {
+      "name": "Scott Weinger",
+      "role": "Aladdin (voice)",
+      "url": "https://multimovies.city/cast/scott-weinger/",
+      "image": "https://image.tmdb.org/t/p/w92/wOIqHtaYQ2BwzAJsRcnVJCC0TGz.jpg"
+    },
+    {
+      "name": "Robin Williams",
+      "role": "Genie / Peddler (voice)",
+      "url": "https://multimovies.city/cast/robin-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "name": "Linda Larkin",
+      "role": "Jasmine (voice)",
+      "url": "https://multimovies.city/cast/linda-larkin/",
+      "image": "https://image.tmdb.org/t/p/w92/cc7LSz7zDTyB7hGtPiBBSuJVDh6.jpg"
+    },
+    {
+      "name": "Jonathan Freeman",
+      "role": "Jafar (voice)",
+      "url": "https://multimovies.city/cast/jonathan-freeman/",
+      "image": "https://image.tmdb.org/t/p/w92/auYxo6kO2FTnVUxcTtuzioa9IKe.jpg"
+    },
+    {
+      "name": "Gilbert Gottfried",
+      "role": "Iago (voice)",
+      "url": "https://multimovies.city/cast/gilbert-gottfried/",
+      "image": "https://image.tmdb.org/t/p/w92/hkkAgJD0HKcuyd8EuvhyN5vHcDQ.jpg"
+    },
+    {
+      "name": "Frank Welker",
+      "role": "Abu / Cave of Wonders / Rajah (voice)",
+      "url": "https://multimovies.city/cast/frank-welker/",
+      "image": "https://image.tmdb.org/t/p/w92/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "name": "Douglas Seale",
+      "role": "Sultan (voice)",
+      "url": "https://multimovies.city/cast/douglas-seale/",
+      "image": "https://image.tmdb.org/t/p/w92/4RFHIJ3xbmOpgsr7JLZeRfY9yhb.jpg"
+    },
+    {
+      "name": "Brad Kane",
+      "role": "Aladdin (singing voice)",
+      "url": "https://multimovies.city/cast/brad-kane/",
+      "image": "https://image.tmdb.org/t/p/w92/5kH9BzRX1osFjvWsh9vmjwTyE7h.jpg"
+    },
+    {
+      "name": "Lea Salonga",
+      "role": "Jasmine (singing voice)",
+      "url": "https://multimovies.city/cast/lea-salonga/",
+      "image": "https://image.tmdb.org/t/p/w92/nK9DqbXGPVnaET6I6u0IHL89DjP.jpg"
+    },
+    {
+      "name": "Bruce Adler",
+      "role": "Peddler (singing voice)",
+      "url": "https://multimovies.city/cast/bruce-adler/",
+      "image": "https://image.tmdb.org/t/p/w92/jtYUz4lQjTvvqKkabaUVLp7H4dX.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
+    "https://image.tmdb.org/t/p/w300/2yOcXmeYfRy63CcVmgPHqkg2usm.jpg",
+    "https://image.tmdb.org/t/p/w300/4lJtOfxDE1brAlLk7bwQmzKawQq.jpg",
+    "https://image.tmdb.org/t/p/w300/3EaBCiDSiZY29m3Km0DbPhwlwO9.jpg",
+    "https://image.tmdb.org/t/p/w300/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+    "https://image.tmdb.org/t/p/w300/aO0NQWFbqEslD4Y1W5PeAMLxFGp.jpg",
+    "https://image.tmdb.org/t/p/w300/qy9uY8C1rwxvJ1MYYFqBhkJ1B17.jpg",
+    "https://image.tmdb.org/t/p/w300/4hs1vcNYoDIziRO2zIws4hy6uEA.jpg",
+    "https://image.tmdb.org/t/p/w300/uS6Q9fO21UZVzuvh5Jw7sESTRzq.jpg",
+    "https://image.tmdb.org/t/p/w300/4KJJNjakn7D9xxPRLODniGUTRmz.jpg"
+  ],
+  "similar": [],
+  "views": 4746,
+  "sources": [
+    "https://www.youtube.com/embed/mfB7yCbSP00?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/nhr0pubm0b90"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 915,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 915,
+      "nume": 1,
+      "title": "a"
+    }
+  ],
+  "cache": false
+}
