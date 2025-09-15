@@ -18,7 +18,7 @@ async function saveToGithub(path, content) {
 
   if (checkRes.ok) {
     const checkData = await checkRes.json();
-    sha = checkData.sha; // existing file sha
+    sha = checkData.sha;
   }
 
   // 2. Create or update file
@@ -32,7 +32,7 @@ async function saveToGithub(path, content) {
       message: `scraped: ${path}`,
       content: Buffer.from(JSON.stringify(content, null, 2)).toString("base64"),
       branch: GITHUB_BRANCH,
-      ...(sha ? { sha } : {}), // include sha if updating
+      ...(sha ? { sha } : {}),
     }),
   });
 
@@ -43,9 +43,13 @@ async function saveToGithub(path, content) {
 }
 
 async function fetchJson(url) {
-  const res = await fetch(url, { headers: { "user-agent": "ScraperBot/1.0" } });
-  if (!res.ok) throw new Error(`${url} failed ${res.status}`);
-  return res.json();
+  try {
+    const res = await fetch(url, { headers: { "user-agent": "ScraperBot/1.0" } });
+    if (!res.ok) throw new Error(`${url} failed ${res.status}`);
+    return res.json();
+  } catch (err) {
+    return { error: err.message }; // return error object instead of crashing
+  }
 }
 
 export default async function handler(req, res) {
@@ -53,11 +57,11 @@ export default async function handler(req, res) {
     const { page = 6, total = 6 } = req.query;
     const reversePage = total - page + 1;
 
-    // Step 1: Titles
     const listUrl = `https://multi-movies-api.vercel.app/api/page?path=/tvshows/&page=${page}`;
     const list = await fetchJson(listUrl);
+    if (list.error) throw new Error("List fetch failed: " + list.error);
 
-    for (const [section, items] of Object.entries(list.sections)) {
+    for (const [section, items] of Object.entries(list.sections || {})) {
       for (const item of items) {
         const slug = encodeURIComponent(item.title.toLowerCase().replace(/\s+/g, "-"));
         const safeName = slug.replace(/[^a-z0-9-_]/gi, "_");
@@ -66,16 +70,21 @@ export default async function handler(req, res) {
         const tvUrl = `https://multi-movies-api.vercel.app/api/tv?slug=${slug}&section=movies`;
         const tvData = await fetchJson(tvUrl);
 
+        if (tvData.error) {
+          // Save error file and skip
+          await saveToGithub(`${DATA_DIR}/page${reversePage}/${safeName}.json`, {
+            error: tvData.error,
+            title: item.title,
+          });
+          continue;
+        }
+
         // Step 3: Add video sources
         for (const season of tvData.seasons || []) {
           for (const ep of season.episodes || []) {
-            try {
-              const videoUrl = `https://multi-movies-api.vercel.app/api/video?url=${encodeURIComponent(ep.url)}`;
-              const videoData = await fetchJson(videoUrl);
-              ep.sources = videoData.sources || [];
-            } catch {
-              ep.sources = [];
-            }
+            const videoUrl = `https://multi-movies-api.vercel.app/api/video?url=${encodeURIComponent(ep.url)}`;
+            const videoData = await fetchJson(videoUrl);
+            ep.sources = videoData.error ? [] : (videoData.sources || []);
           }
         }
 
