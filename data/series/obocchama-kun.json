@@ -1,0 +1,161 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/obocchama/",
+  "meta": {
+    "title": "Obocchama-kun",
+    "poster": "https://image.tmdb.org/t/p/w500/gVF8wlxcsFJgxu98JZAevIEWz8c.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Series",
+        "url": "https://multimovies.city/genre/anime-series/"
+      },
+      {
+        "name": "Hindi Dub Anime",
+        "url": "https://multimovies.city/genre/anime-hindi/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      }
+    ],
+    "firstAirDate": "Jan. 01, 1986",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Based on the children\u2019s award winning manga by Kobayashi Yoshinori, serialized in Shogakukan\u2019s CoroCoro Comic.",
+    "infoFields": {
+      "Original title": "\u304a\u307c\u3063\u3061\u3083\u307e\u304f\u3093",
+      "First air date": "Jan. 01, 1986",
+      "Last air date": "Jan. 01, 1986",
+      "Seasons": "6",
+      "Episodes": "1"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Jan. 01, 1986",
+      "episodeCount": 10,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Mujhe Bhi Mil Gaya Ek Saccha Dost",
+          "url": "https://multimovies.city/episodes/obocchama-1x1/",
+          "airDate": "Jan. 01, 1986",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/02/open-tv-programimage.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/vz099wdv4y1r"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Injection Bana Tension",
+          "url": "https://multimovies.city/episodes/43300/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/02/open-tv-programimage.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/046ofx8klugp"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Meri Khaas Dost Samayo Chan",
+          "url": "https://multimovies.city/episodes/43301/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/02/open-tv-programimage.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/pvc934o5n087"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Main Hu Mr Obocchama-kun",
+          "url": "https://multimovies.city/episodes/43302/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/02/open-tv-programimage.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/4umf5zifqmt2"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Kidnapping Se Raho Savdhan",
+          "url": "https://multimovies.city/episodes/43303/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/02/open-tv-programimage.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/b07ti0kn4jxn"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Kidnapping Se Raho Savdhan - 2",
+          "url": "https://multimovies.city/episodes/43305/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/02/open-tv-programimage.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/pn07w1o5cel8"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Mai Bechara Padhai Ke Boz Ka Mara",
+          "url": "https://multimovies.city/episodes/43306/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/02/open-tv-programimage.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/10vhjmiuf1h1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Ek Bahot hi Khaas Tofa",
+          "url": "https://multimovies.city/episodes/43307/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/02/open-tv-programimage.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/24ae1wq01hlk"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Fukurokouji Ne Li School Mein Entry",
+          "url": "https://multimovies.city/episodes/43308/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/02/open-tv-programimage.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/iv6bh7lbm6hx"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "Life Ho Toh Aise",
+          "url": "https://multimovies.city/episodes/43309/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/02/open-tv-programimage.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/w9cc3ev17xl7"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "gallery": [],
+  "similar": [],
+  "cache": false
+}
