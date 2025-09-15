@@ -1,0 +1,121 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/crayon-shin-chan-action-mask-vs-leotard-devil/",
+  "meta": {
+    "title": "ShinChan in Action Kamen vs Higure Rakshas",
+    "poster": "https://image.tmdb.org/t/p/w500/bLqbZSY1uZUFtZBM0dvx6YHLiJJ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Shinchan Movies",
+        "url": "https://multimovies.city/genre/shinchan-movies/"
+      }
+    ],
+    "firstAirDate": "Jul. 24, 1993",
+    "ratingValue": "10",
+    "ratingCount": "3",
+    "synopsis": "Everyone\u2019s favorite TV superhero Action Mask shows up in Kasukabe, and he\u2019s trying to get something from Shin-chan \u2014 but what could it be?",
+    "infoFields": {
+      "Original title": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093 \u30a2\u30af\u30b7\u30e7\u30f3\u4eee\u9762VS\u30cf\u30a4\u30b0\u30ec\u9b54\u738b",
+      "TMDb Rating": "7.064 55 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mitsuru Hongo",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mitsuru-hongo/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Akiko Yajima",
+      "role": "Shinnosuke Nohara (voice)",
+      "url": "https://multimovies.city/cast/akiko-yajima/",
+      "image": "https://image.tmdb.org/t/p/w92/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
+    },
+    {
+      "name": "Miki Narahashi",
+      "role": "Misae Nohara (voice)",
+      "url": "https://multimovies.city/cast/miki-narahashi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Keiji Fujiwara",
+      "role": "Hiroshi Nohara (voice)",
+      "url": "https://multimovies.city/cast/keiji-fujiwara/",
+      "image": "https://image.tmdb.org/t/p/w92/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+    },
+    {
+      "name": "Chafurin",
+      "role": "Razaya Dan (voice)",
+      "url": "https://multimovies.city/cast/chafurin/",
+      "image": "https://image.tmdb.org/t/p/w92/9JIB3TY4hpacwtTF3XtBfBKte7w.jpg"
+    },
+    {
+      "name": "Chie Sato",
+      "role": "Bo-chan (voice)",
+      "url": "https://multimovies.city/cast/chie-sato/",
+      "image": "https://image.tmdb.org/t/p/w92/x6A6uWJUI8HnhaYVXVZJKT2EA0r.jpg"
+    },
+    {
+      "name": "Daisuke G\u00f4ri",
+      "role": "Baron T Back (voice)",
+      "url": "https://multimovies.city/cast/daisuke-gori/",
+      "image": "https://image.tmdb.org/t/p/w92/g5OeBa8Rww8VNZiJuU7RhZxodwc.jpg"
+    },
+    {
+      "name": "Etsuko Kozakura",
+      "role": "Ririko / Sakura Mimiko (voices)",
+      "url": "https://multimovies.city/cast/etsuko-kozakura/",
+      "image": "https://image.tmdb.org/t/p/w92/20KNVseVr2Y8Y4jziEaMcm06umL.jpg"
+    },
+    {
+      "name": "Hisako Kyoda",
+      "role": "Grandma (voice)",
+      "url": "https://multimovies.city/cast/hisako-kyoda/",
+      "image": "https://image.tmdb.org/t/p/w92/7p7kVXNp1ZhJp2KejBPQwD8j9nE.jpg"
+    },
+    {
+      "name": "Kazuhiro Nakata",
+      "role": "Action Kamen replacement (voice)",
+      "url": "https://multimovies.city/cast/kazuhiro-nakata/",
+      "image": "https://image.tmdb.org/t/p/w92/jN1jv53wgTjYb9Y1neOSdFCqCpo.jpg"
+    },
+    {
+      "name": "Ken Yamaguchi",
+      "role": "Director (voice)",
+      "url": "https://multimovies.city/cast/ken-yamaguchi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iGu27QGQtquhweyxXoVK4N6FkHs.jpg"
+  ],
+  "similar": [],
+  "views": 4778,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/b7pfnrf"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11094,
+      "nume": 1,
+      "title": "f"
+    }
+  ],
+  "cache": false
+}
