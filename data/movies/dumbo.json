@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dumbo/",
+  "meta": {
+    "title": "Dumbo",
+    "poster": "https://image.tmdb.org/t/p/w500/hKDdllslMtsU9JixAv5HR9biXlp.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Oct. 31, 1941",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Dumbo is a baby elephant born with over-sized ears and a supreme lack of confidence. But thanks to his even more diminutive buddy Timothy the Mouse, the pint-sized pachyderm learns to surmount all obstacles.",
+    "infoFields": {
+      "Original title": "Dumbo",
+      "IMDb Rating": "7.2 146,193 votes",
+      "TMDb Rating": "7.001 5,006 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ben Sharpsteen",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ben-sharpsteen/",
+      "image": "https://image.tmdb.org/t/p/w92/nfruaWGIjvI99oXmyzmsnGkdDL9.jpg"
+    },
+    {
+      "name": "Edward Brophy",
+      "role": "Timothy Q. Mouse (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/edward-brophy/",
+      "image": "https://image.tmdb.org/t/p/w92/gxAnTjS7tnVOFdhUjkWYcsdXhWm.jpg"
+    },
+    {
+      "name": "Margaret Wright",
+      "role": "Casey Jr. (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/margaret-wright/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Verna Felton",
+      "role": "Elephant Matriarch / Mrs. Jumbo (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/verna-felton/",
+      "image": "https://image.tmdb.org/t/p/w92/xJ7mohLuufsNn6dkvzjKi5nlaFn.jpg"
+    },
+    {
+      "name": "Sarah Selby",
+      "role": "Prissy the Elephant (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/sarah-selby/",
+      "image": "https://image.tmdb.org/t/p/w92/oP2sSj0yl4CKHDx6NBwKB9kQkW2.jpg"
+    },
+    {
+      "name": "Noreen Gammill",
+      "role": "Catty the Elephant (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/noreen-gammill/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Dorothy Scott",
+      "role": "Giddy the Elephant (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/dorothy-scott/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Herman Bing",
+      "role": "The Ringmaster (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/herman-bing/",
+      "image": "https://image.tmdb.org/t/p/w92/62SmiO7zFXABLqJeKbLjIjc0FHl.jpg"
+    },
+    {
+      "name": "Cliff Edwards",
+      "role": "Dandy Crow (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/cliff-edwards/",
+      "image": "https://image.tmdb.org/t/p/w92/cplAl2NjSDuoHvSJ87kf8Yh2cdK.jpg"
+    },
+    {
+      "name": "Jim Carmichael",
+      "role": "Dopey Crow (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/jim-carmichael/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Hall Johnson",
+      "role": "Deacon Crow (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/hall-johnson/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/aRVQ1EgTx3vbhK6qls2O834bPQc.jpg",
+    "https://image.tmdb.org/t/p/w300/kU7edebg3MYD6Ec0D5tpiT5ztDq.jpg",
+    "https://image.tmdb.org/t/p/w300/wPhLbXCucSJ9CxloUhCTuwcsW1p.jpg",
+    "https://image.tmdb.org/t/p/w300/pdvcovGRn44KBd5wqD8UnzNoGBs.jpg",
+    "https://image.tmdb.org/t/p/w300/ztemtOmgkAFtV9lnRTAYlvv945o.jpg",
+    "https://image.tmdb.org/t/p/w300/myxS0GBOGoaJfquwgsNAuZdTGor.jpg",
+    "https://image.tmdb.org/t/p/w300/zCwZ3K02IjTHDAw9IZz6LmrJshn.jpg",
+    "https://image.tmdb.org/t/p/w300/1NbyyMG3Q1zD2FZoiFixOwpYebs.jpg",
+    "https://image.tmdb.org/t/p/w300/b6l0oJGtvBtg3WN5uuixFYM0yqQ.jpg",
+    "https://image.tmdb.org/t/p/w300/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg"
+  ],
+  "similar": [],
+  "views": 174,
+  "sources": [
+    "https://www.youtube.com/embed/8QgTNmlBxTE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/brn5nix"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 79190,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 79190,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
