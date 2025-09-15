@@ -1,0 +1,489 @@
+{
+  "source": "https://multimovies.city/movies/",
+  "total_pages": 203,
+  "current_page": 200,
+  "sections": {
+    "Recently added": [
+      {
+        "title": "James Bond Part 2 : From Russia with Love",
+        "link": "/movies/from-russia-with-love/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 1 : Dr. No",
+        "link": "/movies/dr-no/",
+        "img": null
+      },
+      {
+        "title": "Ben-Hur",
+        "link": "/movies/ben-hur/",
+        "img": null
+      },
+      {
+        "title": "The Adventures of Ichabod and Mr. Toad",
+        "link": "/movies/the-adventures-of-ichabod-and-mr-toad/",
+        "img": null
+      },
+      {
+        "title": "Dumbo",
+        "link": "/movies/dumbo/",
+        "img": null
+      },
+      {
+        "title": "Snow White and the Seven Dwarfs",
+        "link": "/movies/snow-white-and-the-seven-dwarfs/",
+        "img": null
+      },
+      {
+        "title": "The Peacemaker",
+        "link": "/movies/the-peacemaker/",
+        "img": null
+      },
+      {
+        "title": "Rocky",
+        "link": "/movies/rocky/",
+        "img": null
+      },
+      {
+        "title": "Taxi Driver",
+        "link": "/movies/taxi-driver/",
+        "img": null
+      },
+      {
+        "title": "One Flew Over the Cuckoo&#8217;s Nest",
+        "link": "/movies/one-flew-over-the-cuckoos-nest/",
+        "img": null
+      },
+      {
+        "title": "Dog Day Afternoon",
+        "link": "/movies/dog-day-afternoon/",
+        "img": null
+      },
+      {
+        "title": "Sholay",
+        "link": "/movies/sholay/",
+        "img": null
+      },
+      {
+        "title": "The Godfather Part II",
+        "link": "/movies/the-godfather-part-ii/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 9 : The Man with the Golden Gun",
+        "link": "/movies/the-man-with-the-golden-gun/",
+        "img": null
+      },
+      {
+        "title": "Chinatown",
+        "link": "/movies/chinatown/",
+        "img": null
+      },
+      {
+        "title": "Return of the Street Fighter",
+        "link": "/movies/return-of-the-street-fighter/",
+        "img": null
+      },
+      {
+        "title": "The Street Fighter",
+        "link": "/movies/the-street-fighter/",
+        "img": null
+      },
+      {
+        "title": "The Exorcist",
+        "link": "/movies/the-exorcist/",
+        "img": null
+      },
+      {
+        "title": "Mean Streets",
+        "link": "/movies/mean-streets/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 8 : Live and Let Die",
+        "link": "/movies/live-and-let-die/",
+        "img": null
+      },
+      {
+        "title": "Solaris",
+        "link": "/movies/solaris/",
+        "img": null
+      },
+      {
+        "title": "The Godfather",
+        "link": "/movies/the-godfather/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 7 : Diamonds Are Forever",
+        "link": "/movies/diamonds-are-forever/",
+        "img": null
+      },
+      {
+        "title": "The Devils",
+        "link": "/movies/the-devils/",
+        "img": null
+      },
+      {
+        "title": "Anand",
+        "link": "/movies/anand/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 6 : On Her Majesty&#8217;s Secret Service",
+        "link": "/movies/on-her-majestys-secret-service/",
+        "img": null
+      },
+      {
+        "title": "Padosan",
+        "link": "/movies/padosan/",
+        "img": null
+      },
+      {
+        "title": "Rosemary&#8217;s Baby",
+        "link": "/movies/rosemarys-baby/",
+        "img": null
+      },
+      {
+        "title": "2001: A Space Odyssey",
+        "link": "/movies/2001-a-space-odyssey/",
+        "img": null
+      },
+      {
+        "title": "Romeo and Juliet",
+        "link": "/movies/romeo-and-juliet/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 5 : You Only Live Twice",
+        "link": "/movies/you-only-live-twice/",
+        "img": null
+      },
+      {
+        "title": "The Man Called Flintstone",
+        "link": "/movies/the-man-called-flintstone/",
+        "img": null
+      },
+      {
+        "title": "For a Few Dollars More",
+        "link": "/movies/for-a-few-dollars-more/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 4 : Thunderball",
+        "link": "/movies/thunderball/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 3 : Goldfinger",
+        "link": "/movies/goldfinger/",
+        "img": null
+      },
+      {
+        "title": "The Sword in the Stone",
+        "link": "/movies/the-sword-in-the-stone/",
+        "img": null
+      },
+      {
+        "title": "The Evil Dead",
+        "link": "/movies/the-evil-dead/",
+        "img": null
+      },
+      {
+        "title": "Silsila",
+        "link": "/movies/silsila/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 12 : For Your Eyes Only",
+        "link": "/movies/for-your-eyes-only/",
+        "img": null
+      },
+      {
+        "title": "Indiana Jones : Raiders of the Lost Ark",
+        "link": "/movies/raiders-of-the-lost-ark/",
+        "img": null
+      },
+      {
+        "title": "Laawaris",
+        "link": "/movies/laawaris/",
+        "img": null
+      },
+      {
+        "title": "Dostana",
+        "link": "/movies/dostana/",
+        "img": null
+      },
+      {
+        "title": "Alligator",
+        "link": "/movies/alligator/",
+        "img": null
+      },
+      {
+        "title": "The Shining {English With Subtitles}",
+        "link": "/movies/the-shining/",
+        "img": null
+      },
+      {
+        "title": "Star Wars: Episode V \u2013 The Empire Strikes Back",
+        "link": "/movies/the-empire-strikes-back/",
+        "img": null
+      },
+      {
+        "title": "Friday the 13th",
+        "link": "/movies/friday-the-13th/",
+        "img": null
+      },
+      {
+        "title": "Toward the Terra",
+        "link": "/movies/toward-the-terra/",
+        "img": null
+      },
+      {
+        "title": "Doraemon: Nobita\u2019s Dinosaur",
+        "link": "/movies/doraemon-nobitas-dinosaur/",
+        "img": null
+      },
+      {
+        "title": "Aakrosh",
+        "link": "/movies/aakrosh/",
+        "img": null
+      },
+      {
+        "title": "&#8230;And Justice for All",
+        "link": "/movies/and-justice-for-all/",
+        "img": null
+      },
+      {
+        "title": "The Bugs Bunny/Road Runner Movie",
+        "link": "/movies/the-bugs-bunny-road-runner-movie/",
+        "img": null
+      },
+      {
+        "title": "Life of Brian",
+        "link": "/movies/life-of-brian/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 11 : Moonraker",
+        "link": "/movies/moonraker/",
+        "img": null
+      },
+      {
+        "title": "Rocky II",
+        "link": "/movies/rocky-ii/",
+        "img": null
+      },
+      {
+        "title": "Alien",
+        "link": "/movies/alien/",
+        "img": null
+      },
+      {
+        "title": "Mad Max",
+        "link": "/movies/mad-max/",
+        "img": null
+      },
+      {
+        "title": "I Spit On Your Grave",
+        "link": "/movies/day-of-the-woman/",
+        "img": null
+      },
+      {
+        "title": "Muqaddar Ka Sikandar",
+        "link": "/movies/muqaddar-ka-sikandar/",
+        "img": null
+      },
+      {
+        "title": "Drunken Master",
+        "link": "/movies/drunken-master/",
+        "img": null
+      },
+      {
+        "title": "Ankhiyon Ke Jharokhon Se",
+        "link": "/movies/ankhiyon-ke-jharokhon-se/",
+        "img": null
+      },
+      {
+        "title": "The 36th Chamber of Shaolin",
+        "link": "/movies/the-36th-chamber-of-shaolin/",
+        "img": null
+      },
+      {
+        "title": "Blood Relatives",
+        "link": "/movies/blood-relatives/",
+        "img": null
+      },
+      {
+        "title": "A Flintstone Christmas",
+        "link": "/movies/a-flintstone-christmas/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 10 : The Spy Who Loved Me",
+        "link": "/movies/the-spy-who-loved-me/",
+        "img": null
+      },
+      {
+        "title": "Exorcist II: The Heretic",
+        "link": "/movies/exorcist-ii-the-heretic/",
+        "img": null
+      },
+      {
+        "title": "Star Wars: Episode IV \u2013 A New Hope",
+        "link": "/movies/star-wars/",
+        "img": null
+      },
+      {
+        "title": "Doraemon: Nobita\u2019s Little Star Wars",
+        "link": "/movies/doraemon-nobitas-little-star-wars/",
+        "img": null
+      },
+      {
+        "title": "The Breakfast Club",
+        "link": "/movies/the-breakfast-club/",
+        "img": null
+      },
+      {
+        "title": "My Lucky Stars",
+        "link": "/movies/my-lucky-stars/",
+        "img": null
+      },
+      {
+        "title": "The Terminator 1",
+        "link": "/movies/the-terminator/",
+        "img": null
+      },
+      {
+        "title": "Body Double",
+        "link": "/movies/body-double/",
+        "img": null
+      },
+      {
+        "title": "Wheels on Meals",
+        "link": "/movies/wheels-on-meals/",
+        "img": null
+      },
+      {
+        "title": "Macross: Do You Remember Love?",
+        "link": "/movies/macross-do-you-remember-love/",
+        "img": null
+      },
+      {
+        "title": "The Karate Kid",
+        "link": "/movies/the-karate-kid/",
+        "img": null
+      },
+      {
+        "title": "Indiana Jones and the Temple of Doom",
+        "link": "/movies/indiana-jones-and-the-temple-of-doom/",
+        "img": null
+      },
+      {
+        "title": "Once Upon a Time in America",
+        "link": "/movies/once-upon-a-time-in-america/",
+        "img": null
+      },
+      {
+        "title": "Nausica\u00e4 of the Valley of the Wind",
+        "link": "/movies/nausicaa-of-the-valley-of-the-wind/",
+        "img": null
+      },
+      {
+        "title": "Scarface",
+        "link": "/movies/scarface/",
+        "img": null
+      },
+      {
+        "title": "Pukar",
+        "link": "/movies/pukar/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 14 : Never Say Never Again",
+        "link": "/movies/never-say-never-again/",
+        "img": null
+      },
+      {
+        "title": "Deathstalker",
+        "link": "/movies/deathstalker/",
+        "img": null
+      },
+      {
+        "title": "Mahaan",
+        "link": "/movies/mahaan/",
+        "img": null
+      },
+      {
+        "title": "Daffy Duck&#8217;s Movie: Fantastic Island",
+        "link": "/movies/daffy-ducks-movie-fantastic-island/",
+        "img": null
+      },
+      {
+        "title": "James Bond Part 13 : Octopussy",
+        "link": "/movies/octopussy/",
+        "img": null
+      },
+      {
+        "title": "Star Wars: Episode VI \u2013 Return of the Jedi",
+        "link": "/movies/return-of-the-jedi/",
+        "img": null
+      },
+      {
+        "title": "Doraemon: Nobita and the Castle of the Undersea Devil",
+        "link": "/movies/doraemon-nobita-and-the-castle-of-the-undersea-devil/",
+        "img": null
+      },
+      {
+        "title": "Hattori and the War of the Little Ninja Villages",
+        "link": "/movies/hattori-and-the-war-of-the-little-ninja-villages/",
+        "img": null
+      },
+      {
+        "title": "Curtains",
+        "link": "/movies/curtains/",
+        "img": null
+      },
+      {
+        "title": "Rambo: First Blood",
+        "link": "/movies/first-blood/",
+        "img": null
+      },
+      {
+        "title": "The World According to Garp",
+        "link": "/movies/the-world-according-to-garp/",
+        "img": null
+      },
+      {
+        "title": "Blade Runner",
+        "link": "/movies/blade-runner/",
+        "img": null
+      },
+      {
+        "title": "The Thing",
+        "link": "/movies/the-thing-2/",
+        "img": null
+      },
+      {
+        "title": "E.T. the Extra-Terrestrial",
+        "link": "/movies/e-t-the-extra-terrestrial/",
+        "img": null
+      },
+      {
+        "title": "Rocky III",
+        "link": "/movies/rocky-iii/",
+        "img": null
+      },
+      {
+        "title": "Mad Max 2",
+        "link": "/movies/mad-max-2/",
+        "img": null
+      },
+      {
+        "title": "The Looney, Looney, Looney Bugs Bunny Movie",
+        "link": "/movies/the-looney-looney-looney-bugs-bunny-movie/",
+        "img": null
+      }
+    ]
+  }
+}
