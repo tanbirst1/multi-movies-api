@@ -1,0 +1,630 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/american-dad/",
+  "meta": {
+    "title": "American Dad!",
+    "poster": "https://image.tmdb.org/t/p/w500/j84ZtVRoxKWTsQUya77um4l8Dqs.jpg",
+    "networks": [
+      {
+        "name": "FOX",
+        "url": "https://multimovies.city/network/fox/"
+      },
+      {
+        "name": "TBS",
+        "url": "https://multimovies.city/network/tbs/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Amazon Prime",
+        "url": "https://multimovies.city/genre/amazon-prime/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      }
+    ],
+    "firstAirDate": "Feb. 06, 2005",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley\u2019s boyfriend turned husband, Jeff Fischer; the family\u2019s man-in-a-goldfish-body pet, Klaus; and most notably the family\u2019s zany alien, Roger, who is \u201cfull of masquerades, brazenness, and shocking antics.\u201d",
+    "infoFields": {
+      "Original title": "American Dad!",
+      "TMDb Rating": "6.971 2,222 votes",
+      "First air date": "Feb. 06, 2005",
+      "Last air date": "Mar. 24, 2025",
+      "Seasons": "21",
+      "Episodes": "388",
+      "Average Duration": "22 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Feb. 06, 2005",
+      "episodeCount": 7,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Pilot",
+          "url": "https://multimovies.city/episodes/american-dad-1x1/",
+          "airDate": "Feb. 06, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/4KiwE5neX9CkoIoA3Birbia1bvv.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/mqokp2x",
+            "https://player.autoembed.cc/embed/tv/1433/1/1",
+            "https://111movies.com/tv/1433/1/1",
+            "https://vidfast.pro/tv/1433/1/1",
+            "https://player.videasy.net/tv/1433/1/1",
+            "https://player.vidzee.wtf/embed/tv/1433/1/1",
+            "https://vidsrc.cc/v2/embed/tv/1433/1/1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Threat Levels",
+          "url": "https://multimovies.city/episodes/american-dad-1x2/",
+          "airDate": "May. 01, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/cCFXv71PLaMHhg3uPloj5zGNsIP.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/emmr1p0",
+            "https://player.autoembed.cc/embed/tv/1433/1/2",
+            "https://111movies.com/tv/1433/1/2",
+            "https://vidfast.pro/tv/1433/1/2",
+            "https://player.videasy.net/tv/1433/1/2",
+            "https://player.vidzee.wtf/embed/tv/1433/1/2",
+            "https://vidsrc.cc/v2/embed/tv/1433/1/2"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Stan Knows Best",
+          "url": "https://multimovies.city/episodes/american-dad-1x3/",
+          "airDate": "May. 08, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/1jxO5CaBgNZw6VsASNfjpUK80OJ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/lc1nnpu",
+            "https://player.autoembed.cc/embed/tv/1433/1/3",
+            "https://111movies.com/tv/1433/1/3",
+            "https://vidfast.pro/tv/1433/1/3",
+            "https://player.videasy.net/tv/1433/1/3",
+            "https://player.vidzee.wtf/embed/tv/1433/1/3",
+            "https://vidsrc.cc/v2/embed/tv/1433/1/3"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Francine's Flashback",
+          "url": "https://multimovies.city/episodes/american-dad-1x4/",
+          "airDate": "May. 15, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/cB7byn2DdCAaXKD6cBUkatdD5SV.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/eyrrqtt",
+            "https://player.autoembed.cc/embed/tv/1433/1/4",
+            "https://111movies.com/tv/1433/1/4",
+            "https://vidfast.pro/tv/1433/1/4",
+            "https://player.videasy.net/tv/1433/1/4",
+            "https://player.vidzee.wtf/embed/tv/1433/1/4",
+            "https://vidsrc.cc/v2/embed/tv/1433/1/4"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Roger Codger",
+          "url": "https://multimovies.city/episodes/american-dad-1x5/",
+          "airDate": "Jun. 05, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/zEc7Xrkydav4gq4NlcSic9coK6B.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/sfs0si1",
+            "https://player.autoembed.cc/embed/tv/1433/1/5",
+            "https://111movies.com/tv/1433/1/5",
+            "https://vidfast.pro/tv/1433/1/5",
+            "https://player.videasy.net/tv/1433/1/5",
+            "https://player.vidzee.wtf/embed/tv/1433/1/5",
+            "https://vidsrc.cc/v2/embed/tv/1433/1/5"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Homeland Insecurity",
+          "url": "https://multimovies.city/episodes/american-dad-1x6/",
+          "airDate": "Jun. 12, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/fDUuVwsWaZcrQcuBuAmngldrpYW.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/uwdzkex",
+            "https://player.autoembed.cc/embed/tv/1433/1/6",
+            "https://111movies.com/tv/1433/1/6",
+            "https://vidfast.pro/tv/1433/1/6",
+            "https://player.videasy.net/tv/1433/1/6",
+            "https://player.vidzee.wtf/embed/tv/1433/1/6",
+            "https://vidsrc.cc/v2/embed/tv/1433/1/6"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Deacon Stan, Jesus Man",
+          "url": "https://multimovies.city/episodes/american-dad-1x7/",
+          "airDate": "Jun. 19, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/42t5E6WJ3SqNo0dm9zFOpvD2ORm.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/yh4mymi",
+            "https://player.autoembed.cc/embed/tv/1433/1/7",
+            "https://111movies.com/tv/1433/1/7",
+            "https://vidfast.pro/tv/1433/1/7",
+            "https://player.videasy.net/tv/1433/1/7",
+            "https://player.vidzee.wtf/embed/tv/1433/1/7",
+            "https://vidsrc.cc/v2/embed/tv/1433/1/7"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 2,
+      "seasonTitle": "Season 2 Sep. 11, 2005",
+      "episodeCount": 16,
+      "episodes": [
+        {
+          "seasonNo": 2,
+          "episodeNo": 1,
+          "title": "Bullocks to Stan",
+          "url": "https://multimovies.city/episodes/american-dad-2x1/",
+          "airDate": "Sep. 11, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/9CGotvBzRPfdBuk46hR8pVIXCZO.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/t1gs5uq"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 2,
+          "title": "A Smith in the Hand",
+          "url": "https://multimovies.city/episodes/american-dad-2x2/",
+          "airDate": "Sep. 18, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/4yOhoC8fqI7XBBVScG677PfvJlB.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/eunoy07"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 3,
+          "title": "All About Steve",
+          "url": "https://multimovies.city/episodes/american-dad-2x3/",
+          "airDate": "Sep. 25, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/iDbJHisEdCL5eGnYA5QXUAydrpg.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/rah7her"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 4,
+          "title": "Con Heir",
+          "url": "https://multimovies.city/episodes/american-dad-2x4/",
+          "airDate": "Oct. 02, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/9FnrNfhubbyQNFIJgcQ6EWHJEQU.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/rt7vv76"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 5,
+          "title": "Stan of Arabia (1)",
+          "url": "https://multimovies.city/episodes/american-dad-2x5/",
+          "airDate": "Nov. 06, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/3vry5xevWKC7JQIpUkf7UEoKz5C.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nrryrjo"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 6,
+          "title": "Stan of Arabia (2)",
+          "url": "https://multimovies.city/episodes/american-dad-2x6/",
+          "airDate": "Nov. 13, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/wpXJTK3fosG7yukNqYCuYH2CrCz.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/xk2k443"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 7,
+          "title": "Stannie Get Your Gun",
+          "url": "https://multimovies.city/episodes/american-dad-2x7/",
+          "airDate": "Nov. 20, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/iivsGZxL7CFMRVuWfcz3CJFmQWg.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/h84on0u"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 8,
+          "title": "Star Trek",
+          "url": "https://multimovies.city/episodes/american-dad-2x8/",
+          "airDate": "Nov. 27, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/vRxnrn7CIJbwRNuXCNf83LpbzX2.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/csi8ie2"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 9,
+          "title": "Not Particularly Desperate Housewives",
+          "url": "https://multimovies.city/episodes/american-dad-2x9/",
+          "airDate": "Dec. 18, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/zWLhDauqnHSjK977iu5sN4DTM4g.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/gtn2lsr"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 10,
+          "title": "Rough Trade",
+          "url": "https://multimovies.city/episodes/american-dad-2x10/",
+          "airDate": "Jan. 08, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/a6LAlxfQO8N1aYwg8ldHzJaH3kk.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/sxnntfz"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 11,
+          "title": "Finances With Wolves",
+          "url": "https://multimovies.city/episodes/american-dad-2x11/",
+          "airDate": "Jan. 29, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/tr9iKSzwERbWLBPOljdezL0dmlg.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/u0iedjw"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 12,
+          "title": "It's Good to be the Queen",
+          "url": "https://multimovies.city/episodes/american-dad-2x12/",
+          "airDate": "Feb. 26, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/kxAIk9Eziwdp8EWwlTp8FsbqnY0.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/rz9t0j4"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 13,
+          "title": "Roger 'n Me",
+          "url": "https://multimovies.city/episodes/american-dad-2x13/",
+          "airDate": "Apr. 23, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/rMqE4hIYO3PDHkxPhJHYeqNN9gv.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/qhhoxer"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 14,
+          "title": "Helping Handis",
+          "url": "https://multimovies.city/episodes/american-dad-2x14/",
+          "airDate": "Apr. 30, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/cZSQJn8BZicBMbq5qlclaDKtcBM.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/y9kxbyo"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 15,
+          "title": "With Friends Like Steve's",
+          "url": "https://multimovies.city/episodes/american-dad-2x15/",
+          "airDate": "May. 07, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/aq9Ewdwo8pT6tak32nZ0sEccGyG.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/v39j94n"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 16,
+          "title": "Tears of a Clooney",
+          "url": "https://multimovies.city/episodes/american-dad-2x16/",
+          "airDate": "May. 14, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/fv00jq8vYtQe89GBz37vsBQWkQK.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/y8gvm44"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 3,
+      "seasonTitle": "Season 3 Sep. 10, 2006",
+      "episodeCount": 19,
+      "episodes": [
+        {
+          "seasonNo": 3,
+          "episodeNo": 1,
+          "title": "Camp Refoogee",
+          "url": "https://multimovies.city/episodes/american-dad-3x1/",
+          "airDate": "Sep. 10, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/u7L4vPaQepKmJiSc6sm1XLAh66Z.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/glywc4x"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 2,
+          "title": "The American Dad After School Special",
+          "url": "https://multimovies.city/episodes/american-dad-3x2/",
+          "airDate": "Sep. 17, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/w6W9DteyD1cx6WDKKX33WC87Yjr.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/hmz9n7d"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 3,
+          "title": "Failure is Not a Factory-Installed Option",
+          "url": "https://multimovies.city/episodes/american-dad-3x3/",
+          "airDate": "Sep. 24, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/4HQQIQ84MTDs7XEGfhKngV17m3L.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/v72ab5c"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 4,
+          "title": "Lincoln Lover",
+          "url": "https://multimovies.city/episodes/american-dad-3x4/",
+          "airDate": "Nov. 05, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/6lYDcuivFO3eCHqmnfa27nH5RdN.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/jkr7k9l"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 5,
+          "title": "Dungeons and Wagons",
+          "url": "https://multimovies.city/episodes/american-dad-3x5/",
+          "airDate": "Nov. 12, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/fVIhwJrGdryc0LJoeh0gcg3blsJ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/etxwt4n"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 6,
+          "title": "Iced, Iced Babies",
+          "url": "https://multimovies.city/episodes/american-dad-3x6/",
+          "airDate": "Nov. 19, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/3PIs9evCVX7P1ZgeYbueVNj2O2G.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ti0fosi"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 7,
+          "title": "Of Ice and Men",
+          "url": "https://multimovies.city/episodes/american-dad-3x7/",
+          "airDate": "Nov. 26, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/VuWwtSq0LUHalEi4yRs9elCqbV.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pmrp8s6"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 8,
+          "title": "Irregarding Steve",
+          "url": "https://multimovies.city/episodes/american-dad-3x8/",
+          "airDate": "Dec. 10, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/sglR4aV2RFDOUMUK91rT1nFRxfV.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/cpqit0d"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 9,
+          "title": "The Best Christmas Story Never Told",
+          "url": "https://multimovies.city/episodes/american-dad-3x9/",
+          "airDate": "Dec. 17, 2006",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/9yupEF3bNUyv36e5ACbUFyzIxoa.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/k94g05e"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 10,
+          "title": "Bush Comes to Dinner",
+          "url": "https://multimovies.city/episodes/american-dad-3x10/",
+          "airDate": "Jan. 07, 2007",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/4LuS5HOzxAAwwk5DQRpOnKEbHhh.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/fsjqdl5"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 11,
+          "title": "American Dream Factory",
+          "url": "https://multimovies.city/episodes/american-dad-3x11/",
+          "airDate": "Jan. 28, 2007",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/10B4Peh8GyKzTrSvTJWV0YXled3.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ioo0o8b"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 12,
+          "title": "A.T. The Abusive Terrestrial",
+          "url": "https://multimovies.city/episodes/american-dad-3x12/",
+          "airDate": "Feb. 11, 2007",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/hid6CmwStOGXC8fI9ngbigtbSpt.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/k48aj50"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 13,
+          "title": "Black Mystery Month",
+          "url": "https://multimovies.city/episodes/american-dad-3x13/",
+          "airDate": "Feb. 18, 2007",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/q2BXpLDjAiuQbww2yOlsMFYjbOw.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/k47073w"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 14,
+          "title": "An Apocalypse to Remember",
+          "url": "https://multimovies.city/episodes/american-dad-3x14/",
+          "airDate": "Mar. 25, 2007",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/y5Kgw0Xe340dNSZF7WMhWdjFqDI.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/lwq8wyt"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 15,
+          "title": "Four Little Words",
+          "url": "https://multimovies.city/episodes/american-dad-3x15/",
+          "airDate": "Apr. 01, 2007",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/rYxdFszVOFQKvwtwcou89hNt1Yg.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/x5ekf44"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 16,
+          "title": "When a Stan Loves a Woman",
+          "url": "https://multimovies.city/episodes/american-dad-3x16/",
+          "airDate": "Apr. 29, 2007",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/v7KeQ8tCTddE0Wrju2YuF89q0GB.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/l1grl1o"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 17,
+          "title": "I Can't Stan You",
+          "url": "https://multimovies.city/episodes/american-dad-3x17/",
+          "airDate": "May. 06, 2007",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/73mhrz6RNr0g02BnQg6oXxE5Kff.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ekeyoce"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 18,
+          "title": "The Magnificent Steven",
+          "url": "https://multimovies.city/episodes/american-dad-3x18/",
+          "airDate": "May. 13, 2007",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/kwhmULIr913zYDLdgl7QehWzXbr.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/r3tdkdr"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 19,
+          "title": "Joint Custody",
+          "url": "https://multimovies.city/episodes/american-dad-3x19/",
+          "airDate": "May. 20, 2007",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/07/arDLH16cvl9MxlZPoMtcwV4F2x6.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/cz2532u"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mike Barker",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/mike-barker/",
+      "image": "https://image.tmdb.org/t/p/w92/eUpPQD9qX3XdZpl5ItWiDvnWrWA.jpg"
+    },
+    {
+      "name": "Seth MacFarlane",
+      "role": "Stan Smith / Roger (voice)",
+      "url": "https://multimovies.city/cast/seth-macfarlane/",
+      "image": "https://image.tmdb.org/t/p/w92/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
+    },
+    {
+      "name": "Wendy Schaal",
+      "role": "Francine Smith (voice)",
+      "url": "https://multimovies.city/cast/wendy-schaal/",
+      "image": "https://image.tmdb.org/t/p/w92/qq9Jc77KD24FxxJrR7O2F3E6c8A.jpg"
+    },
+    {
+      "name": "Rachael MacFarlane",
+      "role": "Hayley Smith (voice)",
+      "url": "https://multimovies.city/cast/rachael-macfarlane/",
+      "image": "https://image.tmdb.org/t/p/w92/AnLEvMh9pl94uJOO2MnZFQB44b4.jpg"
+    },
+    {
+      "name": "Scott Grimes",
+      "role": "Steve Smith (voice)",
+      "url": "https://multimovies.city/cast/scott-grimes/",
+      "image": "https://image.tmdb.org/t/p/w92/oB0xperEt45g8Ti6lpObpi6c5XV.jpg"
+    },
+    {
+      "name": "Dee Bradley Baker",
+      "role": "Klaus (voice)",
+      "url": "https://multimovies.city/cast/dee-bradley-baker/",
+      "image": "https://image.tmdb.org/t/p/w92/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "name": "Jeff Fischer",
+      "role": "Jeff Fischer (voice)",
+      "url": "https://multimovies.city/cast/jeff-fischer/",
+      "image": "https://image.tmdb.org/t/p/w92/wC4wsWAYZ51FNCb33GpDiCUrFDw.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2OeS0YPFpqCmi7SA5W6aOPIChc3.jpg",
+    "https://image.tmdb.org/t/p/w300/mc3rG5M9dFVjMfaCFNfbD5gu2pK.jpg",
+    "https://image.tmdb.org/t/p/w300/7xIQL3eyNmQjZTJjzlsmzRUjAEx.jpg",
+    "https://image.tmdb.org/t/p/w300/skBNukpZWvr5AhqPDEaO262Rjkr.jpg",
+    "https://image.tmdb.org/t/p/w300/cLvONgObogmVTZYNDpNFWBnklcZ.jpg",
+    "https://image.tmdb.org/t/p/w300/qHYnqmU5jvpe70LsAjfM3flzb9c.jpg",
+    "https://image.tmdb.org/t/p/w300/hxez7Xn6Xc5bTtK3oTSnl594XYr.jpg",
+    "https://image.tmdb.org/t/p/w300/ZGYsYGKtzGbQYK9CtmiIlAAPRw.jpg",
+    "https://image.tmdb.org/t/p/w300/wcaBVxBeZGf0YWzyVEUKGGAH2B8.jpg",
+    "https://image.tmdb.org/t/p/w300/vzs4adAV7RWPETLulejDnArYzKN.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
