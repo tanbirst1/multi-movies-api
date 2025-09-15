@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/anaconda/",
+  "meta": {
+    "title": "Anaconda",
+    "poster": "https://image.tmdb.org/t/p/w500/33NysOnLpLZY0ewHTcfpalzAsRG.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Apr. 11, 1997",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "A \u2018National Geographic\u2019 film crew is taken hostage by an insane hunter, who takes them along on his quest to capture the world\u2019s largest \u2014 and deadliest \u2014 snake.",
+    "infoFields": {
+      "Original title": "Anaconda",
+      "IMDb Rating": "4.9 116,710 votes",
+      "TMDb Rating": "5.236 2,560 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Luis Llosa",
+      "role": "Director",
+      "url": "https://multimovies.city/director/luis-llosa/",
+      "image": "https://image.tmdb.org/t/p/w92/mL2FmYTZvnvP4kJ9heOQLk5BT9m.jpg"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "role": "Terri Flores",
+      "url": "https://multimovies.city/cast/jennifer-lopez/",
+      "image": "https://image.tmdb.org/t/p/w92/icNEXl1ziSvOKsnhtydi8BZppsY.jpg"
+    },
+    {
+      "name": "Ice Cube",
+      "role": "Danny Rich",
+      "url": "https://multimovies.city/cast/ice-cube/",
+      "image": "https://image.tmdb.org/t/p/w92/ymR7Yll7HjL6i6Z3pt435hYi91T.jpg"
+    },
+    {
+      "name": "Jon Voight",
+      "role": "Paul Serone",
+      "url": "https://multimovies.city/cast/jon-voight/",
+      "image": "https://image.tmdb.org/t/p/w92/g3jSSM8xqbRRJmvHM1GTZx8jmup.jpg"
+    },
+    {
+      "name": "Eric Stoltz",
+      "role": "Dr. Steven Cale",
+      "url": "https://multimovies.city/cast/eric-stoltz/",
+      "image": "https://image.tmdb.org/t/p/w92/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg"
+    },
+    {
+      "name": "Jonathan Hyde",
+      "role": "Warren Westridge",
+      "url": "https://multimovies.city/cast/jonathan-hyde/",
+      "image": "https://image.tmdb.org/t/p/w92/iNLNW7tH8GRpCP9INLXGmwVU1hK.jpg"
+    },
+    {
+      "name": "Owen Wilson",
+      "role": "Gary Dixon",
+      "url": "https://multimovies.city/cast/owen-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+    },
+    {
+      "name": "Kari Wuhrer",
+      "role": "Denise Kalberg",
+      "url": "https://multimovies.city/cast/kari-wuhrer/",
+      "image": "https://image.tmdb.org/t/p/w92/sTWVUK4WBcSpuIotCjlU7sRaEH7.jpg"
+    },
+    {
+      "name": "Vincent Castellanos",
+      "role": "Mateo",
+      "url": "https://multimovies.city/cast/vincent-castellanos/",
+      "image": "https://image.tmdb.org/t/p/w92/zN4PkqWhsCeHZ6XOCPxLJXgsUwO.jpg"
+    },
+    {
+      "name": "Danny Trejo",
+      "role": "Poacher",
+      "url": "https://multimovies.city/cast/danny-trejo/",
+      "image": "https://image.tmdb.org/t/p/w92/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+    },
+    {
+      "name": "Frank Welker",
+      "role": "Anaconda (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/frank-welker/",
+      "image": "https://image.tmdb.org/t/p/w92/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/94KpGOnZckDk6UQE9bThjnlDWcg.jpg",
+    "https://image.tmdb.org/t/p/w300/nGsdllcsB5ZA7wPuFAycXWgmwqg.jpg",
+    "https://image.tmdb.org/t/p/w300/e2oO1FPwMiDEi119rJJspYI6TiG.jpg",
+    "https://image.tmdb.org/t/p/w300/vF8NCvR7YWUsZ4eSPM6tK8tvbwG.jpg",
+    "https://image.tmdb.org/t/p/w300/b4c2zlwobONacAUS3jsdPLXNamR.jpg",
+    "https://image.tmdb.org/t/p/w300/b7208owTQS4J0VSP4v8U6zO59tM.jpg",
+    "https://image.tmdb.org/t/p/w300/eHRTu92PB8L4LbXRsCrCjOm1LEn.jpg",
+    "https://image.tmdb.org/t/p/w300/ybtRseJp2kTrMxlS67MUsE4oXPF.jpg",
+    "https://image.tmdb.org/t/p/w300/4vAvTjBxyzeh4cFMkq9qUVx7yKo.jpg",
+    "https://image.tmdb.org/t/p/w300/jgldIs0FiXWJHo1i21FW1fym2ip.jpg"
+  ],
+  "similar": [],
+  "views": 1744,
+  "sources": [
+    "https://www.youtube.com/embed/zkX5t5ZJLEk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ttkolvx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 87967,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 87967,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
