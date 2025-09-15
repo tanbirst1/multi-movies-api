@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-lion-king-2/",
+  "meta": {
+    "title": "The Lion King",
+    "poster": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Jun. 23, 1994",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?",
+    "infoFields": {
+      "Original title": "The Lion King",
+      "IMDb Rating": "8.5 1,079,665 votes",
+      "TMDb Rating": "8.258 16,453 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Roger Allers",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roger-allers/",
+      "image": "https://image.tmdb.org/t/p/w92/sdFyM5FNcJuMv7knrz6swaIHXIJ.jpg"
+    },
+    {
+      "name": "Jonathan Taylor Thomas",
+      "role": "Young Simba (voice)",
+      "url": "https://multimovies.city/#",
+      "image": "https://image.tmdb.org/t/p/w92/E4cAiS5ge08euPEXrGLKhQX7cj.jpg"
+    },
+    {
+      "name": "Matthew Broderick",
+      "role": "Simba (voice)",
+      "url": "https://multimovies.city/cast/matthew-broderick/",
+      "image": "https://image.tmdb.org/t/p/w92/2Pq8pwOX5ZFfT2p5pNLGfvUi9Pp.jpg"
+    },
+    {
+      "name": "James Earl Jones",
+      "role": "King Mufasa (voice)",
+      "url": "https://multimovies.city/cast/james-earl-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+    },
+    {
+      "name": "Jeremy Irons",
+      "role": "Scar (voice)",
+      "url": "https://multimovies.city/cast/jeremy-irons/",
+      "image": "https://image.tmdb.org/t/p/w92/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+    },
+    {
+      "name": "Moira Kelly",
+      "role": "Nala (voice)",
+      "url": "https://multimovies.city/cast/moira-kelly/",
+      "image": "https://image.tmdb.org/t/p/w92/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg"
+    },
+    {
+      "name": "Ernie Sabella",
+      "role": "Pumbaa (voice)",
+      "url": "https://multimovies.city/cast/ernie-sabella/",
+      "image": "https://image.tmdb.org/t/p/w92/dBit6gkZfxXqdxO0Ic8CsnLpxyQ.jpg"
+    },
+    {
+      "name": "Nathan Lane",
+      "role": "Timon (voice)",
+      "url": "https://multimovies.city/cast/nathan-lane/",
+      "image": "https://image.tmdb.org/t/p/w92/nEYS0KO1qVO3y0RAt8V8pFxnPb7.jpg"
+    },
+    {
+      "name": "Robert Guillaume",
+      "role": "Rafiki (voice)",
+      "url": "https://multimovies.city/cast/robert-guillaume/",
+      "image": "https://image.tmdb.org/t/p/w92/prqxpeFeyyarRxxfaMHrqCKVyhV.jpg"
+    },
+    {
+      "name": "Rowan Atkinson",
+      "role": "Zazu the Hornbill (voice)",
+      "url": "https://multimovies.city/cast/rowan-atkinson/",
+      "image": "https://image.tmdb.org/t/p/w92/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+    },
+    {
+      "name": "Whoopi Goldberg",
+      "role": "Shenzi the Hyena (voice)",
+      "url": "https://multimovies.city/cast/whoopi-goldberg/",
+      "image": "https://image.tmdb.org/t/p/w92/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+    "https://image.tmdb.org/t/p/w300/yDaMQbBfyGzGWKxUsPMxzWVuJlY.jpg",
+    "https://image.tmdb.org/t/p/w300/wXfAvsPZqBDJ8U78F2IAzsUxtNh.jpg",
+    "https://image.tmdb.org/t/p/w300/gB6wpMvHkFshldO2t0wYPqddusa.jpg",
+    "https://image.tmdb.org/t/p/w300/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+    "https://image.tmdb.org/t/p/w300/3vSpvbyxkjtMSkVvl7gadIspQR4.jpg",
+    "https://image.tmdb.org/t/p/w300/7PBG8rrNJpOpF5Slgm96qbPDRhN.jpg",
+    "https://image.tmdb.org/t/p/w300/ZNuXqnATe30ypeLzHZYpcK4xcd.jpg",
+    "https://image.tmdb.org/t/p/w300/qYzO0XkIOWjrjUkYOOcAuPkAJRZ.jpg",
+    "https://image.tmdb.org/t/p/w300/oNCJd3Norc27NlYMWqvV3uVs857.jpg"
+  ],
+  "similar": [],
+  "views": 2150,
+  "sources": [
+    "https://www.youtube.com/embed/lFzVJEksoDY?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/8ok5hq4o1ovx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5830,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5830,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
