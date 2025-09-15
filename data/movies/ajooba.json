@@ -1,0 +1,116 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ajooba/",
+  "meta": {
+    "title": "Ajooba",
+    "poster": "https://image.tmdb.org/t/p/w500/eickHuvLqNnOOdhgtCeSS1Jwxos.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      }
+    ],
+    "firstAirDate": "Apr. 12, 1991",
+    "ratingValue": "9",
+    "ratingCount": "2",
+    "synopsis": "This is a story of Ajooba, the masked legend, who was treated as the only protector of the people of Baharistan. Ajooba is none other than Ali, the real heir to the kingdom of Baharistan. Unfortunately for Ali, when he was just born, his father and mother were overthrown by the evil designs of the Vazir. Ali survived as destined and was brought up by a blacksmith who was unaware of Ali\u2019s real identity. In the guise of Ajooba, Ali takes up the very difficult task of finding his lost parents and then to re-instate them to the throne with great honour.",
+    "infoFields": {
+      "Original title": "Ajooba",
+      "IMDb Rating": "5.2 1,370 votes",
+      "TMDb Rating": "5.818 11 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Shashi Kapoor",
+      "role": "Director",
+      "url": "https://multimovies.city/director/shashi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/o18vr1sodUFFRnu7gB7ulZCK1kN.jpg"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Ajooba / Ali",
+      "url": "https://multimovies.city/cast/amitabh-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/yAvq3EG5W5WaegZHB7gNdlM2KED.jpg"
+    },
+    {
+      "name": "Dimple Kapadia",
+      "role": "Rukhsana Khan",
+      "url": "https://multimovies.city/cast/dimple-kapadia/",
+      "image": "https://image.tmdb.org/t/p/w92/rrISOX9TnetEAiZ5zCosTkmFdh2.jpg"
+    },
+    {
+      "name": "Rishi Kapoor",
+      "role": "Hassan",
+      "url": "https://multimovies.city/cast/rishi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/yQOKkmQaksa3hOi72MbPnrqz77k.jpg"
+    },
+    {
+      "name": "Shammi Kapoor",
+      "role": "Sultan of Bahristan",
+      "url": "https://multimovies.city/cast/shammi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/qMv1oc2ZH6GKZ9b7BPtLfP6Y1KA.jpg"
+    },
+    {
+      "name": "Bakhtawar Murad Khan",
+      "role": "Shehzadi Heena",
+      "url": "https://multimovies.city/cast/bakhtawar-murad-khan/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ariadna Shengelaia",
+      "role": "Malika",
+      "url": "https://multimovies.city/cast/ariadna-shengelaia/",
+      "image": "https://image.tmdb.org/t/p/w92/s0FVVYP3ZoxOA54TssJB71LiTob.jpg"
+    },
+    {
+      "name": "Saeed Jaffrey",
+      "role": "Amir Khan",
+      "url": "https://multimovies.city/cast/saeed-jaffrey/",
+      "image": "https://image.tmdb.org/t/p/w92/vfESx8h4d8xfGfGasqreTdJgYQP.jpg"
+    },
+    {
+      "name": "Amrish Puri",
+      "role": "Vazir-E-Alla",
+      "url": "https://multimovies.city/cast/amrish-puri/",
+      "image": "https://image.tmdb.org/t/p/w92/f9F456K0ydJCIIUS5YSmQWAgEgI.jpg"
+    },
+    {
+      "name": "Shashi Kapoor",
+      "role": "",
+      "url": "https://multimovies.city/cast/shashi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/o18vr1sodUFFRnu7gB7ulZCK1kN.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/obJtxmIqI3MmvSwC5x5svOO3AF0.jpg"
+  ],
+  "similar": [],
+  "views": 1214,
+  "sources": [
+    "https://multimoviesshg.com/e/1td1him8n7ut"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 16590,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
