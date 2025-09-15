@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rosemarys-baby/",
+  "meta": {
+    "title": "Rosemary\u2019s Baby",
+    "poster": "https://image.tmdb.org/t/p/w500/nclYFGpVzfbiORO5ELVVdxzt9Vg.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 12, 1968",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+    "infoFields": {
+      "Original title": "Rosemary's Baby",
+      "IMDb Rating": "8 244,601 votes",
+      "TMDb Rating": "7.831 3,923 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Roman Polanski",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roman-polanski/",
+      "image": "https://image.tmdb.org/t/p/w92/5yMO7d7NsODZtCwF22Xnlp3oVnE.jpg"
+    },
+    {
+      "name": "Mia Farrow",
+      "role": "Rosemary Woodhouse",
+      "url": "https://multimovies.city/cast/mia-farrow/",
+      "image": "https://image.tmdb.org/t/p/w92/m3lC1ZtKPvTeCBudSfEzqQNXEiO.jpg"
+    },
+    {
+      "name": "John Cassavetes",
+      "role": "Guy Woodhouse",
+      "url": "https://multimovies.city/cast/john-cassavetes/",
+      "image": "https://image.tmdb.org/t/p/w92/2Bo1ipVthg8uKP26mNGykChukA8.jpg"
+    },
+    {
+      "name": "Ruth Gordon",
+      "role": "Minnie Castevet",
+      "url": "https://multimovies.city/cast/ruth-gordon/",
+      "image": "https://image.tmdb.org/t/p/w92/pkdm26bbDy1iJPsjbseJogMl1mQ.jpg"
+    },
+    {
+      "name": "Sidney Blackmer",
+      "role": "Roman Castevet",
+      "url": "https://multimovies.city/cast/sidney-blackmer/",
+      "image": "https://image.tmdb.org/t/p/w92/2JzR0u8yvrkp3e0GB5cajCqGDjp.jpg"
+    },
+    {
+      "name": "Maurice Evans",
+      "role": "Hutch",
+      "url": "https://multimovies.city/cast/maurice-evans/",
+      "image": "https://image.tmdb.org/t/p/w92/l5IKeUtuLMMb2oMj7VMOGFRgYK3.jpg"
+    },
+    {
+      "name": "Ralph Bellamy",
+      "role": "Dr. Sapirstein",
+      "url": "https://multimovies.city/cast/ralph-bellamy/",
+      "image": "https://image.tmdb.org/t/p/w92/ubQCzzzOOeb1rsRCXjkSb7s08Cw.jpg"
+    },
+    {
+      "name": "Victoria Vetri",
+      "role": "Terry",
+      "url": "https://multimovies.city/cast/victoria-vetri/",
+      "image": "https://image.tmdb.org/t/p/w92/yewmqEiiJ0veWY5hrTLbwtcjMWI.jpg"
+    },
+    {
+      "name": "Patsy Kelly",
+      "role": "Laura-Louise",
+      "url": "https://multimovies.city/cast/patsy-kelly/",
+      "image": "https://image.tmdb.org/t/p/w92/sef7GYVzHFNUYz9E6SoR7A2Ygc6.jpg"
+    },
+    {
+      "name": "Elisha Cook Jr.",
+      "role": "Mr. Nicklas",
+      "url": "https://multimovies.city/cast/elisha-cook-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/lM7n3Feg9t2mkcMUmdJ5fCi54wJ.jpg"
+    },
+    {
+      "name": "Emmaline Henry",
+      "role": "Elise Dunstan",
+      "url": "https://multimovies.city/cast/emmaline-henry/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1FiUOiDDzsGnoGZdbhq80Nb3n8S.jpg",
+    "https://image.tmdb.org/t/p/w300/5HjgJdvzj0yO7VHasi39HchZI21.jpg",
+    "https://image.tmdb.org/t/p/w300/uC0UYhL6MUWgA6axL8Za7oqoTTa.jpg",
+    "https://image.tmdb.org/t/p/w300/cvCrnmmJ6f46WC4LBgCqUjd91Lp.jpg",
+    "https://image.tmdb.org/t/p/w300/3lS8Ev8qaQcwUNbUsPYAYnUN9vg.jpg",
+    "https://image.tmdb.org/t/p/w300/tg3PaEVCEshMyzFnZlbJITxFWX1.jpg",
+    "https://image.tmdb.org/t/p/w300/gCkkX0bYajf6LRGGnvh7oB4tOfU.jpg",
+    "https://image.tmdb.org/t/p/w300/frMDWQ5ZcOM3jMzXYQ2IO2Sunw4.jpg",
+    "https://image.tmdb.org/t/p/w300/4ILk2YBFRtwc7hj9eOH5pNystiU.jpg",
+    "https://image.tmdb.org/t/p/w300/j9QrZb3orCHSm6W030UgkzKRA8A.jpg"
+  ],
+  "similar": [],
+  "views": 476,
+  "sources": [
+    "https://www.youtube.com/embed/NoXLXMbOgiU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/rvskzzq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 72060,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 72060,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
