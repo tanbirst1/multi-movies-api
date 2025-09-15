@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/star-wars-episode-i-the-phantom-menace/",
+  "meta": {
+    "title": "Star Wars: Episode I \u2013 The Phantom Menace",
+    "poster": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Star wars",
+        "url": "https://multimovies.city/genre/star-wars/"
+      }
+    ],
+    "firstAirDate": "May. 19, 1999",
+    "ratingValue": "9.8",
+    "ratingCount": "5",
+    "synopsis": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+    "infoFields": {
+      "Original title": "Star Wars: Episode I - The Phantom Menace",
+      "IMDb Rating": "6.5 817,765 votes",
+      "TMDb Rating": "6.5 13,077 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "George Lucas",
+      "role": "Director",
+      "url": "https://multimovies.city/director/george-lucas/",
+      "image": "https://image.tmdb.org/t/p/w92/WCSZzWdtPmdRxH9LUCVi2JPCSJ.jpg"
+    },
+    {
+      "name": "Liam Neeson",
+      "role": "Qui-Gon Jinn",
+      "url": "https://multimovies.city/cast/liam-neeson/",
+      "image": "https://image.tmdb.org/t/p/w92/bboldwqSC6tdw2iL6631c98l2Mn.jpg"
+    },
+    {
+      "name": "Ewan McGregor",
+      "role": "Obi-Wan Kenobi",
+      "url": "https://multimovies.city/cast/ewan-mcgregor/",
+      "image": "https://image.tmdb.org/t/p/w92/qYRGu6NIqkUYIO7ftso110WNQ6P.jpg"
+    },
+    {
+      "name": "Natalie Portman",
+      "role": "Padm\u00e9 Amidala",
+      "url": "https://multimovies.city/cast/natalie-portman/",
+      "image": "https://image.tmdb.org/t/p/w92/luLok04KiKqu3zq5rvKQhpiEDmx.jpg"
+    },
+    {
+      "name": "Jake Lloyd",
+      "role": "Anakin Skywalker",
+      "url": "https://multimovies.city/cast/jake-lloyd/",
+      "image": "https://image.tmdb.org/t/p/w92/tp5PRiy8Ip8Vs70pUY1jeHbk2wH.jpg"
+    },
+    {
+      "name": "Ian McDiarmid",
+      "role": "Senator Palpatine",
+      "url": "https://multimovies.city/cast/ian-mcdiarmid/",
+      "image": "https://image.tmdb.org/t/p/w92/jeoA2UQdKoz5rp4xLv0O32gzJ38.jpg"
+    },
+    {
+      "name": "Pernilla August",
+      "role": "Shmi Skywalker",
+      "url": "https://multimovies.city/cast/pernilla-august/",
+      "image": "https://image.tmdb.org/t/p/w92/zICu2ItUmKh0dUcWtee49KpNDMq.jpg"
+    },
+    {
+      "name": "Oliver Ford Davies",
+      "role": "Governor Sio Bibble",
+      "url": "https://multimovies.city/cast/oliver-ford-davies/",
+      "image": "https://image.tmdb.org/t/p/w92/hDdpoEWtNd0c46PcuORomdEI5j0.jpg"
+    },
+    {
+      "name": "Hugh Quarshie",
+      "role": "Captain Panaka",
+      "url": "https://multimovies.city/cast/hugh-quarshie/",
+      "image": "https://image.tmdb.org/t/p/w92/buBmcE8F8BpbL7M8yyxST2exMRP.jpg"
+    },
+    {
+      "name": "Ahmed Best",
+      "role": "Jar Jar Binks",
+      "url": "https://multimovies.city/cast/ahmed-best/",
+      "image": "https://image.tmdb.org/t/p/w92/aLWfIEy3wqZN5GdhHQss9KyqOXN.jpg"
+    },
+    {
+      "name": "Anthony Daniels",
+      "role": "C-3PO (voice)",
+      "url": "https://multimovies.city/cast/anthony-daniels/",
+      "image": "https://image.tmdb.org/t/p/w92/7kR4kwXtvXtvrsxWeX3QLX5NS5V.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wDe8LzwuvHYYiuwyNfxdYQq8ti4.jpg",
+    "https://image.tmdb.org/t/p/w300/5fu7fzy4NZTsL1Jap00UBIInAuB.jpg",
+    "https://image.tmdb.org/t/p/w300/aTXhYyxx23AGWAqrkrs1fNGhgSO.jpg",
+    "https://image.tmdb.org/t/p/w300/a8SBSwSGcF6JvymKPjegDGrxOo2.jpg",
+    "https://image.tmdb.org/t/p/w300/dhkztgCspLkl1bKTdX9lR81PAPG.jpg",
+    "https://image.tmdb.org/t/p/w300/8MynmjcKSvGdcxjVwsx3TWwOTBa.jpg",
+    "https://image.tmdb.org/t/p/w300/qKnCpQl6ARxbSjw3CLqPlfm43vb.jpg",
+    "https://image.tmdb.org/t/p/w300/lpz6V7q0IxUQI1Ia6xENuc66zF5.jpg",
+    "https://image.tmdb.org/t/p/w300/qKkNhRpotW2bZjgDd5NvomApt7A.jpg",
+    "https://image.tmdb.org/t/p/w300/sHrXdhRmgMvEO0SV8GeHbJITZ7k.jpg"
+  ],
+  "similar": [],
+  "views": 3381,
+  "sources": [
+    "https://www.youtube.com/embed/bD7bpG-zDJQ?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/wxite31cxdxq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 721,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 721,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
