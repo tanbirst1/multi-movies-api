@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hum-dil-de-chuke-sanam/",
+  "meta": {
+    "title": "Hum Dil De Chuke Sanam",
+    "poster": "https://image.tmdb.org/t/p/w500/kuoJvw45TobVp5QcyV16nK26NFx.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 18, 1999",
+    "ratingValue": "9.6",
+    "ratingCount": "5",
+    "synopsis": "A newly-wed man discovers that his wife is in love with another man and decides to unite them. Ignoring the ridicule he might have to face for this, he takes his wife to Italy in search of her love.",
+    "infoFields": {
+      "Original title": "\u0939\u092e \u0926\u093f\u0932 \u0926\u0947 \u091a\u0941\u0915\u0947 \u0938\u0928\u092e",
+      "IMDb Rating": "7.4 19,941 votes",
+      "TMDb Rating": "6.341 108 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sanjay Leela Bhansali",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sanjay-leela-bhansali/",
+      "image": "https://image.tmdb.org/t/p/w92/aQ1TFMLCvemgbfH5BkIwfg20mf4.jpg"
+    },
+    {
+      "name": "Aishwarya Rai Bachchan",
+      "role": "Nandini",
+      "url": "https://multimovies.city/cast/aishwarya-rai-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/31L3uTQSeLS5g3EgALNdVbZT1W.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Sameer",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+      "name": "Ajay Devgn",
+      "role": "Vanraj",
+      "url": "https://multimovies.city/cast/ajay-devgn/",
+      "image": "https://image.tmdb.org/t/p/w92/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg"
+    },
+    {
+      "name": "Vikram Gokhale",
+      "role": "Pundit Darbar",
+      "url": "https://multimovies.city/cast/vikram-gokhale/",
+      "image": "https://image.tmdb.org/t/p/w92/q66OaRjgOpR9LEZM4dCkgp23eeL.jpg"
+    },
+    {
+      "name": "Smita Jaykar",
+      "role": "Amrita",
+      "url": "https://multimovies.city/cast/smita-jaykar/",
+      "image": "https://image.tmdb.org/t/p/w92/5YpJqn2u69d9MaEkn0ucD2tbz4x.jpg"
+    },
+    {
+      "name": "Zohra Sehgal",
+      "role": "Dadi",
+      "url": "https://multimovies.city/cast/zohra-sehgal/",
+      "image": "https://image.tmdb.org/t/p/w92/iQUJRmu0ZTbY5PAx3BifV4rjD19.jpg"
+    },
+    {
+      "name": "Rajeev Verma",
+      "role": "Vikramjeet",
+      "url": "https://multimovies.city/cast/rajeev-verma/",
+      "image": "https://image.tmdb.org/t/p/w92/aJZQAksd12d8cV8Zjo3IUnaH7Rm.jpg"
+    },
+    {
+      "name": "Vinay Pathak",
+      "role": "Tarun",
+      "url": "https://multimovies.city/cast/vinay-pathak/",
+      "image": "https://image.tmdb.org/t/p/w92/nt4MvHjHq5sF1aPrLyFO1YizD8y.jpg"
+    },
+    {
+      "name": "Sheeba Chaddha",
+      "role": "Anupama",
+      "url": "https://multimovies.city/cast/sheeba-chaddha/",
+      "image": "https://image.tmdb.org/t/p/w92/yWBQeR47GmnGJn33w4c8QzakkSh.jpg"
+    },
+    {
+      "name": "Helen",
+      "role": "Sameer's mom",
+      "url": "https://multimovies.city/cast/helen/",
+      "image": "https://image.tmdb.org/t/p/w92/tNQWTzBtvDn7fpYrqCW2lekuYhH.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7m448YN6uk5fin60mAogtLTY6qG.jpg",
+    "https://image.tmdb.org/t/p/w300/8GzMSV5ABIfngiCXWjBeTomU8R1.jpg"
+  ],
+  "similar": [],
+  "views": 2991,
+  "sources": [
+    "https://www.youtube.com/embed/UIYW8IZ89rQ?autoplay=0&autohide=1",
+    "https://player.videasy.net/movie/tt0150992&server=2"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 61487,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 61487,
+      "nume": 1,
+      "title": "vidsrc"
+    }
+  ],
+  "cache": false
+}
