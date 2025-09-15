@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/sleepless-in-seattle/",
+  "meta": {
+    "title": "Sleepless in Seattle",
+    "poster": "https://image.tmdb.org/t/p/w500/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 24, 1993",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "After the death of his mother, a young boy calls a radio station in an attempt to set his father up on a date. Talking about his father\u2019s loneliness soon leads to a meeting with a young female journalist, who has flown to Seattle to write a story about the boy and his father.",
+    "infoFields": {
+      "Original title": "Sleepless in Seattle",
+      "IMDb Rating": "6.8 200,521 votes",
+      "TMDb Rating": "6.743 2,449 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Nora Ephron",
+      "role": "Director",
+      "url": "https://multimovies.city/director/nora-ephron/",
+      "image": "https://image.tmdb.org/t/p/w92/5m0iu8lT0TVu0nKk5eWOR7w2K0a.jpg"
+    },
+    {
+      "name": "Meg Ryan",
+      "role": "Annie Reed",
+      "url": "https://multimovies.city/cast/meg-ryan/",
+      "image": "https://image.tmdb.org/t/p/w92/pxfTSfJ4yJWq52uomSWKzigngOa.jpg"
+    },
+    {
+      "name": "Tom Hanks",
+      "role": "Sam Baldwin",
+      "url": "https://multimovies.city/cast/tom-hanks/",
+      "image": "https://image.tmdb.org/t/p/w92/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "name": "Ross Malinger",
+      "role": "Jonah Baldwin",
+      "url": "https://multimovies.city/cast/ross-malinger/",
+      "image": "https://image.tmdb.org/t/p/w92/7GiouqIfxSH14Xy8KToensUDVGK.jpg"
+    },
+    {
+      "name": "Bill Pullman",
+      "role": "Walter",
+      "url": "https://multimovies.city/cast/bill-pullman/",
+      "image": "https://image.tmdb.org/t/p/w92/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+    },
+    {
+      "name": "Rosie O'Donnell",
+      "role": "Becky",
+      "url": "https://multimovies.city/cast/rosie-odonnell/",
+      "image": "https://image.tmdb.org/t/p/w92/bfeIiPngsbLU7zK8sS18l3Pz3KR.jpg"
+    },
+    {
+      "name": "Barbara Garrick",
+      "role": "Victoria",
+      "url": "https://multimovies.city/cast/barbara-garrick/",
+      "image": "https://image.tmdb.org/t/p/w92/i41Z1pwl9GpobFrjISQSkqwyCAB.jpg"
+    },
+    {
+      "name": "Rob Reiner",
+      "role": "Jay",
+      "url": "https://multimovies.city/cast/rob-reiner/",
+      "image": "https://image.tmdb.org/t/p/w92/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+    },
+    {
+      "name": "Gaby Hoffmann",
+      "role": "Jessica",
+      "url": "https://multimovies.city/cast/gaby-hoffmann/",
+      "image": "https://image.tmdb.org/t/p/w92/bMdxuHqCJkf4dAFKleYRs2GXDN9.jpg"
+    },
+    {
+      "name": "Rita Wilson",
+      "role": "Suzy",
+      "url": "https://multimovies.city/cast/rita-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/7esBuP4p3f5s6NUGk5nzZMkS7Z7.jpg"
+    },
+    {
+      "name": "Victor Garber",
+      "role": "Greg",
+      "url": "https://multimovies.city/cast/victor-garber/",
+      "image": "https://image.tmdb.org/t/p/w92/zPkpRPdW7rEm4fjgoJNz8hAZ6av.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7ME0fJZxjEoSGPP4E4bbYT5zoqt.jpg",
+    "https://image.tmdb.org/t/p/w300/2rFIzJvWSPT4l1Sm1uriDSnm9TE.jpg",
+    "https://image.tmdb.org/t/p/w300/rL0IaACYBnJatCe79uNso8ovHPc.jpg",
+    "https://image.tmdb.org/t/p/w300/wQ2UEsTs83AoZIQV7dbcvL3da4T.jpg",
+    "https://image.tmdb.org/t/p/w300/A1bR0hOkWmFd0QxZX9Ddzv9knti.jpg",
+    "https://image.tmdb.org/t/p/w300/4pAJYv29SrK78NSxXWPk0gW9ZnW.jpg",
+    "https://image.tmdb.org/t/p/w300/8gN4y9ijiYHIdcvWVHFgqumF5W1.jpg",
+    "https://image.tmdb.org/t/p/w300/hCu9iROJ7CA8MhSj5Wc0EI6uMHc.jpg",
+    "https://image.tmdb.org/t/p/w300/vVRvBgPGIcUwz1pjd0GEHIxCkOQ.jpg",
+    "https://image.tmdb.org/t/p/w300/HL35BXdrvDhaWPpigqStT9XCy6.jpg"
+  ],
+  "similar": [],
+  "views": 299,
+  "sources": [
+    "https://www.youtube.com/embed/-Lj2U-cmyek?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/hfy9ox9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 98215,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 98215,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false
+}
