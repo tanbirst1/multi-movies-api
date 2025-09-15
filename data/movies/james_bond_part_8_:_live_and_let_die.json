@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/live-and-let-die/",
+  "meta": {
+    "title": "James Bond Part 8 : Live and Let Die",
+    "poster": "https://image.tmdb.org/t/p/w500/39qkrjqMZs6utwNmihVImC3ghas.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "James Bond",
+        "url": "https://multimovies.city/genre/james-bond/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 27, 1973",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "James Bond must investigate a mysterious murder case of a British agent in New Orleans. Soon he finds himself up against a gangster boss named Mr. Big.",
+    "infoFields": {
+      "Original title": "Live and Let Die",
+      "IMDb Rating": "6.7 111,721 votes",
+      "TMDb Rating": "6.477 1,778 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Guy Hamilton",
+      "role": "Director",
+      "url": "https://multimovies.city/director/guy-hamilton/",
+      "image": "https://image.tmdb.org/t/p/w92/xXRi72ziu0jE6g3k37mxzk4E2oD.jpg"
+    },
+    {
+      "name": "Roger Moore",
+      "role": "James Bond",
+      "url": "https://multimovies.city/cast/roger-moore/",
+      "image": "https://image.tmdb.org/t/p/w92/7H7UXpYPAIZGUs4uSkzqpTrYyxX.jpg"
+    },
+    {
+      "name": "Yaphet Kotto",
+      "role": "Kananga/Mr. Big",
+      "url": "https://multimovies.city/cast/yaphet-kotto/",
+      "image": "https://image.tmdb.org/t/p/w92/4egRA0hA8YJ7chTNGRbOKA3aCVI.jpg"
+    },
+    {
+      "name": "Jane Seymour",
+      "role": "Solitaire",
+      "url": "https://multimovies.city/cast/jane-seymour/",
+      "image": "https://image.tmdb.org/t/p/w92/fReTX8gdaXQwSThRKdh7ipfiBAu.jpg"
+    },
+    {
+      "name": "Clifton James",
+      "role": "Sheriff J.W. Pepper",
+      "url": "https://multimovies.city/cast/clifton-james/",
+      "image": "https://image.tmdb.org/t/p/w92/4XRoVhgoeQEZdg4BAKCWRkI1UfR.jpg"
+    },
+    {
+      "name": "Julius Harris",
+      "role": "Tee Hee",
+      "url": "https://multimovies.city/cast/julius-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/qYzKTOMD6LA61vGyes3mnQiKUCn.jpg"
+    },
+    {
+      "name": "Geoffrey Holder",
+      "role": "Baron Samedi",
+      "url": "https://multimovies.city/cast/geoffrey-holder/",
+      "image": "https://image.tmdb.org/t/p/w92/oGjjKM4WexZ95BRGSnVUzrwrVXi.jpg"
+    },
+    {
+      "name": "David Hedison",
+      "role": "Felix Leiter",
+      "url": "https://multimovies.city/cast/david-hedison/",
+      "image": "https://image.tmdb.org/t/p/w92/lLlEmLQQs61H0d4htGoba2p6qVe.jpg"
+    },
+    {
+      "name": "Gloria Hendry",
+      "role": "Rosie Carver",
+      "url": "https://multimovies.city/cast/gloria-hendry/",
+      "image": "https://image.tmdb.org/t/p/w92/oxzipPcN6G6f0ijdvPeXTIRdH81.jpg"
+    },
+    {
+      "name": "Bernard Lee",
+      "role": "M",
+      "url": "https://multimovies.city/cast/bernard-lee/",
+      "image": "https://image.tmdb.org/t/p/w92/2k44323t5k5sUFq67d9mOxObyLY.jpg"
+    },
+    {
+      "name": "Lois Maxwell",
+      "role": "Miss Moneypenny",
+      "url": "https://multimovies.city/cast/lois-maxwell/",
+      "image": "https://image.tmdb.org/t/p/w92/79mIgTC6AHDc0X75sUh7fdvxhPb.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/v28YYcN5p9hD8PKGAeWLz0ugsfX.jpg",
+    "https://image.tmdb.org/t/p/w300/c4GJFTVByT3Xuip5YOWnUztAFi0.jpg",
+    "https://image.tmdb.org/t/p/w300/hbuAJdCyiI0cp3xTCooOnMNuEgb.jpg",
+    "https://image.tmdb.org/t/p/w300/tUaMw66p674BW8PZLrPZG4hhH66.jpg",
+    "https://image.tmdb.org/t/p/w300/mvz6n2M1M6adcROh2jJdqYCCuWU.jpg",
+    "https://image.tmdb.org/t/p/w300/gMdQpkS8km5FwnYrkPCFGVvAn8K.jpg",
+    "https://image.tmdb.org/t/p/w300/vtt6qTQW57D4giYKkhPHrE1HCou.jpg",
+    "https://image.tmdb.org/t/p/w300/hzmmXx6UeYQeylioNbliFKjSbV7.jpg",
+    "https://image.tmdb.org/t/p/w300/cA9sG9eu80r5t8pFGuB3yrRB793.jpg",
+    "https://image.tmdb.org/t/p/w300/jM8PbqvA8WWOLntpmA36zM4cNF6.jpg"
+  ],
+  "similar": [],
+  "views": 742,
+  "sources": [
+    "https://www.youtube.com/embed/KTzsm9-XWQo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/kfp0w8gfqh1v"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25562,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 25562,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
