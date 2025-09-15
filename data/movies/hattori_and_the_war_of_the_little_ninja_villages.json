@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hattori-and-the-war-of-the-little-ninja-villages/",
+  "meta": {
+    "title": "Hattori and the War of the Little Ninja Villages",
+    "poster": "https://image.tmdb.org/t/p/w500/cpxGmD8gTAE2xorLhrtE1M8TSTj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Nick",
+        "url": "https://multimovies.city/genre/nick/"
+      }
+    ],
+    "firstAirDate": "Mar. 12, 1983",
+    "ratingValue": "7.5",
+    "ratingCount": "4",
+    "synopsis": "Screened as a triple feature with Doraemon: Nobita and the Castle of the Undersea Devil and Paman \u2013 Birdman ga Yattekita.",
+    "infoFields": {
+      "Original title": "\u5fcd\u8005\u30cf\u30c3\u30c8\u30ea\u304f\u3093 \u30cb\u30f3\u30cb\u30f3\u3075\u308b\u3055\u3068\u5927\u4f5c\u6226\u306e\u5dfb"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hiroshi Sasagawa",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hiroshi-sasagawa/",
+      "image": "https://image.tmdb.org/t/p/w92/7OqdNGfkprF5bMID5Rjg7c9fSCr.jpg"
+    },
+    {
+      "name": "Junko Hori",
+      "role": "\u30cf\u30c3\u30c8\u30ea\u304f\u3093",
+      "url": "https://multimovies.city/cast/junko-hori/",
+      "image": "https://image.tmdb.org/t/p/w92/uTfIYgwpXydKuBIoLpsLsdWBSEs.jpg"
+    },
+    {
+      "name": "Masako Sugaya",
+      "role": "\u30b1\u30f3\u4e00",
+      "url": "https://multimovies.city/cast/masako-sugaya/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Yuko Mita",
+      "role": "\u30b7\u30f3\u30be\u30a6",
+      "url": "https://multimovies.city/cast/yuko-mita/",
+      "image": "https://image.tmdb.org/t/p/w92/lzrsj9hy4XWT3OdLmNQb6cFDHsr.jpg"
+    },
+    {
+      "name": "Kaneta Kimotsuki",
+      "role": "\u30b1\u30e0\u30de\u30ad",
+      "url": "https://multimovies.city/cast/kaneta-kimotsuki/",
+      "image": "https://image.tmdb.org/t/p/w92/gzNyG0KgQs4eMqVB4mD8XKGrb2N.jpg"
+    },
+    {
+      "name": "Kenichi Ogata",
+      "role": "\u7345\u5b50\u4e38",
+      "url": "https://multimovies.city/cast/kenichi-ogata/",
+      "image": "https://image.tmdb.org/t/p/w92/rTk93s0IfeUV8cvKc9BsJbrSBGV.jpg"
+    },
+    {
+      "name": "Eiko Yamada",
+      "role": "\u5f71\u5343\u4ee3",
+      "url": "https://multimovies.city/cast/eiko-yamada/",
+      "image": "https://image.tmdb.org/t/p/w92/2JTVThMerE46QqhIKMre4JnGkYJ.jpg"
+    },
+    {
+      "name": "Yuzuru Fujimoto",
+      "role": "\u30d1\u30d1",
+      "url": "https://multimovies.city/cast/yuzuru-fujimoto/",
+      "image": "https://image.tmdb.org/t/p/w92/gUBSZLpYiVIB4pheznmPegxQkSJ.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 3568,
+  "sources": [
+    "https://multimoviesshg.com/e/7p5erw5bu638"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 22827,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
