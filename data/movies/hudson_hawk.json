@@ -1,0 +1,162 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hudson-hawk/",
+  "meta": {
+    "title": "Hudson Hawk",
+    "poster": "https://image.tmdb.org/t/p/w500/g1FJLGg9TaCzgjCmTJmONGIhTar.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "May. 23, 1991",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Eddie Hawkins, called Hudson Hawk has just been released from ten years of prison and is planning to spend the rest of his life honestly. But then the crazy Mayflower couple blackmail him to steal some of the works of Leonardo da Vinci. If he refuses, they threaten to kill his friend Tommy.",
+    "infoFields": {
+      "Original title": "Hudson Hawk",
+      "IMDb Rating": "5.7 57,997 votes",
+      "TMDb Rating": "5.66 852 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Michael Lehmann",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-lehmann/",
+      "image": "https://image.tmdb.org/t/p/w92/jDu6ZiKtVGkhupi6wXv1f4Tpgro.jpg"
+    },
+    {
+      "name": "Bruce Willis",
+      "role": "Eddie 'Hudson Hawk' Hawkins",
+      "url": "https://multimovies.city/cast/bruce-willis/",
+      "image": "https://image.tmdb.org/t/p/w92/caX3KtMU42EP3VLRFFBwqIIrch5.jpg"
+    },
+    {
+      "name": "Danny Aiello",
+      "role": "Tommy Five-Tone",
+      "url": "https://multimovies.city/cast/danny-aiello/",
+      "image": "https://image.tmdb.org/t/p/w92/e7Q6hgWilShqGZ572ByWF9eshMm.jpg"
+    },
+    {
+      "name": "Andie MacDowell",
+      "role": "Anna Baragli",
+      "url": "https://multimovies.city/cast/andie-macdowell/",
+      "image": "https://image.tmdb.org/t/p/w92/9cHkxsdcsO7dmKLtsJhK3c0mnNy.jpg"
+    },
+    {
+      "name": "James Coburn",
+      "role": "George Kaplan",
+      "url": "https://multimovies.city/cast/james-coburn/",
+      "image": "https://image.tmdb.org/t/p/w92/9GApjInyrVvjnTAr652C1aViPqZ.jpg"
+    },
+    {
+      "name": "Richard E. Grant",
+      "role": "Darwin Mayflower",
+      "url": "https://multimovies.city/cast/richard-e-grant/",
+      "image": "https://image.tmdb.org/t/p/w92/pIwiAEX7LiOgnV7KehM3OVmuG1f.jpg"
+    },
+    {
+      "name": "Sandra Bernhard",
+      "role": "Minerva Mayflower",
+      "url": "https://multimovies.city/cast/sandra-bernhard/",
+      "image": "https://image.tmdb.org/t/p/w92/3S93MgFQtXH4eO3oCxx1BA13nBj.jpg"
+    },
+    {
+      "name": "David Caruso",
+      "role": "Kit Kat",
+      "url": "https://multimovies.city/cast/david-caruso/",
+      "image": "https://image.tmdb.org/t/p/w92/7XjPzadIBQ0mIVwVT7o87B7NkJJ.jpg"
+    },
+    {
+      "name": "Frank Stallone",
+      "role": "Cesar Mario",
+      "url": "https://multimovies.city/cast/frank-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/8AxykR4tVFOaygds1TZM5VQrFA6.jpg"
+    },
+    {
+      "name": "Donald Burton",
+      "role": "Alfred",
+      "url": "https://multimovies.city/cast/donald-burton/",
+      "image": "https://image.tmdb.org/t/p/w92/xsHbW4EQ1MXzAfEKDjI81xyBdBM.jpg"
+    },
+    {
+      "name": "Don Harvey",
+      "role": "Snickers",
+      "url": "https://multimovies.city/cast/don-harvey/",
+      "image": "https://image.tmdb.org/t/p/w92/dc10W0hRNxrO0IcwgKOcsUajtOG.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/cMsLVAG6I2DdFR9krJh1oy0MH1q.jpg",
+    "https://image.tmdb.org/t/p/w300/gyKLW6YCbK6skH9XuoIr5NVHVXu.jpg",
+    "https://image.tmdb.org/t/p/w300/etWei8DgLEJ6ehWrMKtme9M7Is6.jpg",
+    "https://image.tmdb.org/t/p/w300/fhdqsG4ehjNrT6TYv9HoSixCZa7.jpg",
+    "https://image.tmdb.org/t/p/w300/xiCzbN6R1Dm8VqegHi1i24yG0yW.jpg",
+    "https://image.tmdb.org/t/p/w300/3uTvUGoWthjUNgwgXAIU5DAJ0Do.jpg"
+  ],
+  "similar": [],
+  "views": 510,
+  "sources": [
+    "https://www.youtube.com/embed/yRfn_kmZ1BU?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/fhorw9n3mja3",
+    "https://sbplay.org/embed-l69hsoh9ig9s.html",
+    "https://dood.la/e/jkx9wg0cfcw5",
+    "https://mixdrop.co/e/enljknk7bz4w78",
+    "https://embedsito.com/v/36752cmxedmjkl1?sub_en=https://sub.movstream.net/sub/hudson-hawk-sii/hudson-hawk-sii.vtt&default=sub_en#caption=https://sub.movstream.net/sub/hudson-hawk-sii/hudson-hawk-sii.vtt"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 9755,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 9755,
+      "nume": 1,
+      "title": "Server 01v"
+    },
+    {
+      "type": "movie",
+      "post": 9755,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 9755,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 9755,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 9755,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
