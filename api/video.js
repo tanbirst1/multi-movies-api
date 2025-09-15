@@ -1,6 +1,5 @@
 const fs = require("fs");
 const path = require("path");
-const cheerio = require("cheerio");
 
 // --------- Helpers ---------
 function readBaseURL() {
@@ -33,9 +32,8 @@ async function fetchHTML(target, timeoutMs = 20000) {
       method: "GET",
       headers: {
         "user-agent":
-          "Mozilla/5.0 (compatible; VercelScraper/1.6; +https://vercel.com/)",
-        accept:
-          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Mozilla/5.0 (compatible; VercelScraper/2.0; +https://vercel.com/)",
+        accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "accept-encoding": "gzip, deflate, br",
       },
       signal: ac.signal,
@@ -49,44 +47,42 @@ async function fetchHTML(target, timeoutMs = 20000) {
 }
 
 function parseEpisodePage(html, pageUrl, siteRoot) {
-  const $ = cheerio.load(html, { decodeEntities: true });
+  // Remove <script>, <style>, <link> (lighter string ops)
+  html = html.replace(/<script[\s\S]*?<\/script>/gi, "")
+             .replace(/<style[\s\S]*?<\/style>/gi, "")
+             .replace(/<link[^>]+>/gi, "");
 
-  // Remove heavy tags early
-  $("script, style, link").remove();
+  // ---- Views ----
+  let views = 0;
+  const noticeMatch = html.match(/id=["']playernotice["'][^>]*data-text=["']([^"']+)/i);
+  if (noticeMatch) {
+    views = parseInt(noticeMatch[1].replace(/\D/g, ""), 10) || 0;
+  }
 
-  // Views
-  const viewsText = $("#playernotice").data("text") || "";
-  const views = parseInt(String(viewsText).replace(/\D/g, ""), 10) || 0;
-
-  // Player options
+  // ---- Player Options ----
   const options = [];
-  $("#playeroptionsul li").each((_, li) => {
-    const $li = $(li);
+  const optionRegex = /<li[^>]*data-type=["']([^"']*)["'][^>]*data-post=["']([^"']*)["'][^>]*data-nume=["']([^"']*)["'][^>]*>(.*?)<\/li>/gi;
+  let m;
+  while ((m = optionRegex.exec(html))) {
+    const inner = m[4].replace(/<[^>]+>/g, "").trim();
     options.push({
-      type: $li.data("type") || "",
-      post: $li.data("post") || "",
-      nume: $li.data("nume") || "",
-      title: $li.find(".title").text().trim() || "",
+      type: m[1] || "",
+      post: m[2] || "",
+      nume: m[3] || "",
+      title: inner || "",
     });
-  });
+  }
 
-  // Collect iframe sources
+  // ---- Iframe Sources ----
   const sources = [];
-  $("div[id^='source-player-'] iframe").each((_, iframe) => {
-    let src = $(iframe).attr("src") || "";
-
-    if (!src || src === "about:blank") {
-      src =
-        $(iframe).attr("data-litespeed-src") ||
-        $(iframe).attr("data-src") ||
-        "";
-    }
-
+  const iframeRegex = /<iframe[^>]+(src|data-src|data-litespeed-src)=["']([^"']+)["'][^>]*>/gi;
+  while ((m = iframeRegex.exec(html))) {
+    let src = m[2];
     if (src && src !== "about:blank") {
       if (!/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
       sources.push(src);
     }
-  });
+  }
 
   return { ok: true, scrapedFrom: pageUrl, views, sources, options };
 }
@@ -106,9 +102,7 @@ module.exports = async function handler(req, res) {
     }
 
     if (!target) {
-      res
-        .status(400)
-        .json({ ok: false, error: "Missing target URL. Provide ?url= or ?slug=" });
+      res.status(400).json({ ok: false, error: "Missing target URL. Provide ?url= or ?slug=" });
       return;
     }
 
