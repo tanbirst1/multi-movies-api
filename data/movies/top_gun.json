@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/top-gun/",
+  "meta": {
+    "title": "Top Gun",
+    "poster": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Netflix",
+        "url": "https://multimovies.city/genre/netflix/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "May. 16, 1986",
+    "ratingValue": "9.2",
+    "ratingCount": "5",
+    "synopsis": "For Lieutenant Pete \u2018Maverick\u2019 Mitchell and his friend and co-pilot Nick \u2018Goose\u2019 Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete\u2019s dreams of becoming an ace pilot.",
+    "infoFields": {
+      "Original title": "Top Gun",
+      "IMDb Rating": "6.9 467,387 votes",
+      "TMDb Rating": "7 7,245 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tony Scott",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tony-scott/",
+      "image": "https://image.tmdb.org/t/p/w92/zEEbiNa8Pqw3U6pZ8Z2y3dlJJnC.jpg"
+    },
+    {
+      "name": "Tom Cruise",
+      "role": "Lt. Pete 'Maverick' Mitchell",
+      "url": "https://multimovies.city/cast/tom-cruise/",
+      "image": "https://image.tmdb.org/t/p/w92/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"
+    },
+    {
+      "name": "Kelly McGillis",
+      "role": "Charlotte 'Charlie' Blackwood",
+      "url": "https://multimovies.city/cast/kelly-mcgillis/",
+      "image": "https://image.tmdb.org/t/p/w92/uaTBUCUpGYbc4nzO43PPIvmCREq.jpg"
+    },
+    {
+      "name": "Val Kilmer",
+      "role": "Lt. Tom 'Iceman' Kazansky",
+      "url": "https://multimovies.city/cast/val-kilmer/",
+      "image": "https://image.tmdb.org/t/p/w92/dZEGiq4XmCiXq9hmz0vVLId010z.jpg"
+    },
+    {
+      "name": "Anthony Edwards",
+      "role": "LTJG Nick 'Goose' Bradshaw",
+      "url": "https://multimovies.city/cast/anthony-edwards/",
+      "image": "https://image.tmdb.org/t/p/w92/a190BIbGGpM68pq1VarhaDNHZci.jpg"
+    },
+    {
+      "name": "Tom Skerritt",
+      "role": "Cmdr. Mike 'Viper' Metcalf",
+      "url": "https://multimovies.city/cast/tom-skerritt/",
+      "image": "https://image.tmdb.org/t/p/w92/oWFCyBLm1lsbsbT5Nmx3SPMaqFZ.jpg"
+    },
+    {
+      "name": "Michael Ironside",
+      "role": "Lt. Cmdr. Rick 'Jester' Heatherly",
+      "url": "https://multimovies.city/cast/michael-ironside/",
+      "image": "https://image.tmdb.org/t/p/w92/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+    },
+    {
+      "name": "John Stockwell",
+      "role": "Lt. Bill 'Cougar' Cortell",
+      "url": "https://multimovies.city/cast/john-stockwell/",
+      "image": "https://image.tmdb.org/t/p/w92/6m4x7tzIwg38K8h3czfPmepi3O3.jpg"
+    },
+    {
+      "name": "Barry Tubb",
+      "role": "LTJG Leonard 'Wolfman' Wolfe",
+      "url": "https://multimovies.city/cast/barry-tubb/",
+      "image": "https://image.tmdb.org/t/p/w92/sKzDWQWecmA5iuCxVCuMrYvn9Wf.jpg"
+    },
+    {
+      "name": "Rick Rossovich",
+      "role": "LTJG Ron 'Slider' Kerner",
+      "url": "https://multimovies.city/cast/rick-rossovich/",
+      "image": "https://image.tmdb.org/t/p/w92/uShNdPWbDHMejpMxuoNsqaaDbuc.jpg"
+    },
+    {
+      "name": "Tim Robbins",
+      "role": "LTJG Sam 'Merlin' Wells",
+      "url": "https://multimovies.city/cast/tim-robbins/",
+      "image": "https://image.tmdb.org/t/p/w92/hsCu1JUzQQ4pl7uFxAVFLOs9yHh.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/jILeJ60zPpIjjJHGSmIeY4eO30t.jpg",
+    "https://image.tmdb.org/t/p/w300/j6sAlNz354qtzvG01LLYF16Uufg.jpg",
+    "https://image.tmdb.org/t/p/w300/wpIMiO8bMfaZMyGMfHB1CAz3Yzs.jpg",
+    "https://image.tmdb.org/t/p/w300/sgxdZd9F5FdgIa8sNwaGLbATiUS.jpg",
+    "https://image.tmdb.org/t/p/w300/7Npdg6qoqliO3LaxhpwpdIHg5d0.jpg",
+    "https://image.tmdb.org/t/p/w300/6OcLFh2a9jajIlrTWdt9Y1tyuJz.jpg",
+    "https://image.tmdb.org/t/p/w300/sBQpZJzwj0b5vVRqQHf8k4Z6tgY.jpg",
+    "https://image.tmdb.org/t/p/w300/jNHW0zWnb9E6xYUDI9DxtyBGkY0.jpg",
+    "https://image.tmdb.org/t/p/w300/imMh59PbsVuoIfhakWmRSLVe7sM.jpg",
+    "https://image.tmdb.org/t/p/w300/kLiOpOUs3UfDP6pZ7zaQQZcYgfU.jpg"
+  ],
+  "similar": [],
+  "views": 4910,
+  "sources": [
+    "https://www.youtube.com/embed/ArOMXELHiLw?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ry3ol5fiv8m0"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 4406,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 4406,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
