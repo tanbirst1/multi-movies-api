@@ -7,7 +7,6 @@ const cacheStore = new Map(); // key: target URL, value: { data, expiry }
 
 // ------- Helpers -------
 function readBaseURL() {
-  // Prefer ENV, then file, else default
   const envBase = (process.env.BASE_URL || "").trim();
   if (/^https?:\/\//i.test(envBase)) return envBase.replace(/\/+$/, "");
 
@@ -18,7 +17,7 @@ function readBaseURL() {
       if (/^https?:\/\//i.test(txt)) return txt.replace(/\/+$/, "");
     }
   } catch (_) {}
-  return "https://multimovies.lol/"; // sane default
+  return "https://multimovies.lol/"; // fallback default
 }
 
 function getImgSrc($el) {
@@ -40,26 +39,14 @@ function toAbs(base, href) {
   }
 }
 
-// normalize WP thumbs like ...-200x300.jpg(.webp) → full
 function normalizeImageURL(u) {
   if (!u || u.startsWith("data:")) return "";
-  // Strip querystrings
   let out = u.replace(/(\.[a-z0-9]{2,6})(\?.*)$/i, "$1");
-
-  // If it's a TMDB image, leave it exactly as-is (no size changes)
   try {
     const urlObj = new URL(out);
-    if (urlObj.hostname.includes("image.tmdb.org")) {
-      return urlObj.toString();
-    }
-  } catch {
-    /* not absolute yet; skip */
-  }
-
-  // Remove -WxH right before final (or double) extension e.g. .jpg.webp
-  out = out.replace(/-\d+x\d+(?=(?:\.[a-z0-9]+){1,2}$)/i, "");
-
-  return out;
+    if (urlObj.hostname.includes("image.tmdb.org")) return urlObj.toString();
+  } catch {}
+  return out.replace(/-\d+x\d+(?=(?:\.[a-z0-9]+){1,2}$)/i, "");
 }
 
 function slugifyTitle(s) {
@@ -67,7 +54,7 @@ function slugifyTitle(s) {
     .trim()
     .toLowerCase()
     .normalize("NFKD")
-    .replace(/[\u0300-\u036f]/g, "") // remove accents
+    .replace(/[\u0300-\u036f]/g, "")
     .replace(/&/g, " and ")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/-+/g, "-")
@@ -82,19 +69,13 @@ async function fetchHTML(target, timeoutMs = 20000) {
       method: "GET",
       headers: {
         "user-agent":
-          "Mozilla/5.0 (compatible; VercelScraper/1.2; +https://vercel.com/)",
+          "Mozilla/5.0 (compatible; Scraper/2.0; +https://vercel.com/)",
         accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
       },
       signal: ac.signal,
     });
     if (!resp.ok) {
-      const text = await resp.text().catch(() => "");
-      throw new Error(
-        `Fetch failed ${resp.status} ${resp.statusText} for ${target} :: ${text.slice(
-          0,
-          200
-        )}`
-      );
+      throw new Error(`Fetch failed ${resp.status} ${resp.statusText} for ${target}`);
     }
     return await resp.text();
   } finally {
@@ -102,21 +83,26 @@ async function fetchHTML(target, timeoutMs = 20000) {
   }
 }
 
-async function fetchMovieSources(target) {
+async function fetchSourcesFromVideo(url) {
   try {
-    const apiUrl = `https://multi-movies-api.vercel.app/api/video.js?url=${encodeURIComponent(
-      target
-    )}`;
+    const apiUrl = `https://multi-movies-api.vercel.app/api/video.js?url=${encodeURIComponent(url)}`;
     const resp = await fetch(apiUrl, {
-      headers: { "user-agent": "Mozilla/5.0 (MovieFetcher/1.0)" },
+      headers: { "user-agent": "Mozilla/5.0 (VideoFetcher/1.0)" },
     });
     if (!resp.ok) return null;
-    return await resp.json();
+    const json = await resp.json();
+    if (!json || !Array.isArray(json.sources)) return null;
+
+    return json.sources.map((s) => ({
+      server: s.server || "Unknown",
+      url: s.file || s.url || "",
+    }));
   } catch {
     return null;
   }
 }
 
+// ---- Parse Show Page ----
 function parsePage(html, pageUrl, siteRoot) {
   const $ = cheerio.load(html);
 
@@ -125,62 +111,16 @@ function parsePage(html, pageUrl, siteRoot) {
     $('meta[itemprop="name"]').attr("content") ||
     "";
 
-  // Poster (do NOT add size for TMDB; de-size WP thumbs)
   let poster = getImgSrc($("#single .sheader .poster img").first());
   poster = normalizeImageURL(toAbs(siteRoot, poster));
 
-  const networks = [];
-  $("#single .sheader .data .extra span a[rel='tag']").each((_, a) => {
-    const name = $(a).text().trim();
-    const href = toAbs(siteRoot, $(a).attr("href"));
-    if (name) networks.push({ name, url: href });
-  });
-
-  const firstAirDate =
-    $("#single .sheader .data .extra .date").first().text().trim() ||
-    $('#info .custom_fields:contains("First air date") .valor')
-      .first()
-      .text()
-      .trim() ||
-    "";
-
-  const ratingValue =
-    $(".starstruck-rating .dt_rating_vgs").first().text().trim() ||
-    $("#info .custom_fields:contains('TMDb Rating') .valor strong")
-      .first()
-      .text()
-      .trim() ||
-    "";
-  const ratingCount =
-    $(".starstruck-rating .rating-count").first().text().trim() || "";
-
-  const genres = [];
-  $("#single .sheader .data .sgeneros a[rel='tag']").each((_, a) => {
-    const name = $(a).text().trim();
-    const href = toAbs(siteRoot, $(a).attr("href"));
-    if (name) genres.push({ name, url: href });
-  });
-
   const synopsis = $("#info .wp-content").text().replace(/\s+\n/g, "\n").trim();
-
-  const gallery = [];
-  $("#info #dt_galery img, #info .galeria img").each((_, img) => {
-    const raw = getImgSrc($(img));
-    const abs = toAbs(siteRoot, raw);
-    const clean = normalizeImageURL(abs);
-    if (clean) gallery.push(clean);
-  });
 
   const seasons = [];
   $("#seasons .se-c").each((_, se) => {
     const $se = $(se);
-    const seasonNumberText =
-      $se.find(".se-q .se-t").first().text().trim() ||
-      $se.find(".se-q .se-t.se-o").first().text().trim() ||
-      "";
-    const seasonNumber = seasonNumberText
-      ? parseInt(seasonNumberText, 10)
-      : null;
+    const seasonNumberText = $se.find(".se-q .se-t").first().text().trim();
+    const seasonNumber = seasonNumberText ? parseInt(seasonNumberText, 10) : null;
     const seasonTitle = $se.find(".se-q .title").first().text().trim();
 
     const episodes = [];
@@ -205,81 +145,33 @@ function parsePage(html, pageUrl, siteRoot) {
         url: epUrl,
         airDate,
         thumbnail: thumb,
+        sources: [], // preload step will fill this
       });
     });
 
     if (seasonNumber !== null || episodes.length) {
-      seasons.push({
-        seasonNumber,
-        seasonTitle,
-        episodeCount: episodes.length,
-        episodes,
-      });
+      seasons.push({ seasonNumber, seasonTitle, episodes });
     }
-  });
-
-  const cast = [];
-  $("#cast .persons .person").each((_, person) => {
-    const $p = $(person);
-    const name =
-      $p.find(".data .name a").first().text().trim() ||
-      $p.find('meta[itemprop="name"]').attr("content") ||
-      "";
-    const role = $p.find(".data .caracter").first().text().trim();
-    const href = toAbs(siteRoot, $p.find(".data .name a").attr("href"));
-    const imgRaw = getImgSrc($p.find(".img img").first());
-    const img = normalizeImageURL(toAbs(siteRoot, imgRaw));
-    if (name) cast.push({ name, role, url: href || "", image: img || "" });
-  });
-
-  // Similar titles — be defensive
-  const similar = [];
-  const seen = new Set();
-  $("#single_relacionados .owl-item article a").each((_, a) => {
-    const href = toAbs(siteRoot, $(a).attr("href"));
-    if (!href || seen.has(href)) return;
-    const $img = $(a).find("img").first();
-    const thumbRaw = getImgSrc($img);
-    const thumb = normalizeImageURL(toAbs(siteRoot, thumbRaw));
-    let alt = ($img.attr("alt") || "").trim();
-    if (!alt && href) {
-      try {
-        const u = new URL(href);
-        const seg = u.pathname.split("/").filter(Boolean).pop() || "";
-        alt = seg.replace(/-/g, " ").replace(/\s+/g, " ").trim();
-      } catch {}
-    }
-    seen.add(href);
-    if (href)
-      similar.push({ title: alt || "", url: href, thumbnail: thumb || "" });
-  });
-
-  const infoFields = {};
-  $("#info .custom_fields").each((_, cf) => {
-    const key = $(cf).find(".variante").first().text().trim();
-    const val = $(cf).find(".valor").first().text().trim();
-    if (key) infoFields[key] = val;
   });
 
   return {
     ok: true,
     scrapedFrom: pageUrl,
-    meta: {
-      title,
-      poster,
-      networks,
-      genres,
-      firstAirDate,
-      ratingValue,
-      ratingCount,
-      synopsis,
-      infoFields,
-    },
+    meta: { title, poster, synopsis },
     seasons,
-    cast,
-    gallery,
-    similar,
   };
+}
+
+// ---- Preloader: fetch episode sources one by one ----
+async function preloadEpisodeSources(seasons, delay = 1200) {
+  for (const season of seasons) {
+    for (const ep of season.episodes) {
+      const srcs = await fetchSourcesFromVideo(ep.url);
+      ep.sources = srcs || [];
+      await new Promise((r) => setTimeout(r, delay)); // avoid crash
+    }
+  }
+  return seasons;
 }
 
 // ------- Handler -------
@@ -290,16 +182,10 @@ module.exports = async function handler(req, res) {
 
     let target = (q.url && String(q.url).trim()) || "";
 
-    // Support ?slug=Naruto
     if (!target) {
       const slugParam = q.slug ? String(q.slug) : "";
       if (!base) {
-        res.status(400).json({
-          ok: false,
-          cache: false,
-          error:
-            "Base URL missing. Provide BASE_URL env, src/baseurl.txt, or ?base= param.",
-        });
+        res.status(400).json({ ok: false, error: "Missing base or url" });
         return;
       }
       const origin = base.replace(/\/+$/, "");
@@ -308,7 +194,7 @@ module.exports = async function handler(req, res) {
         const section = (q.section && String(q.section)) || "tvshows";
         target = `${origin}/${section.replace(/^\/|\/$/g, "")}/${slug}/`;
       } else {
-        target = `${origin}/tvshows/a-couple-of-cuckoos/`;
+        target = `${origin}/tvshows/example-show/`;
       }
     }
 
@@ -317,33 +203,22 @@ module.exports = async function handler(req, res) {
       siteRoot = new URL(base || target).origin;
     } catch {}
 
-    // --- Cache Check ---
+    // --- Cache ---
     const now = Date.now();
     const cached = cacheStore.get(target);
     if (cached && cached.expiry > now) {
-      res.setHeader(
-        "cache-control",
-        "s-maxage=500, stale-while-revalidate=600"
-      );
+      res.setHeader("cache-control", "s-maxage=500, stale-while-revalidate=600");
       res.status(200).json({ ...cached.data, cache: true });
       return;
     }
 
     // --- Fetch + Parse ---
     const html = await fetchHTML(target);
-    const data = parsePage(html, target, siteRoot || target);
+    let data = parsePage(html, target, siteRoot || target);
 
-    // If it's a movie, fetch movie sources
-    if (/\/movies\//i.test(target)) {
-      const movieExtra = await fetchMovieSources(target);
-      if (movieExtra) {
-        data.views = movieExtra.views || null;
-        data.sources = movieExtra.sources || [];
-        data.options = movieExtra.options || [];
-      }
-    }
+    // Preload sources with delay to avoid crash
+    data.seasons = await preloadEpisodeSources(data.seasons, 1200);
 
-    // Save to cache for 500s
     cacheStore.set(target, { data, expiry: now + 500 * 1000 });
 
     res.setHeader("cache-control", "s-maxage=500, stale-while-revalidate=600");
@@ -352,7 +227,6 @@ module.exports = async function handler(req, res) {
     const dev = process.env.NODE_ENV !== "production";
     res.status(500).json({
       ok: false,
-      cache: false,
       error: err && err.message ? err.message : String(err),
       stack: dev ? err.stack : undefined,
     });
