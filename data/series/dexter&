@@ -1,0 +1,561 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/dexters-laboratory/",
+  "meta": {
+    "title": "Dexter\u2019s Laboratory",
+    "poster": "https://image.tmdb.org/t/p/w500/inJJn8lUPWdvdy2h259UnoHWVqC.jpg",
+    "networks": [
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/network/cartoon-network/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Sci-Fi & Fantasy",
+        "url": "https://multimovies.city/genre/sci-fi-fantasy/"
+      }
+    ],
+    "firstAirDate": "Apr. 28, 1996",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Dexter, a boy-genius with a secret laboratory, constantly battles his sister Dee Dee, who always gains access despite his best efforts to keep her out, as well as his arch-rival and neighbor, Mandark.",
+    "infoFields": {
+      "Original title": "Dexter's Laboratory",
+      "TMDb Rating": "7.6 674 votes",
+      "First air date": "Apr. 28, 1996",
+      "Last air date": "Nov. 20, 2003",
+      "Seasons": "4",
+      "Episodes": "221",
+      "Average Duration": "7 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Apr. 28, 1996",
+      "episodeCount": 36,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "DeeDeemensional",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x1/",
+          "airDate": "Apr. 28, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/aFlQIjFIpkaxbJyCQ2HzyCjCs42.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/qqayibiinn77",
+            "https://moonmov.pro/e/7tpzyboojpt7?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/jaap7whlq3t6?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.wf/e/r4pm86o8i5e8?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/zprwe6gmfgr8rod?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=ahkOohU2Ki"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Dial M for Monkey: Magmanamus",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x2/",
+          "airDate": "Apr. 28, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/kBTVs8TyQBfvIfYQMfs3GoITWz7.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/uj47t7r2z3ea",
+            "https://moonmov.pro/e/42g2d8gh7g0o?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/saxcspt1mvub?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.ws/e/q0pxg13c5a7n?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/j9g4q3xoixv6xz?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=xuwULCMeAt"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Maternal Combat",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x3/",
+          "airDate": "Apr. 28, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/n1BUlJf9hc8sPHqBA8HIWGIHSbv.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/cvio9rykanaf",
+            "https://moonmov.pro/e/ata20rhhrq3x?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/ikhcacjo6up0?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.ws/e/p1r8cb73azx4?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/3nx17jo6c0ngeq?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=QVKXtUlakz"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Dexter Dodgeball",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x4/",
+          "airDate": "May. 05, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/rL0frjX7ut7EM5Fy130MCMmnGVz.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/od1ihwp1kmk7",
+            "https://moonmov.pro/e/svku58zrar5k?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/0beziyja6m6p?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.ws/e/3j4wqblxprj8?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/0vw9lo3kc8e4j9?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=cpzahcjfw_"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Dial M for Monkey: Rasslor",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x5/",
+          "airDate": "May. 05, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/ghUGQRFcMyjlXc09W215YYU0Kr1.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/tm8k0w1l5yfp",
+            "https://moonmov.pro/e/mct942xbxgs4?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/8n1mrn20u7qs?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.ws/e/78c7iu0pobwf?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/1v8eop9milm167?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=B8Rc6Gb0E"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Dexter's Assistant",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x6/",
+          "airDate": "May. 05, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/e5yOQMhS2eG5vEv2i5z9BWcpxbd.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/humr0l02j3ls",
+            "https://moonmov.pro/e/wyb3mq36677o?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/fcmsjpyu0mob?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.ws/e/yq992swd3pk1?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/9n0xk831an4738?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=YaAVsmiLr8Z"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Dexter's Rival",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x7/",
+          "airDate": "May. 12, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/5Y8hN8CM5pDFg3tGads2npddadg.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/8zmj2midymnl",
+            "https://moonmov.pro/e/zzfv0w1m1kpf?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/bpkppp1q4o9c?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.ws/e/y2qm2iiqj9f9?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/0vw9lqz4ajj7zx?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=qJhp7-OYgO"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Dial M for Monkey: Simion",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x8/",
+          "airDate": "May. 12, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/8bmWeu11UrtNg23IlCYTwXNONme.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/sf4eljibny8f",
+            "https://moonmov.pro/e/42l8zhqw0uxu?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/anork7dl501l?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.ws/e/s327cul8r9uf?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/l6rnzmdgfvq40w?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=qvVPFQY9W4"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Old Man Dexter",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x9/",
+          "airDate": "May. 12, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/dHpX2AteWiLikXODf5w4qxnCO6o.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/7uxaviudjblq",
+            "https://moonmov.pro/e/pd4fi67rhsr1?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/gppgbz942qez?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.ws/e/t3obs66rxhnj?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/vnrkd0qvfepq4g?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=D9aF8QMO1D"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "Double Trouble",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x10/",
+          "airDate": "May. 19, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/pThAeMFXAdpw32weg43RQ1r52o3.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/i9qxuh8wxi4d",
+            "https://moonmov.pro/e/5eut30w0vbp7?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/14nnz9pygv4a?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.ws/e/z6lnvrse1hx2?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/6qgp6x93s6rerr?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=yzzp6TnciB"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Dial M for Monkey: Barbequor",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x11/",
+          "airDate": "May. 19, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/xX7mYer0E4vdOv8PPd7wAmvHN3t.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/p81ucgx1clos",
+            "https://moonmov.pro/e/od7iam91fd0x?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/t7g7uaj3vwxo?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.ws/e/mfe7ztir44sp?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/xo6lver0uw6wwq?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=5gJHQN0BI"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Dexter's Laboratory",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x12/",
+          "airDate": "May. 19, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/oDVeXVeRBmq1wl5lqXXf29FPnME.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/xami2zxt6rr2",
+            "https://moonmov.pro/e/33cphg1x6s7g?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/orl8qz75t4dj?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.ws/e/b4miozfj1atu?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/knrw31pgtldgpe?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=_SqCYeXT_r"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Jurassic Pooch",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x13/",
+          "airDate": "May. 26, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/jo92FYnpQaGGrsgSoZrJgVqujnZ.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/hs0rxdriofoq",
+            "https://moonmov.pro/e/uqqdf4q7bpmm?sub.info=https://sub.membed.net/sub&c1_label=English",
+            "https://sbnet.one/e/srjzpk1txrhc?caption_1=https://sub.membed.net/sub&sub_1=English",
+            "https://dood.wf/e/2vv92goikt4p?c1_file=https://sub.membed.net/sub&c1_label=English",
+            "https://mixdrop.co/e/9n0w8me4spd919?sub1=https://sub.membed.net/sub&sub1_label=English",
+            "https://hydrax.net/watch?v=KG2IKq55CT"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 14,
+          "title": "Dial M For Monkey: Orgon Grindor",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x14/",
+          "airDate": "May. 26, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/2aIXV6uE3XIQhI0WxNbIpYALeOS.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/zvodm0jbw628"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 15,
+          "title": "Dimwit Dexter",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x15/",
+          "airDate": "May. 26, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/zysotQN61NVYsEigIdB9AJl3uQS.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/zkydvsoa7je3"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 16,
+          "title": "Dee Dee's Room",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x16/",
+          "airDate": "Jun. 02, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/78PW3ZhPiXJymApr1r4K7UyX7WH.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/via1liyqu77u"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 17,
+          "title": "Dial M For Monkey: Huntor",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x17/",
+          "airDate": "Jun. 02, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/2FVfA3q4CaaB1C5xaF1SwU9oWuP.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/sc0pok19m7kb"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 18,
+          "title": "The Big Sister",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x18/",
+          "airDate": "Jun. 02, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/iK7rv9woa9aeN10pnRACFhiqTKj.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/3iu3phx2nocl"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 19,
+          "title": "Star Spangled Sidekicks",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x19/",
+          "airDate": "Nov. 20, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/4heqYscwdkcf3gJmhcVH9sq1TfW.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/64t6eifcafjo"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 20,
+          "title": "The Justice Friends: TV Super Pals",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x20/",
+          "airDate": "Nov. 20, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/dVjg4GXEBuQ7faJKvFxqOr1XTva.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/px8hpxx83b2s"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 21,
+          "title": "Game Over",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x21/",
+          "airDate": "Nov. 20, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/dGMB8lc6qBVybwprzibm0ZQnC74.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/ea8i980lj7dx"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 22,
+          "title": "Babysitter Blues",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x22/",
+          "airDate": "Nov. 27, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/93I6U0ZQCDnVzvuisytzQfh3g0G.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/m4rxhqfbkufs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 23,
+          "title": "The Justice Friends: Valhallen's Room",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x23/",
+          "airDate": "Nov. 27, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/3OpugTE8CqfQoRg3o0fDdBOa44W.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/1r5vlwsuonol"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 24,
+          "title": "Dream Machine",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x24/",
+          "airDate": "Nov. 27, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/mpb7NsRfGzAxNFBKaI3BzNZirtH.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/wqw6ho6j0hin"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 25,
+          "title": "Dollhouse Drama",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x25/",
+          "airDate": "Dec. 04, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/c1N3TUkbOWHffUCPvqpkWAVYI4P.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/jwwbkhm854ft"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 26,
+          "title": "The Justice Friends: Krunk's Date",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x26/",
+          "airDate": "Dec. 04, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/72X9e22NxIvTNXPdKHpi83FYwD4.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/weboi1bk62yx"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 27,
+          "title": "The Big Cheese",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x27/",
+          "airDate": "Dec. 04, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/1OWaUHQP1JxfrHVEq7p5LmHthgS.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/e7td9dmqg5vt"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 29,
+          "title": "The Justice Friends: Say Uncle Sam",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x29/",
+          "airDate": "Dec. 11, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/7gtpUPcT9y0kfzH4mCuW1tIVJGa.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/24i5so2pqljs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 30,
+          "title": "Tribe Called Girl",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x30/",
+          "airDate": "Dec. 11, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/tttnmeGpYQZPPcsPRgbalYK9rUM.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/24i5so2pqljs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 31,
+          "title": "Spacecase",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x31/",
+          "airDate": "Dec. 18, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/2bYa0fOG5dsUcI6a9kSIqaPmHdY.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/ik54kunz0pol"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 32,
+          "title": "The Justice Friends: Ratman",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x32/",
+          "airDate": "Dec. 18, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/5zcuiuZIJ6s4hi1sbBcMDMeklE8.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/7ntcd9qun2od"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 33,
+          "title": "Dexter's Debt",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x33/",
+          "airDate": "Dec. 18, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/oCoP5IbQPBgzqNRFF483Njqvkhy.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/hlq37d8hudch"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 34,
+          "title": "The Justice Friends: Bee Where?",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x34/",
+          "airDate": "Dec. 25, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/6Ekya2PxE0AAUnpZ72VQGkept0r.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/xi6etgrn9ygf"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 35,
+          "title": "Mandarker",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x35/",
+          "airDate": "Dec. 25, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/dJZyOAwqCTZUYE51af0VeqKADgJ.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/zwbq3ej82jys"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 36,
+          "title": "Inflata Dee Dee",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x36/",
+          "airDate": "Jan. 01, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/cjBknUBHaVDsiuug7P14IqKOlaY.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/93dxh7bzbfua"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 37,
+          "title": "The Justice Friends: Can't Nap",
+          "url": "https://multimovies.city/episodes/dexters-laboratory-1x37/",
+          "airDate": "Jan. 01, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/05/jDdShUDgoiOEPa45Az9h76G9iny.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/m0fjf2c0a9re"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Genndy Tartakovsky",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/genndy-tartakovsky/",
+      "image": "https://image.tmdb.org/t/p/w92/9zDGQgvPopxcPWCelOfXZfpffqi.jpg"
+    },
+    {
+      "name": "Candi Milo",
+      "role": "Dexter (voice)",
+      "url": "https://multimovies.city/cast/candi-milo/",
+      "image": "https://image.tmdb.org/t/p/w92/fCgxSGGGF6m8YhrIE7Irs1ueh3W.jpg"
+    },
+    {
+      "name": "Kat Cressida",
+      "role": "Dee Dee (voice)",
+      "url": "https://multimovies.city/cast/kat-cressida/",
+      "image": "https://image.tmdb.org/t/p/w92/np4jO1Qdv5Ch6DuFeWy8ZYolQQl.jpg"
+    },
+    {
+      "name": "Jeff Bennett",
+      "role": "Dad (voice)",
+      "url": "https://multimovies.city/cast/jeff-bennett/",
+      "image": "https://image.tmdb.org/t/p/w92/p78svoOr99IA2oBOUzAH9cnPOwf.jpg"
+    },
+    {
+      "name": "Kath Soucie",
+      "role": "Mom (voice)",
+      "url": "https://multimovies.city/cast/kath-soucie/",
+      "image": "https://image.tmdb.org/t/p/w92/62hvT4USvGa9OAsMP9guIBtJqkf.jpg"
+    },
+    {
+      "name": "Eddie Deezen",
+      "role": "Mandark (voice)",
+      "url": "https://multimovies.city/cast/eddie-deezen/",
+      "image": "https://image.tmdb.org/t/p/w92/AqjxoV14Jd3p5uvPsSPoAHmzQHI.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/yqKI437ohJAF9EQYkPYH0PTBDEt.jpg",
+    "https://image.tmdb.org/t/p/w300/cXMsXNbuIImFmHeWttW60cV1IMB.jpg",
+    "https://image.tmdb.org/t/p/w300/r98ZfA1CGbLzUnBxm5nHVlMfvvt.jpg",
+    "https://image.tmdb.org/t/p/w300/ec04M36HKCokAsdJWqx18uKRzoP.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
