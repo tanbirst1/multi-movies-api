@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/doraemon-nobitas-little-star-wars/",
+  "meta": {
+    "title": "Doraemon: Nobita\u2019s Little Star Wars",
+    "poster": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/genre/disney-channel/"
+      },
+      {
+        "name": "Doraemon Movies",
+        "url": "https://multimovies.city/genre/doraemon/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Mar. 16, 1985",
+    "ratingValue": "8",
+    "ratingCount": "7",
+    "synopsis": "Papi, the tiny president of a faraway planet, escapes to Earth to avoid being captured by the military forces that took over. Despite being welcomed by Doraemon, Nobita and their friends, the little alien notices that his enemies have also reached this world and doesn\u2019t want to get his human friends involved in this war. Doraemon, Nobita, Gian, Suneo, and Shizuka start a big adventure as they try to hide and protect Papi.",
+    "infoFields": {
+      "Original title": "\u6620\u753b \u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u306e\u5b87\u5b99\u5c0f\u6226\u4e89",
+      "IMDb Rating": "7.2 775 votes",
+      "TMDb Rating": "6.7 38 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tsutomu Shibayama",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tsutomu-shibayama/",
+      "image": "https://image.tmdb.org/t/p/w92/9xHbjsmKMduBQqAEmBE02gMHNAl.jpg"
+    },
+    {
+      "name": "Nobuyo Oyama",
+      "role": "Doraemon (voice) (as Nobuyo Ooyama)",
+      "url": "https://multimovies.city/cast/nobuyo-oyama/",
+      "image": "https://image.tmdb.org/t/p/w92/x2363EzijCCE3dpKcOHilX73MSI.jpg"
+    },
+    {
+      "name": "Noriko Ohara",
+      "role": "Nobita Nobi (voice) (as Noriko Oohara)",
+      "url": "https://multimovies.city/cast/noriko-ohara/",
+      "image": "https://image.tmdb.org/t/p/w92/u5dvWzckBXvZw8Oexn5VN08vW7G.jpg"
+    },
+    {
+      "name": "Kazuya Tatekabe",
+      "role": "Takeshi G\u00f4da (voice)",
+      "url": "https://multimovies.city/cast/kazuya-tatekabe/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kaneta Kimotsuki",
+      "role": "Suneo Honekawa (voice)",
+      "url": "https://multimovies.city/cast/kaneta-kimotsuki/",
+      "image": "https://image.tmdb.org/t/p/w92/gzNyG0KgQs4eMqVB4mD8XKGrb2N.jpg"
+    },
+    {
+      "name": "Michiko Nomura",
+      "role": "Shizuka Minamoto (voice)",
+      "url": "https://multimovies.city/cast/michiko-nomura/",
+      "image": "https://image.tmdb.org/t/p/w92/u4aVFRfu91gxI59XETf9oMnQBrz.jpg"
+    },
+    {
+      "name": "Sachiko Chijimatsu",
+      "role": "Nobita's mother (voice)",
+      "url": "https://multimovies.city/cast/sachiko-chijimatsu/",
+      "image": "https://image.tmdb.org/t/p/w92/dvbUCXa6Umz1iZYEYbxohwzFyj7.jpg"
+    },
+    {
+      "name": "Dai Kanai",
+      "role": "",
+      "url": "https://multimovies.city/cast/dai-kanai/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Keiko Han",
+      "role": "",
+      "url": "https://multimovies.city/cast/keiko-han/",
+      "image": "https://image.tmdb.org/t/p/w92/7fi4oxXVJJJnyZMwcud1Yzq8Re0.jpg"
+    },
+    {
+      "name": "Yuji Mitsuya",
+      "role": "",
+      "url": "https://multimovies.city/cast/yuji-mitsuya/",
+      "image": "https://image.tmdb.org/t/p/w92/6IguUqrirpkZZSwEkbxrlVMRsEV.jpg"
+    },
+    {
+      "name": "Yusaku Yara",
+      "role": "",
+      "url": "https://multimovies.city/cast/yusaku-yara/",
+      "image": "https://image.tmdb.org/t/p/w92/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/dUkCHy02dtFWQwyCKQKlf1sRm0D.jpg"
+  ],
+  "similar": [],
+  "views": 9043,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/mzcojtb"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11060,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
