@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/entrapment/",
+  "meta": {
+    "title": "Entrapment",
+    "poster": "https://image.tmdb.org/t/p/w500/onEHQY4M22CluNfocJRGsVg0dK6.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Apr. 29, 1999",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Two thieves, who travel in elegant circles, try to outsmart each other and, in the process, end up falling in love.",
+    "infoFields": {
+      "Original title": "Entrapment",
+      "IMDb Rating": "6.3 125,692 votes",
+      "TMDb Rating": "6.219 1,986 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jon Amiel",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jon-amiel/",
+      "image": "https://image.tmdb.org/t/p/w92/tZf4VLvFobxizCzDQ6xQdygGT9.jpg"
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "role": "Virginia \"Gin\" Baker",
+      "url": "https://multimovies.city/cast/catherine-zeta-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+    },
+    {
+      "name": "Sean Connery",
+      "role": "Robert \"Mac\" MacDougal",
+      "url": "https://multimovies.city/cast/sean-connery/",
+      "image": "https://image.tmdb.org/t/p/w92/9jjNqiQqSp2QbMxZZ5PEurwYD0t.jpg"
+    },
+    {
+      "name": "Will Patton",
+      "role": "Hector Cruz",
+      "url": "https://multimovies.city/cast/will-patton/",
+      "image": "https://image.tmdb.org/t/p/w92/rrZcIMtqnQc0LoU9od5lcoOcywv.jpg"
+    },
+    {
+      "name": "Maury Chaykin",
+      "role": "Conrad Greene",
+      "url": "https://multimovies.city/cast/maury-chaykin/",
+      "image": "https://image.tmdb.org/t/p/w92/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg"
+    },
+    {
+      "name": "Ving Rhames",
+      "role": "Aaron Thibadeaux",
+      "url": "https://multimovies.city/cast/ving-rhames/",
+      "image": "https://image.tmdb.org/t/p/w92/4gpLVNKPZlVucc4fT2fSZ7DksTK.jpg"
+    },
+    {
+      "name": "Kevin McNally",
+      "role": "Haas",
+      "url": "https://multimovies.city/cast/kevin-mcnally/",
+      "image": "https://image.tmdb.org/t/p/w92/1QvG7MbfeWxb4LlZrlR4OtwvB8v.jpg"
+    },
+    {
+      "name": "Terry O'Neill",
+      "role": "Quinn",
+      "url": "https://multimovies.city/cast/terry-oneill/",
+      "image": "https://image.tmdb.org/t/p/w92/fTXu5CxUCS3M9aPbRldEaGer9AF.jpg"
+    },
+    {
+      "name": "Madhav Sharma",
+      "role": "Security Chief",
+      "url": "https://multimovies.city/cast/madhav-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/qspAb0s1mNVTkf467IjO6kD6d6O.jpg"
+    },
+    {
+      "name": "David Yip",
+      "role": "Chief of Police",
+      "url": "https://multimovies.city/cast/david-yip/",
+      "image": "https://image.tmdb.org/t/p/w92/rKgB9YklJzhD98DbbOzGnts5s7C.jpg"
+    },
+    {
+      "name": "Tim Potter",
+      "role": "Millennium Man",
+      "url": "https://multimovies.city/cast/tim-potter/",
+      "image": "https://image.tmdb.org/t/p/w92/f3gw6qnb3O2LEu5Og7WIgsflMrI.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/rsV4f4dzHyJIZ3WGNykh7K2WMHZ.jpg",
+    "https://image.tmdb.org/t/p/w300/dATdQRgxEcXzLewWNGrjxdNg8wP.jpg",
+    "https://image.tmdb.org/t/p/w300/bItb7bw9mb3ZvdMnoD9m7P34xqn.jpg",
+    "https://image.tmdb.org/t/p/w300/8Dqrd3ilHN8nrdBwUtY0El4MZAj.jpg",
+    "https://image.tmdb.org/t/p/w300/AqAeQYCce4Y6x03CN1XSaIaEPwj.jpg",
+    "https://image.tmdb.org/t/p/w300/oKN3QvefVl8NlBDpdSGrWQ5LmQx.jpg",
+    "https://image.tmdb.org/t/p/w300/aAWzh0GEeZXsYfeSKYp7j8wYdmG.jpg",
+    "https://image.tmdb.org/t/p/w300/juh42oBBD6mvWiYn9wtqigIqAw0.jpg",
+    "https://image.tmdb.org/t/p/w300/2LoZ01menSTpgC9tnWr2RNhfMaB.jpg",
+    "https://image.tmdb.org/t/p/w300/hdpdLzYpkmIjc7nV4kOaQNSIsry.jpg"
+  ],
+  "similar": [],
+  "views": 1541,
+  "sources": [
+    "https://www.youtube.com/embed/LFSpRNtxd8I?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/wgruc29"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 68571,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 68571,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
