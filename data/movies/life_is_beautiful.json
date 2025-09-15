@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/life-is-beautiful/",
+  "meta": {
+    "title": "Life Is Beautiful",
+    "poster": "https://image.tmdb.org/t/p/w500/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 20, 1997",
+    "ratingValue": "5.3",
+    "ratingCount": "3",
+    "synopsis": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+    "infoFields": {
+      "Original title": "La vita \u00e8 bella",
+      "IMDb Rating": "8.6 726,494 votes",
+      "TMDb Rating": "8.455 12,322 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Roberto Benigni",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roberto-benigni/",
+      "image": "https://image.tmdb.org/t/p/w92/noelOhwX1oaNSvU9NLKhPrHTFI3.jpg"
+    },
+    {
+      "name": "Roberto Benigni",
+      "role": "Guido Orefice",
+      "url": "https://multimovies.city/cast/roberto-benigni/",
+      "image": "https://image.tmdb.org/t/p/w92/noelOhwX1oaNSvU9NLKhPrHTFI3.jpg"
+    },
+    {
+      "name": "Nicoletta Braschi",
+      "role": "Dora",
+      "url": "https://multimovies.city/cast/nicoletta-braschi/",
+      "image": "https://image.tmdb.org/t/p/w92/9IeE3Iz9HXZVTrvhjSCKlR4FLxB.jpg"
+    },
+    {
+      "name": "Giorgio Cantarini",
+      "role": "Giosu\u00e9 Orefice",
+      "url": "https://multimovies.city/cast/giorgio-cantarini/",
+      "image": "https://image.tmdb.org/t/p/w92/hzb7CRUnOitz31kQbgUqJpIPcLO.jpg"
+    },
+    {
+      "name": "Giustino Durano",
+      "role": "Eliseo Orefice",
+      "url": "https://multimovies.city/cast/giustino-durano/",
+      "image": "https://image.tmdb.org/t/p/w92/o302wA8DHLHDLhTXOF5wEi3C99G.jpg"
+    },
+    {
+      "name": "Sergio Bini Bustric",
+      "role": "Ferruccio",
+      "url": "https://multimovies.city/cast/sergio-bini-bustric/",
+      "image": "https://image.tmdb.org/t/p/w92/crnlLn1SxP2LqbsXNr8CQrvaiNc.jpg"
+    },
+    {
+      "name": "Lidia Alfonsi",
+      "role": "Signora Guicciardini",
+      "url": "https://multimovies.city/cast/lidia-alfonsi/",
+      "image": "https://image.tmdb.org/t/p/w92/85BrcBOeIcfV9XkV523wN0VGNRR.jpg"
+    },
+    {
+      "name": "Giuliana Lojodice",
+      "role": "Direttrice",
+      "url": "https://multimovies.city/cast/giuliana-lojodice/",
+      "image": "https://image.tmdb.org/t/p/w92/cACsY8JyWaR3WeX7w1D09YssXbq.jpg"
+    },
+    {
+      "name": "Amerigo Fontani",
+      "role": "Rodolfo",
+      "url": "https://multimovies.city/cast/amerigo-fontani/",
+      "image": "https://image.tmdb.org/t/p/w92/uRQn3gGNPGQzG6XNli1b1TiEu6G.jpg"
+    },
+    {
+      "name": "Pietro De Silva",
+      "role": "Bartolomeo",
+      "url": "https://multimovies.city/cast/pietro-de-silva/",
+      "image": "https://image.tmdb.org/t/p/w92/tjP3YLGB3VNtqNgqGmLjZbJENzG.jpg"
+    },
+    {
+      "name": "Francesco Guzzo",
+      "role": "Vittorino",
+      "url": "https://multimovies.city/cast/francesco-guzzo/",
+      "image": "https://image.tmdb.org/t/p/w92/8HSTZitD85LIqOOhpTepILHyxW2.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+    "https://image.tmdb.org/t/p/w300/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+    "https://image.tmdb.org/t/p/w300/zKxoWuWnmO7rLBhqOfM2RxAMfpC.jpg",
+    "https://image.tmdb.org/t/p/w300/16vxMSVICZmXucbglF2I5zfukvm.jpg",
+    "https://image.tmdb.org/t/p/w300/r3XyIsh9nYW7v9Qt51NZ55J3jxQ.jpg",
+    "https://image.tmdb.org/t/p/w300/rIt6ON5s9lAFhkCPU7mVwENNFfE.jpg",
+    "https://image.tmdb.org/t/p/w300/4G3V64uM9ZdxWOWozJMGPr5Mrwn.jpg",
+    "https://image.tmdb.org/t/p/w300/uPhy27HEw7OKNY9DGh1ddNMC9MR.jpg",
+    "https://image.tmdb.org/t/p/w300/qlcleVEGvECQfFb9gQB8Pjs73OY.jpg",
+    "https://image.tmdb.org/t/p/w300/l5sIjKBTXp7rhfALluUtET396yQ.jpg"
+  ],
+  "similar": [],
+  "views": 2365,
+  "sources": [
+    "https://www.youtube.com/embed/pAYEQP8gx3w?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/zaow15oub4sz"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 34246,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 34246,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
