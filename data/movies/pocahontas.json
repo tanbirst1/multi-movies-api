@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/pocahontas/",
+  "meta": {
+    "title": "Pocahontas",
+    "poster": "https://image.tmdb.org/t/p/w500/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 14, 1995",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Pocahontas, daughter of a Native American tribe chief, falls in love with an English soldier as colonists invade 17th century Virginia.",
+    "infoFields": {
+      "Original title": "Pocahontas",
+      "IMDb Rating": "6.7 196,505 votes",
+      "TMDb Rating": "6.926 5,266 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mike Gabriel",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mike-gabriel/",
+      "image": "https://image.tmdb.org/t/p/w92/yiPCSJTTssKcZt8xHeWMcFIeKxL.jpg"
+    },
+    {
+      "name": "Irene Bedard",
+      "role": "Pocahontas (voice)",
+      "url": "https://multimovies.city/cast/irene-bedard/",
+      "image": "https://image.tmdb.org/t/p/w92/nCm5940cLixwcSoB5kIqLAKNmGL.jpg"
+    },
+    {
+      "name": "Mel Gibson",
+      "role": "John Smith (voice)",
+      "url": "https://multimovies.city/cast/mel-gibson/",
+      "image": "https://image.tmdb.org/t/p/w92/oSOYCghY3XcXBYqMA0fsEi8WKaa.jpg"
+    },
+    {
+      "name": "David Ogden Stiers",
+      "role": "Governor Ratcliffe (voice)",
+      "url": "https://multimovies.city/cast/david-ogden-stiers/",
+      "image": "https://image.tmdb.org/t/p/w92/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+    },
+    {
+      "name": "John Kassir",
+      "role": "Meeko (voice)",
+      "url": "https://multimovies.city/cast/john-kassir/",
+      "image": "https://image.tmdb.org/t/p/w92/byj6Px0tLcqRFWIJYUxstg25Qd2.jpg"
+    },
+    {
+      "name": "Christian Bale",
+      "role": "Thomas (voice)",
+      "url": "https://multimovies.city/cast/christian-bale/",
+      "image": "https://image.tmdb.org/t/p/w92/AcfW3p5D6ov573fABLyGqwYdolD.jpg"
+    },
+    {
+      "name": "Judy Kuhn",
+      "role": "Pocahontas (singing voice)",
+      "url": "https://multimovies.city/cast/judy-kuhn/",
+      "image": "https://image.tmdb.org/t/p/w92/93jiBKWe4A8Q4ndmThL3Sk74eI6.jpg"
+    },
+    {
+      "name": "Billy Connolly",
+      "role": "Ben (voice)",
+      "url": "https://multimovies.city/cast/billy-connolly/",
+      "image": "https://image.tmdb.org/t/p/w92/imqsEA1EPet7OvHx80VfTYfFcWf.jpg"
+    },
+    {
+      "name": "Frank Welker",
+      "role": "Flit (voice)",
+      "url": "https://multimovies.city/cast/frank-welker/",
+      "image": "https://image.tmdb.org/t/p/w92/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "name": "Russell Means",
+      "role": "Powhatan (voice)",
+      "url": "https://multimovies.city/cast/russell-means/",
+      "image": "https://image.tmdb.org/t/p/w92/5qBgrr6eror0bEene4LthnjUFnT.jpg"
+    },
+    {
+      "name": "Linda Hunt",
+      "role": "Grandmother Willow (voice)",
+      "url": "https://multimovies.city/cast/linda-hunt/",
+      "image": "https://image.tmdb.org/t/p/w92/leiVNArKBQTmE5ROovNJWiW9kfk.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9YAVIwBcBrLXeukg2dgMGfYB1uu.jpg",
+    "https://image.tmdb.org/t/p/w300/ua5vKTeSvqnKVW4zb0W82Jt9cMt.jpg",
+    "https://image.tmdb.org/t/p/w300/dm6NraLaLOCvGfzYPl7puMvvxfr.jpg",
+    "https://image.tmdb.org/t/p/w300/jYuEb9XVGixJpz2D1DxPAjDXAic.jpg",
+    "https://image.tmdb.org/t/p/w300/sI8k30U5IW8rKbKC4cXYa18lpWl.jpg",
+    "https://image.tmdb.org/t/p/w300/rvdOC5EiNmNWx0hTPAqwmouvWhD.jpg",
+    "https://image.tmdb.org/t/p/w300/lix5vtgbsXasgGiOBjySIc6wXhu.jpg",
+    "https://image.tmdb.org/t/p/w300/yJzeQuLz9KNPTuVdKV73JBcQnBR.jpg",
+    "https://image.tmdb.org/t/p/w300/tJ5vf5rzSL5NarZLijSVdKTYm8O.jpg",
+    "https://image.tmdb.org/t/p/w300/mdA03oyxjBlTaFpoKBJSrTijYjx.jpg"
+  ],
+  "similar": [],
+  "views": 505,
+  "sources": [
+    "https://www.youtube.com/embed/mf0JmiI7NXY?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/qemr7kh2v31e"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 29540,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 29540,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
