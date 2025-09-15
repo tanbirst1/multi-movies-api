@@ -1,0 +1,150 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hercules/",
+  "meta": {
+    "title": "Hercules",
+    "poster": "https://image.tmdb.org/t/p/w500/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 13, 1997",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who\u2019s plotting to take over Mount Olympus!",
+    "infoFields": {
+      "Original title": "Hercules",
+      "IMDb Rating": "7.3 262,236 votes",
+      "TMDb Rating": "7.503 7,387 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ron Clements",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ron-clements/",
+      "image": "https://image.tmdb.org/t/p/w92/u9k9yg2EGlDsxYo3ehf35yRUfcD.jpg"
+    },
+    {
+      "name": "Tate Donovan",
+      "role": "Hercules (voice)",
+      "url": "https://multimovies.city/cast/tate-donovan/",
+      "image": "https://image.tmdb.org/t/p/w92/vrL5JtbJHtA9HixBGf05LEgXoyF.jpg"
+    },
+    {
+      "name": "Josh Keaton",
+      "role": "Young Hercules (voice)",
+      "url": "https://multimovies.city/cast/josh-keaton/",
+      "image": "https://image.tmdb.org/t/p/w92/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg"
+    },
+    {
+      "name": "Roger Bart",
+      "role": "Young Hercules (singing voice)",
+      "url": "https://multimovies.city/cast/roger-bart/",
+      "image": "https://image.tmdb.org/t/p/w92/cliL3nZpi0di8wkNK9VBznd99lg.jpg"
+    },
+    {
+      "name": "Danny DeVito",
+      "role": "Philoctetes (voice)",
+      "url": "https://multimovies.city/cast/danny-devito/",
+      "image": "https://image.tmdb.org/t/p/w92/gNHF2SNXFFCRqwIQ2Xv6r6aV6UD.jpg"
+    },
+    {
+      "name": "James Woods",
+      "role": "Hades (voice)",
+      "url": "https://multimovies.city/cast/james-woods/",
+      "image": "https://image.tmdb.org/t/p/w92/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg"
+    },
+    {
+      "name": "Susan Egan",
+      "role": "Meg (voice)",
+      "url": "https://multimovies.city/cast/susan-egan/",
+      "image": "https://image.tmdb.org/t/p/w92/kJnBjeUAQqc9LbPaoqs1khGedUi.jpg"
+    },
+    {
+      "name": "Bobcat Goldthwait",
+      "role": "Pain (voice)",
+      "url": "https://multimovies.city/cast/bobcat-goldthwait/",
+      "image": "https://image.tmdb.org/t/p/w92/dvx9ykvmZnpLJhXqdMx3rF00Mx7.jpg"
+    },
+    {
+      "name": "Matt Frewer",
+      "role": "Panic (voice)",
+      "url": "https://multimovies.city/cast/matt-frewer/",
+      "image": "https://image.tmdb.org/t/p/w92/5yQeoDfwsSOnO8H2g8UjPLg6buG.jpg"
+    },
+    {
+      "name": "Rip Torn",
+      "role": "Zeus (voice)",
+      "url": "https://multimovies.city/cast/rip-torn/",
+      "image": "https://image.tmdb.org/t/p/w92/s0nJ15nXGoMAGa3TH6oxlFDzVD6.jpg"
+    },
+    {
+      "name": "Samantha Eggar",
+      "role": "Hera (voice)",
+      "url": "https://multimovies.city/cast/samantha-eggar/",
+      "image": "https://image.tmdb.org/t/p/w92/Vbk8DHrsowKNG5wWuFzKOk26OR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/fJ5eT1ARwNUvsjmZKVbp6Qt3f7W.jpg",
+    "https://image.tmdb.org/t/p/w300/26FT7NBKiGvWJBB3VG9i72LnI8S.jpg",
+    "https://image.tmdb.org/t/p/w300/cs1XmakkJNWxIy32p54dS9xW44W.jpg",
+    "https://image.tmdb.org/t/p/w300/lefBKyjbn23keheoQY2wpRjIjeu.jpg",
+    "https://image.tmdb.org/t/p/w300/g6aq2MXg10CAHDrTzkLY46tFSuG.jpg",
+    "https://image.tmdb.org/t/p/w300/px50U3cejnKGKeNOVfHdhHBAmk3.jpg",
+    "https://image.tmdb.org/t/p/w300/b3k4oATbjbM8oxGvxoJ2K7WZsAw.jpg",
+    "https://image.tmdb.org/t/p/w300/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg",
+    "https://image.tmdb.org/t/p/w300/aOPBIq2kl8RmhowshheqI4M77X7.jpg",
+    "https://image.tmdb.org/t/p/w300/4RmN3CdbeqoLANho8ehJGA5Jinx.jpg"
+  ],
+  "similar": [],
+  "views": 1263,
+  "sources": [
+    "https://www.youtube.com/embed/_5Z8TXX9Ahs?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ftzvw1g"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 13012,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 13012,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
