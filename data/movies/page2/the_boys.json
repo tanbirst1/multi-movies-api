@@ -1,0 +1,509 @@
+{
+  "meta": {
+    "title": "The Boys",
+    "poster": "https://multimovies.city/wp-content/uploads/2024/06/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "networks": [
+      {
+        "name": "Amazon",
+        "url": "https://multimovies.city/network/amazon/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Amazon Prime",
+        "url": "https://multimovies.city/genre/amazon-prime/"
+      },
+      {
+        "name": "Sci-Fi & Fantasy",
+        "url": "https://multimovies.city/genre/sci-fi-fantasy/"
+      }
+    ],
+    "firstAirDate": "Jul. 25, 2019",
+    "ratingValue": "9.1",
+    "ratingCount": "142",
+    "synopsis": "A group of vigilantes known informally as \u201cThe Boys\u201d set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+    "infoFields": {
+      "Original title": "The Boys",
+      "TMDb Rating": "8.457 11,018 votes",
+      "First air date": "Jul. 25, 2019",
+      "Last air date": "Jul. 18, 2024",
+      "Seasons": "5",
+      "Episodes": "33"
+    }
+  },
+  "cast": [
+    {
+      "name": "Eric Kripke",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/eric-kripke/",
+      "image": "https://image.tmdb.org/t/p/w92/dd7EgfOEKPqQxWtBfAvjYZahbSc.jpg"
+    },
+    {
+      "name": "Karl Urban",
+      "role": "Billy Butcher",
+      "url": "https://multimovies.city/cast/karl-urban/",
+      "image": "https://image.tmdb.org/t/p/w92/bsAnEFgVm5kn8DbBZKfnlLNll89.jpg"
+    },
+    {
+      "name": "Jack Quaid",
+      "role": "Hughie Campbell",
+      "url": "https://multimovies.city/cast/jack-quaid/",
+      "image": "https://image.tmdb.org/t/p/w92/nI6ULvUIxxajya5DeTxcCdV3cal.jpg"
+    },
+    {
+      "name": "Antony Starr",
+      "role": "Homelander",
+      "url": "https://multimovies.city/cast/antony-starr/",
+      "image": "https://image.tmdb.org/t/p/w92/efqC1XQSyHaRWYyTRWCQbbPOfRC.jpg"
+    },
+    {
+      "name": "Erin Moriarty",
+      "role": "Annie January / Starlight",
+      "url": "https://multimovies.city/cast/erin-moriarty/",
+      "image": "https://image.tmdb.org/t/p/w92/7SwedbpVelrZci67IVECOLITKyx.jpg"
+    },
+    {
+      "name": "Dominique McElligott",
+      "role": "Queen Maeve",
+      "url": "https://multimovies.city/cast/dominique-mcelligott/",
+      "image": "https://image.tmdb.org/t/p/w92/99Pbu6HYwrBcX10RDf7ttUh6fO9.jpg"
+    },
+    {
+      "name": "Jessie T. Usher",
+      "role": "A-Train",
+      "url": "https://multimovies.city/cast/jessie-t-usher/",
+      "image": "https://image.tmdb.org/t/p/w92/iiu9dkYEkHJPMf7TzbrhhgwRvlt.jpg"
+    },
+    {
+      "name": "Laz Alonso",
+      "role": "Mother's Milk",
+      "url": "https://multimovies.city/cast/laz-alonso/",
+      "image": "https://image.tmdb.org/t/p/w92/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg"
+    },
+    {
+      "name": "Chace Crawford",
+      "role": "The Deep",
+      "url": "https://multimovies.city/cast/chace-crawford/",
+      "image": "https://image.tmdb.org/t/p/w92/yWZILsr2mBQBCG1LOcCYYshIbts.jpg"
+    },
+    {
+      "name": "Tomer Capone",
+      "role": "Frenchie",
+      "url": "https://multimovies.city/cast/tomer-capone/",
+      "image": "https://image.tmdb.org/t/p/w92/r6s7dkYZUJpd00C7p9itT6Gp8XB.jpg"
+    },
+    {
+      "name": "Karen Fukuhara",
+      "role": "Kimiko / The Female",
+      "url": "https://multimovies.city/cast/karen-fukuhara/",
+      "image": "https://image.tmdb.org/t/p/w92/39xZ0fJEfq9Ql2fILUUDJmcHT15.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/thLAoL6VeZGmCyDpCOeoxLvA8yS.jpg",
+    "https://image.tmdb.org/t/p/w300/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
+    "https://image.tmdb.org/t/p/w300/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg",
+    "https://image.tmdb.org/t/p/w300/czffzEgaBko4mXW84B1J1EnQBzo.jpg",
+    "https://image.tmdb.org/t/p/w300/aNrcxmzCZc1Tgze4jOwJrwk7tCl.jpg",
+    "https://image.tmdb.org/t/p/w300/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg",
+    "https://image.tmdb.org/t/p/w300/68sanslplXryiJWzv0uMuXjJBmB.jpg",
+    "https://image.tmdb.org/t/p/w300/geClkS1OTExNRn8DgWrPegrhYRs.jpg",
+    "https://image.tmdb.org/t/p/w300/iVhJ23akvDuB9yVjcKxfowFc8zv.jpg",
+    "https://image.tmdb.org/t/p/w300/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg"
+  ],
+  "similar": [],
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Jul. 25, 2019",
+      "episodeCount": 8,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "The Name of the Game",
+          "url": "https://multimovies.city/episodes/the-boys-1x1/",
+          "airDate": "Jul. 25, 2019",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/83vFYTHtCqWwaDtZluSU8bmnFYG.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/f8w3vfe"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Cherry",
+          "url": "https://multimovies.city/episodes/the-boys-1x2/",
+          "airDate": "Jul. 25, 2019",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/1XzqWHBFvddrO2sazXzaCTtFEeA.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/fdhde52"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Get Some",
+          "url": "https://multimovies.city/episodes/the-boys-1x3/",
+          "airDate": "Jul. 25, 2019",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/mF7TK7LMbWhlLz1Q5M1662TiKvP.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/hsyqjdq"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "The Female of the Species",
+          "url": "https://multimovies.city/episodes/the-boys-1x4/",
+          "airDate": "Jul. 25, 2019",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/4wq1ZX7GYEFhSttQoTFJ4WyqV22.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/dykhkvx"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Good for the Soul",
+          "url": "https://multimovies.city/episodes/the-boys-1x5/",
+          "airDate": "Jul. 25, 2019",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/1ST4xchcR2s1JQUV23ryOBVrWbN.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/u7k1rcm"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "The Innocents",
+          "url": "https://multimovies.city/episodes/the-boys-1x6/",
+          "airDate": "Jul. 25, 2019",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/pqz0Xvf7gpXwagUoaHxBqmyv6D5.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nr1yy0c"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "The Self-Preservation Society",
+          "url": "https://multimovies.city/episodes/the-boys-1x7/",
+          "airDate": "Jul. 25, 2019",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/cx7dCZVzCX9pAyC6zE6lC6jkuyF.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/x2f7vhg"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "You Found Me",
+          "url": "https://multimovies.city/episodes/the-boys-1x8/",
+          "airDate": "Jul. 25, 2019",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/vNYs1oSMXa1V3KKWLPvtOy6UQWC.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pd44vc8"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 2,
+      "seasonTitle": "Season 2 Sep. 03, 2020",
+      "episodeCount": 8,
+      "episodes": [
+        {
+          "seasonNo": 2,
+          "episodeNo": 1,
+          "title": "The Big Ride",
+          "url": "https://multimovies.city/episodes/the-boys-2x1/",
+          "airDate": "Sep. 03, 2020",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/iqdh1aITkP4BicsZmQLQ7MDMo1z.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/atv0s3z"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 2,
+          "title": "Proper Preparation and Planning",
+          "url": "https://multimovies.city/episodes/the-boys-2x2/",
+          "airDate": "Sep. 03, 2020",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/m6LSiAimRiST07sC0vsUDITojT3.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/oq5pxud"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 3,
+          "title": "Over the Hill With the Swords of a Thousand Men",
+          "url": "https://multimovies.city/episodes/the-boys-2x3/",
+          "airDate": "Sep. 03, 2020",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/aSJsyy1qqHvs1im4xGvP2w0MKms.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/m5pgkyw"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 4,
+          "title": "Nothing Like It in the World",
+          "url": "https://multimovies.city/episodes/the-boys-2x4/",
+          "airDate": "Sep. 10, 2020",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/6cAdAEomp2I0JwSYNcobAB1NIdm.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/xng3m6u"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 5,
+          "title": "We Gotta Go Now",
+          "url": "https://multimovies.city/episodes/the-boys-2x5/",
+          "airDate": "Sep. 17, 2020",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/pn5adU2bTuMvBUZoEx2qDmSS8dv.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/h1x3dqs"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 6,
+          "title": "The Bloody Doors Off",
+          "url": "https://multimovies.city/episodes/the-boys-2x6/",
+          "airDate": "Sep. 24, 2020",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/5ZTRa0V3QFYX2ridnY9wh0FsvId.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/z0phtlx"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 7,
+          "title": "Butcher, Baker, Candlestick Maker",
+          "url": "https://multimovies.city/episodes/the-boys-2x7/",
+          "airDate": "Oct. 01, 2020",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/8OJpTYvdGaTkzxU9oZnx0TaTaOt.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/eqtmk8e"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 8,
+          "title": "What I Know",
+          "url": "https://multimovies.city/episodes/the-boys-2x8/",
+          "airDate": "Oct. 08, 2020",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/w44GW7Zv808V1nsr1NY6Y3I8r8B.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/aj0wy44"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 3,
+      "seasonTitle": "Season 3 Jun. 02, 2022",
+      "episodeCount": 8,
+      "episodes": [
+        {
+          "seasonNo": 3,
+          "episodeNo": 1,
+          "title": "Payback",
+          "url": "https://multimovies.city/episodes/the-boys-3x1/",
+          "airDate": "Jun. 02, 2022",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/yeAHbQ11ExTFWg34gnP4dGNwfk5.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/whcdhj1"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 2,
+          "title": "The Only Man In The Sky",
+          "url": "https://multimovies.city/episodes/the-boys-3x2/",
+          "airDate": "Jun. 02, 2022",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/nht3uPi9fjInTCa8JF45nCmETgt.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/proroiy"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 3,
+          "title": "Barbary Coast",
+          "url": "https://multimovies.city/episodes/the-boys-3x3/",
+          "airDate": "Jun. 02, 2022",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/v0NmiGE6FntSSGN4RXDTd2ylMwF.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/znq5nsa"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 4,
+          "title": "Glorious Five Year Plan",
+          "url": "https://multimovies.city/episodes/the-boys-3x4/",
+          "airDate": "Jun. 09, 2022",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/adNh9TIlLKh0uUug3KOiuhFINAh.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ag3hqtq"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 5,
+          "title": "The Last Time To Look On This World of Lies",
+          "url": "https://multimovies.city/episodes/the-boys-3x5/",
+          "airDate": "Jun. 16, 2022",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/ihEiv88IAbAwUbZsnL1NjXUlET9.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/f4p4hiu"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 6,
+          "title": "Herogasm",
+          "url": "https://multimovies.city/episodes/the-boys-3x6/",
+          "airDate": "Jun. 23, 2022",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/hZ2Yzg4Mg6vg1LPJ0UTU68bA6ZB.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/w0yyz0t"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 7,
+          "title": "Here Comes a Candle to Light You to Bed",
+          "url": "https://multimovies.city/episodes/the-boys-3x7/",
+          "airDate": "Jun. 30, 2022",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/cG7G0XyW0KQ1oeYY06KnaP1n8PR.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/zk0ce1h"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 8,
+          "title": "The Instant White-Hot Wild",
+          "url": "https://multimovies.city/episodes/the-boys-3x8/",
+          "airDate": "Jul. 07, 2022",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/kteLc9xtCOOjwvVNHjxNqJxu0OA.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nod0qyu"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 4,
+      "seasonTitle": "Season 4 Jun. 13, 20243",
+      "episodeCount": 8,
+      "episodes": [
+        {
+          "seasonNo": 4,
+          "episodeNo": 1,
+          "title": "Department of Dirty Tricks",
+          "url": "https://multimovies.city/episodes/the-boys-4x1/",
+          "airDate": "Jun. 13, 2024",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/06/7eGAjea8dawKURw6YJxMxC6qIm9.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/m73marc"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 2,
+          "title": "Life Among the Septics",
+          "url": "https://multimovies.city/episodes/the-boys-4x2/",
+          "airDate": "Jun. 13, 2024",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/06/9Xz4agf6DejmilapVgrDAYoTguK.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/mg1qo5y"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 3,
+          "title": "We'll Keep the Red Flag Flying Here",
+          "url": "https://multimovies.city/episodes/the-boys-4x3/",
+          "airDate": "Jun. 13, 2024",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/06/kcHBZHSYyj0eYSDzCUTze11c5RX.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/zht3nxh"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 4,
+          "title": "Wisdom of the Ages",
+          "url": "https://multimovies.city/episodes/the-boys-4x4/",
+          "airDate": "Jun. 20, 2024",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/06/sXbp0dNjOrxQOPQG2NLGSJoUuJ9.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/bdlah0c"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 5,
+          "title": "Beware of the Jabberwock, My Son",
+          "url": "https://multimovies.city/episodes/the-boys-4x5/",
+          "airDate": "Jun. 27, 2024",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/06/wg8zuTekT8MuOQcl695PpsCdc87.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/anhowb8"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 6,
+          "title": "Dirty Business",
+          "url": "https://multimovies.city/episodes/the-boys-4x6/",
+          "airDate": "Jul. 04, 2024",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/07/uv8VRrwzE5iC8LwZp6YUaq5uxrT.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/kmfw0yy"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 7,
+          "title": "The Insider",
+          "url": "https://multimovies.city/episodes/the-boys-4x7/",
+          "airDate": "Jul. 11, 2024",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/07/8bUDuBfDouc2A8Dm0495ad21v2w.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/vrodcom"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 8,
+          "title": "Assassination Run",
+          "url": "https://multimovies.city/episodes/the-boys-4x8/",
+          "airDate": "Jul. 18, 2024",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/07/kv7DTgyuKz5gsSwfoH92Tnam0lA.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/gjch1lq"
+          ]
+        }
+      ]
+    }
+  ]
+}
