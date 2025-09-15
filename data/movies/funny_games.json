@@ -1,0 +1,137 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/funny-games/",
+  "meta": {
+    "title": "Funny Games",
+    "poster": "https://image.tmdb.org/t/p/w500/48uCNgdyYIoN4ayWjTpLaqSDcWI.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Aug. 23, 1997",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Two psychotic young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic \u201cgames\u201d with one another for their own amusement.",
+    "infoFields": {
+      "Original title": "Funny Games",
+      "IMDb Rating": "7.5 91,667 votes",
+      "TMDb Rating": "7.308 1,918 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Michael Haneke",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-haneke/",
+      "image": "https://image.tmdb.org/t/p/w92/9wDbsPQ5lu9A04FJ1pVi9y1dRjn.jpg"
+    },
+    {
+      "name": "Susanne Lothar",
+      "role": "Anna",
+      "url": "https://multimovies.city/cast/susanne-lothar/",
+      "image": "https://image.tmdb.org/t/p/w92/51CyaN2rUTqvIiidOdOGvAyEGk6.jpg"
+    },
+    {
+      "name": "Ulrich M\u00fche",
+      "role": "Georg",
+      "url": "https://multimovies.city/cast/ulrich-muhe/",
+      "image": "https://image.tmdb.org/t/p/w92/kdqKmnaBDDT0cwTE2C3fKDJrF8D.jpg"
+    },
+    {
+      "name": "Arno Frisch",
+      "role": "Paul",
+      "url": "https://multimovies.city/cast/arno-frisch/",
+      "image": "https://image.tmdb.org/t/p/w92/q9FvRaGueX9vUEnTcZJ3Ies5Ts5.jpg"
+    },
+    {
+      "name": "Frank Giering",
+      "role": "Peter",
+      "url": "https://multimovies.city/cast/frank-giering/",
+      "image": "https://image.tmdb.org/t/p/w92/5XIEkkKjXSBYbkzMKbRqCo5exIM.jpg"
+    },
+    {
+      "name": "Stefan Clapczynski",
+      "role": "Georgie",
+      "url": "https://multimovies.city/cast/stefan-clapczynski/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Doris Kunstmann",
+      "role": "Gerda",
+      "url": "https://multimovies.city/cast/doris-kunstmann/",
+      "image": "https://image.tmdb.org/t/p/w92/6wOUztlg10e6UCiFc3KzsFI3bB4.jpg"
+    },
+    {
+      "name": "Christoph Bantzer",
+      "role": "Fred",
+      "url": "https://multimovies.city/cast/christoph-bantzer/",
+      "image": "https://image.tmdb.org/t/p/w92/k06igYaCgo9C0IEahujLsiIzB0o.jpg"
+    },
+    {
+      "name": "Wolfgang Gl\u00fcck",
+      "role": "Robert",
+      "url": "https://multimovies.city/cast/wolfgang-gluck/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Susanne Meneghel",
+      "role": "Gerda's Sister",
+      "url": "https://multimovies.city/cast/susanne-meneghel/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Monika Zallinger",
+      "role": "Eva",
+      "url": "https://multimovies.city/cast/monika-zallinger/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/79SBe1bU30Dy6QPwJ2KQ3LTr1lr.jpg",
+    "https://image.tmdb.org/t/p/w300/9cOWevA6ofoGGcZbQ7PUqUav2YK.jpg",
+    "https://image.tmdb.org/t/p/w300/9V4CYXdqoL3wblvxoKCZrrPvdmF.jpg",
+    "https://image.tmdb.org/t/p/w300/piylt6C91KukjOGEF7wAsvIPVfJ.jpg",
+    "https://image.tmdb.org/t/p/w300/6FdRgQDTxGJNthspHna8Q9EbTbK.jpg",
+    "https://image.tmdb.org/t/p/w300/yUmtjm5eLK7WohDtt5E2lHXx84P.jpg",
+    "https://image.tmdb.org/t/p/w300/fnXQqq0PjMxwtMoD3KWYc52Omd7.jpg",
+    "https://image.tmdb.org/t/p/w300/wFq0JviwtYVw57i2hOTKCSOTZtf.jpg",
+    "https://image.tmdb.org/t/p/w300/pnDpcvt0advOnkgo7MTQFnIuRet.jpg"
+  ],
+  "similar": [],
+  "views": 559,
+  "sources": [
+    "https://www.youtube.com/embed/bH2HS6uWIhQ?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/doj1mhf"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 95200,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 95200,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
