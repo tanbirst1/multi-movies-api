@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-arrival/",
+  "meta": {
+    "title": "The Arrival",
+    "poster": "https://image.tmdb.org/t/p/w500/7ARbqk8SqABU8QqANvpJCpMQ5nj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 31, 1996",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Zane Ziminski is an astrophysicist who receives a message that seems to have extraterrestrial origins. Eerily soon after his discovery, Zane is fired. He then embarks on a search to determine the origins of the transmission that leads him into a Hitchcockian labyrinth of paranoia and intrigue.",
+    "infoFields": {
+      "Original title": "The Arrival",
+      "IMDb Rating": "6.2 38,221 votes",
+      "TMDb Rating": "5.983 703 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Twohy",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-twohy/",
+      "image": "https://image.tmdb.org/t/p/w92/gQm0cwAk4bsWgA7wF2PTFb8X37Z.jpg"
+    },
+    {
+      "name": "Charlie Sheen",
+      "role": "Zane Zaminski",
+      "url": "https://multimovies.city/cast/charlie-sheen/",
+      "image": "https://image.tmdb.org/t/p/w92/eHMe0jYsp6YBgyCDbgtheZrIHAy.jpg"
+    },
+    {
+      "name": "Lindsay Crouse",
+      "role": "Ilana Green",
+      "url": "https://multimovies.city/cast/lindsay-crouse/",
+      "image": "https://image.tmdb.org/t/p/w92/p9xfNphbZNvSfqxGA4za87VKuQI.jpg"
+    },
+    {
+      "name": "Richard Schiff",
+      "role": "Calvin",
+      "url": "https://multimovies.city/cast/richard-schiff/",
+      "image": "https://image.tmdb.org/t/p/w92/oFDka3Y5H3DBiZRqbdPabtX8ncP.jpg"
+    },
+    {
+      "name": "Ron Silver",
+      "role": "Gordian",
+      "url": "https://multimovies.city/cast/ron-silver/",
+      "image": "https://image.tmdb.org/t/p/w92/6urQBScK7Vq6q5niaMMEmzW3DGP.jpg"
+    },
+    {
+      "name": "Teri Polo",
+      "role": "Char",
+      "url": "https://multimovies.city/cast/teri-polo/",
+      "image": "https://image.tmdb.org/t/p/w92/5xVk9bfMOeJxKmAGJddOhcNp2rX.jpg"
+    },
+    {
+      "name": "Phyllis Applegate",
+      "role": "Mrs. Roosevelt",
+      "url": "https://multimovies.city/cast/phyllis-applegate/",
+      "image": "https://image.tmdb.org/t/p/w92/bDhG2vzoFMlwefe6tVCt7XuHBGK.jpg"
+    },
+    {
+      "name": "Tony T. Johnson",
+      "role": "Kiki",
+      "url": "https://multimovies.city/cast/tony-t-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/qBUgkRetdCOrL9PTCTkU2REcgj9.jpg"
+    },
+    {
+      "name": "Alan Coates",
+      "role": "Terraformer",
+      "url": "https://multimovies.city/cast/alan-coates/",
+      "image": "https://image.tmdb.org/t/p/w92/ln7MejAhakh2B5aQka2TjSjR2pF.jpg"
+    },
+    {
+      "name": "Leon Rippy",
+      "role": "DOD #1",
+      "url": "https://multimovies.city/cast/leon-rippy/",
+      "image": "https://image.tmdb.org/t/p/w92/55GaqeKzIwbKBDW9RT1CYIZaUKO.jpg"
+    },
+    {
+      "name": "Buddy Joe Hooker",
+      "role": "DOD #2",
+      "url": "https://multimovies.city/cast/buddy-joe-hooker/",
+      "image": "https://image.tmdb.org/t/p/w92/sQkPgACtSAPscomfa650C2hsubm.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/oJ597dVjLMICx56clM7iy3AUUsA.jpg",
+    "https://image.tmdb.org/t/p/w300/2ZyFLgNiletK7b1F93AbMYz0Snp.jpg",
+    "https://image.tmdb.org/t/p/w300/fqGjwh4vmWUD4luen26Wtaf6xdd.jpg",
+    "https://image.tmdb.org/t/p/w300/sTkfVOH3VSCENDFP0ikOB5ZLiwr.jpg",
+    "https://image.tmdb.org/t/p/w300/8DGHxyW5ej5rLR2ZMIRB4NjuzOI.jpg",
+    "https://image.tmdb.org/t/p/w300/h0oSAJaJ8aQQ3Yl2fO0VQFA1ybP.jpg",
+    "https://image.tmdb.org/t/p/w300/hztr2mbtJpcAbdc1LuL5DO1vz6G.jpg",
+    "https://image.tmdb.org/t/p/w300/5UP1WoAbxsyG9ZuHViHyRzS0ia2.jpg"
+  ],
+  "similar": [],
+  "views": 588,
+  "sources": [
+    "https://www.youtube.com/embed/GOc01_Ty1eQ?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/dtc1ol5fqzar"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 52030,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 52030,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
