@@ -1,0 +1,423 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/ed-edd-n-eddy/",
+  "meta": {
+    "title": "Ed, Edd n Eddy",
+    "poster": "https://image.tmdb.org/t/p/w500/8BguP5zLyf3AzlTgRRhpXdz9bnS.jpg",
+    "networks": [
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/network/cartoon-network/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Kids",
+        "url": "https://multimovies.city/genre/kids/"
+      }
+    ],
+    "firstAirDate": "Jan. 04, 1999",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Three adolescent boys, Ed, Edd \u201cDouble D\u201d, and Eddy, collectively known as \u201cthe Eds\u201d, constantly invent schemes to make money from their peers to purchase their favorite confectionery, jawbreakers. Their plans usually fail though, leaving them in various predicaments.",
+    "infoFields": {
+      "Original title": "Ed, Edd n Eddy",
+      "TMDb Rating": "7.9 725 votes",
+      "First air date": "Jan. 04, 1999",
+      "Last air date": "Jun. 29, 2008",
+      "Seasons": "6",
+      "Episodes": "126",
+      "Average Duration": "11 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Jan. 04, 1999",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "The Ed-Touchables",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x1/",
+          "airDate": "Jan. 04, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/2r3VU40Ews4ueGIkr1C4vgCWpiE.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/lmhansm"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Pop Goes the Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x3/",
+          "airDate": "Jan. 11, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/nno8vSzx8AlARbTDNmxHIWREjPB.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/szaedg8"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Sir Ed-a-Lot",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x5/",
+          "airDate": "Jan. 18, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/oRn3Cs77AtsQq0MmZ426FD3oeb2.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/xq2vg4d"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Dawn of the Eds",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x7/",
+          "airDate": "Jan. 25, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/iRGWT1NjIeWfROJWxXksHzRTCDi.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/zxlw9j5"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Read All About Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x9/",
+          "airDate": "Feb. 01, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/9oLeBrp26K1NmerNClH5ccYTJ4N.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/k298hvv"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "An Ed Too Many",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x11/",
+          "airDate": "Feb. 08, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/84gyq7N84D5hChDyUEGIBNXZAzG.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pi7r2a3"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Look Into My Eds",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x13/",
+          "airDate": "Mar. 01, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/h998fAbCRd8AY19NZdFdRwzVhyA.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ikspsky"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Fool on the Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x15/",
+          "airDate": "Mar. 08, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/mm1cpZwXfPZ67EYs1eErj3rYXVy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ax553re"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Laugh Ed Laugh",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x18/",
+          "airDate": "Mar. 15, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/eA33BSh1bJzDwMDYjxONWIFkR9K.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/yptyvsx"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "A Glass of Warm Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x19/",
+          "airDate": "Apr. 12, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/8DC3vBg5Hy7hF9bVlwsKAJ7B1Rm.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/dznpfps"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Who, What, Where, Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x21/",
+          "airDate": "Apr. 19, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/5tFa8j0fO25sy75t0SArv2G5VN.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/w02k29n"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Eds-Aggerate",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x23/",
+          "airDate": "Apr. 26, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/hM4TjT3e0OZHORa6eeLyoP4FHvj.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/cp0n7e1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Button Yer Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-1x25/",
+          "airDate": "Jun. 11, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/7y8oPOGWUsdoEIaUGSKRprNzbbG.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/e5f0wyb"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 2,
+      "seasonTitle": "Season 2 Nov. 26, 1999",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 2,
+          "episodeNo": 1,
+          "title": "Know it All Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x1/",
+          "airDate": "Nov. 26, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/69rE6VuMlGDaFdkcZD3BYaEefUF.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pba5j4z"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 2,
+          "title": "Knock Knock Who's Ed?",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x2/",
+          "airDate": "Feb. 11, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/viZetk8sYyhu6lRBpIk3WkUCK63.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/t2jghlq"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 3,
+          "title": "Eeny, Meeny, Miney, Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x3/",
+          "airDate": "Mar. 03, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/38KmgjQsBxvaoWEG2WmeRZlvDLJ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/m3dti0w"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 4,
+          "title": "Hands Across Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x4/",
+          "airDate": "Mar. 24, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/q1vzxdxAdoabX3oPksKDthdhvBP.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/chqog0p"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 5,
+          "title": "In Like Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x5/",
+          "airDate": "Apr. 07, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/aLjFxi5qH4u4erTMtgBJX8zzVy4.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/n1yol7n"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 7,
+          "title": "To Sir with Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x7/",
+          "airDate": "Jun. 23, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/eSds8XB6J30k1eFuyppZbBLhshd.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/n6zyjp8"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 8,
+          "title": "Urban Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x8/",
+          "airDate": "Jul. 21, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/k1eXVZUKOY79ogu9QS7yYbFL0bc.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/desgvo5"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 9,
+          "title": "Honor Thy Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x9/",
+          "airDate": "Aug. 04, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/i3uCelQ9eVpbxQQRZF7sNTXDzt.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/snvmgmc"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 10,
+          "title": "Rent-a-Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x10/",
+          "airDate": "Aug. 18, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/rH9G5mNs5Z9XR5eA5zaq8K1X0mX.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/hhlxvy3"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 11,
+          "title": "Ed in a Halfshell",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x11/",
+          "airDate": "Sep. 08, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/p3FQmFLCeHLFeS6V3meXASJ0IR8.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ljxwv36"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 11,
+          "title": "Home Cooked Eds",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x6/",
+          "airDate": "May. 12, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/vkKsMQgPLcTt2B2AOWLHFvkOnAy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/s4ztlm3"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 12,
+          "title": "Hot Buttered Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x12/",
+          "airDate": "Oct. 27, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/3gNlMid9a1qqco6DaePN9S85V4X.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/v39blyz"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 13,
+          "title": "Fa, La, La, La, Ed",
+          "url": "https://multimovies.city/episodes/ed-edd-n-eddy-2x13/",
+          "airDate": "Dec. 22, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/12/7tlBzA7ZkkORWgguDy5P7vWjTFO.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pg8dw0l"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Danny Antonucci",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/danny-antonucci/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Matt Hill",
+      "role": "Ed (voice)",
+      "url": "https://multimovies.city/cast/matt-hill/",
+      "image": "https://image.tmdb.org/t/p/w92/c9LL79WphPAjDX4J9yHV5ZoANxy.jpg"
+    },
+    {
+      "name": "Sam Vincent",
+      "role": "Edd (voice)",
+      "url": "https://multimovies.city/cast/sam-vincent/",
+      "image": "https://image.tmdb.org/t/p/w92/eJadsFcztqQZQIKzL5cMyasi1oa.jpg"
+    },
+    {
+      "name": "Tony Sampson",
+      "role": "Eddy (voice)",
+      "url": "https://multimovies.city/cast/tony-sampson/",
+      "image": "https://image.tmdb.org/t/p/w92/8PxxVNxuUWmFXy97a4sSjHVr9vO.jpg"
+    },
+    {
+      "name": "Keenan Christensen",
+      "role": "Jimmy (voice)",
+      "url": "https://multimovies.city/cast/keenan-christensen/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kathleen Barr",
+      "role": "Kevin / Marie Kanker (voice)",
+      "url": "https://multimovies.city/cast/kathleen-barr/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Janyse Jaud",
+      "role": "Sarah / Lee Kanker (voice)",
+      "url": "https://multimovies.city/cast/janyse-jaud/",
+      "image": "https://image.tmdb.org/t/p/w92/7ZvfIfmgkU2B8jA25czUoKXXq6e.jpg"
+    },
+    {
+      "name": "Peter Kelamis",
+      "role": "Rolf (voice)",
+      "url": "https://multimovies.city/cast/peter-kelamis/",
+      "image": "https://image.tmdb.org/t/p/w92/nV0lHILeENtQ8PbGa3E5Mrx607a.jpg"
+    },
+    {
+      "name": "Erin Fitzgerald",
+      "role": "Nazz / May Kanker (voice)",
+      "url": "https://multimovies.city/cast/erin-fitzgerald/",
+      "image": "https://image.tmdb.org/t/p/w92/fAMOm2xRjbR7nDUo3FsNVy61U70.jpg"
+    },
+    {
+      "name": "David-Paul Grove",
+      "role": "Jonny (voice)",
+      "url": "https://multimovies.city/cast/david-paul-grove/",
+      "image": "https://image.tmdb.org/t/p/w92/u5ERJwvYZBW1Fnqb4V98ycZx0nu.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/f307veKEFZqvFRkMkffDEXf280w.jpg",
+    "https://image.tmdb.org/t/p/w300/iRbNLYmqlxbqkfCuAmHaFwZ9ocY.jpg",
+    "https://image.tmdb.org/t/p/w300/28BESjxL8U0Jxm4DWu5Agso1JF0.jpg",
+    "https://image.tmdb.org/t/p/w300/gTl2EV3IGiR7rJcA5UZjiOt8X9W.jpg",
+    "https://image.tmdb.org/t/p/w300/vqbmsD1CbCGg46S0UUIiAvuv54h.jpg",
+    "https://image.tmdb.org/t/p/w300/lfmJX6AciZTX6fBMIKGZCy2KpNB.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
