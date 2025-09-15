@@ -1,0 +1,157 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rocky-iii/",
+  "meta": {
+    "title": "Rocky III",
+    "poster": "https://image.tmdb.org/t/p/w500/3avfzaUDxMieyEgGPopVvh8ABXR.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "May. 28, 1982",
+    "ratingValue": "9.5",
+    "ratingCount": "2",
+    "synopsis": "Now the world champion, Rocky Balboa is living in luxury and only fighting opponents who pose no threat to him in the ring, until Clubber Lang challenges him to a bout. After taking a pounding from Lang, the humbled champ turns to former bitter rival Apollo Creed for a rematch with Lang.",
+    "infoFields": {
+      "Original title": "Rocky III",
+      "IMDb Rating": "6.8 200,450 votes",
+      "TMDb Rating": "6.868 3,570 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sylvester Stallone",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/pOpbPofjwpynRkWPZZZkyGds6rx.jpg"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "Robert \"Rocky\" Balboa",
+      "url": "https://multimovies.city/cast/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/pOpbPofjwpynRkWPZZZkyGds6rx.jpg"
+    },
+    {
+      "name": "Talia Shire",
+      "role": "Adrianna \"Adrian\" Balboa",
+      "url": "https://multimovies.city/cast/talia-shire/",
+      "image": "https://image.tmdb.org/t/p/w92/due9MtmbvCMDd1aNveuMyjsaZ8W.jpg"
+    },
+    {
+      "name": "Burt Young",
+      "role": "Paulie Pennino",
+      "url": "https://multimovies.city/cast/burt-young/",
+      "image": "https://image.tmdb.org/t/p/w92/po3D7HKkMhoNkBMcIKpxjWzjoF.jpg"
+    },
+    {
+      "name": "Carl Weathers",
+      "role": "Apollo Creed",
+      "url": "https://multimovies.city/cast/carl-weathers/",
+      "image": "https://image.tmdb.org/t/p/w92/9Tot1ywxTQA3vFCcAjyK6h9Dao3.jpg"
+    },
+    {
+      "name": "Mr. T",
+      "role": "Clubber Lang",
+      "url": "https://multimovies.city/cast/mr-t/",
+      "image": "https://image.tmdb.org/t/p/w92/6j5DkJuKwxZklLJWFJciUbh31jL.jpg"
+    },
+    {
+      "name": "Burgess Meredith",
+      "role": "Mickey Goldmill",
+      "url": "https://multimovies.city/cast/burgess-meredith/",
+      "image": "https://image.tmdb.org/t/p/w92/4jvcLYYb4dhgrtEJOJQnYY2zt8G.jpg"
+    },
+    {
+      "name": "Tony Burton",
+      "role": "Tony \"Duke\" Evers",
+      "url": "https://multimovies.city/cast/tony-burton/",
+      "image": "https://image.tmdb.org/t/p/w92/iG51d1Ck1doZNGseRMqGTnNC8t8.jpg"
+    },
+    {
+      "name": "Hulk Hogan",
+      "role": "Thunderlips",
+      "url": "https://multimovies.city/cast/hulk-hogan/",
+      "image": "https://image.tmdb.org/t/p/w92/i27iSeP7hhtlFOeVnthRQ9Ox2m4.jpg"
+    },
+    {
+      "name": "Ian Fried",
+      "role": "Rocky Junior",
+      "url": "https://multimovies.city/cast/ian-fried/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Al Silvani",
+      "role": "Al",
+      "url": "https://multimovies.city/cast/al-silvani/",
+      "image": "https://image.tmdb.org/t/p/w92/j6M9EdM5seejyRK769haG7iluW4.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1T7d8EuYnpZRc3yHxqa3vipZ2DE.jpg",
+    "https://image.tmdb.org/t/p/w300/v5riWwBENKXU1p4xbABSYjA3QgG.jpg",
+    "https://image.tmdb.org/t/p/w300/ySkfYN6osyBCvPhZFlBocRoKpzS.jpg",
+    "https://image.tmdb.org/t/p/w300/yUx3HXWybmOrvV6kffLarIFqZ57.jpg",
+    "https://image.tmdb.org/t/p/w300/iOEeKtA3ZDeudbRtfDfJgVLpVqp.jpg",
+    "https://image.tmdb.org/t/p/w300/21YMvLpBYvj8KOoaoYy4Zjut2v0.jpg",
+    "https://image.tmdb.org/t/p/w300/dXtoDnKpnORhrzvcI81urCtUDDr.jpg",
+    "https://image.tmdb.org/t/p/w300/lYuOi4cD2CL3c8KrCx3dmudlJBp.jpg",
+    "https://image.tmdb.org/t/p/w300/cl1I0SjitsaWyJLmjLfsMvTb4i1.jpg"
+  ],
+  "similar": [],
+  "views": 2327,
+  "sources": [
+    "https://www.youtube.com/embed/o7vbDPUMWDc?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/7ttfvg4ghlt9",
+    "https://sbplay.org/embed-36iye4e0ebu3.html",
+    "https://dood.la/e/ediorw6kvlpc",
+    "https://mixdrop.co/e/pk3m3xg7fmvkk1",
+    "https://hydrax.net/watch?v=OeeJBpaYMJ"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7149,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7149,
+      "nume": 1,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 7149,
+      "nume": 2,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 7149,
+      "nume": 3,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 7149,
+      "nume": 4,
+      "title": "Server 05"
+    },
+    {
+      "type": "movie",
+      "post": 7149,
+      "nume": 5,
+      "title": "Server 06"
+    }
+  ],
+  "cache": false
+}
