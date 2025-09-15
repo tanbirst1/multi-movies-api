@@ -1,0 +1,228 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/sex-and-the-city/",
+  "meta": {
+    "title": "Sex and the City",
+    "poster": "https://image.tmdb.org/t/p/w500/tzVUZxNwntAS8Gk3WF2DCcI8x1B.jpg",
+    "networks": [
+      {
+        "name": "HBO",
+        "url": "https://multimovies.city/network/hbo/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Netflix",
+        "url": "https://multimovies.city/genre/netflix/"
+      }
+    ],
+    "firstAirDate": "Jun. 06, 1998",
+    "ratingValue": "2.7",
+    "ratingCount": "3",
+    "synopsis": "Based on the bestselling book by Candace Bushnell, Sex and the City tells the story of four best friends, all single and in their late thirties, as they pursue their careers and talk about their sex lives, all while trying to survive the New York social scene.",
+    "infoFields": {
+      "Original title": "Sex and the City",
+      "TMDb Rating": "7.388 2,041 votes",
+      "First air date": "Jun. 06, 1998",
+      "Last air date": "Feb. 22, 2004",
+      "Seasons": "6",
+      "Episodes": "94",
+      "Average Duration": "25 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Jun. 06, 1998",
+      "episodeCount": 12,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Sex and the City",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x1/",
+          "airDate": "Jun. 06, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/cFTzuDt8IFnK14z9cTenYtHIWO2.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/d93x9ou"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Models and Mortals",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x2/",
+          "airDate": "Jun. 14, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/bDU7wSUEbHF8vdG1x296qhaUimA.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/gtzh8jv"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Bay of Married Pigs",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x3/",
+          "airDate": "Jun. 21, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/cReVny9XxK0gUvU2xwJGFlyipnT.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/kreqlb0"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Valley of the Twenty Something Guys",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x4/",
+          "airDate": "Jun. 28, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/aJQ2vnPFyt49ISHKltaxij3huPC.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pd7vb7v"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "The Power of Female Sex",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x5/",
+          "airDate": "Jul. 05, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/rYmCWKWE2XlsBsgbRbfbwcZZzoP.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/cxhn8nj"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Secret Sex",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x6/",
+          "airDate": "Jul. 12, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/sKWQzPIPjD2cyvuma7cr6Jl302E.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/jz0pg5e"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "The Monogamists",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x7/",
+          "airDate": "Jul. 19, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/4d0tN36QQajpJ3b3klt0TyW7IbQ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/w0hmsgo"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Three's a Crowd",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x8/",
+          "airDate": "Jul. 26, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/xW15ZJtlmX6SJLTsWY9GnjOWdlc.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/sjq9lqz"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "The Turtle and the Hare",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x9/",
+          "airDate": "Aug. 02, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/qIGpn2ORzKR92Z9MdxrlfpSgKcT.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/hkt3pbp"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "The Baby Shower",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x10/",
+          "airDate": "Aug. 09, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/tO8OMdTMCSVAOh4HqZZ4H928qpn.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/t5mw2sz"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "The Drought",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x11/",
+          "airDate": "Aug. 16, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/jUmxPnRkmPJo1Dkz7kZlD09IcZX.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/jtpefiv"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Oh Come All Ye Faithful",
+          "url": "https://multimovies.city/episodes/sex-and-the-city-1x12/",
+          "airDate": "Aug. 23, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/eXcQe2w2nJXKJfZByDwNnoF8KEW.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/eyheg0j"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Darren Star",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/darren-star/",
+      "image": "https://image.tmdb.org/t/p/w92/lh6yexxHGKpLViBUBCWvBzP8kIq.jpg"
+    },
+    {
+      "name": "Sarah Jessica Parker",
+      "role": "Carrie Bradshaw",
+      "url": "https://multimovies.city/cast/sarah-jessica-parker/",
+      "image": "https://image.tmdb.org/t/p/w92/tEhHY7Uyn8VktwLhawBRuR0tdaJ.jpg"
+    },
+    {
+      "name": "Kim Cattrall",
+      "role": "Samantha Jones",
+      "url": "https://multimovies.city/cast/kim-cattrall/",
+      "image": "https://image.tmdb.org/t/p/w92/jDqSho6MUPdlaBfS56FVNSbPyIS.jpg"
+    },
+    {
+      "name": "Cynthia Nixon",
+      "role": "Miranda Hobbes",
+      "url": "https://multimovies.city/cast/cynthia-nixon/",
+      "image": "https://image.tmdb.org/t/p/w92/a366FCtQYmT80vQnPMFZ4hsTwuU.jpg"
+    },
+    {
+      "name": "Kristin Davis",
+      "role": "Charlotte York",
+      "url": "https://multimovies.city/cast/kristin-davis/",
+      "image": "https://image.tmdb.org/t/p/w92/61TjappibaZ1i8pEFlqwK2yrR2W.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mXtL24G2Awyl3lKFtreMHnH5qFC.jpg",
+    "https://image.tmdb.org/t/p/w300/lPbcbMcchKBs96vH3gjFtlPjdAv.jpg",
+    "https://image.tmdb.org/t/p/w300/5DciiXYnau5iztSEihOdxUuUAKr.jpg",
+    "https://image.tmdb.org/t/p/w300/jvHw1zF20kYA9gbF2VprXD6uJpq.jpg",
+    "https://image.tmdb.org/t/p/w300/jCxtG0jr9gbINBMFxgxFk2cwfwI.jpg",
+    "https://image.tmdb.org/t/p/w300/fFLrP367iW3WEaI3vL5OWywjrUk.jpg",
+    "https://image.tmdb.org/t/p/w300/nIKxtWGsByp83iPICAbQHFf1xCh.jpg",
+    "https://image.tmdb.org/t/p/w300/khFG0PbUs1kNhHbDCGlwnex1Kxn.jpg",
+    "https://image.tmdb.org/t/p/w300/thtvtFAedJUbdjplwZpAtQVc5mj.jpg",
+    "https://image.tmdb.org/t/p/w300/6RieNgL4FL1azqtXtBAbjQ6ZtvS.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
