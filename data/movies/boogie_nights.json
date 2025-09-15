@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/boogie-nights/",
+  "meta": {
+    "title": "Boogie Nights",
+    "poster": "https://image.tmdb.org/t/p/w500/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Oct. 07, 1997",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams\u2019 rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \u201cDirk Diggler\u201d. Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams\u2019 dreams of turning sex into stardom are about to collide with cold, hard reality.",
+    "infoFields": {
+      "Original title": "Boogie Nights",
+      "IMDb Rating": "7.9 283,968 votes",
+      "TMDb Rating": "7.6 3,045 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Paul Thomas Anderson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/paul-thomas-anderson/",
+      "image": "https://image.tmdb.org/t/p/w92/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
+    },
+    {
+      "name": "Mark Wahlberg",
+      "role": "Eddie Adams / Dirk Diggler",
+      "url": "https://multimovies.city/cast/mark-wahlberg/",
+      "image": "https://image.tmdb.org/t/p/w92/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+    },
+    {
+      "name": "Burt Reynolds",
+      "role": "Jack Horner",
+      "url": "https://multimovies.city/cast/burt-reynolds/",
+      "image": "https://image.tmdb.org/t/p/w92/iBtcPHUOhA3xH3LMPLRJrQRKI3W.jpg"
+    },
+    {
+      "name": "Julianne Moore",
+      "role": "Amber Waves",
+      "url": "https://multimovies.city/cast/julianne-moore/",
+      "image": "https://image.tmdb.org/t/p/w92/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+    },
+    {
+      "name": "John C. Reilly",
+      "role": "Reed Rothchild",
+      "url": "https://multimovies.city/cast/john-c-reilly/",
+      "image": "https://image.tmdb.org/t/p/w92/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+    },
+    {
+      "name": "Heather Graham",
+      "role": "Rollergirl",
+      "url": "https://multimovies.city/cast/heather-graham/",
+      "image": "https://image.tmdb.org/t/p/w92/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    },
+    {
+      "name": "Don Cheadle",
+      "role": "Buck Swope",
+      "url": "https://multimovies.city/cast/don-cheadle/",
+      "image": "https://image.tmdb.org/t/p/w92/vPzvP0Qik5yHNf6dF2uqLH9HrX1.jpg"
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "role": "Scotty J.",
+      "url": "https://multimovies.city/cast/philip-seymour-hoffman/",
+      "image": "https://image.tmdb.org/t/p/w92/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+    },
+    {
+      "name": "William H. Macy",
+      "role": "Little Bill",
+      "url": "https://multimovies.city/cast/william-h-macy/",
+      "image": "https://image.tmdb.org/t/p/w92/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+      "name": "Thomas Jane",
+      "role": "Todd Parker",
+      "url": "https://multimovies.city/cast/thomas-jane/",
+      "image": "https://image.tmdb.org/t/p/w92/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+    },
+    {
+      "name": "Luis Guzm\u00e1n",
+      "role": "Maurice t.t. Rodriguez",
+      "url": "https://multimovies.city/cast/luis-guzman/",
+      "image": "https://image.tmdb.org/t/p/w92/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/uC54rlRdLMZ46fnrz5SoVYleNyv.jpg",
+    "https://image.tmdb.org/t/p/w300/eSsg0uEpV3WUpBzxoVmAmvlOhle.jpg",
+    "https://image.tmdb.org/t/p/w300/AhS0PHNEyZjHDAwVUfgKucTfkiL.jpg",
+    "https://image.tmdb.org/t/p/w300/aCjScNN2er7esWOCPAuuO4CFGWw.jpg",
+    "https://image.tmdb.org/t/p/w300/4EmqMRZdkH5axkhXsIvE6n9z2Cc.jpg",
+    "https://image.tmdb.org/t/p/w300/okoYC85FBYtaCtK85cZqThGWcqp.jpg",
+    "https://image.tmdb.org/t/p/w300/cSs4DPCy0XkgMcfwWidRtxv3jp7.jpg",
+    "https://image.tmdb.org/t/p/w300/gg3PS29EOqk5Mq237FTeWxFwQ4g.jpg",
+    "https://image.tmdb.org/t/p/w300/wt1wdr9PXPOpM6m4n6JYlrM8yVA.jpg",
+    "https://image.tmdb.org/t/p/w300/mTtwm9iGQgkf2Ye0J4RoK9MFlVs.jpg"
+  ],
+  "similar": [],
+  "views": 4373,
+  "sources": [
+    "https://www.youtube.com/embed/YN7pcEa83dU?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/jyo595dui42m"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 56536,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 56536,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
