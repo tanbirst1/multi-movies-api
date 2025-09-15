@@ -1,0 +1,124 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/anand/",
+  "meta": {
+    "title": "Anand",
+    "poster": "https://image.tmdb.org/t/p/w500/jGFVyNJmEmgZsJ8wvuGU7GbCHrI.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Mar. 12, 1971",
+    "ratingValue": "10",
+    "ratingCount": "3",
+    "synopsis": "Dr. Bhaskar Bannerjee struggles with his patients\u2019 suffering and the darkness and poverty he confronts daily. He treats cancer patient Anand who upon learning of his impending death determines to use the time he has left to the absolute fullest.",
+    "infoFields": {
+      "Original title": "\u0906\u0928\u0928\u094d\u0926",
+      "IMDb Rating": "8.1 36,595 votes",
+      "TMDb Rating": "6.956 137 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hrishikesh Mukherjee",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hrishikesh-mukherjee/",
+      "image": "https://image.tmdb.org/t/p/w92/xkOnk17E4blhoueBN2imPDFByTo.jpg"
+    },
+    {
+      "name": "Rajesh Khanna",
+      "role": "Anand Saigal / Jaichand",
+      "url": "https://multimovies.city/cast/rajesh-khanna/",
+      "image": "https://image.tmdb.org/t/p/w92/ib2dKK9lDp4mt4RDROpiptOjm6Y.jpg"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Dr. Bhaskar K. Bannerjee / Babu Moshai",
+      "url": "https://multimovies.city/cast/amitabh-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/yAvq3EG5W5WaegZHB7gNdlM2KED.jpg"
+    },
+    {
+      "name": "Sumita Sanyal",
+      "role": "Renu",
+      "url": "https://multimovies.city/cast/sumita-sanyal/",
+      "image": "https://image.tmdb.org/t/p/w92/5KyPdx5eCAtuiO9SF6hJv2ZcqVA.jpg"
+    },
+    {
+      "name": "Johnny Walker",
+      "role": "Isabhai Suratwala",
+      "url": "https://multimovies.city/cast/johnny-walker/",
+      "image": "https://image.tmdb.org/t/p/w92/f69kcueOEADjkYW2aKhYfq8I8mn.jpg"
+    },
+    {
+      "name": "Asit Sen",
+      "role": "Chandranath",
+      "url": "https://multimovies.city/cast/asit-sen/",
+      "image": "https://image.tmdb.org/t/p/w92/nsJV0D6exrvcHdXxT5Eg0E0DBOd.jpg"
+    },
+    {
+      "name": "Lalita Pawar",
+      "role": "Mrs. D'Sa / Matron",
+      "url": "https://multimovies.city/cast/lalita-pawar/",
+      "image": "https://image.tmdb.org/t/p/w92/ba24aHL4LCkjLTC0RiJNzeaQfCp.jpg"
+    },
+    {
+      "name": "Dara Singh",
+      "role": "As Himself",
+      "url": "https://multimovies.city/cast/dara-singh/",
+      "image": "https://image.tmdb.org/t/p/w92/5hWcqAuzHW4tTjdikPUoyk1cb3d.jpg"
+    },
+    {
+      "name": "Ramesh Deo",
+      "role": "Dr. Prakash Kulkarni",
+      "url": "https://multimovies.city/cast/ramesh-deo/",
+      "image": "https://image.tmdb.org/t/p/w92/vM54BWGGeVY4OA4bY0A5Px06yw5.jpg"
+    },
+    {
+      "name": "Seema Deo",
+      "role": "Suman Kulkarni",
+      "url": "https://multimovies.city/cast/seema-deo/",
+      "image": "https://image.tmdb.org/t/p/w92/d1w7gHCj77WNX8kpmcDfETsykSW.jpg"
+    },
+    {
+      "name": "Lalita Kumari",
+      "role": "Mrs. Sanyal",
+      "url": "https://multimovies.city/cast/lalita-kumari/",
+      "image": "https://image.tmdb.org/t/p/w92/eYiIl5PqB4rv33qP6p6RMudv7PM.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/e2k7DsHGMaWCNlS44ysPkT2E0fe.jpg",
+    "https://image.tmdb.org/t/p/w300/a71RIXAZyyLn9ExjyellFLeE8sy.jpg",
+    "https://image.tmdb.org/t/p/w300/uZEN5R7s3IvZlt29uTEhpnOAyZd.jpg",
+    "https://image.tmdb.org/t/p/w300/fAqWqF41mBZWTcCj0W8TiWCIoGT.jpg"
+  ],
+  "similar": [],
+  "views": 1798,
+  "sources": [
+    "https://www.youtube.com/embed/WnIbNkRvpEs?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/la4gx7r"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10964,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 10964,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
