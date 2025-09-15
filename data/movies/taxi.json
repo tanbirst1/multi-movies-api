@@ -1,0 +1,164 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/taxi/",
+  "meta": {
+    "title": "Taxi",
+    "poster": "https://image.tmdb.org/t/p/w500/egBxj3ude84theXc3cLbBHrWOkQ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Apr. 08, 1998",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "In Marseilles (France), skilled pizza delivery boy Daniel who drives a scooter finally has his dreams come true. He gets a taxi license. Caught by the police for a huge speed infraction, he will help Emilien, a loser inspector who can\u2019t drive, on the track of German bank robbers, so he doesn\u2019t lose his license and his dream job.",
+    "infoFields": {
+      "Original title": "Taxi",
+      "IMDb Rating": "7 86,207 votes",
+      "TMDb Rating": "6.647 2,149 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "G\u00e9rard Pir\u00e8s",
+      "role": "Director",
+      "url": "https://multimovies.city/director/gerard-pires/",
+      "image": "https://image.tmdb.org/t/p/w92/iPfdLfScA9CmSJ9M3XZcywadEsN.jpg"
+    },
+    {
+      "name": "Samy Naceri",
+      "role": "Daniel Morales",
+      "url": "https://multimovies.city/cast/samy-naceri/",
+      "image": "https://image.tmdb.org/t/p/w92/yT3QZbpp6Pd6xJ2FzxESQ7sDudm.jpg"
+    },
+    {
+      "name": "Fr\u00e9d\u00e9ric Diefenthal",
+      "role": "\u00c9milien Coutant-Kerbalec",
+      "url": "https://multimovies.city/cast/frederic-diefenthal/",
+      "image": "https://image.tmdb.org/t/p/w92/8PTUTBeUACLVpt8waRgkyGnsEBk.jpg"
+    },
+    {
+      "name": "Marion Cotillard",
+      "role": "Lilly Bertineau",
+      "url": "https://multimovies.city/cast/marion-cotillard/",
+      "image": "https://image.tmdb.org/t/p/w92/zChwjQ9D90fxx6cgWz5mUWHNd5b.jpg"
+    },
+    {
+      "name": "Manuela Gourary",
+      "role": "Camille Coutant-Kerbalec",
+      "url": "https://multimovies.city/cast/manuela-gourary/",
+      "image": "https://image.tmdb.org/t/p/w92/xrIzHhIY3qD90Lbw91quTBZDTpk.jpg"
+    },
+    {
+      "name": "Emma Wiklund",
+      "role": "Petra",
+      "url": "https://multimovies.city/cast/emma-wiklund/",
+      "image": "https://image.tmdb.org/t/p/w92/1Frf4bFhnHyZCsZkPFTkQjCfSe9.jpg"
+    },
+    {
+      "name": "Bernard Farcy",
+      "role": "Commissaire Gibert",
+      "url": "https://multimovies.city/cast/bernard-farcy/",
+      "image": "https://image.tmdb.org/t/p/w92/yvrBgUmbpXDWbyv2x5pRrndq4et.jpg"
+    },
+    {
+      "name": "Georges Neri",
+      "role": "Joe",
+      "url": "https://multimovies.city/cast/georges-neri/",
+      "image": "https://image.tmdb.org/t/p/w92/zjC5WThIxaiXEvninwgHwHqsHpl.jpg"
+    },
+    {
+      "name": "Guy Quang",
+      "role": "Pizza Joe Motorcyclist",
+      "url": "https://multimovies.city/cast/guy-quang/",
+      "image": "https://image.tmdb.org/t/p/w92/okSWhT0HpWL2DozmskPZvh7DxRQ.jpg"
+    },
+    {
+      "name": "Maurice Murcia",
+      "role": "Pensioned Taxi Driver",
+      "url": "https://multimovies.city/cast/maurice-murcia/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sabine Bail",
+      "role": "Femme Pr\u00e9fecture",
+      "url": "https://multimovies.city/cast/sabine-bail/",
+      "image": "https://image.tmdb.org/t/p/w92/dbHLClGC7GM79f573qpuK9fmoiR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nmGgqRzbb0OHJloknzlorUzUVQo.jpg",
+    "https://image.tmdb.org/t/p/w300/8a8QjNv3Ziqc2tGjRmq34VEqMjq.jpg",
+    "https://image.tmdb.org/t/p/w300/hNQ0siDjv9o0vY1WSq9qWqyD4GA.jpg",
+    "https://image.tmdb.org/t/p/w300/u9xtjq0oUTWNaYpPPesPPAUt1Y4.jpg"
+  ],
+  "similar": [],
+  "views": 1222,
+  "sources": [
+    "https://www.youtube.com/embed/qYBNjVnbtFg?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/flezzywxcqau",
+    "https://sbplay.org/embed-cc8ccshanshc.html",
+    "https://dood.la/e/3k9o28r4zxy1",
+    "https://mixdrop.co/e/j99nnopnsgqwe9",
+    "https://embedsito.com/v/dkj64sxr2y4prrk?sub_en=https://sub.movstream.net/sub/taxi-hd-720p/taxi-hd-720p.vtt&default=sub_en#caption=https://sub.movstream.net/sub/taxi-hd-720p/taxi-hd-720p.vtt"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20741,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 20741,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 20741,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 20741,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 20741,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 20741,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
