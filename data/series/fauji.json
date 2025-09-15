@@ -1,0 +1,242 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/fauji/",
+  "meta": {
+    "title": "Fauji",
+    "poster": "https://image.tmdb.org/t/p/w500/cb350DjRguITIM7OlglaYr4CW15.jpg",
+    "networks": [
+      {
+        "name": "DD National",
+        "url": "https://multimovies.city/network/dd-national/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Amazon Prime",
+        "url": "https://multimovies.city/genre/amazon-prime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Jan. 17, 1989",
+    "ratingValue": "7.3",
+    "ratingCount": "3",
+    "synopsis": "A highly popular TV Series about the admission a batch of trainees in a commando school, their training and eventual induction as soldiers.",
+    "infoFields": {
+      "Original title": "\u092b\u094c\u091c\u0940",
+      "TMDb Rating": "6 2 votes",
+      "First air date": "Jan. 17, 1989",
+      "Last air date": "Apr. 11, 1989",
+      "Seasons": "1",
+      "Episodes": "13",
+      "Average Duration": "25 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Jan. 17, 1989",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Kadam Mila",
+          "url": "https://multimovies.city/episodes/fauji-1x1/",
+          "airDate": "Jan. 17, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/zo1jbih"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Fauji Bhai",
+          "url": "https://multimovies.city/episodes/fauji-1x2/",
+          "airDate": "Jan. 24, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/re72clq"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Zameeni Nishaan",
+          "url": "https://multimovies.city/episodes/fauji-1x3/",
+          "airDate": "Jan. 31, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/kvx6453"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Vikram Breaks Down",
+          "url": "https://multimovies.city/episodes/fauji-1x4/",
+          "airDate": "Feb. 07, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/l9sxm01"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Savadhan",
+          "url": "https://multimovies.city/episodes/fauji-1x5/",
+          "airDate": "Feb. 14, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/moeegu9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Hilo Maat",
+          "url": "https://multimovies.city/episodes/fauji-1x6/",
+          "airDate": "Feb. 21, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ww8388o"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Takkar",
+          "url": "https://multimovies.city/episodes/fauji-1x7/",
+          "airDate": "Feb. 28, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/x4xmw34"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Rafataar",
+          "url": "https://multimovies.city/episodes/fauji-1x8/",
+          "airDate": "Mar. 07, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/yo4z5ah"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Parvati's Marriage",
+          "url": "https://multimovies.city/episodes/fauji-1x9/",
+          "airDate": "Mar. 14, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/cafet23"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "Himmat",
+          "url": "https://multimovies.city/episodes/fauji-1x10/",
+          "airDate": "Mar. 21, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/dcahmms"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Real Danger",
+          "url": "https://multimovies.city/episodes/fauji-1x11/",
+          "airDate": "Mar. 28, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/njeusl1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "The War Begins",
+          "url": "https://multimovies.city/episodes/fauji-1x12/",
+          "airDate": "Apr. 04, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/v17ah4l"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Fauji",
+          "url": "https://multimovies.city/episodes/fauji-1x13/",
+          "airDate": "Apr. 11, 1989",
+          "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a784907ebe3793343721c13b4897967fea164000ae55aaf7277556fba9da93de._BR-6_AC_SX720_FMwebp_.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/kevfl0o"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Raj Kumar Kapoor",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/raj-kumar-kapoor/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Rakesh Sharma",
+      "role": "Major Vikram Rai",
+      "url": "https://multimovies.city/cast/rakesh-sharma/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Lt. Abhimanyu Rai",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Vishwajeet Pradhan",
+      "role": "Yaseen Khan",
+      "url": "https://multimovies.city/cast/vishwajeet-pradhan/",
+      "image": "https://image.tmdb.org/t/p/w92/fk5mBFnclEBE8AtgUfoa1i79oqt.jpg"
+    },
+    {
+      "name": "Vikram Chopra",
+      "role": "Lt. Varuneshwar Singhji",
+      "url": "https://multimovies.city/cast/vikram-chopra/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Amina Shervani",
+      "role": "Kiran",
+      "url": "https://multimovies.city/cast/amina-shervani/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Manjula Avtar",
+      "role": "Madhu Rathore",
+      "url": "https://multimovies.city/cast/manjula-avtar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qLUjg2qK5pYpD2fcVdzAYCoLLU2.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
