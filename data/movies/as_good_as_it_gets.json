@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/as-good-as-it-gets/",
+  "meta": {
+    "title": "As Good as It Gets",
+    "poster": "https://image.tmdb.org/t/p/w500/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Dec. 19, 1997",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Melvin Udall, a cranky, bigoted, obsessive-compulsive writer of romantic fiction, is rude to everyone he meets, including his gay neighbor, Simon. After Simon is brutally attacked and hospitalized, Melvin finds his life turned upside down when he has to look after Simon\u2019s dog. In addition, Carol, the only waitress at the local diner who will tolerate him, leaves work to care for her chronically ill son, making it impossible for Melvin to eat breakfast.",
+    "infoFields": {
+      "Original title": "As Good as It Gets",
+      "IMDb Rating": "7.7 330,993 votes",
+      "TMDb Rating": "7.396 3,915 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "James L. Brooks",
+      "role": "Director",
+      "url": "https://multimovies.city/director/james-l-brooks/",
+      "image": "https://image.tmdb.org/t/p/w92/mZBy39mFACFHMCqfbsN4Kc2qb2k.jpg"
+    },
+    {
+      "name": "Jack Nicholson",
+      "role": "Melvin Udall",
+      "url": "https://multimovies.city/cast/jack-nicholson/",
+      "image": "https://image.tmdb.org/t/p/w92/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
+    },
+    {
+      "name": "Helen Hunt",
+      "role": "Carol Connelly",
+      "url": "https://multimovies.city/cast/helen-hunt/",
+      "image": "https://image.tmdb.org/t/p/w92/aJVortGgkGkvK0DMiY0I7Fv77Qb.jpg"
+    },
+    {
+      "name": "Greg Kinnear",
+      "role": "Simon Bishop",
+      "url": "https://multimovies.city/cast/greg-kinnear/",
+      "image": "https://image.tmdb.org/t/p/w92/z7AxO6ChRTs2C0e7T9KqYJDY3KA.jpg"
+    },
+    {
+      "name": "Cuba Gooding Jr.",
+      "role": "Frank Sachs",
+      "url": "https://multimovies.city/cast/cuba-gooding-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+    },
+    {
+      "name": "Shirley Knight",
+      "role": "Beverly Connelly",
+      "url": "https://multimovies.city/cast/shirley-knight/",
+      "image": "https://image.tmdb.org/t/p/w92/5m1S3lOEP79hq10IODqEIfDPa1T.jpg"
+    },
+    {
+      "name": "Jesse James",
+      "role": "Spencer Connelly",
+      "url": "https://multimovies.city/cast/jesse-james/",
+      "image": "https://image.tmdb.org/t/p/w92/ebT4hnQ1VPtm9itUNp74Yj6Sx4o.jpg"
+    },
+    {
+      "name": "Yeardley Smith",
+      "role": "Jackie Simpson",
+      "url": "https://multimovies.city/cast/yeardley-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/5NImadk7xeOckagCWFJ4pu1L6bw.jpg"
+    },
+    {
+      "name": "Lupe Ontiveros",
+      "role": "Nora Manning",
+      "url": "https://multimovies.city/cast/lupe-ontiveros/",
+      "image": "https://image.tmdb.org/t/p/w92/bFlpBo46W4KXQVNspvPTUhZvsmQ.jpg"
+    },
+    {
+      "name": "Skeet Ulrich",
+      "role": "Vincent Lopiano",
+      "url": "https://multimovies.city/cast/skeet-ulrich/",
+      "image": "https://image.tmdb.org/t/p/w92/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
+    },
+    {
+      "name": "Harold Ramis",
+      "role": "Dr. Bettes",
+      "url": "https://multimovies.city/cast/harold-ramis/",
+      "image": "https://image.tmdb.org/t/p/w92/kmTMTxthkDAsygk3Am4IUSVYYRi.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/x7y8ezKtU1vRInk0dmbvDoKgJ8u.jpg",
+    "https://image.tmdb.org/t/p/w300/b65fJ6mlbkqYwsj9X7U8eSsuPOx.jpg",
+    "https://image.tmdb.org/t/p/w300/y48bVH82Fkunl0mprXfdOlERUIb.jpg",
+    "https://image.tmdb.org/t/p/w300/aYwBPp4IKECRDdNpcZp6DNQvR1P.jpg",
+    "https://image.tmdb.org/t/p/w300/onCtdF3oXDBczVQAzzQBJNrBwnw.jpg",
+    "https://image.tmdb.org/t/p/w300/fHd6SDQcZSDX2Q7fSfx48MPlLOu.jpg",
+    "https://image.tmdb.org/t/p/w300/4EJaQQregCjwS0OPHnkSi5rXEWV.jpg",
+    "https://image.tmdb.org/t/p/w300/6HE8M6K5e3oKkaEZLabJGBo4Jon.jpg",
+    "https://image.tmdb.org/t/p/w300/8I9gZ4obBEnABUUwd4B4392w4it.jpg",
+    "https://image.tmdb.org/t/p/w300/uA72Qm0rgCSpyXzrc5yPCr4CUvR.jpg"
+  ],
+  "similar": [],
+  "views": 277,
+  "sources": [
+    "https://www.youtube.com/embed/XG20uvj9w3g?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/a9t64e3"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 98052,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 98052,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false
+}
