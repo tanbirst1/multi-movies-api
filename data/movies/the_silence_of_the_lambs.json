@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-silence-of-the-lambs/",
+  "meta": {
+    "title": "The Silence of the Lambs",
+    "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Feb. 14, 1991",
+    "ratingValue": "8",
+    "ratingCount": "6",
+    "synopsis": "Clarice Starling is a top student at the FBI\u2019s training academy. Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism. Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+    "infoFields": {
+      "Original title": "The Silence of the Lambs",
+      "IMDb Rating": "8.6 1,550,328 votes",
+      "TMDb Rating": "8.348 15,738 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jonathan Demme",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jonathan-demme/",
+      "image": "https://image.tmdb.org/t/p/w92/w9Lw3xTEFQUYELkl9AH5i3p5OhJ.jpg"
+    },
+    {
+      "name": "Jodie Foster",
+      "role": "Clarice M. Starling",
+      "url": "https://multimovies.city/cast/jodie-foster/",
+      "image": "https://image.tmdb.org/t/p/w92/resiaRfWvj4N84TgJi9DPOafCpq.jpg"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "role": "Dr. Hannibal Lecter",
+      "url": "https://multimovies.city/cast/anthony-hopkins/",
+      "image": "https://image.tmdb.org/t/p/w92/9ukJS2QWTJ22HcwR1ktMmoJ6RSL.jpg"
+    },
+    {
+      "name": "Scott Glenn",
+      "role": "Jack Crawford",
+      "url": "https://multimovies.city/cast/scott-glenn/",
+      "image": "https://image.tmdb.org/t/p/w92/8DHORod2l6ZFS9KR0gNAAM3WZfI.jpg"
+    },
+    {
+      "name": "Ted Levine",
+      "role": "Jame 'Buffalo Bill' Gumb",
+      "url": "https://multimovies.city/cast/ted-levine/",
+      "image": "https://image.tmdb.org/t/p/w92/qRFq8y842T1uq51iQCwsEmQI3UT.jpg"
+    },
+    {
+      "name": "Anthony Heald",
+      "role": "Dr. Frederick Chilton",
+      "url": "https://multimovies.city/cast/anthony-heald/",
+      "image": "https://image.tmdb.org/t/p/w92/e0E6Z1Y0debr4mAHgj0HO7MYyXG.jpg"
+    },
+    {
+      "name": "Brooke Smith",
+      "role": "Catherine Martin",
+      "url": "https://multimovies.city/cast/brooke-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/A0D7CqSZ0rjlq83M4GMM4CcoUTA.jpg"
+    },
+    {
+      "name": "Diane Baker",
+      "role": "Senator Ruth Martin",
+      "url": "https://multimovies.city/cast/diane-baker/",
+      "image": "https://image.tmdb.org/t/p/w92/604pSqQ2EuieEv1P2BErJoCE5hJ.jpg"
+    },
+    {
+      "name": "Kasi Lemmons",
+      "role": "Ardelia Mapp",
+      "url": "https://multimovies.city/cast/kasi-lemmons/",
+      "image": "https://image.tmdb.org/t/p/w92/fki6oNOonW0yzfJRHDL1QxlIAtR.jpg"
+    },
+    {
+      "name": "Frankie Faison",
+      "role": "Barney Matthews",
+      "url": "https://multimovies.city/cast/frankie-faison/",
+      "image": "https://image.tmdb.org/t/p/w92/3717JOXK2Z8qelfyvScDGimfFBf.jpg"
+    },
+    {
+      "name": "Tracey Walter",
+      "role": "Lamar",
+      "url": "https://multimovies.city/cast/tracey-walter/",
+      "image": "https://image.tmdb.org/t/p/w92/brqhinzxGKzqfAhOq6Npi3GFVWW.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+    "https://image.tmdb.org/t/p/w300/lDJx0ZKbfYbGoe8mwWmVKSQr0ub.jpg",
+    "https://image.tmdb.org/t/p/w300/mfwq2nMBzArzQ7Y9RKE8SKeeTkg.jpg",
+    "https://image.tmdb.org/t/p/w300/8HZgoLExCTFOVRPndUnW4FjZZLf.jpg",
+    "https://image.tmdb.org/t/p/w300/jZoFYLy7VaH1XhPLSRoUmuO809f.jpg",
+    "https://image.tmdb.org/t/p/w300/58qPpBoe0E0PNNzRwUxjFvcQkEP.jpg",
+    "https://image.tmdb.org/t/p/w300/pI9B4wppGflpsOD2T6rxgC5Clmz.jpg",
+    "https://image.tmdb.org/t/p/w300/5EqT0WyG7yYs8v7GdoS4R9P75Gz.jpg",
+    "https://image.tmdb.org/t/p/w300/lO45dvI9kxJme9nlEegFTir9oTP.jpg",
+    "https://image.tmdb.org/t/p/w300/5PzSoOmkicXNZnl2MyHslfKjMuA.jpg"
+  ],
+  "similar": [],
+  "views": 3141,
+  "sources": [
+    "https://www.youtube.com/embed/8xWbc_kFus4?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/2nzqal8q43ck"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 51530,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 51530,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
