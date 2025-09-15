@@ -1,39 +1,27 @@
-import { Octokit } from "@octokit/rest";
-
-// --- GitHub Settings ---
 const GITHUB_REPO = "tanbirst1/multi-movies-api";
 const GITHUB_BRANCH = "main";
 const DATA_DIR = "data/movies";
 
-// Save file to GitHub
 async function saveToGithub(path, content) {
-  const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
-
-  let sha;
-  try {
-    const { data } = await octokit.repos.getContent({
-      owner: GITHUB_REPO.split("/")[0],
-      repo: GITHUB_REPO.split("/")[1],
-      path,
-      ref: GITHUB_BRANCH,
-    });
-    sha = data.sha;
-  } catch (e) {
-    sha = undefined; // new file
-  }
-
-  await octokit.repos.createOrUpdateFileContents({
-    owner: GITHUB_REPO.split("/")[0],
-    repo: GITHUB_REPO.split("/")[1],
-    path,
-    branch: GITHUB_BRANCH,
-    message: `scraped: ${path}`,
-    content: Buffer.from(JSON.stringify(content, null, 2)).toString("base64"),
-    sha,
+  const url = `https://api.github.com/repos/${GITHUB_REPO}/contents/${path}`;
+  const res = await fetch(url, {
+    method: "PUT",
+    headers: {
+      "Authorization": `Bearer ${process.env.GITHUB_TOKEN}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      message: `scraped: ${path}`,
+      content: Buffer.from(JSON.stringify(content, null, 2)).toString("base64"),
+      branch: GITHUB_BRANCH,
+    }),
   });
+  if (!res.ok) {
+    const err = await res.text();
+    throw new Error("GitHub save failed: " + err);
+  }
 }
 
-// Fetch helper
 async function fetchJson(url) {
   const res = await fetch(url, { headers: { "user-agent": "ScraperBot/1.0" } });
   if (!res.ok) throw new Error(`${url} failed ${res.status}`);
@@ -42,10 +30,10 @@ async function fetchJson(url) {
 
 export default async function handler(req, res) {
   try {
-    const { page = 6, total = 6 } = req.query; // for testing, start at last page (6)
+    const { page = 6, total = 6 } = req.query;
     const reversePage = total - page + 1;
 
-    // --- Step 1: Get all titles from page ---
+    // Step 1: Titles
     const listUrl = `https://multi-movies-api.vercel.app/api/page?path=/tvshows/&page=${page}`;
     const list = await fetchJson(listUrl);
 
@@ -54,24 +42,24 @@ export default async function handler(req, res) {
         const slug = encodeURIComponent(item.title.toLowerCase().replace(/\s+/g, "-"));
         const safeName = slug.replace(/[^a-z0-9-_]/gi, "_");
 
-        // --- Step 2: Series details (tv.js) ---
+        // Step 2: TV details
         const tvUrl = `https://multi-movies-api.vercel.app/api/tv?slug=${slug}&section=movies`;
         const tvData = await fetchJson(tvUrl);
 
-        // --- Step 3: For each episode, get video src ---
+        // Step 3: Add video sources
         for (const season of tvData.seasons || []) {
           for (const ep of season.episodes || []) {
             try {
               const videoUrl = `https://multi-movies-api.vercel.app/api/video?url=${encodeURIComponent(ep.url)}`;
               const videoData = await fetchJson(videoUrl);
               ep.sources = videoData.sources || [];
-            } catch (e) {
+            } catch {
               ep.sources = [];
             }
           }
         }
 
-        // --- Save to GitHub ---
+        // Step 4: Save
         const savePath = `${DATA_DIR}/page${reversePage}/${safeName}.json`;
         await saveToGithub(savePath, {
           meta: tvData.meta,
@@ -83,8 +71,8 @@ export default async function handler(req, res) {
       }
     }
 
-    // --- Auto-refresh for next page ---
-    let next = parseInt(page) - 1; // go backwards
+    // Auto refresh
+    let next = parseInt(page) - 1;
     let done = next < 1;
     let html = done
       ? `<h2>✅ Done scraping all ${total} pages!</h2>`
@@ -95,6 +83,6 @@ export default async function handler(req, res) {
     res.status(200).send(html);
 
   } catch (err) {
-    res.status(500).json({ error: err.message, stack: err.stack });
+    res.status(500).json({ error: err.message });
   }
 }
