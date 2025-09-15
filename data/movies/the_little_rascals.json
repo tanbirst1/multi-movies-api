@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-little-rascals/",
+  "meta": {
+    "title": "The Little Rascals",
+    "poster": "https://image.tmdb.org/t/p/w500/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Aug. 05, 1994",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "When nine-year-old Alfalfa falls for Darla, his \u201cHe-Man-Woman-Hating\u201d friends attempt to sabotage their relationship.",
+    "infoFields": {
+      "Original title": "The Little Rascals",
+      "IMDb Rating": "6.3 59,694 votes",
+      "TMDb Rating": "6.784 1,256 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Penelope Spheeris",
+      "role": "Director",
+      "url": "https://multimovies.city/director/penelope-spheeris/",
+      "image": "https://image.tmdb.org/t/p/w92/7juDUTAEyAKKfDmkOD9q24kjrei.jpg"
+    },
+    {
+      "name": "Bug Hall",
+      "role": "Alfalfa",
+      "url": "https://multimovies.city/cast/bug-hall/",
+      "image": "https://image.tmdb.org/t/p/w92/axuZx8nn7R7ohlkfnxO9k3TIGiq.jpg"
+    },
+    {
+      "name": "Brittany Ashton Holmes",
+      "role": "Darla",
+      "url": "https://multimovies.city/cast/brittany-ashton-holmes/",
+      "image": "https://image.tmdb.org/t/p/w92/8wV95voN0vX7CSTbwaQV87Ty7cM.jpg"
+    },
+    {
+      "name": "Travis Tedford",
+      "role": "Spanky",
+      "url": "https://multimovies.city/cast/travis-tedford/",
+      "image": "https://image.tmdb.org/t/p/w92/mVfFFVKhxADeJgyZkdmUmWTY9R1.jpg"
+    },
+    {
+      "name": "Kevin Jamal Woods",
+      "role": "Stymie",
+      "url": "https://multimovies.city/cast/kevin-jamal-woods/",
+      "image": "https://image.tmdb.org/t/p/w92/hL7bQ6VmiXgnAHgQ20OUIsKZdZz.jpg"
+    },
+    {
+      "name": "Jordan Warkol",
+      "role": "Froggy",
+      "url": "https://multimovies.city/cast/jordan-warkol/",
+      "image": "https://image.tmdb.org/t/p/w92/3PKc7upjRt4JmkjlwIgKjDmsL7u.jpg"
+    },
+    {
+      "name": "Zachary Mabry",
+      "role": "Porky",
+      "url": "https://multimovies.city/cast/zachary-mabry/",
+      "image": "https://image.tmdb.org/t/p/w92/10lmmasKRPJhPwukCQGt74vcaZQ.jpg"
+    },
+    {
+      "name": "Ross Bagley",
+      "role": "Buckwheat",
+      "url": "https://multimovies.city/cast/ross-bagley/",
+      "image": "https://image.tmdb.org/t/p/w92/modarNXEmohsS1cEstQ6ppVeMlX.jpg"
+    },
+    {
+      "name": "Courtland Mead",
+      "role": "Uh-Huh",
+      "url": "https://multimovies.city/cast/courtland-mead/",
+      "image": "https://image.tmdb.org/t/p/w92/71Npi8B3YfSbOOXo5uvT5Nhn3Ah.jpg"
+    },
+    {
+      "name": "Sam Saletta",
+      "role": "Butch",
+      "url": "https://multimovies.city/cast/sam-saletta/",
+      "image": "https://image.tmdb.org/t/p/w92/rekTUrHdRmxIMdadujaj7gmtnkF.jpg"
+    },
+    {
+      "name": "Blake Jeremy Collins",
+      "role": "Woim",
+      "url": "https://multimovies.city/cast/blake-jeremy-collins/",
+      "image": "https://image.tmdb.org/t/p/w92/22guUMxVi5P9TMVYV76NdgsuVNY.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/GGtBQDAl7CtZtTFTCUUoYHVHyJ.jpg",
+    "https://image.tmdb.org/t/p/w300/a7gF8aOZnUottagNs4I1gVIvQcc.jpg",
+    "https://image.tmdb.org/t/p/w300/sLMwiEcAsztB2BNXcPelj2GzkWp.jpg",
+    "https://image.tmdb.org/t/p/w300/oRzTToffqhqWiT4Eyvfxz0FA0sO.jpg",
+    "https://image.tmdb.org/t/p/w300/A1xqgGIPnNhen2JRmUGL0NF6Ezd.jpg",
+    "https://image.tmdb.org/t/p/w300/2wIUTVtltkCUMvfZKnjzDts4Nlv.jpg",
+    "https://image.tmdb.org/t/p/w300/2i3LYcHjGtYobBq21NXqUPFcxe5.jpg",
+    "https://image.tmdb.org/t/p/w300/zOHncZkYK7XagTTAyuG0xJ6CXMj.jpg",
+    "https://image.tmdb.org/t/p/w300/tnJPEuNS9SYgmyu5mFFlGTh5nRx.jpg",
+    "https://image.tmdb.org/t/p/w300/qntPwjQUO2oyuvAkyjBxySSQrgh.jpg"
+  ],
+  "similar": [],
+  "views": 377,
+  "sources": [
+    "https://www.youtube.com/embed/FgyCE8VsGKM?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/co8pg6q"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 96819,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 96819,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
