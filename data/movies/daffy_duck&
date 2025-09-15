@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "scrapedFrom": "https://multimovies.city/movies/daffy-ducks-movie-fantastic-island/",
+  "scrapedFrom": "https://multimovies.city/movies/daffy-ducks-quackbusters/",
   "meta": {
-    "title": "Daffy Duck\u2019s Movie: Fantastic Island",
-    "poster": "https://image.tmdb.org/t/p/w500/4VG5EwIFjYTybYII3fMilhGitUs.jpg",
+    "title": "Daffy Duck\u2019s Quackbusters",
+    "poster": "https://image.tmdb.org/t/p/w500/3qZF2KvosVuyx0FRbm5rteBGrnF.jpg",
     "networks": [],
     "genres": [
       {
@@ -25,16 +25,20 @@
       {
         "name": "Fantasy",
         "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
       }
     ],
-    "firstAirDate": "Aug. 05, 1983",
+    "firstAirDate": "Sep. 24, 1988",
     "ratingValue": "5",
     "ratingCount": "1",
-    "synopsis": "Daffy Duck and Speedy Gonzales find a treasure map that leads them to a wishing well, which for a penny will grant any wish (through old cartoon footage). Daffy sets up a resort around the well and various Looney Tunes characters have their dreams come true. Meanwhile, Yosemite Sam and the Tasmanian Devil hunt for the varmints who stole their treasure map!",
+    "synopsis": "In this feature-length film combining footage from classic Warner Brothers cartoon shorts with newly animated bridging sequences, Daffy Duck, after having induced laughter in an ailing millionaire and forestalled the millionaire\u2019s death for a time (as chronicled in Daffy Dilly (1948), is the beneficiary for the deceased millionaire\u2019s assets. But the millionaire\u2019s will clearly stipulates that Daffy must use the money for the common good, by providing a service, and should Daffy think of pursuing selfish aims, the millionaire\u2019s ghost will \u201crepossess\u201d his millions by making them disappear from Earthly existence. Under the pretense of community service, Daffy opens an exorcism agency and employs Porky Pig, Sylvester Cat, and Bugs Bunny to track and eliminate ghosts, ghouls, and other monsters, while Daffy secretly schemes to use his learned \u201cghost-busting\u201d talents to rid himself of the millionaire\u2019s nagging spirit.",
     "infoFields": {
-      "Original title": "Daffy Duck's Movie: Fantastic Island",
-      "IMDb Rating": "6.9 2,052 votes",
-      "TMDb Rating": "6.556 98 votes"
+      "Original title": "Daffy Duck's Quackbusters",
+      "IMDb Rating": "7 2,537 votes",
+      "TMDb Rating": "6.686 110 votes"
     }
   },
   "seasons": [],
@@ -47,37 +51,35 @@
     },
     {
       "name": "Mel Blanc",
-      "role": "Bugs Bunny / Daffy Duck / Porky Pig / Tweety / Sylvester / Yosemite Sam / Speedy Gonzales / Taz / Foghorn Leghorn (voice)",
+      "role": "Daffy Duck/Bugs Bunny/Porky Pig/Sylvester",
       "url": "https://multimovies.city/cast/mel-blanc/",
       "image": "https://image.tmdb.org/t/p/w92/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
-    },
-    {
-      "name": "June Foray",
-      "role": "Granny (voice)",
-      "url": "https://multimovies.city/cast/june-foray/",
-      "image": "https://image.tmdb.org/t/p/w92/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg"
-    },
-    {
-      "name": "Les Tremayne",
-      "role": "The Well (voice)",
-      "url": "https://multimovies.city/cast/les-tremayne/",
-      "image": "https://image.tmdb.org/t/p/w92/pYQXe5qlmcTzqQwfLjYETLqQQ1b.jpg"
     }
   ],
   "gallery": [
-    "https://image.tmdb.org/t/p/w300/Zw58auxBY3coGpOSy0nItQWHpT.jpg",
-    "https://image.tmdb.org/t/p/w300/dEN1Z1ajOCNSm4VjwfWatAkFHoB.jpg",
-    "https://image.tmdb.org/t/p/w300/gZXVQKybnuDUJsZQ4vAb20mF8Hb.jpg"
+    "https://image.tmdb.org/t/p/w300/zcelH1QmItPseCXJrmos5ekee84.jpg",
+    "https://image.tmdb.org/t/p/w300/i5xu4ulcB1VIsgnSMnBZkAQ0t33.jpg",
+    "https://image.tmdb.org/t/p/w300/johna4IMdH9YuIHE6kcS1zKNqvp.jpg",
+    "https://image.tmdb.org/t/p/w300/j5EVR2CvHIDkoHPSJJ1Vt8FPQ1I.jpg",
+    "https://image.tmdb.org/t/p/w300/3jTw1SaUc8HEad88r9tLsdogEEp.jpg",
+    "https://image.tmdb.org/t/p/w300/s27S4paRgNYeB1eql3hI1ggeRNv.jpg"
   ],
   "similar": [],
-  "views": 612,
+  "views": 744,
   "sources": [
-    "https://multimoviesshg.com/e/0qd7h8uqbm4p"
+    "https://www.youtube.com/embed/HPh67iR9_IE?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ujuh2bl6lt7u"
   ],
   "options": [
     {
       "type": "movie",
-      "post": 18587,
+      "post": 18595,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18595,
       "nume": 1,
       "title": "d"
     }
