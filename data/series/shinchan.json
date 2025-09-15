@@ -1,0 +1,1290 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/shin-chan/",
+  "meta": {
+    "title": "ShinChan",
+    "poster": "https://image.tmdb.org/t/p/w500/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
+    "networks": [
+      {
+        "name": "tv asahi",
+        "url": "https://multimovies.city/network/tv-asahi/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Series",
+        "url": "https://multimovies.city/genre/anime-series/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hindi Dub Anime",
+        "url": "https://multimovies.city/genre/anime-hindi/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Kids",
+        "url": "https://multimovies.city/genre/kids/"
+      }
+    ],
+    "firstAirDate": "Apr. 13, 1992",
+    "ratingValue": "10",
+    "ratingCount": "9",
+    "synopsis": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+    "infoFields": {
+      "Original title": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093",
+      "TMDb Rating": "7.601 79 votes",
+      "First air date": "Apr. 13, 1992",
+      "Last air date": "Sep. 21, 2018",
+      "Seasons": "1",
+      "Episodes": "2391",
+      "Average Duration": "24 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Apr. 13, 1992",
+      "episodeCount": 52,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Running an Errand",
+          "url": "https://multimovies.city/episodes/shin-chan-1x1/",
+          "airDate": "Apr. 13, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/08/kBRQFSsHRZ9Bh8pjzXcKVgR8sF1.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/deq3bzbavoki"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Mama's Mornings are Busy",
+          "url": "https://multimovies.city/episodes/shin-chan-1x2/",
+          "airDate": "Apr. 13, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/08/7kAbUQl79ujjMzwcsNkPxPg8KLk.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/yvfi9va6zo24"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Doodling",
+          "url": "https://multimovies.city/episodes/shin-chan-1x3/",
+          "airDate": "Apr. 13, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/08/8hx2bqcRgloa8P2jrqb71bageHj.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/r3lkhbuamsav"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Tricycles are Fun",
+          "url": "https://multimovies.city/episodes/shin-chan-1x4/",
+          "airDate": "Apr. 20, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/08/nFBhNuLBQa2tnLP6YRdqbsQ5Z33.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/xn8h38pc07ua"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "My Stomach Is Going to Burst",
+          "url": "https://multimovies.city/episodes/shin-chan-1x5/",
+          "airDate": "Apr. 20, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/519sincah13s"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "A Nightmare for Dad",
+          "url": "https://multimovies.city/episodes/shin-chan-1x6/",
+          "airDate": "Apr. 20, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/pd62q5a3in9o"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Watching Action Mask",
+          "url": "https://multimovies.city/episodes/shin-chan-1x7/",
+          "airDate": "Apr. 27, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/p717344n3n8y"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "School Lunch Is Fun",
+          "url": "https://multimovies.city/episodes/shin-chan-1x8/",
+          "airDate": "Apr. 27, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/5slo0op02esk"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Going to the Dentist",
+          "url": "https://multimovies.city/episodes/shin-chan-1x9/",
+          "airDate": "Apr. 27, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/h79i8j6vbuzb"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "The Sunflower Class Gang",
+          "url": "https://multimovies.city/episodes/shin-chan-1x10/",
+          "airDate": "May. 04, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/klavaricndex"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Going on a Picnic (1)",
+          "url": "https://multimovies.city/episodes/shin-chan-1x11/",
+          "airDate": "May. 04, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/pu70331i3tfg"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Going on a Picnic (2)",
+          "url": "https://multimovies.city/episodes/shin-chan-1x12/",
+          "airDate": "May. 04, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/09d25xgp0wf1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Going to the Movies",
+          "url": "https://multimovies.city/episodes/shin-chan-1x13/",
+          "airDate": "May. 11, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/4tgmat66smv1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 14,
+          "title": "A Good Boy's Present",
+          "url": "https://multimovies.city/episodes/shin-chan-1x14/",
+          "airDate": "May. 11, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/8j061y6t6gks"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 15,
+          "title": "Lending a Hand",
+          "url": "https://multimovies.city/episodes/shin-chan-1x15/",
+          "airDate": "May. 11, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/k45oxhte98vv"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 16,
+          "title": "Tidying Up",
+          "url": "https://multimovies.city/episodes/shin-chan-1x16/",
+          "airDate": "May. 18, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/d9um0l9tccmp"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 17,
+          "title": "Raising Poletads",
+          "url": "https://multimovies.city/episodes/shin-chan-1x17/",
+          "airDate": "May. 18, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/kr4iz7d3bdee"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 18,
+          "title": "Bathing with Mom",
+          "url": "https://multimovies.city/episodes/shin-chan-1x18/",
+          "airDate": "May. 18, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/aht46pqehfy0"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 19,
+          "title": "Disaster Drills Are a Nightmare",
+          "url": "https://multimovies.city/episodes/shin-chan-1x19/",
+          "airDate": "May. 25, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/bu7t39ns6834"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 20,
+          "title": "I found a Puppy",
+          "url": "https://multimovies.city/episodes/shin-chan-1x20/",
+          "airDate": "May. 25, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/qlum6gzfenz6"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 21,
+          "title": "His Name Is Shiro",
+          "url": "https://multimovies.city/episodes/shin-chan-1x21/",
+          "airDate": "May. 25, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/dqe4erpfhsi0"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 22,
+          "title": "Going for a Walk with Shiro",
+          "url": "https://multimovies.city/episodes/shin-chan-1x22/",
+          "airDate": "Jun. 08, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/vx39seeenymq"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 23,
+          "title": "Building Shiro's House",
+          "url": "https://multimovies.city/episodes/shin-chan-1x23/",
+          "airDate": "Jun. 08, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/ndkf03y18vxz"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 24,
+          "title": "I Hate Green Peppers",
+          "url": "https://multimovies.city/episodes/shin-chan-1x24/",
+          "airDate": "Jun. 08, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/y2lc2bs7n701"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 25,
+          "title": "Not Getting in Dad's Way",
+          "url": "https://multimovies.city/episodes/shin-chan-1x25/",
+          "airDate": "Jun. 15, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/uocvuugemc8p"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 26,
+          "title": "Playing with Clay",
+          "url": "https://multimovies.city/episodes/shin-chan-1x26/",
+          "airDate": "Jun. 15, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/fr3t2goxb0hb"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 27,
+          "title": "Standing and Reading in the Bookstore",
+          "url": "https://multimovies.city/episodes/shin-chan-1x27/",
+          "airDate": "Jun. 15, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/ersac4p4cxoj"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 28,
+          "title": "A College Girl Is My Friend",
+          "url": "https://multimovies.city/episodes/shin-chan-1x28/",
+          "airDate": "Jun. 22, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/rj7yi2ng6wb3"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 29,
+          "title": "I Want a High-fleg Swimsuit",
+          "url": "https://multimovies.city/episodes/shin-chan-1x29/",
+          "airDate": "Jun. 22, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/3hhbi49dx2up"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 30,
+          "title": "It's Pool Time",
+          "url": "https://multimovies.city/episodes/shin-chan-1x30/",
+          "airDate": "Jun. 22, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/qcpbaiiuwbc9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 31,
+          "title": "Feeding Shiro",
+          "url": "https://multimovies.city/episodes/shin-chan-1x31/",
+          "airDate": "Jun. 29, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/reee04cffpch"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 32,
+          "title": "Fighting Couples Are Troublesome",
+          "url": "https://multimovies.city/episodes/shin-chan-1x32/",
+          "airDate": "Jun. 29, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/8qggyzbgu57b"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 33,
+          "title": "A Parent-Child Dragnet",
+          "url": "https://multimovies.city/episodes/shin-chan-1x33/",
+          "airDate": "Jun. 29, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/p5x26wp1xrek"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 34,
+          "title": "Going to the Barbershop",
+          "url": "https://multimovies.city/episodes/shin-chan-1x34/",
+          "airDate": "Jul. 06, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/xcscrnjv38dd"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 35,
+          "title": "Protecting My Treasure",
+          "url": "https://multimovies.city/episodes/shin-chan-1x35/",
+          "airDate": "Jul. 06, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/zxod0cetzmy0"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 36,
+          "title": "Filming a Video",
+          "url": "https://multimovies.city/episodes/shin-chan-1x36/",
+          "airDate": "Jul. 06, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/tbih812fdj5h"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 37,
+          "title": "Sea Water Bath's are Fun",
+          "url": "https://multimovies.city/episodes/shin-chan-1x37/",
+          "airDate": "Jul. 13, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/q96z8votfga4"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 38,
+          "title": "Staying at a Luxurious Hotel",
+          "url": "https://multimovies.city/episodes/shin-chan-1x38/",
+          "airDate": "Jul. 13, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/0sxps7cxmzwa"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 39,
+          "title": "The Road Home Is Long",
+          "url": "https://multimovies.city/episodes/shin-chan-1x39/",
+          "airDate": "Jul. 13, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/tywi6jcdbwnu"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 40,
+          "title": "Mommy's Nap",
+          "url": "https://multimovies.city/episodes/shin-chan-1x40/",
+          "airDate": "Jul. 20, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/x7wdp9j5xgbi"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 41,
+          "title": "Having an Ego",
+          "url": "https://multimovies.city/episodes/shin-chan-1x41/",
+          "airDate": "Jul. 20, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/xthkhlcddoo7"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 42,
+          "title": "This time, We're Doing Fireworks",
+          "url": "https://multimovies.city/episodes/shin-chan-1x42/",
+          "airDate": "Jul. 20, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/tfac68xc1dq7"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 43,
+          "title": "Riding the Train",
+          "url": "https://multimovies.city/episodes/shin-chan-1x43/",
+          "airDate": "Jul. 27, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/5ce10i6yjvjh"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 44,
+          "title": "Rode the Train",
+          "url": "https://multimovies.city/episodes/shin-chan-1x44/",
+          "airDate": "Jul. 27, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/2eux3f62m07i"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 45,
+          "title": "Choosing a Sent\u014d",
+          "url": "https://multimovies.city/episodes/shin-chan-1x45/",
+          "airDate": "Jul. 27, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/o51bi4441al5"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 46,
+          "title": "Mommy's Nursing",
+          "url": "https://multimovies.city/episodes/shin-chan-1x46/",
+          "airDate": "Aug. 10, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/v5int5zdckf6"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 47,
+          "title": "Playing with a Bully",
+          "url": "https://multimovies.city/episodes/shin-chan-1x47/",
+          "airDate": "Aug. 10, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/9lqjc4jkhia9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 48,
+          "title": "Going to a Temple Festival",
+          "url": "https://multimovies.city/episodes/shin-chan-1x48/",
+          "airDate": "Aug. 10, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/olovs3robdzx"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 49,
+          "title": "Encountering Action Mask",
+          "url": "https://multimovies.city/episodes/shin-chan-1x49/",
+          "airDate": "Aug. 24, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/4ndehd5ie27k"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 50,
+          "title": "Yoshinaga-sensei's Date",
+          "url": "https://multimovies.city/episodes/shin-chan-1x50/",
+          "airDate": "Aug. 24, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/9t8osm27oyxo"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 51,
+          "title": "The Forgotten Shirov",
+          "url": "https://multimovies.city/episodes/shin-chan-1x51/",
+          "airDate": "Aug. 24, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/392v3pn5mobd"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 52,
+          "title": "Doing Baseball with Daddy",
+          "url": "https://multimovies.city/episodes/shin-chan-1x52/",
+          "airDate": "Aug. 31, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://multimoviesshg.com/e/g4s8p0sj84fi"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 2,
+      "seasonTitle": "Season 2 Sep. 15, 2025",
+      "episodeCount": 52,
+      "episodes": [
+        {
+          "seasonNo": 2,
+          "episodeNo": 1,
+          "title": "Episode 1",
+          "url": "https://multimovies.city/episodes/63985/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/3a07d"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 2,
+          "title": "Episode 2",
+          "url": "https://multimovies.city/episodes/63987/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/efdd3"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 3,
+          "title": "Episode 3",
+          "url": "https://multimovies.city/episodes/63988/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/0cb68"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 4,
+          "title": "Episode 4",
+          "url": "https://multimovies.city/episodes/63989/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/c73b6"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 5,
+          "title": "Episode 5",
+          "url": "https://multimovies.city/episodes/63990/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/b6081"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 6,
+          "title": "Episode 6",
+          "url": "https://multimovies.city/episodes/63991/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/151ed"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 7,
+          "title": "Episode 7",
+          "url": "https://multimovies.city/episodes/63992/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/a0f81"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 8,
+          "title": "Episode 8",
+          "url": "https://multimovies.city/episodes/63993/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/7da49"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 9,
+          "title": "Episode 9",
+          "url": "https://multimovies.city/episodes/63994/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/e127f"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 10,
+          "title": "Episode 10",
+          "url": "https://multimovies.city/episodes/63995/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/9f58b"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 11,
+          "title": "Episode 11",
+          "url": "https://multimovies.city/episodes/63996/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/26592"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 12,
+          "title": "Episode 12",
+          "url": "https://multimovies.city/episodes/63997/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/d5184"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 13,
+          "title": "Episode 13",
+          "url": "https://multimovies.city/episodes/63998/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/d978c"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 14,
+          "title": "Episode 14",
+          "url": "https://multimovies.city/episodes/63999/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/eddae"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 15,
+          "title": "Episode 15",
+          "url": "https://multimovies.city/episodes/64000/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/1bb35"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 16,
+          "title": "Episode 16",
+          "url": "https://multimovies.city/episodes/64001/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/fcb80"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 17,
+          "title": "Episode 17",
+          "url": "https://multimovies.city/episodes/64002/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/4f251"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 18,
+          "title": "Episode 18",
+          "url": "https://multimovies.city/episodes/64003/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/65e01"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 19,
+          "title": "Episode 19",
+          "url": "https://multimovies.city/episodes/64005/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/84f4f"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 20,
+          "title": "Episode 20",
+          "url": "https://multimovies.city/episodes/64006/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/d8ba7"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 21,
+          "title": "Episode 21",
+          "url": "https://multimovies.city/episodes/64007/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/beb7c"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 22,
+          "title": "Episode 22",
+          "url": "https://multimovies.city/episodes/64008/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/d922f"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 23,
+          "title": "Episode 23",
+          "url": "https://multimovies.city/episodes/64009/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/812f5"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 24,
+          "title": "Episode 24",
+          "url": "https://multimovies.city/episodes/64010/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/1068e"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 25,
+          "title": "Episode 25",
+          "url": "https://multimovies.city/episodes/64011/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/b087f"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 26,
+          "title": "Episode 26",
+          "url": "https://multimovies.city/episodes/64012/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/11786"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 27,
+          "title": "Episode 27",
+          "url": "https://multimovies.city/episodes/64013/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/46b1a"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 28,
+          "title": "Episode 28",
+          "url": "https://multimovies.city/episodes/64014/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/54663"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 29,
+          "title": "Episode 29",
+          "url": "https://multimovies.city/episodes/64015/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/8aa53"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 30,
+          "title": "Episode 30",
+          "url": "https://multimovies.city/episodes/64016/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/cae43"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 31,
+          "title": "Episode 31",
+          "url": "https://multimovies.city/episodes/64018/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/200ff"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 32,
+          "title": "Episode 32",
+          "url": "https://multimovies.city/episodes/64019/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/c45f6"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 33,
+          "title": "Episode 33",
+          "url": "https://multimovies.city/episodes/64020/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/0fb36"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 34,
+          "title": "Episode 34",
+          "url": "https://multimovies.city/episodes/64021/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/528ac"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 35,
+          "title": "Episode 35",
+          "url": "https://multimovies.city/episodes/64022/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/e20af"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 36,
+          "title": "Episode 36",
+          "url": "https://multimovies.city/episodes/64023/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/7ec69"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 37,
+          "title": "Episode 37",
+          "url": "https://multimovies.city/episodes/64024/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/b29d4"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 38,
+          "title": "Episode 38",
+          "url": "https://multimovies.city/episodes/64025/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/3e402"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 39,
+          "title": "Episode 39",
+          "url": "https://multimovies.city/episodes/64026/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/84846"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 40,
+          "title": "Episode 40",
+          "url": "https://multimovies.city/episodes/64027/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/5c153"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 41,
+          "title": "Episode 41",
+          "url": "https://multimovies.city/episodes/64028/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/c64cb"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 42,
+          "title": "Episode 42",
+          "url": "https://multimovies.city/episodes/64029/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/01f94"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 43,
+          "title": "Episode 43",
+          "url": "https://multimovies.city/episodes/64030/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/e104b"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 44,
+          "title": "Episode 44",
+          "url": "https://multimovies.city/episodes/64031/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/e48d8"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 45,
+          "title": "Episode 45",
+          "url": "https://multimovies.city/episodes/64032/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/98cd0"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 46,
+          "title": "Episode 46",
+          "url": "https://multimovies.city/episodes/64033/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/61d2d"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 47,
+          "title": "Episode 47",
+          "url": "https://multimovies.city/episodes/64034/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/a8458"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 48,
+          "title": "Episode 48",
+          "url": "https://multimovies.city/episodes/64035/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/73e8f"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 49,
+          "title": "Episode 49",
+          "url": "https://multimovies.city/episodes/64036/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/3eb69"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 50,
+          "title": "Episode 50",
+          "url": "https://multimovies.city/episodes/64037/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/bb40a"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 51,
+          "title": "Episode 51",
+          "url": "https://multimovies.city/episodes/64038/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/43b90"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 52,
+          "title": "Episode 52",
+          "url": "https://multimovies.city/episodes/64039/",
+          "airDate": "Sep. 15, 2025",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/09/kMbxlfY-1320x990-1.jpg",
+          "sources": [
+            "https://deaddrive.shop/embed/00f01"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Yoshito Usui",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/yoshito-usui/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Akiko Yajima",
+      "role": "Shinnosuke Nohara (voice)",
+      "url": "https://multimovies.city/cast/akiko-yajima/",
+      "image": "https://image.tmdb.org/t/p/w92/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
+    },
+    {
+      "name": "Miki Narahashi",
+      "role": "Misae Nohara (voice)",
+      "url": "https://multimovies.city/cast/miki-narahashi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Keiji Fujiwara",
+      "role": "Hiroshi Nohara (voice)",
+      "url": "https://multimovies.city/cast/keiji-fujiwara/",
+      "image": "https://image.tmdb.org/t/p/w92/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+    },
+    {
+      "name": "Satomi Korogi",
+      "role": "Himawari Nohara (voice)",
+      "url": "https://multimovies.city/cast/satomi-korogi/",
+      "image": "https://image.tmdb.org/t/p/w92/k6aNf0zGFGBptCMeFwHV88nlITX.jpg"
+    },
+    {
+      "name": "Mari Mashiba",
+      "role": "Shiro (voice) / Toru Kazama (voice)",
+      "url": "https://multimovies.city/cast/mari-mashiba/",
+      "image": "https://image.tmdb.org/t/p/w92/RlkauVMbIofwYvwM9j5Hbb6SyJ.jpg"
+    },
+    {
+      "name": "Chie Sato",
+      "role": "Bo (voice)",
+      "url": "https://multimovies.city/cast/chie-sato/",
+      "image": "https://image.tmdb.org/t/p/w92/x6A6uWJUI8HnhaYVXVZJKT2EA0r.jpg"
+    },
+    {
+      "name": "Rokuro Naya",
+      "role": "Bunta Takakura (voice)",
+      "url": "https://multimovies.city/cast/rokuro-naya/",
+      "image": "https://image.tmdb.org/t/p/w92/8mRUsy6nPOPEkbqfZ0HsaCj9U7N.jpg"
+    },
+    {
+      "name": "Michie Tomizawa",
+      "role": "Ume Matsuzaka (voice)",
+      "url": "https://multimovies.city/cast/michie-tomizawa/",
+      "image": "https://image.tmdb.org/t/p/w92/42Au1FT7mGOghHcrlX8g44v6dTG.jpg"
+    },
+    {
+      "name": "Teiyu Ichiryusai",
+      "role": "Masao Sato (voice)",
+      "url": "https://multimovies.city/cast/teiyu-ichiryusai/",
+      "image": "https://image.tmdb.org/t/p/w92/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
+    },
+    {
+      "name": "Yumi Takada",
+      "role": "Midori Ishizaka (voice)",
+      "url": "https://multimovies.city/cast/yumi-takada/",
+      "image": "https://image.tmdb.org/t/p/w92/AbQMxvbJesosIIU0zw53tgZLIFM.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/70xTjXpb0kfOhTRJqKwDYSG8Kle.jpg",
+    "https://image.tmdb.org/t/p/w300/nZduEFaAj7ll0FJGFkmRcJwYZPK.jpg",
+    "https://image.tmdb.org/t/p/w300/fhWsuQ2zoi4aF0mCgmdFocukdP3.jpg",
+    "https://image.tmdb.org/t/p/w300/pMzitRMMpaKCuoOE4PpO2zDAtG8.jpg",
+    "https://image.tmdb.org/t/p/w300/pcqRAVzCeX2QzG59sJObAwk5Is9.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
