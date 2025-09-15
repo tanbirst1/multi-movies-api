@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Squid Game in Conversation",
+    "poster": "https://multimovies.city/wp-content/uploads/2025/06/7iJV9Jr3HFsxnOTwmFBWM64MAyv.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Documentary",
+        "url": "https://multimovies.city/genre/documentary/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Netflix",
+        "url": "https://multimovies.city/genre/netflix/"
+      }
+    ],
+    "firstAirDate": "Jun. 27, 2025",
+    "ratingValue": "7.1",
+    "ratingCount": "14",
+    "synopsis": "Take a seat with the director and cast of Squid Game. Discover key moments, hear untold stories and see what this entire journey meant to them.",
+    "infoFields": {
+      "Original title": "오징어 게임 이야기",
+      "TMDb Rating": "8 1 votes"
+    }
+  },
+  "cast": [
+    {
+      "name": "Hwang Dong-hyuk",
+      "role": "Self",
+      "url": "https://multimovies.city/cast/hwang-dong-hyuk/",
+      "image": "https://image.tmdb.org/t/p/w92/xyr3b04ayyJtA5ZN3L0Af10WKIR.jpg"
+    },
+    {
+      "name": "Lee Jung-jae",
+      "role": "Self",
+      "url": "https://multimovies.city/cast/lee-jung-jae/",
+      "image": "https://image.tmdb.org/t/p/w92/3h5Cfm0X8ohWn7psZkqdNWqXAHH.jpg"
+    },
+    {
+      "name": "Lee Byung-hun",
+      "role": "Self",
+      "url": "https://multimovies.city/cast/lee-byung-hun/",
+      "image": "https://image.tmdb.org/t/p/w92/pY4pwYO8qwtzvuzpzRczDACDiVA.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hLpuo585mwOWKVco2RPZjgu8RnA.jpg"
+  ],
+  "similar": [],
+  "seasons": []
+}
