@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/perfect-blue/",
+  "meta": {
+    "title": "Perfect Blue",
+    "poster": "https://image.tmdb.org/t/p/w500/hwCTlm990H6NlrG8W7sk3pxdMtf.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 25, 1997",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Pop singer Mima Kirigow looks forward to a bright new career when she quits her chart-topping trio to become an actress. When she lands a role in a sexually charged murder mystery, Mima\u2019s life begins to fall apart.",
+    "infoFields": {
+      "Original title": "PERFECT BLUE",
+      "IMDb Rating": "8 84,334 votes",
+      "TMDb Rating": "8.284 2,060 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Satoshi Kon",
+      "role": "Director",
+      "url": "https://multimovies.city/director/satoshi-kon/",
+      "image": "https://image.tmdb.org/t/p/w92/b7Oqg1bjS0e2iEzEjYWnsyVVagt.jpg"
+    },
+    {
+      "name": "Junko Iwao",
+      "role": "Mima Kirigoe (voice)",
+      "url": "https://multimovies.city/cast/junko-iwao/",
+      "image": "https://image.tmdb.org/t/p/w92/bKyMLT1MgDTnXafsq2ur32VMwY5.jpg"
+    },
+    {
+      "name": "Rica Matsumoto",
+      "role": "Rumi (voice)",
+      "url": "https://multimovies.city/cast/rica-matsumoto/",
+      "image": "https://image.tmdb.org/t/p/w92/ykm6ZpLcX5wblCNp7rOAoZpCh3L.jpg"
+    },
+    {
+      "name": "Shiho Niiyama",
+      "role": "Rei (voice)",
+      "url": "https://multimovies.city/cast/shiho-niiyama/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Masaaki Okura",
+      "role": "Mamoru Uchida (voice)",
+      "url": "https://multimovies.city/cast/masaaki-okura/",
+      "image": "https://image.tmdb.org/t/p/w92/lQmV0Nzww7i3cmbr2ToqGJ5q6qr.jpg"
+    },
+    {
+      "name": "Shinpachi Tsuji",
+      "role": "Tadokoro (voice)",
+      "url": "https://multimovies.city/cast/shinpachi-tsuji/",
+      "image": "https://image.tmdb.org/t/p/w92/af5ILJbixauO84bsuLOr8XSU9yd.jpg"
+    },
+    {
+      "name": "Emiko Furukawa",
+      "role": "Yukiko (voice)",
+      "url": "https://multimovies.city/cast/emiko-furukawa/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Yousuke Akimoto",
+      "role": "Tejima (voice)",
+      "url": "https://multimovies.city/cast/yousuke-akimoto/",
+      "image": "https://image.tmdb.org/t/p/w92/uzBTKym7osTko49r5odq86nPKT5.jpg"
+    },
+    {
+      "name": "Yoku Shioya",
+      "role": "Takao Shibuya (voice)",
+      "url": "https://multimovies.city/cast/yoku-shioya/",
+      "image": "https://image.tmdb.org/t/p/w92/zJCaOJWub2g8ZlXuH8vE9yaBVy1.jpg"
+    },
+    {
+      "name": "Hideyuki Hori",
+      "role": "Sakuragi (voice)",
+      "url": "https://multimovies.city/cast/hideyuki-hori/",
+      "image": "https://image.tmdb.org/t/p/w92/fbWWkhe7GVSlhBljY89rJd01OnA.jpg"
+    },
+    {
+      "name": "Emi Shinohara",
+      "role": "Eri Ochiai (voice)",
+      "url": "https://multimovies.city/cast/emi-shinohara/",
+      "image": "https://image.tmdb.org/t/p/w92/ryGauSE9aoEh5DFMrlFw3H8sATC.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/A1Larywbw79kZQqkvCEiPHJqdLN.jpg",
+    "https://image.tmdb.org/t/p/w300/ns4vN9p3Z0inYlhh4q9vYXUw3zp.jpg",
+    "https://image.tmdb.org/t/p/w300/dVanL4a1kx0mXeZSOhVWSiJ27Pa.jpg",
+    "https://image.tmdb.org/t/p/w300/tSkeqUxitsSpjgjThGh7nimCa1K.jpg",
+    "https://image.tmdb.org/t/p/w300/hX0veoqKRKyd8OwZza8lv5Y4gve.jpg",
+    "https://image.tmdb.org/t/p/w300/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+    "https://image.tmdb.org/t/p/w300/1YRtgjLb5xxUb2rsNRnr54Oc0B2.jpg",
+    "https://image.tmdb.org/t/p/w300/e8Wt7n3QEu6wlZONUDjJuNusptl.jpg",
+    "https://image.tmdb.org/t/p/w300/xB25nutjNGH0J4y06HD9V6uoCYt.jpg",
+    "https://image.tmdb.org/t/p/w300/oyWGIIHnnSjG85q85uj44k30rJu.jpg"
+  ],
+  "similar": [],
+  "views": 4786,
+  "sources": [
+    "https://www.youtube.com/embed/UXQraSkOOGs?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/vgm8drhu6wuo"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 22780,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 22780,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
