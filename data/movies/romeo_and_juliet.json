@@ -1,0 +1,137 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/romeo-and-juliet/",
+  "meta": {
+    "title": "Romeo and Juliet",
+    "poster": "https://image.tmdb.org/t/p/w500/vaBQKLbSWkXGTOlsz9ARdJP4lvg.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Apr. 02, 1968",
+    "ratingValue": "5.5",
+    "ratingCount": "2",
+    "synopsis": "Romeo Montague and Juliet Capulet fall in love against the wishes of their feuding families. Driven by their passion, the young lovers defy their destiny and elope, only to suffer the ultimate tragedy.",
+    "infoFields": {
+      "Original title": "Romeo and Juliet",
+      "IMDb Rating": "7.6 35,372 votes",
+      "TMDb Rating": "7.39 666 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Franco Zeffirelli",
+      "role": "Director",
+      "url": "https://multimovies.city/director/franco-zeffirelli/",
+      "image": "https://image.tmdb.org/t/p/w92/z4aOffBT2zI62z55evNG1BJAXf5.jpg"
+    },
+    {
+      "name": "Leonard Whiting",
+      "role": "Romeo",
+      "url": "https://multimovies.city/cast/leonard-whiting/",
+      "image": "https://image.tmdb.org/t/p/w92/uSkKSMm0LPSifam23CtxKBW4CoZ.jpg"
+    },
+    {
+      "name": "Olivia Hussey",
+      "role": "Juliet",
+      "url": "https://multimovies.city/cast/olivia-hussey/",
+      "image": "https://image.tmdb.org/t/p/w92/6bXUeXaTk0EEWvaxIFLCOPLaVpW.jpg"
+    },
+    {
+      "name": "John McEnery",
+      "role": "Mercutio",
+      "url": "https://multimovies.city/cast/john-mcenery/",
+      "image": "https://image.tmdb.org/t/p/w92/vzVsCjZlsejxLx65fsHczRfsBJe.jpg"
+    },
+    {
+      "name": "Michael York",
+      "role": "Tybalt",
+      "url": "https://multimovies.city/cast/michael-york/",
+      "image": "https://image.tmdb.org/t/p/w92/2hl9LVifuh6MkkldChW5eR4WZlU.jpg"
+    },
+    {
+      "name": "Milo O\u2019Shea",
+      "role": "Friar Laurence",
+      "url": "https://multimovies.city/cast/milo-oshea/",
+      "image": "https://image.tmdb.org/t/p/w92/wLcWVAw2REUJMT9JjbQbVXLqQkZ.jpg"
+    },
+    {
+      "name": "Pat Heywood",
+      "role": "the Nurse",
+      "url": "https://multimovies.city/cast/pat-heywood/",
+      "image": "https://image.tmdb.org/t/p/w92/6kSP4YQMHHcHfh20iLOtyvLzLbp.jpg"
+    },
+    {
+      "name": "Robert Stephens",
+      "role": "the Prince",
+      "url": "https://multimovies.city/cast/robert-stephens/",
+      "image": "https://image.tmdb.org/t/p/w92/rYfM20itiFCVmxX9NFNX5aICGE0.jpg"
+    },
+    {
+      "name": "Bruce Robinson",
+      "role": "Benvolio",
+      "url": "https://multimovies.city/cast/bruce-robinson/",
+      "image": "https://image.tmdb.org/t/p/w92/6Q4dOB1dAElsZMZc9NYtbKwvvpB.jpg"
+    },
+    {
+      "name": "Paul Hardwick",
+      "role": "Lord Capulet",
+      "url": "https://multimovies.city/cast/paul-hardwick/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Natasha Parry",
+      "role": "Lady Capulet",
+      "url": "https://multimovies.city/cast/natasha-parry/",
+      "image": "https://image.tmdb.org/t/p/w92/9tvFzXirrcSN7YAqgJMkTTkeaxL.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/daPiSBV6j02w4dAqpONa1ZQSfRr.jpg",
+    "https://image.tmdb.org/t/p/w300/2SFk3MqKFR2z2PHnreJtsXzrCee.jpg",
+    "https://image.tmdb.org/t/p/w300/uevUG4oIoYNxR6WATvfFKhO8pOz.jpg",
+    "https://image.tmdb.org/t/p/w300/fsnxdXghKNjM7oAdgOpXCAa3JQz.jpg",
+    "https://image.tmdb.org/t/p/w300/xv6Tcqgb5BHsrsxTfeeVbdvesKp.jpg",
+    "https://image.tmdb.org/t/p/w300/bPCqIPsaHH4g8q6XSLi8O1MQvzx.jpg",
+    "https://image.tmdb.org/t/p/w300/2n7YrzgGKpNe7WSxdL4RXyfxya5.jpg",
+    "https://image.tmdb.org/t/p/w300/jISAZZFEk6VUgOOy0h9I8MBUnM8.jpg",
+    "https://image.tmdb.org/t/p/w300/1UZtXhNRuixlngnw2GAOV2xWmAn.jpg"
+  ],
+  "similar": [],
+  "views": 2517,
+  "sources": [
+    "https://www.youtube.com/embed/nl_eFSeCb-4?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/izy2ukq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 69885,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 69885,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
