@@ -1,0 +1,91 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ankhiyon-ke-jharokhon-se/",
+  "meta": {
+    "title": "Ankhiyon Ke Jharokhon Se",
+    "poster": "https://image.tmdb.org/t/p/w500/6b9C2qVGL71GdB5nS1Zwrxoxtd7.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Music",
+        "url": "https://multimovies.city/genre/music/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Apr. 07, 1978",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "A young man must deal with a broken engagement ceremony, while his to-be fianc\u00e9e waits to be treated for blood cancer.",
+    "infoFields": {
+      "Original title": "Ankhiyon Ke Jharokhon Se",
+      "IMDb Rating": "7.6 461 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hiren Nag",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hiren-nag/",
+      "image": "https://image.tmdb.org/t/p/w92/gdGPIpGSlRkxZyGDCJC2IhQD0jn.jpg"
+    },
+    {
+      "name": "Sachin Pilgaonkar",
+      "role": "Arun Prakash Mathur",
+      "url": "https://multimovies.city/cast/sachin-pilgaonkar/",
+      "image": "https://image.tmdb.org/t/p/w92/2zXmcePsbfwgxrzhuXne44rFPnv.jpg"
+    },
+    {
+      "name": "Ranjeeta Kaur",
+      "role": "Lily Fernandes",
+      "url": "https://multimovies.city/cast/ranjeeta-kaur/",
+      "image": "https://image.tmdb.org/t/p/w92/wnSrqJa30TqinykQ8dypJ7LN6al.jpg"
+    },
+    {
+      "name": "Madan Puri",
+      "role": "Hari Prakash Mathur",
+      "url": "https://multimovies.city/cast/madan-puri/",
+      "image": "https://image.tmdb.org/t/p/w92/8WqpBSpindnJmtZ4mroPnBopy9i.jpg"
+    },
+    {
+      "name": "Iftekhar",
+      "role": "Dr. Pradhan",
+      "url": "https://multimovies.city/cast/iftekhar/",
+      "image": "https://image.tmdb.org/t/p/w92/xDtJUtXtibzMMh7FXxP9qmyM3gc.jpg"
+    },
+    {
+      "name": "Urmila Bhatt",
+      "role": "Ruby Fernandes",
+      "url": "https://multimovies.city/cast/urmila-bhatt/",
+      "image": "https://image.tmdb.org/t/p/w92/o8Wmx38BNH9pRLoxd0rH1q6rhWP.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/maRcXU2fVeircbCrkWOMctKLWDp.jpg"
+  ],
+  "similar": [],
+  "views": 534,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/fnh304d"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 68216,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
