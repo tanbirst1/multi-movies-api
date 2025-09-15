@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/aliens/",
+  "meta": {
+    "title": "Aliens",
+    "poster": "https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 18, 1986",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "When Ripley\u2019s lifepod is found by a salvage crew over 50 years later, she finds that terra-formers are on the very planet they found the alien species. When the company sends a family of colonists out to investigate her story\u2014all contact is lost with the planet and colonists. They enlist Ripley and the colonial marines to return and search for answers.",
+    "infoFields": {
+      "Original title": "Aliens",
+      "IMDb Rating": "8.4 729,647 votes",
+      "TMDb Rating": "7.9 8,393 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "James Cameron",
+      "role": "Director",
+      "url": "https://multimovies.city/director/james-cameron/",
+      "image": "https://image.tmdb.org/t/p/w92/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Lt. Ellen Louise Ripley",
+      "url": "https://multimovies.city/cast/sigourney-weaver/",
+      "image": "https://image.tmdb.org/t/p/w92/sHWCLx54yLtaFtppp5ADjAsrWIc.jpg"
+    },
+    {
+      "name": "Michael Biehn",
+      "role": "Cpl. Dwayne Hicks",
+      "url": "https://multimovies.city/cast/michael-biehn/",
+      "image": "https://image.tmdb.org/t/p/w92/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+      "name": "Lance Henriksen",
+      "role": "Lance Bishop",
+      "url": "https://multimovies.city/cast/lance-henriksen/",
+      "image": "https://image.tmdb.org/t/p/w92/1Xt93l5ohkgXsg9NURu0URViwV3.jpg"
+    },
+    {
+      "name": "Bill Paxton",
+      "role": "Pvt. William L. Hudson",
+      "url": "https://multimovies.city/cast/bill-paxton/",
+      "image": "https://image.tmdb.org/t/p/w92/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+    },
+    {
+      "name": "Jenette Goldstein",
+      "role": "Pvt. Jenette Vasquez",
+      "url": "https://multimovies.city/cast/jenette-goldstein/",
+      "image": "https://image.tmdb.org/t/p/w92/aRBTIuKcygVu6UM9OLvFmodmG1O.jpg"
+    },
+    {
+      "name": "Carrie Henn",
+      "role": "Rebecca \"Newt\" Jorden",
+      "url": "https://multimovies.city/cast/carrie-henn/",
+      "image": "https://image.tmdb.org/t/p/w92/pQezLMMjYw6k2sQKmsNbWNcGgHx.jpg"
+    },
+    {
+      "name": "Paul Reiser",
+      "role": "Carter J. Burke",
+      "url": "https://multimovies.city/cast/paul-reiser/",
+      "image": "https://image.tmdb.org/t/p/w92/v3e5TClep4ugMdU4qSRiKbvLr3B.jpg"
+    },
+    {
+      "name": "Mark Rolston",
+      "role": "Pvt. Mark Drake",
+      "url": "https://multimovies.city/cast/mark-rolston/",
+      "image": "https://image.tmdb.org/t/p/w92/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+    },
+    {
+      "name": "William Hope",
+      "role": "Lt. Scott Gorman",
+      "url": "https://multimovies.city/cast/william-hope/",
+      "image": "https://image.tmdb.org/t/p/w92/blKMEeCftWVBPI2hqvzycmdE9nS.jpg"
+    },
+    {
+      "name": "Al Matthews",
+      "role": "Sgt. Al Apone",
+      "url": "https://multimovies.city/cast/al-matthews/",
+      "image": "https://image.tmdb.org/t/p/w92/4IvJpvyHcROUxDhLGbIFlnO6CoY.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+    "https://image.tmdb.org/t/p/w300/3NZ5y4oLwvm1KF99m0DPQoqpEAP.jpg",
+    "https://image.tmdb.org/t/p/w300/tMnJEVCOn8wuD95afeBSdeZqWfg.jpg",
+    "https://image.tmdb.org/t/p/w300/zFKPAMN9kWr1hJF4owR83DrwjK6.jpg",
+    "https://image.tmdb.org/t/p/w300/v1Y0arzRV2zqEn9nswNkZI8F13X.jpg",
+    "https://image.tmdb.org/t/p/w300/za6CgguSOPQpNLWYIGTdiFgMn8B.jpg",
+    "https://image.tmdb.org/t/p/w300/kS2gNcd9hgiZMGPr0iWhQG8najA.jpg",
+    "https://image.tmdb.org/t/p/w300/dpBz8QgB0HqaNiuJlegTYK81YDH.jpg",
+    "https://image.tmdb.org/t/p/w300/bOP0wK02pFhyJMc3D4FCHCOsAed.jpg",
+    "https://image.tmdb.org/t/p/w300/19cmIasGcwhrInvNf2ZOn6fEIHN.jpg"
+  ],
+  "similar": [],
+  "views": 1656,
+  "sources": [
+    "https://www.youtube.com/embed/zBvTd9iFqG8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/go68303il8vt"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 15560,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 15560,
+      "nume": 1,
+      "title": "Server 02"
+    }
+  ],
+  "cache": false
+}
