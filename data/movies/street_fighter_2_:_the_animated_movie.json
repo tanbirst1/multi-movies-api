@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/street-fighter-ii-the-animated-movie/",
+  "meta": {
+    "title": "Street Fighter 2 : The Animated Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/d0WmVroW23YVFB4uLFUqfqiHsYr.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      }
+    ],
+    "firstAirDate": "Aug. 06, 1994",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Bison, the ruthless leader of the international terrorist organization Shadowlaw, has been desperately searching for the greatest fighter on the planet for years. He finds it in Ryu, a young wanderer who never stays in one place long enough for Bison to find him. He does, however, get a fix on Ken Masters, an American martial arts champion who studied with Ryu as a child under the same master. Meanwhile, Major Guile of the United States Army is forced to team up with Chun Li from China in hopes of apprehending Bison and putting a stop his international ring of crime.",
+    "infoFields": {
+      "Original title": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc II MOVIE",
+      "IMDb Rating": "7.2 10,465 votes",
+      "TMDb Rating": "7.052 291 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Gisabur\u014d Sugii",
+      "role": "Director",
+      "url": "https://multimovies.city/director/gisaburo-sugii/",
+      "image": "https://image.tmdb.org/t/p/w92/yOp2bmomtcti0JCHmeVDp0FZgfO.jpg"
+    },
+    {
+      "name": "Koujiro Shimizu",
+      "role": "Ryu (voice)",
+      "url": "https://multimovies.city/cast/koujiro-shimizu/",
+      "image": "https://image.tmdb.org/t/p/w92/4hzPXFfgUKQqgmbtNizxD3fB8fM.jpg"
+    },
+    {
+      "name": "Kenji Haga",
+      "role": "Ken Masters (voice)",
+      "url": "https://multimovies.city/cast/kenji-haga/",
+      "image": "https://image.tmdb.org/t/p/w92/nTQ7oFP7ZFjbAxGEwi18xBmUmmd.jpg"
+    },
+    {
+      "name": "Miki Fujitani",
+      "role": "Chun-Li (voice)",
+      "url": "https://multimovies.city/cast/miki-fujitani/",
+      "image": "https://image.tmdb.org/t/p/w92/nPFWjWnAQL4Ne9qiSNH0rrhO61S.jpg"
+    },
+    {
+      "name": "Masane Tsukayama",
+      "role": "Guile (voice)",
+      "url": "https://multimovies.city/cast/masane-tsukayama/",
+      "image": "https://image.tmdb.org/t/p/w92/7zeWvl3m6EAqCL0TKwGL3hVso3F.jpg"
+    },
+    {
+      "name": "Takeshi Kusaka",
+      "role": "M. Bison (voice)",
+      "url": "https://multimovies.city/cast/takeshi-kusaka/",
+      "image": "https://image.tmdb.org/t/p/w92/dtfzh7DLZmkj5FxKui6cFlcHSRr.jpg"
+    },
+    {
+      "name": "Kaneto Shiozawa",
+      "role": "Vega (voice)",
+      "url": "https://multimovies.city/cast/kaneto-shiozawa/",
+      "image": "https://image.tmdb.org/t/p/w92/8F6MjUfPyV6WkfIBcThc8qijrhB.jpg"
+    },
+    {
+      "name": "Shigezo Sasaoka",
+      "role": "Sagat (voice)",
+      "url": "https://multimovies.city/cast/shigezo-sasaoka/",
+      "image": "https://image.tmdb.org/t/p/w92/6JsX0vLo99qF0PLJWSTZdFfl9pW.jpg"
+    },
+    {
+      "name": "Jouji Nakata",
+      "role": "Balrog (voice)",
+      "url": "https://multimovies.city/cast/jouji-nakata/",
+      "image": "https://image.tmdb.org/t/p/w92/wYhv4BtQnc6bZp2Qnh6GiYjmNKC.jpg"
+    },
+    {
+      "name": "Masakatsu Funaki",
+      "role": "Fei-Long (voice)",
+      "url": "https://multimovies.city/cast/masakatsu-funaki/",
+      "image": "https://image.tmdb.org/t/p/w92/z68wovNqEltFd2qPawAdxrMcFSt.jpg"
+    },
+    {
+      "name": "Yukimasa Kishino",
+      "role": "Dhalsim (voice)",
+      "url": "https://multimovies.city/cast/yukimasa-kishino/",
+      "image": "https://image.tmdb.org/t/p/w92/As1ozKRaq1NYqdRTsO8u7HWFk1T.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/reMt35KtqTTIy0mhcKA1PfuruDq.jpg",
+    "https://image.tmdb.org/t/p/w300/x0F56zPNZFCFPUfkVAOpnd3LKi9.jpg",
+    "https://image.tmdb.org/t/p/w300/cUF193RtcKjkhYQOTPSduDKQI1t.jpg",
+    "https://image.tmdb.org/t/p/w300/9JvqzQQ1g7c6VlgWjwDIBi6F7ww.jpg",
+    "https://image.tmdb.org/t/p/w300/f4N46e4c17deNgqOUUAbwmlndOJ.jpg",
+    "https://image.tmdb.org/t/p/w300/1UQ1CrivYG1duZZGHZ9SXemC3UA.jpg",
+    "https://image.tmdb.org/t/p/w300/ckjqoqCGbPyf8HknxXu4hXS9N4M.jpg",
+    "https://image.tmdb.org/t/p/w300/2wrcPBEr5bLD0tA3MM9kXh6pKgU.jpg",
+    "https://image.tmdb.org/t/p/w300/5yQugZZDY5bSE9d58a20MDCVKp3.jpg",
+    "https://image.tmdb.org/t/p/w300/xzuTUpr1cNpvSEFWexvAJWF0YBa.jpg"
+  ],
+  "similar": [],
+  "views": 617,
+  "sources": [
+    "https://www.youtube.com/embed/tyOyJC_K3vE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/fcugjz6"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 82940,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 82940,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
