@@ -1,0 +1,137 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/universal-soldier/",
+  "meta": {
+    "title": "Universal Soldier",
+    "poster": "https://image.tmdb.org/t/p/w500/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 10, 1992",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "An American soldier who had been killed during the Vietnam War is revived 25 years later by the military as a semi-android, UniSols, a high-tech soldier of the future. After the failure of the initiative to erase all the soldier\u2019s memories, he begins to experience flashbacks that are forcing him to recall his past.",
+    "infoFields": {
+      "Original title": "Universal Soldier",
+      "IMDb Rating": "6.1 93,248 votes",
+      "TMDb Rating": "6.261 1,456 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Roland Emmerich",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roland-emmerich/",
+      "image": "https://image.tmdb.org/t/p/w92/mN8x74uv9yQ7dJl8nh2q26mkY8v.jpg"
+    },
+    {
+      "name": "Jean-Claude Van Damme",
+      "role": "Luc Deveraux / GR44",
+      "url": "https://multimovies.city/cast/jean-claude-van-damme/",
+      "image": "https://image.tmdb.org/t/p/w92/8pcmnbjvqOUd0AFQ66VrYt8wuCH.jpg"
+    },
+    {
+      "name": "Dolph Lundgren",
+      "role": "Andrew Scott / GR13",
+      "url": "https://multimovies.city/cast/dolph-lundgren/",
+      "image": "https://image.tmdb.org/t/p/w92/t3hMzibYVUS1KBXFgtxuNnax8qX.jpg"
+    },
+    {
+      "name": "Ally Walker",
+      "role": "Veronica Roberts",
+      "url": "https://multimovies.city/cast/ally-walker/",
+      "image": "https://image.tmdb.org/t/p/w92/YpBscMWFIZwCG5StxWAfbfX3XL.jpg"
+    },
+    {
+      "name": "Ed O'Ross",
+      "role": "Colonel Perry",
+      "url": "https://multimovies.city/cast/ed-oross/",
+      "image": "https://image.tmdb.org/t/p/w92/6hzovUAs5hFcrZvPdk84NR3KcHU.jpg"
+    },
+    {
+      "name": "Ralf Moeller",
+      "role": "GR76",
+      "url": "https://multimovies.city/cast/ralf-moeller/",
+      "image": "https://image.tmdb.org/t/p/w92/o5d6YlvbR95G8YeqbUb6qaveMdq.jpg"
+    },
+    {
+      "name": "Jerry Orbach",
+      "role": "Dr. Christopher Gregor",
+      "url": "https://multimovies.city/cast/jerry-orbach/",
+      "image": "https://image.tmdb.org/t/p/w92/36Bsh8VKClXn6diVnEbDLgniBF4.jpg"
+    },
+    {
+      "name": "Leon Rippy",
+      "role": "Woodward",
+      "url": "https://multimovies.city/cast/leon-rippy/",
+      "image": "https://image.tmdb.org/t/p/w92/55GaqeKzIwbKBDW9RT1CYIZaUKO.jpg"
+    },
+    {
+      "name": "Tico Wells",
+      "role": "Garth",
+      "url": "https://multimovies.city/cast/tico-wells/",
+      "image": "https://image.tmdb.org/t/p/w92/y5cUCmTgNC0CvDGuvRyDGlXR6v7.jpg"
+    },
+    {
+      "name": "Robert Trebor",
+      "role": "Motel Owner",
+      "url": "https://multimovies.city/cast/robert-trebor/",
+      "image": "https://image.tmdb.org/t/p/w92/2oUhMyFu5HcYFR4Paq7ifqfId3z.jpg"
+    },
+    {
+      "name": "Tommy Lister Jr.",
+      "role": "GR55",
+      "url": "https://multimovies.city/cast/tommy-lister-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/i1seZDiLC3AKrAYqfFSln6ZGNmF.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/505LZxTJd2o7BqpispO427M9bPI.jpg",
+    "https://image.tmdb.org/t/p/w300/aaWDl11bHFNkNtIQb3IqdT4DQdy.jpg",
+    "https://image.tmdb.org/t/p/w300/nHa3TZshbbPVPUZDJ5FBHOfjzxv.jpg",
+    "https://image.tmdb.org/t/p/w300/o3GuRtrHrZ5KGY3vZj1ND69I4f4.jpg",
+    "https://image.tmdb.org/t/p/w300/4S45fis6ojwEri6GyI0Ks5SgOGY.jpg"
+  ],
+  "similar": [],
+  "views": 785,
+  "sources": [
+    "https://www.youtube.com/embed/J2vgzkCiCIs?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/np1u95u0x6ay"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25096,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 25096,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
