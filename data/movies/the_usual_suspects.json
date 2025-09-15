@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-usual-suspects/",
+  "meta": {
+    "title": "The Usual Suspects",
+    "poster": "https://image.tmdb.org/t/p/w500/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 19, 1995",
+    "ratingValue": "7.3",
+    "ratingCount": "3",
+    "synopsis": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor \u2013 leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord\u2019s almost supernatural prowess.",
+    "infoFields": {
+      "Original title": "The Usual Suspects",
+      "IMDb Rating": "8.5 1,200,441 votes",
+      "TMDb Rating": "8.173 10,798 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Bryan Singer",
+      "role": "Director",
+      "url": "https://multimovies.city/director/bryan-singer/",
+      "image": "https://image.tmdb.org/t/p/w92/to8mWJabPoWkphkbYKoutCVSj06.jpg"
+    },
+    {
+      "name": "Stephen Baldwin",
+      "role": "McManus",
+      "url": "https://multimovies.city/cast/stephen-baldwin/",
+      "image": "https://image.tmdb.org/t/p/w92/34GOuRYIkAcKW8newjrnYeC1QPK.jpg"
+    },
+    {
+      "name": "Gabriel Byrne",
+      "role": "Keaton",
+      "url": "https://multimovies.city/cast/gabriel-byrne/",
+      "image": "https://image.tmdb.org/t/p/w92/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+    },
+    {
+      "name": "Benicio del Toro",
+      "role": "Fenster",
+      "url": "https://multimovies.city/cast/benicio-del-toro/",
+      "image": "https://image.tmdb.org/t/p/w92/cVh4UgCMu6aAkZ2BqymTLV86FzZ.jpg"
+    },
+    {
+      "name": "Kevin Pollak",
+      "role": "Hockney",
+      "url": "https://multimovies.city/cast/kevin-pollak/",
+      "image": "https://image.tmdb.org/t/p/w92/nAM4DErA2fXnwfq5lkIHPxjkwoS.jpg"
+    },
+    {
+      "name": "Kevin Spacey",
+      "role": "Verbal",
+      "url": "https://multimovies.city/cast/kevin-spacey/",
+      "image": "https://image.tmdb.org/t/p/w92/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+    },
+    {
+      "name": "Chazz Palminteri",
+      "role": "Dave Kujan",
+      "url": "https://multimovies.city/cast/chazz-palminteri/",
+      "image": "https://image.tmdb.org/t/p/w92/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+    },
+    {
+      "name": "Pete Postlethwaite",
+      "role": "Kobayashi",
+      "url": "https://multimovies.city/cast/pete-postlethwaite/",
+      "image": "https://image.tmdb.org/t/p/w92/2gpa75Ci4y2OKmOc8WXnaeGgyKF.jpg"
+    },
+    {
+      "name": "Suzy Amis",
+      "role": "Edie Finneran",
+      "url": "https://multimovies.city/cast/suzy-amis/",
+      "image": "https://image.tmdb.org/t/p/w92/q8aPLY9CjCl7tp60neddbJl4ZfW.jpg"
+    },
+    {
+      "name": "Giancarlo Esposito",
+      "role": "Jack Baer",
+      "url": "https://multimovies.city/cast/giancarlo-esposito/",
+      "image": "https://image.tmdb.org/t/p/w92/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+    },
+    {
+      "name": "Dan Hedaya",
+      "role": "Jeff Rabin",
+      "url": "https://multimovies.city/cast/dan-hedaya/",
+      "image": "https://image.tmdb.org/t/p/w92/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9jrHaaXWB37VcA4KGemP8iF7bFB.jpg",
+    "https://image.tmdb.org/t/p/w300/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
+    "https://image.tmdb.org/t/p/w300/6CLV2HakYO1tyAV5GUHOeNPyaTd.jpg",
+    "https://image.tmdb.org/t/p/w300/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+    "https://image.tmdb.org/t/p/w300/9fAGAdr2BYErmbcYqtmyZxwAu0H.jpg",
+    "https://image.tmdb.org/t/p/w300/eNKLwN810eJVM8gwBhTpEZqCVVQ.jpg",
+    "https://image.tmdb.org/t/p/w300/askFjkSy7ptetjNdZy4aFfUuUdJ.jpg",
+    "https://image.tmdb.org/t/p/w300/uwNlaWJwlNywrKZa0v0w8WysAo7.jpg",
+    "https://image.tmdb.org/t/p/w300/dqvoM3npyxgfcnbeBR8uavlz18Q.jpg",
+    "https://image.tmdb.org/t/p/w300/nR49ku1Hj2HGsvMmljBqzQVdS2n.jpg"
+  ],
+  "similar": [],
+  "views": 724,
+  "sources": [
+    "https://www.youtube.com/embed/x3t0Nc6fg7w?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/tv605q5"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 97978,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 97978,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false
+}
