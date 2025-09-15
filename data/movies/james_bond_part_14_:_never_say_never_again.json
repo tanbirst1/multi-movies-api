@@ -1,0 +1,141 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/never-say-never-again/",
+  "meta": {
+    "title": "James Bond Part 14 : Never Say Never Again",
+    "poster": "https://image.tmdb.org/t/p/w500/zhoAL4o1STGgLbLxJ9r1ijfyHC9.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "James Bond",
+        "url": "https://multimovies.city/genre/james-bond/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Oct. 07, 1983",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "James Bond returns as the secret agent 007 to battle the evil organization SPECTRE. Bond must defeat Largo, who has stolen two atomic warheads for nuclear blackmail. But Bond has an ally in Largo\u2019s girlfriend, the willowy Domino, who falls for Bond and seeks revenge.",
+    "infoFields": {
+      "Original title": "Never Say Never Again",
+      "IMDb Rating": "6.1 70,559 votes",
+      "TMDb Rating": "6.063 1,254 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Irvin Kershner",
+      "role": "Director",
+      "url": "https://multimovies.city/director/irvin-kershner/",
+      "image": "https://image.tmdb.org/t/p/w92/imtFUtcASoh2e1Emtt62UuFkIWA.jpg"
+    },
+    {
+      "name": "Sean Connery",
+      "role": "James Bond",
+      "url": "https://multimovies.city/cast/sean-connery/",
+      "image": "https://image.tmdb.org/t/p/w92/dXQj9iz41GunGRJqXvdf5ST1P1g.jpg"
+    },
+    {
+      "name": "Klaus Maria Brandauer",
+      "role": "Maximilian Largo",
+      "url": "https://multimovies.city/cast/klaus-maria-brandauer/",
+      "image": "https://image.tmdb.org/t/p/w92/mE4polIdi4QdzDvIuHgfM37n7l9.jpg"
+    },
+    {
+      "name": "Max von Sydow",
+      "role": "Ernst Stavro Blofeld",
+      "url": "https://multimovies.city/cast/max-von-sydow/",
+      "image": "https://image.tmdb.org/t/p/w92/fOzSDFqMx84NR7PSv36P7j0Qf1q.jpg"
+    },
+    {
+      "name": "Barbara Carrera",
+      "role": "Fatima Blush",
+      "url": "https://multimovies.city/cast/barbara-carrera/",
+      "image": "https://image.tmdb.org/t/p/w92/a95KDKs0yUxhKRtU6bzDeubjblZ.jpg"
+    },
+    {
+      "name": "Kim Basinger",
+      "role": "Domino Petachi",
+      "url": "https://multimovies.city/cast/kim-basinger/",
+      "image": "https://image.tmdb.org/t/p/w92/uCntKQJ1IJaPVz0GyEUDRdaje7H.jpg"
+    },
+    {
+      "name": "Bernie Casey",
+      "role": "Felix Leiter",
+      "url": "https://multimovies.city/cast/bernie-casey/",
+      "image": "https://image.tmdb.org/t/p/w92/xxmL2k2lxWswkFOJJEdi2Tf51YK.jpg"
+    },
+    {
+      "name": "Alec McCowen",
+      "role": "Q 'Algy' Algernon",
+      "url": "https://multimovies.city/cast/alec-mccowen/",
+      "image": "https://image.tmdb.org/t/p/w92/1ZbsYy9j2QLebJFrg2zTJ62jG2X.jpg"
+    },
+    {
+      "name": "Edward Fox",
+      "role": "M",
+      "url": "https://multimovies.city/cast/edward-fox/",
+      "image": "https://image.tmdb.org/t/p/w92/mRAgZvRscftn6roAKdLQwrrrWrS.jpg"
+    },
+    {
+      "name": "Pamela Salem",
+      "role": "Miss Moneypenny",
+      "url": "https://multimovies.city/cast/pamela-salem/",
+      "image": "https://image.tmdb.org/t/p/w92/b6M4er2mBOpF964Sa2OrvtEFZYd.jpg"
+    },
+    {
+      "name": "Rowan Atkinson",
+      "role": "Nigel Small-Fawcett",
+      "url": "https://multimovies.city/cast/rowan-atkinson/",
+      "image": "https://image.tmdb.org/t/p/w92/wxTgS4SFanVKbnvu9xqOzNJWJwz.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/45uCcAUB8Ljz3uKb1y1JHtT5aCT.jpg",
+    "https://image.tmdb.org/t/p/w300/vjFHNFLkX162nqPFsD1oFQaDFE0.jpg",
+    "https://image.tmdb.org/t/p/w300/jeg1pUNkAJ881nB3AMaQDKIcBWL.jpg",
+    "https://image.tmdb.org/t/p/w300/nWGhapdPM48ovHubnR4Z5o3CmZu.jpg",
+    "https://image.tmdb.org/t/p/w300/qyNX1wpiHg6hcGGZmG5aCDPiXkp.jpg",
+    "https://image.tmdb.org/t/p/w300/2JyeiUzWoap1yN8gTC6lhAvCnwq.jpg",
+    "https://image.tmdb.org/t/p/w300/gK2VngSYPz8YZ0GWqiqab0iRu2A.jpg",
+    "https://image.tmdb.org/t/p/w300/4ew00y6GwdoFfb6beMwsHyZ6Pbw.jpg",
+    "https://image.tmdb.org/t/p/w300/f10WoN3j7F5tgrOPKjxKd75WWW3.jpg"
+  ],
+  "similar": [],
+  "views": 1670,
+  "sources": [
+    "https://www.youtube.com/embed/UepZyoe7Nf4?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/b5omeqwip26u"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25574,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 25574,
+      "nume": 1,
+      "title": "f"
+    }
+  ],
+  "cache": false
+}
