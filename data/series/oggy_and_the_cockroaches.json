@@ -1,0 +1,1094 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/oggy-and-the-cockroaches/",
+  "meta": {
+    "title": "Oggy and the Cockroaches",
+    "poster": "https://image.tmdb.org/t/p/w500/aFAN9aKm0OblOr30ROejJCV8rGf.jpg",
+    "networks": [
+      {
+        "name": "Canal+ Family",
+        "url": "https://multimovies.city/network/canal-family/"
+      },
+      {
+        "name": "France 3",
+        "url": "https://multimovies.city/network/france-3/"
+      },
+      {
+        "name": "Gulli",
+        "url": "https://multimovies.city/network/gulli/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Nick",
+        "url": "https://multimovies.city/genre/nick/"
+      }
+    ],
+    "firstAirDate": "Sep. 06, 1999",
+    "ratingValue": "9.6",
+    "ratingCount": "23",
+    "synopsis": "Oggy, an anthropomorphic cat, would prefer to spend his days watching television and eating, but is continuously pestered by three roaches: Joey, Marky and Dee Dee. The cockroaches\u2019 slapstick mischief ranges from plundering Oggy\u2019s refrigerator to hijacking the train he just boarded. In many situations Oggy is also helped by Jack, who is more violent and short-tempered than him and is also annoyed by the cockroaches. Bob, a short-tempered bulldog, also appears in the show, and is Oggy\u2019s neighbor.",
+    "infoFields": {
+      "Original title": "Oggy et les Cafards",
+      "TMDb Rating": "7.5 350 votes",
+      "First air date": "Sep. 06, 1999",
+      "Last air date": "May. 10, 2022",
+      "Seasons": "8",
+      "Episodes": "579",
+      "Average Duration": "7 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Sep. 06, 1999",
+      "episodeCount": 26,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Bitter Chocolate",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x1/",
+          "airDate": "Sep. 06, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/mfdo0f2"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "It's All Under Control",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x2/",
+          "airDate": "Sep. 07, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/bkybpgv"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "The Lottery Ticket",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x3/",
+          "airDate": "Sep. 08, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/wqellgb"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "The Time Machine",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x4/",
+          "airDate": "Sep. 09, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pkqxuih"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Oggy and the Babies",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x5/",
+          "airDate": "Sep. 10, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ivwsdy9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "So Lonely",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x6/",
+          "airDate": "Sep. 13, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/mar4f1a"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Baby Doll",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x7/",
+          "airDate": "Sep. 14, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/wxpoczc"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "A Tip for the Road",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x8/",
+          "airDate": "Sep. 15, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/we7m97g"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "A Dog Day Afternoon",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x9/",
+          "airDate": "Sep. 16, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nxra6kh"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "It's a Long Way Down",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x10/",
+          "airDate": "Sep. 17, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/q866d72"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Bugball",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x11/",
+          "airDate": "Sep. 20, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pizv73p"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Emergency Room",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x12/",
+          "airDate": "Sep. 21, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/fuds0m7"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Occupied",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x13/",
+          "airDate": "Sep. 22, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/g7a7jx6"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 14,
+          "title": "Oggy and the Magic Broom",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x14/",
+          "airDate": "Sep. 22, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/w525jf8"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 15,
+          "title": "The Dictator",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x15/",
+          "airDate": "Sep. 23, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ehnlk4b"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 16,
+          "title": "Duck Soup",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x16/",
+          "airDate": "Sep. 24, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/rp3c43h"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 17,
+          "title": "The Piggy Bank",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x17/",
+          "airDate": "Sep. 27, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/fy262eh"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 18,
+          "title": "The Rise and the Fall",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x18/",
+          "airDate": "Sep. 28, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/tpolysr"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 19,
+          "title": "Deep End",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x19/",
+          "airDate": "Sep. 29, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/p26y417"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 20,
+          "title": "It's a Small World",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x20/",
+          "airDate": "Sep. 29, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/zvrkxhv"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 21,
+          "title": "Jealousy",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x21/",
+          "airDate": "Sep. 30, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pdcye30"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 22,
+          "title": "Go Slow With Your Dough",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x22/",
+          "airDate": "Oct. 01, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ar3618q"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 23,
+          "title": "Tooth Good to be True",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x23/",
+          "airDate": "Oct. 04, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/acf45ks"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 24,
+          "title": "One Track Life",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x24/",
+          "airDate": "Oct. 05, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/annvbsc"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 25,
+          "title": "The Carnival's in Town",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x25/",
+          "airDate": "Oct. 06, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/sizdzmh"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 26,
+          "title": "Mouseagator",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-1x26/",
+          "airDate": "Oct. 06, 1999",
+          "thumbnail": "https://image.tmdb.org/t/p/original/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/rlh20jc"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 3,
+      "seasonTitle": "Season 3 Oct. 18, 2008",
+      "episodeCount": 38,
+      "episodes": [
+        {
+          "seasonNo": 3,
+          "episodeNo": 1,
+          "title": "Octopus",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x1/",
+          "airDate": "Oct. 18, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/6xT6hD7oAFIpR2oebnevS2AXOPg.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/uuqkzxrc57i0"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 2,
+          "title": "Sheepcat",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x2/",
+          "airDate": "Oct. 19, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/wj7qfyyAJj86JMdRESdZMf2bI54.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/e5wmzogr4czc"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 3,
+          "title": "Night Watchmen",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x3/",
+          "airDate": "Oct. 20, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/tzRUY0QXnvwyLYG1KdA6D2LwtRl.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/ll564dnxjvtp"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 4,
+          "title": "Abandoned Cockroaches",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x4/",
+          "airDate": "Oct. 21, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/4a0e1yCYE40Q1WyDqSPqzdDVhox.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/rfd5ubez7ssd"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 5,
+          "title": "V.I.P. Party",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x5/",
+          "airDate": "Oct. 22, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/iZ6NcCRNoa3tBfGWWFimjXEGL4r.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/h0is3cfinlyv"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 6,
+          "title": "Scuba Diving",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x6/",
+          "airDate": "Oct. 23, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/tiww4CZWYUbcdPWgG7L8LStQOxq.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/8p43h56ztetz"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 7,
+          "title": "Oggy and the Magic Shoes",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x7/",
+          "airDate": "Oct. 24, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/9JdN0EtywAch6yJfn1VPbmPN9YZ.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/c6jyvuz9xk8d"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 8,
+          "title": "Casino",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x8/",
+          "airDate": "Oct. 25, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/t6NWjtdVKo8weLYDABd9THby2iO.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/wd9mw0d5dlzf"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 9,
+          "title": "Santa Oggy",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x9/",
+          "airDate": "Oct. 26, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/ay0mGw8qaHiBEaCQNP2h3US6Eta.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/3elbqz6kho9i"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 10,
+          "title": "Just Married!",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x10/",
+          "airDate": "Oct. 27, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/pr79PSTaPjKe77HFwGIHR7SNwHU.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/t2pkohauwcmj"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 11,
+          "title": "Living Carrots",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x11/",
+          "airDate": "Oct. 28, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/ySfEhBNLrdJha7Qds6W3w8lwxuM.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/vx4nxmj41qlr"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 12,
+          "title": "Castaway Cats",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x12/",
+          "airDate": "Oct. 29, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/b0smUb78OhMq1LChwzBk9w4e4Bo.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/7x0h3j6140ql"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 13,
+          "title": "Transamazon-ians",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x13/",
+          "airDate": "Oct. 30, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/tZMAp8DWt2e64aVfHmscxukBn1M.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/wq0kean73w8n"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 14,
+          "title": "First Flight",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x14/",
+          "airDate": "Oct. 31, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/sEYGSXxKwzck3abA2wL8yKji1ny.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/f8csk61cf8ct"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 15,
+          "title": "Invincible",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x15/",
+          "airDate": "Nov. 01, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/g0CRFkm3OUnV0sk4xrTIKxMqP4s.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/1rsgkmn13wfl"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 16,
+          "title": "Inside Out",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x16/",
+          "airDate": "Nov. 03, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/rCKyGod0xG6JBcHbhf1rAL4HQFL.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/fwone4hqlqru"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 17,
+          "title": "Priceless Roaches",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x17/",
+          "airDate": "Nov. 04, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/84PXOjWYqp0jf9itNxuxWfjEGXN.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/q05e0cn9v8he"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 18,
+          "title": "The World Underneath",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x18/",
+          "airDate": "Nov. 05, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/6L3oi5TqV98sEELMgK0sFwzzzpz.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/3zt3p9wxl6zx"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 19,
+          "title": "Golden Eggs",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x19/",
+          "airDate": "Nov. 06, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/paZpVjMZeePi3Smbi4otvnA2Jp4.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/pgovk2c5u2la"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 20,
+          "title": "Termite-ator",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x20/",
+          "airDate": "Nov. 07, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/yTIFDRRUiJ5lth2OImTLnVUjua3.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/d6f1sytor1qr"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 21,
+          "title": "The Mini-Golf War",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x21/",
+          "airDate": "Nov. 08, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/2cfSZsozzU7Jre7eEbJsDhQz7wx.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/swsns5722h41"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 22,
+          "title": "Oggywood",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x22/",
+          "airDate": "Nov. 19, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/zT3J1SrZiAoQGEok9KMpRoH9Cb.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/r3h2lkg98pwl"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 23,
+          "title": "Horse Ride",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x23/",
+          "airDate": "Nov. 19, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/5HlQSfjCuWR1IlvUSY39SpYb7yL.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/2pclbx4v4q0c"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 24,
+          "title": "Oggy's Crab",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x24/",
+          "airDate": "Nov. 20, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/c4s79CNJoIpdwwXbhC9M861vymL.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/qshjg6wazsko"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 25,
+          "title": "The Fugitive",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x25/",
+          "airDate": "Nov. 21, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/4JmNIS1LA0P9UL6E2kudoGjgPbP.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/dodsbfrgpz56"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 26,
+          "title": "The Ancestor",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x26/",
+          "airDate": "Nov. 22, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/dJmzzlPRdGpIBDDQ5X7L5zZIT58.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/sgtbbigj0411"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 27,
+          "title": "Surf's On",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x27/",
+          "airDate": "Nov. 23, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/bl79aAqbjYKdtsZrt37QB9ndPyY.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/4rvxxx9wu5uy"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 28,
+          "title": "Hold Up",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x28/",
+          "airDate": "Nov. 24, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/91k3fTCIixFZRv1h6w4G85KRRTh.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/9cfcpen81efn"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 29,
+          "title": "Fancy-a-Pizza",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x29/",
+          "airDate": "Dec. 21, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/zsM8aAPO2WreZ9pFjh5Whhor1PU.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/7fo18xznfcl5"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 30,
+          "title": "Oggy's grandma",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x30/",
+          "airDate": "Dec. 21, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/7Mcqpuw6TNicezTnvCiODEPDWSK.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/llhb31b5bhx0"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 31,
+          "title": "Locked Outside",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x31/",
+          "airDate": "Dec. 21, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/ze9DuYN7gScEyQPTMdiVOBJK5O9.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/1gdtjgstkxcm"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 32,
+          "title": "Cartoon Lesson",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x32/",
+          "airDate": "Dec. 21, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/rbXdAmCOKmYCRU0QvJDnhTYEolZ.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/pqre69uqtvxj"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 33,
+          "title": "Ugly, Dirty and Good",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x33/",
+          "airDate": "Dec. 22, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/vLaKumyVo2UwLGs0nX5XDdljYHc.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/c69gkycwjbw3"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 34,
+          "title": "Moving Out",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x34/",
+          "airDate": "Dec. 22, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/jFwGcrbULk0bZnpOjHkEt5G3MDg.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/kapm1vu3ws29"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 36,
+          "title": "The Cicada and the Cockroach",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x36/",
+          "airDate": "Dec. 24, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/5cLlRSF4aQbGhzwBhtL3neMYrb6.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/amympuz55j05"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 37,
+          "title": "Oggy's Double",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x37/",
+          "airDate": "Dec. 24, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/kn14ENO0rgIidQkI31vbtBdURwZ.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/niv0pgjlhmxg"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 38,
+          "title": "To Serve and Protect",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x38/",
+          "airDate": "Dec. 24, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/bkkUgMGgYB0aH79dCsdIxnIlhSH.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/xpb2e10k3z0x"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 39,
+          "title": "Formula 1",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-3x39/",
+          "airDate": "Dec. 24, 2008",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/aFzXoIl7eOQeNCgI6xrUcgbYpsj.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/0ibbc4zo3nx1"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 4,
+      "seasonTitle": "Season 4 Jun. 02, 2012",
+      "episodeCount": 26,
+      "episodes": [
+        {
+          "seasonNo": 4,
+          "episodeNo": 1,
+          "title": "Olivia",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x1/",
+          "airDate": "Jun. 02, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/9b0P3D5lif1Fl47uCzki5Lp8WCU.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/s6rcgc1sxyj1"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 2,
+          "title": "The Lighthouse Keeper",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x2/",
+          "airDate": "Jun. 02, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/rjeP2lrNnHKm0s1nDo9ACJeNLMe.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/65e6eg011na8"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 3,
+          "title": "Dump the Roaches!",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x3/",
+          "airDate": "Jun. 09, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/55z2ey7gJxiqWjogIoGDFYTfgaV.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/w943q0xkyt1y"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 4,
+          "title": "Dee Dee's Diet",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x4/",
+          "airDate": "Jun. 09, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/zmxRfcG9wi2k0vuA8w6n5PxM9eV.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/n25fzdlrvqxh"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 5,
+          "title": "A Jealous Guy",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x5/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/yT8UUqccCAI5k9nA3kLysrEIRSc.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/3ks2o26ziy8x"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 6,
+          "title": "Let's Party, Guys!",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x6/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/hHH2n1pqBviH94xutXUvX1mGofS.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/agbdxezj2pvk"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 7,
+          "title": "Airship House",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x7/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/iPsoewBfbcQgHxVb3wkblD2eJEi.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/cmrvfqpievsk"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 8,
+          "title": "Panic Room",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x8/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/hux0yxSTRMMvaKADtXl9U0Rw9db.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/gcrz88pk3u63"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 9,
+          "title": "Into the Wild",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x9/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/wejlhaYIr259s6P71aOLgAkpGL2.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/8rhbwnip8lxi"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 10,
+          "title": "Washing Day",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x10/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/fqHBnGJb5kEZyOtouyrzrKdtSpL.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/kocy96r7nbr9"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 11,
+          "title": "Lightning Visit",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x11/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/9tHP9PhO3dv4NwxNZEx54EfIwbn.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/o186pbtpc1ex"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 12,
+          "title": "Oggy's Shadow",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x12/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/aFdU44mBu37d3izSux4LbJAVQUY.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/kf0fl7x5czi5"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 13,
+          "title": "Buddy Parrot",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x13/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/wlEhGm6qUwwXHCtGwz8dLXh39Jl.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/sqg2hq134iuu"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 14,
+          "title": "The Magic Pen",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x14/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/cXV7dhX4tVQWYR7tXUZcWD8eZxr.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/m3j7bp2vz50h"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 15,
+          "title": "The Cube",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x15/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/9eSlN9fLx2YOOof987XGqce7qwD.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/i0ngj2v0ubl5"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 16,
+          "title": "A Charming Guy",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x16/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/8UtlwmDkAMKEPaB8zMvw0LSJUAL.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/1qt19yqhmti9"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 17,
+          "title": "Fly for Fun",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x17/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/hlDI9YMeQH6aVxEZPgFRHiLvQob.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/2zarffay3lu8"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 18,
+          "title": "Olivia's Pimple",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x18/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/gKigBVTZrvxP0Zc07WlJmYk4uZi.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/zs83kd7d3mpu"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 19,
+          "title": "The Ice Rink",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x19/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/1sX4tHWlJ6W7hQscyGez4QTCwiK.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/nq27vtmh8kre"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 20,
+          "title": "For Real",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x20/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/aXD1LSwJxVGaxLCNyBLEb1PlrWk.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/h1slk7k1dwvv"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 21,
+          "title": "Fly to the Sun",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x21/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/rb6qu8gzb0cjc70lCRXLbTUTXxx.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/xxewm32lzgs6"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 22,
+          "title": "Run, Olivia, Run",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x22/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/71IXvqccat1Vk32Q0Pbc89121Tz.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/cgcaqoqhxrjw"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 23,
+          "title": "Mind the Giant",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x23/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/rwWagPEVyjERiYLsCqDNycFox8P.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/bcomsw5n24ar"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 24,
+          "title": "A Soft World",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x24/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/13gFZKIjycTamV97fSLEA2XzzDw.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/3c9rrp916n6o"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 25,
+          "title": "Sport Fans",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x25/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/7T94Ld9C9t6hcLuJy3s4sC2xzZN.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/732j2s8hf3gy"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 26,
+          "title": "The Kitchen Boy",
+          "url": "https://multimovies.city/episodes/oggy-and-the-cockroaches-4x26/",
+          "airDate": "Jun. 13, 2012",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/gODes1nL8RndhDgtkKGbTHV5YXI.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/me31647bd8xq"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jean-Yves Raimbaud",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/jean-yves-raimbaud/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kaycie Chase",
+      "role": "Piya (voice)",
+      "url": "https://multimovies.city/cast/kaycie-chase/",
+      "image": "https://image.tmdb.org/t/p/w92/tis8Xvy8ALtFc9Kt7JBma0ze3Xp.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/fVO7r9tAnauny8DAqbetlQ1tVtu.jpg",
+    "https://image.tmdb.org/t/p/w300/dEZQZKKWOjSeEIMiVALtB46bnXy.jpg",
+    "https://image.tmdb.org/t/p/w300/cm6Wdq5wpLyDmnL1WpPlvntnCab.jpg",
+    "https://image.tmdb.org/t/p/w300/xevDJmsxxDNIf45oJbtXCvJdLrz.jpg",
+    "https://image.tmdb.org/t/p/w300/udiXeyMh125PTgWyw0VlqALVZli.jpg",
+    "https://image.tmdb.org/t/p/w300/7rvCpnIIJbZTpuo2HVCjcv0bwnJ.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
