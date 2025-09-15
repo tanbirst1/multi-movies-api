@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/alligator-2-the-mutation/",
+  "meta": {
+    "title": "Alligator 2: The Mutation",
+    "poster": "https://image.tmdb.org/t/p/w500/fBRu7GWERVsfJaJblRnXq0JPt2B.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Jul. 05, 1991",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "A giant mutated alligator runs riot in a small town after the sewer system washes it into a lake.",
+    "infoFields": {
+      "Original title": "Alligator 2: The Mutation",
+      "IMDb Rating": "4 3,472 votes",
+      "TMDb Rating": "4.9 87 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jon Hess",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jon-hess/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Joseph Bologna",
+      "role": "David Hodges",
+      "url": "https://multimovies.city/cast/joseph-bologna/",
+      "image": "https://image.tmdb.org/t/p/w92/zAyV5p4prwRXtL00xkJCHLBBUJ8.jpg"
+    },
+    {
+      "name": "Dee Wallace",
+      "role": "Christine Hodges",
+      "url": "https://multimovies.city/cast/dee-wallace/",
+      "image": "https://image.tmdb.org/t/p/w92/gVnwovXGgGcny8LJ3w9j3I9xTE7.jpg"
+    },
+    {
+      "name": "Richard Lynch",
+      "role": "Hawkins",
+      "url": "https://multimovies.city/cast/richard-lynch/",
+      "image": "https://image.tmdb.org/t/p/w92/f8DLv1pSSG85xEwqxOHIPQDa6t4.jpg"
+    },
+    {
+      "name": "Woody Brown",
+      "role": "Rich Harmon",
+      "url": "https://multimovies.city/cast/woody-brown/",
+      "image": "https://image.tmdb.org/t/p/w92/oSZmPKIBt1bDbj7ucG2WpJfmlUk.jpg"
+    },
+    {
+      "name": "Holly Gagnier",
+      "role": "Sheri Anderson",
+      "url": "https://multimovies.city/cast/holly-gagnier/",
+      "image": "https://image.tmdb.org/t/p/w92/9kmdZN3NBDHKdlSm7A9rimRIr30.jpg"
+    },
+    {
+      "name": "Bill Daily",
+      "role": "Mayor Anderson",
+      "url": "https://multimovies.city/cast/bill-daily/",
+      "image": "https://image.tmdb.org/t/p/w92/2T3DCQyCTWzprDpZrlSPwMCTB10.jpg"
+    },
+    {
+      "name": "Steve Railsback",
+      "role": "Vinnie Brown",
+      "url": "https://multimovies.city/cast/steve-railsback/",
+      "image": "https://image.tmdb.org/t/p/w92/wztkAOAQZNGLlbrUrGIhV5cr1S0.jpg"
+    },
+    {
+      "name": "Brock Peters",
+      "role": "Chief Speed",
+      "url": "https://multimovies.city/cast/brock-peters/",
+      "image": "https://image.tmdb.org/t/p/w92/yrnjKF4BDdp7usDJeHGpMmYUNgJ.jpg"
+    },
+    {
+      "name": "Trevor Eyster",
+      "role": "J.J. Hodges",
+      "url": "https://multimovies.city/cast/trevor-eyster/",
+      "image": "https://image.tmdb.org/t/p/w92/gjeTe9MI0KbyKNisKWjvmUjoMaj.jpg"
+    },
+    {
+      "name": "Vojislav Govedarica",
+      "role": "Carmen",
+      "url": "https://multimovies.city/cast/vojislav-govedarica/",
+      "image": "https://image.tmdb.org/t/p/w92/8P98ow2e9bGYE15lYhX5XhMwnZy.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/s4Urt5FCCf4ePGqSAmiTjlEwGDy.jpg",
+    "https://image.tmdb.org/t/p/w300/jCSBnvHOosWVffi9s3nzZOqwhlV.jpg",
+    "https://image.tmdb.org/t/p/w300/uOiobWXpQw7xdG24TOsyN1Beb1j.jpg",
+    "https://image.tmdb.org/t/p/w300/9Q2nKDNuz0WrWBUCL5wLHjgRTan.jpg"
+  ],
+  "similar": [],
+  "views": 415,
+  "sources": [
+    "https://www.youtube.com/embed/5JN9Fd2NPF8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/t0d7em3"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 80989,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 80989,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
