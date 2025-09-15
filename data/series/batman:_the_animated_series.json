@@ -1,0 +1,206 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/batman-the-animated-series/",
+  "meta": {
+    "title": "Batman: The Animated Series",
+    "poster": "https://image.tmdb.org/t/p/w500/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+    "networks": [
+      {
+        "name": "FOX",
+        "url": "https://multimovies.city/network/fox/"
+      },
+      {
+        "name": "Fox Kids",
+        "url": "https://multimovies.city/network/fox-kids/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Sep. 05, 1992",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Vowing to avenge the murder of his parents, Bruce Wayne devotes his life to wiping out crime in Gotham City as the masked vigilante \u201cBatman\u201d.",
+    "infoFields": {
+      "Original title": "Batman: The Animated Series",
+      "TMDb Rating": "8.5 1,389 votes",
+      "First air date": "Sep. 05, 1992",
+      "Last air date": "Sep. 15, 1995",
+      "Seasons": "4",
+      "Episodes": "85",
+      "Average Duration": "22 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Sep. 05, 1992",
+      "episodeCount": 8,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "The Cat and the Claw (1)",
+          "url": "https://multimovies.city/episodes/batman-the-animated-series-1x1/",
+          "airDate": "Sep. 05, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/09/iDkkb25Qb4wUAef42oxLaVFysp2.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/2dubynqsv02l"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "On Leather Wings",
+          "url": "https://multimovies.city/episodes/batman-the-animated-series-1x2/",
+          "airDate": "Sep. 06, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/09/kTLD5SHb8O4oFTw9CffqPpIGnon.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/9u545j90i8pt"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Heart of Ice",
+          "url": "https://multimovies.city/episodes/batman-the-animated-series-1x3/",
+          "airDate": "Sep. 07, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/09/56gAPNLX5MTUcOy4QAfNwGUCBCF.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/baxyz9xlyn7t"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Feat of Clay (1)",
+          "url": "https://multimovies.city/episodes/batman-the-animated-series-1x4/",
+          "airDate": "Sep. 08, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/09/qH5FgSSPT6SL43Vuhfsh1FxIKR.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/agfbrg3twshu"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Feat of Clay (2)",
+          "url": "https://multimovies.city/episodes/batman-the-animated-series-1x5/",
+          "airDate": "Sep. 09, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/09/w4HpRMyiQhXuGrIuAokdDtpb9yd.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/idm9cg1weuy8"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "It's Never Too Late",
+          "url": "https://multimovies.city/episodes/batman-the-animated-series-1x6/",
+          "airDate": "Sep. 10, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/09/aWdYhXYHf6AN1JeIFSlO3Z2Pnhj.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/he7dcogykg5v"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Joker's Favor",
+          "url": "https://multimovies.city/episodes/batman-the-animated-series-1x7/",
+          "airDate": "Sep. 11, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/09/m2e5kCmUkbC7KxvqVRd1NWnAiGs.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/6ll96p372aog"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "The Cat and the Claw (2)",
+          "url": "https://multimovies.city/episodes/batman-the-animated-series-1x8/",
+          "airDate": "Sep. 12, 1992",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/09/8t9rNPZ9JM8aUkleCd8ygKM0pUP.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/sy9payq6ttnb"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 3,
+      "seasonTitle": "Season 3 Sep. 10, 1994",
+      "episodeCount": 1,
+      "episodes": [
+        {
+          "seasonNo": null,
+          "episodeNo": null,
+          "title": "",
+          "url": "",
+          "airDate": "",
+          "thumbnail": "",
+          "sources": []
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bruce Timm",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/bruce-timm/",
+      "image": "https://image.tmdb.org/t/p/w92/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg"
+    },
+    {
+      "name": "Kevin Conroy",
+      "role": "Batman / Bruce Wayne (voice)",
+      "url": "https://multimovies.city/cast/kevin-conroy/",
+      "image": "https://image.tmdb.org/t/p/w92/4MVApMiARrecuVjTCPfi6Z7biLW.jpg"
+    },
+    {
+      "name": "Efrem Zimbalist Jr.",
+      "role": "Alfred Pennyworth (voice)",
+      "url": "https://multimovies.city/cast/efrem-zimbalist-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/nMfmluUYjgQODrLwwUDHh7QQtww.jpg"
+    },
+    {
+      "name": "Loren Lester",
+      "role": "Robin / Dick Grayson (voice)",
+      "url": "https://multimovies.city/cast/loren-lester/",
+      "image": "https://image.tmdb.org/t/p/w92/AmdxCKx7ehFXtOglUH02iewTHqI.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nqKl23bnWrTlNUv0ZA6KrtpTPpq.jpg",
+    "https://image.tmdb.org/t/p/w300/2Eib5rvQXl2TTp4GBLgTnvAQNUL.jpg",
+    "https://image.tmdb.org/t/p/w300/h0ixETrqLhDB9f7EdMuarUPA2N1.jpg",
+    "https://image.tmdb.org/t/p/w300/ziBTQbhHGVtdXSiWTAhiqmd1sxG.jpg",
+    "https://image.tmdb.org/t/p/w300/4QnFxk03yAn7U2ZTL5oMCCqxlPc.jpg",
+    "https://image.tmdb.org/t/p/w300/uXNxbHU9GockJNp1dAXpsrrfnue.jpg",
+    "https://image.tmdb.org/t/p/w300/r8j2FjMbYu5veAqXl4RBjNoDZFo.jpg",
+    "https://image.tmdb.org/t/p/w300/r1askDxJJqYYAE2sEj1xljBYkFK.jpg",
+    "https://image.tmdb.org/t/p/w300/fmXLJpaqcCshM0gzmMR8Q36YCif.jpg",
+    "https://image.tmdb.org/t/p/w300/dn9NGVl7HkFAOKvUzn2OpqgKP1x.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
