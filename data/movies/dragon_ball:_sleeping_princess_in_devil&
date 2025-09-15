@@ -1,0 +1,126 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dragon-ball-sleeping-princess-in-devils-castle/",
+  "meta": {
+    "title": "Dragon Ball: Sleeping Princess in Devil\u2019s Castle",
+    "poster": "https://image.tmdb.org/t/p/w500/bPmA7dtMUoh6fK8XjauoKB4FcSu.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      }
+    ],
+    "firstAirDate": "Jul. 18, 1987",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Goku and Kuririn are given an assignment by Kame-Sen\u2019nin: \u201cRetrieve the sleeping princess from Lucifer and I will take you as my students.\u201d But the mission proves to be more perilous than originally thought.",
+    "infoFields": {
+      "Original title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u9b54\u795e\u57ce\u306e\u306d\u3080\u308a\u59eb",
+      "IMDb Rating": "6.6 2,489 votes",
+      "TMDb Rating": "6.535 213 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Daisuke Nishio",
+      "role": "Director",
+      "url": "https://multimovies.city/director/daisuke-nishio/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Mayumi Tanaka",
+      "role": "Kuririn",
+      "url": "https://multimovies.city/cast/mayumi-tanaka/",
+      "image": "https://image.tmdb.org/t/p/w92/dWh2Y3bQkSjPv3c7kyy5P6M3PLS.jpg"
+    },
+    {
+      "name": "Nachi Nozawa",
+      "role": "Lucifer",
+      "url": "https://multimovies.city/cast/nachi-nozawa/",
+      "image": "https://image.tmdb.org/t/p/w92/zuRIv3q4L4BKiJFVjNfRtLOi6yV.jpg"
+    },
+    {
+      "name": "Hiromi Tsuru",
+      "role": "Bulma Briefs",
+      "url": "https://multimovies.city/cast/hiromi-tsuru/",
+      "image": "https://image.tmdb.org/t/p/w92/oFU9CCNLUhklLhEuLutM0FyTUbt.jpg"
+    },
+    {
+      "name": "Masako Nozawa",
+      "role": "Son Goku",
+      "url": "https://multimovies.city/cast/masako-nozawa/",
+      "image": "https://image.tmdb.org/t/p/w92/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "name": "Toru Furuya",
+      "role": "Yamcha",
+      "url": "https://multimovies.city/cast/toru-furuya/",
+      "image": "https://image.tmdb.org/t/p/w92/nsibN89E7tYhy0B6Xk9UvkirSXF.jpg"
+    },
+    {
+      "name": "Naoko Watanabe",
+      "role": "Puar",
+      "url": "https://multimovies.city/cast/naoko-watanabe/",
+      "image": "https://image.tmdb.org/t/p/w92/vTd7ZEnuDiS9GyD1PfWG931YeLn.jpg"
+    },
+    {
+      "name": "Naoki Tatsuta",
+      "role": "Oolong",
+      "url": "https://multimovies.city/cast/naoki-tatsuta/",
+      "image": "https://image.tmdb.org/t/p/w92/iYGYNGRoQv0yRwKhisqfk5ARVTE.jpg"
+    },
+    {
+      "name": "Shozo Iizuka",
+      "role": "Igor",
+      "url": "https://multimovies.city/cast/shozo-iizuka/",
+      "image": "https://image.tmdb.org/t/p/w92/msqe5A1q5YUUND0RhzB9dw1AEAO.jpg"
+    },
+    {
+      "name": "Daisuke G\u00f4ri",
+      "role": "Ghastel",
+      "url": "https://multimovies.city/cast/daisuke-gori/",
+      "image": "https://image.tmdb.org/t/p/w92/g5OeBa8Rww8VNZiJuU7RhZxodwc.jpg"
+    },
+    {
+      "name": "K\u014dhei Miyauchi",
+      "role": "Muten",
+      "url": "https://multimovies.city/cast/kohei-miyauchi/",
+      "image": "https://image.tmdb.org/t/p/w92/ov1UMNf85T4ZFQSAN57KlcuTeDZ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/81ploCRzK7R1npjgkx7KPjWpIyx.jpg",
+    "https://image.tmdb.org/t/p/w300/p2azqM2Rd6LoYm733zbCHFpwrhr.jpg"
+  ],
+  "similar": [],
+  "views": 1292,
+  "sources": [
+    "https://www.youtube.com/embed/1Y47pPCPtVM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/u7yyqosriv0b"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 19357,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 19357,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
