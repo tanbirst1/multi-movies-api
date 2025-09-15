@@ -1,0 +1,165 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/godzilla-2/",
+  "meta": {
+    "title": "Godzilla",
+    "poster": "https://image.tmdb.org/t/p/w500/tqQ9Nt5C1Z5PRDPxYXQ4qwy5v5V.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 20, 1998",
+    "ratingValue": "9.5",
+    "ratingCount": "2",
+    "synopsis": "French nuclear tests irradiate an iguana into a giant monster that viciously attacks freighter ships in the Pacific Ocean. A team of experts, including Niko Tatopoulos, conclude that the oversized reptile is the culprit. Before long, the giant lizard is loose in Manhattan as the US military races to destroy the monster before it reproduces and it\u2019s spawn takes over the world.",
+    "infoFields": {
+      "Original title": "Godzilla",
+      "IMDb Rating": "5.4 196,882 votes",
+      "TMDb Rating": "5.612 3,419 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Roland Emmerich",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roland-emmerich/",
+      "image": "https://image.tmdb.org/t/p/w92/mN8x74uv9yQ7dJl8nh2q26mkY8v.jpg"
+    },
+    {
+      "name": "Matthew Broderick",
+      "role": "Dr. Niko Tatopoulos",
+      "url": "https://multimovies.city/cast/matthew-broderick/",
+      "image": "https://image.tmdb.org/t/p/w92/2Pq8pwOX5ZFfT2p5pNLGfvUi9Pp.jpg"
+    },
+    {
+      "name": "Jean Reno",
+      "role": "Philippe Roach\u00e9",
+      "url": "https://multimovies.city/cast/jean-reno/",
+      "image": "https://image.tmdb.org/t/p/w92/q7dYamebioHRuvb9EWeSw8yTEfS.jpg"
+    },
+    {
+      "name": "Maria Pitillo",
+      "role": "Audrey Timmonds",
+      "url": "https://multimovies.city/cast/maria-pitillo/",
+      "image": "https://image.tmdb.org/t/p/w92/e2RqURksoCGa9fBqqMtOuY7pDk5.jpg"
+    },
+    {
+      "name": "Hank Azaria",
+      "role": "Victor 'Animal' Palotti",
+      "url": "https://multimovies.city/cast/hank-azaria/",
+      "image": "https://image.tmdb.org/t/p/w92/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "name": "Kevin Dunn",
+      "role": "Colonel Hicks",
+      "url": "https://multimovies.city/cast/kevin-dunn/",
+      "image": "https://image.tmdb.org/t/p/w92/7dqLQjMNCQnuxQJQwQ5Ozz16LBq.jpg"
+    },
+    {
+      "name": "Michael Lerner",
+      "role": "Mayor Ebert",
+      "url": "https://multimovies.city/cast/michael-lerner/",
+      "image": "https://image.tmdb.org/t/p/w92/2b1PLnbBU1zdz06AXNGSAo226Is.jpg"
+    },
+    {
+      "name": "Harry Shearer",
+      "role": "Charles Caiman",
+      "url": "https://multimovies.city/cast/harry-shearer/",
+      "image": "https://image.tmdb.org/t/p/w92/au1mO0Mb9gni7h0rJCSokBTDnVf.jpg"
+    },
+    {
+      "name": "Arabella Field",
+      "role": "Lucy Palotti",
+      "url": "https://multimovies.city/cast/arabella-field/",
+      "image": "https://image.tmdb.org/t/p/w92/mKWXvd31RH0MNZqIiXBBHPyrtkF.jpg"
+    },
+    {
+      "name": "Vicki Lewis",
+      "role": "Dr. Elsie Chapman",
+      "url": "https://multimovies.city/cast/vicki-lewis/",
+      "image": "https://image.tmdb.org/t/p/w92/dwTjtleLh1uu8n9AvUCv0n3mi2R.jpg"
+    },
+    {
+      "name": "Doug Savant",
+      "role": "Sergeant O'Neal",
+      "url": "https://multimovies.city/cast/doug-savant/",
+      "image": "https://image.tmdb.org/t/p/w92/yJ9UjfZ3PcULd0OPZhZ4vv23KMG.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/z6fmvhQXS5hbXSizx4DGajjBmGD.jpg",
+    "https://image.tmdb.org/t/p/w300/9vN5x2rsKGAV73l7RCQ53fWQ9ni.jpg",
+    "https://image.tmdb.org/t/p/w300/hQg2CMyW3y8zMOqnqPs5wbFCE0Z.jpg",
+    "https://image.tmdb.org/t/p/w300/e8sh1mmkIgXlId0KMQHqA259Gm5.jpg",
+    "https://image.tmdb.org/t/p/w300/gT4XVSEmGKOJ0EgSEUTfCeqgEtc.jpg",
+    "https://image.tmdb.org/t/p/w300/qklnimC42e7EYv8Leu7zm9KE9Kh.jpg",
+    "https://image.tmdb.org/t/p/w300/cwI3fnKofcJu8jAbpbavGp3C0a2.jpg",
+    "https://image.tmdb.org/t/p/w300/f85yZes2WDIPZyVi3uNrqTIcZjd.jpg",
+    "https://image.tmdb.org/t/p/w300/apozaWgg4G6tMudKApyrePH86Il.jpg"
+  ],
+  "similar": [],
+  "views": 3516,
+  "sources": [
+    "https://www.youtube.com/embed/3FEDcXsL5o8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/bcs9fwami6k1",
+    "https://sbplay.org/embed-itq0m7mmczo9.html",
+    "https://dood.la/e/aat1ndd4j3aq",
+    "https://mixdrop.co/e/n09goz7oum080m",
+    "https://hydrax.net/watch?v=HiQA85Fc9N"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10802,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 10802,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 10802,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 10802,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 10802,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 10802,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
