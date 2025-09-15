@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/happy-gilmore/",
+  "meta": {
+    "title": "Happy Gilmore",
+    "poster": "https://image.tmdb.org/t/p/w500/epFP29rGrLPseuKxpz3mGKr23Do.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 16, 1996",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Failed hockey player-turned-golf whiz Happy Gilmore \u2014 whose unconventional approach and antics on the green courts the ire of rival Shooter McGavin \u2014 is determined to win a PGA tournament so he can save his granny\u2019s house with the prize money. Meanwhile, an attractive tour publicist tries to soften Happy\u2019s image.",
+    "infoFields": {
+      "Original title": "Happy Gilmore",
+      "IMDb Rating": "7 270,006 votes",
+      "TMDb Rating": "6.655 2,935 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Dennis Dugan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/dennis-dugan/",
+      "image": "https://image.tmdb.org/t/p/w92/fnAaknflGp2Phr1Q0dWkA41ohNO.jpg"
+    },
+    {
+      "name": "Adam Sandler",
+      "role": "Happy Gilmore",
+      "url": "https://multimovies.city/cast/adam-sandler/",
+      "image": "https://image.tmdb.org/t/p/w92/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+    },
+    {
+      "name": "Christopher McDonald",
+      "role": "Shooter McGavin",
+      "url": "https://multimovies.city/cast/christopher-mcdonald/",
+      "image": "https://image.tmdb.org/t/p/w92/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+    },
+    {
+      "name": "Julie Bowen",
+      "role": "Virginia Venit",
+      "url": "https://multimovies.city/cast/julie-bowen/",
+      "image": "https://image.tmdb.org/t/p/w92/5ewqnbPAY0EzZObGHIKU4VsCanD.jpg"
+    },
+    {
+      "name": "Frances Bay",
+      "role": "Grandma",
+      "url": "https://multimovies.city/cast/frances-bay/",
+      "image": "https://image.tmdb.org/t/p/w92/1mtcINBBbvb7E4ySgOr86u34XLJ.jpg"
+    },
+    {
+      "name": "Carl Weathers",
+      "role": "Chubbs",
+      "url": "https://multimovies.city/cast/carl-weathers/",
+      "image": "https://image.tmdb.org/t/p/w92/2yyZqXiO5yw8QhFVph9dJDHi7zF.jpg"
+    },
+    {
+      "name": "Allen Covert",
+      "role": "Otto",
+      "url": "https://multimovies.city/cast/allen-covert/",
+      "image": "https://image.tmdb.org/t/p/w92/7n3euonyxM0wOGfk0T50pgHo06v.jpg"
+    },
+    {
+      "name": "Robert Smigel",
+      "role": "IRS Agent",
+      "url": "https://multimovies.city/cast/robert-smigel/",
+      "image": "https://image.tmdb.org/t/p/w92/xGlGVcLhiZ4a7GIGlLzGmZtbvUF.jpg"
+    },
+    {
+      "name": "Bob Barker",
+      "role": "Bob Barker",
+      "url": "https://multimovies.city/cast/bob-barker/",
+      "image": "https://image.tmdb.org/t/p/w92/sGOsKHyYMUGStirI8ZwvA3IvoFP.jpg"
+    },
+    {
+      "name": "Richard Kiel",
+      "role": "Mr. Larson",
+      "url": "https://multimovies.city/cast/richard-kiel/",
+      "image": "https://image.tmdb.org/t/p/w92/wop4KV2ywl6gdYnCUs1OthtGylM.jpg"
+    },
+    {
+      "name": "Dennis Dugan",
+      "role": "Doug Thompson",
+      "url": "https://multimovies.city/cast/dennis-dugan/",
+      "image": "https://image.tmdb.org/t/p/w92/fnAaknflGp2Phr1Q0dWkA41ohNO.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/As7NuiDRM4EO7LlJn2u8JWWsABp.jpg",
+    "https://image.tmdb.org/t/p/w300/s3HSJQO1yN6ImYIdwQP244HN3Jb.jpg",
+    "https://image.tmdb.org/t/p/w300/jHNdwbUGd5gFQzxKGEXXhjhUVnC.jpg",
+    "https://image.tmdb.org/t/p/w300/btThlmdmp9KsWBS8GBUDNyBoJQN.jpg",
+    "https://image.tmdb.org/t/p/w300/tZapyVBE797JEmF2G5gxRxbNAIX.jpg",
+    "https://image.tmdb.org/t/p/w300/hhjHa5o45vRuLIpw98EA41yFtw7.jpg",
+    "https://image.tmdb.org/t/p/w300/wsZY0gyPdIfhEX3PRqdFh9HKT1s.jpg",
+    "https://image.tmdb.org/t/p/w300/eTJ9Z3kWU38Aq4j8gI7bGMLsjeQ.jpg",
+    "https://image.tmdb.org/t/p/w300/nJ8qNs6mAWgxXp6bjXzG4dsHoK.jpg",
+    "https://image.tmdb.org/t/p/w300/LQ64Pn7l8q7HdXHDVbQ5HDZuiE.jpg"
+  ],
+  "similar": [],
+  "views": 437,
+  "sources": [
+    "https://www.youtube.com/embed/y1emDAYCfVQ?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/q7cdidn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 95718,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 95718,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
