@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/crayon-shin-chan-pursuit-of-the-balls-of-darkness/",
+  "meta": {
+    "title": "ShinChan in Dark Tama Tama Thrilling Chase",
+    "poster": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Shinchan Movies",
+        "url": "https://multimovies.city/genre/shinchan-movies/"
+      }
+    ],
+    "firstAirDate": "Apr. 19, 1997",
+    "ratingValue": "8.5",
+    "ratingCount": "2",
+    "synopsis": "The Noharas get caught between two rival clans when Himawari swallows a pretty bead that turns out to be a mysterious ball with hidden powers.",
+    "infoFields": {
+      "Original title": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093 \u6697\u9ed2\u30bf\u30de\u30bf\u30de\u5927\u8ffd\u8de1",
+      "IMDb Rating": "6.8 643 votes",
+      "TMDb Rating": "7.4 40 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Keiichi Hara",
+      "role": "Director",
+      "url": "https://multimovies.city/director/keiichi-hara/",
+      "image": "https://image.tmdb.org/t/p/w92/8ormRfEq9wIpxVOGNrbPWw9DD81.jpg"
+    },
+    {
+      "name": "Akiko Yajima",
+      "role": "Shinnosuke Nohara (voice)",
+      "url": "https://multimovies.city/cast/akiko-yajima/",
+      "image": "https://image.tmdb.org/t/p/w92/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
+    },
+    {
+      "name": "Miki Narahashi",
+      "role": "Misae Nohara (voice)",
+      "url": "https://multimovies.city/cast/miki-narahashi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Keiji Fujiwara",
+      "role": "Hiroshi Nohara (voice)",
+      "url": "https://multimovies.city/cast/keiji-fujiwara/",
+      "image": "https://image.tmdb.org/t/p/w92/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+    },
+    {
+      "name": "Satomi Korogi",
+      "role": "Himawari Nohara (voice)",
+      "url": "https://multimovies.city/cast/satomi-korogi/",
+      "image": "https://image.tmdb.org/t/p/w92/k6aNf0zGFGBptCMeFwHV88nlITX.jpg"
+    },
+    {
+      "name": "Ako Mayama",
+      "role": "Shuyuryo's Mother (voice)",
+      "url": "https://multimovies.city/cast/ako-mayama/",
+      "image": "https://image.tmdb.org/t/p/w92/l6smQGOX2NKmSe8nV5R40CLCIjY.jpg"
+    },
+    {
+      "name": "Chie Sato",
+      "role": "Bo (voice)",
+      "url": "https://multimovies.city/cast/chie-sato/",
+      "image": "https://image.tmdb.org/t/p/w92/x6A6uWJUI8HnhaYVXVZJKT2EA0r.jpg"
+    },
+    {
+      "name": "Daisuke G\u00f4ri",
+      "role": "Rose (voice)",
+      "url": "https://multimovies.city/cast/daisuke-gori/",
+      "image": "https://image.tmdb.org/t/p/w92/g5OeBa8Rww8VNZiJuU7RhZxodwc.jpg"
+    },
+    {
+      "name": "Fumihiko Tachiki",
+      "role": "Satake (voice)",
+      "url": "https://multimovies.city/cast/fumihiko-tachiki/",
+      "image": "https://image.tmdb.org/t/p/w92/khEt9uae6dLIrvtkAKkFR1IJPJ5.jpg"
+    },
+    {
+      "name": "Jun Hazumi",
+      "role": "Hekuson (voice)",
+      "url": "https://multimovies.city/cast/jun-hazumi/",
+      "image": "https://image.tmdb.org/t/p/w92/csoVp4ThxFzESS51o0eWg9bYPlM.jpg"
+    },
+    {
+      "name": "Kaneto Shiozawa",
+      "role": "Lavender (voice)",
+      "url": "https://multimovies.city/cast/kaneto-shiozawa/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ubpleh5Oj6ymlZsGUGo77hOKXXR.jpg",
+    "https://image.tmdb.org/t/p/w300/a33jU1X2kwTGsRHq8uUBuAZHGHp.jpg"
+  ],
+  "similar": [],
+  "views": 4395,
+  "sources": [
+    "https://multimoviesshg.com/e/pf4y47z3y0np"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26154,
+      "nume": 1,
+      "title": "t"
+    }
+  ],
+  "cache": false
+}
