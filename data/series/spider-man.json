@@ -1,0 +1,856 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/spider-man/",
+  "meta": {
+    "title": "Spider-Man",
+    "poster": "https://image.tmdb.org/t/p/w500/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+    "networks": [
+      {
+        "name": "FOX",
+        "url": "https://multimovies.city/network/fox/"
+      },
+      {
+        "name": "Fox Kids",
+        "url": "https://multimovies.city/network/fox-kids/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Disney XD",
+        "url": "https://multimovies.city/genre/disney-xd/"
+      }
+    ],
+    "firstAirDate": "Nov. 19, 1994",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Bitten by a neogenetic spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
+    "infoFields": {
+      "Original title": "Spider-Man",
+      "TMDb Rating": "8.3 1,038 votes",
+      "First air date": "Nov. 19, 1994",
+      "Last air date": "Jan. 31, 1998",
+      "Seasons": "5",
+      "Episodes": "65",
+      "Average Duration": "22 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Nov. 19, 1994",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Night of the Lizard",
+          "url": "https://multimovies.city/episodes/spider-man-1x1/",
+          "airDate": "Nov. 19, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/m5ZXbQ4VTLinMwgAvLl53zSOllb.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nyb7rps"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "The Spider Slayer (1)",
+          "url": "https://multimovies.city/episodes/spider-man-1x2/",
+          "airDate": "Feb. 04, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/fDZJLv1UIvGwMMKjdxh1FKmPrvH.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/mob4hfn"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Return of the Spider Slayers (2)",
+          "url": "https://multimovies.city/episodes/spider-man-1x3/",
+          "airDate": "Feb. 11, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/r0kKvkQQ6CDf9w0XnHrZpDvYAWo.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/y4w72vr"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Doctor Octopus: Armed and Dangerous",
+          "url": "https://multimovies.city/episodes/spider-man-1x4/",
+          "airDate": "Feb. 18, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/7bB1O2j4LWqUjb2jsLoNxknEkDF.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/oojtwo3"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "The Menace of Mysterio",
+          "url": "https://multimovies.city/episodes/spider-man-1x5/",
+          "airDate": "Feb. 25, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/lZ3Aslrrhu0v2O0vLPWMr9SSILB.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/gbyaqnl"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "The Sting of the Scorpion",
+          "url": "https://multimovies.city/episodes/spider-man-1x6/",
+          "airDate": "Mar. 11, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/4W7moiol1kGSJ6mqRQrqurby9nz.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/absv58c"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Kraven the Hunter",
+          "url": "https://multimovies.city/episodes/spider-man-1x7/",
+          "airDate": "Apr. 01, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/wFEH3Upc2PwArX7v4a47OzQUfSe.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/at0o8t0"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "The Alien Costume (1)",
+          "url": "https://multimovies.city/episodes/spider-man-1x8/",
+          "airDate": "Apr. 29, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/FFMPeCdoubP0GWcRkra2qfsPo4.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nu8gmr9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "The Alien Costume (2)",
+          "url": "https://multimovies.city/episodes/spider-man-1x9/",
+          "airDate": "May. 06, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/23llvdQDOncGG73y1gHOsBgOeGV.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/md710z1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "The Alien Costume (3)",
+          "url": "https://multimovies.city/episodes/spider-man-1x10/",
+          "airDate": "May. 13, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/apwB4RBmGMUNtkOfXYeC25zYh94.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/rrjf73t"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "The Hobgoblin (1)",
+          "url": "https://multimovies.city/episodes/spider-man-1x11/",
+          "airDate": "May. 20, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/fljbHaKfBKg0cckJRp58ZT6vmit.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/kf31oh6"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "The Hobgoblin (2)",
+          "url": "https://multimovies.city/episodes/spider-man-1x12/",
+          "airDate": "May. 27, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/6l9T64z40TeWyi84yE4rfulcDNi.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/xlnn0t1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Day of the Chameleon",
+          "url": "https://multimovies.city/episodes/spider-man-1x13/",
+          "airDate": "Jun. 11, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/8ZvFB5FnOB4YRdz9ZpxUb53FMHc.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/elwro31"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 2,
+      "seasonTitle": "Season 2 Sep. 09, 1995",
+      "episodeCount": 14,
+      "episodes": [
+        {
+          "seasonNo": 2,
+          "episodeNo": 1,
+          "title": "Neogenic Nightmare: The Insidious Six",
+          "url": "https://multimovies.city/episodes/spider-man-2x1/",
+          "airDate": "Sep. 09, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/kjZlrS6gjpenZawmOEvTvsVK4Bv.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nrldsmf"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 2,
+          "title": "Neogenic Nightmare: Battle of the Insidious Six",
+          "url": "https://multimovies.city/episodes/spider-man-2x2/",
+          "airDate": "Sep. 16, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/mIjMIRQaE77TVUo6mWiNCvw9c6N.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/o8p3bm9"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 3,
+          "title": "Neogenic Nightmare: Hydro-Man",
+          "url": "https://multimovies.city/episodes/spider-man-2x3/",
+          "airDate": "Sep. 23, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/xGs6kHIs1fm7Wk0kOiRDkcXgnB.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/odudkt1"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 4,
+          "title": "Neogenic Nightmare: The Mutant Agenda",
+          "url": "https://multimovies.city/episodes/spider-man-2x4/",
+          "airDate": "Sep. 30, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/hQMbrjrP3rT7Hxa4Yp0PmiK2zEw.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/kn4upej"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 5,
+          "title": "Neogenic Nightmare: Mutants' Revenge",
+          "url": "https://multimovies.city/episodes/spider-man-2x5/",
+          "airDate": "Oct. 07, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/uv0t7vw4aGqBS0eiy5hTGPxqYbw.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/zyl1ukh"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 6,
+          "title": "Neogenic Nightmare: Morbius",
+          "url": "https://multimovies.city/episodes/spider-man-2x6/",
+          "airDate": "Oct. 28, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/xAb9a1024cSPJS0qfjUAhPV4vRe.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/asxn2y8"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 7,
+          "title": "Neogenic Nightmare: Enter the Punisher",
+          "url": "https://multimovies.city/episodes/spider-man-2x7/",
+          "airDate": "Nov. 04, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/1jEcUChQ7nSIDGKaTv1GgblC5HE.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/eui627s"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 8,
+          "title": "Neogenic Nightmare: Duel of the Hunters",
+          "url": "https://multimovies.city/episodes/spider-man-2x8/",
+          "airDate": "Nov. 11, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/bPdhEhhRDZT5hrn6JC3h9GrELSj.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ea99rbj"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 9,
+          "title": "Neogenic Nightmare: Blade the Vampire Hunter",
+          "url": "https://multimovies.city/episodes/spider-man-2x9/",
+          "airDate": "Nov. 18, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/ybwsVFY1R5kaTE7kpdRG7pS9yWV.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ssgqgkp"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 10,
+          "title": "Neogenic Nightmare: The Immortal Vampire",
+          "url": "https://multimovies.city/episodes/spider-man-2x10/",
+          "airDate": "Nov. 25, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/4qntzQCdZKPsRlsXiMgxmcNS6v9.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/mvrdc7k"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 11,
+          "title": "Neogenic Nightmare: Tablet of Time",
+          "url": "https://multimovies.city/episodes/spider-man-2x11/",
+          "airDate": "Feb. 03, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/qAI2j0DsrTQY4LMS1uMbzKUw48W.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/r04co6t"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 12,
+          "title": "Neogenic Nightmare: Ravages of Time",
+          "url": "https://multimovies.city/episodes/spider-man-2x12/",
+          "airDate": "Feb. 10, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/sfywEa4kOgFR8UGsx1u3u22bwIY.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/xazm6a2"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 13,
+          "title": "Neogenic Nightmare: Shriek of the Vulture",
+          "url": "https://multimovies.city/episodes/spider-man-2x13/",
+          "airDate": "Feb. 17, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/tRqdFadfT7d37UoQ7NhGqbp0Zef.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/qcdr4jr"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 14,
+          "title": "Neogenic Nightmare: The Final Nightmare",
+          "url": "https://multimovies.city/episodes/spider-man-2x14/",
+          "airDate": "Feb. 24, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/43PtPnoGyYm2YV5GYFcCboi84So.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/g17hz8h"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 3,
+      "seasonTitle": "Season 3 Apr. 27, 1996",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 3,
+          "episodeNo": 1,
+          "title": "The Sins of the Fathers: Doctor Strange",
+          "url": "https://multimovies.city/episodes/spider-man-3x1/",
+          "airDate": "Apr. 27, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/55infSpS5iH2WG3o4lmkpluYpqy.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nzqnzjw"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 2,
+          "title": "The Sins of the Fathers: Make a Wish (1)",
+          "url": "https://multimovies.city/episodes/spider-man-3x2/",
+          "airDate": "May. 04, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/5VXxXvku3bmLuMVUCbeSpZejo0k.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/q1eil57"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 3,
+          "title": "The Sins of the Fathers: Attack of the Octobot (2)",
+          "url": "https://multimovies.city/episodes/spider-man-3x3/",
+          "airDate": "May. 11, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/3m7GBi82vj2HnhuYCNIDefgJSdE.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/cs7qr3e"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 4,
+          "title": "The Sins of the Fathers: Enter the Green Goblin",
+          "url": "https://multimovies.city/episodes/spider-man-3x4/",
+          "airDate": "May. 18, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/ph8GR2YKOy0ib7T79WkOGWAsx6s.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/w4qd5t7"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 5,
+          "title": "The Sins of the Fathers: Rocket Racer",
+          "url": "https://multimovies.city/episodes/spider-man-3x5/",
+          "airDate": "Sep. 14, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/qrBAahcKgczXA0JrivuZ9pz8hwZ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/f072lm7"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 6,
+          "title": "The Sins of the Fathers: Framed",
+          "url": "https://multimovies.city/episodes/spider-man-3x6/",
+          "airDate": "Sep. 21, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/yYhmIfk5Ak7M7HXFmrt0tJPbXhQ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/qpgspxc"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 7,
+          "title": "The Sins of the Fathers: The Man Without Fear",
+          "url": "https://multimovies.city/episodes/spider-man-3x7/",
+          "airDate": "Sep. 28, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/5pFVavZyGZ9X2um3ddkJ6fI2150.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/sl3gdaj"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 8,
+          "title": "The Sins of the Fathers: The Ultimate Slayer",
+          "url": "https://multimovies.city/episodes/spider-man-3x8/",
+          "airDate": "Oct. 05, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/bdtJkySm2h88945ptD9iQcQiRY2.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/vm0vf4a"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 9,
+          "title": "The Sins of the Fathers: Tombstone",
+          "url": "https://multimovies.city/episodes/spider-man-3x9/",
+          "airDate": "Oct. 12, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/lqXC5z4GCE9ooOXwmdknn9XZx4j.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/lh33lmt"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 10,
+          "title": "The Sins of the Fathers: Venom Returns",
+          "url": "https://multimovies.city/episodes/spider-man-3x10/",
+          "airDate": "Oct. 26, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/1qWPi5vIxUyq366LOPnr9fKg0rc.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/lrqihsw"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 11,
+          "title": "The Sins of the Fathers: Carnage",
+          "url": "https://multimovies.city/episodes/spider-man-3x11/",
+          "airDate": "Nov. 02, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/pQAUqMxdzoSUIEoDb8jpzFmLPxr.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/a43lcec"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 12,
+          "title": "The Sins of the Fathers: The Spot",
+          "url": "https://multimovies.city/episodes/spider-man-3x12/",
+          "airDate": "Nov. 09, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/pOFVsTmwVEITYguwqHIwVAoYxoQ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/d7r2k53"
+          ]
+        },
+        {
+          "seasonNo": 3,
+          "episodeNo": 13,
+          "title": "The Sins of the Fathers: Goblin War! (1)",
+          "url": "https://multimovies.city/episodes/spider-man-3x13/",
+          "airDate": "Nov. 16, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/2Bg1MfU2VP8Oi0gQbPeR2jszDlB.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/qoe6b9s"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 4,
+      "seasonTitle": "Season 4 Feb. 01, 1997",
+      "episodeCount": 11,
+      "episodes": [
+        {
+          "seasonNo": 4,
+          "episodeNo": 1,
+          "title": "Partners in Danger: Guilty",
+          "url": "https://multimovies.city/episodes/spider-man-4x1/",
+          "airDate": "Feb. 01, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/fWSwSU5X2kzbtIipp3d7Gujwwlq.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/gmk9mfm"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 2,
+          "title": "Partners in Danger: The Cat (1)",
+          "url": "https://multimovies.city/episodes/spider-man-4x2/",
+          "airDate": "Feb. 08, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/9m0YvXF0VeAKwCdwl6KG0s9n4LD.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/jw8b8ih"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 3,
+          "title": "Partners in Danger: The Black Cat (2)",
+          "url": "https://multimovies.city/episodes/spider-man-4x3/",
+          "airDate": "Feb. 15, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/32yC3OPazZcdh0xOT93pjG2Iphd.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ztqub85"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 4,
+          "title": "Partners in Danger: The Return of Kraven",
+          "url": "https://multimovies.city/episodes/spider-man-4x4/",
+          "airDate": "Feb. 22, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/zibIjZn3WtGd1vH8cEOYbWqQGlA.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/s5cb4q3"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 5,
+          "title": "Partners in Danger: Partners",
+          "url": "https://multimovies.city/episodes/spider-man-4x5/",
+          "airDate": "May. 03, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/jvE7Lu64c9RSNfJfUguv3GGEvM2.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/qoldp76"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 6,
+          "title": "Partners in Danger: The Awakening (1)",
+          "url": "https://multimovies.city/episodes/spider-man-4x6/",
+          "airDate": "May. 10, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/zfK10SkebIwa032WCeDeEzThy8E.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/m43qvdu"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 7,
+          "title": "Partners in Danger: The Vampire Queen (2)",
+          "url": "https://multimovies.city/episodes/spider-man-4x7/",
+          "airDate": "May. 17, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/lvWuMPkxs0cmL9vKj9Enlg8fMGl.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/kqhofqh"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 8,
+          "title": "Partners in Danger: The Return of the Green Goblin",
+          "url": "https://multimovies.city/episodes/spider-man-4x8/",
+          "airDate": "Jul. 12, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/fclqUiaBImWjHeahlK0KydnjSSv.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/e5bpbsz"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 9,
+          "title": "Partners in Danger: The Haunting of Mary Jane Watson",
+          "url": "https://multimovies.city/episodes/spider-man-4x9/",
+          "airDate": "Jul. 19, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/x0FRHOMV461frkxvT3tHTHzXGJu.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nhoip1o"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 10,
+          "title": "Partners in Danger: The Lizard King",
+          "url": "https://multimovies.city/episodes/spider-man-4x10/",
+          "airDate": "Jul. 26, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/4pNZppcrsWOsI3zVbAmdkE1nDwc.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/vnmt8bv"
+          ]
+        },
+        {
+          "seasonNo": 4,
+          "episodeNo": 11,
+          "title": "Partners in Danger: The Prowler",
+          "url": "https://multimovies.city/episodes/spider-man-4x11/",
+          "airDate": "Aug. 02, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/xRYZw7DKFV5cQS4jc32YHVPdJv7.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/mj23j73"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 5,
+      "seasonTitle": "Season 5 Sep. 12, 1997",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 5,
+          "episodeNo": 1,
+          "title": "The Wedding",
+          "url": "https://multimovies.city/episodes/spider-man-5x1/",
+          "airDate": "Sep. 12, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/hOp5YwFa1CL1KdRuim9ginV05Qo.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/n3jv4p3"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 2,
+          "title": "Six Forgotten Warriors (1)",
+          "url": "https://multimovies.city/episodes/spider-man-5x2/",
+          "airDate": "Sep. 19, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/9ZxY6jza0CYlVWUTZlVlxpI38ut.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/xg6w3mf"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 3,
+          "title": "Six Forgotten Warriors (2): Unclaimed Legacy",
+          "url": "https://multimovies.city/episodes/spider-man-5x3/",
+          "airDate": "Sep. 26, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/plTpEFcJzXdG0nJcxhTwqQEGaS9.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pi3j5ru"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 4,
+          "title": "Six Forgotten Warriors (3): Secrets of the Six",
+          "url": "https://multimovies.city/episodes/spider-man-5x4/",
+          "airDate": "Oct. 03, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/rpa5mJLv4cQRXDQPGGmUj0Ly3le.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/fjugwhy"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 5,
+          "title": "Six Forgotten Warriors (4): The Six Fight Again",
+          "url": "https://multimovies.city/episodes/spider-man-5x5/",
+          "airDate": "Oct. 10, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/2yXdAdfL21Q1qFeFZM4B9QJOMoe.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/f0m93zh"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 6,
+          "title": "Six Forgotten Warriors (5): The Price of Heroism",
+          "url": "https://multimovies.city/episodes/spider-man-5x6/",
+          "airDate": "Oct. 17, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/A6iBUIx4krRRdRvWsBV4mHojKyQ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/qo4s4fx"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 7,
+          "title": "The Return of Hydro-Man (1)",
+          "url": "https://multimovies.city/episodes/spider-man-5x7/",
+          "airDate": "Oct. 24, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/miknPHS6waBJXndFcj80RqAlcty.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/glw2y2l"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 8,
+          "title": "The Return of Hydro-Man (2)",
+          "url": "https://multimovies.city/episodes/spider-man-5x8/",
+          "airDate": "Oct. 31, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/A5qj8MMq5nuhMbAQ31V1mXbiPuS.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/z5x49h5"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 9,
+          "title": "Secret Wars (1): Arrival",
+          "url": "https://multimovies.city/episodes/spider-man-5x9/",
+          "airDate": "Nov. 07, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/7IDNa7XnzDIlgBqsXdeCkLTjrX6.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nfeb3a8"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 10,
+          "title": "Secret Wars (2): The Gauntlet of the Red Skull",
+          "url": "https://multimovies.city/episodes/spider-man-5x10/",
+          "airDate": "Nov. 14, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/llam7oprtd83aLjafeYiopy8IGu.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/vv9n1if"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 11,
+          "title": "Secret Wars (3): Doom",
+          "url": "https://multimovies.city/episodes/spider-man-5x11/",
+          "airDate": "Nov. 21, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/b2j8WdLJ0wDSBHIYPzZIXwglFYn.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/o6mogy2"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 12,
+          "title": "Spider Wars (1): I Really, Really Hate Clones",
+          "url": "https://multimovies.city/episodes/spider-man-5x12/",
+          "airDate": "Jan. 31, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/y8aIG4jzmuZEODOzIJicU5lW0LG.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/jwm9aw8"
+          ]
+        },
+        {
+          "seasonNo": 5,
+          "episodeNo": 13,
+          "title": "Spider Wars (2): Farewell, Spider-Man",
+          "url": "https://multimovies.city/episodes/spider-man-5x13/",
+          "airDate": "Jan. 31, 1998",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/mSvy3PBKsjxYvik41UI1m6DtKXT.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/y5k2jgu"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Semper Jr.",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/john-semper-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/fLoLNH4aNPRJcbpvduWMGEzyrIT.jpg"
+    },
+    {
+      "name": "Christopher Daniel Barnes",
+      "role": "Peter Parker / Spider-Man (voice)",
+      "url": "https://multimovies.city/cast/christopher-daniel-barnes/",
+      "image": "https://image.tmdb.org/t/p/w92/dE99eEJ9F8RweONabFIzb2p57iK.jpg"
+    },
+    {
+      "name": "Sara Ballantine",
+      "role": "Mary Jane Watson (voice)",
+      "url": "https://multimovies.city/cast/sara-ballantine/",
+      "image": "https://image.tmdb.org/t/p/w92/1U5cbBlLEWGvtFY0fCgevwVNWQ4.jpg"
+    },
+    {
+      "name": "Jennifer Hale",
+      "role": "Felicia Hardy (voice)",
+      "url": "https://multimovies.city/cast/jennifer-hale/",
+      "image": "https://image.tmdb.org/t/p/w92/oNQCrdiSm0mABCcE5YaHwuZQK8X.jpg"
+    },
+    {
+      "name": "Linda Gary",
+      "role": "Aunt May Parker (voice)",
+      "url": "https://multimovies.city/cast/linda-gary/",
+      "image": "https://image.tmdb.org/t/p/w92/lAGpXxPngSZQX1epZVYbLdGN4m8.jpg"
+    },
+    {
+      "name": "Gary Imhoff",
+      "role": "Harry Osborn (voice)",
+      "url": "https://multimovies.city/cast/gary-imhoff/",
+      "image": "https://image.tmdb.org/t/p/w92/hm3JDtO1CTbC5aHdV94QRmcMI4C.jpg"
+    },
+    {
+      "name": "Ed Asner",
+      "role": "J. Jonah Jameson (voice)",
+      "url": "https://multimovies.city/cast/ed-asner/",
+      "image": "https://image.tmdb.org/t/p/w92/uj5TQBVb1jdPrvSEdwjzT6DRmqi.jpg"
+    },
+    {
+      "name": "Rodney Saulsberry",
+      "role": "Joe \"Robbie\" Robertson (voice)",
+      "url": "https://multimovies.city/cast/rodney-saulsberry/",
+      "image": "https://image.tmdb.org/t/p/w92/oq8ppTU9gFt6pju7Kkxd2CfuciJ.jpg"
+    },
+    {
+      "name": "Roscoe Lee Browne",
+      "role": "Kingpin (voice)",
+      "url": "https://multimovies.city/cast/roscoe-lee-browne/",
+      "image": "https://image.tmdb.org/t/p/w92/zNOJbPMeQd5thNTA1dvb1ZT61mI.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/lN09YohDmsqyljNzykQxV0quvK.jpg",
+    "https://image.tmdb.org/t/p/w300/wr2XpWwtaFz0bfELWfSd8ynM2mB.jpg",
+    "https://image.tmdb.org/t/p/w300/tszlsbfyTOPSZe2z6K4mwHtcnmI.jpg",
+    "https://image.tmdb.org/t/p/w300/fFWdqlnBVNMLDneYUeQLFuPBq4Z.jpg",
+    "https://image.tmdb.org/t/p/w300/s5GUD4N6ZUYd513KyBEkHBfUNzc.jpg",
+    "https://image.tmdb.org/t/p/w300/iTHKz6kCv1UyXfdcB4kutMQYsaD.jpg",
+    "https://image.tmdb.org/t/p/w300/qhOj3D5ZhbL7DtgpxprdRzbnUuE.jpg",
+    "https://image.tmdb.org/t/p/w300/bgfCgBpBXz7eQ2Ajz9zlMLyT7FM.jpg",
+    "https://image.tmdb.org/t/p/w300/tDYjwVTLjLQwIAKAlR4hqx3bTOD.jpg",
+    "https://image.tmdb.org/t/p/w300/eYtSRa1IX32TYlIA05GjKXq9PjD.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
