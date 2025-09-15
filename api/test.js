@@ -1,9 +1,27 @@
+// pages/api/full-scraper.js
+
 const GITHUB_REPO = "tanbirst1/multi-movies-api";
 const GITHUB_BRANCH = "main";
 const DATA_DIR = "data/movies";
 
 async function saveToGithub(path, content) {
   const url = `https://api.github.com/repos/${GITHUB_REPO}/contents/${path}`;
+
+  // 1. Check if file exists
+  let sha = null;
+  const checkRes = await fetch(url, {
+    headers: {
+      "Authorization": `Bearer ${process.env.GITHUB_TOKEN}`,
+      "Content-Type": "application/json",
+    },
+  });
+
+  if (checkRes.ok) {
+    const checkData = await checkRes.json();
+    sha = checkData.sha; // existing file sha
+  }
+
+  // 2. Create or update file
   const res = await fetch(url, {
     method: "PUT",
     headers: {
@@ -14,8 +32,10 @@ async function saveToGithub(path, content) {
       message: `scraped: ${path}`,
       content: Buffer.from(JSON.stringify(content, null, 2)).toString("base64"),
       branch: GITHUB_BRANCH,
+      ...(sha ? { sha } : {}), // include sha if updating
     }),
   });
+
   if (!res.ok) {
     const err = await res.text();
     throw new Error("GitHub save failed: " + err);
