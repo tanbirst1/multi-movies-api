@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/neon-genesis-evangelion-the-end-of-evangelion/",
+  "meta": {
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "poster": "https://image.tmdb.org/t/p/w500/njusQPChH9k5v7fArevjGDFFjr0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jul. 19, 1997",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "The second of two theatrically released follow-ups to the Neon Genesis Evangelion series. Comprising of two alternate episodes which were first intended to take the place of episodes 25 and 26, this finale answers many of the questions surrounding the series, while also opening up some new possibilities.",
+    "infoFields": {
+      "Original title": "\u65b0\u4e16\u7d00\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u5287\u5834\u7248 Air\uff0f\u307e\u3054\u3053\u308d\u3092\u3001\u541b\u306b",
+      "IMDb Rating": "8.1 57,736 votes",
+      "TMDb Rating": "8.366 1,266 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hideaki Anno",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hideaki-anno/",
+      "image": "https://image.tmdb.org/t/p/w92/AfV9h1RW6uALpx751APdUoX8ONc.jpg"
+    },
+    {
+      "name": "Megumi Ogata",
+      "role": "Shinji Ikari (voice)",
+      "url": "https://multimovies.city/cast/megumi-ogata/",
+      "image": "https://image.tmdb.org/t/p/w92/eNdfMUyZgG5P4TNIZpbTAu8gBs9.jpg"
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "role": "Rei Ayanami / Yui Ikari (voice)",
+      "url": "https://multimovies.city/cast/megumi-hayashibara/",
+      "image": "https://image.tmdb.org/t/p/w92/cZcdY6N7QbkIyEl3mN5fwtRxSxJ.jpg"
+    },
+    {
+      "name": "Kotono Mitsuishi",
+      "role": "Misato Katsuragi (voice)",
+      "url": "https://multimovies.city/cast/kotono-mitsuishi/",
+      "image": "https://image.tmdb.org/t/p/w92/u20izfS5a3AwnWb3u07QXaY48hv.jpg"
+    },
+    {
+      "name": "Yuko Miyamura",
+      "role": "Asuka Langley Soryu (voice)",
+      "url": "https://multimovies.city/cast/yuko-miyamura/",
+      "image": "https://image.tmdb.org/t/p/w92/dVfbS1oiGuzXk5IZLNSsfoLNjUR.jpg"
+    },
+    {
+      "name": "Fumihiko Tachiki",
+      "role": "Gendo Ikari (voice)",
+      "url": "https://multimovies.city/cast/fumihiko-tachiki/",
+      "image": "https://image.tmdb.org/t/p/w92/khEt9uae6dLIrvtkAKkFR1IJPJ5.jpg"
+    },
+    {
+      "name": "Miki Nagasawa",
+      "role": "Maya Ibuki (voice)",
+      "url": "https://multimovies.city/cast/miki-nagasawa/",
+      "image": "https://image.tmdb.org/t/p/w92/1vVjtyFj32wY5FbwvYw5srujaVT.jpg"
+    },
+    {
+      "name": "Takehito Koyasu",
+      "role": "Shigeru Aoba (voice)",
+      "url": "https://multimovies.city/cast/takehito-koyasu/",
+      "image": "https://image.tmdb.org/t/p/w92/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
+    },
+    {
+      "name": "Hiro Yuuki",
+      "role": "Makoto Hyouga (voice)",
+      "url": "https://multimovies.city/cast/hiro-yuuki/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Yuriko Yamaguchi",
+      "role": "Ritsuko Akagi (voice)",
+      "url": "https://multimovies.city/cast/yuriko-yamaguchi/",
+      "image": "https://image.tmdb.org/t/p/w92/7e3BXCPv0X2pqwfdfW52n7VDFmI.jpg"
+    },
+    {
+      "name": "Motomu Kiyokawa",
+      "role": "Kozo Fuyutsuki (voice)",
+      "url": "https://multimovies.city/cast/motomu-kiyokawa/",
+      "image": "https://image.tmdb.org/t/p/w92/uD3KFs95z5zuQrv9p5Q5UjUQBxw.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+    "https://image.tmdb.org/t/p/w300/hyaLMOol8xju70zr5glK6JaprER.jpg",
+    "https://image.tmdb.org/t/p/w300/naea7os3PDyrlrLk9vnskFKxx3n.jpg",
+    "https://image.tmdb.org/t/p/w300/xLMJCCSatxENpHO9rLW9yD8A12C.jpg",
+    "https://image.tmdb.org/t/p/w300/ykt7gY0jy7t3uHNnFjvqlZWXsqB.jpg",
+    "https://image.tmdb.org/t/p/w300/5ClI2ZgU7gwhZGpSwU95nUFxf1A.jpg",
+    "https://image.tmdb.org/t/p/w300/nwSyFnZORd5ptu0RClAMgsF5dkE.jpg",
+    "https://image.tmdb.org/t/p/w300/y5r7blCMVdWFHYtoRkztwoRhlMa.jpg",
+    "https://image.tmdb.org/t/p/w300/t7LaHEaCerJXFKSKeqCpCWtDYRK.jpg",
+    "https://image.tmdb.org/t/p/w300/dSUdIy710l3C6UqjqQXA1aQ9K6n.jpg"
+  ],
+  "similar": [],
+  "views": 2064,
+  "sources": [
+    "https://www.youtube.com/embed/bXWNyHwryUo?autoplay=0&autohide=1",
+    "https://multimovies.website/e/d7e6rptfd3jd.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1781,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1781,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
