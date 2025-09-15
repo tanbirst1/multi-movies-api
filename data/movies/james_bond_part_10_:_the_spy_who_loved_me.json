@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-spy-who-loved-me/",
+  "meta": {
+    "title": "James Bond Part 10 : The Spy Who Loved Me",
+    "poster": "https://image.tmdb.org/t/p/w500/3ZxHKFxMYvAko680DsRgAZKWcLi.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "James Bond",
+        "url": "https://multimovies.city/genre/james-bond/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 07, 1977",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Russian and British submarines with nuclear missiles on board both vanish from sight without a trace. England and Russia both blame each other as James Bond tries to solve the riddle of the disappearing ships. But the KGB also has an agent on the case.",
+    "infoFields": {
+      "Original title": "The Spy Who Loved Me",
+      "IMDb Rating": "7 112,496 votes",
+      "TMDb Rating": "6.764 1,719 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Lewis Gilbert",
+      "role": "Director",
+      "url": "https://multimovies.city/director/lewis-gilbert/",
+      "image": "https://image.tmdb.org/t/p/w92/uiEJwoUPt5ohpvI2GOeGvz7QenX.jpg"
+    },
+    {
+      "name": "Roger Moore",
+      "role": "James Bond",
+      "url": "https://multimovies.city/cast/roger-moore/",
+      "image": "https://image.tmdb.org/t/p/w92/7H7UXpYPAIZGUs4uSkzqpTrYyxX.jpg"
+    },
+    {
+      "name": "Barbara Bach",
+      "role": "Major Anya Amasova",
+      "url": "https://multimovies.city/cast/barbara-bach/",
+      "image": "https://image.tmdb.org/t/p/w92/vatmATSQfdi1JFu6g2VImlS7GQb.jpg"
+    },
+    {
+      "name": "Curd J\u00fcrgens",
+      "role": "Karl Stromberg",
+      "url": "https://multimovies.city/cast/curd-jurgens/",
+      "image": "https://image.tmdb.org/t/p/w92/v9MNAANCVPRO11mCBON4wyTubbt.jpg"
+    },
+    {
+      "name": "Richard Kiel",
+      "role": "Jaws",
+      "url": "https://multimovies.city/cast/richard-kiel/",
+      "image": "https://image.tmdb.org/t/p/w92/7U7KI4kf0w16J8H1EWJdypxmAjm.jpg"
+    },
+    {
+      "name": "Caroline Munro",
+      "role": "Naomi",
+      "url": "https://multimovies.city/cast/caroline-munro/",
+      "image": "https://image.tmdb.org/t/p/w92/CroSsO59Xc1ZddNDxRIH2qaj2I.jpg"
+    },
+    {
+      "name": "Walter Gotell",
+      "role": "General Anatol Gogol",
+      "url": "https://multimovies.city/cast/walter-gotell/",
+      "image": "https://image.tmdb.org/t/p/w92/3pz9faSRNXyXB74t9VaJlw8IR4Q.jpg"
+    },
+    {
+      "name": "Geoffrey Keen",
+      "role": "Sir Frederick Gray",
+      "url": "https://multimovies.city/cast/geoffrey-keen/",
+      "image": "https://image.tmdb.org/t/p/w92/dvxVrI845NAKGGekU95FNcF5ysv.jpg"
+    },
+    {
+      "name": "Bernard Lee",
+      "role": "M",
+      "url": "https://multimovies.city/cast/bernard-lee/",
+      "image": "https://image.tmdb.org/t/p/w92/2k44323t5k5sUFq67d9mOxObyLY.jpg"
+    },
+    {
+      "name": "George Baker",
+      "role": "Captain Benson",
+      "url": "https://multimovies.city/cast/george-baker/",
+      "image": "https://image.tmdb.org/t/p/w92/zMubzCZPcpfeTJpc7QjgEwAg5gd.jpg"
+    },
+    {
+      "name": "Michael Billington",
+      "role": "Sergei Barsov",
+      "url": "https://multimovies.city/cast/michael-billington/",
+      "image": "https://image.tmdb.org/t/p/w92/gdav5L16sHkMLtUjEmwq8pd8pAS.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/8lRdfsmJjUXQU3DMOOB3vVIhJxP.jpg",
+    "https://image.tmdb.org/t/p/w300/xButHM6FwbA6tiWCD68BMpVqaHY.jpg",
+    "https://image.tmdb.org/t/p/w300/u5UjHcDF6vZuEoecIrKFVJYgW8d.jpg",
+    "https://image.tmdb.org/t/p/w300/5HYHstnbAeDZRfvdMf4xNHhv5Sa.jpg",
+    "https://image.tmdb.org/t/p/w300/9hVxH8SeMlY3nsmsCUiZrMI4uev.jpg",
+    "https://image.tmdb.org/t/p/w300/kKMgx490dLaNOS8vub6x7wXt2TO.jpg",
+    "https://image.tmdb.org/t/p/w300/6305YXUP0WBsKYplIv5kDcOatlu.jpg",
+    "https://image.tmdb.org/t/p/w300/6cwVv0vgGKNyzrdEFg1luTVcVqJ.jpg",
+    "https://image.tmdb.org/t/p/w300/gFJuJsaFyIoV9OomWHCs1B0tNXK.jpg",
+    "https://image.tmdb.org/t/p/w300/f7CP8stH9daeUr4gRPoQBu7fxnF.jpg"
+  ],
+  "similar": [],
+  "views": 1558,
+  "sources": [
+    "https://www.youtube.com/embed/0-Nf77gSI_c?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/aqdsa3yiprqj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25566,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 25566,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
