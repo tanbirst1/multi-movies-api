@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ace-ventura-pet-detective/",
+  "meta": {
+    "title": "Ace Ventura: Pet Detective",
+    "poster": "https://image.tmdb.org/t/p/w500/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 04, 1994",
+    "ratingValue": "6",
+    "ratingCount": "2",
+    "synopsis": "He\u2019s Ace Ventura: Pet Detective. Jim Carrey is on the case to find the Miami Dolphins\u2019 missing mascot and quarterback Dan Marino. He goes eyeball to eyeball with a man-eating shark, stakes out the Miami Dolphins and woos and wows the ladies. Whether he\u2019s undercover, under fire or underwater, he always gets his man\u2026 or beast!",
+    "infoFields": {
+      "Original title": "Ace Ventura: Pet Detective",
+      "IMDb Rating": "6.9 337,122 votes",
+      "TMDb Rating": "6.567 5,884 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tom Shadyac",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tom-shadyac/",
+      "image": "https://image.tmdb.org/t/p/w92/kuliB1DrKSbdn2jxESncPbWxGrD.jpg"
+    },
+    {
+      "name": "Jim Carrey",
+      "role": "Ace Ventura",
+      "url": "https://multimovies.city/cast/jim-carrey/",
+      "image": "https://image.tmdb.org/t/p/w92/kuSlwTPsVlBMW0cvnFmbZce6PaV.jpg"
+    },
+    {
+      "name": "Courteney Cox",
+      "role": "Melissa Robinson",
+      "url": "https://multimovies.city/cast/courteney-cox/",
+      "image": "https://image.tmdb.org/t/p/w92/3bTVQH9vBXAiwGVHXKLylStz4RT.jpg"
+    },
+    {
+      "name": "Sean Young",
+      "role": "Lt. Lois Einhorn",
+      "url": "https://multimovies.city/cast/sean-young/",
+      "image": "https://image.tmdb.org/t/p/w92/Ap2c6qruZtr2JJ1lbXwBG8HSqId.jpg"
+    },
+    {
+      "name": "Tone Loc",
+      "role": "Emilio",
+      "url": "https://multimovies.city/cast/tone-loc/",
+      "image": "https://image.tmdb.org/t/p/w92/puDbq7YPq6Jg0nrSeK6t9MFIhFP.jpg"
+    },
+    {
+      "name": "Noble Willingham",
+      "role": "Riddle",
+      "url": "https://multimovies.city/cast/noble-willingham/",
+      "image": "https://image.tmdb.org/t/p/w92/70HEA9aOmmPmTeCvxXqJC6KGHaZ.jpg"
+    },
+    {
+      "name": "Dan Marino",
+      "role": "Himself",
+      "url": "https://multimovies.city/cast/dan-marino/",
+      "image": "https://image.tmdb.org/t/p/w92/baSy4h3NjMlJYP69TSzqPcwUYYn.jpg"
+    },
+    {
+      "name": "Troy Evans",
+      "role": "Roger Podacter",
+      "url": "https://multimovies.city/cast/troy-evans/",
+      "image": "https://image.tmdb.org/t/p/w92/53LPb3I0NLxG5bxYAEhMxK8RvJL.jpg"
+    },
+    {
+      "name": "Raynor Scheine",
+      "role": "Woodstock",
+      "url": "https://multimovies.city/cast/raynor-scheine/",
+      "image": "https://image.tmdb.org/t/p/w92/gqj3nFgq2W83RrJNyqHm2xw8Efw.jpg"
+    },
+    {
+      "name": "Udo Kier",
+      "role": "Ron Camp",
+      "url": "https://multimovies.city/cast/udo-kier/",
+      "image": "https://image.tmdb.org/t/p/w92/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+    },
+    {
+      "name": "Frank Adonis",
+      "role": "Vinnie",
+      "url": "https://multimovies.city/cast/frank-adonis/",
+      "image": "https://image.tmdb.org/t/p/w92/kp5HFPwnh00HFcrov50dfnTOeIo.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2MDqPMYUmX7DNZ0yIIDCHpyBC7d.jpg",
+    "https://image.tmdb.org/t/p/w300/9f4CQGz30aqwLxjXNjWku9nGHbo.jpg",
+    "https://image.tmdb.org/t/p/w300/srVFvdl1cT5Da1cvoZZiLjP7I7L.jpg",
+    "https://image.tmdb.org/t/p/w300/gZ8lCYGbjgF4B4zDaK5MgflgMQY.jpg",
+    "https://image.tmdb.org/t/p/w300/58ezEC07wxy84pVtl7alHQaz54Y.jpg",
+    "https://image.tmdb.org/t/p/w300/wtb8jfEjziVFKaH435ntO4xuhgq.jpg",
+    "https://image.tmdb.org/t/p/w300/vYcqCx9kJJ6JWd4WeYIxGi8PqQV.jpg",
+    "https://image.tmdb.org/t/p/w300/g0bNrSLqc3pxdgeXXEIuqia66Hr.jpg",
+    "https://image.tmdb.org/t/p/w300/fHXrMnanuHuguzwuVGdjAjfWldj.jpg",
+    "https://image.tmdb.org/t/p/w300/cLqV15Vn03CvNtHr7QaiFnzwG4I.jpg"
+  ],
+  "similar": [],
+  "views": 3865,
+  "sources": [
+    "https://www.youtube.com/embed/JudjRVhIgns?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vuws0dj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 15610,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 15610,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false
+}
