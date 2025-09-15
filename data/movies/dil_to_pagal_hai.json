@@ -1,0 +1,124 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dil-to-pagal-hai/",
+  "meta": {
+    "title": "Dil To Pagal Hai",
+    "poster": "https://image.tmdb.org/t/p/w500/HKUrZZbXnwCM4129fPlgHEg0eG.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Oct. 30, 1997",
+    "ratingValue": "7.4",
+    "ratingCount": "11",
+    "synopsis": "Rahul, the director of a successful dance troupe, considers Nisha his best friend, though secretly, she is madly in love with him. He then falls for Pooja, who is engaged to Ajay.",
+    "infoFields": {
+      "Original title": "\u0926\u093f\u0932 \u0924\u094b \u092a\u093e\u0917\u0932 \u0939\u0948",
+      "IMDb Rating": "7 23,263 votes",
+      "TMDb Rating": "6.8 137 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Yash Chopra",
+      "role": "Director",
+      "url": "https://multimovies.city/director/yash-chopra/",
+      "image": "https://image.tmdb.org/t/p/w92/uDthb94NlawtgRT8BKufFkZdJR5.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Rahul",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Madhuri Dixit",
+      "role": "Pooja",
+      "url": "https://multimovies.city/cast/madhuri-dixit/",
+      "image": "https://image.tmdb.org/t/p/w92/f2ZF9mVqyLS924NW7xFrvzXeDDR.jpg"
+    },
+    {
+      "name": "Karisma Kapoor",
+      "role": "Nisha",
+      "url": "https://multimovies.city/cast/karisma-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/vaa4dSmayH71krkgnECXQsPaRre.jpg"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Ajay",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/gaINfJtR19rNTIsI2cF3KFjyAB7.jpg"
+    },
+    {
+      "name": "Farida Jalal",
+      "role": "Ajay's mother",
+      "url": "https://multimovies.city/cast/farida-jalal/",
+      "image": "https://image.tmdb.org/t/p/w92/qLlAHvTwQw6A91G2CLptlcUMYQZ.jpg"
+    },
+    {
+      "name": "Deven Verma",
+      "role": "Ajay's father",
+      "url": "https://multimovies.city/cast/deven-verma/",
+      "image": "https://image.tmdb.org/t/p/w92/6Mf7cg9TVaVNA4i7zZP3jf7kp4d.jpg"
+    },
+    {
+      "name": "Aruna Irani",
+      "role": "Pooja's Teacher",
+      "url": "https://multimovies.city/cast/aruna-irani/",
+      "image": "https://image.tmdb.org/t/p/w92/opwljyDvJyxW6ZmC3Ao6lNCQi0r.jpg"
+    },
+    {
+      "name": "Ameesha Patel",
+      "role": "Backstage Speaker",
+      "url": "https://multimovies.city/cast/ameesha-patel/",
+      "image": "https://image.tmdb.org/t/p/w92/d6FmmnSylIxvmJezAJLkPpJ9z1t.jpg"
+    },
+    {
+      "name": "Shahid Kapoor",
+      "role": "Dancer (Uncredited)",
+      "url": "https://multimovies.city/cast/shahid-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/q5jqLRioZgIVjXpKS8XHx27ScDQ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2hzAcCYXTYP29NEmnYQHqL9ksiZ.jpg",
+    "https://image.tmdb.org/t/p/w300/b4fLrfr4DxcdznBt0fDXPcGcahg.jpg"
+  ],
+  "similar": [],
+  "views": 11012,
+  "sources": [
+    "https://www.youtube.com/embed/BdhPleFcEJ0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/7vvt6zrvgpf2"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 4920,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 4920,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
