@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/teen-wolf/",
+  "meta": {
+    "title": "Teen Wolf",
+    "poster": "https://image.tmdb.org/t/p/w500/bv9rY9eoue2Hat6tcvrKVQ0ow8v.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Aug. 23, 1985",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "When a shy teenager\u2019s new-found powers help him score at basketball \u2013 and with the popular girls \u2013 he has some pretty hairy decisions to make.",
+    "infoFields": {
+      "Original title": "Teen Wolf",
+      "IMDb Rating": "6.1 59,802 votes",
+      "TMDb Rating": "6.186 1,075 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rod Daniel",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rod-daniel/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Michael J. Fox",
+      "role": "Scott Howard",
+      "url": "https://multimovies.city/cast/michael-j-fox/",
+      "image": "https://image.tmdb.org/t/p/w92/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+    },
+    {
+      "name": "James Hampton",
+      "role": "Harold Howard",
+      "url": "https://multimovies.city/cast/james-hampton/",
+      "image": "https://image.tmdb.org/t/p/w92/bj801jg4izmoxjTb66gxH8hmkFQ.jpg"
+    },
+    {
+      "name": "Susan Ursitti",
+      "role": "Lisa 'Boof' Marconi",
+      "url": "https://multimovies.city/cast/susan-ursitti/",
+      "image": "https://image.tmdb.org/t/p/w92/g5cIZH2eOhE9q6kkUmwrafPUfVM.jpg"
+    },
+    {
+      "name": "Jerry Levine",
+      "role": "Rupert 'Stiles' Stilinski",
+      "url": "https://multimovies.city/cast/jerry-levine/",
+      "image": "https://image.tmdb.org/t/p/w92/xbaUQojYKZGlD7kejb4sQXGrRq0.jpg"
+    },
+    {
+      "name": "Matt Adler",
+      "role": "Lewis",
+      "url": "https://multimovies.city/cast/matt-adler/",
+      "image": "https://image.tmdb.org/t/p/w92/cxjNjMlGUXTUr6ieIxSsoyGvnU8.jpg"
+    },
+    {
+      "name": "Lorie Griffin",
+      "role": "Pamela Wells",
+      "url": "https://multimovies.city/cast/lorie-griffin/",
+      "image": "https://image.tmdb.org/t/p/w92/2jQ8VQwEIu1fIY6vEN20L2R30C9.jpg"
+    },
+    {
+      "name": "Jim McKrell",
+      "role": "Vice Principal Rusty Thorne",
+      "url": "https://multimovies.city/cast/jim-mckrell/",
+      "image": "https://image.tmdb.org/t/p/w92/fjy46X3ZITbYZprD2Tem7vvRp8n.jpg"
+    },
+    {
+      "name": "Mark Arnold",
+      "role": "Mick McAllister",
+      "url": "https://multimovies.city/cast/mark-arnold/",
+      "image": "https://image.tmdb.org/t/p/w92/dTfoxBUC6jpZry0ijlS8g4Y5cuS.jpg"
+    },
+    {
+      "name": "Jay Tarses",
+      "role": "Coach Bobby Finstock",
+      "url": "https://multimovies.city/cast/jay-tarses/",
+      "image": "https://image.tmdb.org/t/p/w92/c3Sw01ch6WrC0iSvFmPtUcBbiVc.jpg"
+    },
+    {
+      "name": "Mark Holton",
+      "role": "Chubby",
+      "url": "https://multimovies.city/cast/mark-holton/",
+      "image": "https://image.tmdb.org/t/p/w92/2NleIh4ohQcw9M5i8mNYzq5qqwE.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/d1RYJQcljAlSOwTizaGS3oWnPEk.jpg",
+    "https://image.tmdb.org/t/p/w300/A9GSdVF2paIFTVz1Nw7ZqPtSZWL.jpg",
+    "https://image.tmdb.org/t/p/w300/790Ke3F4TYR9vuZuwNl2nK3Su8h.jpg",
+    "https://image.tmdb.org/t/p/w300/gVaP9kJTDP5gOa7khpM3i3oWlY4.jpg",
+    "https://image.tmdb.org/t/p/w300/ho4LPe6KGM59SL6hEpETC63CtZh.jpg",
+    "https://image.tmdb.org/t/p/w300/wVlGeCtNRsmsiUzd6dh3ozTjbEe.jpg",
+    "https://image.tmdb.org/t/p/w300/juiWd9p1J3RA2F7ADZhtmLA4iEM.jpg",
+    "https://image.tmdb.org/t/p/w300/gtp431BS3Ba6OFldDz33TmFAdVz.jpg",
+    "https://image.tmdb.org/t/p/w300/gcuqUyX0pVo0U05b8cIEG4AFeux.jpg",
+    "https://image.tmdb.org/t/p/w300/rAGPSKLj0ySQI5A6EK0bQO0gHBU.jpg"
+  ],
+  "similar": [],
+  "views": 708,
+  "sources": [
+    "https://www.youtube.com/embed/PbBrHJHfpjo?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/4gx7woz9v473"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 52055,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 52055,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
