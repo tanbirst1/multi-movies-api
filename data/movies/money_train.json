@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/money-train/",
+  "meta": {
+    "title": "Money Train",
+    "poster": "https://image.tmdb.org/t/p/w500/jWBDz6Mf9aQVBiUS76JQsEhvoJl.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 21, 1995",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "When a vengeful New York transit cop decides to steal a trainload of subway fares, his foster brother\u2014a fellow cop\u2014tries to protect him.",
+    "infoFields": {
+      "Original title": "Money Train",
+      "IMDb Rating": "5.7 43,236 votes",
+      "TMDb Rating": "5.843 725 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Joseph Ruben",
+      "role": "Director",
+      "url": "https://multimovies.city/director/joseph-ruben/",
+      "image": "https://image.tmdb.org/t/p/w92/ic4WkiH78PdkmxEE6i50DV8V49T.jpg"
+    },
+    {
+      "name": "Wesley Snipes",
+      "role": "John",
+      "url": "https://multimovies.city/cast/wesley-snipes/",
+      "image": "https://image.tmdb.org/t/p/w92/81D6oJ81kiQ5xnEHhaHrY29ntdO.jpg"
+    },
+    {
+      "name": "Woody Harrelson",
+      "role": "Charlie",
+      "url": "https://multimovies.city/cast/woody-harrelson/",
+      "image": "https://image.tmdb.org/t/p/w92/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "role": "Grace Santiago",
+      "url": "https://multimovies.city/cast/jennifer-lopez/",
+      "image": "https://image.tmdb.org/t/p/w92/sgT7Drlz6q9sAhImLhaRGqWmaUU.jpg"
+    },
+    {
+      "name": "Robert Blake",
+      "role": "Donald Patterson",
+      "url": "https://multimovies.city/cast/robert-blake/",
+      "image": "https://image.tmdb.org/t/p/w92/gxhVHS4qhVp1xJiCy9s08ltIiPu.jpg"
+    },
+    {
+      "name": "Chris Cooper",
+      "role": "Torch",
+      "url": "https://multimovies.city/cast/chris-cooper/",
+      "image": "https://image.tmdb.org/t/p/w92/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
+    },
+    {
+      "name": "Katie Gill",
+      "role": "Crosswalk Child",
+      "url": "https://multimovies.city/cast/katie-gill/",
+      "image": "https://image.tmdb.org/t/p/w92/bHJOVQNGoHUvWOhjxfq8OSkgSPL.jpg"
+    },
+    {
+      "name": "Joe Grifasi",
+      "role": "Riley",
+      "url": "https://multimovies.city/cast/joe-grifasi/",
+      "image": "https://image.tmdb.org/t/p/w92/30c0szBZvqsk3nuOgg2A9PeSQFt.jpg"
+    },
+    {
+      "name": "Scott Sowers",
+      "role": "Mr. Brown",
+      "url": "https://multimovies.city/cast/scott-sowers/",
+      "image": "https://image.tmdb.org/t/p/w92/5La5xtIg32vkQQfUD0AsdLcF8OD.jpg"
+    },
+    {
+      "name": "Skipp Sudduth",
+      "role": "Kowalski",
+      "url": "https://multimovies.city/cast/skipp-sudduth/",
+      "image": "https://image.tmdb.org/t/p/w92/5vVP9t07OsJQcgxwNrDthNUtA1Y.jpg"
+    },
+    {
+      "name": "Aida Turturro",
+      "role": "Woman on Platform",
+      "url": "https://multimovies.city/cast/aida-turturro/",
+      "image": "https://image.tmdb.org/t/p/w92/kEPpV3eHXOKXGWGtsxUUV6k1hai.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zMI33Tb8AXXSFXfYtzb0Bd3wTTV.jpg",
+    "https://image.tmdb.org/t/p/w300/4vD1jLmiH4nn4Z8RdFegSQ9kP8S.jpg",
+    "https://image.tmdb.org/t/p/w300/rSGlT39IyVkZxwH5bV0U9VzmqgX.jpg",
+    "https://image.tmdb.org/t/p/w300/gyaBJn7eR8Ol205wmT2Xpi6IuhA.jpg",
+    "https://image.tmdb.org/t/p/w300/fAVyWg4FbDGioeSwy6ijr8SYB7t.jpg",
+    "https://image.tmdb.org/t/p/w300/he0QsGHm82R63fSZnrOqDI3kIAg.jpg",
+    "https://image.tmdb.org/t/p/w300/ftB5Gly65EmJRBARZ65KQWNVk0a.jpg",
+    "https://image.tmdb.org/t/p/w300/tLohZR4ZTHJOTCq6bknQzXKXEtd.jpg",
+    "https://image.tmdb.org/t/p/w300/fZrVSTnIufL6D2axOLeNv89Nq7L.jpg",
+    "https://image.tmdb.org/t/p/w300/7nBSGKgCbzNoCdm2Lxx2TuEkJj7.jpg"
+  ],
+  "similar": [],
+  "views": 473,
+  "sources": [
+    "https://www.youtube.com/embed/5Odo80-WFgM?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/7uxl2io0futy"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 52224,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 52224,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
