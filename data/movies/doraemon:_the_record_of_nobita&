@@ -1,0 +1,108 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/doraemon-the-record-of-nobitas-parallel-journey-to-the-west/",
+  "meta": {
+    "title": "Doraemon: The Record of Nobita\u2019s Parallel Journey to the West",
+    "poster": "https://image.tmdb.org/t/p/w500/j1PbUg1cYYAM5hAvZeCl7L8wcWP.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/genre/disney-channel/"
+      },
+      {
+        "name": "Doraemon Movies",
+        "url": "https://multimovies.city/genre/doraemon/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Mar. 12, 1988",
+    "ratingValue": "9.5",
+    "ratingCount": "4",
+    "synopsis": "Nobita, Gian, Shizuka, and Suneo is preparing for a school play on the \u201cJourney to the West\u201d. As they are arguing about who should play the role of the monkey king, Nobita suggested that the real monkey king should play the role. Because the monkey king is only a legend, Nobita and Doraemon have decided to go back in time using the time machine and make a fake one and show Gian, Shizuka, and Suneo to prove that they are right. Unfortunately, Doraemon\u2019s machine allowed the fictional monsters to come to the real world and defeated the entire human races, thus turning the future (Nobita\u2019s time) into a demon-ruled world. In order to reverse the change, Doraemon and gang needed to return to the past and capture the demons back into the machine. On the way, they have met the real monk and rinrei (a child). At the end, they have either returned the demons back to the machine or destroy them with Dorami\u2019s help, thus turning the future back to normal.",
+    "infoFields": {
+      "Original title": "\u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u306e\u30d1\u30e9\u30ec\u30eb\u897f\u904a\u8a18",
+      "IMDb Rating": "6.8 420 votes",
+      "TMDb Rating": "7.8 21 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tsutomu Shibayama",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tsutomu-shibayama/",
+      "image": "https://image.tmdb.org/t/p/w92/9xHbjsmKMduBQqAEmBE02gMHNAl.jpg"
+    },
+    {
+      "name": "Nobuyo Oyama",
+      "role": "Doraemon (voice)",
+      "url": "https://multimovies.city/cast/nobuyo-oyama/",
+      "image": "https://image.tmdb.org/t/p/w92/x2363EzijCCE3dpKcOHilX73MSI.jpg"
+    },
+    {
+      "name": "Noriko Ohara",
+      "role": "Nobita Nobi (voice)",
+      "url": "https://multimovies.city/cast/noriko-ohara/",
+      "image": "https://image.tmdb.org/t/p/w92/u5dvWzckBXvZw8Oexn5VN08vW7G.jpg"
+    },
+    {
+      "name": "Michiko Nomura",
+      "role": "Shizuka Minamoto (voice)",
+      "url": "https://multimovies.city/cast/michiko-nomura/",
+      "image": "https://image.tmdb.org/t/p/w92/u4aVFRfu91gxI59XETf9oMnQBrz.jpg"
+    },
+    {
+      "name": "Kaneta Kimotsuki",
+      "role": "Suneo Honegawa (voice)",
+      "url": "https://multimovies.city/cast/kaneta-kimotsuki/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kazuya Tatekabe",
+      "role": "Takeshi Goda (voice)",
+      "url": "https://multimovies.city/cast/kazuya-tatekabe/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1CWMhTGlbjwTW0lMLzXP3C5g3f7.jpg"
+  ],
+  "similar": [],
+  "views": 6025,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/h9kt4r8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 49282,
+      "nume": 1,
+      "title": "Streamwish"
+    }
+  ],
+  "cache": false
+}
