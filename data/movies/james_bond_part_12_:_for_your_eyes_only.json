@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/for-your-eyes-only/",
+  "meta": {
+    "title": "James Bond Part 12 : For Your Eyes Only",
+    "poster": "https://image.tmdb.org/t/p/w500/z57s6bpnYqokqr5HVNOBQFv5e1j.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "James Bond",
+        "url": "https://multimovies.city/genre/james-bond/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 24, 1981",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "A British spy ship has sunk and on board was a hi-tech encryption device. James Bond is sent to find the device that holds British launching instructions before the enemy Soviets get to it first.",
+    "infoFields": {
+      "Original title": "For Your Eyes Only",
+      "IMDb Rating": "6.7 104,919 votes",
+      "TMDb Rating": "6.503 1,620 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John Glen",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-glen/",
+      "image": "https://image.tmdb.org/t/p/w92/vrpJmSdjh7inNVZ4mSIlC54IeK6.jpg"
+    },
+    {
+      "name": "Roger Moore",
+      "role": "James Bond",
+      "url": "https://multimovies.city/cast/roger-moore/",
+      "image": "https://image.tmdb.org/t/p/w92/7H7UXpYPAIZGUs4uSkzqpTrYyxX.jpg"
+    },
+    {
+      "name": "Carole Bouquet",
+      "role": "Melina Havelock",
+      "url": "https://multimovies.city/cast/carole-bouquet/",
+      "image": "https://image.tmdb.org/t/p/w92/hcM5G94lWpyHrb6uUOpgr0iyi7j.jpg"
+    },
+    {
+      "name": "Topol",
+      "role": "Milos Columbo",
+      "url": "https://multimovies.city/cast/topol/",
+      "image": "https://image.tmdb.org/t/p/w92/Ah6ZOrg9AmeqPU04qUGF5eon2Fv.jpg"
+    },
+    {
+      "name": "Lynn-Holly Johnson",
+      "role": "Bibi Dahl",
+      "url": "https://multimovies.city/cast/lynn-holly-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/otNAP9RUhGwzJ9vlQ8i4KWAc2Sc.jpg"
+    },
+    {
+      "name": "Julian Glover",
+      "role": "Aristotle Kristatos",
+      "url": "https://multimovies.city/cast/julian-glover/",
+      "image": "https://image.tmdb.org/t/p/w92/yqFGLoY6CRy9jGp3NI328VlsaIG.jpg"
+    },
+    {
+      "name": "Cassandra Harris",
+      "role": "Countess Lisl von Schlaf",
+      "url": "https://multimovies.city/cast/cassandra-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/t18ebFix5sJUFmpxTVjOtZf40GE.jpg"
+    },
+    {
+      "name": "Jill Bennett",
+      "role": "Jacoba Brink",
+      "url": "https://multimovies.city/cast/jill-bennett/",
+      "image": "https://image.tmdb.org/t/p/w92/sClRHlWvQbD06ZGAQavg7sYe1HQ.jpg"
+    },
+    {
+      "name": "Michael Gothard",
+      "role": "Emile Leopold Locque",
+      "url": "https://multimovies.city/cast/michael-gothard/",
+      "image": "https://image.tmdb.org/t/p/w92/5wyxDscSXiTKeTDBxr6y17YuRXJ.jpg"
+    },
+    {
+      "name": "John Wyman",
+      "role": "Erich Kriegler",
+      "url": "https://multimovies.city/cast/john-wyman/",
+      "image": "https://image.tmdb.org/t/p/w92/AiBgTW0AhYaG5QqNoXxMvwxME4O.jpg"
+    },
+    {
+      "name": "Jack Hedley",
+      "role": "Sir Timothy Havelock",
+      "url": "https://multimovies.city/cast/jack-hedley/",
+      "image": "https://image.tmdb.org/t/p/w92/tkd6KKCnfEWEgnBD8gO8usqfBzU.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/z7Jp7HAsY7MqXzPYzTjJnmOQk2r.jpg",
+    "https://image.tmdb.org/t/p/w300/4aoINRjecCVyuICrtKVcv8ar62i.jpg",
+    "https://image.tmdb.org/t/p/w300/6Yh8XnVI5J3hWMiO4ewpn2FjRMA.jpg",
+    "https://image.tmdb.org/t/p/w300/s8xrgq9lIv2w7LXn13PAQ05c54v.jpg",
+    "https://image.tmdb.org/t/p/w300/9Wle1Nx1lj1jaUFuSfKwUrBtTbp.jpg",
+    "https://image.tmdb.org/t/p/w300/6Vj1wHxeiaKSiib18hFzhQri9Qe.jpg",
+    "https://image.tmdb.org/t/p/w300/nxJ59I2m24CDr5xfNyVAm7jK5gN.jpg",
+    "https://image.tmdb.org/t/p/w300/rNNFjoydrygIFg54k4n8ACrK8NT.jpg",
+    "https://image.tmdb.org/t/p/w300/lY6EXi6kKxchFd9rquQUwEcAqjI.jpg",
+    "https://image.tmdb.org/t/p/w300/f7j7s7CqaeG4EFM6Etw1fDMqF1i.jpg"
+  ],
+  "similar": [],
+  "views": 1122,
+  "sources": [
+    "https://www.youtube.com/embed/27EeX86rj2g?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/67bd1l48bklf"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25570,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 25570,
+      "nume": 1,
+      "title": "f"
+    }
+  ],
+  "cache": false
+}
