@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/casino/",
+  "meta": {
+    "title": "Casino",
+    "poster": "https://image.tmdb.org/t/p/w500/6zEZY1htzRos2w0W3T7o7W1WJhp.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "History",
+        "url": "https://multimovies.city/genre/history/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 22, 1995",
+    "ratingValue": "7",
+    "ratingCount": "3",
+    "synopsis": "In early-1970s Las Vegas, Sam \u201cAce\u201d Rothstein gets tapped by his bosses to head the Tangiers Casino. At first, he\u2019s a great success in the job, but over the years, problems with his loose-cannon enforcer Nicky Santoro, his ex-hustler wife Ginger, her con-artist ex Lester Diamond and a handful of corrupt politicians put Sam in ever-increasing danger.",
+    "infoFields": {
+      "Original title": "Casino",
+      "IMDb Rating": "8.2 536,672 votes",
+      "TMDb Rating": "8.013 5,090 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Martin Scorsese",
+      "role": "Director",
+      "url": "https://multimovies.city/director/martin-scorsese/",
+      "image": "https://image.tmdb.org/t/p/w92/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
+    },
+    {
+      "name": "Robert De Niro",
+      "role": "Sam 'Ace' Rothstein",
+      "url": "https://multimovies.city/cast/robert-de-niro/",
+      "image": "https://image.tmdb.org/t/p/w92/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "name": "Sharon Stone",
+      "role": "Ginger McKenna",
+      "url": "https://multimovies.city/cast/sharon-stone/",
+      "image": "https://image.tmdb.org/t/p/w92/3nLlMMWeT2b4JNFVKiJm6bwGAJ.jpg"
+    },
+    {
+      "name": "Joe Pesci",
+      "role": "Nicky Santoro",
+      "url": "https://multimovies.city/cast/joe-pesci/",
+      "image": "https://image.tmdb.org/t/p/w92/4AO0Rwdg2ky8Usmgzgj0dvhy7Zw.jpg"
+    },
+    {
+      "name": "Don Rickles",
+      "role": "Billy Sherbert",
+      "url": "https://multimovies.city/cast/don-rickles/",
+      "image": "https://image.tmdb.org/t/p/w92/iJLQV4dcbTUgxlWJakjDldzlMXS.jpg"
+    },
+    {
+      "name": "Kevin Pollak",
+      "role": "Phillip Green",
+      "url": "https://multimovies.city/cast/kevin-pollak/",
+      "image": "https://image.tmdb.org/t/p/w92/nAM4DErA2fXnwfq5lkIHPxjkwoS.jpg"
+    },
+    {
+      "name": "James Woods",
+      "role": "Lester Diamond",
+      "url": "https://multimovies.city/cast/james-woods/",
+      "image": "https://image.tmdb.org/t/p/w92/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg"
+    },
+    {
+      "name": "Alan King",
+      "role": "Andy Stone",
+      "url": "https://multimovies.city/cast/alan-king/",
+      "image": "https://image.tmdb.org/t/p/w92/wq3yjC2S2SMxjs4tAAuryJ91Hum.jpg"
+    },
+    {
+      "name": "Pasquale Cajano",
+      "role": "Remo Gaggi",
+      "url": "https://multimovies.city/cast/pasquale-cajano/",
+      "image": "https://image.tmdb.org/t/p/w92/yVVVGHe3FnXMBgNlmuA3tgF750u.jpg"
+    },
+    {
+      "name": "L.Q. Jones",
+      "role": "Pat Webb",
+      "url": "https://multimovies.city/cast/l-q-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/vSGLFloekrgC8eIaqxCiKe7VW0u.jpg"
+    },
+    {
+      "name": "Dick Smothers",
+      "role": "Senator",
+      "url": "https://multimovies.city/cast/dick-smothers/",
+      "image": "https://image.tmdb.org/t/p/w92/lcjZsKuVuTyyNeYkA1D9f2dpRwY.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2W9HjAYWNug5RwyrEtrneXeL94Z.jpg",
+    "https://image.tmdb.org/t/p/w300/xC5e5bft3QzzD5UXrdSqCvdMIWP.jpg",
+    "https://image.tmdb.org/t/p/w300/jtE2h4mWAp4pj74c3wMGbNpgrLF.jpg",
+    "https://image.tmdb.org/t/p/w300/w9vMs1bsdEUn4b27G7FdWvCnAtj.jpg",
+    "https://image.tmdb.org/t/p/w300/egTKbgYVjHAuVPci4TQkC4qmNZS.jpg",
+    "https://image.tmdb.org/t/p/w300/73UvQRjuSr6stQUZBB7bpkPjshX.jpg",
+    "https://image.tmdb.org/t/p/w300/pLR2O3dmA9xkCiPA26U7ErCUYSi.jpg",
+    "https://image.tmdb.org/t/p/w300/x8uByj5cdgceegCADD1MKzf2iBY.jpg",
+    "https://image.tmdb.org/t/p/w300/u0dh7MWHpJAXhpC3pkLRbu5zFVU.jpg",
+    "https://image.tmdb.org/t/p/w300/aQHSSdQKe4fHvG6WopW2ezZDzpG.jpg"
+  ],
+  "similar": [],
+  "views": 1479,
+  "sources": [
+    "https://www.youtube.com/embed/rIETsgWVh_c?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/i1ypkrzhd4rr"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 23659,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 23659,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
