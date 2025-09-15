@@ -1,0 +1,173 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tremors/",
+  "meta": {
+    "title": "Tremors",
+    "poster": "https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Jan. 19, 1990",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Hick handymen Val McKee and Earl Bassett can barely eke out a living in the Nevada hamlet of Perfection, so they decide to leave town \u2014 despite an admonition from a shapely seismology coed who\u2019s picking up odd readings on her equipment. Before long, Val and Earl discover what\u2019s responsible for those readings: 30-foot-long carnivorous worms with a proclivity for sucking their prey underground.",
+    "infoFields": {
+      "Original title": "Tremors",
+      "IMDb Rating": "7.1 142,481 votes",
+      "TMDb Rating": "6.861 2,796 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ron Underwood",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ron-underwood/",
+      "image": "https://image.tmdb.org/t/p/w92/3MxNvsTCxQIuAmEnmr5lRgxS20G.jpg"
+    },
+    {
+      "name": "Kevin Bacon",
+      "role": "Valentine McKee",
+      "url": "https://multimovies.city/cast/kevin-bacon/",
+      "image": "https://image.tmdb.org/t/p/w92/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+      "name": "Fred Ward",
+      "role": "Earl Bassett",
+      "url": "https://multimovies.city/cast/fred-ward/",
+      "image": "https://image.tmdb.org/t/p/w92/t3tZduAwP1LMR8Vc13HZ39wKJ1q.jpg"
+    },
+    {
+      "name": "Finn Carter",
+      "role": "Rhonda LeBeck",
+      "url": "https://multimovies.city/cast/finn-carter/",
+      "image": "https://image.tmdb.org/t/p/w92/fzPKYx7CvTrSffYD9P8AVx3hBHy.jpg"
+    },
+    {
+      "name": "Michael Gross",
+      "role": "Burt Gummer",
+      "url": "https://multimovies.city/cast/michael-gross/",
+      "image": "https://image.tmdb.org/t/p/w92/qznUukUDTLDjRqbP3GdcMYqYSiI.jpg"
+    },
+    {
+      "name": "Reba McEntire",
+      "role": "Heather Gummer",
+      "url": "https://multimovies.city/cast/reba-mcentire/",
+      "image": "https://image.tmdb.org/t/p/w92/fWF0qy3NJyNRQ4eo6suQiOHlac5.jpg"
+    },
+    {
+      "name": "Victor Wong",
+      "role": "Walter Chang",
+      "url": "https://multimovies.city/cast/victor-wong/",
+      "image": "https://image.tmdb.org/t/p/w92/3XvU2mK3i5V8Un7HyZn5pVnp4qw.jpg"
+    },
+    {
+      "name": "Robert Jayne",
+      "role": "Melvin Plug",
+      "url": "https://multimovies.city/cast/robert-jayne/",
+      "image": "https://image.tmdb.org/t/p/w92/17HP8sL3FM28cjE8K8zMYCzz7Mm.jpg"
+    },
+    {
+      "name": "Ariana Richards",
+      "role": "Mindy Sterngood",
+      "url": "https://multimovies.city/cast/ariana-richards/",
+      "image": "https://image.tmdb.org/t/p/w92/qKXw4lxfRejpNywW4u0etbH02lP.jpg"
+    },
+    {
+      "name": "Charlotte Stewart",
+      "role": "Nancy Sterngood",
+      "url": "https://multimovies.city/cast/charlotte-stewart/",
+      "image": "https://image.tmdb.org/t/p/w92/2q8O8fpP5e0yvKJkrR45qbHCq6n.jpg"
+    },
+    {
+      "name": "Tony Genaro",
+      "role": "Miguel",
+      "url": "https://multimovies.city/cast/tony-genaro/",
+      "image": "https://image.tmdb.org/t/p/w92/QfDoKbyezCA8wYM19Du0PLtF4i.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/grXTsQ4cxBQ7DToJCl93yzA664x.jpg",
+    "https://image.tmdb.org/t/p/w300/8C3zy5JXn6IuN3t9FcIOQuYxpvV.jpg",
+    "https://image.tmdb.org/t/p/w300/seNjtyrSUjMrpQZ30aw4RyLkvUt.jpg",
+    "https://image.tmdb.org/t/p/w300/sgRfYwdNxZZOWGWTAksw6iBzDiB.jpg",
+    "https://image.tmdb.org/t/p/w300/3pBIJWYePQBEU9aENgIzKkyp3ur.jpg",
+    "https://image.tmdb.org/t/p/w300/36js5PHI0CWI3LXalFeHV0dGLsy.jpg",
+    "https://image.tmdb.org/t/p/w300/ltGS8K1mRnzklCBJ8s13hbRYiR7.jpg",
+    "https://image.tmdb.org/t/p/w300/w4qC6S6io0QMgfjB0tdJdPk0PWg.jpg",
+    "https://image.tmdb.org/t/p/w300/oreVZhYh2B7DBou9ylWdQ34lXZo.jpg",
+    "https://image.tmdb.org/t/p/w300/uOs9QRYQk5ZPahXghNIR86hswqq.jpg"
+  ],
+  "similar": [],
+  "views": 1486,
+  "sources": [
+    "https://www.youtube.com/embed/hpCSCQJEmnk?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/zcgjp8xtt3kq",
+    "https://sbplay.org/embed-74n985xsabwu.html",
+    "https://dood.la/e/vcer1p6n461c",
+    "https://mixdrop.co/e/o7egpvxohl0gd8k",
+    "https://embedsito.com/v/dkj64sxr5xg6prx?sub_en=https://sub.movstream.net/sub/tremors-1-tps/tremors-1-tps.vtt&default=sub_en#caption=https://sub.movstream.net/sub/tremors-1-tps/tremors-1-tps.vtt",
+    "https://hydrax.net/watch?v=PaVGBA9X_0"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 13671,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 13671,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 13671,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 13671,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 13671,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 13671,
+      "nume": 5,
+      "title": "Server 05"
+    },
+    {
+      "type": "movie",
+      "post": 13671,
+      "nume": 6,
+      "title": "Server 06"
+    }
+  ],
+  "cache": false
+}
