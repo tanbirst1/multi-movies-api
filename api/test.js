@@ -48,7 +48,7 @@ async function fetchJson(url) {
     if (!res.ok) throw new Error(`${url} failed ${res.status}`);
     return res.json();
   } catch (err) {
-    return { error: err.message }; // return error object instead of crashing
+    return { error: err.message }; // safe fallback
   }
 }
 
@@ -63,7 +63,13 @@ export default async function handler(req, res) {
 
     for (const [section, items] of Object.entries(list.sections || {})) {
       for (const item of items) {
-        const slug = encodeURIComponent(item.title.toLowerCase().replace(/\s+/g, "-"));
+        // ✅ Build slug safely (no encodeURIComponent here)
+        const slug = item.title
+          .toLowerCase()
+          .replace(/[^a-z0-9\s-]/gi, "") // remove special chars
+          .trim()
+          .replace(/\s+/g, "-");
+
         const safeName = slug.replace(/[^a-z0-9-_]/gi, "_");
 
         // Step 2: TV details
@@ -71,7 +77,6 @@ export default async function handler(req, res) {
         const tvData = await fetchJson(tvUrl);
 
         if (tvData.error) {
-          // Save error file and skip
           await saveToGithub(`${DATA_DIR}/page${reversePage}/${safeName}.json`, {
             error: tvData.error,
             title: item.title,
