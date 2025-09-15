@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-shawshank-redemption/",
+  "meta": {
+    "title": "The Shawshank Redemption",
+    "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Sep. 23, 1994",
+    "ratingValue": "9.2",
+    "ratingCount": "31",
+    "synopsis": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates \u2014 including an older prisoner named Red \u2014 for his integrity and unquenchable sense of hope.",
+    "infoFields": {
+      "Original title": "The Shawshank Redemption",
+      "IMDb Rating": "9.3 3,042,773 votes",
+      "TMDb Rating": "8.71 28,269 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Frank Darabont",
+      "role": "Director",
+      "url": "https://multimovies.city/director/frank-darabont/",
+      "image": "https://image.tmdb.org/t/p/w92/nvOqAQhKtXdHtczgqanoCfltsxJ.jpg"
+    },
+    {
+      "name": "Tim Robbins",
+      "role": "Andy Dufresne",
+      "url": "https://multimovies.city/cast/tim-robbins/",
+      "image": "https://image.tmdb.org/t/p/w92/9gQHkqIkvltnAogNSpaMpZsT4SA.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "role": "Ellis Boyd 'Red' Redding",
+      "url": "https://multimovies.city/cast/morgan-freeman/",
+      "image": "https://image.tmdb.org/t/p/w92/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+    },
+    {
+      "name": "Bob Gunton",
+      "role": "Warden Norton",
+      "url": "https://multimovies.city/cast/bob-gunton/",
+      "image": "https://image.tmdb.org/t/p/w92/rr2KDCKK4t0f5YhZibCpLCAsJxc.jpg"
+    },
+    {
+      "name": "William Sadler",
+      "role": "Heywood",
+      "url": "https://multimovies.city/cast/william-sadler/",
+      "image": "https://image.tmdb.org/t/p/w92/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+    },
+    {
+      "name": "Clancy Brown",
+      "role": "Captain Byron T. Hadley",
+      "url": "https://multimovies.city/cast/clancy-brown/",
+      "image": "https://image.tmdb.org/t/p/w92/xjg0ZIxP0tFcEQCTeRgKxNtLdpe.jpg"
+    },
+    {
+      "name": "Gil Bellows",
+      "role": "Tommy",
+      "url": "https://multimovies.city/cast/gil-bellows/",
+      "image": "https://image.tmdb.org/t/p/w92/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
+    },
+    {
+      "name": "Mark Rolston",
+      "role": "Bogs Diamond",
+      "url": "https://multimovies.city/cast/mark-rolston/",
+      "image": "https://image.tmdb.org/t/p/w92/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+    },
+    {
+      "name": "James Whitmore",
+      "role": "Brooks Hatlen",
+      "url": "https://multimovies.city/cast/james-whitmore/",
+      "image": "https://image.tmdb.org/t/p/w92/d1nOu22OvPzdwS8euWE0FNHwx8K.jpg"
+    },
+    {
+      "name": "Jeffrey DeMunn",
+      "role": "1946 D.A.",
+      "url": "https://multimovies.city/cast/jeffrey-demunn/",
+      "image": "https://image.tmdb.org/t/p/w92/eSouAAduXaziFpqLw59AG55jtGY.jpg"
+    },
+    {
+      "name": "Larry Brandenburg",
+      "role": "Skeet",
+      "url": "https://multimovies.city/cast/larry-brandenburg/",
+      "image": "https://image.tmdb.org/t/p/w92/y13c1a4keaLnoTbi3dERwolQXWP.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg",
+    "https://image.tmdb.org/t/p/w300/wPU78OPN4BYEgWYdXyg0phMee64.jpg",
+    "https://image.tmdb.org/t/p/w300/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+    "https://image.tmdb.org/t/p/w300/mor5PrU9cQghuXp7qRw2LedyCRK.jpg",
+    "https://image.tmdb.org/t/p/w300/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+    "https://image.tmdb.org/t/p/w300/ztijhkmSL0qikzjHiSRWFtJvmr.jpg",
+    "https://image.tmdb.org/t/p/w300/crLfhuTYadl39DucKK8HcEJctIf.jpg",
+    "https://image.tmdb.org/t/p/w300/v8xVDqt8uCul3c3mgx4VpGCwxJC.jpg",
+    "https://image.tmdb.org/t/p/w300/nRalgtBQMgD1LJJLLlNThOwKxcq.jpg",
+    "https://image.tmdb.org/t/p/w300/xYjZh553FeMdhaNeeqTROPvJucM.jpg"
+  ],
+  "similar": [],
+  "views": 23542,
+  "sources": [
+    "https://www.youtube.com/embed/9qqfMvKxBa0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/sx4ns73"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5017,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5017,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
