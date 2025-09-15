@@ -1,0 +1,140 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/seven-years-in-tibet/",
+  "meta": {
+    "title": "Seven Years in Tibet",
+    "poster": "https://image.tmdb.org/t/p/w500/5euQXAgJ34TdUFl1t3O6Jw2lJAs.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "History",
+        "url": "https://multimovies.city/genre/history/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Sep. 12, 1997",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Austrian mountaineer Heinrich Harrer journeys to the Himalayas without his family to head an expedition in 1939. But when World War II breaks out, the arrogant Harrer falls into Allied forces\u2019 hands as a prisoner of war. He escapes with a fellow detainee and makes his way to Llaso, Tibet, where he meets the 14-year-old Dalai Lama, whose friendship ultimately transforms his outlook on life.",
+    "infoFields": {
+      "Original title": "Seven Years in Tibet",
+      "IMDb Rating": "7.1 159,141 votes",
+      "TMDb Rating": "7.165 2,801 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jean-Jacques Annaud",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jean-jacques-annaud/",
+      "image": "https://image.tmdb.org/t/p/w92/dSVa9BbqtcJmH8YJmVtna0ciBim.jpg"
+    },
+    {
+      "name": "Brad Pitt",
+      "role": "Heinrich Harrer",
+      "url": "https://multimovies.city/cast/brad-pitt/",
+      "image": "https://image.tmdb.org/t/p/w92/4rjnRCQ6bGFYdBb4UooOjsQy12c.jpg"
+    },
+    {
+      "name": "Jamyang Jamtsho Wangchuk",
+      "role": "Dalai Lama",
+      "url": "https://multimovies.city/cast/jamyang-jamtsho-wangchuk/",
+      "image": "https://image.tmdb.org/t/p/w92/jpwdE6uAklGzWJ2YssS50Ch5k9T.jpg"
+    },
+    {
+      "name": "David Thewlis",
+      "role": "Peter Aufschnaiter",
+      "url": "https://multimovies.city/cast/david-thewlis/",
+      "image": "https://image.tmdb.org/t/p/w92/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
+    },
+    {
+      "name": "BD Wong",
+      "role": "Ngawang Jigme",
+      "url": "https://multimovies.city/cast/bd-wong/",
+      "image": "https://image.tmdb.org/t/p/w92/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+    },
+    {
+      "name": "Mako",
+      "role": "Kungo Tsarong",
+      "url": "https://multimovies.city/cast/mako/",
+      "image": "https://image.tmdb.org/t/p/w92/qrt9yI5sEEemzVAEh8mtI6E68L0.jpg"
+    },
+    {
+      "name": "Lhakpa Tsamchoe",
+      "role": "Pema Lhaki",
+      "url": "https://multimovies.city/cast/lhakpa-tsamchoe/",
+      "image": "https://image.tmdb.org/t/p/w92/kiodZp3zbkgHEIGfmXQDAug1V57.jpg"
+    },
+    {
+      "name": "Ingeborga Dapk\u016bnait\u0117",
+      "role": "Ingrid Harrer",
+      "url": "https://multimovies.city/cast/ingeborga-dapkunaite/",
+      "image": "https://image.tmdb.org/t/p/w92/epH5vef5Tm6b2VyU71KKCxw9tyd.jpg"
+    },
+    {
+      "name": "Duncan Fraser",
+      "role": "British Officer",
+      "url": "https://multimovies.city/cast/duncan-fraser/",
+      "image": "https://image.tmdb.org/t/p/w92/ckiY9K7fwH5KRuTE3IM5kelwm0c.jpg"
+    },
+    {
+      "name": "Danny Denzongpa",
+      "role": "Regent",
+      "url": "https://multimovies.city/cast/danny-denzongpa/",
+      "image": "https://image.tmdb.org/t/p/w92/xDNLtgG8iDXxNRvSDjpuNSNfKvX.jpg"
+    },
+    {
+      "name": "Victor Wong",
+      "role": "Chinese 'Amban'",
+      "url": "https://multimovies.city/cast/victor-wong/",
+      "image": "https://image.tmdb.org/t/p/w92/3XvU2mK3i5V8Un7HyZn5pVnp4qw.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/s90zsx8QQmgkXVhM6TJEYAaWy2I.jpg",
+    "https://image.tmdb.org/t/p/w300/1gcFNGuil3DIXvgGrAmObuYO4lR.jpg",
+    "https://image.tmdb.org/t/p/w300/dgiOBykxfUAtb01VUnkHsTCwfsG.jpg",
+    "https://image.tmdb.org/t/p/w300/8DqY03NycvUdhhymaFJyHV5zY6X.jpg",
+    "https://image.tmdb.org/t/p/w300/cFNuATVSEKuFRF7Sc9ilzer2CxD.jpg",
+    "https://image.tmdb.org/t/p/w300/athnSvS41TEHOSK2Ax0LAM0ulDp.jpg",
+    "https://image.tmdb.org/t/p/w300/aiH83EMOvc0OAbzF3uNsDEbuiVJ.jpg",
+    "https://image.tmdb.org/t/p/w300/A4Upx8Vd1JhGUW58G3xlHD0Gqxl.jpg"
+  ],
+  "similar": [],
+  "views": 629,
+  "sources": [
+    "https://www.youtube.com/embed/TWkrRTPtKss?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/u7qlsy8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 69119,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 69119,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
