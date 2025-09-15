@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/kabhi-haan-kabhi-naa/",
+  "meta": {
+    "title": "Kabhi Haan Kabhi Naa",
+    "poster": "https://image.tmdb.org/t/p/w500/6FtBaFCz3UFFhXyE4JHxQDn43gM.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Feb. 25, 1994",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A man belongs to a middle-class family and is intent on pursuing his career with a music group, despite his dad\u2019s disapproval. He is also in love with the lead singer, but she sees him mainly as a friend.",
+    "infoFields": {
+      "Original title": "\u0915\u092d\u0940 \u0939\u093e\u0901 \u0915\u092d\u0940 \u0928\u093e",
+      "IMDb Rating": "7.6 20,076 votes",
+      "TMDb Rating": "6.582 55 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kundan Shah",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kundan-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/89O1Q21JOHDJRKQAVPeKb3Jbvt0.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Sunil",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Suchitra Krishnamoorthi",
+      "role": "Ana",
+      "url": "https://multimovies.city/cast/suchitra-krishnamoorthi/",
+      "image": "https://image.tmdb.org/t/p/w92/hT5ZuzHmI1aVdkMJsP4Jr0St08q.jpg"
+    },
+    {
+      "name": "Deepak Tijori",
+      "role": "Chris",
+      "url": "https://multimovies.city/cast/deepak-tijori/",
+      "image": "https://image.tmdb.org/t/p/w92/3Vnt2RxkMYrPDuFMhdU2WWeVZqT.jpg"
+    },
+    {
+      "name": "Satish Shah",
+      "role": "Simon",
+      "url": "https://multimovies.city/cast/satish-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/AaXbQI0fAoTW4Qjg4dAtC5xkK1G.jpg"
+    },
+    {
+      "name": "Naseeruddin Shah",
+      "role": "Father Briganza",
+      "url": "https://multimovies.city/cast/naseeruddin-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/lFvGfKypi5NNyUjrsT8Y7ebWc7G.jpg"
+    },
+    {
+      "name": "Tiku Talsania",
+      "role": "Patel",
+      "url": "https://multimovies.city/cast/tiku-talsania/",
+      "image": "https://image.tmdb.org/t/p/w92/pcEzSYDTRrnvA5pcbxhrfGOVTuM.jpg"
+    },
+    {
+      "name": "Ajit Vachani",
+      "role": "Charles",
+      "url": "https://multimovies.city/cast/ajit-vachani/",
+      "image": "https://image.tmdb.org/t/p/w92/dWQBPrSUPpn8JClyGBJ2g0V04P8.jpg"
+    },
+    {
+      "name": "Rita Bhaduri",
+      "role": "Ana",
+      "url": "https://multimovies.city/cast/rita-bhaduri/",
+      "image": "https://image.tmdb.org/t/p/w92/efWRSQCth6k9iCpYirLTnQ7HtCB.jpg"
+    },
+    {
+      "name": "Ravi Baswani",
+      "role": "Albert",
+      "url": "https://multimovies.city/cast/ravi-baswani/",
+      "image": "https://image.tmdb.org/t/p/w92/v9FWZpmLdngd1iLhml4enWCLRrS.jpg"
+    },
+    {
+      "name": "Shashi Sahay",
+      "role": "Prabha",
+      "url": "https://multimovies.city/cast/shashi-sahay/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/q8ZR4yCKRH9YCtmb3mwgTyytvYM.jpg",
+    "https://image.tmdb.org/t/p/w300/vJQclclKe7TG8js8miVL1VZmh9I.jpg",
+    "https://image.tmdb.org/t/p/w300/HrBmSREOUFanch8covHcTxcHP6.jpg",
+    "https://image.tmdb.org/t/p/w300/vlBOLdHG48gSlkaTN20uCCwKv26.jpg"
+  ],
+  "similar": [],
+  "views": 846,
+  "sources": [
+    "https://www.youtube.com/embed/XvsJd6tEyBE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/idkhkcl"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 95722,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 95722,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
