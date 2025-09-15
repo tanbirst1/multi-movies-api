@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/henna/",
+  "meta": {
+    "title": "Henna",
+    "poster": "https://image.tmdb.org/t/p/w500/vChTvHPB01q4XnrR6wVGAh26pqd.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Music",
+        "url": "https://multimovies.city/genre/music/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 28, 1991",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Beautiful Henna Khan lives the life of a gypsy near the river, Jhelum, in Pakistan with her widowed dad, Khan Baba; three brothers, Ashraf, Razzak, and Zaman; and Razzak\u2019s wife, Najma. One day she comes across a male body that has been washed ashore. Khan Baba, Bibi Gul, and Henna take this male in, nurse him back to health, only to find out that he has lost his memory. The male in his sleep cries out the name of \u201cChand\u201d, and everyone starts calling him by that name.",
+    "infoFields": {
+      "Original title": "Henna",
+      "IMDb Rating": "6.3 830 votes",
+      "TMDb Rating": "5.3 10 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Randhir Kapoor",
+      "role": "Director",
+      "url": "https://multimovies.city/director/randhir-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/92PWRkXqGP6hkIY5eeOnaS1WAcm.jpg"
+    },
+    {
+      "name": "Rishi Kapoor",
+      "role": "Chander Prakash",
+      "url": "https://multimovies.city/cast/rishi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/yQOKkmQaksa3hOi72MbPnrqz77k.jpg"
+    },
+    {
+      "name": "Zeba Bakhtiar",
+      "role": "Henna",
+      "url": "https://multimovies.city/cast/zeba-bakhtiar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ashwini Bhave",
+      "role": "Chandni",
+      "url": "https://multimovies.city/cast/ashwini-bhave/",
+      "image": "https://image.tmdb.org/t/p/w92/m8rahRLhHcALpRkmzi6yqKbKixT.jpg"
+    },
+    {
+      "name": "Saeed Jaffrey",
+      "role": "Khan Baba",
+      "url": "https://multimovies.city/cast/saeed-jaffrey/",
+      "image": "https://image.tmdb.org/t/p/w92/vfESx8h4d8xfGfGasqreTdJgYQP.jpg"
+    },
+    {
+      "name": "Farida Jalal",
+      "role": "Bibi Gul",
+      "url": "https://multimovies.city/cast/farida-jalal/",
+      "image": "https://image.tmdb.org/t/p/w92/tJdqL4BRSAWVFX1W6cmwxFs9IFh.jpg"
+    },
+    {
+      "name": "Kulbhushan Kharbanda",
+      "role": "Chandni's father",
+      "url": "https://multimovies.city/cast/kulbhushan-kharbanda/",
+      "image": "https://image.tmdb.org/t/p/w92/iboGvJPKZ98kU8YKgomn9Jpk0XN.jpg"
+    },
+    {
+      "name": "Kiran Kumar",
+      "role": "Ashraf",
+      "url": "https://multimovies.city/cast/kiran-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/vnpgMjRmNXl9r6LE2N5RJ1F5gD6.jpg"
+    },
+    {
+      "name": "Reema Lagoo",
+      "role": "Chandni's mother",
+      "url": "https://multimovies.city/cast/reema-lagoo/",
+      "image": "https://image.tmdb.org/t/p/w92/hQ5r2pPD8T94Dli5oNP6IlwEf1c.jpg"
+    },
+    {
+      "name": "Raza Murad",
+      "role": "Shahbaaz Khan",
+      "url": "https://multimovies.city/cast/raza-murad/",
+      "image": "https://image.tmdb.org/t/p/w92/gMyvs7yl3woLOiBgFGB3V08utBc.jpg"
+    },
+    {
+      "name": "Dilip Dhawan",
+      "role": "Razzak",
+      "url": "https://multimovies.city/cast/dilip-dhawan/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/m7Iy4Q3CnjTsyZQcErnbBHXagD9.jpg",
+    "https://image.tmdb.org/t/p/w300/zDVfQ09q63rYl4360Gs0JCxUDmn.jpg"
+  ],
+  "similar": [],
+  "views": 196,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/vte7hyq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 98242,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false
+}
