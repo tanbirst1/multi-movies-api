@@ -1,0 +1,232 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/doctor-who/",
+  "meta": {
+    "title": "Doctor Who",
+    "poster": "https://image.tmdb.org/t/p/w500/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
+    "networks": [
+      {
+        "name": "BBC One",
+        "url": "https://multimovies.city/network/bbc-one/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Sci-Fi & Fantasy",
+        "url": "https://multimovies.city/genre/sci-fi-fantasy/"
+      }
+    ],
+    "firstAirDate": "Mar. 26, 2005",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living\u2014more of a hobby actually, and the Doctor\u2019s very, very good at it.",
+    "infoFields": {
+      "Original title": "Doctor Who",
+      "TMDb Rating": "7.499 2,825 votes",
+      "First air date": "Mar. 26, 2005",
+      "Last air date": "Dec. 05, 2021",
+      "Seasons": "13",
+      "Episodes": "153"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Mar. 26, 2005",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Rose",
+          "url": "https://multimovies.city/episodes/doctor-who-1x1/",
+          "airDate": "Mar. 26, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/dZNrYgOvt5M6oPAcMf5HH103E05.jpg",
+          "sources": [
+            "https://smoothpre.com/v/0k83rm2fvc64"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "The End of the World",
+          "url": "https://multimovies.city/episodes/doctor-who-1x2/",
+          "airDate": "Apr. 02, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/5K6YOLEC8wRzugniOXCQNVndSyD.jpg",
+          "sources": [
+            "https://smoothpre.com/v/jlcp5x3d4jx4"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "The Unquiet Dead",
+          "url": "https://multimovies.city/episodes/doctor-who-1x3/",
+          "airDate": "Apr. 09, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/l3oSyFTBXYVSRMNXBEC2u40Jw60.jpg",
+          "sources": [
+            "https://smoothpre.com/v/dfnlq1lf6rmy"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Aliens of London (1)",
+          "url": "https://multimovies.city/episodes/doctor-who-1x4/",
+          "airDate": "Apr. 16, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/hGmpP763cd0ZNZ9wj42sRf1jvUi.jpg",
+          "sources": [
+            "https://smoothpre.com/v/soca67169fek"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "World War Three (2)",
+          "url": "https://multimovies.city/episodes/doctor-who-1x5/",
+          "airDate": "Apr. 23, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/wEkPrSrR7Y7pw7GcO1B2QerHlIG.jpg",
+          "sources": [
+            "https://smoothpre.com/v/qedv7xoriue9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Dalek",
+          "url": "https://multimovies.city/episodes/doctor-who-1x6/",
+          "airDate": "Apr. 30, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/ijo4TGwFjk8x0ZrU2fg5OVYFEbx.jpg",
+          "sources": [
+            "https://smoothpre.com/v/dg9ufigpzmtr"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "The Long Game",
+          "url": "https://multimovies.city/episodes/doctor-who-1x7/",
+          "airDate": "May. 07, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/yWbxzMNOE29yGZFrSzHpyTB9kSh.jpg",
+          "sources": [
+            "https://smoothpre.com/v/xt7ha425jwmp"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Father's Day",
+          "url": "https://multimovies.city/episodes/doctor-who-1x8/",
+          "airDate": "May. 14, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/xS8xgUjEcKxjuvbqTjM3fPwUiQv.jpg",
+          "sources": [
+            "https://smoothpre.com/v/l90y8ducmnzs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "The Empty Child (1)",
+          "url": "https://multimovies.city/episodes/doctor-who-1x9/",
+          "airDate": "May. 21, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/obBxGEt9GAbvgOm4vkcjOWp5BSY.jpg",
+          "sources": [
+            "https://smoothpre.com/v/vo6pzy28m1n6"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "The Doctor Dances (2)",
+          "url": "https://multimovies.city/episodes/doctor-who-1x10/",
+          "airDate": "May. 28, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/yJTDD8NvVjWeWXlMokLvsU4kDjN.jpg",
+          "sources": [
+            "https://smoothpre.com/v/hy0xk3vblze4"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Boom Town",
+          "url": "https://multimovies.city/episodes/doctor-who-1x11/",
+          "airDate": "Jun. 04, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/9y8zGuQYawL0CgrY8kRAYvlysOK.jpg",
+          "sources": [
+            "https://smoothpre.com/v/37axdb7cccve"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Bad Wolf (1)",
+          "url": "https://multimovies.city/episodes/doctor-who-1x12/",
+          "airDate": "Jun. 11, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/4jmaOhuBiQc9OzDcigvmOukH8kl.jpg",
+          "sources": [
+            "https://smoothpre.com/v/i04fec33o49h"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "The Parting of the Ways (2)",
+          "url": "https://multimovies.city/episodes/doctor-who-1x13/",
+          "airDate": "Jun. 18, 2005",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/03/1OkIS6TM8d1KFo5krGS6nvn37pH.jpg",
+          "sources": [
+            "https://smoothpre.com/v/uwsvg0r5m3d6"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sydney Newman",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/sydney-newman/",
+      "image": "https://image.tmdb.org/t/p/w92/QKW3Widw7yaemYlB3NKEmJrhrF.jpg"
+    },
+    {
+      "name": "Jodie Whittaker",
+      "role": "The Doctor",
+      "url": "https://multimovies.city/cast/jodie-whittaker/",
+      "image": "https://image.tmdb.org/t/p/w92/zS6EO1GsfOiuyaa66YqmUPWDX78.jpg"
+    },
+    {
+      "name": "Mandip Gill",
+      "role": "Yasmin 'Yaz' Khan",
+      "url": "https://multimovies.city/cast/mandip-gill/",
+      "image": "https://image.tmdb.org/t/p/w92/fwfeVJ0oTZv9kuIR8Pohqq1R7RU.jpg"
+    },
+    {
+      "name": "John Bishop",
+      "role": "Dan Lewis",
+      "url": "https://multimovies.city/cast/john-bishop/",
+      "image": "https://image.tmdb.org/t/p/w92/tooZmoOa6YLZTyak8gbbYXFeile.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+    "https://image.tmdb.org/t/p/w300/aVb1JXQMlLT3qq71VPTWTVNhXgC.jpg",
+    "https://image.tmdb.org/t/p/w300/oEoqbfczeh2Ie0f6TUcGXsIOFVL.jpg",
+    "https://image.tmdb.org/t/p/w300/tQkigP2fItdzJWvtIhBvHxgs5yE.jpg",
+    "https://image.tmdb.org/t/p/w300/tPwpc9Uo1Fly50urDxfGWWk7H77.jpg",
+    "https://image.tmdb.org/t/p/w300/tXGPu0tzj98WCDhfaPNxjpj21HO.jpg",
+    "https://image.tmdb.org/t/p/w300/wc6tz4Z3Ot1mPlXk12X96drgej5.jpg",
+    "https://image.tmdb.org/t/p/w300/zegHEGp8jl0AcDpZbRaHfovOQkk.jpg",
+    "https://image.tmdb.org/t/p/w300/5ORmspFWYzqFi6qgOUVOgzBcZhq.jpg",
+    "https://image.tmdb.org/t/p/w300/pNNRpjOPULGb6jWV1icmvWfeXjc.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
