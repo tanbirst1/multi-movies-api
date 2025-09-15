@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "Good Boy",
+    "poster": "https://multimovies.city/wp-content/uploads/2024/07/9DPG1gxLwV2oyFdHq3SnISsWbse.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 03, 2022",
+    "ratingValue": "7.3",
+    "ratingCount": "3",
+    "synopsis": "Christian – a millionaire heir, meets Sigrid – a young student, on a dating app. They hit it off quickly, but there’s only one problem: Christian lives with Frank, a man who dresses up and constantly acts like a dog.",
+    "infoFields": {
+      "Original title": "Good Boy",
+      "IMDb Rating": "5.7 2,716 votes",
+      "TMDb Rating": "6.43 229 votes"
+    }
+  },
+  "cast": [
+    {
+      "name": "Viljar Bøe",
+      "role": "Director",
+      "url": "https://multimovies.city/director/viljar-boe/",
+      "image": "https://image.tmdb.org/t/p/w92/srtok6PUsFKnFEgWeN0359UBEDa.jpg"
+    },
+    {
+      "name": "Gard Løkke",
+      "role": "Christian Iversen",
+      "url": "https://multimovies.city/cast/gard-lokke/",
+      "image": "https://image.tmdb.org/t/p/w92/wIWkpsT3RfZ0OzfQdYz8hrsw8bo.jpg"
+    },
+    {
+      "name": "Katrine Lovise Øpstad Fredriksen",
+      "role": "Sigrid",
+      "url": "https://multimovies.city/cast/katrine-lovise-opstad-fredriksen/",
+      "image": "https://image.tmdb.org/t/p/w92/gMT79ZnkpBChXlkW6cJmjyrYzXs.jpg"
+    },
+    {
+      "name": "Amalie Willoch Njaastad",
+      "role": "Aurora",
+      "url": "https://multimovies.city/cast/amalie-willoch-njaastad/",
+      "image": "https://image.tmdb.org/t/p/w92/6y4hxqg0ekkh3xWUhUI0PSz7vpO.jpg"
+    },
+    {
+      "name": "Nicolai Narvesen Lied",
+      "role": "Frank",
+      "url": "https://multimovies.city/cast/nicolai-narvesen-lied/",
+      "image": "https://image.tmdb.org/t/p/w92/iNkT2PGtalVbBGhAq65v9HwxCRw.jpg"
+    },
+    {
+      "name": "Viljar Bøe",
+      "role": "Guy in Puppy Play video",
+      "url": "https://multimovies.city/cast/viljar-boe/",
+      "image": "https://image.tmdb.org/t/p/w92/srtok6PUsFKnFEgWeN0359UBEDa.jpg"
+    },
+    {
+      "name": "Marie Waade Grønning",
+      "role": "Girl in Puppy Play video",
+      "url": "https://multimovies.city/cast/marie-waade-gronning/",
+      "image": "https://image.tmdb.org/t/p/w92/bUwegByaiR82f4Ga0al8aIoC5pe.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/dFznp4lrpdkKKWa32tL8BErWToG.jpg",
+    "https://image.tmdb.org/t/p/w300/AucuqDaUW4z1oT5XyL71qwRY2F6.jpg",
+    "https://image.tmdb.org/t/p/w300/ddYWP8Lhs8b9y3BkCbjlgXqhLBG.jpg",
+    "https://image.tmdb.org/t/p/w300/zzUBCDRZ68gGsgMJYpwMUqREdpi.jpg"
+  ],
+  "similar": [],
+  "seasons": []
+}
