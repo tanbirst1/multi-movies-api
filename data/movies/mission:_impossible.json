@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/mission-impossible/",
+  "meta": {
+    "title": "Mission: Impossible",
+    "poster": "https://image.tmdb.org/t/p/w500/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mission Impossible",
+        "url": "https://multimovies.city/genre/mission-impossible-collection/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 22, 1996",
+    "ratingValue": "8.9",
+    "ratingCount": "10",
+    "synopsis": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he\u2019s surprised to learn that he\u2019s the No. 1 suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+    "infoFields": {
+      "Original title": "Mission: Impossible",
+      "IMDb Rating": "7.2 485,429 votes",
+      "TMDb Rating": "6.99 9,054 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Brian De Palma",
+      "role": "Director",
+      "url": "https://multimovies.city/director/brian-de-palma/",
+      "image": "https://image.tmdb.org/t/p/w92/4xleWFdhtVC7faer6Ru2eyEgfTv.jpg"
+    },
+    {
+      "name": "Tom Cruise",
+      "role": "Ethan Hunt",
+      "url": "https://multimovies.city/cast/tom-cruise/",
+      "image": "https://image.tmdb.org/t/p/w92/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"
+    },
+    {
+      "name": "Jon Voight",
+      "role": "Jim Phelps",
+      "url": "https://multimovies.city/cast/jon-voight/",
+      "image": "https://image.tmdb.org/t/p/w92/h5jKQHLRQqqgvsfCXgxxtywx7UQ.jpg"
+    },
+    {
+      "name": "Henry Czerny",
+      "role": "Eugene Kittridge",
+      "url": "https://multimovies.city/cast/henry-czerny/",
+      "image": "https://image.tmdb.org/t/p/w92/zOWZzRmliKf9032IOOq0a3jXhVv.jpg"
+    },
+    {
+      "name": "Emmanuelle B\u00e9art",
+      "role": "Claire Phelps",
+      "url": "https://multimovies.city/cast/emmanuelle-beart/",
+      "image": "https://image.tmdb.org/t/p/w92/imQFccO9AZtzjeyqkHh9YMtGKOC.jpg"
+    },
+    {
+      "name": "Ving Rhames",
+      "role": "Luther Stickell",
+      "url": "https://multimovies.city/cast/ving-rhames/",
+      "image": "https://image.tmdb.org/t/p/w92/4gpLVNKPZlVucc4fT2fSZ7DksTK.jpg"
+    },
+    {
+      "name": "Kristin Scott Thomas",
+      "role": "Sarah Davies",
+      "url": "https://multimovies.city/cast/kristin-scott-thomas/",
+      "image": "https://image.tmdb.org/t/p/w92/uQWIPSCkERllLIdrpxee2Eodfpb.jpg"
+    },
+    {
+      "name": "Vanessa Redgrave",
+      "role": "Max Mitsopolis",
+      "url": "https://multimovies.city/cast/vanessa-redgrave/",
+      "image": "https://image.tmdb.org/t/p/w92/d40DWvfq40LZlJZESk3wWGYU5oa.jpg"
+    },
+    {
+      "name": "Jean Reno",
+      "role": "Franz Krieger",
+      "url": "https://multimovies.city/cast/jean-reno/",
+      "image": "https://image.tmdb.org/t/p/w92/q7dYamebioHRuvb9EWeSw8yTEfS.jpg"
+    },
+    {
+      "name": "Emilio Estevez",
+      "role": "Jack Harmon (uncredited)",
+      "url": "https://multimovies.city/cast/emilio-estevez/",
+      "image": "https://image.tmdb.org/t/p/w92/6TNIik0wBLo8DTvmJNDkKDqKWme.jpg"
+    },
+    {
+      "name": "Ingeborga Dapk\u016bnait\u0117",
+      "role": "Hannah Williams",
+      "url": "https://multimovies.city/cast/ingeborga-dapkunaite/",
+      "image": "https://image.tmdb.org/t/p/w92/epH5vef5Tm6b2VyU71KKCxw9tyd.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/pbaAkR1FDvgndTVFgGRIzf9o49r.jpg",
+    "https://image.tmdb.org/t/p/w300/eDtsTxALld2gPw9lO1hQIJXqMHu.jpg",
+    "https://image.tmdb.org/t/p/w300/jnR697dbIYn0erHOQdSFNhHhb1i.jpg",
+    "https://image.tmdb.org/t/p/w300/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+    "https://image.tmdb.org/t/p/w300/z0Hz9LIcAm8yhodffZhXuc0wK1M.jpg",
+    "https://image.tmdb.org/t/p/w300/zdIyydpZvtt5P3KD6wDof95D2uT.jpg",
+    "https://image.tmdb.org/t/p/w300/3ZfJcWicmh9vLGQ89CrExqpWMll.jpg",
+    "https://image.tmdb.org/t/p/w300/25b4voxZTZa8MlxvOv4ZSvV35RA.jpg",
+    "https://image.tmdb.org/t/p/w300/cjUBohZRBdEdWNahj3GVgdGhwk1.jpg",
+    "https://image.tmdb.org/t/p/w300/lapC41Ju3qjAcPOS9xwZoHaziUK.jpg"
+  ],
+  "similar": [],
+  "views": 16281,
+  "sources": [
+    "https://www.youtube.com/embed/vadCbBuUM0E?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/txqh1wb"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8129,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 8129,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false
+}
