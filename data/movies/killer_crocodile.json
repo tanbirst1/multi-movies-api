@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/killer-crocodile/",
+  "meta": {
+    "title": "Killer Crocodile",
+    "poster": "https://image.tmdb.org/t/p/w500/kK1JKRiR3j6JCpFGEwvCI0jrVJU.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Jul. 30, 1989",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "A group of environmentalists arrives at a faraway tropical delta where toxic waste is being dumped. However the water also hides a giant crocodile. The corrupt local officials don\u2019t help much either.",
+    "infoFields": {
+      "Original title": "Killer Crocodile",
+      "IMDb Rating": "4.7 1,734 votes",
+      "TMDb Rating": "5.4 45 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Fabrizio De Angelis",
+      "role": "Director",
+      "url": "https://multimovies.city/director/fabrizio-de-angelis/",
+      "image": "https://image.tmdb.org/t/p/w92/eC6crqKdJ4gCOqhfrOnrahjbAWJ.jpg"
+    },
+    {
+      "name": "Richard Anthony Crenna",
+      "role": "Kevin",
+      "url": "https://multimovies.city/cast/richard-anthony-crenna/",
+      "image": "https://image.tmdb.org/t/p/w92/rvFP9svUnaexxDg9xWsGEEYcHm9.jpg"
+    },
+    {
+      "name": "Ann Douglas",
+      "role": "Jennifer",
+      "url": "https://multimovies.city/cast/ann-douglas/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ennio Girolami",
+      "role": "Joe",
+      "url": "https://multimovies.city/cast/ennio-girolami/",
+      "image": "https://image.tmdb.org/t/p/w92/IaKRXO5ojklRArTPdVMFDIgiPf.jpg"
+    },
+    {
+      "name": "Bill Wohrman",
+      "role": "Foley",
+      "url": "https://multimovies.city/cast/bill-wohrman/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sherrie Rose",
+      "role": "Pamela",
+      "url": "https://multimovies.city/cast/sherrie-rose/",
+      "image": "https://image.tmdb.org/t/p/w92/7RRTbEcwe2MnjpvqMCZLOWimqkg.jpg"
+    },
+    {
+      "name": "Julian Hampton",
+      "role": "Mark",
+      "url": "https://multimovies.city/cast/julian-hampton/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Van Johnson",
+      "role": "Judge",
+      "url": "https://multimovies.city/cast/van-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/A6vw5kbdmyXDz1ddQOocJmg9TSc.jpg"
+    },
+    {
+      "name": "John Harper",
+      "role": "Bob",
+      "url": "https://multimovies.city/cast/john-harper/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Amilcar Martins",
+      "role": "Marte Amilcar",
+      "url": "https://multimovies.city/cast/amilcar-martins/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bydFWRsa2M7K2vj8JbtFxwtBg59.jpg",
+    "https://image.tmdb.org/t/p/w300/aTbXzP6Qg4OUwRtb0Fs9e3thwoR.jpg",
+    "https://image.tmdb.org/t/p/w300/24lCmp7g5f9Z7KLJ4RKkEnVku6G.jpg",
+    "https://image.tmdb.org/t/p/w300/mv4TVCGLspgAae3wSwvgHN0qGZE.jpg",
+    "https://image.tmdb.org/t/p/w300/8G3xEs0ycGKUPb7PyX2xuXS2EQs.jpg"
+  ],
+  "similar": [],
+  "views": 230,
+  "sources": [
+    "https://www.youtube.com/embed/559dVJXPnI8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/mzh6umq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 78286,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 78286,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
