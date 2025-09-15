@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/reservoir-dogs/",
+  "meta": {
+    "title": "Reservoir Dogs",
+    "poster": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 02, 1992",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors \u2014 veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie \u2014 unravel.",
+    "infoFields": {
+      "Original title": "Reservoir Dogs",
+      "IMDb Rating": "8.3 1,044,441 votes",
+      "TMDb Rating": "8.138 13,029 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Quentin Tarantino",
+      "role": "Director",
+      "url": "https://multimovies.city/director/quentin-tarantino/",
+      "image": "https://image.tmdb.org/t/p/w92/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg"
+    },
+    {
+      "name": "Harvey Keitel",
+      "role": "Mr. White / Larry Dimmick",
+      "url": "https://multimovies.city/cast/harvey-keitel/",
+      "image": "https://image.tmdb.org/t/p/w92/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "name": "Tim Roth",
+      "role": "Mr. Orange / Freddy Newandyke",
+      "url": "https://multimovies.city/cast/tim-roth/",
+      "image": "https://image.tmdb.org/t/p/w92/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+    },
+    {
+      "name": "Michael Madsen",
+      "role": "Mr. Blonde / Vic Vega",
+      "url": "https://multimovies.city/cast/michael-madsen/",
+      "image": "https://image.tmdb.org/t/p/w92/AnQm8pXVbMicr4U0IRsOascthVI.jpg"
+    },
+    {
+      "name": "Chris Penn",
+      "role": "\"Nice Guy\" Eddie Cabot",
+      "url": "https://multimovies.city/cast/chris-penn/",
+      "image": "https://image.tmdb.org/t/p/w92/9yvXUh10ZVSapGuem5daebveqR4.jpg"
+    },
+    {
+      "name": "Steve Buscemi",
+      "role": "Mr. Pink",
+      "url": "https://multimovies.city/cast/steve-buscemi/",
+      "image": "https://image.tmdb.org/t/p/w92/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg"
+    },
+    {
+      "name": "Lawrence Tierney",
+      "role": "Joe Cabot",
+      "url": "https://multimovies.city/cast/lawrence-tierney/",
+      "image": "https://image.tmdb.org/t/p/w92/crtpxUAnPrZFSrLjbsTUTdGn72W.jpg"
+    },
+    {
+      "name": "Randy Brooks",
+      "role": "Detective Holdaway",
+      "url": "https://multimovies.city/cast/randy-brooks/",
+      "image": "https://image.tmdb.org/t/p/w92/mSZl3TZZcrkfAlZT8IDX7iHF5EC.jpg"
+    },
+    {
+      "name": "Kirk Baltz",
+      "role": "Officer Marvin Nash",
+      "url": "https://multimovies.city/cast/kirk-baltz/",
+      "image": "https://image.tmdb.org/t/p/w92/8PkKnqLOjfWm33GFk2Azt7MvY2Q.jpg"
+    },
+    {
+      "name": "Edward Bunker",
+      "role": "Mr. Blue",
+      "url": "https://multimovies.city/cast/edward-bunker/",
+      "image": "https://image.tmdb.org/t/p/w92/or5afkJZ6wVCL9XWOxs7tjft2El.jpg"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "role": "Mr. Brown",
+      "url": "https://multimovies.city/cast/quentin-tarantino/",
+      "image": "https://image.tmdb.org/t/p/w92/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/jqFjgNnxpXIXWuPsyfqmcLXRo9p.jpg",
+    "https://image.tmdb.org/t/p/w300/A3ogA2088XaE1sMovlkY9wQ8BAV.jpg",
+    "https://image.tmdb.org/t/p/w300/7JQjyIhndLuQsBgAjT6fWeVtugh.jpg",
+    "https://image.tmdb.org/t/p/w300/g6R1OT7ETBLGLeUJOE0pOiAFHcI.jpg",
+    "https://image.tmdb.org/t/p/w300/xPMbNZwn1nQzc5fsjnhuu3fDndA.jpg",
+    "https://image.tmdb.org/t/p/w300/71LFvTyP6qvzB3EVm9UMZXj37kf.jpg",
+    "https://image.tmdb.org/t/p/w300/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
+    "https://image.tmdb.org/t/p/w300/oztneebJ4hne6Kz0pFpz4qmwjMu.jpg",
+    "https://image.tmdb.org/t/p/w300/t4FHFL6hckU9vohbqO2k7rYGWhF.jpg",
+    "https://image.tmdb.org/t/p/w300/up0wdTRwLjIvYytn6a0dBNnIV7B.jpg"
+  ],
+  "similar": [],
+  "views": 1160,
+  "sources": [
+    "https://www.youtube.com/embed/GLPJSmUHZvU?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/1xq3tsxtythk"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 22994,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 22994,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
