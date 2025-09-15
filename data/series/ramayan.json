@@ -1,0 +1,675 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/ramayan/",
+  "meta": {
+    "title": "Ramayan",
+    "poster": "https://image.tmdb.org/t/p/w500/gIOtRVKHHyPtyGPsLLhzhSYG1QF.jpg",
+    "networks": [
+      {
+        "name": "DD National",
+        "url": "https://multimovies.city/network/dd-national/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Disney Hotstar",
+        "url": "https://multimovies.city/genre/disney-hotstar/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Jun. 21, 1987",
+    "ratingValue": "10",
+    "ratingCount": "10",
+    "synopsis": "Ramayan is a highly successful and phenomenally popular Indian epic television series created, written, and directed by Ramanand Sagar. The 78 episode series originally aired weekly on Doordarshan from 25 January 1987, to 31 July 1988, on Sundays at 9:30 a.m. IST.It is a television adaptation of the ancient Indian Hindu religious epic of the same name and is primarily based on Valmiki\u2019s Ramayan and Tulsidas\u2019 Ramcharitmanas. It is also partly derived from portions of Kamban\u2019s Ramavataram and other works.",
+    "infoFields": {
+      "Original title": "\u0930\u093e\u092e\u093e\u092f\u0923",
+      "TMDb Rating": "8.5 18 votes",
+      "First air date": "Jun. 21, 1987",
+      "Last air date": "Dec. 11, 1988",
+      "Seasons": "1",
+      "Episodes": "79",
+      "Average Duration": "35 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Jun. 21, 198710",
+      "episodeCount": 50,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Birth of Rama",
+          "url": "https://multimovies.city/episodes/ramayan-1x1/",
+          "airDate": "Jun. 21, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/lf8rwigbzh5o"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Rama going to Gurukul",
+          "url": "https://multimovies.city/episodes/ramayan-1x2/",
+          "airDate": "Jun. 28, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/f2f915xxo2pd"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Continuing Gurukul",
+          "url": "https://multimovies.city/episodes/ramayan-1x3/",
+          "airDate": "Jul. 05, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://smoothpre.com/embed/tqmjyxp2pdlc"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Vishwamitra & Tadak Vatha",
+          "url": "https://multimovies.city/episodes/ramayan-1x4/",
+          "airDate": "Jul. 12, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/noh3gb7ruzdy"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Ganga Redemption of Ahilya",
+          "url": "https://multimovies.city/episodes/ramayan-1x5/",
+          "airDate": "Jul. 19, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/1d8s8gje0w36"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Ram meets Seetha",
+          "url": "https://multimovies.city/episodes/ramayan-1x6/",
+          "airDate": "Jul. 26, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/zexoii47hz8i"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Seetha Swayamvar",
+          "url": "https://multimovies.city/episodes/ramayan-1x7/",
+          "airDate": "Aug. 02, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/prvprbdiqapw"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Breaking of Shiv Dhanush, meeting of Parshuram",
+          "url": "https://multimovies.city/episodes/ramayan-1x8/",
+          "airDate": "Aug. 09, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/xg7ble3y5clc"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Marriage Preparation",
+          "url": "https://multimovies.city/episodes/ramayan-1x9/",
+          "airDate": "Aug. 16, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/jzvbuegpxyxh"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "Ram and Seetha Marriage",
+          "url": "https://multimovies.city/episodes/ramayan-1x10/",
+          "airDate": "Aug. 23, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/im8gk0gt4b4r"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Sita's arrival at Ayodhya",
+          "url": "https://multimovies.city/episodes/ramayan-1x11/",
+          "airDate": "Aug. 30, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://smoothpre.com/embed/pnpdvk0h0yla"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Discussion on Dasharatha's heir",
+          "url": "https://multimovies.city/episodes/ramayan-1x12/",
+          "airDate": "Sep. 06, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/mnafoc3xta0z"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Rajyabhishek",
+          "url": "https://multimovies.city/episodes/ramayan-1x13/",
+          "airDate": "Sep. 13, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/5b74pnz4u90t"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 14,
+          "title": "Kaikayee's request to fulfill two wishes",
+          "url": "https://multimovies.city/episodes/ramayan-1x14/",
+          "airDate": "Sep. 20, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/05yaksc7tzxq"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 15,
+          "title": "Preparing for the Journey to the Forest",
+          "url": "https://multimovies.city/episodes/ramayan-1x15/",
+          "airDate": "Sep. 27, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/y7n9nof4kgc6"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 16,
+          "title": "Journey to the forest",
+          "url": "https://multimovies.city/episodes/ramayan-1x16/",
+          "airDate": "Oct. 04, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/y6vud4zbbs0n"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 17,
+          "title": "Meeting with Nishad Raj",
+          "url": "https://multimovies.city/episodes/ramayan-1x17/",
+          "airDate": "Oct. 11, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://smoothpre.com/embed/zclkanoqmxb0"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 18,
+          "title": "Crossing Ganga River",
+          "url": "https://multimovies.city/episodes/ramayan-1x18/",
+          "airDate": "Oct. 18, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/8p1c84lc88u8"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 19,
+          "title": "Arriving at Valmiki's ashram",
+          "url": "https://multimovies.city/episodes/ramayan-1x19/",
+          "airDate": "Oct. 25, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/d6bvqx9davgq"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 20,
+          "title": "King Dasharath's Death",
+          "url": "https://multimovies.city/episodes/ramayan-1x20/",
+          "airDate": "Nov. 01, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/vh9c73obd8b0"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 21,
+          "title": "Bharath & Kaikeyi's discussion",
+          "url": "https://multimovies.city/episodes/ramayan-1x21/",
+          "airDate": "Nov. 08, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/ic6flwl9xyq2"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 22,
+          "title": "Bharath rejects to become King",
+          "url": "https://multimovies.city/episodes/ramayan-1x22/",
+          "airDate": "Nov. 15, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/dt_backdrop.png",
+          "sources": [
+            "https://smoothpre.com/embed/6znj1ft958ec"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 23,
+          "title": "Bharath & Shatrughan go to meet Rama",
+          "url": "https://multimovies.city/episodes/ramayan-1x23/",
+          "airDate": "Nov. 22, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/7abpv2l0v0or"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 24,
+          "title": "Bharath meets Rama",
+          "url": "https://multimovies.city/episodes/ramayan-1x24/",
+          "airDate": "Nov. 29, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/oxbw0ima2cn7"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 25,
+          "title": "Bharath returns to Ayodhya with Ramas Shoes",
+          "url": "https://multimovies.city/episodes/ramayan-1x25/",
+          "airDate": "Dec. 06, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/g1iixpf8yh65"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 26,
+          "title": "Ramas Shoes installed on the throne of Ayodhya",
+          "url": "https://multimovies.city/episodes/ramayan-1x26/",
+          "airDate": "Dec. 13, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/ltr6hovsjt5n"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 27,
+          "title": "Episode 27",
+          "url": "https://multimovies.city/episodes/ramayan-1x27/",
+          "airDate": "Dec. 20, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/4s2bg5ggpupm"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 28,
+          "title": "Episode 28",
+          "url": "https://multimovies.city/episodes/ramayan-1x28/",
+          "airDate": "Dec. 27, 1987",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/8cy0zoccqx6s"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 29,
+          "title": "First meeting with Jatayu, Sita in Panchavadi",
+          "url": "https://multimovies.city/episodes/ramayan-1x29/",
+          "airDate": "Jan. 03, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/nofdzmqlncgw"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 30,
+          "title": "Shurpanaka Encounter",
+          "url": "https://multimovies.city/episodes/ramayan-1x30/",
+          "airDate": "Jan. 10, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/r5jxdqqny74e"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 31,
+          "title": "Kidnap Plan by Raavan",
+          "url": "https://multimovies.city/episodes/ramayan-1x31/",
+          "airDate": "Jan. 17, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/2nt3hno6zdii"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 32,
+          "title": "Episode 32",
+          "url": "https://multimovies.city/episodes/ramayan-1x32/",
+          "airDate": "Jan. 24, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/pvvt8nsrx4rc"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 33,
+          "title": "Episode 33",
+          "url": "https://multimovies.city/episodes/ramayan-1x33/",
+          "airDate": "Jan. 31, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/r866iro8n5qs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 34,
+          "title": "Episode 34",
+          "url": "https://multimovies.city/episodes/ramayan-1x34/",
+          "airDate": "Feb. 07, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/aibaw9bp5bpv"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 35,
+          "title": "Episode 35",
+          "url": "https://multimovies.city/episodes/ramayan-1x35/",
+          "airDate": "Feb. 14, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/dhk2jvythk2l"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 36,
+          "title": "Episode 36",
+          "url": "https://multimovies.city/episodes/ramayan-1x36/",
+          "airDate": "Feb. 21, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/o658nzo085dw"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 37,
+          "title": "Episode 37",
+          "url": "https://multimovies.city/episodes/ramayan-1x37/",
+          "airDate": "Feb. 28, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/me2k0kkfuk99"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 38,
+          "title": "Episode 38",
+          "url": "https://multimovies.city/episodes/ramayan-1x38/",
+          "airDate": "Mar. 06, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/v01syja7n175"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 39,
+          "title": "Episode 39",
+          "url": "https://multimovies.city/episodes/ramayan-1x39/",
+          "airDate": "Mar. 13, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/qw5eta9lj9bc"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 40,
+          "title": "Episode 40",
+          "url": "https://multimovies.city/episodes/ramayan-1x40/",
+          "airDate": "Mar. 20, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/qxqdig1ef8f4"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 41,
+          "title": "Episode 41",
+          "url": "https://multimovies.city/episodes/ramayan-1x41/",
+          "airDate": "Mar. 27, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/q2u56ddhb9jc"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 42,
+          "title": "Episode 42",
+          "url": "https://multimovies.city/episodes/ramayan-1x42/",
+          "airDate": "Apr. 03, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/4dz1gpkrukof"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 43,
+          "title": "Episode 43",
+          "url": "https://multimovies.city/episodes/ramayan-1x43/",
+          "airDate": "Apr. 10, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/c64fuvn5nhn5"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 44,
+          "title": "Episode 44",
+          "url": "https://multimovies.city/episodes/ramayan-1x44/",
+          "airDate": "Apr. 17, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/d1yp7nc6li76"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 45,
+          "title": "Episode 45",
+          "url": "https://multimovies.city/episodes/ramayan-1x45/",
+          "airDate": "Apr. 24, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/w2ydgxjl3w85"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 46,
+          "title": "Episode 46",
+          "url": "https://multimovies.city/episodes/ramayan-1x46/",
+          "airDate": "May. 01, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/yeq9ymgaennz"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 47,
+          "title": "Episode 47",
+          "url": "https://multimovies.city/episodes/ramayan-1x47/",
+          "airDate": "May. 08, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/l7giip7ozupm"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 48,
+          "title": "Episode 48",
+          "url": "https://multimovies.city/episodes/ramayan-1x48/",
+          "airDate": "May. 15, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/y28bdjwjpp2m"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 49,
+          "title": "Episode 49",
+          "url": "https://multimovies.city/episodes/ramayan-1x49/",
+          "airDate": "May. 22, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/0nlxeu2pyq5d"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 50,
+          "title": "Episode 50",
+          "url": "https://multimovies.city/episodes/ramayan-1x50/",
+          "airDate": "May. 29, 1988",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/04/aHVPmbjPFCg9FHnofFKZ5DZuFq7.jpg",
+          "sources": [
+            "https://smoothpre.com/embed/qel2uzrrc9sm"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ramanand Sagar",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/ramanand-sagar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Arun Govil",
+      "role": "Ram",
+      "url": "https://multimovies.city/cast/arun-govil/",
+      "image": "https://image.tmdb.org/t/p/w92/xgefRNWurCiwyLSlpnDGgfMIF7H.jpg"
+    },
+    {
+      "name": "Dara Singh",
+      "role": "Hanuman",
+      "url": "https://multimovies.city/cast/dara-singh/",
+      "image": "https://image.tmdb.org/t/p/w92/5hWcqAuzHW4tTjdikPUoyk1cb3d.jpg"
+    },
+    {
+      "name": "Lalita Pawar",
+      "role": "",
+      "url": "https://multimovies.city/cast/lalita-pawar/",
+      "image": "https://image.tmdb.org/t/p/w92/ba24aHL4LCkjLTC0RiJNzeaQfCp.jpg"
+    },
+    {
+      "name": "Sunil Lahri",
+      "role": "Laxman",
+      "url": "https://multimovies.city/cast/sunil-lahri/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Arvind Trivedi",
+      "role": "Ravan",
+      "url": "https://multimovies.city/cast/arvind-trivedi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Deepika Chikhalia",
+      "role": "Sita",
+      "url": "https://multimovies.city/cast/deepika-chikhalia/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sameer Rajda",
+      "role": "",
+      "url": "https://multimovies.city/cast/sameer-rajda/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Mulraj Rajda",
+      "role": "Janak",
+      "url": "https://multimovies.city/cast/mulraj-rajda/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Rajnibala",
+      "role": "",
+      "url": "https://multimovies.city/cast/rajnibala/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sanjay Jog",
+      "role": "Bharat",
+      "url": "https://multimovies.city/cast/sanjay-jog/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "cache": false
+}
