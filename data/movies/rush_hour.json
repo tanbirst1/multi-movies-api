@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rush-hour/",
+  "meta": {
+    "title": "Rush Hour",
+    "poster": "https://image.tmdb.org/t/p/w500/we7wOLVFgxhzLzUt0qNe50xdIQZ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Sep. 18, 1998",
+    "ratingValue": "9.1",
+    "ratingCount": "8",
+    "synopsis": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn\u2019t want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
+    "infoFields": {
+      "Original title": "Rush Hour",
+      "IMDb Rating": "7 277,776 votes",
+      "TMDb Rating": "7.001 4,155 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Terry Leonard",
+      "role": "Director",
+      "url": "https://multimovies.city/director/terry-leonard/",
+      "image": "https://image.tmdb.org/t/p/w92/iRejgxxjuMXfLLYHXGCInX288B.jpg"
+    },
+    {
+      "name": "Jackie Chan",
+      "role": "Lee",
+      "url": "https://multimovies.city/cast/jackie-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "name": "Chris Tucker",
+      "role": "Carter",
+      "url": "https://multimovies.city/cast/chris-tucker/",
+      "image": "https://image.tmdb.org/t/p/w92/f3oQKRJEGjK8Yc4qSMrD5P9oYbg.jpg"
+    },
+    {
+      "name": "Tom Wilkinson",
+      "role": "Griffin / Juntao",
+      "url": "https://multimovies.city/cast/tom-wilkinson/",
+      "image": "https://image.tmdb.org/t/p/w92/d5yLk0PK8q7EKR3E3G2txO758IW.jpg"
+    },
+    {
+      "name": "Philip Baker Hall",
+      "role": "Captain Diel",
+      "url": "https://multimovies.city/cast/philip-baker-hall/",
+      "image": "https://image.tmdb.org/t/p/w92/mC1wmuGSCyIQ7ABkfRe1jJV1FGV.jpg"
+    },
+    {
+      "name": "Elizabeth Pe\u00f1a",
+      "role": "Johnson",
+      "url": "https://multimovies.city/cast/elizabeth-pena/",
+      "image": "https://image.tmdb.org/t/p/w92/uyUrPmtbwiGFOq8pIfYVQYgmBmK.jpg"
+    },
+    {
+      "name": "Chris Penn",
+      "role": "Clive",
+      "url": "https://multimovies.city/cast/chris-penn/",
+      "image": "https://image.tmdb.org/t/p/w92/9yvXUh10ZVSapGuem5daebveqR4.jpg"
+    },
+    {
+      "name": "Mark Rolston",
+      "role": "Agent Russ",
+      "url": "https://multimovies.city/cast/mark-rolston/",
+      "image": "https://image.tmdb.org/t/p/w92/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+    },
+    {
+      "name": "Tzi Ma",
+      "role": "Consul Han",
+      "url": "https://multimovies.city/cast/tzi-ma/",
+      "image": "https://image.tmdb.org/t/p/w92/x4fz0LCIiBNGdil3nBYO22W7QJ0.jpg"
+    },
+    {
+      "name": "Rex Linn",
+      "role": "Agent Whitney",
+      "url": "https://multimovies.city/cast/rex-linn/",
+      "image": "https://image.tmdb.org/t/p/w92/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg"
+    },
+    {
+      "name": "Ken Leung",
+      "role": "Sang",
+      "url": "https://multimovies.city/cast/ken-leung/",
+      "image": "https://image.tmdb.org/t/p/w92/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/r4yFYBEcV247B9VXi1307fIhVqN.jpg",
+    "https://image.tmdb.org/t/p/w300/lJmvLPKkXkIGSSRnAIpnvBPyYxY.jpg",
+    "https://image.tmdb.org/t/p/w300/4nMEI2ANe3YB22u18xbHXZOLVIy.jpg",
+    "https://image.tmdb.org/t/p/w300/ivGXj9i01x5FECAikQkP4X5ojmY.jpg",
+    "https://image.tmdb.org/t/p/w300/2kSgmFpvHaktkNFwf9a5zyFRtLs.jpg",
+    "https://image.tmdb.org/t/p/w300/vmVOHyqY54ip98Rg2RTJxkBRttf.jpg",
+    "https://image.tmdb.org/t/p/w300/sIylU0TAE2jd9PXqUvLRmWjFYgu.jpg",
+    "https://image.tmdb.org/t/p/w300/cZanXUhEaPTp63xDX3PSNlydAci.jpg",
+    "https://image.tmdb.org/t/p/w300/9WRo6c9fwuguTBCw71KU2etJp2O.jpg",
+    "https://image.tmdb.org/t/p/w300/7j7IrTHT1pJaVsIJjsGVSNxUPhY.jpg"
+  ],
+  "similar": [],
+  "views": 14161,
+  "sources": [
+    "https://www.youtube.com/embed/jMiJykxkysc?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/3itruhge2zg1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5659,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5659,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
