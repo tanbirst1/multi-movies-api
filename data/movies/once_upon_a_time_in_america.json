@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/once-upon-a-time-in-america/",
+  "meta": {
+    "title": "Once Upon a Time in America",
+    "poster": "https://image.tmdb.org/t/p/w500/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "May. 23, 1984",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+    "infoFields": {
+      "Original title": "Once Upon a Time in America",
+      "TMDb Rating": "8.439 4,695 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sergio Leone",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sergio-leone/",
+      "image": "https://image.tmdb.org/t/p/w92/2576qoW8l9Z1nKGM10ar60aIwUu.jpg"
+    },
+    {
+      "name": "Robert De Niro",
+      "role": "David 'Noodles' Aaronson",
+      "url": "https://multimovies.city/cast/robert-de-niro/",
+      "image": "https://image.tmdb.org/t/p/w92/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "name": "James Woods",
+      "role": "Maximilian 'Max' Bercovicz",
+      "url": "https://multimovies.city/cast/james-woods/",
+      "image": "https://image.tmdb.org/t/p/w92/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg"
+    },
+    {
+      "name": "Elizabeth McGovern",
+      "role": "Deborah Gelly",
+      "url": "https://multimovies.city/cast/elizabeth-mcgovern/",
+      "image": "https://image.tmdb.org/t/p/w92/ihYdCKyr3JPz74tPuvkn1WSNh9b.jpg"
+    },
+    {
+      "name": "Joe Pesci",
+      "role": "Frankie Monaldi",
+      "url": "https://multimovies.city/cast/joe-pesci/",
+      "image": "https://image.tmdb.org/t/p/w92/4AO0Rwdg2ky8Usmgzgj0dvhy7Zw.jpg"
+    },
+    {
+      "name": "Burt Young",
+      "role": "Joe",
+      "url": "https://multimovies.city/cast/burt-young/",
+      "image": "https://image.tmdb.org/t/p/w92/po3D7HKkMhoNkBMcIKpxjWzjoF.jpg"
+    },
+    {
+      "name": "Tuesday Weld",
+      "role": "Carol",
+      "url": "https://multimovies.city/cast/tuesday-weld/",
+      "image": "https://image.tmdb.org/t/p/w92/tGnitvqumkoHxYoh0a6HtRdQ5HY.jpg"
+    },
+    {
+      "name": "Treat Williams",
+      "role": "James Conway O'Donnell",
+      "url": "https://multimovies.city/cast/treat-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/jbRMOU2K7ePg7Zs59nfgEYLeD1e.jpg"
+    },
+    {
+      "name": "Jennifer Connelly",
+      "role": "Young Deborah",
+      "url": "https://multimovies.city/cast/jennifer-connelly/",
+      "image": "https://image.tmdb.org/t/p/w92/p17ymzw1sb9eo2SOp88jnwyryan.jpg"
+    },
+    {
+      "name": "Danny Aiello",
+      "role": "Police Chief Vincent Aiello",
+      "url": "https://multimovies.city/cast/danny-aiello/",
+      "image": "https://image.tmdb.org/t/p/w92/e7Q6hgWilShqGZ572ByWF9eshMm.jpg"
+    },
+    {
+      "name": "Richard Bright",
+      "role": "Chicken Joe",
+      "url": "https://multimovies.city/cast/richard-bright/",
+      "image": "https://image.tmdb.org/t/p/w92/b1ak2kPYUwBAYgD1yi50tz8BZ7J.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kZLiern9uHe0m2Ri5mUUrPu4dbG.jpg",
+    "https://image.tmdb.org/t/p/w300/uPYa165sraN2c8gZBM9C47g3JoU.jpg",
+    "https://image.tmdb.org/t/p/w300/z0XlOZihjhiWNFzgmtZ0z9AC3w9.jpg",
+    "https://image.tmdb.org/t/p/w300/jSy5yfOWXeazRWGr9JeGvHJf4q6.jpg",
+    "https://image.tmdb.org/t/p/w300/6J0sBM6ZaoWZJ1gYeWp6w5q5Kyp.jpg",
+    "https://image.tmdb.org/t/p/w300/87ed8FuQx5tGowbOMs2zOxLAf5p.jpg",
+    "https://image.tmdb.org/t/p/w300/gUdk0FMw38DSUqpnLLHCAWN60he.jpg",
+    "https://image.tmdb.org/t/p/w300/rO4pfAIIrt3N905wTTe2HrH3uUv.jpg",
+    "https://image.tmdb.org/t/p/w300/z1s7ASlypXYGeMLoJ2Np4CpWdzd.jpg",
+    "https://image.tmdb.org/t/p/w300/hW7K0B5Yr3v499SrWQO71ShGtWa.jpg"
+  ],
+  "similar": [],
+  "views": 2426,
+  "sources": [
+    "https://www.youtube.com/embed/_gdEuuxW-zk?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/5snyy0ug0v3e"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20850,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 20850,
+      "nume": 1,
+      "title": "g"
+    }
+  ],
+  "cache": false
+}
