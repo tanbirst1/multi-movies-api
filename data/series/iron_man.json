@@ -1,0 +1,390 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/iron-man/",
+  "meta": {
+    "title": "Iron Man",
+    "poster": "https://image.tmdb.org/t/p/w500/nTQWWH6CFtl37x1nPx8HRwbwvGn.jpg",
+    "networks": [
+      {
+        "name": "Syndication",
+        "url": "https://multimovies.city/network/syndication/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Disney XD",
+        "url": "https://multimovies.city/genre/disney-xd/"
+      },
+      {
+        "name": "Sci-Fi & Fantasy",
+        "url": "https://multimovies.city/genre/sci-fi-fantasy/"
+      }
+    ],
+    "firstAirDate": "Sep. 24, 1994",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Industrialist Tony Stark leads a private team of superheroes as Iron Man against the forces of evil.",
+    "infoFields": {
+      "Original title": "Iron Man",
+      "TMDb Rating": "6.756 82 votes",
+      "First air date": "Sep. 24, 1994",
+      "Last air date": "Feb. 24, 1996",
+      "Seasons": "2",
+      "Episodes": "26",
+      "Average Duration": "22 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Sep. 24, 1994",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "And the Sea Shall Give Up Its Dead",
+          "url": "https://multimovies.city/episodes/iron-man-1x1/",
+          "airDate": "Sep. 24, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/A38mzAqQPYy8SmTaQ2JIAwPHTAB.jpg",
+          "sources": [
+            "https://multimovies.website/e/dvfcq8b0m4kd.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Rejoice! I Am Ultimo, Thy Deliverer",
+          "url": "https://multimovies.city/episodes/iron-man-1x2/",
+          "airDate": "Oct. 01, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/b5VkwOJTtgY0R32kiYRMjemHg9x.jpg",
+          "sources": [
+            "https://multimovies.website/e/87w3uxgkqiy8.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Data In Chaos Out",
+          "url": "https://multimovies.city/episodes/iron-man-1x3/",
+          "airDate": "Oct. 08, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/yv6UfjjM47NpDzVTeqdNGgJfXJO.jpg",
+          "sources": [
+            "https://multimovies.website/e/gneitznhfick.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Silence My Companion, Death My Destination",
+          "url": "https://multimovies.city/episodes/iron-man-1x4/",
+          "airDate": "Oct. 15, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/sITZGBwVhalq4mmJvodPs99r1Fm.jpg",
+          "sources": [
+            "https://multimovies.website/e/magoi43sv6ld.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "The Grim Reaper Wears a Teflon Coat",
+          "url": "https://multimovies.city/episodes/iron-man-1x5/",
+          "airDate": "Oct. 22, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/uqO4tUgPmZrU1ocvqdb0ImCTNvh.jpg",
+          "sources": [
+            "https://multimovies.website/e/mm6abefbh8p6.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Enemy Without, Enemy Within",
+          "url": "https://multimovies.city/episodes/iron-man-1x6/",
+          "airDate": "Oct. 29, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/fzwPAYqyvPlRdhbZL9NVPquucQB.jpg",
+          "sources": [
+            "https://multimovies.website/e/1lkrcvj5rl4n.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "The Origin of the Mandarin",
+          "url": "https://multimovies.city/episodes/iron-man-1x7/",
+          "airDate": "Nov. 05, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/42FHWMB20bqGT1WzLTpCRMhFkCw.jpg",
+          "sources": [
+            "https://multimovies.website/e/kc386rmzbpc6.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "The Defection of Hawkeye",
+          "url": "https://multimovies.city/episodes/iron-man-1x8/",
+          "airDate": "Nov. 12, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/iZPcxHlH9ZPPZChQX6UWLZtVJtM.jpg",
+          "sources": [
+            "https://multimovies.website/e/xckjbzl74lua.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Iron Man to the Second Power (Part 1)",
+          "url": "https://multimovies.city/episodes/iron-man-1x9/",
+          "airDate": "Nov. 19, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/fosQQ7roJzu4zlQVMldHQoa22dC.jpg",
+          "sources": [
+            "https://multimovies.website/e/rs6tss1115t2.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "Iron Man to the Second Power (Part 2)",
+          "url": "https://multimovies.city/episodes/iron-man-1x10/",
+          "airDate": "Nov. 26, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/bA48CUH0XrIJnaa5Loq0qbNtlh5.jpg",
+          "sources": [
+            "https://multimovies.website/e/xv5zw5pzqpu3.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "The Origin of Iron Man (Part 1)",
+          "url": "https://multimovies.city/episodes/iron-man-1x11/",
+          "airDate": "Dec. 03, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/oA4xzRWHiXqvMwoJ6xEqFQRIV6O.jpg",
+          "sources": [
+            "https://multimovies.website/e/0hzsntbtmtgz.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "The Origin of Iron Man (Part 2)",
+          "url": "https://multimovies.city/episodes/iron-man-1x12/",
+          "airDate": "Dec. 10, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/smKZrp8fbuOGMP5bUZ5HqrUdjpQ.jpg",
+          "sources": [
+            "https://multimovies.website/e/1x74tqgapuu4.html"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "The Wedding of Iron Man",
+          "url": "https://multimovies.city/episodes/iron-man-1x13/",
+          "airDate": "Dec. 17, 1994",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/kHPuXrfwDbS7aUip5aQBTn1ANEt.jpg",
+          "sources": [
+            "https://multimovies.website/e/62gvl6f6x9s1.html"
+          ]
+        }
+      ]
+    },
+    {
+      "seasonNumber": 2,
+      "seasonTitle": "Season 2 Sep. 23, 1995",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 2,
+          "episodeNo": 1,
+          "title": "The Beast Within",
+          "url": "https://multimovies.city/episodes/iron-man-2x1/",
+          "airDate": "Sep. 23, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/oBbYyEVrDaujFotEz7u8e9z2CHP.jpg",
+          "sources": [
+            "https://multimovies.website/e/ih9gwd1ucai6.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 2,
+          "title": "Fire and Rain",
+          "url": "https://multimovies.city/episodes/iron-man-2x2/",
+          "airDate": "Sep. 30, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/goLfMQUkpBMo6TsZUehp56BaiQH.jpg",
+          "sources": [
+            "https://multimovies.website/e/c26rbiurzfcn.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 3,
+          "title": "Cell of Iron",
+          "url": "https://multimovies.city/episodes/iron-man-2x3/",
+          "airDate": "Oct. 07, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/jpxcWOIaZKQhpb8f2il6CbINFFq.jpg",
+          "sources": [
+            "https://multimovies.website/e/lptj0cax5561.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 4,
+          "title": "Not Far from the Tree",
+          "url": "https://multimovies.city/episodes/iron-man-2x4/",
+          "airDate": "Oct. 14, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/twlBGmxJqx5Z2ESmjBiCGMsyItv.jpg",
+          "sources": [
+            "https://multimovies.website/e/ji3qadglzq1q.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 5,
+          "title": "Beauty Knows No Pain",
+          "url": "https://multimovies.city/episodes/iron-man-2x5/",
+          "airDate": "Oct. 21, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/b0jRtSTS8VbcXI0ehuHqMtr4ld.jpg",
+          "sources": [
+            "https://multimovies.website/e/f0wnap0srt1l.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 6,
+          "title": "Iron Man, on the Inside",
+          "url": "https://multimovies.city/episodes/iron-man-2x6/",
+          "airDate": "Nov. 04, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/bEMkI6Ipb4WBQ0BCa6w5G8vuLsa.jpg",
+          "sources": [
+            "https://multimovies.website/e/00h7zm3jr7hg.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 7,
+          "title": "Distant Boundaries",
+          "url": "https://multimovies.city/episodes/iron-man-2x7/",
+          "airDate": "Nov. 11, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/gJF1UaxMHj6K3ljQ8g0WyoFL7h0.jpg",
+          "sources": [
+            "https://multimovies.website/e/145h24jyucyc.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 8,
+          "title": "The Armor Wars (Part 1)",
+          "url": "https://multimovies.city/episodes/iron-man-2x8/",
+          "airDate": "Nov. 18, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/eC1ciGRUFq51aCrB7jfdglxcNB5.jpg",
+          "sources": [
+            "https://multimovies.website/e/uebu0vy4t48r.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 9,
+          "title": "The Armor Wars (Part 2)",
+          "url": "https://multimovies.city/episodes/iron-man-2x9/",
+          "airDate": "Nov. 25, 1995",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/xp8XHSLPacAFjbfV7qMB1nmblCL.jpg",
+          "sources": [
+            "https://multimovies.website/e/rx55rkz12eyt.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 10,
+          "title": "Empowered",
+          "url": "https://multimovies.city/episodes/iron-man-2x10/",
+          "airDate": "Feb. 03, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/dWsAxsRJueiiG7xc6mmYsRh09jY.jpg",
+          "sources": [
+            "https://multimovies.website/e/3143vt457rd1.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 11,
+          "title": "Hulk Buster",
+          "url": "https://multimovies.city/episodes/iron-man-2x11/",
+          "airDate": "Feb. 10, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/sraOHpoJy7ZkJi5tF2i5veUST4B.jpg",
+          "sources": [
+            "https://multimovies.website/e/ax2grsf162py.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 12,
+          "title": "Hands of the Mandarin (Part 1)",
+          "url": "https://multimovies.city/episodes/iron-man-2x12/",
+          "airDate": "Feb. 17, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/ygXEnuc2nBCIDzDKYmvhDuhzv8y.jpg",
+          "sources": [
+            "https://multimovies.website/e/0ok2r9ffwyv8.html"
+          ]
+        },
+        {
+          "seasonNo": 2,
+          "episodeNo": 13,
+          "title": "Hands of the Mandarin (Part 2)",
+          "url": "https://multimovies.city/episodes/iron-man-2x13/",
+          "airDate": "Feb. 24, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/fxqEJKAImUK7xgaIu4ZS4PsaktT.jpg",
+          "sources": [
+            "https://multimovies.website/e/1myeug8g5ebm.html"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robert Hays",
+      "role": "Iron Man (voice)",
+      "url": "https://multimovies.city/cast/robert-hays/",
+      "image": "https://image.tmdb.org/t/p/w92/qbfxPYo5eAsO8LGkOPei4o4SH92.jpg"
+    },
+    {
+      "name": "Dorian Harewood",
+      "role": "War Machine (voice)",
+      "url": "https://multimovies.city/cast/dorian-harewood/",
+      "image": "https://image.tmdb.org/t/p/w92/j3Nc0uNpe3MkonLtOrzVegO22QO.jpg"
+    },
+    {
+      "name": "Jennifer Hale",
+      "role": "Spider-Woman (voice)",
+      "url": "https://multimovies.city/cast/jennifer-hale/",
+      "image": "https://image.tmdb.org/t/p/w92/oNQCrdiSm0mABCcE5YaHwuZQK8X.jpg"
+    },
+    {
+      "name": "Robert Ito",
+      "role": "The Mandarin (voice)",
+      "url": "https://multimovies.city/cast/robert-ito/",
+      "image": "https://image.tmdb.org/t/p/w92/9QDa4UAvCWlNyzPP2exAHDcsN5g.jpg"
+    },
+    {
+      "name": "Tom Kane",
+      "role": "H.O.M.E.R.",
+      "url": "https://multimovies.city/cast/tom-kane/",
+      "image": "https://image.tmdb.org/t/p/w92/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ijOzFQw37jjfZdG1zproCkO6oue.jpg",
+    "https://image.tmdb.org/t/p/w300/1TEtxOmlYQ5zvwyZrDWjSred89P.jpg",
+    "https://image.tmdb.org/t/p/w300/cozT8RWms77H1yXhorYAq73WqPw.jpg",
+    "https://image.tmdb.org/t/p/w300/LWplIfKa36pZSOEaPAiHXrPcFu.jpg",
+    "https://image.tmdb.org/t/p/w300/r2Aw1IsetA6PljXyTnKQEFqftom.jpg",
+    "https://image.tmdb.org/t/p/w300/mYkJh7vWL4faJ1KAhCFpjan8pZC.jpg",
+    "https://image.tmdb.org/t/p/w300/dLlymUGv7SonWkvPJAr3peh4uCj.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
