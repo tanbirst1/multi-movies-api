@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/mahaan/",
+  "meta": {
+    "title": "Mahaan",
+    "poster": "https://image.tmdb.org/t/p/w500/3BbzaLVBknTBpaV0ckr1Dwu2Jdf.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      }
+    ],
+    "firstAirDate": "Aug. 12, 1983",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "A lawyer goes into hiding after being falsely accused of committing a crime, while his wife gives birth to twins. Years later, fate reunites the family under difficult circumstances. Amitabh Bachchan in his only triple role as father with twin sons.",
+    "infoFields": {
+      "Original title": "Mahaan",
+      "IMDb Rating": "6 487 votes",
+      "TMDb Rating": "6.5 2 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "S. Ramanathan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/s-ramanathan/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Amit / Rana Ranveer",
+      "url": "https://multimovies.city/cast/amitabh-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/yAvq3EG5W5WaegZHB7gNdlM2KED.jpg"
+    },
+    {
+      "name": "Amjad Khan",
+      "role": "Vikram Singh",
+      "url": "https://multimovies.city/cast/amjad-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/52s7Cbukn505Bo0JzLdurF8RXb.jpg"
+    },
+    {
+      "name": "Parveen Babi",
+      "role": "Manju",
+      "url": "https://multimovies.city/cast/parveen-babi/",
+      "image": "https://image.tmdb.org/t/p/w92/euyz7d7NU2CjB7rHS9afeJBzeX0.jpg"
+    },
+    {
+      "name": "Zeenat Aman",
+      "role": "Rita",
+      "url": "https://multimovies.city/cast/zeenat-aman/",
+      "image": "https://image.tmdb.org/t/p/w92/44wkiANzRe01AcelcYcXMQS0K8F.jpg"
+    },
+    {
+      "name": "Ashok Kumar",
+      "role": "Rai",
+      "url": "https://multimovies.city/cast/ashok-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/qgGxN6haBTelGteikmDrGFixadV.jpg"
+    },
+    {
+      "name": "Waheeda Rehman",
+      "role": "Janaki",
+      "url": "https://multimovies.city/cast/waheeda-rehman/",
+      "image": "https://image.tmdb.org/t/p/w92/o2GvpNWpArOZU5C9FBqo7WwnMYx.jpg"
+    },
+    {
+      "name": "Shakti Kapoor",
+      "role": "Prem",
+      "url": "https://multimovies.city/cast/shakti-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/a7LjjoGOhUXXXLsVZlSjjAx8BoW.jpg"
+    },
+    {
+      "name": "Aruna Irani",
+      "role": "Tara",
+      "url": "https://multimovies.city/cast/aruna-irani/",
+      "image": "https://image.tmdb.org/t/p/w92/opwljyDvJyxW6ZmC3Ao6lNCQi0r.jpg"
+    },
+    {
+      "name": "Sujit Kumar",
+      "role": "Rajan",
+      "url": "https://multimovies.city/cast/sujit-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/fEYuewE7qp5kFiSJD1oDulVDO8i.jpg"
+    },
+    {
+      "name": "Mac Mohan",
+      "role": "Mac",
+      "url": "https://multimovies.city/cast/mac-mohan/",
+      "image": "https://image.tmdb.org/t/p/w92/uGoDyTRLHrmGaQY9qJ6SdAmOTSa.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 586,
+  "sources": [
+    "https://multimoviesshg.com/e/552neh6bxfka"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6946,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
