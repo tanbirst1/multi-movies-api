@@ -1,0 +1,225 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/superman-the-animated-series/",
+  "meta": {
+    "title": "Superman: The Animated Series",
+    "poster": "https://image.tmdb.org/t/p/w500/7lhG7XSz0VkbUtXoXtUVdjDrUx6.jpg",
+    "networks": [
+      {
+        "name": "The WB",
+        "url": "https://multimovies.city/network/the-wb/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Sci-Fi & Fantasy",
+        "url": "https://multimovies.city/genre/sci-fi-fantasy/"
+      }
+    ],
+    "firstAirDate": "Sep. 06, 1996",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Superman, an incredibly powerful alien from the planet Krypton, defends Metropolis from supercriminals. Superman hides his identity behind the glasses of Clark Kent; a mild-mannered reporter for the newspaper the Daily Planet. At the Daily Planet Superman works with fellow reporter Lois Lane and photographer Jimmy Olsen.",
+    "infoFields": {
+      "Original title": "Superman: The Animated Series",
+      "TMDb Rating": "7.6 283 votes",
+      "First air date": "Sep. 06, 1996",
+      "Last air date": "Feb. 12, 2000",
+      "Seasons": "3",
+      "Episodes": "54",
+      "Average Duration": "21 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Sep. 06, 1996",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "The Last Son of Krypton (1)",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x1/",
+          "airDate": "Sep. 06, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/crwp0Ysp9If8YNoi9GMjYnHGJ7y.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/nbupgaznqhen"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "The Last Son of Krypton (2)",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x2/",
+          "airDate": "Sep. 06, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/13tkOWqQOVAC8oH5ReaOKhiPynp.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/iobhlagmja4l"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "The Last Son of Krypton (3)",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x3/",
+          "airDate": "Sep. 06, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/chj87tGXZc6DJ5eQyRb2S5D0Oc7.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/kqacmj4fw6do"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Fun and Games",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x4/",
+          "airDate": "Sep. 07, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/zBxgIfpcs9TGmW8NKlumUI4h4Qb.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/7qumki9fy8eu"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "A Little Piece of Home",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x5/",
+          "airDate": "Sep. 14, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/tWhiV5z2zpOnXyYhd3qxai6P5xD.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/dg5gnf9hap3a"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Feeding Time",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x6/",
+          "airDate": "Sep. 21, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/uzLRZnOq2LqUerVvnl0NMv4EXXz.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/nprxc5gw2tsm"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "The Way of All Flesh",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x7/",
+          "airDate": "Oct. 19, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/g4pDtHx36LoBQGywU3wD1evocc4.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/4xrxbwejaiun"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Stolen Memories",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x8/",
+          "airDate": "Nov. 02, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/1PPb032RUxaamrq0gL2TuSyMueN.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/apgerkdrxp11"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "The Main Man (1)",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x9/",
+          "airDate": "Nov. 09, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/qw7ud2AWCMYfVFgleesOKgSjLT0.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/7e3ovhffwzpp"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "The Main Man (2)",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x10/",
+          "airDate": "Nov. 16, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/thVd1rv7jSb4I4egYKBR1CC52rD.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/24o8adu4yvoc"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "My Girl",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x11/",
+          "airDate": "Nov. 23, 1996",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/hrkATf0rHTybb2WiupgVhUNPC7U.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/4qywce7p23iq"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Tools of the Trade",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x12/",
+          "airDate": "Feb. 01, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/n9qSdQ7E15P0lVS3F84m1rIoKoq.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/yr9hd5ksbmef"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Two's a Crowd",
+          "url": "https://multimovies.city/episodes/superman-the-animated-series-1x13/",
+          "airDate": "Feb. 15, 1997",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/mvfinxNl90Jc1n7fFGhxBXCWD9k.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/8b5pw1y1swm9"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alan Burnett",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/alan-burnett/",
+      "image": "https://image.tmdb.org/t/p/w92/3gNmuxxdQbZ6nX2F63SMQNVbmqz.jpg"
+    },
+    {
+      "name": "Tim Daly",
+      "role": "Superman / Clark Kent (voice)",
+      "url": "https://multimovies.city/cast/tim-daly/",
+      "image": "https://image.tmdb.org/t/p/w92/jKuBZgFzUgCocAMAdtjtEJI17JQ.jpg"
+    },
+    {
+      "name": "Dana Delany",
+      "role": "Lois Lane (voice)",
+      "url": "https://multimovies.city/cast/dana-delany/",
+      "image": "https://image.tmdb.org/t/p/w92/sw49JGyGVjgtIaARlDb7c3qcAcf.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/yDsLb8WRHplh7X5EpHDFHl7TP8T.jpg",
+    "https://image.tmdb.org/t/p/w300/gbpo1iJK8Vt6J6qtRdECmYXglCV.jpg",
+    "https://image.tmdb.org/t/p/w300/u058fdiTbwnAWB4GMIhOl2Xgvtg.jpg",
+    "https://image.tmdb.org/t/p/w300/cgMbDcONuzcciEKLJP3L1mtaOb4.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
