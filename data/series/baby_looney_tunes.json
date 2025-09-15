@@ -1,0 +1,245 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/baby-looney-tunes/",
+  "meta": {
+    "title": "Baby Looney Tunes",
+    "poster": "https://image.tmdb.org/t/p/w500/e1ZxhAH73P3q7kIUr03qNymPW0K.jpg",
+    "networks": [
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/network/cartoon-network/"
+      },
+      {
+        "name": "The WB",
+        "url": "https://multimovies.city/network/the-wb/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Kids",
+        "url": "https://multimovies.city/genre/kids/"
+      }
+    ],
+    "firstAirDate": "Sep. 07, 2002",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "The world\u2019s most beloved animated characters as precocious preschoolers, discovering the world one baby step at a time.",
+    "infoFields": {
+      "Original title": "Baby Looney Tunes",
+      "TMDb Rating": "7.1 263 votes",
+      "First air date": "Sep. 07, 2002",
+      "Last air date": "Apr. 20, 2005",
+      "Seasons": "2",
+      "Episodes": "102",
+      "Average Duration": "12 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Sep. 07, 2002",
+      "episodeCount": 12,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Taz in Toyland",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x1/",
+          "airDate": "Sep. 07, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/4pQ7a2xh5biMura6hYjRTJdygtV.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/z8e95dm9czb4"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "A Secret Tweet",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x2/",
+          "airDate": "Sep. 07, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/4pQ7a2xh5biMura6hYjRTJdygtV.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/lap0arolhsiw"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Comfort Level",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x3/",
+          "airDate": "Sep. 14, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/aJu18GoPuoYwGIv1h9yuDTsqfuj.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/q8urw5v60uc1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Like a Duck to Water",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x4/",
+          "airDate": "Sep. 14, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/aJu18GoPuoYwGIv1h9yuDTsqfuj.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/ci3edu23d9ot"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "School Daze",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x5/",
+          "airDate": "Sep. 18, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/x55aFVDOTSFkQvDz0ILjV9zsdIb.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/xue90uji6yxk"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Things That Go Bugs in the Night",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x6/",
+          "airDate": "Sep. 18, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/x55aFVDOTSFkQvDz0ILjV9zsdIb.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/tr5wwvwexxwr"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "The Creature from the Chocolate Chip",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x7/",
+          "airDate": "Sep. 19, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/904xPgJKbDJJV8APDUKEjstaqOq.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/p6r34yjoz48b"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Card Bored Box",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x8/",
+          "airDate": "Sep. 19, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/904xPgJKbDJJV8APDUKEjstaqOq.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/vixpcgx8tfn9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Time and Time Again",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x9/",
+          "airDate": "Sep. 20, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/AjEVi3469MA3CH5W8WZvqebjxq6.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/fk6oj6web0i2"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "May the Best Taz Win",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x10/",
+          "airDate": "Sep. 20, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/AjEVi3469MA3CH5W8WZvqebjxq6.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/hhr7vt8b4pdw"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Mine!",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x11/",
+          "airDate": "Sep. 23, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/hTDqWI36wsKYHNh13ddXRlAlZPZ.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/7mct2jyuk3ky"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Sylvester the Pester",
+          "url": "https://multimovies.city/episodes/baby-looney-tunes-1x12/",
+          "airDate": "Sep. 23, 2002",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2024/01/hTDqWI36wsKYHNh13ddXRlAlZPZ.jpg",
+          "sources": [
+            "https://multimoviesshg.com/e/nzl571jns8er"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sam Vincent",
+      "role": "Bugs / Daffy / Tweety (voice)",
+      "url": "https://multimovies.city/cast/sam-vincent/",
+      "image": "https://image.tmdb.org/t/p/w92/eJadsFcztqQZQIKzL5cMyasi1oa.jpg"
+    },
+    {
+      "name": "Terry Klassen",
+      "role": "Sylvester (voice)",
+      "url": "https://multimovies.city/cast/terry-klassen/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Britt McKillip",
+      "role": "Lola (voice)",
+      "url": "https://multimovies.city/cast/britt-mckillip/",
+      "image": "https://image.tmdb.org/t/p/w92/qUa6360myhK6b9jz2XShMkaioLE.jpg"
+    },
+    {
+      "name": "Ian James Corlett",
+      "role": "Taz (voice)",
+      "url": "https://multimovies.city/cast/ian-james-corlett/",
+      "image": "https://image.tmdb.org/t/p/w92/8oBYy558j01kb1Go4ULgqiY1zZt.jpg"
+    },
+    {
+      "name": "June Foray",
+      "role": "Granny (voice)",
+      "url": "https://multimovies.city/cast/june-foray/",
+      "image": "https://image.tmdb.org/t/p/w92/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg"
+    },
+    {
+      "name": "Janyse Jaud",
+      "role": "Melissa (voice)",
+      "url": "https://multimovies.city/cast/janyse-jaud/",
+      "image": "https://image.tmdb.org/t/p/w92/7ZvfIfmgkU2B8jA25czUoKXXq6e.jpg"
+    },
+    {
+      "name": "Chiara Zanni",
+      "role": "Petunia (voice)",
+      "url": "https://multimovies.city/cast/chiara-zanni/",
+      "image": "https://image.tmdb.org/t/p/w92/dq1rqHIpRV9F5guFupyxglIix4a.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/Mo7Dmx1bhOe6fMich6uHXKcHey.jpg",
+    "https://image.tmdb.org/t/p/w300/eMC8ShQ3ceUcJwm5ZlKci8a46N3.jpg",
+    "https://image.tmdb.org/t/p/w300/mVyq4RBAP2SmMUyEXdNOxsp23sT.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
