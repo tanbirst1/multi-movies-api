@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hum-aapke-hain-koun/",
+  "meta": {
+    "title": "Hum Aapke Hain Koun..!",
+    "poster": "https://image.tmdb.org/t/p/w500/v5CutZgZgai1if2U2CPssiig7VW.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Aug. 05, 1994",
+    "ratingValue": "8.6",
+    "ratingCount": "16",
+    "synopsis": "Prem and Nisha meet and fall in love at the wedding of their elder siblings, but their plans to be together are put in jeopardy when Nisha\u2019s sister dies, leaving behind a baby.",
+    "infoFields": {
+      "Original title": "\u0939\u092e \u0906\u092a\u0915\u0947 \u0939\u0948\u0902 \u0915\u094c\u0928...!",
+      "IMDb Rating": "7.5 21,763 votes",
+      "TMDb Rating": "6.4 84 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sooraj Barjatya",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sooraj-barjatya/",
+      "image": "https://image.tmdb.org/t/p/w92/cayLTtN2H1ErYFySfznPkYGOdhA.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Prem",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/gxKwCCcs777HzsXRpdGsBV87pXn.jpg"
+    },
+    {
+      "name": "Madhuri Dixit",
+      "role": "Nisha Chaudhary",
+      "url": "https://multimovies.city/cast/madhuri-dixit/",
+      "image": "https://image.tmdb.org/t/p/w92/f2ZF9mVqyLS924NW7xFrvzXeDDR.jpg"
+    },
+    {
+      "name": "Mohnish Behl",
+      "role": "Rajesh",
+      "url": "https://multimovies.city/cast/mohnish-behl/",
+      "image": "https://image.tmdb.org/t/p/w92/iiDceTPiwHY4y91gdP3OsEHOo7r.jpg"
+    },
+    {
+      "name": "Renuka Shahane",
+      "role": "Pooja Chaudhary",
+      "url": "https://multimovies.city/cast/renuka-shahane/",
+      "image": "https://image.tmdb.org/t/p/w92/vTHNsCtOCRrRf643XNWNK4goPpY.jpg"
+    },
+    {
+      "name": "Anupam Kher",
+      "role": "Prof. Siddharth Chaudhary",
+      "url": "https://multimovies.city/cast/anupam-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/f7hWJ4tvzR7uXmYoTiB41TpQ2NZ.jpg"
+    },
+    {
+      "name": "Reema Lagoo",
+      "role": "Mrs. Chaudhary",
+      "url": "https://multimovies.city/cast/reema-lagoo/",
+      "image": "https://image.tmdb.org/t/p/w92/hQ5r2pPD8T94Dli5oNP6IlwEf1c.jpg"
+    },
+    {
+      "name": "Laxmikant Berde",
+      "role": "Lalloo Prasad",
+      "url": "https://multimovies.city/cast/laxmikant-berde/",
+      "image": "https://image.tmdb.org/t/p/w92/5o1AE5hg2sWvCA6AJ1xUuChEL8L.jpg"
+    },
+    {
+      "name": "Priya Arun",
+      "role": "Chameli",
+      "url": "https://multimovies.city/cast/priya-arun/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Alok Nath",
+      "role": "Kailashnath",
+      "url": "https://multimovies.city/cast/alok-nath/",
+      "image": "https://image.tmdb.org/t/p/w92/fMtqIj07e2HD0i5YbV91kgjrZzm.jpg"
+    },
+    {
+      "name": "Satish Shah",
+      "role": "Doctor",
+      "url": "https://multimovies.city/cast/satish-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/yLZtBHVkWUIPWcrsWHeVsRG7BwH.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 10872,
+  "sources": [
+    "https://www.youtube.com/embed/-0soKLCsB3s?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/s6fcyeuex252"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5540,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5540,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
