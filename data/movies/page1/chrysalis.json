@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "Chrysalis",
+    "poster": "https://multimovies.city/wp-content/uploads/2024/04/kXcr4eCpyt1Lan00znjRJKO7SVm.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 25, 2007",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Paris 2020, a high tech surgeon and her daughter are involved in a horrific car accident, the surgeon saves her daughter’s life at the cost of manipulating her dreams and memories.",
+    "infoFields": {
+      "Original title": "Chrysalis",
+      "IMDb Rating": "5.4 2,974 votes",
+      "TMDb Rating": "5.2 73 votes"
+    }
+  },
+  "cast": [
+    {
+      "name": "Julien Leclercq",
+      "role": "Director",
+      "url": "https://multimovies.city/director/julien-leclercq/",
+      "image": "https://image.tmdb.org/t/p/w92/xP2OPVSMg2S19A1KzECnaqswqh8.jpg"
+    },
+    {
+      "name": "Albert Dupontel",
+      "role": "David Hoffman",
+      "url": "https://multimovies.city/cast/albert-dupontel/",
+      "image": "https://image.tmdb.org/t/p/w92/gwZFclFz6IQcKadX3wYhagP0r2I.jpg"
+    },
+    {
+      "name": "Marie Guillard",
+      "role": "Marie Becker",
+      "url": "https://multimovies.city/cast/marie-guillard/",
+      "image": "https://image.tmdb.org/t/p/w92/2ruQJ1ChERuj77ninn0MybDfFKP.jpg"
+    },
+    {
+      "name": "Marthe Keller",
+      "role": "Professeur Brügen",
+      "url": "https://multimovies.city/cast/marthe-keller/",
+      "image": "https://image.tmdb.org/t/p/w92/pyBSOrbXEEJuDMH8Oh7SXGlWvbI.jpg"
+    },
+    {
+      "name": "Mélanie Thierry",
+      "role": "Manon Brügen",
+      "url": "https://multimovies.city/cast/melanie-thierry/",
+      "image": "https://image.tmdb.org/t/p/w92/dtzfVWfyWgnlgwpzgA4uXDrBcTI.jpg"
+    },
+    {
+      "name": "Claude Perron",
+      "role": "Miller",
+      "url": "https://multimovies.city/cast/claude-perron/",
+      "image": "https://image.tmdb.org/t/p/w92/dyR2HjTzWo5qBqUs5msvowQpeu5.jpg"
+    },
+    {
+      "name": "Alain Figlarz",
+      "role": "Dimitri Nicolov / Danis Nicolov",
+      "url": "https://multimovies.city/cast/alain-figlarz/",
+      "image": "https://image.tmdb.org/t/p/w92/wqag3Ab0zVl5Gkeet0NPJodpsiG.jpg"
+    },
+    {
+      "name": "Smadi Wolfman",
+      "role": "Sarah",
+      "url": "https://multimovies.city/cast/smadi-wolfman/",
+      "image": "https://image.tmdb.org/t/p/w92/etterljbyCh6DEbujgCYgmDmqgc.jpg"
+    },
+    {
+      "name": "Patrick Bauchau",
+      "role": "Charles Becker",
+      "url": "https://multimovies.city/cast/patrick-bauchau/",
+      "image": "https://image.tmdb.org/t/p/w92/kdrFAJJFdfQaYUETTHQw77gim9O.jpg"
+    },
+    {
+      "name": "Guy Lecluyse",
+      "role": "Kovacs",
+      "url": "https://multimovies.city/cast/guy-lecluyse/",
+      "image": "https://image.tmdb.org/t/p/w92/98Q2dBIfWcfUS2Z4MelzH2eUXjk.jpg"
+    },
+    {
+      "name": "Cyril Lecomte",
+      "role": "Le légiste",
+      "url": "https://multimovies.city/cast/cyril-lecomte/",
+      "image": "https://image.tmdb.org/t/p/w92/sE7I31LJx9Zfh2IIWg3qhCC8Lzh.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/TE5CVXntRDFF2VleOQh7c7Gnrd.jpg",
+    "https://image.tmdb.org/t/p/w300/bNQlZbqMupg8vBuE8hvHD9cSAVu.jpg"
+  ],
+  "similar": [],
+  "seasons": []
+}
