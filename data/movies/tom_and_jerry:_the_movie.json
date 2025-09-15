@@ -1,0 +1,126 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tom-and-jerry-the-movie/",
+  "meta": {
+    "title": "Tom and Jerry: The Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/k68ZB5trRKcEJSQdPiY6jtxVq14.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Oct. 01, 1992",
+    "ratingValue": "10",
+    "ratingCount": "3",
+    "synopsis": "The popular cartoon cat and mouse are thrown into a feature film. The story has the twosome trying to help an orphan girl who is being berated and exploited by a greedy guardian.",
+    "infoFields": {
+      "Original title": "Tom and Jerry: The Movie",
+      "IMDb Rating": "5.4 12,206 votes",
+      "TMDb Rating": "6.325 564 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Phil Roman",
+      "role": "Director",
+      "url": "https://multimovies.city/director/phil-roman/",
+      "image": "https://image.tmdb.org/t/p/w92/irUtPMujYScvYCfeVXHMAJ3iX8T.jpg"
+    },
+    {
+      "name": "Richard Kind",
+      "role": "Tom (voice)",
+      "url": "https://multimovies.city/cast/richard-kind/",
+      "image": "https://image.tmdb.org/t/p/w92/qg60uiHnDP4b2pVgdFtRhGlxtq.jpg"
+    },
+    {
+      "name": "Dana Hill",
+      "role": "Jerry (voice)",
+      "url": "https://multimovies.city/cast/dana-hill/",
+      "image": "https://image.tmdb.org/t/p/w92/kLFYJSiPfBmXTla2MKInPi4YAqX.jpg"
+    },
+    {
+      "name": "Anndi McAfee",
+      "role": "Robyn Starling (voice)",
+      "url": "https://multimovies.city/cast/anndi-mcafee/",
+      "image": "https://image.tmdb.org/t/p/w92/31BmotCrcdSR6gFnJqqCUHvy6Dh.jpg"
+    },
+    {
+      "name": "Rip Taylor",
+      "role": "Captain Kiddie (voice)",
+      "url": "https://multimovies.city/cast/rip-taylor/",
+      "image": "https://image.tmdb.org/t/p/w92/8NxcUrl4Mjxhj2osqrmfrHJqe3u.jpg"
+    },
+    {
+      "name": "Henry Gibson",
+      "role": "Doctor Applecheek (voice)",
+      "url": "https://multimovies.city/cast/henry-gibson/",
+      "image": "https://image.tmdb.org/t/p/w92/2Py2ZzFfTobPIHEKRYuWHhxRDqF.jpg"
+    },
+    {
+      "name": "Tony Jay",
+      "role": "Lickboot (voice)",
+      "url": "https://multimovies.city/cast/tony-jay/",
+      "image": "https://image.tmdb.org/t/p/w92/uj5BYkgIJ5xyjosHcwrTM6cemel.jpg"
+    },
+    {
+      "name": "Michael Bell",
+      "role": "Ferdinand / Straycatcher (voice)",
+      "url": "https://multimovies.city/cast/michael-bell/",
+      "image": "https://image.tmdb.org/t/p/w92/qZrtEHcKOFCbxtSedcdTU8f2uyW.jpg"
+    },
+    {
+      "name": "Charlotte Rae",
+      "role": "Aunt Figg (voice)",
+      "url": "https://multimovies.city/cast/charlotte-rae/",
+      "image": "https://image.tmdb.org/t/p/w92/9YexNokQQOUZO2nXDRz0B3WvIY.jpg"
+    },
+    {
+      "name": "Don Messick",
+      "role": "Droopy (voice)",
+      "url": "https://multimovies.city/cast/don-messick/",
+      "image": "https://image.tmdb.org/t/p/w92/iT3okvWCKy6RAdo6dbx09RP0I3p.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ytFGzSMCiv4pxcUzB55DMhfeQhb.jpg",
+    "https://image.tmdb.org/t/p/w300/jjvcnjZ2Wj37meNpZwtKVGvTIPe.jpg",
+    "https://image.tmdb.org/t/p/w300/5RepFkmg1h6QFtcFBfLp2PiTowt.jpg",
+    "https://image.tmdb.org/t/p/w300/jCkRiNnjn8hvraxA0HKaCkOK7eC.jpg"
+  ],
+  "similar": [],
+  "views": 3184,
+  "sources": [
+    "https://www.youtube.com/embed/WBYdp2sOut0?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/71as1k3guy8h"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 13480,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 13480,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
