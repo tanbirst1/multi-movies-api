@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-man-called-flintstone/",
+  "meta": {
+    "title": "The Man Called Flintstone",
+    "poster": "https://image.tmdb.org/t/p/w500/z1Z1LHBdnlneXpJygia4RQa3Mtm.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Music",
+        "url": "https://multimovies.city/genre/music/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Aug. 03, 1966",
+    "ratingValue": "9.5",
+    "ratingCount": "2",
+    "synopsis": "In this feature-length film based on the \u201cFlintstones\u201d TV show, secret agent Rock Slag is injured during a chase in Bedrock. Slag\u2019s chief decides to replace the injured Slag with Fred Flintstone, who just happens to look like him. The trip takes Fred to Paris and Rome, which is good for Wilma, Barney, and Betty, but can Fred foil the mysterious Green Goose\u2019s evil plan for a destructive missile without letting his wife and friends in on his secret?",
+    "infoFields": {
+      "Original title": "The Man Called Flintstone",
+      "IMDb Rating": "6.5 1,752 votes",
+      "TMDb Rating": "6.373 51 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Joseph Barbera",
+      "role": "Director",
+      "url": "https://multimovies.city/director/joseph-barbera/",
+      "image": "https://image.tmdb.org/t/p/w92/lpjg99DpaK0RDbbe6mqk1Z7YIke.jpg"
+    },
+    {
+      "name": "Alan Reed",
+      "role": "Fred Flintstone (voice)",
+      "url": "https://multimovies.city/cast/alan-reed/",
+      "image": "https://image.tmdb.org/t/p/w92/5dtd5kvGZXjSK8wtAjvTxqYDUBZ.jpg"
+    },
+    {
+      "name": "Mel Blanc",
+      "role": "Barney Rubble / Dino (voice)",
+      "url": "https://multimovies.city/cast/mel-blanc/",
+      "image": "https://image.tmdb.org/t/p/w92/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+    },
+    {
+      "name": "Jean Vander Pyl",
+      "role": "Wilma Flintstone (voice)",
+      "url": "https://multimovies.city/cast/jean-vander-pyl/",
+      "image": "https://image.tmdb.org/t/p/w92/pHJjddmRyn3f2TP2HmgcGhY0HMT.jpg"
+    },
+    {
+      "name": "Gerry Johnson",
+      "role": "Betty Rubble (voice)",
+      "url": "https://multimovies.city/cast/gerry-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/jq1YfTShlAKgIe4cWCIhQCzurRa.jpg"
+    },
+    {
+      "name": "Don Messick",
+      "role": "Ali / Various Voices (voice)",
+      "url": "https://multimovies.city/cast/don-messick/",
+      "image": "https://image.tmdb.org/t/p/w92/iT3okvWCKy6RAdo6dbx09RP0I3p.jpg"
+    },
+    {
+      "name": "Janet Waldo",
+      "role": "Roberta / Various Voices (voice)",
+      "url": "https://multimovies.city/cast/janet-waldo/",
+      "image": "https://image.tmdb.org/t/p/w92/liuY8vTRtKsQeDN7HYZD2oRkE80.jpg"
+    },
+    {
+      "name": "Paul Frees",
+      "role": "Rock Slag / Green Goose / Triple X (voice)",
+      "url": "https://multimovies.city/cast/paul-frees/",
+      "image": "https://image.tmdb.org/t/p/w92/pACT0LYkEyff7PGt88iqr5u9T7u.jpg"
+    },
+    {
+      "name": "Harvey Korman",
+      "role": "Chief Mountmore / Additional Voices (voice)",
+      "url": "https://multimovies.city/cast/harvey-korman/",
+      "image": "https://image.tmdb.org/t/p/w92/cE5X1OAa6iDOo3JKj9uM8kHwQQI.jpg"
+    },
+    {
+      "name": "John Stephenson",
+      "role": "Mr. Slate / Various Voices (voice)",
+      "url": "https://multimovies.city/cast/john-stephenson/",
+      "image": "https://image.tmdb.org/t/p/w92/2WWZ5IAdGNlsCAcw8CefvsBeo9i.jpg"
+    },
+    {
+      "name": "June Foray",
+      "role": "Tanya Malichite (voice)",
+      "url": "https://multimovies.city/cast/june-foray/",
+      "image": "https://image.tmdb.org/t/p/w92/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 916,
+  "sources": [
+    "https://www.youtube.com/embed/sv5Shrop9lY?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/9lpd1dl03iva"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18628,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18628,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
