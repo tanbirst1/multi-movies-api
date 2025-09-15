@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/my-lucky-stars/",
+  "meta": {
+    "title": "My Lucky Stars",
+    "poster": "https://image.tmdb.org/t/p/w500/dZzHBIcJsld2XMvwR75OZGf4NM2.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 10, 1985",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Two Hong Kong cops are sent to Tokyo to catch an ex-cop who stole a large amount of money in diamonds. After one is captured by the Ninja-gang protecting the rogue cop, the other one gets his old Orphanage gang, dubbed the \u201cFive Lucky Stars,\u201d to help him. They don\u2019t like this much, but they do it.",
+    "infoFields": {
+      "Original title": "\u798f\u661f\u9ad8\u7167",
+      "IMDb Rating": "6.3 6,072 votes",
+      "TMDb Rating": "6.293 174 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sammo Hung",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sammo-hung/",
+      "image": "https://image.tmdb.org/t/p/w92/ltThjSeD7d2jdO9GSi9rZq1pbjB.jpg"
+    },
+    {
+      "name": "Sammo Hung",
+      "role": "Kidstuff / Fastbuck",
+      "url": "https://multimovies.city/cast/sammo-hung/",
+      "image": "https://image.tmdb.org/t/p/w92/ltThjSeD7d2jdO9GSi9rZq1pbjB.jpg"
+    },
+    {
+      "name": "Jackie Chan",
+      "role": "Muscles",
+      "url": "https://multimovies.city/cast/jackie-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "name": "Yuen Biao",
+      "role": "Ricky",
+      "url": "https://multimovies.city/cast/yuen-biao/",
+      "image": "https://image.tmdb.org/t/p/w92/pgO9Im1QKPjLozvsWODLtZDTjw7.jpg"
+    },
+    {
+      "name": "Eric Tsang",
+      "role": "Roundhead / Blockhead",
+      "url": "https://multimovies.city/cast/eric-tsang/",
+      "image": "https://image.tmdb.org/t/p/w92/vrPBadugqlMkfNIYzLZbP4sEF1j.jpg"
+    },
+    {
+      "name": "Richard Ng",
+      "role": "Sandy",
+      "url": "https://multimovies.city/cast/richard-ng/",
+      "image": "https://image.tmdb.org/t/p/w92/oEFqGH1vQjRoNlVfZseRMYTzAsY.jpg"
+    },
+    {
+      "name": "Charlie Chin Chiang-Lin",
+      "role": "Herb",
+      "url": "https://multimovies.city/cast/charlie-chin-chiang-lin/",
+      "image": "https://image.tmdb.org/t/p/w92/zFFZ6iZQtfYD1HONS2AoRBb9e4.jpg"
+    },
+    {
+      "name": "Stanley Sui-Fan Fung",
+      "role": "Rawhide",
+      "url": "https://multimovies.city/cast/stanley-sui-fan-fung/",
+      "image": "https://image.tmdb.org/t/p/w92/oURJiuRSTcykch6KGHCxd2qNOkS.jpg"
+    },
+    {
+      "name": "Sibelle Hu",
+      "role": "Swordflower / Chief Insp. Barbara Wu",
+      "url": "https://multimovies.city/cast/sibelle-hu/",
+      "image": "https://image.tmdb.org/t/p/w92/666YuQz2sm1aGzY7FynKoMQolYB.jpg"
+    },
+    {
+      "name": "Walter Tso Tat-Wah",
+      "role": "Senior Superintendent Tsao",
+      "url": "https://multimovies.city/cast/walter-tso-tat-wah/",
+      "image": "https://image.tmdb.org/t/p/w92/4gzcAQywNFgidUJ9DXcuelMIAo.jpg"
+    },
+    {
+      "name": "James Tien Chuen",
+      "role": "Prison Warden",
+      "url": "https://multimovies.city/cast/james-tien-chuen/",
+      "image": "https://image.tmdb.org/t/p/w92/wSlkjKKcJWX1YpXPFbAikUjIMwo.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/x8yA4dKJyctamyiM6jF8Zgqrlkh.jpg",
+    "https://image.tmdb.org/t/p/w300/iYEw2pvCTOhKUkPQ4U7nX7Zmuav.jpg",
+    "https://image.tmdb.org/t/p/w300/nqku4NcsbNsqkzMhvNOFosVDo6a.jpg",
+    "https://image.tmdb.org/t/p/w300/rgq9gyn0Y1DWAq4XB2UDix60nav.jpg",
+    "https://image.tmdb.org/t/p/w300/lAXCk0S2zRgcWaZM6f9cCfQoKYI.jpg",
+    "https://image.tmdb.org/t/p/w300/m2ZTnkUDPIShFBsD0r8STaUpeua.jpg",
+    "https://image.tmdb.org/t/p/w300/ivdJXRfcj2ZnuR2fxYEBhEOQUah.jpg",
+    "https://image.tmdb.org/t/p/w300/5X0XtpV6sQXetRVKnRFlkMpTXjo.jpg",
+    "https://image.tmdb.org/t/p/w300/tLSnlhL7FDxR7O7aHyrMaRhYtHV.jpg",
+    "https://image.tmdb.org/t/p/w300/xs8LwRQGCOVooc38S8EADJA6QYV.jpg"
+  ],
+  "similar": [],
+  "views": 495,
+  "sources": [
+    "https://www.youtube.com/embed/fTR8GL5mf-A?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/isxq5wq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58243,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58243,
+      "nume": 1,
+      "title": "gdmirror"
+    }
+  ],
+  "cache": false
+}
