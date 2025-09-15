@@ -1,0 +1,280 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/spider-man-unlimited/",
+  "meta": {
+    "title": "Spider-Man Unlimited",
+    "poster": "https://image.tmdb.org/t/p/w500/hNdf1WmFil9IV7rabBe6PnAmYnI.jpg",
+    "networks": [
+      {
+        "name": "Fox Kids",
+        "url": "https://multimovies.city/network/fox-kids/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Disney XD",
+        "url": "https://multimovies.city/genre/disney-xd/"
+      },
+      {
+        "name": "Kids",
+        "url": "https://multimovies.city/genre/kids/"
+      },
+      {
+        "name": "Sci-Fi & Fantasy",
+        "url": "https://multimovies.city/genre/sci-fi-fantasy/"
+      }
+    ],
+    "firstAirDate": "Oct. 02, 1999",
+    "ratingValue": "1",
+    "ratingCount": "1",
+    "synopsis": "Spider-Man travels to Counter-Earth to rescue a Terran shuttle crew trapped there and discovers a tyrannical & warped version of his world.",
+    "infoFields": {
+      "Original title": "Spider-Man Unlimited",
+      "TMDb Rating": "7.463 228 votes",
+      "First air date": "Oct. 02, 1999",
+      "Last air date": "Mar. 31, 2001",
+      "Seasons": "1",
+      "Episodes": "13"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Oct. 02, 1999",
+      "episodeCount": 13,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "Worlds Apart (1)",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x1/",
+          "airDate": "Oct. 02, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/mbMwjYtpyprMm6rIzysF4xzMN4l.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/a2t6t9r"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Worlds Apart (2)",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x2/",
+          "airDate": "Oct. 09, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/kxDJqsj3rQWbw92aalchRaarnf3.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/sz7l9js"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Where Evil Nests",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x3/",
+          "airDate": "Oct. 16, 1999",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/uXFdI6U3z4TtSg2D2VS2JXCwTbZ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ut5d780"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Deadly Choices",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x4/",
+          "airDate": "Dec. 23, 2000",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/8N0OWxPhL38zvbe6LCIPuxRHAPV.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/r9eeel8"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Steel Cold Heart",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x5/",
+          "airDate": "Jan. 13, 2001",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/wESC5As3eRZOlUWXDmqCC8loqji.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/u3lrmf1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "Enter the Hunter!",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x6/",
+          "airDate": "Feb. 03, 2001",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/zYGsauf7kMwz2BDRJeeRsbakt5U.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/l59n535"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Cry Vulture",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x7/",
+          "airDate": "Feb. 10, 2001",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/lQETxWfckkdEn2AwUTVdf3XJMBL.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/adutwo1"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Ill-Met by Moonlight",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x8/",
+          "airDate": "Feb. 17, 2001",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/wI5qo8vYoazxfuis38fle3B1gdk.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/c2wyjra"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "Sustenance",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x9/",
+          "airDate": "Mar. 03, 2001",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/z5b73IWJ5J2DvhiBAq7av3G7yHg.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/yb9fc4a"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "Matters of the Heart",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x10/",
+          "airDate": "Mar. 10, 2001",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/sk2nJrjQZHEcIjfsmlFqgrVR5ie.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ajbsk24"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "One is the Loneliest Number",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x11/",
+          "airDate": "Mar. 17, 2001",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/s96FqOWvlxsyx1XGTiRMTbc69Xv.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/y4ldyo3"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Sins of the Fathers",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x12/",
+          "airDate": "Mar. 24, 2001",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/7hkOK6Z7zzi3brVwzjUbPQiAuIM.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/sgjzp0v"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Destiny Unleashed (1)",
+          "url": "https://multimovies.city/episodes/spider-man-unlimited-1x13/",
+          "airDate": "Mar. 31, 2001",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2025/03/icnt9O0EVyZgmNS9VauvULhV5od.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/wjclryk"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Avi Arad",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/avi-arad/",
+      "image": "https://image.tmdb.org/t/p/w92/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
+    },
+    {
+      "name": "Rino Romano",
+      "role": "Spider-Man (voice)",
+      "url": "https://multimovies.city/cast/rino-romano/",
+      "image": "https://image.tmdb.org/t/p/w92/rpyq7xdQ5zSCHYiwnlPvkx7gLrl.jpg"
+    },
+    {
+      "name": "John Payne",
+      "role": "John Jameson (voice)",
+      "url": "https://multimovies.city/cast/john-payne/",
+      "image": "https://image.tmdb.org/t/p/w92/btMhXmLswTUqBZaUqxVBaUls032.jpg"
+    },
+    {
+      "name": "Brian Drummond",
+      "role": "Venom (voice)",
+      "url": "https://multimovies.city/cast/brian-drummond/",
+      "image": "https://image.tmdb.org/t/p/w92/oNKCHFuMZTASvyayEj3cRXLEjJL.jpg"
+    },
+    {
+      "name": "Michael Donovan",
+      "role": "Carnage (voice)",
+      "url": "https://multimovies.city/cast/michael-donovan/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Richard Newman",
+      "role": "High Evolutionary (voice)",
+      "url": "https://multimovies.city/cast/richard-newman/",
+      "image": "https://image.tmdb.org/t/p/w92/4C0jQiT4FyzMETZC5j3q0HGQiAD.jpg"
+    },
+    {
+      "name": "David Sobolov",
+      "role": "Lord Tyger (voice)",
+      "url": "https://multimovies.city/cast/david-sobolov/",
+      "image": "https://image.tmdb.org/t/p/w92/eOBHvvlfQQ4b4120YJ2c2C7anKR.jpg"
+    },
+    {
+      "name": "Jennifer Hale",
+      "role": "Lady Vermin (voice)",
+      "url": "https://multimovies.city/cast/jennifer-hale/",
+      "image": "https://image.tmdb.org/t/p/w92/oNQCrdiSm0mABCcE5YaHwuZQK8X.jpg"
+    },
+    {
+      "name": "Ron Halder",
+      "role": "Sir Ram (voice)",
+      "url": "https://multimovies.city/cast/ron-halder/",
+      "image": "https://image.tmdb.org/t/p/w92/pewaMyMPCUsB8ki1JDUhcGeE3hO.jpg"
+    },
+    {
+      "name": "Tasha Simms",
+      "role": "Lady Ursula (voice)",
+      "url": "https://multimovies.city/cast/tasha-simms/",
+      "image": "https://image.tmdb.org/t/p/w92/pWc4wNjYtFWCL0RMNpaCa4Z34sd.jpg"
+    },
+    {
+      "name": "Kim Hawthorne",
+      "role": "Karen O'Malley (voice)",
+      "url": "https://multimovies.city/cast/kim-hawthorne/",
+      "image": "https://image.tmdb.org/t/p/w92/dpQ3H6wrOdiqwfdRrbufwFMSu38.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6CPSftO0ZsMOS9JxhxEwsSQfLmt.jpg",
+    "https://image.tmdb.org/t/p/w300/nXnBFgJN5vxNHNVz0DYPc9pP2vZ.jpg",
+    "https://image.tmdb.org/t/p/w300/pqUSaS5k2Kg89JxATWAiI0JK0w7.jpg",
+    "https://image.tmdb.org/t/p/w300/fpront1klTWGmYwF4KveEpu9TcB.jpg",
+    "https://image.tmdb.org/t/p/w300/wgA0uzHZx2NaCLoBucNCQsD6eYS.jpg",
+    "https://image.tmdb.org/t/p/w300/8cn071z5VtCkuC7s9y1Dybs74Jw.jpg",
+    "https://image.tmdb.org/t/p/w300/hIU2Aklk8AzmsyILjCcfyzXKgRQ.jpg",
+    "https://image.tmdb.org/t/p/w300/pUetQqX6l4BXDvyzUeWu2sqNeo.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
