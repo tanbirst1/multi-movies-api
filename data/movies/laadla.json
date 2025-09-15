@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/laadla/",
+  "meta": {
+    "title": "Laadla",
+    "poster": "https://image.tmdb.org/t/p/w500/19gxqTBRBYoWxypSihK0qKMphKd.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Mar. 17, 1994",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Laadla is the story of the kind-hearted Raju, who lives with his disabled mom. One day Raju, on his way to a job interview, saves the life of a rich textile mill owner who offers him a job in his factory. The mill is run by his ambitious daughter Sheetal, whose competitive attitude and open insults have made her many enemies. Raju and Sheetal clash often, until Sheetal tries to get the upper hand by forcing Raju to marry her, even though he has already fallen in love with Kaajal.",
+    "infoFields": {
+      "Original title": "Laadla",
+      "IMDb Rating": "5.9 1,501 votes",
+      "TMDb Rating": "5.5 17 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Raj Kanwar",
+      "role": "Director",
+      "url": "https://multimovies.city/director/raj-kanwar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Anil Kapoor",
+      "role": "Raj 'Raju' Verma",
+      "url": "https://multimovies.city/cast/anil-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/6RcrXGFzO50Tazqc8tbDlzYKvTd.jpg"
+    },
+    {
+      "name": "Sridevi",
+      "role": "Sheetal Jetley",
+      "url": "https://multimovies.city/cast/sridevi/",
+      "image": "https://image.tmdb.org/t/p/w92/6wxquADm0CMYMon04uEI48ZiBBf.jpg"
+    },
+    {
+      "name": "Raveena Tandon",
+      "role": "Kaajal",
+      "url": "https://multimovies.city/cast/raveena-tandon/",
+      "image": "https://image.tmdb.org/t/p/w92/3ifGMlHKKRFvK9Sg5y2bs5jWUlI.jpg"
+    },
+    {
+      "name": "Farida Jalal",
+      "role": "Gayetri Verma",
+      "url": "https://multimovies.city/cast/farida-jalal/",
+      "image": "https://image.tmdb.org/t/p/w92/jVVz8WUqlsmWCh0MYEsmfSEHWQf.jpg"
+    },
+    {
+      "name": "Aruna Irani",
+      "role": "Bannobi",
+      "url": "https://multimovies.city/cast/aruna-irani/",
+      "image": "https://image.tmdb.org/t/p/w92/opwljyDvJyxW6ZmC3Ao6lNCQi0r.jpg"
+    },
+    {
+      "name": "Prem Chopra",
+      "role": "Suryadev",
+      "url": "https://multimovies.city/cast/prem-chopra/",
+      "image": "https://image.tmdb.org/t/p/w92/4hLAhScWZA6utfg8VCivwVH6FHy.jpg"
+    },
+    {
+      "name": "Mohnish Behl",
+      "role": "Suryadev's son",
+      "url": "https://multimovies.city/cast/mohnish-behl/",
+      "image": "https://image.tmdb.org/t/p/w92/iiDceTPiwHY4y91gdP3OsEHOo7r.jpg"
+    },
+    {
+      "name": "Shakti Kapoor",
+      "role": "Tilak Bhandari",
+      "url": "https://multimovies.city/cast/shakti-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/fcyQbvV6BgJBca4EVAlSr0Sv5E9.jpg"
+    },
+    {
+      "name": "Alok Nath",
+      "role": "Kaajal's dad",
+      "url": "https://multimovies.city/cast/alok-nath/",
+      "image": "https://image.tmdb.org/t/p/w92/fMtqIj07e2HD0i5YbV91kgjrZzm.jpg"
+    },
+    {
+      "name": "Kalpana Iyer",
+      "role": "Kamini",
+      "url": "https://multimovies.city/cast/kalpana-iyer/",
+      "image": "https://image.tmdb.org/t/p/w92/iLOrpvFpdHNM81If6Kn3pWwtoay.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hWatGQXYRcuaUTllnOqpSQ0oCpF.jpg",
+    "https://image.tmdb.org/t/p/w300/teEbqukUf976gDpmT2lzv635ASo.jpg"
+  ],
+  "similar": [],
+  "views": 1817,
+  "sources": [
+    "https://multimovies.rpmhub.site/#3d9k"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 74163,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
