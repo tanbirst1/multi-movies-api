@@ -1,0 +1,5 @@
+{
+  "error": "500 Server Error: Internal Server Error for url: https://multi-movies-api.vercel.app/api/tv?url=https://multimovies.city/movies/monty-python-and-the-holy-grail/&section=movies",
+  "title": "Monty Python and the Holy Grail",
+  "link": "https://multimovies.city/movies/monty-python-and-the-holy-grail/"
+}
