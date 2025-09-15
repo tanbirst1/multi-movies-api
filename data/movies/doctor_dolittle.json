@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/doctor-dolittle/",
+  "meta": {
+    "title": "Doctor Dolittle",
+    "poster": "https://image.tmdb.org/t/p/w500/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 26, 1998",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A successful physician and devoted family man, John Dolittle seems to have the world by the tail, until a long suppressed talent he possessed as a child, the ability to communicate with animals is suddenly reawakened with a vengeance! Now every creature within squawking distance wants the good doctor\u2019s advice, unleashing an outrageous chain of events that turns his world upside down!",
+    "infoFields": {
+      "Original title": "Doctor Dolittle",
+      "TMDb Rating": "5.691 2,959 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Betty Thomas",
+      "role": "Director",
+      "url": "https://multimovies.city/director/betty-thomas/",
+      "image": "https://image.tmdb.org/t/p/w92/y9K6S2TsiLpcQoIwDM1qigx1VJ4.jpg"
+    },
+    {
+      "name": "Eddie Murphy",
+      "role": "Dr. John Dolittle",
+      "url": "https://multimovies.city/cast/eddie-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "name": "Ossie Davis",
+      "role": "Archer Dolittle",
+      "url": "https://multimovies.city/cast/ossie-davis/",
+      "image": "https://image.tmdb.org/t/p/w92/ubOu0TvauzO1gdPe7eVSJuCx8Rz.jpg"
+    },
+    {
+      "name": "Oliver Platt",
+      "role": "Dr. Mark Weller",
+      "url": "https://multimovies.city/cast/oliver-platt/",
+      "image": "https://image.tmdb.org/t/p/w92/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg"
+    },
+    {
+      "name": "Peter Boyle",
+      "role": "Calloway",
+      "url": "https://multimovies.city/cast/peter-boyle/",
+      "image": "https://image.tmdb.org/t/p/w92/6TapQmC46mPDYrwm67tyJaEM97I.jpg"
+    },
+    {
+      "name": "Richard Schiff",
+      "role": "Dr. Gene Reiss",
+      "url": "https://multimovies.city/cast/richard-schiff/",
+      "image": "https://image.tmdb.org/t/p/w92/oFDka3Y5H3DBiZRqbdPabtX8ncP.jpg"
+    },
+    {
+      "name": "Kristen Wilson",
+      "role": "Lisa",
+      "url": "https://multimovies.city/cast/kristen-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/ld2W1mIvaS0yAd3pHW2wyeacg8v.jpg"
+    },
+    {
+      "name": "Jeffrey Tambor",
+      "role": "Dr. Fish",
+      "url": "https://multimovies.city/cast/jeffrey-tambor/",
+      "image": "https://image.tmdb.org/t/p/w92/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    },
+    {
+      "name": "Kyla Pratt",
+      "role": "Maya",
+      "url": "https://multimovies.city/cast/kyla-pratt/",
+      "image": "https://image.tmdb.org/t/p/w92/y02hmYVndLlJbOYkNDu3Ksdsiib.jpg"
+    },
+    {
+      "name": "Raven-Symon\u00e9",
+      "role": "Charisse",
+      "url": "https://multimovies.city/cast/raven-symone/",
+      "image": "https://image.tmdb.org/t/p/w92/iyz6AbVgumSMsgZeSfsWpr4vewB.jpg"
+    },
+    {
+      "name": "Steven Gilborn",
+      "role": "Dr. Litvack",
+      "url": "https://multimovies.city/cast/steven-gilborn/",
+      "image": "https://image.tmdb.org/t/p/w92/k7Ow6qOO9rcQkFmJmyUpro4heVk.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nCvM85EzfqC9LWOBr04vJsIv4bO.jpg",
+    "https://image.tmdb.org/t/p/w300/kqUjxYB209bPN0DpfXZuR9E4ERW.jpg",
+    "https://image.tmdb.org/t/p/w300/bXC2B46ZXIZNCTXUlRvd8oS6vBm.jpg",
+    "https://image.tmdb.org/t/p/w300/pZXftWWj9xJEl0WmkJZ6pPvQRuD.jpg",
+    "https://image.tmdb.org/t/p/w300/qNYm2yBqpa6T4xoaMKj5lIx2G8j.jpg",
+    "https://image.tmdb.org/t/p/w300/AmWqcpNpvbiadk2h2cpmvMn8dsd.jpg"
+  ],
+  "similar": [],
+  "views": 2180,
+  "sources": [
+    "https://www.youtube.com/embed/ozMmf9Yi7TM?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/t2hr6pkoskc4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 53053,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 53053,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
