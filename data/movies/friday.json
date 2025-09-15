@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/friday/",
+  "meta": {
+    "title": "Friday",
+    "poster": "https://image.tmdb.org/t/p/w500/2lReF53F8trkC68piGSfk0JVwWU.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Apr. 26, 1995",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Craig and Smokey are two guys in Los Angeles hanging out on their porch on a Friday afternoon, smoking and drinking, looking for something to do.",
+    "infoFields": {
+      "Original title": "Friday",
+      "IMDb Rating": "7.2 132,470 votes",
+      "TMDb Rating": "7.125 1,896 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Dwight Williams",
+      "role": "Director",
+      "url": "https://multimovies.city/director/dwight-williams/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ice Cube",
+      "role": "Craig",
+      "url": "https://multimovies.city/cast/ice-cube/",
+      "image": "https://image.tmdb.org/t/p/w92/ymR7Yll7HjL6i6Z3pt435hYi91T.jpg"
+    },
+    {
+      "name": "Chris Tucker",
+      "role": "Smokey",
+      "url": "https://multimovies.city/cast/chris-tucker/",
+      "image": "https://image.tmdb.org/t/p/w92/f3oQKRJEGjK8Yc4qSMrD5P9oYbg.jpg"
+    },
+    {
+      "name": "Nia Long",
+      "role": "Debbie",
+      "url": "https://multimovies.city/cast/nia-long/",
+      "image": "https://image.tmdb.org/t/p/w92/yPLmhF9kKbCtsDhUnaV6g2GHWIc.jpg"
+    },
+    {
+      "name": "Tommy Lister Jr.",
+      "role": "Deebo",
+      "url": "https://multimovies.city/cast/tommy-lister-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/i1seZDiLC3AKrAYqfFSln6ZGNmF.jpg"
+    },
+    {
+      "name": "John Witherspoon",
+      "role": "Mr. Jones",
+      "url": "https://multimovies.city/cast/john-witherspoon/",
+      "image": "https://image.tmdb.org/t/p/w92/5clP720NIBWMKT0pwVCzIPjVkxG.jpg"
+    },
+    {
+      "name": "Anna Maria Horsford",
+      "role": "Mrs. Jones",
+      "url": "https://multimovies.city/cast/anna-maria-horsford/",
+      "image": "https://image.tmdb.org/t/p/w92/fVA25hLtwmrVsIVrcWOojaPoYEq.jpg"
+    },
+    {
+      "name": "Regina King",
+      "role": "Dana",
+      "url": "https://multimovies.city/cast/regina-king/",
+      "image": "https://image.tmdb.org/t/p/w92/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+    },
+    {
+      "name": "Paula Jai Parker",
+      "role": "Joi",
+      "url": "https://multimovies.city/cast/paula-jai-parker/",
+      "image": "https://image.tmdb.org/t/p/w92/rhVirscmHtZvI3v7ZMD1TdJfDcE.jpg"
+    },
+    {
+      "name": "Faizon Love",
+      "role": "Big Worm",
+      "url": "https://multimovies.city/cast/faizon-love/",
+      "image": "https://image.tmdb.org/t/p/w92/dK3hUGpG3SzmqTCy6rQzyK6YaCy.jpg"
+    },
+    {
+      "name": "DJ Pooh",
+      "role": "Red",
+      "url": "https://multimovies.city/cast/dj-pooh/",
+      "image": "https://image.tmdb.org/t/p/w92/hSE9l2mVy6V6bN6QnzTBoduvLt6.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/eDY7eBe5EE2djDGwdTPhfH9ZcdG.jpg",
+    "https://image.tmdb.org/t/p/w300/2D08E4pqE95FM8yOJ3gOy5zWaW0.jpg",
+    "https://image.tmdb.org/t/p/w300/ctGnpeYp9NE49GH7CiPYHTsKcmT.jpg",
+    "https://image.tmdb.org/t/p/w300/y3E6gIZkRILqNmp7nCLkHPg0WXF.jpg",
+    "https://image.tmdb.org/t/p/w300/gy0CKsdHmU2GRv9TXP4aIj5hAGE.jpg",
+    "https://image.tmdb.org/t/p/w300/ftULe7oKgnyftMmKRJwwCAicERV.jpg"
+  ],
+  "similar": [],
+  "views": 1000,
+  "sources": [
+    "https://www.youtube.com/embed/umvFBoLOOgo?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/dikpf7f"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 94177,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 94177,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
