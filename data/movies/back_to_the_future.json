@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/back-to-the-future/",
+  "meta": {
+    "title": "Back to the Future",
+    "poster": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jul. 03, 1985",
+    "ratingValue": "8.3",
+    "ratingCount": "3",
+    "synopsis": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents\u2019 first meeting and attracting his mother\u2019s romantic interest. Marty must repair the damage to history by rekindling his parents\u2019 romance and \u2013 with the help of his eccentric inventor friend Doc Brown \u2013 return to 1985.",
+    "infoFields": {
+      "Original title": "Back to the Future",
+      "IMDb Rating": "8.5 1,231,814 votes",
+      "TMDb Rating": "8.312 17,838 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Robert Zemeckis",
+      "role": "Director",
+      "url": "https://multimovies.city/director/robert-zemeckis/",
+      "image": "https://image.tmdb.org/t/p/w92/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg"
+    },
+    {
+      "name": "Michael J. Fox",
+      "role": "Marty McFly",
+      "url": "https://multimovies.city/cast/michael-j-fox/",
+      "image": "https://image.tmdb.org/t/p/w92/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+    },
+    {
+      "name": "Christopher Lloyd",
+      "role": "Emmett Brown",
+      "url": "https://multimovies.city/cast/christopher-lloyd/",
+      "image": "https://image.tmdb.org/t/p/w92/dlZHFESE1h0zkEzWAEbqUq573X7.jpg"
+    },
+    {
+      "name": "Lea Thompson",
+      "role": "Lorraine Baines",
+      "url": "https://multimovies.city/cast/lea-thompson/",
+      "image": "https://image.tmdb.org/t/p/w92/85E9NTEfkRdUdK4kTrrnk5of25w.jpg"
+    },
+    {
+      "name": "Crispin Glover",
+      "role": "George McFly",
+      "url": "https://multimovies.city/cast/crispin-glover/",
+      "image": "https://image.tmdb.org/t/p/w92/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+    },
+    {
+      "name": "Thomas F. Wilson",
+      "role": "Biff Tannen",
+      "url": "https://multimovies.city/cast/thomas-f-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+    },
+    {
+      "name": "Claudia Wells",
+      "role": "Jennifer Parker",
+      "url": "https://multimovies.city/cast/claudia-wells/",
+      "image": "https://image.tmdb.org/t/p/w92/2VOsPvoV2vmEUd1O2KjW3kcN8JD.jpg"
+    },
+    {
+      "name": "Marc McClure",
+      "role": "Dave McFly",
+      "url": "https://multimovies.city/cast/marc-mcclure/",
+      "image": "https://image.tmdb.org/t/p/w92/c8DFehNqNEDLBALTdAWZzUEN2tD.jpg"
+    },
+    {
+      "name": "Wendie Jo Sperber",
+      "role": "Linda McFly",
+      "url": "https://multimovies.city/cast/wendie-jo-sperber/",
+      "image": "https://image.tmdb.org/t/p/w92/dufqiCvSBQUxuHmMXcH6U8fZG4k.jpg"
+    },
+    {
+      "name": "George DiCenzo",
+      "role": "Sam Baines",
+      "url": "https://multimovies.city/cast/george-dicenzo/",
+      "image": "https://image.tmdb.org/t/p/w92/8L9fr5601BbUs3UzoCEELnxEKVm.jpg"
+    },
+    {
+      "name": "Frances Lee McCain",
+      "role": "Stella Baines",
+      "url": "https://multimovies.city/cast/frances-lee-mccain/",
+      "image": "https://image.tmdb.org/t/p/w92/cpG16FA90mQ4xC6xxTsUu1p2yRr.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+    "https://image.tmdb.org/t/p/w300/3lbTiIN8cVonMUQwaeh5nvn61lr.jpg",
+    "https://image.tmdb.org/t/p/w300/2H2YYbn8wDzYXtak83Md6PAwMdp.jpg",
+    "https://image.tmdb.org/t/p/w300/yYCpbgjzbVG6bzEh0dy9zWDnwG4.jpg",
+    "https://image.tmdb.org/t/p/w300/pAFmbrHjFMBzMCgjGyJRoxzaJZl.jpg",
+    "https://image.tmdb.org/t/p/w300/gohjmiBb8FEmsCQD3Hrp56dxysm.jpg",
+    "https://image.tmdb.org/t/p/w300/hxSB02ksqnkXY4hPGAXqgO2fL01.jpg",
+    "https://image.tmdb.org/t/p/w300/3KExkN17a4zJrAqVauI8XFEmZRf.jpg",
+    "https://image.tmdb.org/t/p/w300/fCyj0A3FinHQPZKdcsLYIMNlPzu.jpg",
+    "https://image.tmdb.org/t/p/w300/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg"
+  ],
+  "similar": [],
+  "views": 3109,
+  "sources": [
+    "https://www.youtube.com/embed/qvsgGtivCgs?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/d2x7g51z6w2q",
+    "https://sbplay.org/embed-fkt4vag1a3cq.html",
+    "https://dood.la/e/b35dumg3g4z1",
+    "https://mixdrop.co/e/7rdgv14ludnxmv",
+    "https://hydrax.net/watch?v=wxrO13Yrn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8035,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 8035,
+      "nume": 1,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 8035,
+      "nume": 2,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 8035,
+      "nume": 3,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 8035,
+      "nume": 4,
+      "title": "Server 05"
+    },
+    {
+      "type": "movie",
+      "post": 8035,
+      "nume": 5,
+      "title": "Server 06"
+    }
+  ],
+  "cache": false
+}
