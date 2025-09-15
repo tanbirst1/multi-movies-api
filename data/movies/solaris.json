@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/solaris/",
+  "meta": {
+    "title": "Solaris",
+    "poster": "https://image.tmdb.org/t/p/w500/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Mar. 20, 1972",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+    "infoFields": {
+      "Original title": "\u0421\u043e\u043b\u044f\u0440\u0438\u0441",
+      "IMDb Rating": "7.9 102,639 votes",
+      "TMDb Rating": "7.8 1,694 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Andrei Tarkovsky",
+      "role": "Director",
+      "url": "https://multimovies.city/director/andrei-tarkovsky/",
+      "image": "https://image.tmdb.org/t/p/w92/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg"
+    },
+    {
+      "name": "Natalya Bondarchuk",
+      "role": "Hari",
+      "url": "https://multimovies.city/cast/natalya-bondarchuk/",
+      "image": "https://image.tmdb.org/t/p/w92/nTnXhmI9ykqIIVqpp8IcbCOrrzy.jpg"
+    },
+    {
+      "name": "Donatas Banionis",
+      "role": "Kris Kelvin",
+      "url": "https://multimovies.city/cast/donatas-banionis/",
+      "image": "https://image.tmdb.org/t/p/w92/vz0TKZFu1qW5HZFhvIi0JZG9W7D.jpg"
+    },
+    {
+      "name": "J\u00fcri J\u00e4rvet",
+      "role": "Dr. Snaut",
+      "url": "https://multimovies.city/cast/juri-jarvet/",
+      "image": "https://image.tmdb.org/t/p/w92/ubPaP60b2NCrsh7jcp8NT0hmS4z.jpg"
+    },
+    {
+      "name": "Vladislav Dvorzhetsky",
+      "role": "Henri Berton",
+      "url": "https://multimovies.city/cast/vladislav-dvorzhetsky/",
+      "image": "https://image.tmdb.org/t/p/w92/740a9El61imunBGNI5mg2gka8o4.jpg"
+    },
+    {
+      "name": "Nikolay Grinko",
+      "role": "Kelvin's Father",
+      "url": "https://multimovies.city/cast/nikolay-grinko/",
+      "image": "https://image.tmdb.org/t/p/w92/epmuCiaA0gitEREo33mLP3WYzKo.jpg"
+    },
+    {
+      "name": "Anatoliy Solonitsyn",
+      "role": "Dr. Sartorius",
+      "url": "https://multimovies.city/cast/anatoliy-solonitsyn/",
+      "image": "https://image.tmdb.org/t/p/w92/ygSBuuvFPHqs9YFfbjSYfVpayYk.jpg"
+    },
+    {
+      "name": "Olga Barnet",
+      "role": "Kelvin's Mother",
+      "url": "https://multimovies.city/cast/olga-barnet/",
+      "image": "https://image.tmdb.org/t/p/w92/a6dtf0CFZL4BsO3eNSG3dLOPrnt.jpg"
+    },
+    {
+      "name": "Vitalik Kerdimun",
+      "role": "Henri Berton's Son",
+      "url": "https://multimovies.city/cast/vitalik-kerdimun/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Olga Kizilova",
+      "role": "Guest of Dr. Gibarian",
+      "url": "https://multimovies.city/cast/olga-kizilova/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Tatyana Malykh",
+      "role": "Kris Kelvin's Niece",
+      "url": "https://multimovies.city/cast/tatyana-malykh/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mm3aNTjFvuo0jeitneRDc1ZUNjI.jpg",
+    "https://image.tmdb.org/t/p/w300/7mS0UlNoRh9HEvcuqRl0S8y49jh.jpg",
+    "https://image.tmdb.org/t/p/w300/fLexvsY2sZqGrJkgmLSEvLsRusO.jpg",
+    "https://image.tmdb.org/t/p/w300/lddwPwvhMQXeQjMpLe7yaPjTQOm.jpg",
+    "https://image.tmdb.org/t/p/w300/8FmfhlCE0Bu3IAvbHpCYgNQMT9Y.jpg",
+    "https://image.tmdb.org/t/p/w300/lg1oJpL3lptdImcLuRxzA04FkQP.jpg",
+    "https://image.tmdb.org/t/p/w300/jZv1u7uzpOE5JOc2MmrvPUZWoyb.jpg",
+    "https://image.tmdb.org/t/p/w300/u2WWbWaq10mTQbYX8WpfhmR4jem.jpg",
+    "https://image.tmdb.org/t/p/w300/qjPhauZx2vOi3gNKsQfJZHeGemB.jpg",
+    "https://image.tmdb.org/t/p/w300/bWeXkzqMmM22MVJKi5VzjgPEPpi.jpg"
+  ],
+  "similar": [],
+  "views": 864,
+  "sources": [
+    "https://www.youtube.com/embed/seCRhjrLNy4?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/zqyht0m"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 96093,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 96093,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
