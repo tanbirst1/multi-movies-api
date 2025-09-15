@@ -1,0 +1,137 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-nutty-professor/",
+  "meta": {
+    "title": "The Nutty Professor",
+    "poster": "https://image.tmdb.org/t/p/w500/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jun. 26, 1996",
+    "ratingValue": "5.5",
+    "ratingCount": "2",
+    "synopsis": "Eddie Murphy stars as shy Dr. Sherman Klump, a kind, brilliant, \u2018calorifically challenged\u2019 genetic professor. When beautiful Carla Purty joins the university faculty, Sherman grows desperate to whittle his 400-pound frame down to size and win her heart. So, with one swig of his experimental fat-reducing serum, Sherman becomes \u2018Buddy Love\u2019, a fast-talking, pumped-up , plumped down Don Juan.",
+    "infoFields": {
+      "Original title": "The Nutty Professor",
+      "IMDb Rating": "5.7 119,997 votes",
+      "TMDb Rating": "5.624 2,607 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tom Shadyac",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tom-shadyac/",
+      "image": "https://image.tmdb.org/t/p/w92/kuliB1DrKSbdn2jxESncPbWxGrD.jpg"
+    },
+    {
+      "name": "Eddie Murphy",
+      "role": "Sherman Klump / Buddy Love / Papa / Mama / Grandma / Ernie",
+      "url": "https://multimovies.city/cast/eddie-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/35NneLV2mx3c4eHptwcCMDmihik.jpg"
+    },
+    {
+      "name": "Jada Pinkett Smith",
+      "role": "Carla Purty",
+      "url": "https://multimovies.city/cast/jada-pinkett-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/vt1Z1Fsu7gjp4L0OHey9Aa79lWj.jpg"
+    },
+    {
+      "name": "James Coburn",
+      "role": "Harlan Hartley",
+      "url": "https://multimovies.city/cast/james-coburn/",
+      "image": "https://image.tmdb.org/t/p/w92/9GApjInyrVvjnTAr652C1aViPqZ.jpg"
+    },
+    {
+      "name": "Larry Miller",
+      "role": "Dean Richmond",
+      "url": "https://multimovies.city/cast/larry-miller/",
+      "image": "https://image.tmdb.org/t/p/w92/ajnXlXG20LJwAwxne8G94ucVj0v.jpg"
+    },
+    {
+      "name": "Dave Chappelle",
+      "role": "Reggie Warrington",
+      "url": "https://multimovies.city/cast/dave-chappelle/",
+      "image": "https://image.tmdb.org/t/p/w92/8n64np7IAXbpQQJKxUncihJpq0G.jpg"
+    },
+    {
+      "name": "John Ales",
+      "role": "Jason",
+      "url": "https://multimovies.city/cast/john-ales/",
+      "image": "https://image.tmdb.org/t/p/w92/d8jC0dF0iuzx2XnNxneFgK5eJeK.jpg"
+    },
+    {
+      "name": "Athena Massey",
+      "role": "Sexy Girl",
+      "url": "https://multimovies.city/cast/athena-massey/",
+      "image": "https://image.tmdb.org/t/p/w92/41yqNbjhnjEW8mSUaZws0XaRW3M.jpg"
+    },
+    {
+      "name": "Lisa Boyle",
+      "role": "Sexy Girl",
+      "url": "https://multimovies.city/cast/lisa-boyle/",
+      "image": "https://image.tmdb.org/t/p/w92/nRj7ROz2QZz93S0AGtc26a29mVb.jpg"
+    },
+    {
+      "name": "Patricia Wilson",
+      "role": "Dean's Secretary",
+      "url": "https://multimovies.city/cast/patricia-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/24Miw8aWubOBV6obL1LPbt7qAJB.jpg"
+    },
+    {
+      "name": "Jamal Mixon",
+      "role": "Ernie Klump Jr.",
+      "url": "https://multimovies.city/cast/jamal-mixon/",
+      "image": "https://image.tmdb.org/t/p/w92/4spmBpPtqkBcLiyUpxWiAqSOv5r.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/gHFuLHxruielBcMEZx1WowxbRWS.jpg",
+    "https://image.tmdb.org/t/p/w300/jYcJz3e85OZZHaPFcN6pU4z4JCt.jpg",
+    "https://image.tmdb.org/t/p/w300/q9yEfSbgGaHyjaD8053wRN0NX1S.jpg",
+    "https://image.tmdb.org/t/p/w300/1LY7bVmQrvSozUYQWM05JJ2J4J1.jpg",
+    "https://image.tmdb.org/t/p/w300/4oLGMQrI5G0uC13XqV0xhbeAGhq.jpg"
+  ],
+  "similar": [],
+  "views": 1714,
+  "sources": [
+    "https://www.youtube.com/embed/gcc4L19sQDA?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/6y9ra95k0vd0"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5065,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5065,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
