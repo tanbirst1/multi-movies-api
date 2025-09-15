@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/star-wars/",
+  "meta": {
+    "title": "Star Wars: Episode IV \u2013 A New Hope",
+    "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Star wars",
+        "url": "https://multimovies.city/genre/star-wars/"
+      }
+    ],
+    "firstAirDate": "May. 25, 1977",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "infoFields": {
+      "Original title": "Star Wars",
+      "IMDb Rating": "8.6 1,430,851 votes",
+      "TMDb Rating": "8.205 19,506 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "George Lucas",
+      "role": "Director",
+      "url": "https://multimovies.city/director/george-lucas/",
+      "image": "https://image.tmdb.org/t/p/w92/WCSZzWdtPmdRxH9LUCVi2JPCSJ.jpg"
+    },
+    {
+      "name": "Mark Hamill",
+      "role": "Luke Skywalker",
+      "url": "https://multimovies.city/cast/mark-hamill/",
+      "image": "https://image.tmdb.org/t/p/w92/2ZulC2Ccq1yv3pemusks6Zlfy2s.jpg"
+    },
+    {
+      "name": "Harrison Ford",
+      "role": "Han Solo",
+      "url": "https://multimovies.city/cast/harrison-ford/",
+      "image": "https://image.tmdb.org/t/p/w92/5M7oN3sznp99hWYQ9sX0xheswWX.jpg"
+    },
+    {
+      "name": "Carrie Fisher",
+      "role": "Princess Leia Organa",
+      "url": "https://multimovies.city/cast/carrie-fisher/",
+      "image": "https://image.tmdb.org/t/p/w92/utKPqWm9MAcL6NqN0Kd71dWUmXM.jpg"
+    },
+    {
+      "name": "Peter Cushing",
+      "role": "Grand Moff Tarkin",
+      "url": "https://multimovies.city/cast/peter-cushing/",
+      "image": "https://image.tmdb.org/t/p/w92/if5g03wn6uvHx7F6FxXHLebKc0q.jpg"
+    },
+    {
+      "name": "Alec Guinness",
+      "role": "Obi-Wan \"Ben\" Kenobi",
+      "url": "https://multimovies.city/cast/alec-guinness/",
+      "image": "https://image.tmdb.org/t/p/w92/gplGgl6XERpvYdluiwY8GlxSdpi.jpg"
+    },
+    {
+      "name": "Anthony Daniels",
+      "role": "C-3PO",
+      "url": "https://multimovies.city/cast/anthony-daniels/",
+      "image": "https://image.tmdb.org/t/p/w92/7kR4kwXtvXtvrsxWeX3QLX5NS5V.jpg"
+    },
+    {
+      "name": "Kenny Baker",
+      "role": "R2-D2",
+      "url": "https://multimovies.city/cast/kenny-baker/",
+      "image": "https://image.tmdb.org/t/p/w92/uo3RorCoGDWHecLtqjviwzFExxR.jpg"
+    },
+    {
+      "name": "Peter Mayhew",
+      "role": "Chewbacca",
+      "url": "https://multimovies.city/cast/peter-mayhew/",
+      "image": "https://image.tmdb.org/t/p/w92/bWv4RHLhjH6Ujrfhzm6ZC8ms3f2.jpg"
+    },
+    {
+      "name": "David Prowse",
+      "role": "Darth Vader (performer)",
+      "url": "https://multimovies.city/cast/david-prowse/",
+      "image": "https://image.tmdb.org/t/p/w92/xTocYiKHlRYN8tfh8vyQFsRXC0K.jpg"
+    },
+    {
+      "name": "James Earl Jones",
+      "role": "Darth Vader (voice)",
+      "url": "https://multimovies.city/cast/james-earl-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/aDYSnJAK0BTVeE8osOy22Kz3SXY.jpg",
+    "https://image.tmdb.org/t/p/w300/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+    "https://image.tmdb.org/t/p/w300/yrdAamkeqXHm0UYukk8xgoCvc7G.jpg",
+    "https://image.tmdb.org/t/p/w300/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+    "https://image.tmdb.org/t/p/w300/xV7Kfz4TW3hN6q4xtZgu5vduBHA.jpg",
+    "https://image.tmdb.org/t/p/w300/jNjT5y95BToczcxgVPl1NBB7goY.jpg",
+    "https://image.tmdb.org/t/p/w300/1tSsgsfVVRULrLJrAclUGpQyEgm.jpg",
+    "https://image.tmdb.org/t/p/w300/jBFxXKCrViA88hhO59fDx0Av4P.jpg",
+    "https://image.tmdb.org/t/p/w300/iPnH51khswDrYij6XIBHKlAznW.jpg",
+    "https://image.tmdb.org/t/p/w300/p2NKvoDTvmpAxPfJQtyRtsIkxf9.jpg"
+  ],
+  "similar": [],
+  "views": 4475,
+  "sources": [
+    "https://www.youtube.com/embed/i-vsILeJ8_8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/9yj3qoz1gdb4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 729,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 729,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
