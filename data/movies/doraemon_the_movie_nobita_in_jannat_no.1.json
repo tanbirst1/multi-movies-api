@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/doraemon-nobita-and-the-kingdom-of-clouds/",
+  "meta": {
+    "title": "Doraemon The Movie Nobita In Jannat No.1",
+    "poster": "https://image.tmdb.org/t/p/w500/ch12oEXzm5uXroWSQmp2fOwGYbV.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/genre/disney-channel/"
+      },
+      {
+        "name": "Doraemon Movies",
+        "url": "https://multimovies.city/genre/doraemon/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      }
+    ],
+    "firstAirDate": "Mar. 07, 1992",
+    "ratingValue": "9.9",
+    "ratingCount": "9",
+    "synopsis": "Doraemon launches its ecological adventure to save Earth from a terrible threat with Nobita and his whole gang. This time Doraemon used his inventions to create, along with Nobita, his own world in the sky, a giant cloud. During their journey to the cloud are alien beings who seek to destroy civilization to chasten humans for their lack of commitment to the environment. Doraemon and the gang must find allies and convince the people of the clouds on Earth that there are people who fight for nature. In his adventure, meet good friends, raffled countless dangers, will encounter prehistoric animals and will give everything to defend our planet.",
+    "infoFields": {
+      "Original title": "\u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u3068\u96f2\u306e\u738b\u56fd",
+      "IMDb Rating": "7 548 votes",
+      "TMDb Rating": "7.217 23 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tsutomu Shibayama",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tsutomu-shibayama/",
+      "image": "https://image.tmdb.org/t/p/w92/9xHbjsmKMduBQqAEmBE02gMHNAl.jpg"
+    },
+    {
+      "name": "Michiko Nomura",
+      "role": "",
+      "url": "https://multimovies.city/cast/michiko-nomura/",
+      "image": "https://image.tmdb.org/t/p/w92/u4aVFRfu91gxI59XETf9oMnQBrz.jpg"
+    },
+    {
+      "name": "Kazuya Tatekabe",
+      "role": "",
+      "url": "https://multimovies.city/cast/kazuya-tatekabe/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kaneta Kimotsuki",
+      "role": "Suneo Honegawa (voice)",
+      "url": "https://multimovies.city/cast/kaneta-kimotsuki/",
+      "image": "https://image.tmdb.org/t/p/w92/gzNyG0KgQs4eMqVB4mD8XKGrb2N.jpg"
+    },
+    {
+      "name": "Noriko Ohara",
+      "role": "Nobita Nobi (voice)",
+      "url": "https://multimovies.city/cast/noriko-ohara/",
+      "image": "https://image.tmdb.org/t/p/w92/u5dvWzckBXvZw8Oexn5VN08vW7G.jpg"
+    },
+    {
+      "name": "Nobuyo Oyama",
+      "role": "Doraemon (voice)",
+      "url": "https://multimovies.city/cast/nobuyo-oyama/",
+      "image": "https://image.tmdb.org/t/p/w92/x2363EzijCCE3dpKcOHilX73MSI.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/sRfhl2ff0OdJT6QC68Bo9bAb5SY.jpg",
+    "https://image.tmdb.org/t/p/w300/zYGkFxhkECVW8f7wtF52ckpQak.jpg"
+  ],
+  "similar": [],
+  "views": 7275,
+  "sources": [
+    "https://multimoviesshg.com/e/rv4dgvh0f6c4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11052,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
