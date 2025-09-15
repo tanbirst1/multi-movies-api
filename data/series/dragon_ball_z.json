@@ -1,0 +1,764 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/tvshows/dragon-ball-z/",
+  "meta": {
+    "title": "Dragon Ball Z",
+    "poster": "https://image.tmdb.org/t/p/w500/6VKOfL6ihwTiB5Vibq6QTfzhxA6.jpg",
+    "networks": [
+      {
+        "name": "Fuji TV",
+        "url": "https://multimovies.city/network/fuji-tv/"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action & Adventure",
+        "url": "https://multimovies.city/genre/action-adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Series",
+        "url": "https://multimovies.city/genre/anime-series/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Documentary",
+        "url": "https://multimovies.city/genre/documentary/"
+      },
+      {
+        "name": "Sci-Fi & Fantasy",
+        "url": "https://multimovies.city/genre/sci-fi-fantasy/"
+      }
+    ],
+    "firstAirDate": "Apr. 26, 1989",
+    "ratingValue": "10",
+    "ratingCount": "5",
+    "synopsis": "The adventures of Earth\u2019s martial arts defender, Son Goku, continue with a new family and the revelation of his alien origins. Now Goku and his allies must defend the planet from an onslaught of new extraterrestrial enemies.",
+    "infoFields": {
+      "Original title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u30bc\u30c3\u30c8",
+      "TMDb Rating": "8.337 4,527 votes",
+      "First air date": "Apr. 26, 1989",
+      "Last air date": "Jan. 31, 1996",
+      "Seasons": "9",
+      "Episodes": "291",
+      "Average Duration": "26 minutes"
+    }
+  },
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "seasonTitle": "Season 1 Apr. 26, 1989",
+      "episodeCount": 39,
+      "episodes": [
+        {
+          "seasonNo": 1,
+          "episodeNo": 1,
+          "title": "The New Threat",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x1/",
+          "airDate": "Apr. 26, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/u6ojSes9U44rrs4lP3oWlXWHL9m.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/f0beixv",
+            "https://sbplay.org/embed-8gw1qekmp9du.html",
+            "https://dood.la/e/kcesxacop4wq",
+            "https://mixdrop.co/e/rw3rxgqqsw0mvo",
+            "https://embedsito.com/v/lnjz2fnwy265jkr",
+            "https://hydrax.net/watch?v=OfugFPIgOD"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 2,
+          "title": "Reunions",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x2/",
+          "airDate": "May. 03, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/ihaOmhdlsgura6O6H9Sq5HYtzaY.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/k0f6ci1",
+            "https://sbplay.org/embed-rpefwwlciaaa.html",
+            "https://dood.la/e/qv801zdv16pb",
+            "https://mixdrop.co/e/kn3zzg33crxzgz",
+            "https://embedsito.com/v/5d0w1cdy7y3j66-",
+            "https://hydrax.net/watch?v=D--tlH0F-U"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 3,
+          "title": "Unlikely Alliance",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x3/",
+          "airDate": "May. 10, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/uqW2WhwTfc876mQ1KblPwqclind.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/nuj0jbn",
+            "https://sbplay.org/embed-28cxjy2g36dn.html",
+            "https://dood.la/e/b0en3cuijl3q",
+            "https://mixdrop.co/e/6q48e60pax8ogg",
+            "https://embedsito.com/v/ry7jrse-6-x8x0j",
+            "https://hydrax.net/watch?v=tGoWj2X-LY"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 4,
+          "title": "Piccolo's Plan",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x4/",
+          "airDate": "May. 17, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/pTFtIMuQfZKypAUNM96qqCbrPPd.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/u1itasi",
+            "https://sbplay.org/embed-nfm7upor3dci.html",
+            "https://dood.la/e/sbr9l94pt3rg",
+            "https://mixdrop.co/e/3n8mpp4najkx6",
+            "https://embedsito.com/v/lnjz2fnwkwmjnm1",
+            "https://hydrax.net/watch?v=Jen1OzDdm"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 5,
+          "title": "Gohan's Rage",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x5/",
+          "airDate": "May. 24, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/yNMMBFbdgQEomihmlONagASUVMD.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/pk63jq7",
+            "https://sbplay.org/embed-w3ttns5a09jb.html",
+            "https://dood.la/e/2uxhjbpbvudx",
+            "https://mixdrop.co/e/6q48ldnmsll8oz0",
+            "https://embedsito.com/v/gqj0db-y4-4ne0x",
+            "https://hydrax.net/watch?v=59bVB9-zw9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 6,
+          "title": "No Time Like the Present",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x6/",
+          "airDate": "Jun. 07, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/dN2WoZ8wFNpjvaG8kLt3Jqs6wbM.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/fk8zrlh",
+            "https://sbplay.org/embed-9qzvbat3579y.html",
+            "https://dood.la/e/iqq7gwpg4g33",
+            "https://mixdrop.co/e/4n8qrvkzsq6q160",
+            "https://embedsito.com/v/ry7jrse-6k7xr1y",
+            "https://hydrax.net/watch?v=KHXyKc_0E"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 7,
+          "title": "Day 1",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x7/",
+          "airDate": "Jun. 14, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/9aLEPVL2XNxssYwJfnK8Xu9BXVO.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/ewib4le",
+            "https://sbplay.org/embed-7yp4g31wi1c2.html",
+            "https://dood.la/e/hih159hozoxs",
+            "https://mixdrop.co/e/3n8moxr9apnlrw",
+            "https://embedsito.com/v/j-j1pcdejqd1-7l",
+            "https://hydrax.net/watch?v=zQxQjdaCO"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 8,
+          "title": "Gohan Goes Bananas!",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x8/",
+          "airDate": "Jun. 21, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/isEBEgyQSpxvE9XHGqX3D3rNHi5.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/vi16z6p",
+            "https://sbplay.org/embed-xwgv2iwkkfct.html",
+            "https://dood.la/e/z8ywsufi9l79",
+            "https://mixdrop.co/e/6q48dpmdindl70",
+            "https://embedsito.com/v/ry7jrse-6-x005y",
+            "https://hydrax.net/watch?v=qP0hH-FL2d"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 9,
+          "title": "The Strangest Robot",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x9/",
+          "airDate": "Jun. 28, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/nlIXKanb2Td2fnPg1VUVw8TOu3O.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/zet358l",
+            "https://sbplay.org/embed-fmj80ip8oh20.html",
+            "https://dood.la/e/qc6lclfct9uz",
+            "https://mixdrop.co/e/rw3rv7gkhwx3zk",
+            "https://embedsito.com/v/47dlpfz6-213pw6",
+            "https://hydrax.net/watch?v=2MuWx_YPN"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 10,
+          "title": "A New Friend",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x10/",
+          "airDate": "Jul. 05, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/xhk4zW3c4du1h6p41dazuoRXKpR.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/tnfk232",
+            "https://sbplay.org/embed-jpreq99ozkrh.html",
+            "https://dood.la/e/22b9v8878igw",
+            "https://mixdrop.co/e/o738lr1di78qx6",
+            "https://embedsito.com/v/8p1x6i8ljlxdwnm",
+            "https://hydrax.net/watch?v=qrUaHuFIa"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 11,
+          "title": "Terror on Arlia",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x11/",
+          "airDate": "Jul. 12, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/4KIrCXoV2WhvKEz3l6NykIW5146.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/f9crv6x",
+            "https://sbplay.org/embed-j10n24di4i15.html",
+            "https://dood.la/e/lfyy4x3oh3d7",
+            "https://mixdrop.co/e/848nn8ovfp8437",
+            "https://embedsito.com/v/z7mj0fj6n255px1",
+            "https://hydrax.net/watch?v=viQAVbXCVX"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 12,
+          "title": "Global Training",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x12/",
+          "airDate": "Jul. 19, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/kB1qu3ATdIZUeEUe8dl81571z9j.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/bhcpuix",
+            "https://sbplay.org/embed-llo5zrba4o0t.html",
+            "https://dood.la/e/ejty94iqis9h",
+            "https://mixdrop.co/e/n04qpmg3c899r3",
+            "https://embedsito.com/v/j-j1pcdejk7534g",
+            "https://hydrax.net/watch?v=3xmDPL4V1t"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 13,
+          "title": "Goz and Mez",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x13/",
+          "airDate": "Jul. 26, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/kzpBnRmI6l0IKchJubXpUDAeZNT.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/aj4mfspltimovies.website/e/t2ojnpk2t2kq.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>",
+            "https://sbplay.org/embed-uze029awa1f6.html",
+            "https://dood.la/e/2xv94n57xmb4",
+            "https://mixdrop.co/e/md3g8nw8axd4499",
+            "https://embedsito.com/v/47dlpfzy4x2zx3d",
+            "https://hydrax.net/watch?v=JJpb7skPuv"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 14,
+          "title": "Princess Snake",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x14/",
+          "airDate": "Aug. 02, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/8gf8uVYuNAkx1iT5J9r0psMdSDt.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/h0ams7d",
+            "https://sbplay.org/embed-r6mh5kduvghz.html",
+            "https://dood.la/e/a8g32ubjnzfo",
+            "https://mixdrop.co/e/n04qpl7qavgx63",
+            "https://embedsito.com/v/z7mj0fj6ex8wy48",
+            "https://hydrax.net/watch?v=U8nFXL6SKT"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 15,
+          "title": "Dueling Piccolos",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x15/",
+          "airDate": "Aug. 09, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/vO4WNTAbUFmdt3tt3Yvvdj6grLI.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/w0pougk",
+            "https://sbplay.org/embed-vff0bu64lqcm.html",
+            "https://dood.la/e/apjxa6mtl4xg",
+            "https://mixdrop.co/e/7r8ved1ncj11q3",
+            "https://embedsito.com/v/47dlpfz731rnzdy",
+            "https://hydrax.net/watch?v=37WB2XjuXs"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 16,
+          "title": "Plight of the Children",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x16/",
+          "airDate": "Aug. 16, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/c7IGri0d1Dtk7ajAPIOjEi3EIgc.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/c7181du",
+            "https://sbplay.org/embed-axpb81dpnx69.html",
+            "https://dood.la/e/6l6hx9ou9mq9",
+            "https://mixdrop.co/e/848nzrd4akvj6v",
+            "https://embedsito.com/v/z7mj0fjk50yzmpl",
+            "https://hydrax.net/watch?v=epUmM35fM"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 17,
+          "title": "Pendulum Room Peril",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x17/",
+          "airDate": "Aug. 30, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/zPSFXzQzdmU6DFuLZAavXgrz5aM.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/z6bij0m",
+            "https://sbplay.org/embed-37j8bkjai27v.html",
+            "https://dood.la/e/ncl7bc1kmg09",
+            "https://mixdrop.co/e/rw3r0g4pa9zm37",
+            "https://embedsito.com/v/x4kj7h5w-enkwx2",
+            "https://hydrax.net/watch?v=A9nqRW4y0z"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 18,
+          "title": "The End of Snake Way",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x18/",
+          "airDate": "Sep. 06, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/pSb8q4Ypw5sXPLF5krdpObY04EG.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/p91xr44",
+            "https://sbplay.org/embed-53ujq0i5xis1.html",
+            "https://dood.la/e/l1hrgzvy5emr",
+            "https://mixdrop.co/e/1v8xoqplho70lk",
+            "https://embedsito.com/v/myjm4s537jr-qk7",
+            "https://hydrax.net/watch?v=UDwu-FCCIZ"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 19,
+          "title": "Defying Gravity",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x19/",
+          "airDate": "Sep. 13, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/ai1ll0zXv906YoEuCVm7fzbNjhQ.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/zky5alq",
+            "https://sbplay.org/embed-82ca8rsshtpw.html",
+            "https://dood.la/e/gyh4em3ec5ei",
+            "https://mixdrop.co/e/kn3zerz4u88nv",
+            "https://embedsito.com/v/gqj0db-yd7y2-2m",
+            "https://hydrax.net/watch?v=oJ_Y6jUlY"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 20,
+          "title": "Goku's Ancestors",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x20/",
+          "airDate": "Sep. 20, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/4LCafBags0Y38X2qzj1Eg0Itqwv.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/hcd3bub",
+            "https://sbplay.org/embed-h12xp7hnd8rw.html",
+            "https://dood.la/e/onvbw3qp7dav",
+            "https://mixdrop.co/e/enwkexlnupk0xv",
+            "https://embedsito.com/v/kyjk1s34q6y8yxl",
+            "https://hydrax.net/watch?v=0sWphIjgW"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 21,
+          "title": "Counting Down",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x21/",
+          "airDate": "Sep. 27, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/vPt6gRU5AzL20xmaKf8TxzlQvNr.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/qn1zd4h",
+            "https://sbplay.org/embed-b6y9hs7ubcvg.html",
+            "https://dood.la/e/m9nmron1yupx",
+            "https://mixdrop.co/e/vn30qj16tjv63e",
+            "https://embedsito.com/v/x4kj7h5w-we-xz6",
+            "https://hydrax.net/watch?v=tkioVC2ury"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 22,
+          "title": "The Darkest Day",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x22/",
+          "airDate": "Oct. 11, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/7SdxU3MbnFpL1AWgMgpt4BmlH2f.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/c8stvro",
+            "https://sbplay.org/embed-98eicbeqnwc4.html",
+            "https://dood.la/e/zkksdsdyegey",
+            "https://mixdrop.co/e/xovk9xvnhldl78k",
+            "https://embedsito.com/v/ry7jrse-6-r8wwe",
+            "https://hydrax.net/watch?v=3IIle-ax9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 23,
+          "title": "Saibamen Attack!",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x23/",
+          "airDate": "Oct. 18, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/AfPZRiuG7IrpBuVBg1FO40tkrjx.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/y0tsy8t",
+            "https://sbplay.org/embed-uxn9s4h299xu.html",
+            "https://dood.la/e/2yczuw44n9ig",
+            "https://mixdrop.co/e/rw3r9xrgbk0lw7",
+            "https://hydrax.net/watch?v=TCC0UoKW3j"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 24,
+          "title": "The Power of Nappa",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x24/",
+          "airDate": "Oct. 25, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/1mB2idhgjgIXeLgQF5aHFQr3pMf.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/wct5xo7",
+            "https://sbplay.org/embed-wxswl3xii5nr.html",
+            "https://dood.la/e/y34xkmtoc8mt",
+            "https://mixdrop.co/e/848nq7eku4z1v",
+            "https://embedsito.com/v/8p1x6i8l63qwwxr",
+            "https://hydrax.net/watch?v=cMUxl9anb"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 25,
+          "title": "Sacrifice",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x25/",
+          "airDate": "Nov. 01, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/1x6OfPBXif8rz4tI3VM8HNqtOCM.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/kosdy3e",
+            "https://sbplay.org/embed-s0yqr8wtp0mm.html",
+            "https://dood.la/e/5o1b6a4qkmz1",
+            "https://mixdrop.co/e/xovkqqm0ugz030",
+            "https://embedsito.com/v/36752cmewe10yn6",
+            "https://hydrax.net/watch?v=NvJozBRbr"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 26,
+          "title": "Nappa's Rampage",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x26/",
+          "airDate": "Nov. 08, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/fx8RlNSButbvUOxtHormgFM4V36.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/uz3jrpz",
+            "https://sbplay.org/embed-2p4vjlobuxwv.html",
+            "https://dood.la/e/50ryu17r0raa",
+            "https://mixdrop.co/e/wno7mloks00dmrq",
+            "https://embedsito.com/v/myjm4s5373d372x"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 27,
+          "title": "Nimbus Speed",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x27/",
+          "airDate": "Nov. 22, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/cixtMak9tVwvUEzgw3xlR3PmFFX.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/x41cbmv",
+            "https://sbplay.org/embed-u01hjmya4gho.html",
+            "https://dood.la/e/u4m1iqa16y09",
+            "https://mixdrop.co/e/4n8qmd89i1dxzj",
+            "https://embedsito.com/v/gqj0db-y67yx0zx",
+            "https://hydrax.net/watch?v=evMUqNDNWu"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 28,
+          "title": "Goku's Arrival",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x28/",
+          "airDate": "Nov. 29, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/sVeRyqmCLC0xg6klvGcZN6CyzR0.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/hkzbunu",
+            "https://sbplay.org/embed-d8f5ryy4p9h0.html",
+            "https://dood.la/e/3uc7rso055dy",
+            "https://mixdrop.co/e/qlqj61v9uzj3p3",
+            "https://embedsito.com/v/py4ldsm155p1qg4",
+            "https://hydrax.net/watch?v=YGJ1czJzM"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 29,
+          "title": "Lesson Number One",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x29/",
+          "airDate": "Dec. 06, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/apLeFbT5b8fxIGq3qsrVUQG1s47.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/emcogab",
+            "https://sbplay.org/embed-g6bb63a3zn15.html",
+            "https://dood.la/e/2w096p272xfa",
+            "https://mixdrop.co/e/dql8eq9zsv47dn",
+            "https://embedsito.com/v/dkj64sxrym1x-0g",
+            "https://hydrax.net/watch?v=UctcgLFMg2"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 30,
+          "title": "Goku vs. Vegeta",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x30/",
+          "airDate": "Dec. 13, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/637VS7fJd82IoD3MnvKmncyTnVU.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/j00pgj5",
+            "https://sbplay.org/embed-bgbscmwrpg7w.html",
+            "https://dood.la/e/07hxaoipvx2d",
+            "https://mixdrop.co/e/6q4edqjxtqm93g",
+            "https://embedsito.com/v/y2zjdhem-g-wjjr",
+            "https://hydrax.net/watch?v=uaB391a5Bb"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 31,
+          "title": "Saiyan Sized Secret",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x31/",
+          "airDate": "Dec. 20, 1989",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/7NNu0dactXn0dxk5VDdFrU8gLg4.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/phb7my1",
+            "https://sbplay.org/embed-m3gnqufih4cg.html",
+            "https://dood.la/e/yzalabnkk1jh",
+            "https://mixdrop.co/e/pk3vn9lvugdpv1m",
+            "https://embedsito.com/v/nyjq6s2my52pepx",
+            "https://hydrax.net/watch?v=Gx2iV8Itd"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 32,
+          "title": "Spirit Bomb Away!",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x32/",
+          "airDate": "Jan. 17, 1990",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/rv9GK9wBZ2iaPUDc7jQRuRPcEIf.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/cpioysc",
+            "https://sbplay.org/embed-ptwenmfubmnd.html",
+            "https://dood.la/e/3bxt1umg2phh",
+            "https://mixdrop.co/e/enwk44lotwg7mp",
+            "https://embedsito.com/v/py4ldsm121-1kx0",
+            "https://hydrax.net/watch?v=lBSUM3VnRL"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 33,
+          "title": "Hero in the Shadows",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x33/",
+          "airDate": "Jan. 24, 1990",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/s2oEfRkMeDPCgytDaluSFMkiso5.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/f2w8bbd",
+            "https://sbplay.org/embed-levx4vwzl0e7.html",
+            "https://dood.la/e/bblgu5xrj5qk",
+            "https://mixdrop.co/e/j9mx41orfr3o8j",
+            "https://embedsito.com/v/y2zjdhem-g03lrj",
+            "https://hydrax.net/watch?v=TucJZrdMt7"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 34,
+          "title": "Krillin's Offensive",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x34/",
+          "airDate": "Jan. 31, 1990",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/7DLotUvCkIM0e3xJiWHjJOjgeiq.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/h0lsboz",
+            "https://sbplay.org/embed-jc69zttosrt0.html",
+            "https://dood.la/e/hnaoy0aqiz29",
+            "https://mixdrop.co/e/0v81oo00iomvmo",
+            "https://hydrax.net/watch?v=tvp4J_V-O"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 35,
+          "title": "Mercy",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x35/",
+          "airDate": "Feb. 07, 1990",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/v3ZLfF4ZB0iQceMy9yFO4YhMpcH.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/hpkokc6",
+            "https://sbplay.org/embed-8lojiiytqjd2.html",
+            "https://dood.la/e/wiatgpxqh2me",
+            "https://mixdrop.co/e/l63mw9g0b989d0",
+            "https://embedsito.com/v/qy6j0se0kdkq0e-",
+            "https://hydrax.net/watch?v=bP_Odf-EeRP"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 36,
+          "title": "Picking Up The Pieces",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x36/",
+          "airDate": "Feb. 14, 1990",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/7UpfI5c7htFAOTSvQbQZz5bExUG.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/cpxk3o7",
+            "https://sbplay.org/embed-3fbxbtxtjz08.html",
+            "https://dood.la/e/aii70d5igh38",
+            "https://mixdrop.co/e/xovkoe8rse17x6",
+            "https://hydrax.net/watch?v=5JnaITLtm"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 37,
+          "title": "Plans for Departure",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x37/",
+          "airDate": "Feb. 21, 1990",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/7upnZJpiYFORNofJwSLHRt1xeP2.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/koq2c6i",
+            "https://sbplay.org/embed-yrcgc494i1oy.html",
+            "https://dood.la/e/ki08innv0mr2",
+            "https://mixdrop.co/e/pk3v3ew8t3l709",
+            "https://embedsito.com/v/gqj0db-y624e16k",
+            "https://hydrax.net/watch?v=Ej2seKXTx"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 38,
+          "title": "Nursing Wounds",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x38/",
+          "airDate": "Feb. 28, 1990",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/9QKFZLxc6UWLXpoJI7RvxMRT3We.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/kiyqwps",
+            "https://sbplay.org/embed-p598y3hb9g25.html",
+            "https://dood.la/e/yyf4xyed2q1g",
+            "https://mixdrop.co/e/9n8rnprvcw3gwl",
+            "https://embedsito.com/v/dkj64sx5y4xgg48",
+            "https://hydrax.net/watch?v=5EB8ORv9H9"
+          ]
+        },
+        {
+          "seasonNo": 1,
+          "episodeNo": 39,
+          "title": "Friends or Foes?",
+          "url": "https://multimovies.city/episodes/dragon-ball-z-1x39/",
+          "airDate": "Mar. 07, 1990",
+          "thumbnail": "https://multimovies.city/wp-content/uploads/2023/04/mb9KszOUDAvaBaUzN1jbnUzYtNv.jpg",
+          "sources": [
+            "https://gdmirrorbot.nl/embed/vhq58tq",
+            "https://sbplay.org/embed-wp4refoqb5jp.html",
+            "https://dood.la/e/lzbq77rmabt2",
+            "https://mixdrop.co/e/0v816400cdk3v9",
+            "https://embedsito.com/v/j-j1pcde1m51z3j",
+            "https://hydrax.net/watch?v=r7SBJXd-D_"
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "name": "Akira Toriyama",
+      "role": "Creator",
+      "url": "https://multimovies.city/creator/akira-toriyama/",
+      "image": "https://image.tmdb.org/t/p/w92/9YorJMvF6DgfJcpATHbGyivZpS5.jpg"
+    },
+    {
+      "name": "Masako Nozawa",
+      "role": "Son Goku / Gohan / Goten",
+      "url": "https://multimovies.city/cast/masako-nozawa/",
+      "image": "https://image.tmdb.org/t/p/w92/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "name": "Ryou Horikawa",
+      "role": "Vegeta",
+      "url": "https://multimovies.city/cast/ryou-horikawa/",
+      "image": "https://image.tmdb.org/t/p/w92/1fiJvPrzz8Fqsjr5DVQclGojxO5.jpg"
+    },
+    {
+      "name": "Toshio Furukawa",
+      "role": "Piccolo",
+      "url": "https://multimovies.city/cast/toshio-furukawa/",
+      "image": "https://image.tmdb.org/t/p/w92/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
+    },
+    {
+      "name": "Mayumi Tanaka",
+      "role": "Krillin",
+      "url": "https://multimovies.city/cast/mayumi-tanaka/",
+      "image": "https://image.tmdb.org/t/p/w92/dWh2Y3bQkSjPv3c7kyy5P6M3PLS.jpg"
+    },
+    {
+      "name": "Hiromi Tsuru",
+      "role": "Bulma / Bulla",
+      "url": "https://multimovies.city/cast/hiromi-tsuru/",
+      "image": "https://image.tmdb.org/t/p/w92/oFU9CCNLUhklLhEuLutM0FyTUbt.jpg"
+    },
+    {
+      "name": "Naoki Tatsuta",
+      "role": "Oolong",
+      "url": "https://multimovies.city/cast/naoki-tatsuta/",
+      "image": "https://image.tmdb.org/t/p/w92/iYGYNGRoQv0yRwKhisqfk5ARVTE.jpg"
+    },
+    {
+      "name": "Ryusei Nakao",
+      "role": "Freeza",
+      "url": "https://multimovies.city/cast/ryusei-nakao/",
+      "image": "https://image.tmdb.org/t/p/w92/mStyRuTHrJlvPbWamnJHLwRmSOG.jpg"
+    },
+    {
+      "name": "Joji Yanami",
+      "role": "Dr. Briefs",
+      "url": "https://multimovies.city/cast/joji-yanami/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Yuko Minaguchi",
+      "role": "Videl",
+      "url": "https://multimovies.city/cast/yuko-minaguchi/",
+      "image": "https://image.tmdb.org/t/p/w92/bEv0ho89VNgWkCCmT2GdNjMAuvZ.jpg"
+    },
+    {
+      "name": "Naoko Watanabe",
+      "role": "Puar",
+      "url": "https://multimovies.city/cast/naoko-watanabe/",
+      "image": "https://image.tmdb.org/t/p/w92/vTd7ZEnuDiS9GyD1PfWG931YeLn.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+    "https://image.tmdb.org/t/p/w300/s9xZojg7pNDv26hzvi0Lgt5esWC.jpg",
+    "https://image.tmdb.org/t/p/w300/urj6noDW3OlROu34oy6BCmiQEWQ.jpg",
+    "https://image.tmdb.org/t/p/w300/zOz6DeXeOhKRVGUuiK3WufLXQIB.jpg",
+    "https://image.tmdb.org/t/p/w300/96fP2e5cuIZnB6wskpNfZrLkrm4.jpg",
+    "https://image.tmdb.org/t/p/w300/aTdLJW3qIE3brKshSOkYykdoDmd.jpg",
+    "https://image.tmdb.org/t/p/w300/y1DQTFlJAn8mhDQx9PMUfYTO78j.jpg",
+    "https://image.tmdb.org/t/p/w300/wt4cVRnzQsgZsMLX1jwnPHtCS0l.jpg",
+    "https://image.tmdb.org/t/p/w300/3Wbvbd5mqkHxxqFv5KIfha6N4yO.jpg",
+    "https://image.tmdb.org/t/p/w300/ujaiYzCVak67GK91eVdCS0GmT1y.jpg"
+  ],
+  "similar": [],
+  "cache": false
+}
