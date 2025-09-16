@@ -4,15 +4,123 @@
   "meta": {
     "title": "Tomcats",
     "poster": "https://image.tmdb.org/t/p/w500/pAHD3TfoDJX6jCPVhICBNLBxnBH.jpg",
-    "synopsis": "College buddies chip in and promise that the group\u2019s last unmarried man will collect a cash pot. Seven years later, the kitty is worth $500,000 \u2014 money Michael needs to pay a gambling debt. Problem is, the only other single guy is a hopeless womanizer!"
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Mar. 30, 2001",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "College buddies chip in and promise that the group\u2019s last unmarried man will collect a cash pot. Seven years later, the kitty is worth $500,000 \u2014 money Michael needs to pay a gambling debt. Problem is, the only other single guy is a hopeless womanizer!",
+    "infoFields": {
+      "Original title": "Tomcats",
+      "IMDb Rating": "5.3 20,138 votes",
+      "TMDb Rating": "5.133 255 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Gregory Poirier",
+      "role": "Director",
+      "url": "https://multimovies.city/director/gregory-poirier/",
+      "image": "https://image.tmdb.org/t/p/w92/nhwDNCzuXmV7NRnNGQ0ZkjCNJiR.jpg"
+    },
+    {
+      "name": "Jerry O'Connell",
+      "role": "Michael Delaney",
+      "url": "https://multimovies.city/cast/jerry-oconnell/",
+      "image": "https://image.tmdb.org/t/p/w92/p2zcFeDIKUrPrbT5ODqoLifdN3Q.jpg"
+    },
+    {
+      "name": "Shannon Elizabeth",
+      "role": "Officer Natalie Parker",
+      "url": "https://multimovies.city/cast/shannon-elizabeth/",
+      "image": "https://image.tmdb.org/t/p/w92/1H99EVPLMQx3C0DKrVCiFKPpDB5.jpg"
+    },
+    {
+      "name": "Jake Busey",
+      "role": "Kyle Brenner",
+      "url": "https://multimovies.city/cast/jake-busey/",
+      "image": "https://image.tmdb.org/t/p/w92/3WknfRePAvwFJfrbYVvfYXTQCh9.jpg"
+    },
+    {
+      "name": "Horatio Sanz",
+      "role": "Steve",
+      "url": "https://multimovies.city/cast/horatio-sanz/",
+      "image": "https://image.tmdb.org/t/p/w92/ckz64bpwFOhF1tMu1klDk5AT9Ck.jpg"
+    },
+    {
+      "name": "Bernie Casey",
+      "role": "Officer Hurley",
+      "url": "https://multimovies.city/cast/bernie-casey/",
+      "image": "https://image.tmdb.org/t/p/w92/xxmL2k2lxWswkFOJJEdi2Tf51YK.jpg"
+    },
+    {
+      "name": "Jaime Pressly",
+      "role": "Tricia",
+      "url": "https://multimovies.city/cast/jaime-pressly/",
+      "image": "https://image.tmdb.org/t/p/w92/cPS3VVmV0syoWn14W3AY7ALgtFV.jpg"
+    },
+    {
+      "name": "David Ogden Stiers",
+      "role": "Dr. Crawford",
+      "url": "https://multimovies.city/cast/david-ogden-stiers/",
+      "image": "https://image.tmdb.org/t/p/w92/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+    },
+    {
+      "name": "Travis Fine",
+      "role": "Jan",
+      "url": "https://multimovies.city/cast/travis-fine/",
+      "image": "https://image.tmdb.org/t/p/w92/4gjRxvndiZllcCsdpNQr5I0mfY2.jpg"
+    },
+    {
+      "name": "Heather Stephens",
+      "role": "Jill",
+      "url": "https://multimovies.city/cast/heather-stephens/",
+      "image": "https://image.tmdb.org/t/p/w92/s8hYLtrTPWiiDcMYqk56XwpJvZu.jpg"
+    },
+    {
+      "name": "Julia Schultz",
+      "role": "Shelby",
+      "url": "https://multimovies.city/cast/julia-schultz/",
+      "image": "https://image.tmdb.org/t/p/w92/cwMooMYRbW0zx4YTVdg8kWOHO8c.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/eCtRseKCbltn8C6XW1GhqW0c4VA.jpg",
+    "https://image.tmdb.org/t/p/w300/78OcTPni2PQNeRNrsX4mawapF4A.jpg",
+    "https://image.tmdb.org/t/p/w300/610XrIvG1Mf6dOsWDqKj9eLEW4R.jpg",
+    "https://image.tmdb.org/t/p/w300/4Ytmotbh8TZHhYMdROOgPaK3hQh.jpg",
+    "https://image.tmdb.org/t/p/w300/f1vgRUR2H5IqUBLD5fzjZFvCHCN.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 1518,
+  "sources": [
+    "https://www.youtube.com/embed/40sg_DsrE5o?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/bv2f7ck"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 74556,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 74556,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:30:06.977029"
 }
