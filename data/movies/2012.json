@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/2012/",
+  "meta": {
+    "title": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/zaqam2RNscH5ooYFWInV6hjx6y5.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Oct. 10, 2009",
+    "ratingValue": "7.9",
+    "ratingCount": "16",
+    "synopsis": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth\u2019s core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world\u2019s population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world\u2019s leaders race to build \u201carks\u201d to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
+    "infoFields": {
+      "Original title": "2012",
+      "IMDb Rating": "5.8 408,222 votes",
+      "TMDb Rating": "5.85 12,060 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Roland Emmerich",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roland-emmerich/",
+      "image": "https://image.tmdb.org/t/p/w92/mN8x74uv9yQ7dJl8nh2q26mkY8v.jpg"
+    },
+    {
+      "name": "John Cusack",
+      "role": "Jackson Curtis",
+      "url": "https://multimovies.city/cast/john-cusack/",
+      "image": "https://image.tmdb.org/t/p/w92/a6Fd7fyRtyBrxIVdEcIJBYAJPG6.jpg"
+    },
+    {
+      "name": "Chiwetel Ejiofor",
+      "role": "Adrian Helmsley",
+      "url": "https://multimovies.city/cast/chiwetel-ejiofor/",
+      "image": "https://image.tmdb.org/t/p/w92/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "name": "Amanda Peet",
+      "role": "Kate Curtis",
+      "url": "https://multimovies.city/cast/amanda-peet/",
+      "image": "https://image.tmdb.org/t/p/w92/5TfyCj0X9ftKO11FN057P05s78C.jpg"
+    },
+    {
+      "name": "Oliver Platt",
+      "role": "Carl Anheuser",
+      "url": "https://multimovies.city/cast/oliver-platt/",
+      "image": "https://image.tmdb.org/t/p/w92/toAVx1NyoVbFkxh0ydRsD1fP6pV.jpg"
+    },
+    {
+      "name": "Thandiwe Newton",
+      "role": "Laura Wilson",
+      "url": "https://multimovies.city/cast/thandiwe-newton/",
+      "image": "https://image.tmdb.org/t/p/w92/sMfu4g6HnNxoWqnahJNA9mTP2Zb.jpg"
+    },
+    {
+      "name": "Tom McCarthy",
+      "role": "Gordon Silberman",
+      "url": "https://multimovies.city/cast/tom-mccarthy/",
+      "image": "https://image.tmdb.org/t/p/w92/cEA6cxG3AiH0hUzFH9mUQQVy20O.jpg"
+    },
+    {
+      "name": "George Segal",
+      "role": "Tony Delgatto",
+      "url": "https://multimovies.city/cast/george-segal/",
+      "image": "https://image.tmdb.org/t/p/w92/e965A2ooT02J26MD13SpvfKmqJi.jpg"
+    },
+    {
+      "name": "Danny Glover",
+      "role": "President Thomas Wilson",
+      "url": "https://multimovies.city/cast/danny-glover/",
+      "image": "https://image.tmdb.org/t/p/w92/whWpsKpF96i5nrQK98zBHGmuBR2.jpg"
+    },
+    {
+      "name": "Woody Harrelson",
+      "role": "Charlie Frost",
+      "url": "https://multimovies.city/cast/woody-harrelson/",
+      "image": "https://image.tmdb.org/t/p/w92/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "name": "Liam James",
+      "role": "Noah Curtis",
+      "url": "https://multimovies.city/cast/liam-james/",
+      "image": "https://image.tmdb.org/t/p/w92/a8qMiwUEbiohMnjwyMSOSrivUUE.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/pvxmYJcgrLiYC6G2IQTn1PPNems.jpg",
+    "https://image.tmdb.org/t/p/w300/jCvkDqWWBrgxf9R3DrtJ6GpqXse.jpg",
+    "https://image.tmdb.org/t/p/w300/x9GeCXTGiPcmQcCsd1yzbNnx3up.jpg",
+    "https://image.tmdb.org/t/p/w300/1XVmQ1rAqiQAi6012RCuKqWzCFr.jpg",
+    "https://image.tmdb.org/t/p/w300/fZVivbizzuVQnWUqD4xVQUpW63W.jpg",
+    "https://image.tmdb.org/t/p/w300/bu8ieL1f8JAPhzTYznCliP9Slp3.jpg",
+    "https://image.tmdb.org/t/p/w300/9PhbZRqMhi361DjjjvGeZrDTXNF.jpg",
+    "https://image.tmdb.org/t/p/w300/s0607NawBfN1CfqJ6juxz9QiMbk.jpg",
+    "https://image.tmdb.org/t/p/w300/7p3Azb4Cl76GY4iXiijfDsfaxYJ.jpg",
+    "https://image.tmdb.org/t/p/w300/aBKQoDM8bXWHy1bXRwyj6PuB9M0.jpg"
+  ],
+  "similar": [],
+  "views": 14101,
+  "sources": [
+    "https://www.youtube.com/embed/sFXGrTng0gQ?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/iddgr65"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18293,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18293,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:35:59.221084"
+}
