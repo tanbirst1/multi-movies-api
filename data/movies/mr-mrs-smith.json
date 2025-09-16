@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/mr-mrs-smith/",
+  "meta": {
+    "title": "Mr. and Mrs. Smith",
+    "poster": "https://image.tmdb.org/t/p/w500/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 07, 2005",
+    "ratingValue": "8",
+    "ratingCount": "3",
+    "synopsis": "After five (or six) years of vanilla-wedded bliss, ordinary suburbanites John and Jane Smith are stuck in a huge rut. Unbeknownst to each other, they are both coolly lethal, highly-paid assassins working for rival organisations. When they discover they\u2019re each other\u2019s next target, their secret lives collide in a spicy, explosive mix of wicked comedy, pent-up passion, nonstop action and high-tech weaponry.",
+    "infoFields": {
+      "Original title": "Mr. & Mrs. Smith",
+      "IMDb Rating": "6.5 563,081 votes",
+      "TMDb Rating": "6.688 10,524 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Doug Liman",
+      "role": "Director",
+      "url": "https://multimovies.city/director/doug-liman/",
+      "image": "https://image.tmdb.org/t/p/w92/AfM0RdrW0wNRsvrCjEEVbbMSBl3.jpg"
+    },
+    {
+      "name": "Brad Pitt",
+      "role": "John Smith",
+      "url": "https://multimovies.city/cast/brad-pitt/",
+      "image": "https://image.tmdb.org/t/p/w92/1k9MVNS9M3Y4KejBHusNdbGJwRw.jpg"
+    },
+    {
+      "name": "Angelina Jolie",
+      "role": "Jane Smith",
+      "url": "https://multimovies.city/cast/angelina-jolie/",
+      "image": "https://image.tmdb.org/t/p/w92/wYqFJp7HXyNQ3hggB4XRRmT3YTg.jpg"
+    },
+    {
+      "name": "Vince Vaughn",
+      "role": "Eddie",
+      "url": "https://multimovies.city/cast/vince-vaughn/",
+      "image": "https://image.tmdb.org/t/p/w92/A9fJ88dfXZGpgFTnQIK0bOtjMrj.jpg"
+    },
+    {
+      "name": "Adam Brody",
+      "role": "Benjamin Danz",
+      "url": "https://multimovies.city/cast/adam-brody/",
+      "image": "https://image.tmdb.org/t/p/w92/xQpoq895Z034xt2mG3taAidNAo1.jpg"
+    },
+    {
+      "name": "Kerry Washington",
+      "role": "Jasmine",
+      "url": "https://multimovies.city/cast/kerry-washington/",
+      "image": "https://image.tmdb.org/t/p/w92/hCi43gRO7zfv3Mu8X1bpqtloyHT.jpg"
+    },
+    {
+      "name": "Keith David",
+      "role": "Father",
+      "url": "https://multimovies.city/cast/keith-david/",
+      "image": "https://image.tmdb.org/t/p/w92/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg"
+    },
+    {
+      "name": "Chris Weitz",
+      "role": "Martin Coleman",
+      "url": "https://multimovies.city/cast/chris-weitz/",
+      "image": "https://image.tmdb.org/t/p/w92/4HONbwCefKNKBXafRRjXZN00wJE.jpg"
+    },
+    {
+      "name": "Rachael Huntley",
+      "role": "Suzy Coleman",
+      "url": "https://multimovies.city/cast/rachael-huntley/",
+      "image": "https://image.tmdb.org/t/p/w92/uiXBco6GPl3CR4NqduCsl2Gcah7.jpg"
+    },
+    {
+      "name": "Michelle Monaghan",
+      "role": "Gwen",
+      "url": "https://multimovies.city/cast/michelle-monaghan/",
+      "image": "https://image.tmdb.org/t/p/w92/jB47BoGdudHELszn9ZAZqnnUy8N.jpg"
+    },
+    {
+      "name": "Stephanie March",
+      "role": "Julie - Associate #1",
+      "url": "https://multimovies.city/cast/stephanie-march/",
+      "image": "https://image.tmdb.org/t/p/w92/7iDG2vgajeDQJROkhkVjHYuKS3.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iFaWUETEE2umP1WY0LUAmjSpzm7.jpg",
+    "https://image.tmdb.org/t/p/w300/ka9sZqQfam7gv3evgNTXV1UmEFT.jpg",
+    "https://image.tmdb.org/t/p/w300/2YJOXPl4QtCskixYA58ToyCXEW0.jpg",
+    "https://image.tmdb.org/t/p/w300/tgDSUwWMgypgmcBhRs9u30RLPNC.jpg",
+    "https://image.tmdb.org/t/p/w300/pTJUVfzXMBXFYIfMnKFo3NuIFF5.jpg",
+    "https://image.tmdb.org/t/p/w300/6xBknFMZhCaNJYWXyyzHEXTRk3S.jpg",
+    "https://image.tmdb.org/t/p/w300/z4Tq8xE0FZA0pS8KwTTZ20WyY8i.jpg",
+    "https://image.tmdb.org/t/p/w300/oZx1XBXElbvyejqofefkt48asZJ.jpg",
+    "https://image.tmdb.org/t/p/w300/zxYMe9GoJ67LP9xpPP3cgqCUuIU.jpg",
+    "https://image.tmdb.org/t/p/w300/9eBjTQuPWdXBRFPLBcu6DutGkxt.jpg"
+  ],
+  "similar": [],
+  "views": 7197,
+  "sources": [
+    "https://www.youtube.com/embed/TWB_icm5M38?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/m79nhn0"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 28556,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 28556,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:56:37.537393"
+}
