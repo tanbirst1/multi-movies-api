@@ -1,0 +1,124 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-honeymooners/",
+  "meta": {
+    "title": "The Honeymooners",
+    "poster": "https://image.tmdb.org/t/p/w500/97rcPjnmzrIH8raQ2CU2ptY0gdy.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 10, 2005",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Working class New York bus driver Ralph Kramden is always coming up with get-rich-quick schemes for him and his best friend, Ed Norton, who\u2019s always around to help him get in (and out of) trouble.",
+    "infoFields": {
+      "Original title": "The Honeymooners",
+      "IMDb Rating": "3.4 7,473 votes",
+      "TMDb Rating": "4.321 56 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John Schultz",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-schultz/",
+      "image": "https://image.tmdb.org/t/p/w92/dYQG85NJmHimSdWYxjKT9iTXgJl.jpg"
+    },
+    {
+      "name": "Cedric the Entertainer",
+      "role": "Ralph Kramden",
+      "url": "https://multimovies.city/cast/cedric-the-entertainer/",
+      "image": "https://image.tmdb.org/t/p/w92/oeExLJ7gOhOrpOtSgpEg1yzT24N.jpg"
+    },
+    {
+      "name": "Mike Epps",
+      "role": "Ed Norton",
+      "url": "https://multimovies.city/cast/mike-epps/",
+      "image": "https://image.tmdb.org/t/p/w92/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg"
+    },
+    {
+      "name": "Gabrielle Union",
+      "role": "Alice Kramden",
+      "url": "https://multimovies.city/cast/gabrielle-union/",
+      "image": "https://image.tmdb.org/t/p/w92/toeSCybsYufRKfgz77AKy4C8axD.jpg"
+    },
+    {
+      "name": "Regina Hall",
+      "role": "Trixie Norton",
+      "url": "https://multimovies.city/cast/regina-hall/",
+      "image": "https://image.tmdb.org/t/p/w92/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+      "name": "Eric Stoltz",
+      "role": "William Davis",
+      "url": "https://multimovies.city/cast/eric-stoltz/",
+      "image": "https://image.tmdb.org/t/p/w92/p9ZBOGVpIFgtywjgHqRkJsZEG18.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "role": "Dodge",
+      "url": "https://multimovies.city/cast/john-leguizamo/",
+      "image": "https://image.tmdb.org/t/p/w92/kEbXDtcPJ46GEhj5QlCTLZS6PWE.jpg"
+    },
+    {
+      "name": "Ajay Naidu",
+      "role": "Vivek",
+      "url": "https://multimovies.city/cast/ajay-naidu/",
+      "image": "https://image.tmdb.org/t/p/w92/tOvD8yveJ4Aq10LICADK3wS3dwE.jpg"
+    },
+    {
+      "name": "Jon Polito",
+      "role": "Kirby",
+      "url": "https://multimovies.city/cast/jon-polito/",
+      "image": "https://image.tmdb.org/t/p/w92/4HjxMy4Ir2dWz7ycX5l3sgxOY4g.jpg"
+    },
+    {
+      "name": "Alice Drummond",
+      "role": "Miss Benvenuti",
+      "url": "https://multimovies.city/cast/alice-drummond/",
+      "image": "https://image.tmdb.org/t/p/w92/9YIxVH0oozCZalYW8lY5JAtfUvK.jpg"
+    },
+    {
+      "name": "Gus Williams",
+      "role": "Poolhall Heavy",
+      "url": "https://multimovies.city/cast/gus-williams/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/m9Vn0PUq2j5LX3WYtZ7BKOlGxbS.jpg",
+    "https://image.tmdb.org/t/p/w300/gOld6nUcUMJqxoUIk8mkXt94GlX.jpg",
+    "https://image.tmdb.org/t/p/w300/rc0N4F4bDYmfvQwte8CBrS5IWtL.jpg"
+  ],
+  "similar": [],
+  "views": 397,
+  "sources": [
+    "https://www.youtube.com/embed/eOQY1HvR3Ho?autoplay=0&autohide=1",
+    "https://multimovies.website/e/d7b5szhlpjgq.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5457,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5457,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:56:29.570243"
+}
