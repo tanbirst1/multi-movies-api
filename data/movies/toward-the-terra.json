@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/toward-the-terra/",
+  "meta": {
+    "title": "Toward the Terra",
+    "poster": "https://image.tmdb.org/t/p/w500/mXnFbcoXDFGtxQWOz79n2V6kyqY.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Apr. 26, 1980",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "A young boy learns he is part of a powerful race of psionic humans who must fight the normal humans determined to keep them from Earth.",
+    "infoFields": {
+      "Original title": "\u5730\u7403\u3078\u2026",
+      "IMDb Rating": "6.5 334 votes",
+      "TMDb Rating": "6.6 15 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hideo Onchi",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hideo-onchi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Junichi Inoue",
+      "role": "Jomy Marcus Shin (voice)",
+      "url": "https://multimovies.city/cast/junichi-inoue/",
+      "image": "https://image.tmdb.org/t/p/w92/ugF6lrX2Luh00680hJuoBWEFZId.jpg"
+    },
+    {
+      "name": "Masaya Oki",
+      "role": "Keith Anyan (voice)",
+      "url": "https://multimovies.city/cast/masaya-oki/",
+      "image": "https://image.tmdb.org/t/p/w92/iZpRN7Tmjbq1NPXxw9M4n29hnKU.jpg"
+    },
+    {
+      "name": "Kumiko Akiyoshi",
+      "role": "Physis (voice)",
+      "url": "https://multimovies.city/cast/kumiko-akiyoshi/",
+      "image": "https://image.tmdb.org/t/p/w92/q27JRJsOLJpc7hJaU11q26863z1.jpg"
+    },
+    {
+      "name": "Tar\u014d Shigaki",
+      "role": "Soldier Blue (voice)",
+      "url": "https://multimovies.city/cast/taro-shigaki/",
+      "image": "https://image.tmdb.org/t/p/w92/ljKJFUNA8BqrqhKfIi8AD30YQS1.jpg"
+    },
+    {
+      "name": "Hiroko Yakushimaru",
+      "role": "Jona Macka (voice)",
+      "url": "https://multimovies.city/cast/hiroko-yakushimaru/",
+      "image": "https://image.tmdb.org/t/p/w92/yMxfLQySUjopQgu4kRAtw8PSHf2.jpg"
+    },
+    {
+      "name": "Toru Furuya",
+      "role": "Tony (voice)",
+      "url": "https://multimovies.city/cast/toru-furuya/",
+      "image": "https://image.tmdb.org/t/p/w92/nsibN89E7tYhy0B6Xk9UvkirSXF.jpg"
+    },
+    {
+      "name": "Akira Kamiya",
+      "role": "Seki Ray Shiroe (voice)",
+      "url": "https://multimovies.city/cast/akira-kamiya/",
+      "image": "https://image.tmdb.org/t/p/w92/mTNcabyfjrGixnxdF39w6ud315X.jpg"
+    },
+    {
+      "name": "Banjo Ginga",
+      "role": "E1077 / Papa (voice)",
+      "url": "https://multimovies.city/cast/banjo-ginga/",
+      "image": "https://image.tmdb.org/t/p/w92/akhAAMAjgZw13Lrz8LQqsfm9ez2.jpg"
+    },
+    {
+      "name": "Chiyoko Kawashima",
+      "role": "Tony (child) (voice)",
+      "url": "https://multimovies.city/cast/chiyoko-kawashima/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Eiko Masuyama",
+      "role": "Teraz No 5 (voice)",
+      "url": "https://multimovies.city/cast/eiko-masuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/fH9CX5DVv4pyYW7w924hwshKCOC.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/gycYN1415wE8lareLQL38MYW0mG.jpg",
+    "https://image.tmdb.org/t/p/w300/wZXPRXXjqRzJWreyOArUuLt6OnB.jpg",
+    "https://image.tmdb.org/t/p/w300/79EuHGfNCOKgTtOiKg7iJstdJUq.jpg",
+    "https://image.tmdb.org/t/p/w300/uErwodD4NqavA9tZaIswqlFoInq.jpg",
+    "https://image.tmdb.org/t/p/w300/329fLkQAoc4SYqYBeT0bUbDin6F.jpg"
+  ],
+  "similar": [],
+  "views": 522,
+  "sources": [
+    "https://www.youtube.com/embed/wu1MrFHadQs?autoplay=0&autohide=1",
+    "https://multimovies.website/e/fi5fevhuo9m6.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1701,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1701,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
