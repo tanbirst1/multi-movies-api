@@ -1,0 +1,141 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-adventures-of-ichabod-and-mr-toad/",
+  "meta": {
+    "title": "The Adventures of Ichabod and Mr. Toad",
+    "poster": "https://image.tmdb.org/t/p/w500/jxj5YILmvzXrviQ0mBQs2dwLX09.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Oct. 05, 1949",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "The Wind in the Willows: Concise version of Kenneth Grahame\u2019s story of the same name. J. Thaddeus Toad, owner of Toad Hall, is prone to fads, such as the newfangled motor car. This desire for the very latest lands him in much trouble with the wrong crowd, and it is up to his friends, Mole, Rat and Badger to save him from himself. \u2013 The Legend of Sleepy Hollow: Retelling of Washington Irving\u2019s story set in a tiny New England town. Ichabod Crane, the new schoolmaster, falls for the town beauty, Katrina Van Tassel, and the town Bully Brom Bones decides that he is a little too successful and needs \u201cconvincing\u201d that Katrina is not for him.",
+    "infoFields": {
+      "Original title": "The Adventures of Ichabod and Mr. Toad",
+      "IMDb Rating": "6.9 16,536 votes",
+      "TMDb Rating": "6.482 480 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "James Algar",
+      "role": "Director",
+      "url": "https://multimovies.city/director/james-algar/",
+      "image": "https://image.tmdb.org/t/p/w92/awqwWqAZ4b6rBhivYfLDbnsxLQe.jpg"
+    },
+    {
+      "name": "Bing Crosby",
+      "role": "Narrator (segment \"The Legend of Sleepy Hollow\")",
+      "url": "https://multimovies.city/cast/bing-crosby/",
+      "image": "https://image.tmdb.org/t/p/w92/f74wvwYvbxyuyXo8LbFCTpK7Fbz.jpg"
+    },
+    {
+      "name": "Basil Rathbone",
+      "role": "Narrator (segment \"The Wind in the Willows\")",
+      "url": "https://multimovies.city/cast/basil-rathbone/",
+      "image": "https://image.tmdb.org/t/p/w92/otVwo6h7l0QJK94qadNRsjW5HNo.jpg"
+    },
+    {
+      "name": "Eric Blore",
+      "role": "Mr. Toad (voice)",
+      "url": "https://multimovies.city/cast/eric-blore/",
+      "image": "https://image.tmdb.org/t/p/w92/8FqfAtUoP5ZmId498VCKWs3UuT7.jpg"
+    },
+    {
+      "name": "J. Pat O'Malley",
+      "role": "Cyril Proudbottom (voice)",
+      "url": "https://multimovies.city/cast/j-pat-omalley/",
+      "image": "https://image.tmdb.org/t/p/w92/ctFbc5fHSJHLT0R11RCpA8x6IVk.jpg"
+    },
+    {
+      "name": "John McLeish",
+      "role": "Prosecutor (voice)",
+      "url": "https://multimovies.city/cast/john-mcleish/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Colin Campbell",
+      "role": "Mole (voice)",
+      "url": "https://multimovies.city/cast/colin-campbell/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Campbell Grant",
+      "role": "Angus MacBadger (voice)",
+      "url": "https://multimovies.city/cast/campbell-grant/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Claud Allister",
+      "role": "Rat (voice)",
+      "url": "https://multimovies.city/cast/claud-allister/",
+      "image": "https://image.tmdb.org/t/p/w92/hd4cj6X8VZj1XSOYjn6WXeekRI9.jpg"
+    },
+    {
+      "name": "Oliver Wallace",
+      "role": "Gang Leader (voice)",
+      "url": "https://multimovies.city/cast/oliver-wallace/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Pinto Colvig",
+      "role": "Ichabod Crane (screaming) (voice)",
+      "url": "https://multimovies.city/cast/pinto-colvig/",
+      "image": "https://image.tmdb.org/t/p/w92/o1YhkxvvCtpU9SkFEwl8n2iNFL4.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wCfa6ZNdY9PPGt5rKqX6RA7gl2g.jpg",
+    "https://image.tmdb.org/t/p/w300/8P2w29j9HPwFyRe10njeyFg58yo.jpg",
+    "https://image.tmdb.org/t/p/w300/411HJP6cEMID0QnZib8T89UxNne.jpg",
+    "https://image.tmdb.org/t/p/w300/c8zTmQyzvNjMNhViMqOFvyNaEUN.jpg",
+    "https://image.tmdb.org/t/p/w300/y0SN5BzkUBjxAKaznA4CLTZlyY6.jpg",
+    "https://image.tmdb.org/t/p/w300/hF4jyockBDX7XzlmD4Y1n9n4AQB.jpg",
+    "https://image.tmdb.org/t/p/w300/eCSzGnXTd2KpOei9qndgo2pliIH.jpg",
+    "https://image.tmdb.org/t/p/w300/cU671oZhVsO4mrVDLjoVufwnAhH.jpg",
+    "https://image.tmdb.org/t/p/w300/cynywqwpbMhnDeKfwWJArHtKkz0.jpg"
+  ],
+  "similar": [],
+  "views": 696,
+  "sources": [
+    "https://www.youtube.com/embed/tUn3Fgy49qU?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/7qwu89tz6mib"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18630,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18630,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
