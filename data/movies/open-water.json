@@ -1,0 +1,108 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/open-water/",
+  "meta": {
+    "title": "Open Water",
+    "poster": "https://image.tmdb.org/t/p/w500/pjLh97W1J8AdcuKWzqqdKHfYmp5.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Oct. 26, 2003",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Two divers are left out at sea without a boat. There\u2019s nothing but water for miles, unless they look at what\u2019s underneath them\u2026",
+    "infoFields": {
+      "Original title": "Open Water",
+      "IMDb Rating": "5.8 56,141 votes",
+      "TMDb Rating": "5.526 1,010 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Chris Kentis",
+      "role": "Director",
+      "url": "https://multimovies.city/director/chris-kentis/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Blanchard Ryan",
+      "role": "Susan Watkins",
+      "url": "https://multimovies.city/cast/blanchard-ryan/",
+      "image": "https://image.tmdb.org/t/p/w92/7dLq8Yo8ZuxaE34p9XZhQpPXtSJ.jpg"
+    },
+    {
+      "name": "Daniel Travis",
+      "role": "Daniel Kintner",
+      "url": "https://multimovies.city/cast/daniel-travis/",
+      "image": "https://image.tmdb.org/t/p/w92/9JJ2jFBpdp8e4BdFozaqPw5sYnH.jpg"
+    },
+    {
+      "name": "Saul Stein",
+      "role": "Seth",
+      "url": "https://multimovies.city/cast/saul-stein/",
+      "image": "https://image.tmdb.org/t/p/w92/bDRdpx2tzNfDrYpgbJzmjKz7kCF.jpg"
+    },
+    {
+      "name": "Michael E. Williamson",
+      "role": "Davis",
+      "url": "https://multimovies.city/cast/michael-e-williamson/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Cristina Zenato",
+      "role": "Linda",
+      "url": "https://multimovies.city/cast/cristina-zenato/",
+      "image": "https://image.tmdb.org/t/p/w92/7xVpshWQXhA4UGUqj0HlwGE9wT1.jpg"
+    },
+    {
+      "name": "John Charles",
+      "role": "Junior",
+      "url": "https://multimovies.city/cast/john-charles/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/58BUQzjN6TH0bLe6JEfgMbHc55u.jpg",
+    "https://image.tmdb.org/t/p/w300/kG57QnkRVNNLfktaBasLsrOunxt.jpg",
+    "https://image.tmdb.org/t/p/w300/mk8dcofeK7hwuZx2sKK1Jf9ENCx.jpg"
+  ],
+  "similar": [],
+  "views": 1424,
+  "sources": [
+    "https://www.youtube.com/embed/Z9q1qJi1nMs?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ps9wfdzq6nw2"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 39230,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 39230,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:46:09.487784"
+}
