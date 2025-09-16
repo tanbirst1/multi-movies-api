@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/three/",
+  "meta": {
+    "title": "Survival Island",
+    "poster": "https://image.tmdb.org/t/p/w500/v45dAZ1vI4NUqcYcLUmGVXHGYFj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 05, 2006",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "After a yachting accident, a millionaire and his wife are shipwrecked on a desert island along with their former deckhand, Manuel.",
+    "infoFields": {
+      "Original title": "Three",
+      "IMDb Rating": "4.9 11,055 votes",
+      "TMDb Rating": "5.5 258 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Stewart Raffill",
+      "role": "Director",
+      "url": "https://multimovies.city/director/stewart-raffill/",
+      "image": "https://image.tmdb.org/t/p/w92/4WnWqViSbLR2kTejMLuI5Bi7JrA.jpg"
+    },
+    {
+      "name": "Billy Zane",
+      "role": "Jack",
+      "url": "https://multimovies.city/cast/billy-zane/",
+      "image": "https://image.tmdb.org/t/p/w92/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg"
+    },
+    {
+      "name": "Kelly Brook",
+      "role": "Jennifer",
+      "url": "https://multimovies.city/cast/kelly-brook/",
+      "image": "https://image.tmdb.org/t/p/w92/vqxgDuO1ixMbtDihDTYHW3lm5Z4.jpg"
+    },
+    {
+      "name": "Juan Pablo Di Pace",
+      "role": "Manuel",
+      "url": "https://multimovies.city/cast/juan-pablo-di-pace/",
+      "image": "https://image.tmdb.org/t/p/w92/gVPOKmmaXCg0Z052MKsPLZERohE.jpg"
+    },
+    {
+      "name": "Todd Collins",
+      "role": "Bill",
+      "url": "https://multimovies.city/cast/todd-collins/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Gabrielle Jourdan",
+      "role": "Gail",
+      "url": "https://multimovies.city/cast/gabrielle-jourdan/",
+      "image": "https://image.tmdb.org/t/p/w92/zLX4ostmVb3K9Kpja0OzitV6EDQ.jpg"
+    },
+    {
+      "name": "Gary Brockette",
+      "role": "Captain Richards",
+      "url": "https://multimovies.city/cast/gary-brockette/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Isabelle Constantini",
+      "role": "Maggie Richards",
+      "url": "https://multimovies.city/cast/isabelle-constantini/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Roy Rivera",
+      "role": "Pepe",
+      "url": "https://multimovies.city/cast/roy-rivera/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Maria Victoria Di Pace",
+      "role": "Maria",
+      "url": "https://multimovies.city/cast/maria-victoria-di-pace/",
+      "image": "https://image.tmdb.org/t/p/w92/8Yp5B7WlIn21SUAtHOYiia9rfaX.jpg"
+    },
+    {
+      "name": "Summer Davis",
+      "role": "Island Girl 1",
+      "url": "https://multimovies.city/cast/summer-davis/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/j2CyAwoBsumow7KvlQdLwGZmJv3.jpg",
+    "https://image.tmdb.org/t/p/w300/56Yi1X3Kn8Oo1l9avoVYycGgaKi.jpg",
+    "https://image.tmdb.org/t/p/w300/dIkyEmk3nZjIhI37verSIDuQDH0.jpg",
+    "https://image.tmdb.org/t/p/w300/90uO1Yr10ICSj0aM6wmrRMygFmd.jpg"
+  ],
+  "similar": [],
+  "views": 1613,
+  "sources": [
+    "https://www.youtube.com/embed/BjZ2N0y96wk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ws9h6y4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 101055,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 101055,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:00:48.934140"
+}
