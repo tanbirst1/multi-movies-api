@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tere-naam/",
+  "meta": {
+    "title": "Tere Naam",
+    "poster": "https://image.tmdb.org/t/p/w500/tnsOmOZsVdfLLwK693TCtSZpvFX.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Aug. 15, 2003",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "A rowdy ex-college boy who, after a hazing session, loses his heart to first year student Nirjara, a traditional Brahmin girl.",
+    "infoFields": {
+      "Original title": "Tere Naam",
+      "IMDb Rating": "7.2 21,701 votes",
+      "TMDb Rating": "6.4 84 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Satish Kaushik",
+      "role": "Director",
+      "url": "https://multimovies.city/director/satish-kaushik/",
+      "image": "https://image.tmdb.org/t/p/w92/lnqVTsUKVxJYPWN3KRBhRlGP1Z0.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Radhe Mohan",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/gxKwCCcs777HzsXRpdGsBV87pXn.jpg"
+    },
+    {
+      "name": "Bhumika Chawla",
+      "role": "Nirjara Bharadwaj",
+      "url": "https://multimovies.city/cast/bhumika-chawla/",
+      "image": "https://image.tmdb.org/t/p/w92/bHYS02elIbafREPXW77aTWgN58f.jpg"
+    },
+    {
+      "name": "Sachin Khedekar",
+      "role": "Radhe's brother",
+      "url": "https://multimovies.city/cast/sachin-khedekar/",
+      "image": "https://image.tmdb.org/t/p/w92/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg"
+    },
+    {
+      "name": "Savita Prabhune",
+      "role": "Radhe's sister-in-law",
+      "url": "https://multimovies.city/cast/savita-prabhune/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Anang Desai",
+      "role": "Doctor",
+      "url": "https://multimovies.city/cast/anang-desai/",
+      "image": "https://image.tmdb.org/t/p/w92/c5QbV2LHo1AFtavHO6owAObONBC.jpg"
+    },
+    {
+      "name": "Ravi Kishan",
+      "role": "Rameshwar",
+      "url": "https://multimovies.city/cast/ravi-kishan/",
+      "image": "https://image.tmdb.org/t/p/w92/kuwKd2WM64gJqwNoqv89DHuds5g.jpg"
+    },
+    {
+      "name": "Sarfaraz Khan",
+      "role": "Aslam",
+      "url": "https://multimovies.city/cast/sarfaraz-khan/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Darshan Kumaar",
+      "role": "Kanak",
+      "url": "https://multimovies.city/cast/darshan-kumaar/",
+      "image": "https://image.tmdb.org/t/p/w92/aKDYD0wDq7BRwdJmSjoqfOPleOf.jpg"
+    },
+    {
+      "name": "Dinesh Kaushik",
+      "role": "Aatmaram",
+      "url": "https://multimovies.city/cast/dinesh-kaushik/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Radhika Chaudhari",
+      "role": "Beggar",
+      "url": "https://multimovies.city/cast/radhika-chaudhari/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/spuRCov7H0diMtrQustwGjk6WmA.jpg"
+  ],
+  "similar": [],
+  "views": 5404,
+  "sources": [
+    "https://www.youtube.com/embed/p4cChXSkEiE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/u0owcg3"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10252,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 10252,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:41:15.576783"
+}
