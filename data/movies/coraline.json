@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/coraline/",
+  "meta": {
+    "title": "Coraline",
+    "poster": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      }
+    ],
+    "firstAirDate": "Feb. 05, 2009",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+    "infoFields": {
+      "Original title": "Coraline",
+      "TMDb Rating": "7.894 8,418 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Henry Selick",
+      "role": "Director",
+      "url": "https://multimovies.city/director/henry-selick/",
+      "image": "https://image.tmdb.org/t/p/w92/2LvtcpV8njWrp2W9eXmTNjsAWev.jpg"
+    },
+    {
+      "name": "Dakota Fanning",
+      "role": "Coraline Jones (voice)",
+      "url": "https://multimovies.city/cast/dakota-fanning/",
+      "image": "https://image.tmdb.org/t/p/w92/fXxfYh0NoTiyedRwZPNqBMdz3Eh.jpg"
+    },
+    {
+      "name": "Teri Hatcher",
+      "role": "Mel Jones / Other Mother (voice)",
+      "url": "https://multimovies.city/cast/teri-hatcher/",
+      "image": "https://image.tmdb.org/t/p/w92/ySmnfZm8ZGabcwp4UwaMDeSzXqx.jpg"
+    },
+    {
+      "name": "Jennifer Saunders",
+      "role": "Miss April Spink / Other Spink (voice)",
+      "url": "https://multimovies.city/cast/jennifer-saunders/",
+      "image": "https://image.tmdb.org/t/p/w92/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg"
+    },
+    {
+      "name": "Dawn French",
+      "role": "Miss Miriam Forcible / Other Forcible (voice)",
+      "url": "https://multimovies.city/cast/dawn-french/",
+      "image": "https://image.tmdb.org/t/p/w92/eLFCJSTEeh7CDRw50RzowKz4h7V.jpg"
+    },
+    {
+      "name": "Keith David",
+      "role": "The Cat (voice)",
+      "url": "https://multimovies.city/cast/keith-david/",
+      "image": "https://image.tmdb.org/t/p/w92/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg"
+    },
+    {
+      "name": "John Hodgman",
+      "role": "Charlie Jones / Other Father (voice)",
+      "url": "https://multimovies.city/cast/john-hodgman/",
+      "image": "https://image.tmdb.org/t/p/w92/xlgpI6x1OECW6V7uB70DG7BirUa.jpg"
+    },
+    {
+      "name": "Robert Bailey Jr.",
+      "role": "Wyborne 'Wybie' Lovat (voice)",
+      "url": "https://multimovies.city/cast/robert-bailey-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/2CVKz4PSWBXv2IIIX54DW8MVza2.jpg"
+    },
+    {
+      "name": "Ian McShane",
+      "role": "Mr. Sergei Alexander Bobinsky / Other Bobinsky (voice)",
+      "url": "https://multimovies.city/cast/ian-mcshane/",
+      "image": "https://image.tmdb.org/t/p/w92/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg"
+    },
+    {
+      "name": "Aankha Neal",
+      "role": "Sweet Ghost Girl (voice)",
+      "url": "https://multimovies.city/cast/aankha-neal/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "George Selick",
+      "role": "Ghost Boy (voice)",
+      "url": "https://multimovies.city/cast/george-selick/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/91BAmpop4AJ5Pf7E0zuQiHdSV4Q.jpg",
+    "https://image.tmdb.org/t/p/w300/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+    "https://image.tmdb.org/t/p/w300/rRpAZOPY3XxMJY65AJ396IWyjU4.jpg",
+    "https://image.tmdb.org/t/p/w300/8GHxjXlI5rqyTBuVNekGTPjG5T6.jpg",
+    "https://image.tmdb.org/t/p/w300/h1JRiqODBm9i2W850tVVRJKiy8K.jpg",
+    "https://image.tmdb.org/t/p/w300/pjXzZKvQQ75X5Z5UXDL6SvVREQ7.jpg",
+    "https://image.tmdb.org/t/p/w300/pB4FUn08MqRgjxIIUVElljpmnt8.jpg",
+    "https://image.tmdb.org/t/p/w300/YjEVH2nKhblE9lCvXhoFfVfe7O.jpg",
+    "https://image.tmdb.org/t/p/w300/p5ixxu4V6VYBvr26xBKsaPrElu6.jpg",
+    "https://image.tmdb.org/t/p/w300/ckJqD7FxusiqqqCeq268BrjwkTn.jpg"
+  ],
+  "similar": [],
+  "views": 662,
+  "sources": [
+    "https://www.youtube.com/embed/jXqqd0ZBEMA?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/q6lknxi"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 92101,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 92101,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:26:23.419791"
+}
