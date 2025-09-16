@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/home-on-the-range/",
+  "meta": {
+    "title": "Home on the Range",
+    "poster": "https://image.tmdb.org/t/p/w500/9xIIo4FMquy5SRqn8hppyr2QadR.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Apr. 02, 2004",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "When a greedy outlaw schemes to take possession of the \u201cPatch Of Heaven\u201d dairy farm, three determined cows, a karate-kicking stallion and a colorful corral of critters join forces to save their home. The stakes are sky-high as this unlikely animal alliance risk their hides and match wits with a mysterious band of bad guys.",
+    "infoFields": {
+      "Original title": "Home on the Range",
+      "IMDb Rating": "5.4 24,818 votes",
+      "TMDb Rating": "6.03 1,846 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Will Finn",
+      "role": "Director",
+      "url": "https://multimovies.city/director/will-finn/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Roseanne Barr",
+      "role": "Maggie (voice)",
+      "url": "https://multimovies.city/cast/roseanne-barr/",
+      "image": "https://image.tmdb.org/t/p/w92/oyY5lWTFzhymLB4sJ1OODseI3jR.jpg"
+    },
+    {
+      "name": "Judi Dench",
+      "role": "Mrs. Caloway (voice)",
+      "url": "https://multimovies.city/cast/judi-dench/",
+      "image": "https://image.tmdb.org/t/p/w92/cpna5VGvAxuKuC31xJPBKy9zbnv.jpg"
+    },
+    {
+      "name": "Jennifer Tilly",
+      "role": "Grace (voice)",
+      "url": "https://multimovies.city/cast/jennifer-tilly/",
+      "image": "https://image.tmdb.org/t/p/w92/jrWj0LKOLGyn8BjxCPfwxX3BXC4.jpg"
+    },
+    {
+      "name": "Steve Buscemi",
+      "role": "Wesley (voice)",
+      "url": "https://multimovies.city/cast/steve-buscemi/",
+      "image": "https://image.tmdb.org/t/p/w92/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg"
+    },
+    {
+      "name": "G.W. Bailey",
+      "role": "Rusty (voice)",
+      "url": "https://multimovies.city/cast/g-w-bailey/",
+      "image": "https://image.tmdb.org/t/p/w92/doZuJwI446yhQ28PHT9vyM6pa0f.jpg"
+    },
+    {
+      "name": "Cuba Gooding Jr.",
+      "role": "Buck (voice)",
+      "url": "https://multimovies.city/cast/cuba-gooding-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/j4gPj92SP3Rj5xxSUe1CIkFCXhB.jpg"
+    },
+    {
+      "name": "Randy Quaid",
+      "role": "Alameda Slim (voice)",
+      "url": "https://multimovies.city/cast/randy-quaid/",
+      "image": "https://image.tmdb.org/t/p/w92/cvooWcP6WUPzupwq7AUKnoNUInW.jpg"
+    },
+    {
+      "name": "Lance LeGault",
+      "role": "Junior (voice)",
+      "url": "https://multimovies.city/cast/lance-legault/",
+      "image": "https://image.tmdb.org/t/p/w92/dQOCLWXsB1VKFtg4TZqC9QCxpLJ.jpg"
+    },
+    {
+      "name": "Charles Dennis",
+      "role": "Rico (voice)",
+      "url": "https://multimovies.city/cast/charles-dennis/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sam Levine",
+      "role": "The Willie Brothers (voice)",
+      "url": "https://multimovies.city/cast/sam-levine/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/rQKlcMY8i3elENXEHlkAbQr3xiG.jpg",
+    "https://image.tmdb.org/t/p/w300/rmJ6ecnd1XD8rmRGrV7ZkHhbotA.jpg",
+    "https://image.tmdb.org/t/p/w300/5zMCtQr7fXoKC47I33arAd8RnFn.jpg",
+    "https://image.tmdb.org/t/p/w300/t1agKRcxutuRvlNpKFR1CVI0Nwr.jpg",
+    "https://image.tmdb.org/t/p/w300/lMeGuxgmzUVTRfLHekt41iWexip.jpg",
+    "https://image.tmdb.org/t/p/w300/6GQ4VJYascW193qVSV5ElBMhAar.jpg",
+    "https://image.tmdb.org/t/p/w300/9znr2gtxf7rKTmMefHt0XrDtvEW.jpg",
+    "https://image.tmdb.org/t/p/w300/sccrIMZLWJpsdxmc8a6k7bOR7xD.jpg",
+    "https://image.tmdb.org/t/p/w300/fGYfQhlXuMyIxqYx19taY0KbJ1t.jpg"
+  ],
+  "similar": [],
+  "views": 654,
+  "sources": [
+    "https://www.youtube.com/embed/LMW_nGAsLfc?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/4cj9w4vcep8m"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 28540,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 28540,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:49:03.763232"
+}
