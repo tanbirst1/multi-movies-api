@@ -4,15 +4,136 @@
   "meta": {
     "title": "American Psycho",
     "poster": "https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
-    "synopsis": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Apr. 13, 2000",
+    "ratingValue": "8.3",
+    "ratingCount": "30",
+    "synopsis": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+    "infoFields": {
+      "Original title": "American Psycho",
+      "IMDb Rating": "7.6 705,551 votes",
+      "TMDb Rating": "7.404 10,254 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Mary Harron",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mary-harron/",
+      "image": "https://image.tmdb.org/t/p/w92/4Pwu7Vm6lmo3T2p8AcwCd3mG6nX.jpg"
+    },
+    {
+      "name": "Christian Bale",
+      "role": "Patrick Bateman",
+      "url": "https://multimovies.city/cast/christian-bale/",
+      "image": "https://image.tmdb.org/t/p/w92/qCpZn2e3dimwbryLnqxZuI88PTi.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+      "role": "Detective Donald Kimball",
+      "url": "https://multimovies.city/cast/willem-dafoe/",
+      "image": "https://image.tmdb.org/t/p/w92/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "name": "Jared Leto",
+      "role": "Paul Allen",
+      "url": "https://multimovies.city/cast/jared-leto/",
+      "image": "https://image.tmdb.org/t/p/w92/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    },
+    {
+      "name": "Josh Lucas",
+      "role": "Craig McDermott",
+      "url": "https://multimovies.city/cast/josh-lucas/",
+      "image": "https://image.tmdb.org/t/p/w92/gQz7KJ3VVRlGGw1IfmMluf9VOMb.jpg"
+    },
+    {
+      "name": "Samantha Mathis",
+      "role": "Courtney Rawlinson",
+      "url": "https://multimovies.city/cast/samantha-mathis/",
+      "image": "https://image.tmdb.org/t/p/w92/9dixKdjdBUgG8MrlZTpWpy4OQnh.jpg"
+    },
+    {
+      "name": "Matt Ross",
+      "role": "Luis Carruthers",
+      "url": "https://multimovies.city/cast/matt-ross/",
+      "image": "https://image.tmdb.org/t/p/w92/qqPMm2lrjajJ1EpJ1jXEayz5oqP.jpg"
+    },
+    {
+      "name": "Bill Sage",
+      "role": "David Van Patten",
+      "url": "https://multimovies.city/cast/bill-sage/",
+      "image": "https://image.tmdb.org/t/p/w92/2uQv1NMnGrqqhBMKTm5RBCKh7UV.jpg"
+    },
+    {
+      "name": "Chlo\u00eb Sevigny",
+      "role": "Jean",
+      "url": "https://multimovies.city/cast/chloe-sevigny/",
+      "image": "https://image.tmdb.org/t/p/w92/aeuBNiaMm3Fepbu833J5zeuP6Qk.jpg"
+    },
+    {
+      "name": "Cara Seymour",
+      "role": "Christie",
+      "url": "https://multimovies.city/cast/cara-seymour/",
+      "image": "https://image.tmdb.org/t/p/w92/vupzip5JjeLKxen74PFAzaL04Ox.jpg"
+    },
+    {
+      "name": "Justin Theroux",
+      "role": "Timothy Bryce",
+      "url": "https://multimovies.city/cast/justin-theroux/",
+      "image": "https://image.tmdb.org/t/p/w92/6YuPMsLDMoD5BRkzWIjllwFFt5Y.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bneUTWFAcVCdsb0O5UwZbJd8xqZ.jpg",
+    "https://image.tmdb.org/t/p/w300/fVJQjlTIEczbHKi4Uk11zBBMypb.jpg",
+    "https://image.tmdb.org/t/p/w300/rRwD4MoBlkBXWQ6PDnbKRSU5dDu.jpg",
+    "https://image.tmdb.org/t/p/w300/m0xdvPRlNjX0KbCwXFr9bBeSdqE.jpg",
+    "https://image.tmdb.org/t/p/w300/alWtP7JwoanQyqXzg3PCbEFrfwS.jpg",
+    "https://image.tmdb.org/t/p/w300/2Tawvc0JMmR9nBXD3nhBThTQP2X.jpg",
+    "https://image.tmdb.org/t/p/w300/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+    "https://image.tmdb.org/t/p/w300/9SZCbF3OzmoUZsNtRyn6BsNbwv5.jpg",
+    "https://image.tmdb.org/t/p/w300/xMnGZBGeR12qYjhOmg5WeWkUxdU.jpg",
+    "https://image.tmdb.org/t/p/w300/gwY3drQFMVXCCMSJBY6g32viMIK.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 38053,
+  "sources": [
+    "https://www.youtube.com/embed/5YnGhW4UEhc?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/2l46qzv9trej"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 15053,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 15053,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:22:44"
+  "last_update": "2025-09-16T17:24:41.434144"
 }
