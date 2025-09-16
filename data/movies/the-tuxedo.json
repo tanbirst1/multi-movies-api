@@ -1,0 +1,165 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-tuxedo/",
+  "meta": {
+    "title": "The Tuxedo",
+    "poster": "https://image.tmdb.org/t/p/w500/2agrcNQRtgTsN5SbffC4H2BwYW2.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 27, 2002",
+    "ratingValue": "10",
+    "ratingCount": "3",
+    "synopsis": "Cabbie-turned-chauffeur Jimmy Tong learns there is really only one rule when you work for playboy millionaire Clark Devlin : Never touch Devlin\u2019s prized tuxedo. But when Devlin is temporarily put out of commission in an explosive accident, Jimmy puts on the tux and soon discovers that this extraordinary suit may be more black belt than black tie. Paired with a partner as inexperienced as he is, Jimmy becomes an unwitting secret agent.",
+    "infoFields": {
+      "Original title": "The Tuxedo",
+      "IMDb Rating": "5.4 85,904 votes",
+      "TMDb Rating": "5.7 1,699 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kevin Donovan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kevin-donovan/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Jackie Chan",
+      "role": "Jimmy Tong",
+      "url": "https://multimovies.city/cast/jackie-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "name": "Jennifer Love Hewitt",
+      "role": "Del Blaine",
+      "url": "https://multimovies.city/cast/jennifer-love-hewitt/",
+      "image": "https://image.tmdb.org/t/p/w92/kRySMLtckE7tl6136y0yzFYpUfE.jpg"
+    },
+    {
+      "name": "Jason Isaacs",
+      "role": "Clark Devlin",
+      "url": "https://multimovies.city/cast/jason-isaacs/",
+      "image": "https://image.tmdb.org/t/p/w92/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "name": "Debi Mazar",
+      "role": "Steena",
+      "url": "https://multimovies.city/cast/debi-mazar/",
+      "image": "https://image.tmdb.org/t/p/w92/mSGSJwr0RsmN0WBDcxabYqhLpUM.jpg"
+    },
+    {
+      "name": "Ritchie Coster",
+      "role": "Dietrich Banning",
+      "url": "https://multimovies.city/cast/ritchie-coster/",
+      "image": "https://image.tmdb.org/t/p/w92/s0QLFPGEbZkyKBqpbM4upC2jMgk.jpg"
+    },
+    {
+      "name": "Peter Stormare",
+      "role": "Dr. Simms",
+      "url": "https://multimovies.city/cast/peter-stormare/",
+      "image": "https://image.tmdb.org/t/p/w92/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"
+    },
+    {
+      "name": "Mia Cottet",
+      "role": "Cheryl",
+      "url": "https://multimovies.city/cast/mia-cottet/",
+      "image": "https://image.tmdb.org/t/p/w92/q44UKyD3LWjvYoyVNJxZU0LK3Pd.jpg"
+    },
+    {
+      "name": "Romany Malco",
+      "role": "Mitch",
+      "url": "https://multimovies.city/cast/romany-malco/",
+      "image": "https://image.tmdb.org/t/p/w92/q5f1rvnTGDnxsNCSSZoYXYDbu0I.jpg"
+    },
+    {
+      "name": "Daniel Kash",
+      "role": "Rogers",
+      "url": "https://multimovies.city/cast/daniel-kash/",
+      "image": "https://image.tmdb.org/t/p/w92/v8xa3aFbdk0t7RXpXiLlXI7QepH.jpg"
+    },
+    {
+      "name": "Jody Racicot",
+      "role": "Kells",
+      "url": "https://multimovies.city/cast/jody-racicot/",
+      "image": "https://image.tmdb.org/t/p/w92/6HCMq0ckaLy9OPQhxCJFEHq0vcQ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1wo90L3F7hA9h6cG5xfz3dB1IE6.jpg",
+    "https://image.tmdb.org/t/p/w300/emUboqfw2babD1ZnnGg0zoJcDc3.jpg",
+    "https://image.tmdb.org/t/p/w300/qrQ0T7e4oApM91kzpeGYrL7P4Uv.jpg",
+    "https://image.tmdb.org/t/p/w300/6tdyK6kMNZyCaTo4aeR2fe8rwyS.jpg"
+  ],
+  "similar": [],
+  "views": 2489,
+  "sources": [
+    "https://www.youtube.com/embed/5FeOoZrWSKI?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/vbme1g7rjkd4",
+    "https://sbplay.org/embed-jc8z9d2rcdzo.html",
+    "https://dood.la/e/onv02xtvmjp4",
+    "https://mixdrop.co/e/7r8076mxhjzzm0",
+    "https://hydrax.net/watch?v=gV2PmU4tG"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 16831,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 16831,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 16831,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 16831,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 16831,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 16831,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:36:03.893886"
+}
