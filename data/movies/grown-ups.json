@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/grown-ups/",
+  "meta": {
+    "title": "Grown Ups",
+    "poster": "https://image.tmdb.org/t/p/w500/ys0LscDFAuZxfUcpH5moiPeFfXs.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 24, 2010",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.",
+    "infoFields": {
+      "Original title": "Grown Ups",
+      "IMDb Rating": "6.0 298,311 votes",
+      "TMDb Rating": "6.398 6,336 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Dennis Dugan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/dennis-dugan/",
+      "image": "https://image.tmdb.org/t/p/w92/3QH2wJ1eVBLT3Vi2GNVO5TayXEB.jpg"
+    },
+    {
+      "name": "Adam Sandler",
+      "role": "Lenny Feder",
+      "url": "https://multimovies.city/cast/adam-sandler/",
+      "image": "https://image.tmdb.org/t/p/w92/5GTTlfSgciVe40GkxKRHVPW8hOz.jpg"
+    },
+    {
+      "name": "Kevin James",
+      "role": "Eric Lamonsoff",
+      "url": "https://multimovies.city/cast/kevin-james/",
+      "image": "https://image.tmdb.org/t/p/w92/dqyUARUWykoMT3eRDgy7vmQY5PG.jpg"
+    },
+    {
+      "name": "Chris Rock",
+      "role": "Kurt McKenzie",
+      "url": "https://multimovies.city/cast/chris-rock/",
+      "image": "https://image.tmdb.org/t/p/w92/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg"
+    },
+    {
+      "name": "David Spade",
+      "role": "Marcus Higgins",
+      "url": "https://multimovies.city/cast/david-spade/",
+      "image": "https://image.tmdb.org/t/p/w92/8tv638lAMLmYh8bSLICqPzbW3tv.jpg"
+    },
+    {
+      "name": "Rob Schneider",
+      "role": "Rob Hilliard",
+      "url": "https://multimovies.city/cast/rob-schneider/",
+      "image": "https://image.tmdb.org/t/p/w92/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "name": "Salma Hayek",
+      "role": "Roxanne Chase-Feder",
+      "url": "https://multimovies.city/cast/salma-hayek/",
+      "image": "https://image.tmdb.org/t/p/w92/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
+    },
+    {
+      "name": "Maria Bello",
+      "role": "Sally Lamonsoff",
+      "url": "https://multimovies.city/cast/maria-bello/",
+      "image": "https://image.tmdb.org/t/p/w92/it1f5mxiGIWO0DzTBfwtLTjphZb.jpg"
+    },
+    {
+      "name": "Maya Rudolph",
+      "role": "Deanne McKenzie",
+      "url": "https://multimovies.city/cast/maya-rudolph/",
+      "image": "https://image.tmdb.org/t/p/w92/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
+    },
+    {
+      "name": "Steve Buscemi",
+      "role": "Wiley",
+      "url": "https://multimovies.city/cast/steve-buscemi/",
+      "image": "https://image.tmdb.org/t/p/w92/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg"
+    },
+    {
+      "name": "Joyce Van Patten",
+      "role": "Gloria",
+      "url": "https://multimovies.city/cast/joyce-van-patten/",
+      "image": "https://image.tmdb.org/t/p/w92/vbt3LzgBiQ7UhL5tDwn1wV4ndBd.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kARonxQpuSZdFraTKlCThWOBCtu.jpg",
+    "https://image.tmdb.org/t/p/w300/gLrhzo4rQNmaLkVqWBGJF2xYx8G.jpg",
+    "https://image.tmdb.org/t/p/w300/kEpK8oY9UfzOrKXPyfZ6NMea2EH.jpg",
+    "https://image.tmdb.org/t/p/w300/bE5QcEP5SWLFoOQceqvXEWFyN2b.jpg",
+    "https://image.tmdb.org/t/p/w300/wHmhObk0WNb5fL4Y5x4XWUhpLZ4.jpg",
+    "https://image.tmdb.org/t/p/w300/eRAI5k6ZmUwD1bPzhmn6mQHFc1V.jpg",
+    "https://image.tmdb.org/t/p/w300/5EHOIJ6jS2LrQgV4ejjIB7DoNek.jpg"
+  ],
+  "similar": [],
+  "views": 3133,
+  "sources": [
+    "https://www.youtube.com/embed/7Cofh5bWo50?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/lwthzzs"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10477,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 10477,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:45:22.924494"
+}
