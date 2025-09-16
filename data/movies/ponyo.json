@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ponyo/",
+  "meta": {
+    "title": "Ponyo",
+    "poster": "https://image.tmdb.org/t/p/w500/yp8vEZflGynlEylxEesbYasc06i.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hindi Dub Anime",
+        "url": "https://multimovies.city/genre/anime-hindi/"
+      }
+    ],
+    "firstAirDate": "Jul. 19, 2008",
+    "ratingValue": "8.3",
+    "ratingCount": "6",
+    "synopsis": "From the legendary Studio Ghibli, creators of Spirited Away and My Neighbor Totoro, and Academy Award\u00ae-winning director Hayao Miyazaki, comes a heartwarming adventure. When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.",
+    "infoFields": {
+      "Original title": "\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7",
+      "IMDb Rating": "7.6 149,222 votes",
+      "TMDb Rating": "7.735 3,562 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hayao-miyazaki/",
+      "image": "https://image.tmdb.org/t/p/w92/mG3cfxtA5jqDc7fpKgyzZMKoXDh.jpg"
+    },
+    {
+      "name": "Yuria Kozuki",
+      "role": "Ponyo (voice)",
+      "url": "https://multimovies.city/cast/yuria-kozuki/",
+      "image": "https://image.tmdb.org/t/p/w92/tCI0CLCBXFme17d8aiyc7oxiwlC.jpg"
+    },
+    {
+      "name": "Hiroki Doi",
+      "role": "Sosuke (voice)",
+      "url": "https://multimovies.city/cast/hiroki-doi/",
+      "image": "https://image.tmdb.org/t/p/w92/zWcRrhmnXjJosEhAp9KJUBICqSW.jpg"
+    },
+    {
+      "name": "George Tokoro",
+      "role": "Fujimoto (voice)",
+      "url": "https://multimovies.city/cast/george-tokoro/",
+      "image": "https://image.tmdb.org/t/p/w92/bndtzl3ghsdYqjgGqsmp4oUtxtw.jpg"
+    },
+    {
+      "name": "Tomoko Yamaguchi",
+      "role": "Risa (voice)",
+      "url": "https://multimovies.city/cast/tomoko-yamaguchi/",
+      "image": "https://image.tmdb.org/t/p/w92/f0jTVAz8IaVaR5zJCWZPogWY6Py.jpg"
+    },
+    {
+      "name": "Yuki Amami",
+      "role": "Gran Mamare (voice)",
+      "url": "https://multimovies.city/cast/yuki-amami/",
+      "image": "https://image.tmdb.org/t/p/w92/h5OODF0k6lOomoA6T4BzyqFTcdL.jpg"
+    },
+    {
+      "name": "Kazushige Nagashima",
+      "role": "Koichi (voice)",
+      "url": "https://multimovies.city/cast/kazushige-nagashima/",
+      "image": "https://image.tmdb.org/t/p/w92/mpZydioB1SwYVXO3lvndOWBC2jL.jpg"
+    },
+    {
+      "name": "Akiko Yano",
+      "role": "Ponyo's Sister (voice)",
+      "url": "https://multimovies.city/cast/akiko-yano/",
+      "image": "https://image.tmdb.org/t/p/w92/hvxKBkHN0ycCRR5agukqq0bgldL.jpg"
+    },
+    {
+      "name": "Shinichi Hatori",
+      "role": "Anchorman (voice)",
+      "url": "https://multimovies.city/cast/shinichi-hatori/",
+      "image": "https://image.tmdb.org/t/p/w92/hU5C3QKuzZH1kTeuPCgjYds6EXk.jpg"
+    },
+    {
+      "name": "Tokie Hidari",
+      "role": "Kayo (voice)",
+      "url": "https://multimovies.city/cast/tokie-hidari/",
+      "image": "https://image.tmdb.org/t/p/w92/1KG0xAdXa1WtY3XdI9404Rtfuxz.jpg"
+    },
+    {
+      "name": "Rumi Hiiragi",
+      "role": "Young Mother (voice)",
+      "url": "https://multimovies.city/cast/rumi-hiiragi/",
+      "image": "https://image.tmdb.org/t/p/w92/zITaVtFyc4xSM3mxSoPRWHbqgJI.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/shqLeIkqPAAXM8iT6wVDiXUYz1p.jpg",
+    "https://image.tmdb.org/t/p/w300/6kQ2RWKyhjeF3507aaTyGslQG2N.jpg",
+    "https://image.tmdb.org/t/p/w300/9AGB2z2H3dPtj8cHAxpxmRunndG.jpg",
+    "https://image.tmdb.org/t/p/w300/AnN2DQ07Hl4bySCHbfgqasvuu0T.jpg",
+    "https://image.tmdb.org/t/p/w300/s9OyOP9fR741Qn8ct1wZ7kOGsGM.jpg",
+    "https://image.tmdb.org/t/p/w300/g3VlaM3koEaSvIc9LLUV2ite2WK.jpg",
+    "https://image.tmdb.org/t/p/w300/j8yoZaIXBwVOMjgADaN8DRRgYkZ.jpg",
+    "https://image.tmdb.org/t/p/w300/bZSl1YDsFOzbJGHOFoxiDyI00g7.jpg",
+    "https://image.tmdb.org/t/p/w300/1QmEcK0w2Ub4Hm094fHbZT8vA7o.jpg",
+    "https://image.tmdb.org/t/p/w300/fC3BlmKtIG88RCPI7LbVfYo4P5J.jpg"
+  ],
+  "similar": [],
+  "views": 3395,
+  "sources": [
+    "https://www.youtube.com/embed/bskgNOXbdiE?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ctzoggyuje26"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1752,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1752,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:19:41.960959"
+}
