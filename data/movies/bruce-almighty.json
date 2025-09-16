@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/bruce-almighty/",
+  "meta": {
+    "title": "Bruce Almighty",
+    "poster": "https://image.tmdb.org/t/p/w500/3XJKBKh9Km89EoUEitVTSnrlAkZ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "May. 23, 2003",
+    "ratingValue": "9.8",
+    "ratingCount": "11",
+    "synopsis": "Bruce Nolan toils as a \u2018human interest\u2019 television reporter in Buffalo, N.Y., but despite his high ratings and the love of his beautiful girlfriend, Bruce remains unfulfilled. At the end of the worst day in his life, he angrily ridicules God\u2014and the Almighty responds, endowing Bruce with all of His divine powers.",
+    "infoFields": {
+      "Original title": "Bruce Almighty",
+      "IMDb Rating": "6.8 455,810 votes",
+      "TMDb Rating": "6.721 10,995 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tom Shadyac",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tom-shadyac/",
+      "image": "https://image.tmdb.org/t/p/w92/kuliB1DrKSbdn2jxESncPbWxGrD.jpg"
+    },
+    {
+      "name": "Jim Carrey",
+      "role": "Bruce Nolan",
+      "url": "https://multimovies.city/cast/jim-carrey/",
+      "image": "https://image.tmdb.org/t/p/w92/kuSlwTPsVlBMW0cvnFmbZce6PaV.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "role": "God",
+      "url": "https://multimovies.city/cast/morgan-freeman/",
+      "image": "https://image.tmdb.org/t/p/w92/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "role": "Grace Connelly",
+      "url": "https://multimovies.city/cast/jennifer-aniston/",
+      "image": "https://image.tmdb.org/t/p/w92/qPXG41rYdUGldZhMhuZFvmpZKRp.jpg"
+    },
+    {
+      "name": "Philip Baker Hall",
+      "role": "Jack Baylor",
+      "url": "https://multimovies.city/cast/philip-baker-hall/",
+      "image": "https://image.tmdb.org/t/p/w92/mC1wmuGSCyIQ7ABkfRe1jJV1FGV.jpg"
+    },
+    {
+      "name": "Catherine Bell",
+      "role": "Susan Ortega",
+      "url": "https://multimovies.city/cast/catherine-bell/",
+      "image": "https://image.tmdb.org/t/p/w92/kNJpj79JHdbz1T8gaSBSdYJhMZq.jpg"
+    },
+    {
+      "name": "Lisa Ann Walter",
+      "role": "Debbie",
+      "url": "https://multimovies.city/cast/lisa-ann-walter/",
+      "image": "https://image.tmdb.org/t/p/w92/3xeMzT5zOC0UM9DgHne3oGZmf1R.jpg"
+    },
+    {
+      "name": "Steve Carell",
+      "role": "Evan Baxter",
+      "url": "https://multimovies.city/cast/steve-carell/",
+      "image": "https://image.tmdb.org/t/p/w92/dzJtsLspH5Bf8Tvw7OQC47ETNfJ.jpg"
+    },
+    {
+      "name": "Nora Dunn",
+      "role": "Ally Loman",
+      "url": "https://multimovies.city/cast/nora-dunn/",
+      "image": "https://image.tmdb.org/t/p/w92/x9NAUBciKKxDaYRcntc4vKjqilG.jpg"
+    },
+    {
+      "name": "Eddie Jemison",
+      "role": "Bobby",
+      "url": "https://multimovies.city/cast/eddie-jemison/",
+      "image": "https://image.tmdb.org/t/p/w92/zGnEYsiIm4FUrujbDvMfQEivvnj.jpg"
+    },
+    {
+      "name": "Paul Satterfield",
+      "role": "Dallas Coleman",
+      "url": "https://multimovies.city/cast/paul-satterfield/",
+      "image": "https://image.tmdb.org/t/p/w92/n8Id0zf5N9xeqPngA4YtGoPIcMj.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/8bQbejOvAKe78RXxpkfM04n0K18.jpg",
+    "https://image.tmdb.org/t/p/w300/vZh2ZoBMyAiH8vYGqadyMBX50Gc.jpg",
+    "https://image.tmdb.org/t/p/w300/r5YJIeyLI7wjQRWG2dk7qmQciB6.jpg",
+    "https://image.tmdb.org/t/p/w300/llyfug8S5O3ha3pfZpdKKmOqg4t.jpg",
+    "https://image.tmdb.org/t/p/w300/3I41dyZih2ntqxC3LY77ZtgBdFm.jpg",
+    "https://image.tmdb.org/t/p/w300/8C5eSpPh0d3feE9kdYznm4dfkp1.jpg",
+    "https://image.tmdb.org/t/p/w300/8sNYVL9tzbNkrch0X4vovZWOvzw.jpg",
+    "https://image.tmdb.org/t/p/w300/qvIXbpGFk0xl9mYBtuDvULJYdIa.jpg",
+    "https://image.tmdb.org/t/p/w300/5iTtqI1i35MAtUJcYDTMRcuowHV.jpg",
+    "https://image.tmdb.org/t/p/w300/i36g90Ob8l53X7aJWbBVFjvmeMD.jpg"
+  ],
+  "similar": [],
+  "views": 13391,
+  "sources": [
+    "https://www.youtube.com/embed/0XBxoKumlqQ?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ahud7s1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 13903,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 13903,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:43:44.811199"
+}
