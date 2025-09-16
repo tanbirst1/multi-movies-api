@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/zodiac/",
+  "meta": {
+    "title": "Zodiac",
+    "poster": "https://image.tmdb.org/t/p/w500/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 02, 2007",
+    "ratingValue": "8.5",
+    "ratingCount": "6",
+    "synopsis": "A cartoonist teams up with an ace reporter and a law enforcement officer to track down an elusive serial killer.",
+    "infoFields": {
+      "Original title": "Zodiac",
+      "IMDb Rating": "7.7 597,290 votes",
+      "TMDb Rating": "7.521 10,042 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Fincher",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-fincher/",
+      "image": "https://image.tmdb.org/t/p/w92/yV36WTsLBAGyYVUQshNdI8hyk9l.jpg"
+    },
+    {
+      "name": "Jake Gyllenhaal",
+      "role": "Robert Graysmith",
+      "url": "https://multimovies.city/cast/jake-gyllenhaal/",
+      "image": "https://image.tmdb.org/t/p/w92/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "role": "David Toschi",
+      "url": "https://multimovies.city/cast/mark-ruffalo/",
+      "image": "https://image.tmdb.org/t/p/w92/z3dvKqMNDQWk3QLxzumloQVR0pv.jpg"
+    },
+    {
+      "name": "Anthony Edwards",
+      "role": "William Armstrong",
+      "url": "https://multimovies.city/cast/anthony-edwards/",
+      "image": "https://image.tmdb.org/t/p/w92/rP88gP87pa3je6Viem3081tESIV.jpg"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Paul Avery",
+      "url": "https://multimovies.city/cast/robert-downey-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/i6LNGZNOYF2I1DiqhDIiQtk26Ov.jpg"
+    },
+    {
+      "name": "Chlo\u00eb Sevigny",
+      "role": "Melanie",
+      "url": "https://multimovies.city/cast/chloe-sevigny/",
+      "image": "https://image.tmdb.org/t/p/w92/nC9jDliEnqbwSKhioUBd9gObDnr.jpg"
+    },
+    {
+      "name": "Elias Koteas",
+      "role": "Jack Mulanax",
+      "url": "https://multimovies.city/cast/elias-koteas/",
+      "image": "https://image.tmdb.org/t/p/w92/wCrzUtE1p4cbVfoA9xpWHYPUWuN.jpg"
+    },
+    {
+      "name": "John Carroll Lynch",
+      "role": "Arthur Leigh Allen",
+      "url": "https://multimovies.city/cast/john-carroll-lynch/",
+      "image": "https://image.tmdb.org/t/p/w92/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg"
+    },
+    {
+      "name": "Brian Cox",
+      "role": "Melvin Belli",
+      "url": "https://multimovies.city/cast/brian-cox/",
+      "image": "https://image.tmdb.org/t/p/w92/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+    },
+    {
+      "name": "Dermot Mulroney",
+      "role": "Martin Lee",
+      "url": "https://multimovies.city/cast/dermot-mulroney/",
+      "image": "https://image.tmdb.org/t/p/w92/5gJszOF45KMPB5tmAbKdK0qgQBx.jpg"
+    },
+    {
+      "name": "Charles Fleischer",
+      "role": "Bob Vaughn",
+      "url": "https://multimovies.city/cast/charles-fleischer/",
+      "image": "https://image.tmdb.org/t/p/w92/go7hUIC6mE2Tc0oy1pHeEqjlO3U.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/jP2htGBHE7vKq4MLeC75UeC0sZH.jpg",
+    "https://image.tmdb.org/t/p/w300/elzsm8vIpYVh0s6ztFEKElqgXqe.jpg",
+    "https://image.tmdb.org/t/p/w300/6w3jt9MGL6sLTmi46bRzpwqG77X.jpg",
+    "https://image.tmdb.org/t/p/w300/9kdtJruoXn7QJqAuJIz7FvPzdQI.jpg",
+    "https://image.tmdb.org/t/p/w300/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+    "https://image.tmdb.org/t/p/w300/cXi9fPU3nEHBfLeLVnguncklXTe.jpg",
+    "https://image.tmdb.org/t/p/w300/cga8m1HkYBY361lCypWA4ge8WGf.jpg",
+    "https://image.tmdb.org/t/p/w300/aeG9FCywAXBUD7KNFaSlWxrIz6p.jpg",
+    "https://image.tmdb.org/t/p/w300/rXyAFajZ1l2oxm2q9yaoX9QCcLZ.jpg",
+    "https://image.tmdb.org/t/p/w300/cYU5msaAPbHRZ3Qm4Y36Fz8wkqX.jpg"
+  ],
+  "similar": [],
+  "views": 12093,
+  "sources": [
+    "https://www.youtube.com/embed/yNncHPl1UXg?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/xlda99bxq9ir"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 47839,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 47839,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:10:21.908216"
+}
