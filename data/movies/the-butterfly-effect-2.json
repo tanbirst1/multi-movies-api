@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-butterfly-effect-2/",
+  "meta": {
+    "title": "The Butterfly Effect 2",
+    "poster": "https://image.tmdb.org/t/p/w500/wDvCGDASXlwyDgwEd920E5iBXpj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Aug. 17, 2006",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "After his girlfriend, Julie, and two best friends are killed in a tragic auto accident, Nick struggles to cope with his loss and grief. Suffering from migraine-like seizures, Nick soon discovers that he has the power to change the past via his memories. However, his time-traveling attempts to alter the past and save his one true love have unexpected and dire consequences.",
+    "infoFields": {
+      "Original title": "The Butterfly Effect 2",
+      "IMDb Rating": "4.5 36,591 votes",
+      "TMDb Rating": "4.922 789 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John R. Leonetti",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-r-leonetti/",
+      "image": "https://image.tmdb.org/t/p/w92/uksq1bamaA4MfpBPaP4Vv8BvLpu.jpg"
+    },
+    {
+      "name": "Eric Lively",
+      "role": "Nick Larson",
+      "url": "https://multimovies.city/cast/eric-lively/",
+      "image": "https://image.tmdb.org/t/p/w92/rk7LBzOUDJMBL4qd1w14qLjSC0o.jpg"
+    },
+    {
+      "name": "Erica Durance",
+      "role": "Julie Miller",
+      "url": "https://multimovies.city/cast/erica-durance/",
+      "image": "https://image.tmdb.org/t/p/w92/kshDl70fwwTHOvog60VFqMjCFUL.jpg"
+    },
+    {
+      "name": "Dustin Milligan",
+      "role": "Trevor Eastman",
+      "url": "https://multimovies.city/cast/dustin-milligan/",
+      "image": "https://image.tmdb.org/t/p/w92/v1OtMBknzIUPXd0sQU6P0LA57V7.jpg"
+    },
+    {
+      "name": "Gina Holden",
+      "role": "Amanda",
+      "url": "https://multimovies.city/cast/gina-holden/",
+      "image": "https://image.tmdb.org/t/p/w92/oBzSVgTkQen3Q1EGDo7ycrBTDEn.jpg"
+    },
+    {
+      "name": "Susan Hogan",
+      "role": "Katherine Larson",
+      "url": "https://multimovies.city/cast/susan-hogan/",
+      "image": "https://image.tmdb.org/t/p/w92/9gwOXpJOCPd6cGh4vKd2C9H7njl.jpg"
+    },
+    {
+      "name": "David Lewis",
+      "role": "Dave Bristol",
+      "url": "https://multimovies.city/cast/david-lewis/",
+      "image": "https://image.tmdb.org/t/p/w92/6i4FD9BsdDacX4Tma41dBWYVCpw.jpg"
+    },
+    {
+      "name": "Chris Gauthier",
+      "role": "Ted",
+      "url": "https://multimovies.city/cast/chris-gauthier/",
+      "image": "https://image.tmdb.org/t/p/w92/nu3JQRFlIrPlAUERVFCdks14cwA.jpg"
+    },
+    {
+      "name": "Lindsay Maxwell",
+      "role": "Grace Callahan",
+      "url": "https://multimovies.city/cast/lindsay-maxwell/",
+      "image": "https://image.tmdb.org/t/p/w92/iiYTb5LgEP6RMrF5piLX5PflBEU.jpg"
+    },
+    {
+      "name": "Andrew Airlie",
+      "role": "Ron Callahan",
+      "url": "https://multimovies.city/cast/andrew-airlie/",
+      "image": "https://image.tmdb.org/t/p/w92/ksxnvf68ohto7VWO4eE3VgTQAuc.jpg"
+    },
+    {
+      "name": "JR Bourne",
+      "role": "Malcolm Williams",
+      "url": "https://multimovies.city/cast/jr-bourne/",
+      "image": "https://image.tmdb.org/t/p/w92/ytic06VRha6addRGF7BSXXj9OkG.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zQXlw0Vj20trQbbI1VRkqwhfqyn.jpg",
+    "https://image.tmdb.org/t/p/w300/zvLfu1O9WksU0r4eQpTmK5ZFu8c.jpg",
+    "https://image.tmdb.org/t/p/w300/yVmoIL9at3EdRjtwB4A7MZ328q0.jpg",
+    "https://image.tmdb.org/t/p/w300/6bronFmsvl1owblL7z6rN0TBC8n.jpg",
+    "https://image.tmdb.org/t/p/w300/fXSxX7QuOZfVj3Duaq9Nl0qGrmM.jpg"
+  ],
+  "similar": [],
+  "views": 998,
+  "sources": [
+    "https://multimoviesshg.com/e/13mycap1jr8o"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6049,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:04:21.585401"
+}
