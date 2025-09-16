@@ -4,15 +4,127 @@
   "meta": {
     "title": "I Am Sam",
     "poster": "https://image.tmdb.org/t/p/w500/3MUXRSyx9gnA2lLSSTGLN8cQQ42.jpg",
-    "synopsis": "Sam, a neurodivergent man, has a daughter with a homeless woman who abandons them when they leave the hospital, leaving Sam to raise Lucy on his own. But as Lucy grows up, Sam\u2019s limitations as a parent start to become a problem and the authorities take her away. Sam convinces high-priced lawyer Rita to take his case pro bono and in turn teaches her the value of love and family."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 28, 2001",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Sam, a neurodivergent man, has a daughter with a homeless woman who abandons them when they leave the hospital, leaving Sam to raise Lucy on his own. But as Lucy grows up, Sam\u2019s limitations as a parent start to become a problem and the authorities take her away. Sam convinces high-priced lawyer Rita to take his case pro bono and in turn teaches her the value of love and family.",
+    "infoFields": {
+      "Original title": "I Am Sam",
+      "IMDb Rating": "7.6 158,906 votes",
+      "TMDb Rating": "7.6 2,349 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Jessie Nelson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jessie-nelson/",
+      "image": "https://image.tmdb.org/t/p/w92/u63xiwuHHpp0gcwMAOfSg9Jwr7G.jpg"
+    },
+    {
+      "name": "Sean Penn",
+      "role": "Sam Dawson",
+      "url": "https://multimovies.city/cast/sean-penn/",
+      "image": "https://image.tmdb.org/t/p/w92/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "role": "Rita Harrison Williams",
+      "url": "https://multimovies.city/cast/michelle-pfeiffer/",
+      "image": "https://image.tmdb.org/t/p/w92/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+    },
+    {
+      "name": "Dianne Wiest",
+      "role": "Annie Cassell",
+      "url": "https://multimovies.city/cast/dianne-wiest/",
+      "image": "https://image.tmdb.org/t/p/w92/axqtFLgJNNz0N9i443USHCOvrmY.jpg"
+    },
+    {
+      "name": "Dakota Fanning",
+      "role": "Lucy Diamond Dawson",
+      "url": "https://multimovies.city/cast/dakota-fanning/",
+      "image": "https://image.tmdb.org/t/p/w92/fXxfYh0NoTiyedRwZPNqBMdz3Eh.jpg"
+    },
+    {
+      "name": "Richard Schiff",
+      "role": "Mr. Turner",
+      "url": "https://multimovies.city/cast/richard-schiff/",
+      "image": "https://image.tmdb.org/t/p/w92/oFDka3Y5H3DBiZRqbdPabtX8ncP.jpg"
+    },
+    {
+      "name": "Loretta Devine",
+      "role": "Margaret Calgrove",
+      "url": "https://multimovies.city/cast/loretta-devine/",
+      "image": "https://image.tmdb.org/t/p/w92/cGTQ0X19bkMWqL6O00JK2t6uJBK.jpg"
+    },
+    {
+      "name": "Marin Hinkle",
+      "role": "Patricia",
+      "url": "https://multimovies.city/cast/marin-hinkle/",
+      "image": "https://image.tmdb.org/t/p/w92/uk58Dpo68zafLnePSEjgK09hM6X.jpg"
+    },
+    {
+      "name": "Laura Dern",
+      "role": "Randy Carpenter",
+      "url": "https://multimovies.city/cast/laura-dern/",
+      "image": "https://image.tmdb.org/t/p/w92/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+    },
+    {
+      "name": "Brad Silverman",
+      "role": "Brad",
+      "url": "https://multimovies.city/cast/brad-silverman/",
+      "image": "https://image.tmdb.org/t/p/w92/2TjBp5gKcWT8Ad7uCGbn07OmKdE.jpg"
+    },
+    {
+      "name": "Joseph Rosenberg",
+      "role": "Joe",
+      "url": "https://multimovies.city/cast/joseph-rosenberg/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mOsg2l9zq315ouw55rbNATSwgU1.jpg",
+    "https://image.tmdb.org/t/p/w300/gGzQPHUxxkFWmFXnDqWAZbkir2.jpg",
+    "https://image.tmdb.org/t/p/w300/1NoEfcNxGIIOXZNVK4lAGTLW7tL.jpg",
+    "https://image.tmdb.org/t/p/w300/opPxzpbASiXHX7jlMwSepLs9zcq.jpg",
+    "https://image.tmdb.org/t/p/w300/klGmW0KLTVfkben5dmmbot1QvDC.jpg",
+    "https://image.tmdb.org/t/p/w300/6g5ThATO9LgOwW0uiNU9rFrw5GG.jpg",
+    "https://image.tmdb.org/t/p/w300/4H2NnG4kC5Bi5Exptf9Fm1dUrHp.jpg",
+    "https://image.tmdb.org/t/p/w300/dyOlYXfSsxWj6yoEkW6BZsfmBzB.jpg",
+    "https://image.tmdb.org/t/p/w300/vj0FMHaUTgqGAQ0XvY4WBN4fHvh.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 2172,
+  "sources": [
+    "https://www.youtube.com/embed/z_AguDqCBvo?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/l1gbppz"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 93934,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 93934,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:30:59.019845"
 }
