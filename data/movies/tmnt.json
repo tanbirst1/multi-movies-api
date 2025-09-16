@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tmnt/",
+  "meta": {
+    "title": "TMNT",
+    "poster": "https://image.tmdb.org/t/p/w500/6ZCWn7BGpDLBDigtdiuGyBdEqab.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Mar. 23, 2007",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "After the defeat of their old arch nemesis, The Shredder, the Turtles have grown apart as a family. Struggling to keep them together, their rat sensei, Splinter, becomes worried when strange things begin to brew in New York City.",
+    "infoFields": {
+      "Original title": "TMNT",
+      "IMDb Rating": "6.2 69,602 votes",
+      "TMDb Rating": "6.142 1,064 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kevin Munroe",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kevin-munroe/",
+      "image": "https://image.tmdb.org/t/p/w92/oSuXWn6TZVxzNvkktjqs01Y7lwA.jpg"
+    },
+    {
+      "name": "James Arnold Taylor",
+      "role": "Leonardo (voice)",
+      "url": "https://multimovies.city/cast/james-arnold-taylor/",
+      "image": "https://image.tmdb.org/t/p/w92/xP7SNjPMhZ2m4aVuYboPa8W1RlB.jpg"
+    },
+    {
+      "name": "Mitchell Whitfield",
+      "role": "Donatello / Additional Voices (voice)",
+      "url": "https://multimovies.city/cast/mitchell-whitfield/",
+      "image": "https://image.tmdb.org/t/p/w92/aCyQGfiRfoCNlSXQ8D2mD5f8zFn.jpg"
+    },
+    {
+      "name": "Nolan North",
+      "role": "Raphael / Nightwatcher (voice)",
+      "url": "https://multimovies.city/cast/nolan-north/",
+      "image": "https://image.tmdb.org/t/p/w92/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg"
+    },
+    {
+      "name": "Mikey Kelley",
+      "role": "Michelangelo (voice)",
+      "url": "https://multimovies.city/cast/mikey-kelley/",
+      "image": "https://image.tmdb.org/t/p/w92/pXxi5KjwpYacmaKAXYfTiOkAlTF.jpg"
+    },
+    {
+      "name": "Sarah Michelle Gellar",
+      "role": "April O'Neil (voice)",
+      "url": "https://multimovies.city/cast/sarah-michelle-gellar/",
+      "image": "https://image.tmdb.org/t/p/w92/ysKT3TAytCoVeMxD113b2UuCFL4.jpg"
+    },
+    {
+      "name": "Chris Evans",
+      "role": "Casey Jones (voice)",
+      "url": "https://multimovies.city/cast/chris-evans/",
+      "image": "https://image.tmdb.org/t/p/w92/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "name": "Mako",
+      "role": "Splinter (voice)",
+      "url": "https://multimovies.city/cast/mako/",
+      "image": "https://image.tmdb.org/t/p/w92/qrt9yI5sEEemzVAEh8mtI6E68L0.jpg"
+    },
+    {
+      "name": "Patrick Stewart",
+      "role": "Winters (voice)",
+      "url": "https://multimovies.city/cast/patrick-stewart/",
+      "image": "https://image.tmdb.org/t/p/w92/3yExCGqCMfSOVVHdEYTJhXaTtFZ.jpg"
+    },
+    {
+      "name": "Kevin Smith",
+      "role": "Diner Cook (voice)",
+      "url": "https://multimovies.city/cast/kevin-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/g8sC36zUTkSTh7y9HjWa4Rbr0JP.jpg"
+    },
+    {
+      "name": "Laurence Fishburne",
+      "role": "Narrator (voice)",
+      "url": "https://multimovies.city/cast/laurence-fishburne/",
+      "image": "https://image.tmdb.org/t/p/w92/iwx7h0AfWMm9K4sMmhru3ShSra.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/92mpNNg6v2PN2HN2C2Z4g0v3Tya.jpg",
+    "https://image.tmdb.org/t/p/w300/4KIGAJm3PQ9r1xsGBTnLEez4DLu.jpg",
+    "https://image.tmdb.org/t/p/w300/rtsFCTfMkE1ttbIcyraQ9AxVyPg.jpg",
+    "https://image.tmdb.org/t/p/w300/cpCYg1j9MDPnJaMGx8J76UIZDEo.jpg",
+    "https://image.tmdb.org/t/p/w300/8Xbf2TVfL43n2MPorcfx3m2CuM5.jpg",
+    "https://image.tmdb.org/t/p/w300/duWdiuJrULJhLkt6B7i171IlxSg.jpg",
+    "https://image.tmdb.org/t/p/w300/8yQRvYkUMpidYvoi220Gq5t1nBC.jpg",
+    "https://image.tmdb.org/t/p/w300/A8XGcJTpkHD6IM63Y4lTqapJIVg.jpg",
+    "https://image.tmdb.org/t/p/w300/lQOvjtiQcO2wDJ9ETK44bjrSLf7.jpg",
+    "https://image.tmdb.org/t/p/w300/uffBVrI9WapfZnk8V4HN3siXOSK.jpg"
+  ],
+  "similar": [],
+  "views": 390,
+  "sources": [
+    "https://www.youtube.com/embed/JMjKZw9bxLk?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/iy3naxr66qq8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 57710,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 57710,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:13:34.030471"
+}
