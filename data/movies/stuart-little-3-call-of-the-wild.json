@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/stuart-little-3-call-of-the-wild/",
+  "meta": {
+    "title": "Stuart Little 3: Call of the Wild",
+    "poster": "https://image.tmdb.org/t/p/w500/zImw7IVg8dxPkqMfT0L33sdsIHC.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jul. 14, 2005",
+    "ratingValue": "3",
+    "ratingCount": "1",
+    "synopsis": "With school out for the summer, The Littles are vacationing in a cabin by the lake, and Stuart is so excited he could burst! But when Snowbell the cat is captured by a mean-spirited creature known simply as the Beast, it\u2019s up to Stuart and a skunk named Reeko to rescue him and a few other friends.",
+    "infoFields": {
+      "Original title": "Stuart Little 3: Call of the Wild",
+      "IMDb Rating": "4.3 4,996 votes",
+      "TMDb Rating": "5.2 439 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Audu Paden",
+      "role": "Director",
+      "url": "https://multimovies.city/director/audu-paden/",
+      "image": "https://image.tmdb.org/t/p/w92/v1B5Cc91AdwPQgMCQKebD8iPhH0.jpg"
+    },
+    {
+      "name": "Michael J. Fox",
+      "role": "Stuart Little (voice)",
+      "url": "https://multimovies.city/cast/michael-j-fox/",
+      "image": "https://image.tmdb.org/t/p/w92/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+    },
+    {
+      "name": "Geena Davis",
+      "role": "Mrs. Little (voice)",
+      "url": "https://multimovies.city/cast/geena-davis/",
+      "image": "https://image.tmdb.org/t/p/w92/bx9ufx5cS7FfHDFFeT71syBh428.jpg"
+    },
+    {
+      "name": "Hugh Laurie",
+      "role": "Mr. Little (voice)",
+      "url": "https://multimovies.city/cast/hugh-laurie/",
+      "image": "https://image.tmdb.org/t/p/w92/lpu443aKW5aKzVnV4xjiqvD1DnK.jpg"
+    },
+    {
+      "name": "Wayne Brady",
+      "role": "Reeko (voice)",
+      "url": "https://multimovies.city/cast/wayne-brady/",
+      "image": "https://image.tmdb.org/t/p/w92/zRIYr4jl7LiEDbbaFcwFiRwLhw1.jpg"
+    },
+    {
+      "name": "Kevin Schon",
+      "role": "Snowbell (voice)",
+      "url": "https://multimovies.city/cast/kevin-schon/",
+      "image": "https://image.tmdb.org/t/p/w92/cqMh5iClrOHgEOjiJHJJ5PyFPqZ.jpg"
+    },
+    {
+      "name": "Corey Padnos",
+      "role": "George Little (voice)",
+      "url": "https://multimovies.city/cast/corey-padnos/",
+      "image": "https://image.tmdb.org/t/p/w92/sDucFkxWSsZIUptOTH5ABztd7CS.jpg"
+    },
+    {
+      "name": "Peter MacNicol",
+      "role": "Troopmaster (voice)",
+      "url": "https://multimovies.city/cast/peter-macnicol/",
+      "image": "https://image.tmdb.org/t/p/w92/xo09hN0cqYh1V7z986yFOTdaKhU.jpg"
+    },
+    {
+      "name": "Virginia Madsen",
+      "role": "The Beast (voice)",
+      "url": "https://multimovies.city/cast/virginia-madsen/",
+      "image": "https://image.tmdb.org/t/p/w92/5L0MMi0IE6VOQQFMt7xekRA7SVM.jpg"
+    },
+    {
+      "name": "Rino Romano",
+      "role": "Monty (voice)",
+      "url": "https://multimovies.city/cast/rino-romano/",
+      "image": "https://image.tmdb.org/t/p/w92/rpyq7xdQ5zSCHYiwnlPvkx7gLrl.jpg"
+    },
+    {
+      "name": "Tara Strong",
+      "role": "Brooke / Forest Animals / Scouts (voice)",
+      "url": "https://multimovies.city/cast/tara-strong/",
+      "image": "https://image.tmdb.org/t/p/w92/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zpgnPWDFAvHn3qf7vs4bjroSi1.jpg",
+    "https://image.tmdb.org/t/p/w300/mwJ99qv48tE5Km7fLkeoOU1uVfK.jpg",
+    "https://image.tmdb.org/t/p/w300/44zTNWWBFM193gpFRoX1hQCdBCr.jpg",
+    "https://image.tmdb.org/t/p/w300/77raT9WkLmAH20YpXrD1Tmme77f.jpg"
+  ],
+  "similar": [],
+  "views": 1693,
+  "sources": [
+    "https://www.youtube.com/embed/trBgCyZpaa4?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/dqh5i36yno7n"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 22976,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 22976,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:55:29.146745"
+}
