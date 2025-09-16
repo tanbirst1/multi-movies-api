@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/howls-moving-castle/",
+  "meta": {
+    "title": "Howl\u2019s Moving Castle",
+    "poster": "https://image.tmdb.org/t/p/w500/6pZgH10jhpToPcf0uvyTCPFhWpI.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime",
+        "url": "https://multimovies.city/genre/anime/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hindi Dub Anime",
+        "url": "https://multimovies.city/genre/anime-hindi/"
+      }
+    ],
+    "firstAirDate": "Sep. 09, 2004",
+    "ratingValue": "10",
+    "ratingCount": "3",
+    "synopsis": "When Sophie, a shy young woman, is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+    "infoFields": {
+      "Original title": "\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce",
+      "IMDb Rating": "8.2 456,013 votes",
+      "TMDb Rating": "8.407 9,585 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hayao-miyazaki/",
+      "image": "https://image.tmdb.org/t/p/w92/mG3cfxtA5jqDc7fpKgyzZMKoXDh.jpg"
+    },
+    {
+      "name": "Chieko Baisho",
+      "role": "Sophie (voice)",
+      "url": "https://multimovies.city/cast/chieko-baisho/",
+      "image": "https://image.tmdb.org/t/p/w92/b8ANR4WfdUZtoU4ktlnMFzbq759.jpg"
+    },
+    {
+      "name": "Takuya Kimura",
+      "role": "Howl (voice)",
+      "url": "https://multimovies.city/cast/takuya-kimura/",
+      "image": "https://image.tmdb.org/t/p/w92/sswCg8kvFsgSaVJwcIKKe4K7jOe.jpg"
+    },
+    {
+      "name": "Akihiro Miwa",
+      "role": "Witch of the Waste (voice)",
+      "url": "https://multimovies.city/cast/akihiro-miwa/",
+      "image": "https://image.tmdb.org/t/p/w92/pCfBeLJigKnUWOAy7hsdBR7K0UV.jpg"
+    },
+    {
+      "name": "Tatsuya Gash\u00fbin",
+      "role": "Calcifer (voice)",
+      "url": "https://multimovies.city/cast/tatsuya-gashuin/",
+      "image": "https://image.tmdb.org/t/p/w92/fLqIdkShknsJmZy4EfBWuWyHN4C.jpg"
+    },
+    {
+      "name": "Ryunosuke Kamiki",
+      "role": "Markl (voice)",
+      "url": "https://multimovies.city/cast/ryunosuke-kamiki/",
+      "image": "https://image.tmdb.org/t/p/w92/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+    },
+    {
+      "name": "Mitsunori Isaki",
+      "role": "Kosho (voice)",
+      "url": "https://multimovies.city/cast/mitsunori-isaki/",
+      "image": "https://image.tmdb.org/t/p/w92/qg7TOjxWW2UMvUJglQ7fyLlE3gI.jpg"
+    },
+    {
+      "name": "Yo Oizumi",
+      "role": "Prince Justin / Turnip Head (voice)",
+      "url": "https://multimovies.city/cast/yo-oizumi/",
+      "image": "https://image.tmdb.org/t/p/w92/qw5KLuww2AEAk6JEssEkJY3wBn1.jpg"
+    },
+    {
+      "name": "Akio Otsuka",
+      "role": "King of Ingary (voice)",
+      "url": "https://multimovies.city/cast/akio-otsuka/",
+      "image": "https://image.tmdb.org/t/p/w92/fBgebh93VAJC9lIVdB8JmFtdixL.jpg"
+    },
+    {
+      "name": "Daijir\u00f4 Harada",
+      "role": "Heen (voice)",
+      "url": "https://multimovies.city/cast/daijiro-harada/",
+      "image": "https://image.tmdb.org/t/p/w92/i1r0vuDmUgz7LgqR1qXkP0vO9MH.jpg"
+    },
+    {
+      "name": "Haruko Kat\u00f4",
+      "role": "Madame Suliman (voice)",
+      "url": "https://multimovies.city/cast/haruko-kato/",
+      "image": "https://image.tmdb.org/t/p/w92/WyeP5PbPEDeQI83Mq1NYwB87mk.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bNYDRRgmKogbPjhsR0PTPkqITnh.jpg",
+    "https://image.tmdb.org/t/p/w300/vwBa7djy1oxfxUjc7YtVgGNsjrT.jpg",
+    "https://image.tmdb.org/t/p/w300/94QDjwjaueEwM2c8Vvz1cYh19lC.jpg",
+    "https://image.tmdb.org/t/p/w300/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+    "https://image.tmdb.org/t/p/w300/9MeUZMoDwzCb6gF0V4xh860GpiW.jpg",
+    "https://image.tmdb.org/t/p/w300/hjlvbMKhQm7N8tYynr8yQ8GBmqe.jpg",
+    "https://image.tmdb.org/t/p/w300/xqaN2WYQclQlqvKvsOcNgOx2vRn.jpg",
+    "https://image.tmdb.org/t/p/w300/FL8luPKWa1oLQZ4kccIPUEGVVZ.jpg",
+    "https://image.tmdb.org/t/p/w300/7uwHTDCI33poFzU4SvVDjjCnTd7.jpg",
+    "https://image.tmdb.org/t/p/w300/uCmCxC8Jw0SOgz1JTrI4KVVfu5u.jpg"
+  ],
+  "similar": [],
+  "views": 4422,
+  "sources": [
+    "https://www.youtube.com/embed/iwROgK94zcM?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/orc5mbjafmox"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1880,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1880,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:50:11.157126"
+}
