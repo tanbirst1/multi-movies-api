@@ -4,15 +4,136 @@
   "meta": {
     "title": "Hollow Man",
     "poster": "https://image.tmdb.org/t/p/w500/sd3qUIv5uoP2oTbqv66CzXSPjKG.jpg",
-    "synopsis": "Cocky researcher Sebastian Caine is working on a project to make living creatures invisible. Determined to achieve the ultimate breakthrough, Caine pushes his team to move to the next phase \u2014 using himself as the subject. The test is a success, but when the process can\u2019t be reversed and Caine seems doomed to future without flesh, he starts to turn increasingly dangerous."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Aug. 04, 2000",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Cocky researcher Sebastian Caine is working on a project to make living creatures invisible. Determined to achieve the ultimate breakthrough, Caine pushes his team to move to the next phase \u2014 using himself as the subject. The test is a success, but when the process can\u2019t be reversed and Caine seems doomed to future without flesh, he starts to turn increasingly dangerous.",
+    "infoFields": {
+      "Original title": "Hollow Man",
+      "IMDb Rating": "5.9 143,495 votes",
+      "TMDb Rating": "5.95 2,616 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Paul Verhoeven",
+      "role": "Director",
+      "url": "https://multimovies.city/director/paul-verhoeven/",
+      "image": "https://image.tmdb.org/t/p/w92/2TQvrRCtS7GD0EEgODwfNMmkMbG.jpg"
+    },
+    {
+      "name": "Kevin Bacon",
+      "role": "Sebastian Caine",
+      "url": "https://multimovies.city/cast/kevin-bacon/",
+      "image": "https://image.tmdb.org/t/p/w92/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+      "name": "Elisabeth Shue",
+      "role": "Linda McKay",
+      "url": "https://multimovies.city/cast/elisabeth-shue/",
+      "image": "https://image.tmdb.org/t/p/w92/A1eCMPRBBrJ1vb6qGk7OrAmTA5l.jpg"
+    },
+    {
+      "name": "Josh Brolin",
+      "role": "Matthew Kensington",
+      "url": "https://multimovies.city/cast/josh-brolin/",
+      "image": "https://image.tmdb.org/t/p/w92/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "name": "Kim Dickens",
+      "role": "Sarah Kennedy",
+      "url": "https://multimovies.city/cast/kim-dickens/",
+      "image": "https://image.tmdb.org/t/p/w92/yr6kstI1hdLP6LXz2xyBB4ovduj.jpg"
+    },
+    {
+      "name": "Greg Grunberg",
+      "role": "Carter Abbey",
+      "url": "https://multimovies.city/cast/greg-grunberg/",
+      "image": "https://image.tmdb.org/t/p/w92/ir2QunLf6aTaowpEygbIcjiZLDB.jpg"
+    },
+    {
+      "name": "Joey Slotnick",
+      "role": "Frank Chase",
+      "url": "https://multimovies.city/cast/joey-slotnick/",
+      "image": "https://image.tmdb.org/t/p/w92/obbw43JPkgMHMqJIQthigopTOC9.jpg"
+    },
+    {
+      "name": "Mary Randle",
+      "role": "Janice Walton",
+      "url": "https://multimovies.city/cast/mary-randle/",
+      "image": "https://image.tmdb.org/t/p/w92/ykhIEwJ3NmKcjOld8BAVfQNscZp.jpg"
+    },
+    {
+      "name": "William Devane",
+      "role": "Dr. Kramer",
+      "url": "https://multimovies.city/cast/william-devane/",
+      "image": "https://image.tmdb.org/t/p/w92/wCfPYMkAOCXM4RF1Pg6VhtKR50U.jpg"
+    },
+    {
+      "name": "Rhona Mitra",
+      "role": "Sebastian's Neighbor",
+      "url": "https://multimovies.city/cast/rhona-mitra/",
+      "image": "https://image.tmdb.org/t/p/w92/uNhJlnnojDMeBNpYQwyD5Tomqyq.jpg"
+    },
+    {
+      "name": "Tom Woodruff Jr.",
+      "role": "Isabelle the Gorilla",
+      "url": "https://multimovies.city/cast/tom-woodruff-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/o5MW7KiROaA5uf9zzJmpHJfUjh3.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/g6UIASElC5M6jwtV4TZlz1sok3h.jpg",
+    "https://image.tmdb.org/t/p/w300/A4axuCTffddB8JlGmDOQP7QmBT7.jpg",
+    "https://image.tmdb.org/t/p/w300/dY3UfGt5CF8KwINU7S1iZVq1W6Z.jpg",
+    "https://image.tmdb.org/t/p/w300/vR1HT8xYzkbDW9EviVBJ67BnIz8.jpg",
+    "https://image.tmdb.org/t/p/w300/cRwFAdYkg5fxx4GWFpCSReXuLID.jpg",
+    "https://image.tmdb.org/t/p/w300/cD7mam2WGA0bZkl92ILQfwQo3rX.jpg",
+    "https://image.tmdb.org/t/p/w300/xAOKkVdD6YRaW5eWy3tpCvcbCga.jpg",
+    "https://image.tmdb.org/t/p/w300/pylWtF2xTaW75dvvR16qU1LKyD.jpg",
+    "https://image.tmdb.org/t/p/w300/ucTeyHNqVQrMHQia5NEsSz8m5sf.jpg",
+    "https://image.tmdb.org/t/p/w300/da1O93Nb27mMFGQrRczDOg1vgyQ.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 514,
+  "sources": [
+    "https://www.youtube.com/embed/PksGHTBW1uE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/jy8r3i5"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 98931,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 98931,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:27:50.787407"
 }
