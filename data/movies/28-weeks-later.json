@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/28-weeks-later/",
+  "meta": {
+    "title": "28 Weeks Later",
+    "poster": "https://image.tmdb.org/t/p/w500/oix0aNv1lvW3nUGspUyvSIBlpbs.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Apr. 26, 2007",
+    "ratingValue": "6.4",
+    "ratingCount": "7",
+    "synopsis": "The inhabitants of the British Isles have lost their battle against the onslaught of disease, as the deadly rage virus has killed every citizen there. Six months later, a group of Americans dare to set foot on the isles, convinced the danger has come and gone. But it soon becomes all too clear that the scourge continues to live, waiting to pounce on its next victims.",
+    "infoFields": {
+      "Original title": "28 Weeks Later",
+      "IMDb Rating": "6.9 337,333 votes",
+      "TMDb Rating": "6.608 4,942 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Juan Carlos Fresnadillo",
+      "role": "Director",
+      "url": "https://multimovies.city/director/juan-carlos-fresnadillo/",
+      "image": "https://image.tmdb.org/t/p/w92/j0syLia3v2znuWhawJRkVsyJU8a.jpg"
+    },
+    {
+      "name": "Robert Carlyle",
+      "role": "Donald Harris",
+      "url": "https://multimovies.city/cast/robert-carlyle/",
+      "image": "https://image.tmdb.org/t/p/w92/yOdTewlmmvxqDaKbWJ7eAk0ULCf.jpg"
+    },
+    {
+      "name": "Rose Byrne",
+      "role": "Scarlet",
+      "url": "https://multimovies.city/cast/rose-byrne/",
+      "image": "https://image.tmdb.org/t/p/w92/4oQWCLK7gd6RNKF0WJipJo7TyFP.jpg"
+    },
+    {
+      "name": "Jeremy Renner",
+      "role": "Sergeant Doyle",
+      "url": "https://multimovies.city/cast/jeremy-renner/",
+      "image": "https://image.tmdb.org/t/p/w92/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+    },
+    {
+      "name": "Harold Perrineau",
+      "role": "Flynn",
+      "url": "https://multimovies.city/cast/harold-perrineau/",
+      "image": "https://image.tmdb.org/t/p/w92/t7zLcryF0UTn2HZuk1RN7y9Abgu.jpg"
+    },
+    {
+      "name": "Catherine McCormack",
+      "role": "Alice",
+      "url": "https://multimovies.city/cast/catherine-mccormack/",
+      "image": "https://image.tmdb.org/t/p/w92/vYyMCGKeIUTZMdEgVwQCgX7q1T3.jpg"
+    },
+    {
+      "name": "Imogen Poots",
+      "role": "Tammy Harris",
+      "url": "https://multimovies.city/cast/imogen-poots/",
+      "image": "https://image.tmdb.org/t/p/w92/7uMFX0ecPZT2tc8L5DFFNbUckc9.jpg"
+    },
+    {
+      "name": "Mackintosh Muggleton",
+      "role": "Andy",
+      "url": "https://multimovies.city/cast/mackintosh-muggleton/",
+      "image": "https://image.tmdb.org/t/p/w92/nWhYVUA0aVriQo6KTvW41tE8FKi.jpg"
+    },
+    {
+      "name": "Idris Elba",
+      "role": "General Stone",
+      "url": "https://multimovies.city/cast/idris-elba/",
+      "image": "https://image.tmdb.org/t/p/w92/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "name": "Amanda Walker",
+      "role": "Sally",
+      "url": "https://multimovies.city/cast/amanda-walker/",
+      "image": "https://image.tmdb.org/t/p/w92/g24boQMXNvZzWDKMPZFFs4x4h5f.jpg"
+    },
+    {
+      "name": "Shahid Ahmed",
+      "role": "Jacob",
+      "url": "https://multimovies.city/cast/shahid-ahmed/",
+      "image": "https://image.tmdb.org/t/p/w92/dZLAEH5soXDhtC6devzHmPARkht.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/PN7yjmQdmG0J62jsrtmrPi8ezK.jpg",
+    "https://image.tmdb.org/t/p/w300/rsOgxtMAypUdyDRdqxa6eOXTNGg.jpg",
+    "https://image.tmdb.org/t/p/w300/t3SVSeePap5fhiwjM480JelkXlt.jpg",
+    "https://image.tmdb.org/t/p/w300/YBtdZy0r27u3gMfkiybf3UXRGG.jpg",
+    "https://image.tmdb.org/t/p/w300/w9CmF1jbjjNK8mQlniAIG7GKWDp.jpg",
+    "https://image.tmdb.org/t/p/w300/kWM41LGJVyrhwB1bOOs8351IOAP.jpg",
+    "https://image.tmdb.org/t/p/w300/5pNLBfeUtiO8vU9EizDVgnUN8oI.jpg",
+    "https://image.tmdb.org/t/p/w300/1MNnIIfG5Sle4NsLwgDEOhtkCIf.jpg",
+    "https://image.tmdb.org/t/p/w300/2VKv5wz9RENiNQNb4sDztiOjBRU.jpg",
+    "https://image.tmdb.org/t/p/w300/8Yfc6Ry0GGViSqDOup6Uw9u90py.jpg"
+  ],
+  "similar": [],
+  "views": 7210,
+  "sources": [
+    "https://www.youtube.com/embed/cH-9OTWwjxM?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/knjk4xu"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 70848,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 70848,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:09:10.190774"
+}
