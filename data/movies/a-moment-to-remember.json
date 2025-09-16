@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/a-moment-to-remember/",
+  "meta": {
+    "title": "A Moment to Remember",
+    "poster": "https://image.tmdb.org/t/p/w500/s9ulpxLbkeJTTYxqLVUl6PreLGN.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Nov. 05, 2004",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "A young couple\u2019s love is tested when Sun-jin is diagnosed with a rare form of Alzheimer\u2019s disease.",
+    "infoFields": {
+      "Original title": "\ub0b4 \uba38\ub9ac \uc18d\uc758 \uc9c0\uc6b0\uac1c",
+      "IMDb Rating": "8.1 26,556 votes",
+      "TMDb Rating": "7.804 334 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John H. Lee",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-h-lee/",
+      "image": "https://image.tmdb.org/t/p/w92/dOUNW4Bi292xntqVb6kF2mmZBHG.jpg"
+    },
+    {
+      "name": "Jung Woo-sung",
+      "role": "Choi Chul-soo",
+      "url": "https://multimovies.city/cast/jung-woo-sung/",
+      "image": "https://image.tmdb.org/t/p/w92/tI0ANQSwcOBfQUeHgfcwn7VmHRO.jpg"
+    },
+    {
+      "name": "Son Ye-jin",
+      "role": "Kim Su-jin",
+      "url": "https://multimovies.city/cast/son-ye-jin/",
+      "image": "https://image.tmdb.org/t/p/w92/njczzJJnugd9y7p5CF3XW7dcyYK.jpg"
+    },
+    {
+      "name": "Baek Jong-hak",
+      "role": "Seo Yeong-min",
+      "url": "https://multimovies.city/cast/baek-jong-hak/",
+      "image": "https://image.tmdb.org/t/p/w92/roFlSa6B3ZRqePnGgOOos8UjNUx.jpg"
+    },
+    {
+      "name": "Lee Sun-jin",
+      "role": "Jung An-na",
+      "url": "https://multimovies.city/cast/lee-sun-jin/",
+      "image": "https://image.tmdb.org/t/p/w92/ayLdtnC2Jc8Xyg0za1GyV8N22zu.jpg"
+    },
+    {
+      "name": "Park Sang-gyu",
+      "role": "Mr. Kim",
+      "url": "https://multimovies.city/cast/park-sang-gyu/",
+      "image": "https://image.tmdb.org/t/p/w92/z5mrkz2s7agZRcGDjEsDNft8zNi.jpg"
+    },
+    {
+      "name": "Kim Hee-ryung",
+      "role": "Mother",
+      "url": "https://multimovies.city/cast/kim-hee-ryung/",
+      "image": "https://image.tmdb.org/t/p/w92/9g9Lga2y8dCsr7KLGbP51Z4sAfW.jpg"
+    },
+    {
+      "name": "Seon Ji-hyun",
+      "role": "Jeong-eun",
+      "url": "https://multimovies.city/cast/seon-ji-hyun/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kim Bu-seon",
+      "role": "Madame Oh",
+      "url": "https://multimovies.city/cast/kim-bu-seon/",
+      "image": "https://image.tmdb.org/t/p/w92/xeJ0TXNrXcem4Ql9Z1Qpy9mdrDl.jpg"
+    },
+    {
+      "name": "Jang In-han",
+      "role": "Supervisor",
+      "url": "https://multimovies.city/cast/jang-in-han/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kwon Byung-gil",
+      "role": "Doctor Lee",
+      "url": "https://multimovies.city/cast/kwon-byung-gil/",
+      "image": "https://image.tmdb.org/t/p/w92/98WqdHLFzOBqt0DnYe1F860BqZS.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/uRkIlvBtvwOWBBY3GtpCJGJsGug.jpg",
+    "https://image.tmdb.org/t/p/w300/cYR0Hjngnim3ki8o4IjMLJgLMyB.jpg",
+    "https://image.tmdb.org/t/p/w300/h8QMbO8ZyK2XMvYHlqQT4Dtq5sx.jpg",
+    "https://image.tmdb.org/t/p/w300/jymqGYV1JdQlqz5hX9fGg06JlZC.jpg",
+    "https://image.tmdb.org/t/p/w300/wXUZfZAeJVKffKmGh8jNAUwJVnt.jpg",
+    "https://image.tmdb.org/t/p/w300/FJOx1foJ18Bt9Ls2cROUCkVO0h.jpg",
+    "https://image.tmdb.org/t/p/w300/uYkbk8gzQdjV0E9uKkho4QR4JS2.jpg",
+    "https://image.tmdb.org/t/p/w300/kTl1GeRpIUCiw3XZAPrSvQb9lCG.jpg",
+    "https://image.tmdb.org/t/p/w300/uIjPrp86PLiGo6PPlEOP5UctLAW.jpg"
+  ],
+  "similar": [],
+  "views": 3198,
+  "sources": [
+    "https://www.youtube.com/embed/LFLSwFEiANg?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vnnku8m"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 94195,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 94195,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:49:01.620608"
+}
