@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/night-at-the-museum/",
+  "meta": {
+    "title": "Night at the Museum",
+    "poster": "https://image.tmdb.org/t/p/w500/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 20, 2006",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.",
+    "infoFields": {
+      "Original title": "Night at the Museum",
+      "IMDb Rating": "6.4 358,931 votes",
+      "TMDb Rating": "6.588 10,426 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Josh McLaglen",
+      "role": "Director",
+      "url": "https://multimovies.city/director/josh-mclaglen/",
+      "image": "https://image.tmdb.org/t/p/w92/5PJWCWlKF3kJWOHSqs7l7M7nZK9.jpg"
+    },
+    {
+      "name": "Ben Stiller",
+      "role": "Larry Daley",
+      "url": "https://multimovies.city/cast/ben-stiller/",
+      "image": "https://image.tmdb.org/t/p/w92/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "name": "Carla Gugino",
+      "role": "Rebecca",
+      "url": "https://multimovies.city/cast/carla-gugino/",
+      "image": "https://image.tmdb.org/t/p/w92/7lSH5LOexOHwvt9lOTsLTbXdU1G.jpg"
+    },
+    {
+      "name": "Dick Van Dyke",
+      "role": "Cecil",
+      "url": "https://multimovies.city/cast/dick-van-dyke/",
+      "image": "https://image.tmdb.org/t/p/w92/zSd2C032XaQvUg1g88W4KWOIpsz.jpg"
+    },
+    {
+      "name": "Mickey Rooney",
+      "role": "Gus",
+      "url": "https://multimovies.city/cast/mickey-rooney/",
+      "image": "https://image.tmdb.org/t/p/w92/eYuayEC3xhXQf3Z1Cy6AVMEcgZb.jpg"
+    },
+    {
+      "name": "Bill Cobbs",
+      "role": "Reginald",
+      "url": "https://multimovies.city/cast/bill-cobbs/",
+      "image": "https://image.tmdb.org/t/p/w92/cP2ETKFdk93z4e1oXZVG0utI3IM.jpg"
+    },
+    {
+      "name": "Jake Cherry",
+      "role": "Nick Daley",
+      "url": "https://multimovies.city/cast/jake-cherry/",
+      "image": "https://image.tmdb.org/t/p/w92/gzThT5IjkJItNV27kRCQItzXJgX.jpg"
+    },
+    {
+      "name": "Ricky Gervais",
+      "role": "Dr. McPhee",
+      "url": "https://multimovies.city/cast/ricky-gervais/",
+      "image": "https://image.tmdb.org/t/p/w92/2mAjcq9AQA9peQxNoeEW76DPIju.jpg"
+    },
+    {
+      "name": "Robin Williams",
+      "role": "Teddy Roosevelt",
+      "url": "https://multimovies.city/cast/robin-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "name": "Kim Raver",
+      "role": "Erica Daley",
+      "url": "https://multimovies.city/cast/kim-raver/",
+      "image": "https://image.tmdb.org/t/p/w92/o9OYkG0b48125tim78ebyGeC4lO.jpg"
+    },
+    {
+      "name": "Patrick Gallagher",
+      "role": "Attila the Hun",
+      "url": "https://multimovies.city/cast/patrick-gallagher/",
+      "image": "https://image.tmdb.org/t/p/w92/8ZWcp7kRwoh5cGZFByDQdhTODw9.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/rwcPe582tfTSVLwQzbO25InW3Hi.jpg",
+    "https://image.tmdb.org/t/p/w300/oSDn50nvqwofWGxbjZ2dSyMmcMQ.jpg",
+    "https://image.tmdb.org/t/p/w300/a7DwWaOjJxRB6LHq8Wfw5jHdAWy.jpg",
+    "https://image.tmdb.org/t/p/w300/zLbRMFVF5MVdM10Y5GzF34A3CSo.jpg",
+    "https://image.tmdb.org/t/p/w300/zun7wiyuxrLrrsZQkoGc767QG8Q.jpg",
+    "https://image.tmdb.org/t/p/w300/fefzO1jiI0DfYH5D2jqDsw1Hqmf.jpg",
+    "https://image.tmdb.org/t/p/w300/3oIr7Y3xnvkSlwdPlrhUspv74uS.jpg",
+    "https://image.tmdb.org/t/p/w300/yEl9wEWOiuRGixvIwc1ITG27hPL.jpg",
+    "https://image.tmdb.org/t/p/w300/vOCF73X6FxVEEA8EuqRlUInfgmV.jpg",
+    "https://image.tmdb.org/t/p/w300/gTmpmYc6k33BIYQGlLl8VCXBuQW.jpg"
+  ],
+  "similar": [],
+  "views": 4152,
+  "sources": [
+    "https://www.youtube.com/embed/YXu7kqD1JLs?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/a9pq0e1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7960,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7960,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:06:03.517939"
+}
