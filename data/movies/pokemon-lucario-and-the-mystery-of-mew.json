@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/pokemon-lucario-and-the-mystery-of-mew/",
+  "meta": {
+    "title": "Pok\u00e9mon Movie 8: Lucario and the Mystery of Mew",
+    "poster": "https://image.tmdb.org/t/p/w500/612lsEOZvsn3ELh07OGGGKCeEVj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jul. 16, 2005",
+    "ratingValue": "9.7",
+    "ratingCount": "3",
+    "synopsis": "In the legendary past, before Pok\u00e9 Balls were invented, an aura-guiding hero Pok\u00e9mon named Lucario sensed two groups of armies about to clash, and a threat of a massive war in front of Oldoran Castle in Kanto that would leave no survivors. He transferred this message to his master, the legendary hero Arlon, while he was being attacked by a violent group of Hellgar. During the battle, his sense of sight was lost and he was rendered unable to see. He used the detection of his Aura, and so with the offensive Wave Bomb, he eliminated them. Though by the threat, the queen of Rota, Lady Rin was resolute to die with her civilians, and so Arlon made a choice.",
+    "infoFields": {
+      "Original title": "\u5287\u5834\u7248\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u30a2\u30c9\u30d0\u30f3\u30b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3 \u30df\u30e5\u30a6\u3068\u6ce2\u5c0e\u306e\u52c7\u8005 \u30eb\u30ab\u30ea\u30aa",
+      "IMDb Rating": "6.8 4,908 votes",
+      "TMDb Rating": "6.949 254 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kunihiko Yuyama",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kunihiko-yuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/m9TuHUsVZXwacadFyDIZ7BKFkrM.jpg"
+    },
+    {
+      "name": "Rica Matsumoto",
+      "role": "Satoshi (voice)",
+      "url": "https://multimovies.city/cast/rica-matsumoto/",
+      "image": "https://image.tmdb.org/t/p/w92/ykm6ZpLcX5wblCNp7rOAoZpCh3L.jpg"
+    },
+    {
+      "name": "Ikue Otani",
+      "role": "Pikachu (voice)",
+      "url": "https://multimovies.city/cast/ikue-otani/",
+      "image": "https://image.tmdb.org/t/p/w92/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "name": "Yuji Ueda",
+      "role": "Takeshi / Sonans (voice)",
+      "url": "https://multimovies.city/cast/yuji-ueda/",
+      "image": "https://image.tmdb.org/t/p/w92/nwJBK4WwsUCcBcX425GD2BroJDr.jpg"
+    },
+    {
+      "name": "KAORI",
+      "role": "Haruka (voice)",
+      "url": "https://multimovies.city/cast/kaori/",
+      "image": "https://image.tmdb.org/t/p/w92/dC2BZG5c3GoACZmXFV2qo6YtVNk.jpg"
+    },
+    {
+      "name": "Fushigi Yamada",
+      "role": "Masato (voice)",
+      "url": "https://multimovies.city/cast/fushigi-yamada/",
+      "image": "https://image.tmdb.org/t/p/w92/uoodrznII4dGQhRSjb3ogqooX8D.jpg"
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "role": "Musashi (voice)",
+      "url": "https://multimovies.city/cast/megumi-hayashibara/",
+      "image": "https://image.tmdb.org/t/p/w92/wqwCa9PNUBXPuN9MpSnYq2dz740.jpg"
+    },
+    {
+      "name": "Shin-ichiro Miki",
+      "role": "Kojiro (voice)",
+      "url": "https://multimovies.city/cast/shin-ichiro-miki/",
+      "image": "https://image.tmdb.org/t/p/w92/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
+    },
+    {
+      "name": "Inuko Inuyama",
+      "role": "Nyarth (voice)",
+      "url": "https://multimovies.city/cast/inuko-inuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/bA6BQgafhEyRFMh4EbZQJqvIVWY.jpg"
+    },
+    {
+      "name": "Chie Sato",
+      "role": "Gonbe (voice)",
+      "url": "https://multimovies.city/cast/chie-sato/",
+      "image": "https://image.tmdb.org/t/p/w92/x6A6uWJUI8HnhaYVXVZJKT2EA0r.jpg"
+    },
+    {
+      "name": "Chinami Nishimura",
+      "role": "Wakasyamo (voice)",
+      "url": "https://multimovies.city/cast/chinami-nishimura/",
+      "image": "https://image.tmdb.org/t/p/w92/5vmzyF1Mkbzc0ZN4EkToiY6NiUb.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/DjfbGlwfxj8XrVyOiNi3QuyS3g.jpg"
+  ],
+  "similar": [],
+  "views": 2568,
+  "sources": [
+    "https://www.youtube.com/embed/cksY3fTkc_I?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/k2hsgbm51vs0"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 12338,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 12338,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:55:16.322640"
+}
