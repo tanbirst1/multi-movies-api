@@ -1,0 +1,116 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/zindaggi-rocks/",
+  "meta": {
+    "title": "Zindaggi Rocks",
+    "poster": "https://image.tmdb.org/t/p/w500/jjMHJTwk6pQ40msvZ29kGDFKpIV.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Oct. 06, 2006",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Dr. Suraj Rihan meets Kriya, a popular singer in his hospital. While he is a quiet, responsible man, she is loud, kiddish and a little crazy. Kriya invites Suraj to meet her family, which includes her mother, who is very strict and her mother\u2019s twin sister, who is fun and giggly. Kriya has an adopted son, who is very mature for his age. Kriya and Suraj fall in love with each other and their new feelings are tested by a crisis that enters both their lives. Kriya\u2019s son is in a critical state as he has a hole in his heart and they are unable to find a donor till the date of the operation. This makes Kriya commit a medicine induced suicide and her heart is then used to save her son.",
+    "infoFields": {
+      "Original title": "\u091c\u093c\u093f\u0928\u094d\u0926\u0917\u0940 \u0930\u0949\u0915\u094d\u0938",
+      "TMDb Rating": "4.5 3 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tanuja Chandra",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tanuja-chandra/",
+      "image": "https://image.tmdb.org/t/p/w92/yJjEP4JM2sADsF7wW15nKvGT9xd.jpg"
+    },
+    {
+      "name": "Sushmita Sen",
+      "role": "Kriya Sengupta",
+      "url": "https://multimovies.city/cast/sushmita-sen/",
+      "image": "https://image.tmdb.org/t/p/w92/arteijssIoHzs8wFLjs6pvqRnlJ.jpg"
+    },
+    {
+      "name": "Shiney Ahuja",
+      "role": "Dr. Suraj Rihan",
+      "url": "https://multimovies.city/cast/shiney-ahuja/",
+      "image": "https://image.tmdb.org/t/p/w92/w0HPmQoxelpCLqTxhlsEMAtPn5T.jpg"
+    },
+    {
+      "name": "Kim Sharma",
+      "role": "Joy",
+      "url": "https://multimovies.city/cast/kim-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/5NAg9fNPQkft1NRobDBBTg5sdXp.jpg"
+    },
+    {
+      "name": "Seema Biswas",
+      "role": "DCP Gazala Qadri",
+      "url": "https://multimovies.city/cast/seema-biswas/",
+      "image": "https://image.tmdb.org/t/p/w92/nRd9anbVgvsRrWbH3G09nWTThHp.jpg"
+    },
+    {
+      "name": "Moushumi Chatterjee",
+      "role": "",
+      "url": "https://multimovies.city/cast/moushumi-chatterjee/",
+      "image": "https://image.tmdb.org/t/p/w92/2ebWx8egKmrAsRPHOegEY6rwGaf.jpg"
+    },
+    {
+      "name": "Gargi Patel",
+      "role": "Suraj's Mother-In-Law",
+      "url": "https://multimovies.city/cast/gargi-patel/",
+      "image": "https://image.tmdb.org/t/p/w92/pwTmfzDD8aQF0is5Xdek5s0SCES.jpg"
+    },
+    {
+      "name": "Julian Burkhardt",
+      "role": "Dhruv 'Ruby' Sengupta",
+      "url": "https://multimovies.city/cast/julian-burkhardt/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ravi Gossain",
+      "role": "Sam",
+      "url": "https://multimovies.city/cast/ravi-gossain/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Smita Nair Jain",
+      "role": "Interrogator",
+      "url": "https://multimovies.city/cast/smita-nair-jain/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Olivier Lafont",
+      "role": "Lester",
+      "url": "https://multimovies.city/cast/olivier-lafont/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 214,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/tme1d7i"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 93055,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:08:03.854999"
+}
