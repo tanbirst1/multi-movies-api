@@ -4,15 +4,124 @@
   "meta": {
     "title": "Scary Movie 2",
     "poster": "https://image.tmdb.org/t/p/w500/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg",
-    "synopsis": "While the original parodied slasher flicks like Scream, Keenen Ivory Wayans\u2019s sequel to Scary Movie takes comedic aim at haunted house movies. A group of students visit a mansion called \u201cHell House,\u201d and murderous high jinks ensue."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jul. 04, 2001",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "While the original parodied slasher flicks like Scream, Keenen Ivory Wayans\u2019s sequel to Scary Movie takes comedic aim at haunted house movies. A group of students visit a mansion called \u201cHell House,\u201d and murderous high jinks ensue.",
+    "infoFields": {
+      "Original title": "Scary Movie 2",
+      "IMDb Rating": "5.3 166,740 votes",
+      "TMDb Rating": "5.784 4,086 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Susan E. Fiore",
+      "role": "Director",
+      "url": "https://multimovies.city/director/susan-e-fiore/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Anna Faris",
+      "role": "Cindy Campbell",
+      "url": "https://multimovies.city/cast/anna-faris/",
+      "image": "https://image.tmdb.org/t/p/w92/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg"
+    },
+    {
+      "name": "Regina Hall",
+      "role": "Brenda Meeks",
+      "url": "https://multimovies.city/cast/regina-hall/",
+      "image": "https://image.tmdb.org/t/p/w92/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+      "name": "Shawn Wayans",
+      "role": "Ray Wilkins",
+      "url": "https://multimovies.city/cast/shawn-wayans/",
+      "image": "https://image.tmdb.org/t/p/w92/Cat25uXhB680QLmvg9Tu16W563.jpg"
+    },
+    {
+      "name": "Marlon Wayans",
+      "role": "Shorty Meeks",
+      "url": "https://multimovies.city/cast/marlon-wayans/",
+      "image": "https://image.tmdb.org/t/p/w92/4UVD58k6Oe2mN4hHC3syiwSgPRy.jpg"
+    },
+    {
+      "name": "Christopher Masterson",
+      "role": "Buddy",
+      "url": "https://multimovies.city/cast/christopher-masterson/",
+      "image": "https://image.tmdb.org/t/p/w92/vDpW40I1UMul7j4ZwGylPuWHteC.jpg"
+    },
+    {
+      "name": "David Cross",
+      "role": "Dwight Hartman",
+      "url": "https://multimovies.city/cast/david-cross/",
+      "image": "https://image.tmdb.org/t/p/w92/axUqEv0SDlqS20gBEFCTQHwU1hp.jpg"
+    },
+    {
+      "name": "Kathleen Robertson",
+      "role": "Theo",
+      "url": "https://multimovies.city/cast/kathleen-robertson/",
+      "image": "https://image.tmdb.org/t/p/w92/vtY0dPOu7gsxN2gVcTK0j0v76qc.jpg"
+    },
+    {
+      "name": "Tori Spelling",
+      "role": "Alex Monday",
+      "url": "https://multimovies.city/cast/tori-spelling/",
+      "image": "https://image.tmdb.org/t/p/w92/xUPnjmmMcOdAHVhZL5b88MrJi7R.jpg"
+    },
+    {
+      "name": "Tim Curry",
+      "role": "Prof. Oldman",
+      "url": "https://multimovies.city/cast/tim-curry/",
+      "image": "https://image.tmdb.org/t/p/w92/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+    },
+    {
+      "name": "Chris Elliott",
+      "role": "Henson",
+      "url": "https://multimovies.city/cast/chris-elliott/",
+      "image": "https://image.tmdb.org/t/p/w92/t8sdwz8iV7dQWQlYb2rPMKepT8h.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/tcvPFdANexMxEsIUZnzjxBJbgkb.jpg",
+    "https://image.tmdb.org/t/p/w300/djVNOtyFfUnr5Iw57YHvl5YK3E1.jpg",
+    "https://image.tmdb.org/t/p/w300/o6YsN3TRvtR6trr0AxrzlPYHnLX.jpg",
+    "https://image.tmdb.org/t/p/w300/7dw9rWwR06WIaOtJgcvS4kBghWk.jpg",
+    "https://image.tmdb.org/t/p/w300/sWDye77Ztxhxrq7Aq4Qne47PYDr.jpg",
+    "https://image.tmdb.org/t/p/w300/zkMCh5hf9JPkdmJgclAcOb8LWeL.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 5987,
+  "sources": [
+    "https://www.youtube.com/embed/wsHCoKGxjLk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/uuc587v"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6736,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6736,
+      "nume": 1,
+      "title": "2ru"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:29:10.836286"
 }
