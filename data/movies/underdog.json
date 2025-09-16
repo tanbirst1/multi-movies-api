@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/underdog/",
+  "meta": {
+    "title": "Underdog",
+    "poster": "https://image.tmdb.org/t/p/w500/q5yoIlzQ3m7b3a0zLCf3NjsOvB8.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Aug. 03, 2007",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "A lab accident gives a beagle named Shoeshine some serious superpowers \u2014 a secret that the dog eventually shares with the young boy who becomes his owner and friend.",
+    "infoFields": {
+      "Original title": "Underdog",
+      "IMDb Rating": "4.8 23,241 votes",
+      "TMDb Rating": "5.537 716 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Frederik Du Chau",
+      "role": "Director",
+      "url": "https://multimovies.city/director/frederik-du-chau/",
+      "image": "https://image.tmdb.org/t/p/w92/x7IdqyhP4KUMmzjvuMynEyNWfTz.jpg"
+    },
+    {
+      "name": "Jason Lee",
+      "role": "Shoeshine / Underdog (voice)",
+      "url": "https://multimovies.city/cast/jason-lee/",
+      "image": "https://image.tmdb.org/t/p/w92/64tEXo3xR9IFXsIJKSlJ2LUrrEA.jpg"
+    },
+    {
+      "name": "Jim Belushi",
+      "role": "Dan Unger",
+      "url": "https://multimovies.city/cast/jim-belushi/",
+      "image": "https://image.tmdb.org/t/p/w92/wIvFYH110ER7ukwR0qryQJJDQYH.jpg"
+    },
+    {
+      "name": "Patrick Warburton",
+      "role": "Cad",
+      "url": "https://multimovies.city/cast/patrick-warburton/",
+      "image": "https://image.tmdb.org/t/p/w92/nDoOii5HaGwPxYa28xFC2sDkF8y.jpg"
+    },
+    {
+      "name": "John Slattery",
+      "role": "Mayor",
+      "url": "https://multimovies.city/cast/john-slattery/",
+      "image": "https://image.tmdb.org/t/p/w92/aIjTxEWo7SmRR8iBCFfZIhylSul.jpg"
+    },
+    {
+      "name": "Peter Dinklage",
+      "role": "Dr. Simon Barsinister",
+      "url": "https://multimovies.city/cast/peter-dinklage/",
+      "image": "https://image.tmdb.org/t/p/w92/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+      "name": "Brad Garrett",
+      "role": "Riff Raff (voice)",
+      "url": "https://multimovies.city/cast/brad-garrett/",
+      "image": "https://image.tmdb.org/t/p/w92/aOg1ce7mo85UThW9aSmBTDR7Lbt.jpg"
+    },
+    {
+      "name": "Taylor Momsen",
+      "role": "Molly",
+      "url": "https://multimovies.city/cast/taylor-momsen/",
+      "image": "https://image.tmdb.org/t/p/w92/u0RWIWMVaUNFYnDflWIJGJ3fzWt.jpg"
+    },
+    {
+      "name": "Amy Adams",
+      "role": "Polly Purebred (voice)",
+      "url": "https://multimovies.city/cast/amy-adams/",
+      "image": "https://image.tmdb.org/t/p/w92/ify7UiQkVMQ0uCUX0F0AuzLK1vS.jpg"
+    },
+    {
+      "name": "Alex Neuberger",
+      "role": "Jack Unger",
+      "url": "https://multimovies.city/cast/alex-neuberger/",
+      "image": "https://image.tmdb.org/t/p/w92/eW0Nu0e13eGeqs1IBGJjtQnd0l7.jpg"
+    },
+    {
+      "name": "Larry Vigus",
+      "role": "Security Guard",
+      "url": "https://multimovies.city/cast/larry-vigus/",
+      "image": "https://image.tmdb.org/t/p/w92/pFEbGZC0mmdGnEdvGBjttsZgJyz.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1BEuoA7UpCF51WpiIZ7rypAhxfs.jpg",
+    "https://image.tmdb.org/t/p/w300/glK9Ro0IYVbBIwZBM1QFfLZpF2f.jpg",
+    "https://image.tmdb.org/t/p/w300/sgAdWRPxyvFjri9o4KIrKRyr9LR.jpg",
+    "https://image.tmdb.org/t/p/w300/AuaN2YIYQcWa34hYSS3d4TwxSfn.jpg",
+    "https://image.tmdb.org/t/p/w300/fnhe3fFtfPWI3pj7np10WsTdSHV.jpg",
+    "https://image.tmdb.org/t/p/w300/18buZWWdOy5y3oGoIgXh4xjfLGO.jpg"
+  ],
+  "similar": [],
+  "views": 668,
+  "sources": [
+    "https://www.youtube.com/embed/6jooThaqeYg?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/po2f0qp"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 76532,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 76532,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:12:01.439941"
+}
