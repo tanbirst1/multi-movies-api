@@ -1,0 +1,118 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-looney-looney-looney-bugs-bunny-movie/",
+  "meta": {
+    "title": "The Looney, Looney, Looney Bugs Bunny Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/k4qMlWQ420zkUBIHrUkcwmAasxH.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Nov. 20, 1981",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Bugs Bunny hosts an award show featuring several classic Looney Tunes shorts and characters.",
+    "infoFields": {
+      "Original title": "The Looney, Looney, Looney Bugs Bunny Movie",
+      "IMDb Rating": "7.1 2,465 votes",
+      "TMDb Rating": "7.2 124 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Friz Freleng",
+      "role": "Director",
+      "url": "https://multimovies.city/director/friz-freleng/",
+      "image": "https://image.tmdb.org/t/p/w92/v7CtAOi4eLJkyu9bZN1yC8e5Wco.jpg"
+    },
+    {
+      "name": "Mel Blanc",
+      "role": "Bugs Bunny / King Arthur / Sir Osis of Liver / Sir Loin of Beef / Yosemite Sam / Gerry the Idgit Dragon / Daffy Duck / Sylvester / Tweety Pie / Porky Pig / Speedy Gonzales / Treasury Director / Rocky / Mugsy / Judge / Clancy / O'Hara / Cops / Pepe Le Pew / Clarence (B.A. Bird) (voice)",
+      "url": "https://multimovies.city/cast/mel-blanc/",
+      "image": "https://image.tmdb.org/t/p/w92/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+    },
+    {
+      "name": "June Foray",
+      "role": "Granny (voice)",
+      "url": "https://multimovies.city/cast/june-foray/",
+      "image": "https://image.tmdb.org/t/p/w92/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg"
+    },
+    {
+      "name": "Bea Benaderet",
+      "role": "Granny (voice)",
+      "url": "https://multimovies.city/cast/bea-benaderet/",
+      "image": "https://image.tmdb.org/t/p/w92/8iarXcmhYVON1AJG2SyzJvez7f.jpg"
+    },
+    {
+      "name": "Stan Freberg",
+      "role": "The Singing Narrator / Big Bad Wolf / Three Little Pigs (voice)",
+      "url": "https://multimovies.city/cast/stan-freberg/",
+      "image": "https://image.tmdb.org/t/p/w92/msFe4Y7ud9k3DgcCmlXL0EZH6nR.jpg"
+    },
+    {
+      "name": "Ralph James",
+      "role": "The Narrator (voice)",
+      "url": "https://multimovies.city/cast/ralph-james/",
+      "image": "https://image.tmdb.org/t/p/w92/25OigDTz34EsZZkCUT8Prn60Ili.jpg"
+    },
+    {
+      "name": "Frank Nelson",
+      "role": "Satan (voice)",
+      "url": "https://multimovies.city/cast/frank-nelson/",
+      "image": "https://image.tmdb.org/t/p/w92/6Y502lsoqL9V9CnLpnU8gnZaHBY.jpg"
+    },
+    {
+      "name": "Frank Welker",
+      "role": "Reporter Dog / Lawyer (voice)",
+      "url": "https://multimovies.city/cast/frank-welker/",
+      "image": "https://image.tmdb.org/t/p/w92/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nGYx6cCKsx8ZR31DUIncHxKemj4.jpg",
+    "https://image.tmdb.org/t/p/w300/kxPhmmpe60LjuLsNXZI71w9Zg05.jpg",
+    "https://image.tmdb.org/t/p/w300/1QVz4brEYzl8cbQcjATBOetJnVk.jpg",
+    "https://image.tmdb.org/t/p/w300/oAERvCxoEuwKLKqau87sNNWTHEF.jpg",
+    "https://image.tmdb.org/t/p/w300/t3hLoiVdjYhXMoj799N4PR913Ey.jpg",
+    "https://image.tmdb.org/t/p/w300/dHzM6LZZEy90pfm7CwU5tk066gR.jpg",
+    "https://image.tmdb.org/t/p/w300/rRNRoVpJj32EEdibWsrfRr1MpfK.jpg",
+    "https://image.tmdb.org/t/p/w300/u5xsl0gkCZCHlP0RDVcuu9rbeUW.jpg"
+  ],
+  "similar": [],
+  "views": 1012,
+  "sources": [
+    "https://www.youtube.com/embed/z5KN9m6MOw8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/mcduyfkzwbpz"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18591,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18591,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": true
+}
