@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tashan/",
+  "meta": {
+    "title": "Tashan",
+    "poster": "https://image.tmdb.org/t/p/w500/h5GHlLJLan8eFFpBazIMP4iD0Rg.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Apr. 25, 2008",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Jeetendra Kumar Makwana is employed full-time at a Call Center and works part-time teaching English. He is recruited by an attractive young woman, Pooja, to teach her Hinglish-speaking boss, Bhaiyaji, English. Jeetendra agrees to do so, falls in love with Pooja, and joins forces with her to steal a bag containing 25 Crore Rupees in cash. He will soon find out that Bhaiyaji is a hoodlum and extortionist known to the Police as Lakhan Singh.",
+    "infoFields": {
+      "Original title": "Tashan",
+      "IMDb Rating": "3.8 5,627 votes",
+      "TMDb Rating": "4.9 28 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Vijay Krishna Acharya",
+      "role": "Director",
+      "url": "https://multimovies.city/director/vijay-krishna-acharya/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Bachchan Pande",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/gaINfJtR19rNTIsI2cF3KFjyAB7.jpg"
+    },
+    {
+      "name": "Saif Ali Khan",
+      "role": "Jimmy Cliff",
+      "url": "https://multimovies.city/cast/saif-ali-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    },
+    {
+      "name": "Kareena Kapoor Khan",
+      "role": "Pooja",
+      "url": "https://multimovies.city/cast/kareena-kapoor-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/pJZJJ93NwJq3kb3RWtaZBYVga1x.jpg"
+    },
+    {
+      "name": "Anil Kapoor",
+      "role": "Bhaiyyaji",
+      "url": "https://multimovies.city/cast/anil-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
+    },
+    {
+      "name": "Sanjay Mishra",
+      "role": "Balakram Misir",
+      "url": "https://multimovies.city/cast/sanjay-mishra/",
+      "image": "https://image.tmdb.org/t/p/w92/4MGKohKGU4v9SoXcQKCcC4e4Bpi.jpg"
+    },
+    {
+      "name": "Yashpal Sharma",
+      "role": "ACP Kuldeep Singh Hooda",
+      "url": "https://multimovies.city/cast/yashpal-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/hYDZkMl6u3rM2cASabpHgrvA0mf.jpg"
+    },
+    {
+      "name": "Manoj Pahwa",
+      "role": "Anand Mohan Tiwari aka Pintu",
+      "url": "https://multimovies.city/cast/manoj-pahwa/",
+      "image": "https://image.tmdb.org/t/p/w92/p7sufhnro3CM04au3L4KubTx43B.jpg"
+    },
+    {
+      "name": "Sreejita De",
+      "role": "Parvati",
+      "url": "https://multimovies.city/cast/sreejita-de/",
+      "image": "https://image.tmdb.org/t/p/w92/kMz7itPqk3CAZftMTgxfpm1BcqS.jpg"
+    },
+    {
+      "name": "Mukesh Bhatt",
+      "role": "",
+      "url": "https://multimovies.city/cast/mukesh-bhatt/",
+      "image": "https://image.tmdb.org/t/p/w92/zbuN1CR65uGrBuIqqlz4krVK3Fi.jpg"
+    },
+    {
+      "name": "Rajesh Jais",
+      "role": "",
+      "url": "https://multimovies.city/cast/rajesh-jais/",
+      "image": "https://image.tmdb.org/t/p/w92/rl5oYssWspV4io2IKOeQuMi9BL2.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/oNzz03XTbI9PsmfValvlHA5jWEY.jpg"
+  ],
+  "similar": [],
+  "views": 3138,
+  "sources": [
+    "https://multimoviesshg.com/e/1qcmc3zv8695"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10248,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:22:06.015605"
+}
