@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/crayon-shin-chan-super-dimension-the-storm-called-my-bride/",
+  "meta": {
+    "title": "ShinChan Movie Villain Aur Dulhan",
+    "poster": "https://image.tmdb.org/t/p/w500/zUoLr4wvk45t19HdrNWFGp0RtbG.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Shinchan Movies",
+        "url": "https://multimovies.city/genre/shinchan-movies/"
+      }
+    ],
+    "firstAirDate": "Apr. 17, 2010",
+    "ratingValue": "8.3",
+    "ratingCount": "9",
+    "synopsis": "Shin-chan is approached by his time-traveling future bride-to-be Tamiko, who asks him to help save his adult self from the ruler of Neo Tokio.",
+    "infoFields": {
+      "Original title": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093 \u8d85\u6642\u7a7a\uff01\u5d50\u3092\u547c\u3076\u30aa\u30e9\u306e\u82b1\u5ac1",
+      "TMDb Rating": "7.7 60 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Akira Shigino",
+      "role": "Director",
+      "url": "https://multimovies.city/director/akira-shigino/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Akiko Yajima",
+      "role": "Shinnosuke Nohara (voice)",
+      "url": "https://multimovies.city/cast/akiko-yajima/",
+      "image": "https://image.tmdb.org/t/p/w92/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
+    },
+    {
+      "name": "Rie Kugimiya",
+      "role": "Tamiko (voice)",
+      "url": "https://multimovies.city/cast/rie-kugimiya/",
+      "image": "https://image.tmdb.org/t/p/w92/5uxG4tsx8vCfxI8yr1RoeDkrsDg.jpg"
+    },
+    {
+      "name": "Chie Sato",
+      "role": "Bo-chan (voice)",
+      "url": "https://multimovies.city/cast/chie-sato/",
+      "image": "https://image.tmdb.org/t/p/w92/x6A6uWJUI8HnhaYVXVZJKT2EA0r.jpg"
+    },
+    {
+      "name": "Keiji Fujiwara",
+      "role": "Hiroshi Nohara (voice)",
+      "url": "https://multimovies.city/cast/keiji-fujiwara/",
+      "image": "https://image.tmdb.org/t/p/w92/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+    },
+    {
+      "name": "Mari Mashiba",
+      "role": "Shiro (voice) / Kazama (voice)",
+      "url": "https://multimovies.city/cast/mari-mashiba/",
+      "image": "https://image.tmdb.org/t/p/w92/RlkauVMbIofwYvwM9j5Hbb6SyJ.jpg"
+    },
+    {
+      "name": "Miki Narahashi",
+      "role": "Misae Nohara (voice)",
+      "url": "https://multimovies.city/cast/miki-narahashi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Satomi Korogi",
+      "role": "Himawari Nohara (voice)",
+      "url": "https://multimovies.city/cast/satomi-korogi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Tamao Hayashi",
+      "role": "Nene (voice)",
+      "url": "https://multimovies.city/cast/tamao-hayashi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Teiyu Ichiryusai",
+      "role": "Masao (voice)",
+      "url": "https://multimovies.city/cast/teiyu-ichiryusai/",
+      "image": "https://image.tmdb.org/t/p/w92/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
+    },
+    {
+      "name": "Naomi Kusumi",
+      "role": "Junk Shopper (voice)",
+      "url": "https://multimovies.city/cast/naomi-kusumi/",
+      "image": "https://image.tmdb.org/t/p/w92/uxRwh4kUUBOe4fSFEHEEmk9Yc4j.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/snDGwQ3fbfNiGwUfT7dVPQ4MTSV.jpg",
+    "https://image.tmdb.org/t/p/w300/nXPmKxzaZO0elNpialS4BjOXAD1.jpg"
+  ],
+  "similar": [],
+  "views": 6128,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/d2tvuiw"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11080,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:41:45.584559"
+}
