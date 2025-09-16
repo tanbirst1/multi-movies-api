@@ -4,15 +4,112 @@
   "meta": {
     "title": "Raaz",
     "poster": "https://image.tmdb.org/t/p/w500/oc7d4jzqZ2Zat831pVSkvEIVMYa.jpg",
-    "synopsis": "Sanjana and Aditya decide to give their marriage one last chance. They plan a holiday in Ooty, but they don\u2019t know that a strange figure is waiting for them to come."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Feb. 01, 2002",
+    "ratingValue": "7",
+    "ratingCount": "3",
+    "synopsis": "Sanjana and Aditya decide to give their marriage one last chance. They plan a holiday in Ooty, but they don\u2019t know that a strange figure is waiting for them to come.",
+    "infoFields": {
+      "Original title": "\u0930\u093e\u091c\u093c",
+      "IMDb Rating": "6.6 3,800 votes",
+      "TMDb Rating": "6.1 30 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Emraan Hashmi",
+      "role": "Director",
+      "url": "https://multimovies.city/director/emraan-hashmi/",
+      "image": "https://image.tmdb.org/t/p/w92/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+      "name": "Bipasha Basu",
+      "role": "Sanjana Dhanraj",
+      "url": "https://multimovies.city/cast/bipasha-basu/",
+      "image": "https://image.tmdb.org/t/p/w92/j4p0NOHUNvOCBcfaZiCoyxdJJou.jpg"
+    },
+    {
+      "name": "Dino Morea",
+      "role": "Aditya Dhanraj",
+      "url": "https://multimovies.city/cast/dino-morea/",
+      "image": "https://image.tmdb.org/t/p/w92/76sUAgf1NYDEPNqED647RgkcsQX.jpg"
+    },
+    {
+      "name": "Ashutosh Rana",
+      "role": "Professor Agni Swaroop",
+      "url": "https://multimovies.city/cast/ashutosh-rana/",
+      "image": "https://image.tmdb.org/t/p/w92/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+      "name": "Mink Brar",
+      "role": "Nisha",
+      "url": "https://multimovies.city/cast/mink-brar/",
+      "image": "https://image.tmdb.org/t/p/w92/qQBvL1h1rMELCkhHhm6m4oAURCC.jpg"
+    },
+    {
+      "name": "Vishwajeet Pradhan",
+      "role": "Ajay",
+      "url": "https://multimovies.city/cast/vishwajeet-pradhan/",
+      "image": "https://image.tmdb.org/t/p/w92/fk5mBFnclEBE8AtgUfoa1i79oqt.jpg"
+    },
+    {
+      "name": "Malini Sharma",
+      "role": "Malini",
+      "url": "https://multimovies.city/cast/malini-sharma/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Shruti Ulfat",
+      "role": "Priya",
+      "url": "https://multimovies.city/cast/shruti-ulfat/",
+      "image": "https://image.tmdb.org/t/p/w92/c7UAV4eNHaViPqGSamjej1jtAGd.jpg"
+    },
+    {
+      "name": "Anang Desai",
+      "role": "Ajay",
+      "url": "https://multimovies.city/cast/anang-desai/",
+      "image": "https://image.tmdb.org/t/p/w92/c5QbV2LHo1AFtavHO6owAObONBC.jpg"
+    },
+    {
+      "name": "Ali Asgar",
+      "role": "Nisha's Boyfriend",
+      "url": "https://multimovies.city/cast/ali-asgar/",
+      "image": "https://image.tmdb.org/t/p/w92/a1D5cJMDWTnREMaUcer9oARZWnB.jpg"
+    },
+    {
+      "name": "Murali Sharma",
+      "role": "Police Inspector (Special Appearance)",
+      "url": "https://multimovies.city/cast/murali-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/o8U9C3x9WNLMq2jzxebx1dPbsrV.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 4281,
+  "sources": [
+    "https://multimoviesshg.com/e/jlve7fw9yl84"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 21838,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:31:25"
+  "last_update": "2025-09-16T17:34:54.884579"
 }
