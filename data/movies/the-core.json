@@ -1,0 +1,140 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-core/",
+  "meta": {
+    "title": "The Core",
+    "poster": "https://image.tmdb.org/t/p/w500/iMPR3OFhKNVvJw4eZoRhf9RzfHJ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 28, 2003",
+    "ratingValue": "8",
+    "ratingCount": "2",
+    "synopsis": "Geophysicist Dr. Josh Keyes discovers that an unknown force has caused the earth\u2019s inner core to stop rotating. With the planet\u2019s magnetic field rapidly deteriorating, our atmosphere literally starts to come apart at the seams with catastrophic consequences. To resolve the crisis, Keyes, along with a team of the world\u2019s most gifted scientists, travel into the earth\u2019s core. Their mission: detonate a device that will reactivate the core.",
+    "infoFields": {
+      "Original title": "The Core",
+      "IMDb Rating": "5.5 112,657 votes",
+      "TMDb Rating": "5.8 2,007 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jon Amiel",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jon-amiel/",
+      "image": "https://image.tmdb.org/t/p/w92/tZf4VLvFobxizCzDQ6xQdygGT9.jpg"
+    },
+    {
+      "name": "Aaron Eckhart",
+      "role": "Dr. Josh Keyes",
+      "url": "https://multimovies.city/cast/aaron-eckhart/",
+      "image": "https://image.tmdb.org/t/p/w92/6rI3cYhdxOaOFSRB4C29MalpwDC.jpg"
+    },
+    {
+      "name": "Hilary Swank",
+      "role": "Maj. Rebecca Childs",
+      "url": "https://multimovies.city/cast/hilary-swank/",
+      "image": "https://image.tmdb.org/t/p/w92/uin6aAehUGpPCiJCaSjZG8B7M7d.jpg"
+    },
+    {
+      "name": "Delroy Lindo",
+      "role": "Dr. Ed 'Braz' Brazzleton",
+      "url": "https://multimovies.city/cast/delroy-lindo/",
+      "image": "https://image.tmdb.org/t/p/w92/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+    },
+    {
+      "name": "Stanley Tucci",
+      "role": "Dr. Conrad Zimsky",
+      "url": "https://multimovies.city/cast/stanley-tucci/",
+      "image": "https://image.tmdb.org/t/p/w92/ffKQpQvYczWKFxmbxgaoj68NN4W.jpg"
+    },
+    {
+      "name": "Tch\u00e9ky Karyo",
+      "role": "Serge",
+      "url": "https://multimovies.city/cast/tcheky-karyo/",
+      "image": "https://image.tmdb.org/t/p/w92/jrtGiLYaALwDZgF39Hlgb8O1XZ1.jpg"
+    },
+    {
+      "name": "DJ Qualls",
+      "role": "Theodore Donald 'Rat' Finch",
+      "url": "https://multimovies.city/cast/dj-qualls/",
+      "image": "https://image.tmdb.org/t/p/w92/82COoV89p7a8Cd6pxPO9H7m1sIy.jpg"
+    },
+    {
+      "name": "Richard Jenkins",
+      "role": "Gen. Thomas Purcell",
+      "url": "https://multimovies.city/cast/richard-jenkins/",
+      "image": "https://image.tmdb.org/t/p/w92/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+    },
+    {
+      "name": "Bruce Greenwood",
+      "role": "Cmdr. Robert Iverson",
+      "url": "https://multimovies.city/cast/bruce-greenwood/",
+      "image": "https://image.tmdb.org/t/p/w92/rVpyddWneBBYYzYhMRmWoHMg3Hg.jpg"
+    },
+    {
+      "name": "Christopher Shyer",
+      "role": "Dave Perry",
+      "url": "https://multimovies.city/cast/christopher-shyer/",
+      "image": "https://image.tmdb.org/t/p/w92/svguxf1N6xDWNAA4hSyQrn7OM0A.jpg"
+    },
+    {
+      "name": "Ray Galletti",
+      "role": "Paul",
+      "url": "https://multimovies.city/cast/ray-galletti/",
+      "image": "https://image.tmdb.org/t/p/w92/e9xq1J7z8t5NtUalpxRCV4uchms.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/v2YxWPX2yKdo6arIAknJzKLxhZY.jpg",
+    "https://image.tmdb.org/t/p/w300/oEQo8dU4u9SkWnRfzqH6ewgjxyP.jpg",
+    "https://image.tmdb.org/t/p/w300/qxHJw2OOw1ZhIjCRRm6O0ldO5Rq.jpg",
+    "https://image.tmdb.org/t/p/w300/qxqrHIGaFJXhDNLJBDE5WMhkdCX.jpg",
+    "https://image.tmdb.org/t/p/w300/x1k8eftV62LxnzSC8QukQUv4tUP.jpg",
+    "https://image.tmdb.org/t/p/w300/8cI5JDh0tqUBhdDF5q1C5F6thD2.jpg",
+    "https://image.tmdb.org/t/p/w300/y82RtCvNEwh4PgKFlr9E1THjfcS.jpg"
+  ],
+  "similar": [],
+  "views": 3593,
+  "sources": [
+    "https://www.youtube.com/embed/foAyvN6mVwQ?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/oz4ou2y"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 47887,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 47887,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:38:41.335395"
+}
