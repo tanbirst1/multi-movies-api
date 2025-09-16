@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/swimming-pool/",
+  "meta": {
+    "title": "Swimming Pool",
+    "poster": "https://image.tmdb.org/t/p/w500/bwBAUlEXhUKmegdguoFj9grF9t3.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 21, 2003",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A British crime novelist travels to her publisher\u2019s upmarket summer house in Southern France to seek solitude in order to work on her next book. However, the unexpected arrival of the publisher\u2019s daughter induces complications and a subsequent crime.",
+    "infoFields": {
+      "Original title": "Swimming Pool",
+      "IMDb Rating": "6.7 49,179 votes",
+      "TMDb Rating": "6.5 689 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Fran\u00e7ois Ozon",
+      "role": "Director",
+      "url": "https://multimovies.city/director/francois-ozon/",
+      "image": "https://image.tmdb.org/t/p/w92/gjXDLWWMlypNp2R4ALMhR9JMf18.jpg"
+    },
+    {
+      "name": "Charlotte Rampling",
+      "role": "Sarah Morton",
+      "url": "https://multimovies.city/cast/charlotte-rampling/",
+      "image": "https://image.tmdb.org/t/p/w92/7fhg5FCcl0VfYERP5D0unpybqgx.jpg"
+    },
+    {
+      "name": "Ludivine Sagnier",
+      "role": "Julie",
+      "url": "https://multimovies.city/cast/ludivine-sagnier/",
+      "image": "https://image.tmdb.org/t/p/w92/hHYq2MfSF9R26pVNJBjVUZPCvMM.jpg"
+    },
+    {
+      "name": "Charles Dance",
+      "role": "John Bosload",
+      "url": "https://multimovies.city/cast/charles-dance/",
+      "image": "https://image.tmdb.org/t/p/w92/3xHwq5lchAI6mfW0aGQOEijexv6.jpg"
+    },
+    {
+      "name": "Marc Fayolle",
+      "role": "Marcel",
+      "url": "https://multimovies.city/cast/marc-fayolle/",
+      "image": "https://image.tmdb.org/t/p/w92/2Cvct2fmu1vUuc0UGLJF1jlN4bi.jpg"
+    },
+    {
+      "name": "Jean-Marie Lamour",
+      "role": "Franck",
+      "url": "https://multimovies.city/cast/jean-marie-lamour/",
+      "image": "https://image.tmdb.org/t/p/w92/aqd6lgXXjwDfoDOUgdtk2sE6viR.jpg"
+    },
+    {
+      "name": "Mireille Moss\u00e9",
+      "role": "Marcel's Daughter",
+      "url": "https://multimovies.city/cast/mireille-mosse/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Michel Fau",
+      "role": "First Man",
+      "url": "https://multimovies.city/cast/michel-fau/",
+      "image": "https://image.tmdb.org/t/p/w92/feskKEOsyrqZrnQr2LpmQvdXV2f.jpg"
+    },
+    {
+      "name": "Jean-Claude Lecas",
+      "role": "Second Man",
+      "url": "https://multimovies.city/cast/jean-claude-lecas/",
+      "image": "https://image.tmdb.org/t/p/w92/dAnsAGS3kkp2RQ2YbScUUhBUCaK.jpg"
+    },
+    {
+      "name": "\u00c9milie Gavois-Kahn",
+      "role": "Waitress at Cafe",
+      "url": "https://multimovies.city/cast/emilie-gavois-kahn/",
+      "image": "https://image.tmdb.org/t/p/w92/1UWOiaw6O7VlcCwujtJpZb9ATD2.jpg"
+    },
+    {
+      "name": "Erarde Forestali",
+      "role": "Old Man",
+      "url": "https://multimovies.city/cast/erarde-forestali/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/q0kZOxL6OMSeDlT6SRNKCJYStlF.jpg",
+    "https://image.tmdb.org/t/p/w300/pgohNp6FarkrixBLXT3TNlUKTRt.jpg",
+    "https://image.tmdb.org/t/p/w300/dNoTVXQCEAAbsdu0J0FwEtqQtzB.jpg",
+    "https://image.tmdb.org/t/p/w300/dmPYGMEOp8l96Z2fLwga7D8JBGE.jpg",
+    "https://image.tmdb.org/t/p/w300/gcfwgGiKUmWphZjanMmlE0gETD5.jpg",
+    "https://image.tmdb.org/t/p/w300/hWVkTEiHSulgp6FA5EzP8veDsyk.jpg",
+    "https://image.tmdb.org/t/p/w300/mzoW7peHUbZ8RB1nkeiVsYLWVvc.jpg",
+    "https://image.tmdb.org/t/p/w300/4nV498Crhugv8GXw8cFKhcKDfGq.jpg",
+    "https://image.tmdb.org/t/p/w300/f5ypJc4eL6HgQoM3Dmv2Gzg3SpZ.jpg",
+    "https://image.tmdb.org/t/p/w300/mKPSblZM2vRjBS5qO06I4uRpWPX.jpg"
+  ],
+  "similar": [],
+  "views": 2723,
+  "sources": [
+    "https://www.youtube.com/embed/NlQiybP-2I8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/pfz6ycl"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 68900,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 68900,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:43:51.647744"
+}
