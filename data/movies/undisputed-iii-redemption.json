@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/undisputed-iii-redemption/",
+  "meta": {
+    "title": "Undisputed 3 : Redemption",
+    "poster": "https://image.tmdb.org/t/p/w500/g8KB77SPA7SyU8eid6TAEpt9skU.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 22, 2010",
+    "ratingValue": "8.4",
+    "ratingCount": "7",
+    "synopsis": "Russian inmate Boyka, now severely hobbled by the knee injury suffered at the end of Undisputed 2. No longer the feared prison fighter he was, he has declined so far that he is now good only for cleaning toilets. But when a new prison fight tournament begins \u2013 an international affair, matching the best fighters from prisons around the globe, enticing them with the promise of freedom for the winner \u2013 Boyka must reclaim his dignity and fight for his position in the tournament.",
+    "infoFields": {
+      "Original title": "Undisputed III: Redemption",
+      "IMDb Rating": "7.3 42,954 votes",
+      "TMDb Rating": "7.545 738 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Isaac Florentine",
+      "role": "Director",
+      "url": "https://multimovies.city/director/isaac-florentine/",
+      "image": "https://image.tmdb.org/t/p/w92/4PJrg3l105M2GMNazhu2DXZ1Wce.jpg"
+    },
+    {
+      "name": "Scott Adkins",
+      "role": "Yuri Boyka",
+      "url": "https://multimovies.city/cast/scott-adkins/",
+      "image": "https://image.tmdb.org/t/p/w92/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
+    },
+    {
+      "name": "Mykel Shannon Jenkins",
+      "role": "Turbo",
+      "url": "https://multimovies.city/cast/mykel-shannon-jenkins/",
+      "image": "https://image.tmdb.org/t/p/w92/byIXjhCcP9D854m5NoFYydW6uLC.jpg"
+    },
+    {
+      "name": "Mark Ivanir",
+      "role": "Gaga",
+      "url": "https://multimovies.city/cast/mark-ivanir/",
+      "image": "https://image.tmdb.org/t/p/w92/biVPUjq1BbX3YWpvXv5OZjEuJI0.jpg"
+    },
+    {
+      "name": "Hristo Shopov",
+      "role": "Warden Kuss",
+      "url": "https://multimovies.city/cast/hristo-shopov/",
+      "image": "https://image.tmdb.org/t/p/w92/5b3xNLQwZK15eUiy8QiTGQjJVCA.jpg"
+    },
+    {
+      "name": "Marko Zaror",
+      "role": "Raul 'Dolor' Quinones",
+      "url": "https://multimovies.city/cast/marko-zaror/",
+      "image": "https://image.tmdb.org/t/p/w92/rQ8XFdLmnfXs5x8FsttdOUrFLWa.jpg"
+    },
+    {
+      "name": "Michael Baral",
+      "role": "Casino Manager",
+      "url": "https://multimovies.city/cast/michael-baral/",
+      "image": "https://image.tmdb.org/t/p/w92/6R791IiaICYQFaxPSIGzTg52J07.jpg"
+    },
+    {
+      "name": "Ilram Choi",
+      "role": "The Asian Fighter",
+      "url": "https://multimovies.city/cast/ilram-choi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Robert Costanzo",
+      "role": "Farnatti",
+      "url": "https://multimovies.city/cast/robert-costanzo/",
+      "image": "https://image.tmdb.org/t/p/w92/6HZSkvBcorNRTrHCDgBiSFms4OJ.jpg"
+    },
+    {
+      "name": "Lateef Crowder",
+      "role": "Santiago Silva",
+      "url": "https://multimovies.city/cast/lateef-crowder/",
+      "image": "https://image.tmdb.org/t/p/w92/mhGArPyh3N97t3PU4YnvLZTzHjl.jpg"
+    },
+    {
+      "name": "Esteban Cueto",
+      "role": "Sykov",
+      "url": "https://multimovies.city/cast/esteban-cueto/",
+      "image": "https://image.tmdb.org/t/p/w92/y3f5U7YuUQHKuXFpbH7dcmiwQdR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/tOfAkOf7TrAPuz4kKG5Fvq1seCd.jpg",
+    "https://image.tmdb.org/t/p/w300/tR3eqOLm7Jp7HwkqLdF1IaM44IH.jpg",
+    "https://image.tmdb.org/t/p/w300/7vDOtDCVuwp84lvdLp7IxheNWWr.jpg"
+  ],
+  "similar": [],
+  "views": 6382,
+  "sources": [
+    "https://www.youtube.com/embed/9eV1JR1NcxI?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/htq5isl"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 4226,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 4226,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:40:47.054618"
+}
