@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/timecop/",
+  "meta": {
+    "title": "Timecop",
+    "poster": "https://image.tmdb.org/t/p/w500/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 15, 1994",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "In 2004, an officer for a security agency that regulates time travel must fend for his life against a shady politician who has a tie to his past.",
+    "infoFields": {
+      "Original title": "Timecop",
+      "IMDb Rating": "5.9 67,944 votes",
+      "TMDb Rating": "6.019 1,223 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Peter Hyams",
+      "role": "Director",
+      "url": "https://multimovies.city/director/peter-hyams/",
+      "image": "https://image.tmdb.org/t/p/w92/duAvOEQ7Bt3RoiyBzFmlOawcCwW.jpg"
+    },
+    {
+      "name": "Jean-Claude Van Damme",
+      "role": "Max Walker",
+      "url": "https://multimovies.city/cast/jean-claude-van-damme/",
+      "image": "https://image.tmdb.org/t/p/w92/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg"
+    },
+    {
+      "name": "Mia Sara",
+      "role": "Melissa Walker",
+      "url": "https://multimovies.city/cast/mia-sara/",
+      "image": "https://image.tmdb.org/t/p/w92/gF1hYh0Rw5qCryiwGAWDdmiLufc.jpg"
+    },
+    {
+      "name": "Ron Silver",
+      "role": "Senator Aaron McComb",
+      "url": "https://multimovies.city/cast/ron-silver/",
+      "image": "https://image.tmdb.org/t/p/w92/6urQBScK7Vq6q5niaMMEmzW3DGP.jpg"
+    },
+    {
+      "name": "Bruce McGill",
+      "role": "Commander Eugene Matuzak",
+      "url": "https://multimovies.city/cast/bruce-mcgill/",
+      "image": "https://image.tmdb.org/t/p/w92/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
+    },
+    {
+      "name": "Gloria Reuben",
+      "role": "Fielding",
+      "url": "https://multimovies.city/cast/gloria-reuben/",
+      "image": "https://image.tmdb.org/t/p/w92/7Ttd3nj1M9P8YE9LzCvGZcvPUQR.jpg"
+    },
+    {
+      "name": "Scott Bellis",
+      "role": "Ricky",
+      "url": "https://multimovies.city/cast/scott-bellis/",
+      "image": "https://image.tmdb.org/t/p/w92/3YgfumtSHiqWfy3EEX3mLvOaEIR.jpg"
+    },
+    {
+      "name": "Jason Schombing",
+      "role": "Atwood",
+      "url": "https://multimovies.city/cast/jason-schombing/",
+      "image": "https://image.tmdb.org/t/p/w92/tQCjZVPPQJmVAdgPQacllN00bfW.jpg"
+    },
+    {
+      "name": "Scott Lawrence",
+      "role": "Spota",
+      "url": "https://multimovies.city/cast/scott-lawrence/",
+      "image": "https://image.tmdb.org/t/p/w92/8lwnmlHN6QPK75NwfufsIFZZhmB.jpg"
+    },
+    {
+      "name": "Kenneth Welsh",
+      "role": "Utley",
+      "url": "https://multimovies.city/cast/kenneth-welsh/",
+      "image": "https://image.tmdb.org/t/p/w92/hsmY2HaIdOEoTBtwFPxQLyLymYw.jpg"
+    },
+    {
+      "name": "Brent Woolsey",
+      "role": "Shotgun",
+      "url": "https://multimovies.city/cast/brent-woolsey/",
+      "image": "https://image.tmdb.org/t/p/w92/jv3MCoUVGomAgO4TbXXuamZTaOX.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wRp1z0Fu6G0Di9KsK5YzQdU6wxQ.jpg",
+    "https://image.tmdb.org/t/p/w300/iNfDwioDBzqodomLbMfV8ZXj0yL.jpg",
+    "https://image.tmdb.org/t/p/w300/7A4FJCsG26vOi9TUwFXdZMuzmOh.jpg",
+    "https://image.tmdb.org/t/p/w300/aYCTwLQtzLATenJPA2KNmOB2Kp.jpg",
+    "https://image.tmdb.org/t/p/w300/yee3T08yIoIy22RTB5TRbvsJdSx.jpg",
+    "https://image.tmdb.org/t/p/w300/tsRWa2g5ta7jii1zR6VViUAJYd4.jpg",
+    "https://image.tmdb.org/t/p/w300/hbhro9tjyhVVVrYjI0AxOl4huqk.jpg",
+    "https://image.tmdb.org/t/p/w300/tlWhLe8UmiCCg6ak2lXRBQhBa2u.jpg",
+    "https://image.tmdb.org/t/p/w300/crpF47232BmmpirzPxLwhLefxgG.jpg",
+    "https://image.tmdb.org/t/p/w300/bpErVwLSAqSnvPoOZnChzXze1lS.jpg"
+  ],
+  "similar": [],
+  "views": 255,
+  "sources": [
+    "https://www.youtube.com/embed/7OPLHgw54h4?autoplay=0&autohide=1",
+    "https://stream.techinmind.space/embed/movie/tt0111438?key=e11a7debaaa4f5d25b671706ffe4d2acb56efbd4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 101771,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 101771,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false
+}
