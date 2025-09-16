@@ -4,15 +4,131 @@
   "meta": {
     "title": "Saving Silverman",
     "poster": "https://image.tmdb.org/t/p/w500/w6eEJXYECpJnCNqDu4qDCLHvONe.jpg",
-    "synopsis": "A pair of buddies conspire to save their best friend from marrying the wrong woman, a cold-hearted beauty who snatches him from them and breaks up their Neil Diamond cover band."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Feb. 09, 2001",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "A pair of buddies conspire to save their best friend from marrying the wrong woman, a cold-hearted beauty who snatches him from them and breaks up their Neil Diamond cover band.",
+    "infoFields": {
+      "Original title": "Saving Silverman",
+      "IMDb Rating": "5.9 44,574 votes",
+      "TMDb Rating": "5.661 559 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Dennis Dugan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/dennis-dugan/",
+      "image": "https://image.tmdb.org/t/p/w92/fnAaknflGp2Phr1Q0dWkA41ohNO.jpg"
+    },
+    {
+      "name": "Steve Zahn",
+      "role": "Wayne Lefessier",
+      "url": "https://multimovies.city/cast/steve-zahn/",
+      "image": "https://image.tmdb.org/t/p/w92/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+      "name": "Jack Black",
+      "role": "J.D. McNugent",
+      "url": "https://multimovies.city/cast/jack-black/",
+      "image": "https://image.tmdb.org/t/p/w92/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "name": "Jason Biggs",
+      "role": "Darren Silverman",
+      "url": "https://multimovies.city/cast/jason-biggs/",
+      "image": "https://image.tmdb.org/t/p/w92/3nRgOQylYbNuDiddtNoh8uWTz5P.jpg"
+    },
+    {
+      "name": "Amanda Peet",
+      "role": "Judith Fessbeggler",
+      "url": "https://multimovies.city/cast/amanda-peet/",
+      "image": "https://image.tmdb.org/t/p/w92/5TfyCj0X9ftKO11FN057P05s78C.jpg"
+    },
+    {
+      "name": "Amanda Detmer",
+      "role": "Sandy",
+      "url": "https://multimovies.city/cast/amanda-detmer/",
+      "image": "https://image.tmdb.org/t/p/w92/gEfxlgMGN7bZdu3A0vgeBp1hVHy.jpg"
+    },
+    {
+      "name": "R. Lee Ermey",
+      "role": "Coach",
+      "url": "https://multimovies.city/cast/r-lee-ermey/",
+      "image": "https://image.tmdb.org/t/p/w92/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+    },
+    {
+      "name": "Neil Diamond",
+      "role": "Self",
+      "url": "https://multimovies.city/cast/neil-diamond/",
+      "image": "https://image.tmdb.org/t/p/w92/acb9GQPrp21CGlXkodYdde6KTLU.jpg"
+    },
+    {
+      "name": "Kyle Gass",
+      "role": "Bar Dude",
+      "url": "https://multimovies.city/cast/kyle-gass/",
+      "image": "https://image.tmdb.org/t/p/w92/aLeTBMicOFIyBmggxIQ7H5AyjNK.jpg"
+    },
+    {
+      "name": "Andrew McIlroy",
+      "role": "Waiter",
+      "url": "https://multimovies.city/cast/andrew-mcilroy/",
+      "image": "https://image.tmdb.org/t/p/w92/j6R3RvAmttOcYZoD4XKDRxvWoDl.jpg"
+    },
+    {
+      "name": "Norman Armour",
+      "role": "Minister",
+      "url": "https://multimovies.city/cast/norman-armour/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/scrH5AMMD2o73vwgCnhcYXx8zrt.jpg",
+    "https://image.tmdb.org/t/p/w300/d3E2PIUg68yJuYWGjv83P1PEERc.jpg",
+    "https://image.tmdb.org/t/p/w300/131CuaWXJRWfVDr0WURwmQ5FvcH.jpg",
+    "https://image.tmdb.org/t/p/w300/jcGY7tHDYmNnlSjEZQ2wxGA3cK8.jpg",
+    "https://image.tmdb.org/t/p/w300/7YBIgtnM7oxprXA30YSDmYmmByS.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 323,
+  "sources": [
+    "https://www.youtube.com/embed/pcUE7DtW7hw?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/xroq9mv"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 98591,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 98591,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:30:27.252228"
 }
