@@ -4,15 +4,136 @@
   "meta": {
     "title": "Blade 2",
     "poster": "https://image.tmdb.org/t/p/w500/wAn6VYamKbnOtfyTZ6arVtkMzDv.jpg",
-    "synopsis": "A rare mutation has occurred within the vampire community \u2013 The Reaper. A vampire so consumed with an insatiable bloodlust that they prey on vampires as well as humans, transforming victims who are unlucky enough to survive into Reapers themselves. Blade is asked by the Vampire Nation for his help in preventing a nightmare plague that would wipe out both humans and vampires."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 22, 2002",
+    "ratingValue": "8",
+    "ratingCount": "2",
+    "synopsis": "A rare mutation has occurred within the vampire community \u2013 The Reaper. A vampire so consumed with an insatiable bloodlust that they prey on vampires as well as humans, transforming victims who are unlucky enough to survive into Reapers themselves. Blade is asked by the Vampire Nation for his help in preventing a nightmare plague that would wipe out both humans and vampires.",
+    "infoFields": {
+      "Original title": "Blade II",
+      "IMDb Rating": "6.7 226,147 votes",
+      "TMDb Rating": "6.515 4,234 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Guillermo del Toro",
+      "role": "Director",
+      "url": "https://multimovies.city/director/guillermo-del-toro/",
+      "image": "https://image.tmdb.org/t/p/w92/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg"
+    },
+    {
+      "name": "Wesley Snipes",
+      "role": "Eric Brooks / Blade",
+      "url": "https://multimovies.city/cast/wesley-snipes/",
+      "image": "https://image.tmdb.org/t/p/w92/81D6oJ81kiQ5xnEHhaHrY29ntdO.jpg"
+    },
+    {
+      "name": "Kris Kristofferson",
+      "role": "Abraham Whistler",
+      "url": "https://multimovies.city/cast/kris-kristofferson/",
+      "image": "https://image.tmdb.org/t/p/w92/fWZCpnXT7sLOdc96Bm66QTOjnXZ.jpg"
+    },
+    {
+      "name": "Ron Perlman",
+      "role": "Dieter Reinhardt",
+      "url": "https://multimovies.city/cast/ron-perlman/",
+      "image": "https://image.tmdb.org/t/p/w92/9riPBfsWpzEzh2y9ucxTW22iakI.jpg"
+    },
+    {
+      "name": "Leonor Varela",
+      "role": "Nyssa Damaskinos",
+      "url": "https://multimovies.city/cast/leonor-varela/",
+      "image": "https://image.tmdb.org/t/p/w92/ooZQvMganzssNGoTKaIgFXM38U7.jpg"
+    },
+    {
+      "name": "Norman Reedus",
+      "role": "Scud",
+      "url": "https://multimovies.city/cast/norman-reedus/",
+      "image": "https://image.tmdb.org/t/p/w92/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+    },
+    {
+      "name": "Thomas Kretschmann",
+      "role": "Eli Damaskinos",
+      "url": "https://multimovies.city/cast/thomas-kretschmann/",
+      "image": "https://image.tmdb.org/t/p/w92/7M0P39a3CVA22dJyv5YQEkTThU7.jpg"
+    },
+    {
+      "name": "Luke Goss",
+      "role": "Jared Nomak",
+      "url": "https://multimovies.city/cast/luke-goss/",
+      "image": "https://image.tmdb.org/t/p/w92/umjHJpsrNxxDqUxGyvLAaR1oub0.jpg"
+    },
+    {
+      "name": "Matt Schulze",
+      "role": "Chupa",
+      "url": "https://multimovies.city/cast/matt-schulze/",
+      "image": "https://image.tmdb.org/t/p/w92/1dPinwDyFIEN30wUQG9Mm3Emnjh.jpg"
+    },
+    {
+      "name": "Danny John-Jules",
+      "role": "Asad",
+      "url": "https://multimovies.city/cast/danny-john-jules/",
+      "image": "https://image.tmdb.org/t/p/w92/bQx3j5tMTohmjoUgnFTn1p9RDHl.jpg"
+    },
+    {
+      "name": "Donnie Yen",
+      "role": "Snowman",
+      "url": "https://multimovies.city/cast/donnie-yen/",
+      "image": "https://image.tmdb.org/t/p/w92/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/g8cjJHZFeZQ5GRbFiDp5jXgfOZW.jpg",
+    "https://image.tmdb.org/t/p/w300/ftVcl83v6RlH0yiK1Ubkw70VwIf.jpg",
+    "https://image.tmdb.org/t/p/w300/xlEJbzhq975o8EEDW3Cg2obgZIA.jpg",
+    "https://image.tmdb.org/t/p/w300/lQKfZbiKdE187hTPOIDrObe7Gdl.jpg",
+    "https://image.tmdb.org/t/p/w300/8GE5fnZUBKHqKnFZtOZrbEDoka3.jpg",
+    "https://image.tmdb.org/t/p/w300/wep7Vye2jxFhzkiGWUZYg3DP1pS.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 2651,
+  "sources": [
+    "https://www.youtube.com/embed/fcCQ7xk8zzM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ehftxidopmvm"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 23031,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 23031,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:31:25"
+  "last_update": "2025-09-16T17:34:14.980512"
 }
