@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/beethoven/",
+  "meta": {
+    "title": "Beethoven",
+    "poster": "https://image.tmdb.org/t/p/w500/mVb3r5ZOeopEbCbx6kuIAjUz20F.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Apr. 03, 1992",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "The Newton family live in their comfortable home, but there seems to something missing. This \u201chole\u201d is filled by a small puppy, who walks into their home and their lives. Beethoven, as he is named, grows into a giant of a dog\u2026 a St Bernard. Doctor Varnick, the local vet has a secret and horrible sideline, which requires lots of dogs for experiments. Beethoven is on the bad doctor\u2019s list.",
+    "infoFields": {
+      "Original title": "Beethoven",
+      "IMDb Rating": "5.7 77,772 votes",
+      "TMDb Rating": "5.812 2,052 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Brian Levant",
+      "role": "Director",
+      "url": "https://multimovies.city/director/brian-levant/",
+      "image": "https://image.tmdb.org/t/p/w92/w5i30CI5PekRZry3AgME1ntEQSP.jpg"
+    },
+    {
+      "name": "Charles Grodin",
+      "role": "George Newton",
+      "url": "https://multimovies.city/cast/charles-grodin/",
+      "image": "https://image.tmdb.org/t/p/w92/wRlpdMoxZ4FhFZ7Ttbs3pb3X0HT.jpg"
+    },
+    {
+      "name": "Chris",
+      "role": "Beethoven",
+      "url": "https://multimovies.city/cast/chris/",
+      "image": "https://image.tmdb.org/t/p/w92/3nhKSI18ejx3LGWV2lOhsmEsxDY.jpg"
+    },
+    {
+      "name": "Bonnie Hunt",
+      "role": "Alice Newton",
+      "url": "https://multimovies.city/cast/bonnie-hunt/",
+      "image": "https://image.tmdb.org/t/p/w92/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+    },
+    {
+      "name": "Nicholle Tom",
+      "role": "Ryce Newton",
+      "url": "https://multimovies.city/cast/nicholle-tom/",
+      "image": "https://image.tmdb.org/t/p/w92/cjFw8BrIpptxMJrDkEWEE25E8bi.jpg"
+    },
+    {
+      "name": "Christopher Castile",
+      "role": "Ted",
+      "url": "https://multimovies.city/cast/christopher-castile/",
+      "image": "https://image.tmdb.org/t/p/w92/sTHOLnqUS8qOqIxqsWCZci8Ekpi.jpg"
+    },
+    {
+      "name": "Sarah Rose Karr",
+      "role": "Emily",
+      "url": "https://multimovies.city/cast/sarah-rose-karr/",
+      "image": "https://image.tmdb.org/t/p/w92/1AD1yCTMduGlrEAG1Gv9lx8R5ym.jpg"
+    },
+    {
+      "name": "Oliver Platt",
+      "role": "Harvey",
+      "url": "https://multimovies.city/cast/oliver-platt/",
+      "image": "https://image.tmdb.org/t/p/w92/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg"
+    },
+    {
+      "name": "Stanley Tucci",
+      "role": "Vernon",
+      "url": "https://multimovies.city/cast/stanley-tucci/",
+      "image": "https://image.tmdb.org/t/p/w92/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "name": "Dean Jones",
+      "role": "Herman Varnick",
+      "url": "https://multimovies.city/cast/dean-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/9jUcRVi2g2DSGErwzTwuZSyWGOp.jpg"
+    },
+    {
+      "name": "David Duchovny",
+      "role": "Brad",
+      "url": "https://multimovies.city/cast/david-duchovny/",
+      "image": "https://image.tmdb.org/t/p/w92/rZ2pEvu9IYsnHx3ElWUy4KgK3ia.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nOTOC2J4DyySEuJIB2ySej0kk9u.jpg",
+    "https://image.tmdb.org/t/p/w300/cdjdyKIvrO7EstCCBYOxzS3iO2D.jpg",
+    "https://image.tmdb.org/t/p/w300/56SGxVZzz4FmtQ0Ae8RVDK2Og6V.jpg",
+    "https://image.tmdb.org/t/p/w300/qJJc5Uz83M1IoWTYuzOz957ZXi9.jpg",
+    "https://image.tmdb.org/t/p/w300/Ac0q1CDYWKcgCQRz6SfxslXNsw6.jpg",
+    "https://image.tmdb.org/t/p/w300/NPEfJBcq44f4OsGIEtkHhvE36Q.jpg",
+    "https://image.tmdb.org/t/p/w300/p3bn8AFVDfMNmZfjaqncLLBf1G5.jpg",
+    "https://image.tmdb.org/t/p/w300/88lokBzUUm1OKoQsSBHXRN5u9rn.jpg",
+    "https://image.tmdb.org/t/p/w300/bObMzXvN81scxQjzbe8AEh7eIwa.jpg",
+    "https://image.tmdb.org/t/p/w300/hPzIyx60PhAHilGkuRr2zR5qlF2.jpg"
+  ],
+  "similar": [],
+  "views": 111,
+  "sources": [
+    "https://www.youtube.com/embed/ki8wHMR-yOI?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/yvvkslc"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 68272,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 68272,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
