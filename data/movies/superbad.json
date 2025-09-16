@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/superbad/",
+  "meta": {
+    "title": "Superbad",
+    "poster": "https://image.tmdb.org/t/p/w500/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Mar. 20, 2007",
+    "ratingValue": "8.8",
+    "ratingCount": "4",
+    "synopsis": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+    "infoFields": {
+      "Original title": "Superbad",
+      "IMDb Rating": "7.6 601,962 votes",
+      "TMDb Rating": "7.223 6,444 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Greg Mottola",
+      "role": "Director",
+      "url": "https://multimovies.city/director/greg-mottola/",
+      "image": "https://image.tmdb.org/t/p/w92/A5gy0fV3ndwkaCKnX017CKPNXve.jpg"
+    },
+    {
+      "name": "Jonah Hill",
+      "role": "Seth",
+      "url": "https://multimovies.city/cast/jonah-hill/",
+      "image": "https://image.tmdb.org/t/p/w92/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+    },
+    {
+      "name": "Michael Cera",
+      "role": "Evan",
+      "url": "https://multimovies.city/cast/michael-cera/",
+      "image": "https://image.tmdb.org/t/p/w92/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+    },
+    {
+      "name": "Christopher Mintz-Plasse",
+      "role": "Fogell / McLovin",
+      "url": "https://multimovies.city/cast/christopher-mintz-plasse/",
+      "image": "https://image.tmdb.org/t/p/w92/wIbheZW3KOUiP4oLzhoP5a6hFTu.jpg"
+    },
+    {
+      "name": "Bill Hader",
+      "role": "Officer Slater",
+      "url": "https://multimovies.city/cast/bill-hader/",
+      "image": "https://image.tmdb.org/t/p/w92/bKSllPdMOK2b3duHXKQZtQC5m8c.jpg"
+    },
+    {
+      "name": "Seth Rogen",
+      "role": "Officer Michaels",
+      "url": "https://multimovies.city/cast/seth-rogen/",
+      "image": "https://image.tmdb.org/t/p/w92/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg"
+    },
+    {
+      "name": "Emma Stone",
+      "role": "Jules",
+      "url": "https://multimovies.city/cast/emma-stone/",
+      "image": "https://image.tmdb.org/t/p/w92/3UaYw9KF4fEXRMRWhf25aGJpAW2.jpg"
+    },
+    {
+      "name": "Martha MacIsaac",
+      "role": "Becca",
+      "url": "https://multimovies.city/cast/martha-macisaac/",
+      "image": "https://image.tmdb.org/t/p/w92/bRTzhnXKkHYwuPSfsDvidDJeHpu.jpg"
+    },
+    {
+      "name": "Kevin Corrigan",
+      "role": "Mark",
+      "url": "https://multimovies.city/cast/kevin-corrigan/",
+      "image": "https://image.tmdb.org/t/p/w92/cAU4b3tV02YwFiikfZ0OkckBUmP.jpg"
+    },
+    {
+      "name": "Joe Lo Truglio",
+      "role": "Francis the Driver",
+      "url": "https://multimovies.city/cast/joe-lo-truglio/",
+      "image": "https://image.tmdb.org/t/p/w92/6un98WmgjAllrzMwjjZF2Bn8XZc.jpg"
+    },
+    {
+      "name": "Aviva Baumann",
+      "role": "Nicola",
+      "url": "https://multimovies.city/cast/aviva-baumann/",
+      "image": "https://image.tmdb.org/t/p/w92/uJPsrWOjk73lG59Fha8YEvKzO1Z.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/giYuvpmpZbwkT3NtX4WdNYqGhxw.jpg",
+    "https://image.tmdb.org/t/p/w300/5gpo8j16087Vd5nB9HDhIz28x.jpg",
+    "https://image.tmdb.org/t/p/w300/bwYhIvGPh81gLRTx3gWnU0Ho6nc.jpg",
+    "https://image.tmdb.org/t/p/w300/hEUTKEweUKgQ7R25S768VXidyyq.jpg",
+    "https://image.tmdb.org/t/p/w300/6cMGw2GInaJmKRbsddIwrQExIfJ.jpg",
+    "https://image.tmdb.org/t/p/w300/4iq7t5WcJtAAhhCL34DjD5V1MOQ.jpg"
+  ],
+  "similar": [],
+  "views": 6338,
+  "sources": [
+    "https://www.youtube.com/embed/4eaZ_48ZYog?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/w506yw9zk6wv"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 22972,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 22972,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:09:43.500657"
+}
