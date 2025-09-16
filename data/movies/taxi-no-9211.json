@@ -1,0 +1,114 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/taxi-no-9211/",
+  "meta": {
+    "title": "Taxi No. 9211",
+    "poster": "https://image.tmdb.org/t/p/w500/jemDSQcGlsd1rvWkIDPamMKDkAj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Feb. 24, 2006",
+    "ratingValue": "4",
+    "ratingCount": "1",
+    "synopsis": "A cabbie and businessman both in need of big money partake in a two-hour adventure together.",
+    "infoFields": {
+      "Original title": "\u091f\u0948\u0915\u094d\u0938\u0940 \u0928\u092e\u094d\u092c\u0930 \u096f\u0968\u0967\u0967",
+      "IMDb Rating": "7.3 10,167 votes",
+      "TMDb Rating": "6.5 45 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Milan Luthria",
+      "role": "Director",
+      "url": "https://multimovies.city/director/milan-luthria/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "John Abraham",
+      "role": "Jai Mittal",
+      "url": "https://multimovies.city/cast/john-abraham/",
+      "image": "https://image.tmdb.org/t/p/w92/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg"
+    },
+    {
+      "name": "Nana Patekar",
+      "role": "Raghav Shastri",
+      "url": "https://multimovies.city/cast/nana-patekar/",
+      "image": "https://image.tmdb.org/t/p/w92/gnhcslE2k2pgZK9xi1XFNZvZiEs.jpg"
+    },
+    {
+      "name": "Sameera Reddy",
+      "role": "Rupali",
+      "url": "https://multimovies.city/cast/sameera-reddy/",
+      "image": "https://image.tmdb.org/t/p/w92/egzWn7xxmKZxnynYuFlD93z3GMf.jpg"
+    },
+    {
+      "name": "Sonali Kulkarni",
+      "role": "Mrs. Shastri",
+      "url": "https://multimovies.city/cast/sonali-kulkarni/",
+      "image": "https://image.tmdb.org/t/p/w92/aQeM6N2JgGFbI5VoltWhkxw6OQC.jpg"
+    },
+    {
+      "name": "Priyanka Chopra Jonas",
+      "role": "Arjun Bajaj's Daughter (Guest Appearance)",
+      "url": "https://multimovies.city/cast/priyanka-chopra-jonas/",
+      "image": "https://image.tmdb.org/t/p/w92/stEZxIVAWFlrifbWkeULsD4LHnf.jpg"
+    },
+    {
+      "name": "Kurush Deboo",
+      "role": "Mr. Batliwala",
+      "url": "https://multimovies.city/cast/kurush-deboo/",
+      "image": "https://image.tmdb.org/t/p/w92/lH8PVl0Ph9xebEwj7vnEsFs7tN4.jpg"
+    },
+    {
+      "name": "Shivaji Satham",
+      "role": "Arjun Bajaj",
+      "url": "https://multimovies.city/cast/shivaji-satham/",
+      "image": "https://image.tmdb.org/t/p/w92/8C0lfz5T80BdWD99rCQmtB3iofF.jpg"
+    },
+    {
+      "name": "Sanjay Dutt",
+      "role": "Narrator (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/sanjay-dutt/",
+      "image": "https://image.tmdb.org/t/p/w92/zhYAdzlDMbhWr8ZBVDK02nrwnOJ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iHgg34LIB4Uovc04zIRbRlDkLg7.jpg",
+    "https://image.tmdb.org/t/p/w300/9r2D63vePL5F8JYR2ft4NaOAJk4.jpg",
+    "https://image.tmdb.org/t/p/w300/30rXd1AA64tG7CofI9VyT6u7vU6.jpg",
+    "https://image.tmdb.org/t/p/w300/yzhNkmG7o5yNmPBZBYPbl8c56VF.jpg"
+  ],
+  "similar": [],
+  "views": 1928,
+  "sources": [
+    "https://multimoviesshg.com/e/0dyd5q6ozffp"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25451,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:02:04.121753"
+}
