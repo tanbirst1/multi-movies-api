@@ -1,0 +1,141 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/e-t-the-extra-terrestrial/",
+  "meta": {
+    "title": "E.T. the Extra-Terrestrial",
+    "poster": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jun. 11, 1982",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "An alien is left behind on Earth and saved by the 10-year-old Elliot who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliot, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+    "infoFields": {
+      "Original title": "E.T. the Extra-Terrestrial",
+      "TMDb Rating": "7.518 10,977 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Steven Spielberg",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steven-spielberg/",
+      "image": "https://image.tmdb.org/t/p/w92/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+    },
+    {
+      "name": "Henry Thomas",
+      "role": "Elliott",
+      "url": "https://multimovies.city/cast/henry-thomas/",
+      "image": "https://image.tmdb.org/t/p/w92/l5OZ4qrrRGnEPeNhZ8PcL5vhwOI.jpg"
+    },
+    {
+      "name": "Drew Barrymore",
+      "role": "Gertie",
+      "url": "https://multimovies.city/cast/drew-barrymore/",
+      "image": "https://image.tmdb.org/t/p/w92/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg"
+    },
+    {
+      "name": "Robert MacNaughton",
+      "role": "Michael",
+      "url": "https://multimovies.city/cast/robert-macnaughton/",
+      "image": "https://image.tmdb.org/t/p/w92/fYsyr42druY9iPNOiH7QsCob2TU.jpg"
+    },
+    {
+      "name": "Peter Coyote",
+      "role": "Keys",
+      "url": "https://multimovies.city/cast/peter-coyote/",
+      "image": "https://image.tmdb.org/t/p/w92/ld3xLYTcZWjAc0bE33DONT7n9o8.jpg"
+    },
+    {
+      "name": "Dee Wallace",
+      "role": "Mary",
+      "url": "https://multimovies.city/cast/dee-wallace/",
+      "image": "https://image.tmdb.org/t/p/w92/gVnwovXGgGcny8LJ3w9j3I9xTE7.jpg"
+    },
+    {
+      "name": "Erika Eleniak",
+      "role": "Pretty Girl",
+      "url": "https://multimovies.city/cast/erika-eleniak/",
+      "image": "https://image.tmdb.org/t/p/w92/lu9RKtMCHRZIzLJzWieiku0LSYU.jpg"
+    },
+    {
+      "name": "K.C. Martel",
+      "role": "Greg",
+      "url": "https://multimovies.city/cast/k-c-martel/",
+      "image": "https://image.tmdb.org/t/p/w92/97MS9dZlwzOQ50O9PHxjykFtAFg.jpg"
+    },
+    {
+      "name": "C. Thomas Howell",
+      "role": "Tyler",
+      "url": "https://multimovies.city/cast/c-thomas-howell/",
+      "image": "https://image.tmdb.org/t/p/w92/739YbFWpAYyo9neHvBGThgmT4YH.jpg"
+    },
+    {
+      "name": "Sean Frye",
+      "role": "Steve",
+      "url": "https://multimovies.city/cast/sean-frye/",
+      "image": "https://image.tmdb.org/t/p/w92/fK5oztH0aqzB2uj8OaULoxi8CBy.jpg"
+    },
+    {
+      "name": "David M. O'Dell",
+      "role": "Schoolboy",
+      "url": "https://multimovies.city/cast/david-m-odell/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1jVEONg10d7lJunwl9GAS6tUGkB.jpg",
+    "https://image.tmdb.org/t/p/w300/hI4ea9G5fNCKhlh6DcgpP9du9No.jpg",
+    "https://image.tmdb.org/t/p/w300/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+    "https://image.tmdb.org/t/p/w300/5EXoMbhLLiqkOWHbv2cwkvBOUxv.jpg",
+    "https://image.tmdb.org/t/p/w300/7p6Mh9JGzAbf6h9QX3J1QFMutkK.jpg",
+    "https://image.tmdb.org/t/p/w300/9Kg322bGsEbmp94LjCCVGz3cpNw.jpg",
+    "https://image.tmdb.org/t/p/w300/zlp6WHCh44zzG4aFxQW8dmczuBH.jpg",
+    "https://image.tmdb.org/t/p/w300/4Kcl0kCCcSNONZ8rBu6ijWapXKJ.jpg",
+    "https://image.tmdb.org/t/p/w300/5WgMfHogC9dgzABwukaVZ6FNmRR.jpg",
+    "https://image.tmdb.org/t/p/w300/q0fHMXo13foG68odSy1vwtTHlK2.jpg"
+  ],
+  "similar": [],
+  "views": 770,
+  "sources": [
+    "https://www.youtube.com/embed/aiqLxSuXBzI?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/03gcce14flcj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58650,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58650,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
