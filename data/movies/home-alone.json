@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/home-alone/",
+  "meta": {
+    "title": "Home Alone",
+    "poster": "https://image.tmdb.org/t/p/w500/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 16, 1990",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. But when a pair of bungling burglars set their sights on Kevin\u2019s house, the plucky kid stands ready to defend his territory. By planting booby traps galore, adorably mischievous Kevin stands his ground as his frantic mother attempts to race home before Christmas Day.",
+    "infoFields": {
+      "Original title": "Home Alone",
+      "IMDb Rating": "7.7 634,509 votes",
+      "TMDb Rating": "7.425 10,475 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Chris Columbus",
+      "role": "Director",
+      "url": "https://multimovies.city/director/chris-columbus/",
+      "image": "https://image.tmdb.org/t/p/w92/yCyEz90NqjEXKZ7HYcEhDXlLlPc.jpg"
+    },
+    {
+      "name": "Macaulay Culkin",
+      "role": "Kevin McCallister",
+      "url": "https://multimovies.city/cast/macaulay-culkin/",
+      "image": "https://image.tmdb.org/t/p/w92/5lSoFnWb4HmxEREqcFvBGgXu5H.jpg"
+    },
+    {
+      "name": "Joe Pesci",
+      "role": "Harry Lyme",
+      "url": "https://multimovies.city/cast/joe-pesci/",
+      "image": "https://image.tmdb.org/t/p/w92/4AO0Rwdg2ky8Usmgzgj0dvhy7Zw.jpg"
+    },
+    {
+      "name": "Daniel Stern",
+      "role": "Marv Murchins",
+      "url": "https://multimovies.city/cast/daniel-stern/",
+      "image": "https://image.tmdb.org/t/p/w92/939oerf8bJPrqT2a0N0oGuM1bjn.jpg"
+    },
+    {
+      "name": "Roberts Blossom",
+      "role": "Marley",
+      "url": "https://multimovies.city/cast/roberts-blossom/",
+      "image": "https://image.tmdb.org/t/p/w92/v6R8dyBzQww8fbr9QRMuGF1B5BM.jpg"
+    },
+    {
+      "name": "Catherine O'Hara",
+      "role": "Kate McCallister",
+      "url": "https://multimovies.city/cast/catherine-ohara/",
+      "image": "https://image.tmdb.org/t/p/w92/cMBxHeztNVc8YXKcj084Mdd3f3U.jpg"
+    },
+    {
+      "name": "John Heard",
+      "role": "Peter McCallister",
+      "url": "https://multimovies.city/cast/john-heard/",
+      "image": "https://image.tmdb.org/t/p/w92/zjhcxrCFK4q0C1gtVmeN8FeqCw0.jpg"
+    },
+    {
+      "name": "Devin Ratray",
+      "role": "Buzz McCallister",
+      "url": "https://multimovies.city/cast/devin-ratray/",
+      "image": "https://image.tmdb.org/t/p/w92/iWUBK0pCfTAQrqYMLIEZXk4ZLwZ.jpg"
+    },
+    {
+      "name": "John Candy",
+      "role": "Gus Polinski",
+      "url": "https://multimovies.city/cast/john-candy/",
+      "image": "https://image.tmdb.org/t/p/w92/xOoA2gFdnl0qe9esbG0FJvCY0Fh.jpg"
+    },
+    {
+      "name": "Michael C. Maronna",
+      "role": "Jeff McCallister",
+      "url": "https://multimovies.city/cast/michael-c-maronna/",
+      "image": "https://image.tmdb.org/t/p/w92/vLmaPosdi7sLutyg5QkJHceRY5F.jpg"
+    },
+    {
+      "name": "Hillary Wolf",
+      "role": "Megan McCallister",
+      "url": "https://multimovies.city/cast/hillary-wolf/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6uLhSLXzB1ooJ3522ydrBZ2Hh0W.jpg",
+    "https://image.tmdb.org/t/p/w300/hG6mFOpPWflUkJa4QN9lP2IpGF7.jpg",
+    "https://image.tmdb.org/t/p/w300/bCFhGBYSLFSVdZmBZ6sENhMmi2Z.jpg",
+    "https://image.tmdb.org/t/p/w300/en9bAOhdPXZJfx2xTf1WL5d1T5v.jpg",
+    "https://image.tmdb.org/t/p/w300/9nV3DLTuIcDGTSJDxudPB2bqvU6.jpg",
+    "https://image.tmdb.org/t/p/w300/vaVaNrscmsG8CUKYxiwZGFNqGJo.jpg",
+    "https://image.tmdb.org/t/p/w300/3iXiL8sKU8UerilhsQXS1alLfac.jpg",
+    "https://image.tmdb.org/t/p/w300/88baV4SxzTZEDaTnpSaduGY3Wfn.jpg",
+    "https://image.tmdb.org/t/p/w300/ySmjHc3LZd4VmmIa6sgwkMIm6xl.jpg",
+    "https://image.tmdb.org/t/p/w300/dlU5a08RuNrzSK3ot2jECs7PMO1.jpg"
+  ],
+  "similar": [],
+  "views": 4770,
+  "sources": [
+    "https://www.youtube.com/embed/0iNmVVlmmv8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/eqv9ri8apxx2"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 36245,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 36245,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
