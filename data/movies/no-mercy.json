@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/no-mercy/",
+  "meta": {
+    "title": "No Mercy",
+    "poster": "https://image.tmdb.org/t/p/w500/xDZV58yiQMh1fiuW3QBVBpI02cU.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jan. 07, 2010",
+    "ratingValue": "9.5",
+    "ratingCount": "2",
+    "synopsis": "Forensic pathologist Kang is assigned to examine the dismembered corpse of a female murder victim. Detective Min points to a fanatic environmentalist, Lee Sung-ho, as the primary suspect. But when Kang\u2019s daughter is kidnapped, a manipulative game begins between Kang and Lee, who holds secrets about the homicide case.",
+    "infoFields": {
+      "Original title": "\uc6a9\uc11c\ub294 \uc5c6\ub2e4",
+      "IMDb Rating": "7.4 10,353 votes",
+      "TMDb Rating": "7.5 188 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kim Hyoung-jun",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kim-hyoung-jun/",
+      "image": "https://image.tmdb.org/t/p/w92/iSZKQJIf5cqjtvFIV9VwGvC2LuG.jpg"
+    },
+    {
+      "name": "Sol Kyung-gu",
+      "role": "Kang Min-ho",
+      "url": "https://multimovies.city/cast/sol-kyung-gu/",
+      "image": "https://image.tmdb.org/t/p/w92/9SqQcvVUPUziK37i5jIeUoqSOMB.jpg"
+    },
+    {
+      "name": "Ryoo Seung-bum",
+      "role": "Lee Sung-ho",
+      "url": "https://multimovies.city/cast/ryoo-seung-bum/",
+      "image": "https://image.tmdb.org/t/p/w92/bf8EtXv3QUBehLdCLtn7FB50ahD.jpg"
+    },
+    {
+      "name": "Han Hye-jin",
+      "role": "Min Seo-young",
+      "url": "https://multimovies.city/cast/han-hye-jin/",
+      "image": "https://image.tmdb.org/t/p/w92/8w6XEFKgq030lons0cChvRQrLF4.jpg"
+    },
+    {
+      "name": "Sung Ji-ru",
+      "role": "Yun Jong-kang",
+      "url": "https://multimovies.city/cast/sung-ji-ru/",
+      "image": "https://image.tmdb.org/t/p/w92/26c9oSahXdbswUgB99l8A4wpxQM.jpg"
+    },
+    {
+      "name": "Park Sang-wook",
+      "role": "Park Pyung-sik",
+      "url": "https://multimovies.city/cast/park-sang-wook/",
+      "image": "https://image.tmdb.org/t/p/w92/wlYNz7V0kII6tbaWBH1kVcuPZE7.jpg"
+    },
+    {
+      "name": "Kim Jung-hak",
+      "role": "Prosecutor Park",
+      "url": "https://multimovies.city/cast/kim-jung-hak/",
+      "image": "https://image.tmdb.org/t/p/w92/hIRJw1Kqc424EI4ekXtWklagA5n.jpg"
+    },
+    {
+      "name": "Lee Jeong-heon",
+      "role": "Analyst",
+      "url": "https://multimovies.city/cast/lee-jeong-heon/",
+      "image": "https://image.tmdb.org/t/p/w92/hpEB2cDsZXjdmfwrDVSspQBnWve.jpg"
+    },
+    {
+      "name": "Ju Seok-tae",
+      "role": "Seo-young's Senior",
+      "url": "https://multimovies.city/cast/ju-seok-tae/",
+      "image": "https://image.tmdb.org/t/p/w92/j46HkDq7Rv5gvCnv2J8LQxkBWXM.jpg"
+    },
+    {
+      "name": "Nam Kyung-eup",
+      "role": "Chief Detective Oh",
+      "url": "https://multimovies.city/cast/nam-kyung-eup/",
+      "image": "https://image.tmdb.org/t/p/w92/nRtczBC0z29d5k4VQBvpv6E6drH.jpg"
+    },
+    {
+      "name": "Jo Soo-jung",
+      "role": "Oh Eun-ah",
+      "url": "https://multimovies.city/cast/jo-soo-jung/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7sLysimtbhja8aJI3qGgUSAtTBQ.jpg",
+    "https://image.tmdb.org/t/p/w300/ymhdNo0zSGvwJLzC2crG4zA6uEN.jpg"
+  ],
+  "similar": [],
+  "views": 2636,
+  "sources": [
+    "https://www.youtube.com/embed/_2hiqv57RUU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/oymivby"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 63106,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 63106,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:38:39.656003"
+}
