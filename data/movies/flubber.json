@@ -4,9 +4,131 @@
   "meta": {
     "title": "Flubber",
     "poster": "https://image.tmdb.org/t/p/w500/bnKvk04icAyCO1KjqhsaEXBO9aJ.jpg",
-    "synopsis": "Professor Phillip Brainard, an absent minded professor, works with his assistant Weebo, trying to create a substance that\u2019s a new source of energy and that will save Medfield College where his sweetheart Sara is the president. He has missed his wedding twice, and on the afternoon of his third wedding, Professor Brainard creates flubber, which allows objects to fly through the air."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Nov. 26, 1997",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Professor Phillip Brainard, an absent minded professor, works with his assistant Weebo, trying to create a substance that\u2019s a new source of energy and that will save Medfield College where his sweetheart Sara is the president. He has missed his wedding twice, and on the afternoon of his third wedding, Professor Brainard creates flubber, which allows objects to fly through the air.",
+    "infoFields": {
+      "Original title": "Flubber",
+      "IMDb Rating": "5.3 92,180 votes",
+      "TMDb Rating": "5.638 2,131 votes"
+    }
   },
   "seasons": [],
+  "cast": [
+    {
+      "name": "Les Mayfield",
+      "role": "Director",
+      "url": "https://multimovies.city/director/les-mayfield/",
+      "image": "https://image.tmdb.org/t/p/w92/sQzUXEG1FeMhrxChLMl8bUNqc0Z.jpg"
+    },
+    {
+      "name": "Robin Williams",
+      "role": "Professor Philip Brainard",
+      "url": "https://multimovies.city/cast/robin-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "role": "Dr. Sara Jean Reynolds",
+      "url": "https://multimovies.city/cast/marcia-gay-harden/",
+      "image": "https://image.tmdb.org/t/p/w92/iOwGiUAceMQEZC5iFUPpZWRNAq3.jpg"
+    },
+    {
+      "name": "Christopher McDonald",
+      "role": "Wilson Croft",
+      "url": "https://multimovies.city/cast/christopher-mcdonald/",
+      "image": "https://image.tmdb.org/t/p/w92/bOKl8EPOKe0oWD15HxUKH1ugesg.jpg"
+    },
+    {
+      "name": "Raymond J. Barry",
+      "role": "Chester Hoenicker",
+      "url": "https://multimovies.city/cast/raymond-j-barry/",
+      "image": "https://image.tmdb.org/t/p/w92/8rJs8BQMoVqEjjCHCS4i7o7joJ6.jpg"
+    },
+    {
+      "name": "Clancy Brown",
+      "role": "Smith",
+      "url": "https://multimovies.city/cast/clancy-brown/",
+      "image": "https://image.tmdb.org/t/p/w92/9RgzFqbmWBLVfq9wvyDo5UW8VT1.jpg"
+    },
+    {
+      "name": "Nancy Olson",
+      "role": "Secretary at Ford Motor Company",
+      "url": "https://multimovies.city/cast/nancy-olson/",
+      "image": "https://image.tmdb.org/t/p/w92/419ZEkm8PQSp9RS7NXb4yJPDRm4.jpg"
+    },
+    {
+      "name": "Ted Levine",
+      "role": "Wesson",
+      "url": "https://multimovies.city/cast/ted-levine/",
+      "image": "https://image.tmdb.org/t/p/w92/qRFq8y842T1uq51iQCwsEmQI3UT.jpg"
+    },
+    {
+      "name": "Wil Wheaton",
+      "role": "Bennett Hoenicker",
+      "url": "https://multimovies.city/cast/wil-wheaton/",
+      "image": "https://image.tmdb.org/t/p/w92/yqEW17L7Fdg2RDRLLo4SqRHkjyw.jpg"
+    },
+    {
+      "name": "Edie McClurg",
+      "role": "Martha George",
+      "url": "https://multimovies.city/cast/edie-mcclurg/",
+      "image": "https://image.tmdb.org/t/p/w92/vU5y4hZe1WhqDAPP5jEfrWv4Iaq.jpg"
+    },
+    {
+      "name": "Jodi Benson",
+      "role": "Weebo (voice)",
+      "url": "https://multimovies.city/cast/jodi-benson/",
+      "image": "https://image.tmdb.org/t/p/w92/2qX8QKHCaFWnCcIhb3VgZeX9HPz.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/4sG6pq34XdCUWXhCy5kD4t6pViR.jpg",
+    "https://image.tmdb.org/t/p/w300/5Eh0unhf2QURD8AtG7dw2QZCkB0.jpg",
+    "https://image.tmdb.org/t/p/w300/zv8rOS34kPMe4YLfOtRzcjTJAoI.jpg",
+    "https://image.tmdb.org/t/p/w300/oTZED8sgWjZ9es3azbRD1lDOFdS.jpg",
+    "https://image.tmdb.org/t/p/w300/vnpfPJMoXtlnoBTv7OhMlSQeFqK.jpg"
+  ],
+  "similar": [],
+  "views": 536,
+  "sources": [
+    "https://www.youtube.com/embed/dl4r6JK6vgY?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/wk1j9hkad66v"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 23545,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 23545,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 15:51:02"
+  "last_update": "2025-09-16T17:22:01.320513"
 }
