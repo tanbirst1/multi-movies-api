@@ -1,0 +1,167 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/watchmen/",
+  "meta": {
+    "title": "Watchmen",
+    "poster": "https://image.tmdb.org/t/p/w500/aZvOkdo203bm1kpcY0A0Tn074ER.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Mar. 04, 2009",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "In a gritty and alternate 1985 the glory days of costumed vigilantes have been brought to a close by a government crackdown, but after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so uncover a sinister plot that puts all of humanity in grave danger.",
+    "infoFields": {
+      "Original title": "Watchmen",
+      "IMDb Rating": "7.6 562,820 votes",
+      "TMDb Rating": "7.328 8,275 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Zack Snyder",
+      "role": "Director",
+      "url": "https://multimovies.city/director/zack-snyder/",
+      "image": "https://image.tmdb.org/t/p/w92/iD0GDqkvJXDXiNEZej198hjt3Tt.jpg"
+    },
+    {
+      "name": "Malin \u00c5kerman",
+      "role": "Laurie Jupiter / Silk Spectre II",
+      "url": "https://multimovies.city/cast/malin-akerman/",
+      "image": "https://image.tmdb.org/t/p/w92/quR3jpQrXIzFlZUFtYhACefoO6n.jpg"
+    },
+    {
+      "name": "Patrick Wilson",
+      "role": "Dan Dreiberg / Nite Owl II",
+      "url": "https://multimovies.city/cast/patrick-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg"
+    },
+    {
+      "name": "Billy Crudup",
+      "role": "Jon Osterman / Dr. Manhattan",
+      "url": "https://multimovies.city/cast/billy-crudup/",
+      "image": "https://image.tmdb.org/t/p/w92/pYblSarjmmIUggmOafanD2yk0Zj.jpg"
+    },
+    {
+      "name": "Matthew Goode",
+      "role": "Adrian Veidt / Ozymandias",
+      "url": "https://multimovies.city/cast/matthew-goode/",
+      "image": "https://image.tmdb.org/t/p/w92/3XaKKl0bKswTWbJ0Lh9nZ4UdAQo.jpg"
+    },
+    {
+      "name": "Jackie Earle Haley",
+      "role": "Walter Kovacs / Rorschach",
+      "url": "https://multimovies.city/cast/jackie-earle-haley/",
+      "image": "https://image.tmdb.org/t/p/w92/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+    },
+    {
+      "name": "Jeffrey Dean Morgan",
+      "role": "Edward Blake / The Comedian",
+      "url": "https://multimovies.city/cast/jeffrey-dean-morgan/",
+      "image": "https://image.tmdb.org/t/p/w92/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+    },
+    {
+      "name": "Carla Gugino",
+      "role": "Sally Jupiter / Silk Spectre",
+      "url": "https://multimovies.city/cast/carla-gugino/",
+      "image": "https://image.tmdb.org/t/p/w92/7lSH5LOexOHwvt9lOTsLTbXdU1G.jpg"
+    },
+    {
+      "name": "Laura Mennell",
+      "role": "Janey Slater",
+      "url": "https://multimovies.city/cast/laura-mennell/",
+      "image": "https://image.tmdb.org/t/p/w92/onIPcCc3swg2q2k2vRcNtqYdwaQ.jpg"
+    },
+    {
+      "name": "Matt Frewer",
+      "role": "Edgar Jacobi / Moloch the Mystic",
+      "url": "https://multimovies.city/cast/matt-frewer/",
+      "image": "https://image.tmdb.org/t/p/w92/5yQeoDfwsSOnO8H2g8UjPLg6buG.jpg"
+    },
+    {
+      "name": "Stephen McHattie",
+      "role": "Hollis Mason / Nite Owl",
+      "url": "https://multimovies.city/cast/stephen-mchattie/",
+      "image": "https://image.tmdb.org/t/p/w92/v1fIX9IVrZdG9PWNtvdwrbgfJuG.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/uOvNJMVy3VzEfS75hXroITSsdWY.jpg",
+    "https://image.tmdb.org/t/p/w300/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg",
+    "https://image.tmdb.org/t/p/w300/hfWsEZRTpqSfzofIhjjy7VL4o61.jpg",
+    "https://image.tmdb.org/t/p/w300/huNmWcgMiwIn9EJJME3hA3AzHpg.jpg",
+    "https://image.tmdb.org/t/p/w300/y6AIFuBOymo8nGymqesohP8yxN0.jpg",
+    "https://image.tmdb.org/t/p/w300/iloOEgZc2HKp6sLJgFu5eMiOggk.jpg",
+    "https://image.tmdb.org/t/p/w300/m1CUfQv0zJjBGiZ1PxOGTW5UV6K.jpg",
+    "https://image.tmdb.org/t/p/w300/z0MeMoPqbXqxuQHwl48ls0N6Yme.jpg",
+    "https://image.tmdb.org/t/p/w300/vX9I1ecuvfgmZzbwUvlfziREHlD.jpg",
+    "https://image.tmdb.org/t/p/w300/92wggB6ifBREL95jMYrBNcK3AyY.jpg"
+  ],
+  "similar": [],
+  "views": 6538,
+  "sources": [
+    "https://www.youtube.com/embed/PVgUZ2NSzBo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/4czc2g41x07y",
+    "https://sbplay.org/embed-u83qzwvjm5ol.html",
+    "https://dood.la/e/8dg00f2k3ect",
+    "https://mixdrop.co/e/wnoxrnoqsg87q9",
+    "https://hydrax.net/watch?v=ozaXx1Dp1t"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20898,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 20898,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 20898,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 20898,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 20898,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 20898,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:25:57.324355"
+}
