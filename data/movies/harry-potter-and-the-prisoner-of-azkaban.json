@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/harry-potter-and-the-prisoner-of-azkaban/",
+  "meta": {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "poster": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Harry Potter movies",
+        "url": "https://multimovies.city/genre/multimovies-com-harry-potter-movies/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "May. 31, 2004",
+    "ratingValue": "9.3",
+    "ratingCount": "61",
+    "synopsis": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+    "infoFields": {
+      "Original title": "Harry Potter and the Prisoner of Azkaban",
+      "IMDb Rating": "7.9 650,514 votes",
+      "TMDb Rating": "8.021 19,343 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Alfonso Cuar\u00f3n",
+      "role": "Director",
+      "url": "https://multimovies.city/director/alfonso-cuaron/",
+      "image": "https://image.tmdb.org/t/p/w92/eoCHiXaQzGgx9RiwXnt3k239FLc.jpg"
+    },
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "url": "https://multimovies.city/cast/daniel-radcliffe/",
+      "image": "https://image.tmdb.org/t/p/w92/iPg0J9UzAlPj1fLEJNllpW9IhGe.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "url": "https://multimovies.city/cast/rupert-grint/",
+      "image": "https://image.tmdb.org/t/p/w92/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "url": "https://multimovies.city/cast/emma-watson/",
+      "image": "https://image.tmdb.org/t/p/w92/tvPPRGzAzdQFhlKzLbMO1EpuTJI.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "role": "Rubeus Hagrid",
+      "url": "https://multimovies.city/cast/robbie-coltrane/",
+      "image": "https://image.tmdb.org/t/p/w92/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "name": "Michael Gambon",
+      "role": "Albus Dumbledore",
+      "url": "https://multimovies.city/cast/michael-gambon/",
+      "image": "https://image.tmdb.org/t/p/w92/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "name": "Gary Oldman",
+      "role": "Sirius Black",
+      "url": "https://multimovies.city/cast/gary-oldman/",
+      "image": "https://image.tmdb.org/t/p/w92/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+    },
+    {
+      "name": "Alan Rickman",
+      "role": "Severus Snape",
+      "url": "https://multimovies.city/cast/alan-rickman/",
+      "image": "https://image.tmdb.org/t/p/w92/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "name": "Timothy Spall",
+      "role": "Peter Pettigrew",
+      "url": "https://multimovies.city/cast/timothy-spall/",
+      "image": "https://image.tmdb.org/t/p/w92/kcXnzkIPUHgCFtWQ7sUjQCrSIME.jpg"
+    },
+    {
+      "name": "David Thewlis",
+      "role": "Remus Lupin",
+      "url": "https://multimovies.city/cast/david-thewlis/",
+      "image": "https://image.tmdb.org/t/p/w92/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+    },
+    {
+      "name": "Tom Felton",
+      "role": "Draco Malfoy",
+      "url": "https://multimovies.city/cast/tom-felton/",
+      "image": "https://image.tmdb.org/t/p/w92/bg5TcioIqc5Kt6CE609wXziZ9Cm.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/obKmfNexgL4ZP5cAmzdL4KbHHYX.jpg",
+    "https://image.tmdb.org/t/p/w300/wDuoQwcn1XSrAaUsmZFhDWPCeix.jpg",
+    "https://image.tmdb.org/t/p/w300/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+    "https://image.tmdb.org/t/p/w300/ve4TEHHmJdnEKVWSYlRa3DdoeKz.jpg",
+    "https://image.tmdb.org/t/p/w300/v2K8QaAQD0pmEaUTUeV8MXMq1qx.jpg",
+    "https://image.tmdb.org/t/p/w300/a1iLoSQbq7wlz3MpDEHzNykPvVi.jpg",
+    "https://image.tmdb.org/t/p/w300/htmYEfH7TQgzsXHCnNXxmoYKQtL.jpg",
+    "https://image.tmdb.org/t/p/w300/wcPHyQQTgwvHYMRUqls6SQh2T3L.jpg",
+    "https://image.tmdb.org/t/p/w300/l2oGy431woGYP63ko6aDaWLDQUy.jpg",
+    "https://image.tmdb.org/t/p/w300/j20WRpp0OLNgXL5LkRyXUj9noWZ.jpg"
+  ],
+  "similar": [],
+  "views": 49759,
+  "sources": [
+    "https://www.youtube.com/embed/R69laoH02xg?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/b6uxm75"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 439,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 439,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:47:43.343897"
+}
