@@ -4,15 +4,132 @@
   "meta": {
     "title": "Memento",
     "poster": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
-    "synopsis": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife\u2019s killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he\u2019s going, or why."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Oct. 11, 2000",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife\u2019s killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he\u2019s going, or why.",
+    "infoFields": {
+      "Original title": "Memento",
+      "IMDb Rating": "8.4 1,369,119 votes",
+      "TMDb Rating": "8.177 15,119 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Steve Gehrke",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steve-gehrke/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Guy Pearce",
+      "role": "Leonard",
+      "url": "https://multimovies.city/cast/guy-pearce/",
+      "image": "https://image.tmdb.org/t/p/w92/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+    },
+    {
+      "name": "Carrie-Anne Moss",
+      "role": "Natalie",
+      "url": "https://multimovies.city/cast/carrie-anne-moss/",
+      "image": "https://image.tmdb.org/t/p/w92/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
+    },
+    {
+      "name": "Joe Pantoliano",
+      "role": "Teddy",
+      "url": "https://multimovies.city/cast/joe-pantoliano/",
+      "image": "https://image.tmdb.org/t/p/w92/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+    },
+    {
+      "name": "Mark Boone Junior",
+      "role": "Burt",
+      "url": "https://multimovies.city/cast/mark-boone-junior/",
+      "image": "https://image.tmdb.org/t/p/w92/rcncVr356hpfKX9qOrKL3SJlEO7.jpg"
+    },
+    {
+      "name": "Russ Fega",
+      "role": "Waiter",
+      "url": "https://multimovies.city/cast/russ-fega/",
+      "image": "https://image.tmdb.org/t/p/w92/d0W7kq97Ul8Iz5LZIVNDKxSly8M.jpg"
+    },
+    {
+      "name": "Jorja Fox",
+      "role": "Leonard's Wife",
+      "url": "https://multimovies.city/cast/jorja-fox/",
+      "image": "https://image.tmdb.org/t/p/w92/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
+    },
+    {
+      "name": "Stephen Tobolowsky",
+      "role": "Sammy Jankis",
+      "url": "https://multimovies.city/cast/stephen-tobolowsky/",
+      "image": "https://image.tmdb.org/t/p/w92/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+    },
+    {
+      "name": "Harriet Sansom Harris",
+      "role": "Mrs. Jankis",
+      "url": "https://multimovies.city/cast/harriet-sansom-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/1ShvYCWkZycAGb27ZivGrLx1PhS.jpg"
+    },
+    {
+      "name": "Thomas Lennon",
+      "role": "Doctor",
+      "url": "https://multimovies.city/cast/thomas-lennon/",
+      "image": "https://image.tmdb.org/t/p/w92/s8pw7BfuMxN7P0p5XJ9POfod7zW.jpg"
+    },
+    {
+      "name": "Callum Keith Rennie",
+      "role": "Dodd",
+      "url": "https://multimovies.city/cast/callum-keith-rennie/",
+      "image": "https://image.tmdb.org/t/p/w92/zOeA4IR4xYde2VlDsHZy2SoPZkc.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+    "https://image.tmdb.org/t/p/w300/8pwCb7amg8Tvr9FZZJGt7J4OwLV.jpg",
+    "https://image.tmdb.org/t/p/w300/q2CtXYjp9IlnfBcPktNkBPsuAEO.jpg",
+    "https://image.tmdb.org/t/p/w300/zxpuM75HKkzSTPow2VwH8gMq6qW.jpg",
+    "https://image.tmdb.org/t/p/w300/v4u9FnSOpLEjPIAhbKClM45LJoJ.jpg",
+    "https://image.tmdb.org/t/p/w300/qq5Y7Ad0KuayD3f28DcXx33cAau.jpg",
+    "https://image.tmdb.org/t/p/w300/4nmLVlxXSW6e5xAorsEt5gFTfOD.jpg",
+    "https://image.tmdb.org/t/p/w300/qGG1N5nVzeXh46FDaF4iLGzTOpj.jpg",
+    "https://image.tmdb.org/t/p/w300/b2udduagEMeUuACUMmxlSs5exSm.jpg",
+    "https://image.tmdb.org/t/p/w300/1fhAHFql91cSioubcXkuO1rOyFP.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 5278,
+  "sources": [
+    "https://www.youtube.com/embed/Rq9eM4ZXRgs?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/oibi5c9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 49701,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 49701,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:27:18.904846"
 }
