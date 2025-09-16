@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/meet-the-fockers/",
+  "meta": {
+    "title": "Meet the Fockers",
+    "poster": "https://image.tmdb.org/t/p/w500/59fXm6N2x7QSbvt6BaBxTNBXGL8.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Dec. 22, 2004",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Hard-to-crack ex-CIA man Jack Byrnes and his wife Dina head for the warmer climes of Florida to meet the parents of their son-in-law-to-be, Greg Focker. Unlike their happily matched offspring, the future in-laws find themselves in a situation of opposites that definitely do not attract.",
+    "infoFields": {
+      "Original title": "Meet the Fockers",
+      "IMDb Rating": "6.4 297,326 votes",
+      "TMDb Rating": "6.255 4,918 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jay Roach",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jay-roach/",
+      "image": "https://image.tmdb.org/t/p/w92/48uTxNDRlnP56quVewyByotKAen.jpg"
+    },
+    {
+      "name": "Ben Stiller",
+      "role": "Greg Focker",
+      "url": "https://multimovies.city/cast/ben-stiller/",
+      "image": "https://image.tmdb.org/t/p/w92/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "name": "Robert De Niro",
+      "role": "Jack Byrnes",
+      "url": "https://multimovies.city/cast/robert-de-niro/",
+      "image": "https://image.tmdb.org/t/p/w92/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "name": "Dustin Hoffman",
+      "role": "Bernie Focker",
+      "url": "https://multimovies.city/cast/dustin-hoffman/",
+      "image": "https://image.tmdb.org/t/p/w92/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+      "name": "Barbra Streisand",
+      "role": "Rozalin Focker",
+      "url": "https://multimovies.city/cast/barbra-streisand/",
+      "image": "https://image.tmdb.org/t/p/w92/6YD223jsdZX7VnWSjGjP1S7Xj6X.jpg"
+    },
+    {
+      "name": "Blythe Danner",
+      "role": "Dina Byrnes",
+      "url": "https://multimovies.city/cast/blythe-danner/",
+      "image": "https://image.tmdb.org/t/p/w92/xIN3nX76b4qN8B32wdoqx053N68.jpg"
+    },
+    {
+      "name": "Teri Polo",
+      "role": "Pam Byrnes",
+      "url": "https://multimovies.city/cast/teri-polo/",
+      "image": "https://image.tmdb.org/t/p/w92/5xVk9bfMOeJxKmAGJddOhcNp2rX.jpg"
+    },
+    {
+      "name": "Owen Wilson",
+      "role": "Kevin Rawley",
+      "url": "https://multimovies.city/cast/owen-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+    },
+    {
+      "name": "Spencer Pickren",
+      "role": "Little Jack 'L.J.' Byrnes",
+      "url": "https://multimovies.city/cast/spencer-pickren/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Bradley Pickren",
+      "role": "Little Jack 'L.J.' Byrnes",
+      "url": "https://multimovies.city/cast/bradley-pickren/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Alanna Ubach",
+      "role": "Isabel Villalobos",
+      "url": "https://multimovies.city/cast/alanna-ubach/",
+      "image": "https://image.tmdb.org/t/p/w92/ffyBAEoW3bDgVJQV3GaHsZ9x29W.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/46V7HxPbdGBhlw5w2hT0I2ZD8kl.jpg",
+    "https://image.tmdb.org/t/p/w300/tS6PvNcFxoqcjkb0iCnX7oHeD1u.jpg",
+    "https://image.tmdb.org/t/p/w300/uCZUxDtNkgpvWSHMeeDQAaPg6P6.jpg",
+    "https://image.tmdb.org/t/p/w300/dzjPcbVgAEmLVKIzBV7xivIjFDG.jpg",
+    "https://image.tmdb.org/t/p/w300/6XmA00hTLeSF1oeaLzgpRmpZfEu.jpg",
+    "https://image.tmdb.org/t/p/w300/hIfy9G7CQoKpDkJgEfOPcfW2HYK.jpg",
+    "https://image.tmdb.org/t/p/w300/yMUnpYcnDCmFWBpE8teteziYZGz.jpg",
+    "https://image.tmdb.org/t/p/w300/porZOny3iVvs5LK0osW1b52wWik.jpg",
+    "https://image.tmdb.org/t/p/w300/hTGftJhXiwgLyzQqCPHxExZ6jtx.jpg"
+  ],
+  "similar": [],
+  "views": 268,
+  "sources": [
+    "https://www.youtube.com/embed/48S3ogRGpjM?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/xp7mf6g"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 98708,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 98708,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:53:23.433588"
+}
