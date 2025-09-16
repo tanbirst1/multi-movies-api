@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ice-age-dawn-of-the-dinosaurs/",
+  "meta": {
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "poster": "https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Jun. 26, 2009",
+    "ratingValue": "10",
+    "ratingCount": "3",
+    "synopsis": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors \u2013 the mighty dinosaurs.",
+    "infoFields": {
+      "Original title": "Ice Age: Dawn of the Dinosaurs",
+      "IMDb Rating": "6.9 258,414 votes",
+      "TMDb Rating": "6.739 7,732 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Carlos Saldanha",
+      "role": "Director",
+      "url": "https://multimovies.city/director/carlos-saldanha/",
+      "image": "https://image.tmdb.org/t/p/w92/oxUlCSgxKaoCRYFyS65PC2fZWrk.jpg"
+    },
+    {
+      "name": "Ray Romano",
+      "role": "Manny (voice)",
+      "url": "https://multimovies.city/cast/ray-romano/",
+      "image": "https://image.tmdb.org/t/p/w92/x1c08NKCRiKwf4HhB38ZRKWXa9K.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "role": "Sid (voice)",
+      "url": "https://multimovies.city/cast/john-leguizamo/",
+      "image": "https://image.tmdb.org/t/p/w92/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "name": "Denis Leary",
+      "role": "Diego (voice)",
+      "url": "https://multimovies.city/cast/denis-leary/",
+      "image": "https://image.tmdb.org/t/p/w92/nAqHuIw8z1QodcXdaJQShKogVFa.jpg"
+    },
+    {
+      "name": "Queen Latifah",
+      "role": "Ellie (voice)",
+      "url": "https://multimovies.city/cast/queen-latifah/",
+      "image": "https://image.tmdb.org/t/p/w92/AeNoPcSWTsl1mOxiyXAKjVnzrwl.jpg"
+    },
+    {
+      "name": "Simon Pegg",
+      "role": "Buck (voice)",
+      "url": "https://multimovies.city/cast/simon-pegg/",
+      "image": "https://image.tmdb.org/t/p/w92/nOWKXxgADG98RjKyfQ7oSDfns6J.jpg"
+    },
+    {
+      "name": "Seann William Scott",
+      "role": "Crash (voice)",
+      "url": "https://multimovies.city/cast/seann-william-scott/",
+      "image": "https://image.tmdb.org/t/p/w92/mKc2YXdh8d4U2jYDwpLWaOY6Jwg.jpg"
+    },
+    {
+      "name": "Josh Peck",
+      "role": "Eddie (voice)",
+      "url": "https://multimovies.city/cast/josh-peck/",
+      "image": "https://image.tmdb.org/t/p/w92/qoapD8slSdb550o1JEoepv1SvT0.jpg"
+    },
+    {
+      "name": "Chris Wedge",
+      "role": "Scrat (voice)",
+      "url": "https://multimovies.city/cast/chris-wedge/",
+      "image": "https://image.tmdb.org/t/p/w92/bYiy2vcXgJq5XZdZ15uIhBhnBF8.jpg"
+    },
+    {
+      "name": "Karen Disher",
+      "role": "Scratte (voice)",
+      "url": "https://multimovies.city/cast/karen-disher/",
+      "image": "https://image.tmdb.org/t/p/w92/p60sCN6m5aKO8OLCrmWfPFurt6y.jpg"
+    },
+    {
+      "name": "Kristen Wiig",
+      "role": "Pudgy Beaver Mom (voice)",
+      "url": "https://multimovies.city/cast/kristen-wiig/",
+      "image": "https://image.tmdb.org/t/p/w92/43lFW3Ed6tNaVMsr9cwg0eP9n5n.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/gkxSIlZPEwGPimQ8TEE8C52cOSO.jpg",
+    "https://image.tmdb.org/t/p/w300/p4uh8lqaPPD5dBfoQa6k44gRrnG.jpg",
+    "https://image.tmdb.org/t/p/w300/AktYTvSvPhhVh90sv8WNT8qAH0E.jpg",
+    "https://image.tmdb.org/t/p/w300/7xJmKFNlrceXRrZtI3wxdtggT61.jpg",
+    "https://image.tmdb.org/t/p/w300/hl1GYYvKM9I7nKXabpHtQY19qTA.jpg",
+    "https://image.tmdb.org/t/p/w300/vJL6eqGptZdd6Oo2vzbK4HEwOK4.jpg",
+    "https://image.tmdb.org/t/p/w300/ij98GaizzOMKfNSJ4dwSNlpY9OS.jpg",
+    "https://image.tmdb.org/t/p/w300/6Ybbh8TrO8bkEfQXDedekLwVDfA.jpg",
+    "https://image.tmdb.org/t/p/w300/qavPWsB0Q58MmxUEHbScmNOnYvC.jpg",
+    "https://image.tmdb.org/t/p/w300/6XF1Y78v0BFwLX6vloaJw38fGCk.jpg"
+  ],
+  "similar": [],
+  "views": 7025,
+  "sources": [
+    "https://www.youtube.com/embed/dP-xFvTIdNk?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/emyvei3jxs2j"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 34379,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 34379,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:28:58.430174"
+}
