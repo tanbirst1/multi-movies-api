@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-golden-compass/",
+  "meta": {
+    "title": "The Golden Compass",
+    "poster": "https://image.tmdb.org/t/p/w500/lyaS7S4emzEaYUcSnCvyqfJpOcA.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 04, 2007",
+    "ratingValue": "7",
+    "ratingCount": "3",
+    "synopsis": "After overhearing a shocking secret, precocious orphan Lyra Belacqua trades her carefree existence roaming the halls of Jordan College for an otherworldly adventure in the far North, unaware that it\u2019s part of her destiny.",
+    "infoFields": {
+      "Original title": "The Golden Compass",
+      "IMDb Rating": "6.1 195,930 votes",
+      "TMDb Rating": "6.059 4,340 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Chris Weitz",
+      "role": "Director",
+      "url": "https://multimovies.city/director/chris-weitz/",
+      "image": "https://image.tmdb.org/t/p/w92/4HONbwCefKNKBXafRRjXZN00wJE.jpg"
+    },
+    {
+      "name": "Nicole Kidman",
+      "role": "Marisa Coulter",
+      "url": "https://multimovies.city/cast/nicole-kidman/",
+      "image": "https://image.tmdb.org/t/p/w92/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+    },
+    {
+      "name": "Daniel Craig",
+      "role": "Lord Asriel",
+      "url": "https://multimovies.city/cast/daniel-craig/",
+      "image": "https://image.tmdb.org/t/p/w92/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+    },
+    {
+      "name": "Dakota Blue Richards",
+      "role": "Lyra Belacqua",
+      "url": "https://multimovies.city/cast/dakota-blue-richards/",
+      "image": "https://image.tmdb.org/t/p/w92/qi8YwJb9IdApRiRJFNavwnGgfBU.jpg"
+    },
+    {
+      "name": "Ben Walker",
+      "role": "Roger Parslow",
+      "url": "https://multimovies.city/cast/ben-walker/",
+      "image": "https://image.tmdb.org/t/p/w92/u4eEdilSy1HMTFseGMY44kYAuRO.jpg"
+    },
+    {
+      "name": "Freddie Highmore",
+      "role": "Pantalaimon (voice)",
+      "url": "https://multimovies.city/cast/freddie-highmore/",
+      "image": "https://image.tmdb.org/t/p/w92/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+    },
+    {
+      "name": "Ian McKellen",
+      "role": "Iorek Byrnison (voice)",
+      "url": "https://multimovies.city/cast/ian-mckellen/",
+      "image": "https://image.tmdb.org/t/p/w92/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "name": "Eva Green",
+      "role": "Serafina Pekkala",
+      "url": "https://multimovies.city/cast/eva-green/",
+      "image": "https://image.tmdb.org/t/p/w92/vwjOWfUeDk5fQr8jraKlR1Yfxxq.jpg"
+    },
+    {
+      "name": "Jim Carter",
+      "role": "John Faa",
+      "url": "https://multimovies.city/cast/jim-carter/",
+      "image": "https://image.tmdb.org/t/p/w92/okiL3gc0mNqP0kPfMQHHvFjKnHb.jpg"
+    },
+    {
+      "name": "Tom Courtenay",
+      "role": "Farder Coram",
+      "url": "https://multimovies.city/cast/tom-courtenay/",
+      "image": "https://image.tmdb.org/t/p/w92/qdWWbANnljRUSj56r5BZiD760oi.jpg"
+    },
+    {
+      "name": "Ian McShane",
+      "role": "Ragnar Sturlusson (voice)",
+      "url": "https://multimovies.city/cast/ian-mcshane/",
+      "image": "https://image.tmdb.org/t/p/w92/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qifYc5jT4CZxmLH9DfOlipioSPp.jpg",
+    "https://image.tmdb.org/t/p/w300/szAuHzSVFzamjCkkulopJZQVNYd.jpg",
+    "https://image.tmdb.org/t/p/w300/7nNtgyHMiN0zirwUMqsIQNYxPk8.jpg",
+    "https://image.tmdb.org/t/p/w300/aZQIZ5VdY4I1K6yAB3QFV01JOQu.jpg",
+    "https://image.tmdb.org/t/p/w300/kVB84FtEQFbIVbjRenCUSkIxqNH.jpg",
+    "https://image.tmdb.org/t/p/w300/oPcTrQwc4e1WsrX5a3YQ8Llgk2w.jpg"
+  ],
+  "similar": [],
+  "views": 3448,
+  "sources": [
+    "https://www.youtube.com/embed/x7u-Ve9kBeQ?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/rh040j6ovl62"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 39934,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 39934,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:19:05.110454"
+}
