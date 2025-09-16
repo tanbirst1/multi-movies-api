@@ -4,15 +4,98 @@
   "meta": {
     "title": "Shinchan: Bungle in the Jungle",
     "poster": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
-    "synopsis": "The Noharas go on an Action Mask-themed cruise, where all the grown-ups get kidnapped by a gang of monkeys. It\u2019s up to the kids to rescue them!"
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Shinchan Movies",
+        "url": "https://multimovies.city/genre/shinchan-movies/"
+      }
+    ],
+    "firstAirDate": "Apr. 22, 2000",
+    "ratingValue": "9.2",
+    "ratingCount": "9",
+    "synopsis": "The Noharas go on an Action Mask-themed cruise, where all the grown-ups get kidnapped by a gang of monkeys. It\u2019s up to the kids to rescue them!",
+    "infoFields": {
+      "Original title": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093 \u5d50\u3092\u547c\u3076\u30b8\u30e3\u30f3\u30b0\u30eb",
+      "TMDb Rating": "7.8 37 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Keiichi Hara",
+      "role": "Director",
+      "url": "https://multimovies.city/director/keiichi-hara/",
+      "image": "https://image.tmdb.org/t/p/w92/8ormRfEq9wIpxVOGNrbPWw9DD81.jpg"
+    },
+    {
+      "name": "Akiko Yajima",
+      "role": "Shinnosuke Nohara (voice)",
+      "url": "https://multimovies.city/cast/akiko-yajima/",
+      "image": "https://image.tmdb.org/t/p/w92/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
+    },
+    {
+      "name": "Miki Narahashi",
+      "role": "Misae Nohara (voice)",
+      "url": "https://multimovies.city/cast/miki-narahashi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Keiji Fujiwara",
+      "role": "Hiroshi Nohara (voice)",
+      "url": "https://multimovies.city/cast/keiji-fujiwara/",
+      "image": "https://image.tmdb.org/t/p/w92/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+    },
+    {
+      "name": "Satomi Korogi",
+      "role": "Himawari Nohara (voice)",
+      "url": "https://multimovies.city/cast/satomi-korogi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Mari Mashiba",
+      "role": "Toru Kazama / Shiro",
+      "url": "https://multimovies.city/cast/mari-mashiba/",
+      "image": "https://image.tmdb.org/t/p/w92/RlkauVMbIofwYvwM9j5Hbb6SyJ.jpg"
+    },
+    {
+      "name": "Tessyo Genda",
+      "role": "Action Kamen / Gotaro Go",
+      "url": "https://multimovies.city/cast/tessyo-genda/",
+      "image": "https://image.tmdb.org/t/p/w92/7eJeYv2OCHKAadeFVdabVkpWldo.jpg"
+    },
+    {
+      "name": "Akio Otsuka",
+      "role": "Paradise King",
+      "url": "https://multimovies.city/cast/akio-otsuka/",
+      "image": "https://image.tmdb.org/t/p/w92/fBgebh93VAJC9lIVdB8JmFtdixL.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/tmj4cc8LKfAwxnF32M6fQk67tkK.jpg",
+    "https://image.tmdb.org/t/p/w300/qY2xR8n9kzv68635tfWOAK0flkM.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 7678,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/o9aevsd"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11074,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:28:39.364567"
 }
