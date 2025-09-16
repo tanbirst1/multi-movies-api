@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/death-bell/",
+  "meta": {
+    "title": "Death Bell",
+    "poster": "https://image.tmdb.org/t/p/w500/bsbA0UeJNmmhcBwTRRfcCH23fEt.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Aug. 06, 2008",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "In a prep-class for year-end exams, a sadistic killer puts the students through mind-games in order to save each other.",
+    "infoFields": {
+      "Original title": "\uace0\uc0ac: \ud53c\uc758 \uc911\uac04\uace0\uc0ac",
+      "IMDb Rating": "5.5 3,355 votes",
+      "TMDb Rating": "6.175 174 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Chang",
+      "role": "Director",
+      "url": "https://multimovies.city/director/chang/",
+      "image": "https://image.tmdb.org/t/p/w92/qpDWF7CbxINLegEsh6p937UuU34.jpg"
+    },
+    {
+      "name": "Lee Beom-soo",
+      "role": "Hwang Chang-wook",
+      "url": "https://multimovies.city/cast/lee-beom-soo/",
+      "image": "https://image.tmdb.org/t/p/w92/9CSDpnR1gjbulTQdusJMiGc59Ff.jpg"
+    },
+    {
+      "name": "Yoon Jung-hee",
+      "role": "Choi So-yeong",
+      "url": "https://multimovies.city/cast/yoon-jung-hee/",
+      "image": "https://image.tmdb.org/t/p/w92/cWKhrRtOKRmtpG9jNCW5BViS960.jpg"
+    },
+    {
+      "name": "Nam Gyu-ri",
+      "role": "Kang Yi-na",
+      "url": "https://multimovies.city/cast/nam-gyu-ri/",
+      "image": "https://image.tmdb.org/t/p/w92/d7evHRksIa0ohUHfsSPJibOcHfJ.jpg"
+    },
+    {
+      "name": "Kim Bum",
+      "role": "Kang Hyeon",
+      "url": "https://multimovies.city/cast/kim-bum/",
+      "image": "https://image.tmdb.org/t/p/w92/y45fczoIWymQSeMCqdBiMEEmM3A.jpg"
+    },
+    {
+      "name": "Son Yeo-eun",
+      "role": "Yoon Myung-hyo",
+      "url": "https://multimovies.city/cast/son-yeo-eun/",
+      "image": "https://image.tmdb.org/t/p/w92/icxTiLf5KXP7lPk57VlR6iRn3O8.jpg"
+    },
+    {
+      "name": "Lee Eol",
+      "role": "Security guard",
+      "url": "https://multimovies.city/cast/lee-eol/",
+      "image": "https://image.tmdb.org/t/p/w92/aNevJZy1JU2D5Wo6BuLVN1GAjnD.jpg"
+    },
+    {
+      "name": "Kim So-hee",
+      "role": "Ji-won's mother",
+      "url": "https://multimovies.city/cast/kim-so-hee/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Gong Jeong-hwan",
+      "role": "Lee Chi-yeong",
+      "url": "https://multimovies.city/cast/gong-jeong-hwan/",
+      "image": "https://image.tmdb.org/t/p/w92/v4O5Ua8MDKO6UFnz3TWuzA0ujrX.jpg"
+    },
+    {
+      "name": "Ham Eun-jeong",
+      "role": "Kim Ji-won",
+      "url": "https://multimovies.city/cast/ham-eun-jeong/",
+      "image": "https://image.tmdb.org/t/p/w92/5sra4rsKJknm3ov7NG94PCd1ciC.jpg"
+    },
+    {
+      "name": "Yang Ji-won",
+      "role": "Min Hye-yeong",
+      "url": "https://multimovies.city/cast/yang-ji-won/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hh1jCaF9XTEMVngiv5feUVvzGnU.jpg",
+    "https://image.tmdb.org/t/p/w300/2u72uTiSpdJg6YvF38tKvvAdm85.jpg"
+  ],
+  "similar": [],
+  "views": 4381,
+  "sources": [
+    "https://www.youtube.com/embed/ycKjbRXMIQ4?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/n0l0w63"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 23573,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 23573,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:25:06.686946"
+}
