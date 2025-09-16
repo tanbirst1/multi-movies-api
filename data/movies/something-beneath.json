@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/something-beneath/",
+  "meta": {
+    "title": "Something Beneath",
+    "poster": "https://image.tmdb.org/t/p/w500/qIRVCiuXOGNT90BPbNy8XTJCDXz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "TV Movie",
+        "url": "https://multimovies.city/genre/tv-movie/"
+      }
+    ],
+    "firstAirDate": "Oct. 21, 2007",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "When a mysterious black slime oozes up from the plumbing to infiltrate a new conference center, it causes attendees at an environmental convention who come in contact with it to have horrific hallucinations and nightmarish visions of past tragedies. Environmentalist priest Father Douglas Middleton must team up with conference coordinator Khali Spence to stop the slime \u2014 or die trying.",
+    "infoFields": {
+      "Original title": "Something Beneath",
+      "IMDb Rating": "3.6 991 votes",
+      "TMDb Rating": "3.792 25 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Winning",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-winning/",
+      "image": "https://image.tmdb.org/t/p/w92/pQXcLaJ05OVmQuK5uM6Uqeuk1Ce.jpg"
+    },
+    {
+      "name": "Kevin Sorbo",
+      "role": "Father Douglas Middleton",
+      "url": "https://multimovies.city/cast/kevin-sorbo/",
+      "image": "https://image.tmdb.org/t/p/w92/a6rDi3tkNJwaVoP7VGbdGelwtYw.jpg"
+    },
+    {
+      "name": "Peter MacNeill",
+      "role": "Deadmarsh",
+      "url": "https://multimovies.city/cast/peter-macneill/",
+      "image": "https://image.tmdb.org/t/p/w92/9Y2O97Awq5BUH3qfWL3EUveurqI.jpg"
+    },
+    {
+      "name": "Natalie Brown",
+      "role": "Khali Spence",
+      "url": "https://multimovies.city/cast/natalie-brown/",
+      "image": "https://image.tmdb.org/t/p/w92/2q0LPb7pTGAADUD2UJDtudCwPX5.jpg"
+    },
+    {
+      "name": "Brendan Beiser",
+      "role": "Dr. Connolly",
+      "url": "https://multimovies.city/cast/brendan-beiser/",
+      "image": "https://image.tmdb.org/t/p/w92/ynb8oRYud4N15KQXxXTe3sOxwgK.jpg"
+    },
+    {
+      "name": "Frank Adamson",
+      "role": "Lowell Kent",
+      "url": "https://multimovies.city/cast/frank-adamson/",
+      "image": "https://image.tmdb.org/t/p/w92/q3HTkD1EDgs5MOJz6AMXnebhsNC.jpg"
+    },
+    {
+      "name": "Gordon Tanner",
+      "role": "Symes",
+      "url": "https://multimovies.city/cast/gordon-tanner/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Brittany Scobie",
+      "role": "Mikaela Strovsky",
+      "url": "https://multimovies.city/cast/brittany-scobie/",
+      "image": "https://image.tmdb.org/t/p/w92/elxhyDKdzbPQB5mu6LOfp5r5BP2.jpg"
+    },
+    {
+      "name": "Brett Donahue",
+      "role": "Tony",
+      "url": "https://multimovies.city/cast/brett-donahue/",
+      "image": "https://image.tmdb.org/t/p/w92/i6IlT8BNpG21Hd44bQ8aiEH0slU.jpg"
+    },
+    {
+      "name": "Paige Bannister",
+      "role": "Aimee",
+      "url": "https://multimovies.city/cast/paige-bannister/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Tom Keenan",
+      "role": "Hank",
+      "url": "https://multimovies.city/cast/tom-keenan/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5UG9aCr6ajWo1ZXVndyak0q2IdK.jpg"
+  ],
+  "similar": [],
+  "views": 1466,
+  "sources": [
+    "https://www.youtube.com/embed/PM-ptSI4cBk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/qqbb3mz"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 65743,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 65743,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:14:31.885144"
+}
