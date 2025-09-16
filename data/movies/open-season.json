@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/open-season/",
+  "meta": {
+    "title": "Open Season",
+    "poster": "https://image.tmdb.org/t/p/w500/w5Lctmkc1yah215Luxmci4djaiW.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Sep. 27, 2006",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Boog, a domesticated 900lb. Grizzly bear finds himself stranded in the woods 3 days before Open Season. Forced to rely on Elliot, a fast-talking mule deer, the two form an unlikely friendship and must quickly rally other forest animals if they are to form a rag-tag army against the hunters.",
+    "infoFields": {
+      "Original title": "Open Season",
+      "IMDb Rating": "6.1 106,505 votes",
+      "TMDb Rating": "6.154 2,671 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Roger Allers",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roger-allers/",
+      "image": "https://image.tmdb.org/t/p/w92/sdFyM5FNcJuMv7knrz6swaIHXIJ.jpg"
+    },
+    {
+      "name": "Martin Lawrence",
+      "role": "Boog (voice)",
+      "url": "https://multimovies.city/cast/martin-lawrence/",
+      "image": "https://image.tmdb.org/t/p/w92/kE78jD0UC3PvJvPlqbbHLuUUVr5.jpg"
+    },
+    {
+      "name": "Ashton Kutcher",
+      "role": "Elliot (voice)",
+      "url": "https://multimovies.city/cast/ashton-kutcher/",
+      "image": "https://image.tmdb.org/t/p/w92/1Z6neFIA9ES80f0EbdsZ3UumjYV.jpg"
+    },
+    {
+      "name": "Gary Sinise",
+      "role": "Shaw (voice)",
+      "url": "https://multimovies.city/cast/gary-sinise/",
+      "image": "https://image.tmdb.org/t/p/w92/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+    },
+    {
+      "name": "Debra Messing",
+      "role": "Beth (voice)",
+      "url": "https://multimovies.city/cast/debra-messing/",
+      "image": "https://image.tmdb.org/t/p/w92/7YmWcP0VmO1AIoviqXoREMbjQ2V.jpg"
+    },
+    {
+      "name": "Billy Connolly",
+      "role": "McSquizzy (voice)",
+      "url": "https://multimovies.city/cast/billy-connolly/",
+      "image": "https://image.tmdb.org/t/p/w92/imqsEA1EPet7OvHx80VfTYfFcWf.jpg"
+    },
+    {
+      "name": "Georgia Engel",
+      "role": "Bobbie (voice)",
+      "url": "https://multimovies.city/cast/georgia-engel/",
+      "image": "https://image.tmdb.org/t/p/w92/r3IvaTUWvjGduj4ifikrzEOrKOM.jpg"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "Reilly (voice)",
+      "url": "https://multimovies.city/cast/jon-favreau/",
+      "image": "https://image.tmdb.org/t/p/w92/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+      "name": "Jane Krakowski",
+      "role": "Giselle (voice)",
+      "url": "https://multimovies.city/cast/jane-krakowski/",
+      "image": "https://image.tmdb.org/t/p/w92/hT9IGSgsE8VoWllOTtxR9JAoiK.jpg"
+    },
+    {
+      "name": "Gordon Tootoosis",
+      "role": "Gordy (voice)",
+      "url": "https://multimovies.city/cast/gordon-tootoosis/",
+      "image": "https://image.tmdb.org/t/p/w92/ls9gOUs7nSZyutuL5MULC1PZftN.jpg"
+    },
+    {
+      "name": "Patrick Warburton",
+      "role": "Ian (voice)",
+      "url": "https://multimovies.city/cast/patrick-warburton/",
+      "image": "https://image.tmdb.org/t/p/w92/eLqDtbFYmlTxov9vT9Dwldn839v.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nnMXaofDjdWszZ7rbN9hKwK2PNg.jpg",
+    "https://image.tmdb.org/t/p/w300/wttDKH1WRXGpebDVzrqnVSdh15u.jpg",
+    "https://image.tmdb.org/t/p/w300/iJSo91B76YlEb9iqmfy3iVL7Bzb.jpg",
+    "https://image.tmdb.org/t/p/w300/aso6CWBZLyVnumWjkpbEmfsZMHH.jpg",
+    "https://image.tmdb.org/t/p/w300/6ZAKRBpQeMUfYYRIjgceUpROTMJ.jpg",
+    "https://image.tmdb.org/t/p/w300/zqLj7h78uD1C1ArSRgHHLd3cK7q.jpg",
+    "https://image.tmdb.org/t/p/w300/88xZIsv5PwGt3bKysuSktuCKJJZ.jpg",
+    "https://image.tmdb.org/t/p/w300/mRCqx6aY1HalfjK6jHWsnIngSKU.jpg",
+    "https://image.tmdb.org/t/p/w300/eKGB3NyzP8DFeoJPCmQD5uoyAz4.jpg",
+    "https://image.tmdb.org/t/p/w300/xaUJg9diBSntbXZCmYxqbmXKIew.jpg"
+  ],
+  "similar": [],
+  "views": 686,
+  "sources": [
+    "https://www.youtube.com/embed/y4x6xADsOX8?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/35parv92fnb8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 55938,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 55938,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:08:30.652807"
+}
