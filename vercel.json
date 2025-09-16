@@ -9,8 +9,5 @@
     { "src": "/api/tv", "dest": "/api/tv.js" },
     { "src": "/api/page", "dest": "/api/page.js" },
     { "src": "/api/(.*)", "dest": "/api/$1.js" }
-  ],
-  "ignoreFiles": [
-    "data/*"
   ]
 }
