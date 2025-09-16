@@ -4,15 +4,126 @@
   "meta": {
     "title": "America\u2019s Sweethearts",
     "poster": "https://image.tmdb.org/t/p/w500/4TQOYs8rCWi44O1tNbIQiRqHQkA.jpg",
-    "synopsis": "In the midst of a nasty public breakup of married movie stars, a studio publicist scrambles to put a cap on the escalating situation as the couple\u2019s latest film has found it\u2019s only print kidnapped by the director."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jul. 17, 2001",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "In the midst of a nasty public breakup of married movie stars, a studio publicist scrambles to put a cap on the escalating situation as the couple\u2019s latest film has found it\u2019s only print kidnapped by the director.",
+    "infoFields": {
+      "Original title": "America's Sweethearts",
+      "IMDb Rating": "5.7 59,087 votes",
+      "TMDb Rating": "5.693 737 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Joe Roth",
+      "role": "Director",
+      "url": "https://multimovies.city/director/joe-roth/",
+      "image": "https://image.tmdb.org/t/p/w92/lUtmB3mtMPrA5hhoEwZBeX1U5uL.jpg"
+    },
+    {
+      "name": "Julia Roberts",
+      "role": "Kathleen \"Kiki\" Harrison",
+      "url": "https://multimovies.city/cast/julia-roberts/",
+      "image": "https://image.tmdb.org/t/p/w92/AhQMyQ10kz5g8Y3Fp54GPhgDxQS.jpg"
+    },
+    {
+      "name": "John Cusack",
+      "role": "Eddie Thomas",
+      "url": "https://multimovies.city/cast/john-cusack/",
+      "image": "https://image.tmdb.org/t/p/w92/9fxd4aCDeL9PjOyx7jqlgzFbmiM.jpg"
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "role": "Gwen Harrison",
+      "url": "https://multimovies.city/cast/catherine-zeta-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/9VE0zNIs11aD9BHCKiGAZEIE5c8.jpg"
+    },
+    {
+      "name": "Billy Crystal",
+      "role": "Lee Phillips",
+      "url": "https://multimovies.city/cast/billy-crystal/",
+      "image": "https://image.tmdb.org/t/p/w92/6QNyXn8NPQDEctSuDLgg5AHmsiR.jpg"
+    },
+    {
+      "name": "Hank Azaria",
+      "role": "Hector Gorgonzolas",
+      "url": "https://multimovies.city/cast/hank-azaria/",
+      "image": "https://image.tmdb.org/t/p/w92/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "name": "Stanley Tucci",
+      "role": "Dave Kingman",
+      "url": "https://multimovies.city/cast/stanley-tucci/",
+      "image": "https://image.tmdb.org/t/p/w92/sGDmeSRQUFZpGDt97CzmQMjE4CD.jpg"
+    },
+    {
+      "name": "Christopher Walken",
+      "role": "Hal Weidmann",
+      "url": "https://multimovies.city/cast/christopher-walken/",
+      "image": "https://image.tmdb.org/t/p/w92/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "name": "Alan Arkin",
+      "role": "Wellness Guide",
+      "url": "https://multimovies.city/cast/alan-arkin/",
+      "image": "https://image.tmdb.org/t/p/w92/lTMMpkqL0G3WeFNfbtdP5COZEiX.jpg"
+    },
+    {
+      "name": "Seth Green",
+      "role": "Danny Wax",
+      "url": "https://multimovies.city/cast/seth-green/",
+      "image": "https://image.tmdb.org/t/p/w92/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+    },
+    {
+      "name": "Rainn Wilson",
+      "role": "Dave O'Hanlon",
+      "url": "https://multimovies.city/cast/rainn-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/rEDRAFYX5n2JKJh9EKILX42klA5.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zgkxHhvbZ8Q2j4cjrHgmwdCeGgt.jpg",
+    "https://image.tmdb.org/t/p/w300/a0tfZkBoPKwJoDvozBY6yPhFBjJ.jpg",
+    "https://image.tmdb.org/t/p/w300/wFIg3BjUPwI58XMeouDEHtQYUDW.jpg",
+    "https://image.tmdb.org/t/p/w300/rKxi0tF9PDptuP832fSrANLZr7k.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 496,
+  "sources": [
+    "https://www.youtube.com/embed/nE1ONQjgqqg?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/m813fmpbjurv"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 24824,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 24824,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:28:54.824154"
 }
