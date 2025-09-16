@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-lion-king-1\u00bd/",
+  "meta": {
+    "title": "The Lion King 3",
+    "poster": "https://image.tmdb.org/t/p/w500/sVJME5R1NmTXtbdnAxYPx7Xa7kr.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Feb. 06, 2004",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Timon the meerkat and Pumbaa the warthog are best pals and the unsung heroes of the African savanna. This prequel to the smash Disney animated adventure takes you back \u2014 way back \u2014 before Simba\u2019s adventure began. You\u2019ll find out all about Timon and Pumbaa and tag along as they search for the perfect home and attempt to raise a rambunctious lion cub.",
+    "infoFields": {
+      "Original title": "The Lion King 1\u00bd",
+      "IMDb Rating": "6.5 43,265 votes",
+      "TMDb Rating": "6.57 2,700 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Bradley Raymond",
+      "role": "Director",
+      "url": "https://multimovies.city/director/bradley-raymond/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Nathan Lane",
+      "role": "Timon (voice)",
+      "url": "https://multimovies.city/cast/nathan-lane/",
+      "image": "https://image.tmdb.org/t/p/w92/nEYS0KO1qVO3y0RAt8V8pFxnPb7.jpg"
+    },
+    {
+      "name": "Ernie Sabella",
+      "role": "Pumbaa (voice)",
+      "url": "https://multimovies.city/cast/ernie-sabella/",
+      "image": "https://image.tmdb.org/t/p/w92/dBit6gkZfxXqdxO0Ic8CsnLpxyQ.jpg"
+    },
+    {
+      "name": "Julie Kavner",
+      "role": "Mom (voice)",
+      "url": "https://multimovies.city/cast/julie-kavner/",
+      "image": "https://image.tmdb.org/t/p/w92/qXZXmvqQauL7TDVKj9yJzkxIxjF.jpg"
+    },
+    {
+      "name": "Jerry Stiller",
+      "role": "Uncle Max (voice)",
+      "url": "https://multimovies.city/cast/jerry-stiller/",
+      "image": "https://image.tmdb.org/t/p/w92/eGymLHTpIyxKyBjACsNTpEof6y4.jpg"
+    },
+    {
+      "name": "Matthew Broderick",
+      "role": "Simba (voice)",
+      "url": "https://multimovies.city/cast/matthew-broderick/",
+      "image": "https://image.tmdb.org/t/p/w92/2Pq8pwOX5ZFfT2p5pNLGfvUi9Pp.jpg"
+    },
+    {
+      "name": "Robert Guillaume",
+      "role": "Rafiki (voice)",
+      "url": "https://multimovies.city/cast/robert-guillaume/",
+      "image": "https://image.tmdb.org/t/p/w92/prqxpeFeyyarRxxfaMHrqCKVyhV.jpg"
+    },
+    {
+      "name": "Moira Kelly",
+      "role": "Nala (voice)",
+      "url": "https://multimovies.city/cast/moira-kelly/",
+      "image": "https://image.tmdb.org/t/p/w92/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg"
+    },
+    {
+      "name": "Whoopi Goldberg",
+      "role": "Shenzi (voice)",
+      "url": "https://multimovies.city/cast/whoopi-goldberg/",
+      "image": "https://image.tmdb.org/t/p/w92/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "name": "Cheech Marin",
+      "role": "Banzai (voice)",
+      "url": "https://multimovies.city/cast/cheech-marin/",
+      "image": "https://image.tmdb.org/t/p/w92/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+    },
+    {
+      "name": "Jim Cummings",
+      "role": "Ed (voice)",
+      "url": "https://multimovies.city/cast/jim-cummings/",
+      "image": "https://image.tmdb.org/t/p/w92/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hAOfzKLvxQcewp2OrEVajLrNhR0.jpg",
+    "https://image.tmdb.org/t/p/w300/f1sMxvlhn93lh6I8DrCW819XrM0.jpg",
+    "https://image.tmdb.org/t/p/w300/ef7orMdkEIjjhH3lzT2f7z44rUm.jpg",
+    "https://image.tmdb.org/t/p/w300/o7qDg4r7bbEBw2QXswQavy3ZSEc.jpg",
+    "https://image.tmdb.org/t/p/w300/3eQnD9CIUerbXbgtFE1zJNvEVVo.jpg",
+    "https://image.tmdb.org/t/p/w300/lGqb26S9iwSFvk0zeKan22pWWbN.jpg",
+    "https://image.tmdb.org/t/p/w300/6Pz2cHt8thweSSLZfo2ohpwRfxI.jpg",
+    "https://image.tmdb.org/t/p/w300/tdMK9h3krEVd0Imd9cl3Cb3EB7c.jpg",
+    "https://image.tmdb.org/t/p/w300/r9Cb9krPVuLpVfQPauQGyG9mYWV.jpg",
+    "https://image.tmdb.org/t/p/w300/keBlovCNY4DmJAbw9tnJSABdQhU.jpg"
+  ],
+  "similar": [],
+  "views": 1989,
+  "sources": [
+    "https://www.youtube.com/embed/I7UCIHiR91U?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/eo2m1k43d4tu"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5834,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5834,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:44:42.346125"
+}
