@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/student-services/",
+  "meta": {
+    "title": "Student Services",
+    "poster": "https://image.tmdb.org/t/p/w500/vSpMWP1iX2KeRyIcHV3nINeBxlQ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jan. 18, 2010",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Nineteen-year-old Laura is stressed by her first year at college when money worries distract her from her studies and so, desperate for cash, she answers an online advertisement for intimate companionship that leads her down a dangerous path.",
+    "infoFields": {
+      "Original title": "Mes ch\u00e8res \u00e9tudes",
+      "IMDb Rating": "6 3,437 votes",
+      "TMDb Rating": "5.2 124 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Emmanuelle Bercot",
+      "role": "Director",
+      "url": "https://multimovies.city/director/emmanuelle-bercot/",
+      "image": "https://image.tmdb.org/t/p/w92/uSoHKyFGWBKvktN9arpvevO4LiY.jpg"
+    },
+    {
+      "name": "D\u00e9borah Fran\u00e7ois",
+      "role": "Laura",
+      "url": "https://multimovies.city/cast/deborah-francois/",
+      "image": "https://image.tmdb.org/t/p/w92/6eDjVmPDRDCN6B25pt0h1fNSj9o.jpg"
+    },
+    {
+      "name": "Mathieu Demy",
+      "role": "Benjamin",
+      "url": "https://multimovies.city/cast/mathieu-demy/",
+      "image": "https://image.tmdb.org/t/p/w92/bnaoxj7P2LzpEzqy1RPFlQUuPCK.jpg"
+    },
+    {
+      "name": "Alain Cauchi",
+      "role": "Joe",
+      "url": "https://multimovies.city/cast/alain-cauchi/",
+      "image": "https://image.tmdb.org/t/p/w92/iFyWP5nXyh99Y6Llx53PeyeKPDY.jpg"
+    },
+    {
+      "name": "Benjamin Siksou",
+      "role": "Manu",
+      "url": "https://multimovies.city/cast/benjamin-siksou/",
+      "image": "https://image.tmdb.org/t/p/w92/2m7UJJj5V8865ZLrWSk4bNgfVX4.jpg"
+    },
+    {
+      "name": "Anna Sigalevitch",
+      "role": "Fanny",
+      "url": "https://multimovies.city/cast/anna-sigalevitch/",
+      "image": "https://image.tmdb.org/t/p/w92/d3UmGfh5xW8DINohQDnCuNcmZjZ.jpg"
+    },
+    {
+      "name": "Joseph Braconnier",
+      "role": "Parking customer",
+      "url": "https://multimovies.city/cast/joseph-braconnier/",
+      "image": "https://image.tmdb.org/t/p/w92/dGPIKpisWT6c4UWzv2trzENJqSc.jpg"
+    },
+    {
+      "name": "Marc Chapiteau",
+      "role": "Photograph",
+      "url": "https://multimovies.city/cast/marc-chapiteau/",
+      "image": "https://image.tmdb.org/t/p/w92/hBVHr44J9D6V0HVjlTBSaUACoj0.jpg"
+    },
+    {
+      "name": "Pascal Bongard",
+      "role": "G\u00e9rard",
+      "url": "https://multimovies.city/cast/pascal-bongard/",
+      "image": "https://image.tmdb.org/t/p/w92/bZXt06EFZQQxqdS8ZirC5Y6Oef0.jpg"
+    },
+    {
+      "name": "Lou Bohringer",
+      "role": "Lou",
+      "url": "https://multimovies.city/cast/lou-bohringer/",
+      "image": "https://image.tmdb.org/t/p/w92/74J3w97OLcBgAhABWIuQzYR8O32.jpg"
+    },
+    {
+      "name": "\u00c9dith Le Merdy",
+      "role": "Social worker",
+      "url": "https://multimovies.city/cast/edith-le-merdy/",
+      "image": "https://image.tmdb.org/t/p/w92/nJfnwRJfJs904t5m2x7uJSm8oGj.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kL1V6LpdI1nozZaqGbt8FvDzdTC.jpg",
+    "https://image.tmdb.org/t/p/w300/yB0EpTrc2X4lF4LK9JGcJXQshZq.jpg",
+    "https://image.tmdb.org/t/p/w300/nUkS9iP5RDAv1Tpy2JEw6LcHScu.jpg",
+    "https://image.tmdb.org/t/p/w300/6uy5JvhoZpKMHEhRP7LZOxh5tK8.jpg",
+    "https://image.tmdb.org/t/p/w300/kuNjvrg9UsAIvpcMt0zKgdlEk76.jpg",
+    "https://image.tmdb.org/t/p/w300/85lYJjA8Agi6EdZtuAZeZncYryw.jpg",
+    "https://image.tmdb.org/t/p/w300/1RRlAWGBUSqqmRoxNnP5oHM0UD1.jpg",
+    "https://image.tmdb.org/t/p/w300/dCAKIQcCUGgOJ41pPax7kYwfpRd.jpg",
+    "https://image.tmdb.org/t/p/w300/4Abf9HWqLFbtbw8b7zsP10f5z3q.jpg",
+    "https://image.tmdb.org/t/p/w300/odm3gOLDnBSpHEnmIElDzGYTQPF.jpg"
+  ],
+  "similar": [],
+  "views": 5822,
+  "sources": [
+    "https://www.youtube.com/embed/9RZTWgCBxlY?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/f3kaowz"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 75890,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 75890,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:38:22.075618"
+}
