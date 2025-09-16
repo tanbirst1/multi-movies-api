@@ -4,15 +4,140 @@
   "meta": {
     "title": "The Count of Monte Cristo",
     "poster": "https://image.tmdb.org/t/p/w500/ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg",
-    "synopsis": "Edmond Dant\u00e9s\u2019s life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dant\u00e9s escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "History",
+        "url": "https://multimovies.city/genre/history/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jan. 23, 2002",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Edmond Dant\u00e9s\u2019s life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dant\u00e9s escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.",
+    "infoFields": {
+      "Original title": "The Count of Monte Cristo",
+      "IMDb Rating": "7.7 155,939 votes",
+      "TMDb Rating": "7.675 1,880 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Kevin Reynolds",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kevin-reynolds/",
+      "image": "https://image.tmdb.org/t/p/w92/nLFx6wt9DVeYjTv2abGdY09ALsm.jpg"
+    },
+    {
+      "name": "Jim Caviezel",
+      "role": "Edmond Dantes",
+      "url": "https://multimovies.city/cast/jim-caviezel/",
+      "image": "https://image.tmdb.org/t/p/w92/3dwavYsGYA6zzzipfdLIHbudIZW.jpg"
+    },
+    {
+      "name": "Guy Pearce",
+      "role": "Fernand Mondego",
+      "url": "https://multimovies.city/cast/guy-pearce/",
+      "image": "https://image.tmdb.org/t/p/w92/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+    },
+    {
+      "name": "Richard Harris",
+      "role": "Abb\u00e9 Faria",
+      "url": "https://multimovies.city/cast/richard-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+    },
+    {
+      "name": "James Frain",
+      "role": "J.F. Villefort",
+      "url": "https://multimovies.city/cast/james-frain/",
+      "image": "https://image.tmdb.org/t/p/w92/1KnxsxRbVZkh5bdY3gA8v4YKhKR.jpg"
+    },
+    {
+      "name": "Dagmara Dominczyk",
+      "role": "Mercedes Iguanada",
+      "url": "https://multimovies.city/cast/dagmara-dominczyk/",
+      "image": "https://image.tmdb.org/t/p/w92/zoZ8cJNOgAsU1rxSbhhziSTOJbZ.jpg"
+    },
+    {
+      "name": "Michael Wincott",
+      "role": "Armand Dorleac",
+      "url": "https://multimovies.city/cast/michael-wincott/",
+      "image": "https://image.tmdb.org/t/p/w92/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
+    },
+    {
+      "name": "Luis Guzm\u00e1n",
+      "role": "Jacopo",
+      "url": "https://multimovies.city/cast/luis-guzman/",
+      "image": "https://image.tmdb.org/t/p/w92/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    },
+    {
+      "name": "Christopher Adamson",
+      "role": "Maurice",
+      "url": "https://multimovies.city/cast/christopher-adamson/",
+      "image": "https://image.tmdb.org/t/p/w92/anZJNTCnyeDzeWPnsArEKXfT7gc.jpg"
+    },
+    {
+      "name": "JB Blanc",
+      "role": "Luigi Vampa",
+      "url": "https://multimovies.city/cast/jb-blanc/",
+      "image": "https://image.tmdb.org/t/p/w92/fHLyXboPlBDo1aoAl085YqaPjO8.jpg"
+    },
+    {
+      "name": "Henry Cavill",
+      "role": "Albert Mondego",
+      "url": "https://multimovies.city/cast/henry-cavill/",
+      "image": "https://image.tmdb.org/t/p/w92/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/AmN8ozRE0AbMGgZhqBu4fUjZkRt.jpg",
+    "https://image.tmdb.org/t/p/w300/Htj4cXnhQNshE8Ce8sA6QVV3vf.jpg",
+    "https://image.tmdb.org/t/p/w300/1RZ0zcRYflpXKaC9LS7dR0lkG5B.jpg",
+    "https://image.tmdb.org/t/p/w300/x6HQp0lyyH16dqFcpXiV0zQlgl8.jpg",
+    "https://image.tmdb.org/t/p/w300/y0sXAOehV5zx1E64HBSyjDSZK22.jpg",
+    "https://image.tmdb.org/t/p/w300/cAMJVnb7XpUgkfFTpjeOF89mFPn.jpg",
+    "https://image.tmdb.org/t/p/w300/249cfd4MTAIx5Nvz5kdHCJY7Mzu.jpg",
+    "https://image.tmdb.org/t/p/w300/du55MrA4ODsVdtEdv39xSwwfGmQ.jpg",
+    "https://image.tmdb.org/t/p/w300/fQyVyysrSQmkIYE5UpaY2g9vI0Z.jpg",
+    "https://image.tmdb.org/t/p/w300/xbxKvEt9t2hEmGaWprzibjRocL0.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 348,
+  "sources": [
+    "https://www.youtube.com/embed/gzRSVl8UewM?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/psotcbf"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 97465,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 97465,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:31:25"
+  "last_update": "2025-09-16T17:35:02.916612"
 }
