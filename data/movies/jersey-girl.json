@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/jersey-girl/",
+  "meta": {
+    "title": "Jersey Girl",
+    "poster": "https://image.tmdb.org/t/p/w500/nMmMWoSooR6QmCjdT0AvZardof1.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Mar. 25, 2004",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Ollie Trinke is a young, suave music publicist who seems to have it all, with a new wife and a baby on the way. But life deals him a bum hand when he\u2019s suddenly faced with single fatherhood, a defunct career and having to move in with his father. To bounce back, it takes a new love and the courage instilled in him by his daughter.",
+    "infoFields": {
+      "Original title": "Jersey Girl",
+      "IMDb Rating": "6.2 72,519 votes",
+      "TMDb Rating": "6.179 1,054 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kevin Smith",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kevin-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/uxDQ0NTZMnOuAaPa0tQzMFV9dx4.jpg"
+    },
+    {
+      "name": "Ben Affleck",
+      "role": "Ollie Trinke",
+      "url": "https://multimovies.city/cast/ben-affleck/",
+      "image": "https://image.tmdb.org/t/p/w92/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "name": "Raquel Castro",
+      "role": "Gertie Trinke",
+      "url": "https://multimovies.city/cast/raquel-castro/",
+      "image": "https://image.tmdb.org/t/p/w92/cYCgqZp1GKLNrZqcewpxlmw0F3k.jpg"
+    },
+    {
+      "name": "Liv Tyler",
+      "role": "Maya",
+      "url": "https://multimovies.city/cast/liv-tyler/",
+      "image": "https://image.tmdb.org/t/p/w92/eQnuADVICaY40nl2ZseYvfkGQCc.jpg"
+    },
+    {
+      "name": "George Carlin",
+      "role": "Bart Trinke",
+      "url": "https://multimovies.city/cast/george-carlin/",
+      "image": "https://image.tmdb.org/t/p/w92/6YKQHJzml6XviUADpSC6kfF56W9.jpg"
+    },
+    {
+      "name": "Jason Biggs",
+      "role": "Arthur Brickman",
+      "url": "https://multimovies.city/cast/jason-biggs/",
+      "image": "https://image.tmdb.org/t/p/w92/3nRgOQylYbNuDiddtNoh8uWTz5P.jpg"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "role": "Gertrude Steiney",
+      "url": "https://multimovies.city/cast/jennifer-lopez/",
+      "image": "https://image.tmdb.org/t/p/w92/icNEXl1ziSvOKsnhtydi8BZppsY.jpg"
+    },
+    {
+      "name": "Stephen Root",
+      "role": "Greenie",
+      "url": "https://multimovies.city/cast/stephen-root/",
+      "image": "https://image.tmdb.org/t/p/w92/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "name": "Mike Starr",
+      "role": "Block",
+      "url": "https://multimovies.city/cast/mike-starr/",
+      "image": "https://image.tmdb.org/t/p/w92/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+    },
+    {
+      "name": "Will Smith",
+      "role": "Will Smith",
+      "url": "https://multimovies.city/cast/will-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+    },
+    {
+      "name": "Jennifer Schwalbach Smith",
+      "role": "Susan",
+      "url": "https://multimovies.city/cast/jennifer-schwalbach-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/iDLWAVErgp4elVvB2gR35wwcVDn.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zuxSfx7ZNzBsXE0f0lSGrfRB01e.jpg",
+    "https://image.tmdb.org/t/p/w300/cxY4REzU9y7HHy2zaSTX6Oy6umP.jpg",
+    "https://image.tmdb.org/t/p/w300/o56b5IEAhSs07zFhuq26KdoE8Ds.jpg",
+    "https://image.tmdb.org/t/p/w300/uvhDdtvnY4Y6P25qyt37EkWpNkY.jpg",
+    "https://image.tmdb.org/t/p/w300/5XQFoQi0TCEc4BHU2PwazkGB6qt.jpg",
+    "https://image.tmdb.org/t/p/w300/1XmSpDXUJ0YvYmiHri5fuPpykxs.jpg"
+  ],
+  "similar": [],
+  "views": 696,
+  "sources": [
+    "https://www.youtube.com/embed/CL04A-DrIEQ?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/r0n6dxe"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 77448,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 77448,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:49:19.267537"
+}
