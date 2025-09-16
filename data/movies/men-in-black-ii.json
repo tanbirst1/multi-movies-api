@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/men-in-black-ii/",
+  "meta": {
+    "title": "Men in Black 2",
+    "poster": "https://image.tmdb.org/t/p/w500/enA22EPyzc2WQ1VVyY7zxresQQr.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Men in Black",
+        "url": "https://multimovies.city/genre/men-in-black/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jul. 03, 2002",
+    "ratingValue": "9.9",
+    "ratingCount": "9",
+    "synopsis": "Kay and Jay reunite to provide our best, last and only line of defense against a sinister seductress who levels the toughest challenge yet to the MIB\u2019s untarnished mission statement \u2013 protecting Earth from the scum of the universe. It\u2019s been four years since the alien-seeking agents averted an intergalactic disaster of epic proportions. Now it\u2019s a race against the clock as Jay must convince Kay \u2013 who not only has absolutely no memory of his time spent with the MIB, but is also the only living person left with the expertise to save the galaxy \u2013 to reunite with the MIB before the earth submits to ultimate destruction.",
+    "infoFields": {
+      "Original title": "Men in Black II",
+      "IMDb Rating": "6.2 417,645 votes",
+      "TMDb Rating": "6.371 10,062 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Barry Sonnenfeld",
+      "role": "Director",
+      "url": "https://multimovies.city/director/barry-sonnenfeld/",
+      "image": "https://image.tmdb.org/t/p/w92/n6y6vaAFfSqsJodgkwTxAey4NoG.jpg"
+    },
+    {
+      "name": "Will Smith",
+      "role": "Jay",
+      "url": "https://multimovies.city/cast/will-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/6a6cl4ZNufJzrx5HZKWPU1BjjRF.jpg"
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "role": "Kay",
+      "url": "https://multimovies.city/cast/tommy-lee-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/dnfFKIRi4RL77Z84EMiDAuocMrO.jpg"
+    },
+    {
+      "name": "Lara Flynn Boyle",
+      "role": "Serleena",
+      "url": "https://multimovies.city/cast/lara-flynn-boyle/",
+      "image": "https://image.tmdb.org/t/p/w92/1eOd7t7acV4Rtk6Kj3EeceRJbLZ.jpg"
+    },
+    {
+      "name": "Rosario Dawson",
+      "role": "Laura Vasquez",
+      "url": "https://multimovies.city/cast/rosario-dawson/",
+      "image": "https://image.tmdb.org/t/p/w92/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg"
+    },
+    {
+      "name": "Johnny Knoxville",
+      "role": "Scrad / Charlie",
+      "url": "https://multimovies.city/cast/johnny-knoxville/",
+      "image": "https://image.tmdb.org/t/p/w92/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+    },
+    {
+      "name": "Rip Torn",
+      "role": "Zed",
+      "url": "https://multimovies.city/cast/rip-torn/",
+      "image": "https://image.tmdb.org/t/p/w92/s0nJ15nXGoMAGa3TH6oxlFDzVD6.jpg"
+    },
+    {
+      "name": "Tony Shalhoub",
+      "role": "Jeebs",
+      "url": "https://multimovies.city/cast/tony-shalhoub/",
+      "image": "https://image.tmdb.org/t/p/w92/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+    },
+    {
+      "name": "Patrick Warburton",
+      "role": "Agent Tee",
+      "url": "https://multimovies.city/cast/patrick-warburton/",
+      "image": "https://image.tmdb.org/t/p/w92/eLqDtbFYmlTxov9vT9Dwldn839v.jpg"
+    },
+    {
+      "name": "Jack Kehler",
+      "role": "Ben",
+      "url": "https://multimovies.city/cast/jack-kehler/",
+      "image": "https://image.tmdb.org/t/p/w92/5vPBJw92OKtD5pNO0TTPZvvxooV.jpg"
+    },
+    {
+      "name": "David Cross",
+      "role": "Newton",
+      "url": "https://multimovies.city/cast/david-cross/",
+      "image": "https://image.tmdb.org/t/p/w92/axUqEv0SDlqS20gBEFCTQHwU1hp.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/o1l6OCqA3pYDZHIc5L1s7CEzCMv.jpg",
+    "https://image.tmdb.org/t/p/w300/3QBHMx54S5rSUPHNGGnWZSH7Ahb.jpg",
+    "https://image.tmdb.org/t/p/w300/c2zuk9304sz6LQLNDNPNGOmNCtv.jpg",
+    "https://image.tmdb.org/t/p/w300/4jQHLKqVpvWoW8letxMwiN02ySI.jpg",
+    "https://image.tmdb.org/t/p/w300/pyi9AZZvg8WhmptZkYef83PydbV.jpg",
+    "https://image.tmdb.org/t/p/w300/pajCpGIYuWFc1aQysCFUxivdBpb.jpg",
+    "https://image.tmdb.org/t/p/w300/gaObzSfuj8cLw2xpfphDVEs9aof.jpg",
+    "https://image.tmdb.org/t/p/w300/n1I1DCl9AmUzbUbA8SbZqf8cnAX.jpg",
+    "https://image.tmdb.org/t/p/w300/wVOjEflPlJLhj3j9LHc15kqt5wi.jpg",
+    "https://image.tmdb.org/t/p/w300/MImywxo0iDktDxdb1IZ4PT9EAP.jpg"
+  ],
+  "similar": [],
+  "views": 9963,
+  "sources": [
+    "https://www.youtube.com/embed/XmrhsY-XoJA?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/t27j53a"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5719,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5719,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:37:29.734544"
+}
