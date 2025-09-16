@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/indiana-jones-and-the-temple-of-doom/",
+  "meta": {
+    "title": "Indiana Jones and the Temple of Doom",
+    "poster": "https://image.tmdb.org/t/p/w500/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "May. 23, 1984",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees \u2013 and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+    "infoFields": {
+      "Original title": "Indiana Jones and the Temple of Doom",
+      "IMDb Rating": "7.5 555,156 votes",
+      "TMDb Rating": "7.302 9,620 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Steven Spielberg",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steven-spielberg/",
+      "image": "https://image.tmdb.org/t/p/w92/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+    },
+    {
+      "name": "Harrison Ford",
+      "role": "Indiana Jones",
+      "url": "https://multimovies.city/cast/harrison-ford/",
+      "image": "https://image.tmdb.org/t/p/w92/ActhM39LTxgx3tnJv3s5nM6hGD1.jpg"
+    },
+    {
+      "name": "Kate Capshaw",
+      "role": "Willie Scott",
+      "url": "https://multimovies.city/cast/kate-capshaw/",
+      "image": "https://image.tmdb.org/t/p/w92/5VgRB0Ob0V75siBHnSXwT7qc0jx.jpg"
+    },
+    {
+      "name": "Ke Huy Quan",
+      "role": "Short Round",
+      "url": "https://multimovies.city/cast/ke-huy-quan/",
+      "image": "https://image.tmdb.org/t/p/w92/5PfYVcNLs1gGKIo0qwJrvyc2UOZ.jpg"
+    },
+    {
+      "name": "Amrish Puri",
+      "role": "Mola Ram",
+      "url": "https://multimovies.city/cast/amrish-puri/",
+      "image": "https://image.tmdb.org/t/p/w92/uhMGFS7tuG71LDv2wk9LfZZ4EG6.jpg"
+    },
+    {
+      "name": "Roshan Seth",
+      "role": "Chattar Lal",
+      "url": "https://multimovies.city/cast/roshan-seth/",
+      "image": "https://image.tmdb.org/t/p/w92/4TbHkaZxPegaTns250cVXr8F91F.jpg"
+    },
+    {
+      "name": "Philip Stone",
+      "role": "Phillip Blumburtt",
+      "url": "https://multimovies.city/cast/philip-stone/",
+      "image": "https://image.tmdb.org/t/p/w92/wKIz8L0TcKk26TNGj7rKfgP02UG.jpg"
+    },
+    {
+      "name": "Roy Chiao",
+      "role": "Lao Che",
+      "url": "https://multimovies.city/cast/roy-chiao/",
+      "image": "https://image.tmdb.org/t/p/w92/oCwlvtAtzLRJIHgHBXGC3OEEG07.jpg"
+    },
+    {
+      "name": "David Yip",
+      "role": "Wu Han",
+      "url": "https://multimovies.city/cast/david-yip/",
+      "image": "https://image.tmdb.org/t/p/w92/rKgB9YklJzhD98DbbOzGnts5s7C.jpg"
+    },
+    {
+      "name": "Ric Young",
+      "role": "Kao Kan",
+      "url": "https://multimovies.city/cast/ric-young/",
+      "image": "https://image.tmdb.org/t/p/w92/2XxcV8eGeyAXOofsXmEsN2hSx45.jpg"
+    },
+    {
+      "name": "Chua Kah Joo",
+      "role": "Chen",
+      "url": "https://multimovies.city/cast/chua-kah-joo/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iO73omOyLwUPW22EpaZkJNC72ec.jpg",
+    "https://image.tmdb.org/t/p/w300/2hMt6zKQsvYvH3ZRe8T6RzAD2XB.jpg",
+    "https://image.tmdb.org/t/p/w300/xDGFzUU0eJLDwgb5hjkYK3f0Uv9.jpg",
+    "https://image.tmdb.org/t/p/w300/4ooZwR267AZXEvXziUNgLQlj6YR.jpg",
+    "https://image.tmdb.org/t/p/w300/iBYpzFytr6JDBKfPaccxuU8lGt7.jpg",
+    "https://image.tmdb.org/t/p/w300/9lm7drIvSPANclGcbVUYJlK4ivh.jpg",
+    "https://image.tmdb.org/t/p/w300/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+    "https://image.tmdb.org/t/p/w300/a4cX1maHQn5JFQMfYGR72cK8bfH.jpg",
+    "https://image.tmdb.org/t/p/w300/ysQlsAuidf3G6fNhcKlPKBhkHXr.jpg",
+    "https://image.tmdb.org/t/p/w300/ktmahmVuZ6RHBtUFR7pzYKpHvGQ.jpg"
+  ],
+  "similar": [],
+  "views": 2812,
+  "sources": [
+    "https://www.youtube.com/embed/plSdhHECZUo?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ppkfbm3"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25587,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 25587,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
