@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/scarface/",
+  "meta": {
+    "title": "Scarface",
+    "poster": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 09, 1983",
+    "ratingValue": "6.3",
+    "ratingCount": "3",
+    "synopsis": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+    "infoFields": {
+      "Original title": "Scarface",
+      "IMDb Rating": "8.3 896,336 votes",
+      "TMDb Rating": "8.168 10,963 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jerry Ziesmer",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jerry-ziesmer/",
+      "image": "https://image.tmdb.org/t/p/w92/oDPuZvvA02xSjQQCiWEmIBmNTOv.jpg"
+    },
+    {
+      "name": "Al Pacino",
+      "role": "Tony Montana",
+      "url": "https://multimovies.city/cast/al-pacino/",
+      "image": "https://image.tmdb.org/t/p/w92/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpg"
+    },
+    {
+      "name": "Steven Bauer",
+      "role": "Manny Ray",
+      "url": "https://multimovies.city/cast/steven-bauer/",
+      "image": "https://image.tmdb.org/t/p/w92/iu7dlnySh0dpknRqRe20tZzv9ZT.jpg"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "role": "Elvira",
+      "url": "https://multimovies.city/cast/michelle-pfeiffer/",
+      "image": "https://image.tmdb.org/t/p/w92/khpWT4F4Nj0QEuVPP1P2Zgz41G2.jpg"
+    },
+    {
+      "name": "Mary Elizabeth Mastrantonio",
+      "role": "Gina",
+      "url": "https://multimovies.city/cast/mary-elizabeth-mastrantonio/",
+      "image": "https://image.tmdb.org/t/p/w92/vbZ1E557K5oj34xLHR5ErO8wPCi.jpg"
+    },
+    {
+      "name": "Robert Loggia",
+      "role": "Frank Lopez",
+      "url": "https://multimovies.city/cast/robert-loggia/",
+      "image": "https://image.tmdb.org/t/p/w92/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
+    },
+    {
+      "name": "Miriam Colon",
+      "role": "Mama Montana",
+      "url": "https://multimovies.city/cast/miriam-colon/",
+      "image": "https://image.tmdb.org/t/p/w92/oW8N63FyKbcOK4eWbnpXPjcTzk4.jpg"
+    },
+    {
+      "name": "F. Murray Abraham",
+      "role": "Omar",
+      "url": "https://multimovies.city/cast/f-murray-abraham/",
+      "image": "https://image.tmdb.org/t/p/w92/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+    },
+    {
+      "name": "Paul Shenar",
+      "role": "Alejandro Sosa",
+      "url": "https://multimovies.city/cast/paul-shenar/",
+      "image": "https://image.tmdb.org/t/p/w92/kc0I4h9fTY8WP3wyQbwVWEzbmil.jpg"
+    },
+    {
+      "name": "Harris Yulin",
+      "role": "Bernstein",
+      "url": "https://multimovies.city/cast/harris-yulin/",
+      "image": "https://image.tmdb.org/t/p/w92/rKEWwNwhaE4AsubDGoLu6pDIxZy.jpg"
+    },
+    {
+      "name": "\u00c1ngel Salazar",
+      "role": "Chi Chi",
+      "url": "https://multimovies.city/cast/angel-salazar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+    "https://image.tmdb.org/t/p/w300/sRFBWr2gnOOgP6ltc3zi81CBoWi.jpg",
+    "https://image.tmdb.org/t/p/w300/1qM2BYNE11Viby8ImC9LC00DgDr.jpg",
+    "https://image.tmdb.org/t/p/w300/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+    "https://image.tmdb.org/t/p/w300/rj4wkE3J312EelrHEBDqRrwjjYn.jpg",
+    "https://image.tmdb.org/t/p/w300/ulrM7v3rmcOE0WYWF48vResVemc.jpg",
+    "https://image.tmdb.org/t/p/w300/bJlOrDdKRkcLM3X1YFOHsBdwNmN.jpg",
+    "https://image.tmdb.org/t/p/w300/rzopTQpOEqN4Ruv8gXknT1RhJ9Z.jpg",
+    "https://image.tmdb.org/t/p/w300/oO4tfAUwZQkxbs8rkaCXFRNKGEU.jpg",
+    "https://image.tmdb.org/t/p/w300/o6iXa7wpzWgzMKGWqg7JGri3DS6.jpg"
+  ],
+  "similar": [],
+  "views": 7849,
+  "sources": [
+    "https://www.youtube.com/embed/7pQQHnqBa2E?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/bnqprm16p65l"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 35611,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 35611,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
