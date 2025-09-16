@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/eight-below/",
+  "meta": {
+    "title": "Eight Below",
+    "poster": "https://image.tmdb.org/t/p/w500/2f1FoEbXjvClnPvl7MLe1ig3Z98.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 17, 2006",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "In the Antarctic, after an expedition with Dr. Davis McClaren, the sled dog trainer Jerry Shepherd has to leave the polar base with his colleagues due to the proximity of a heavy snow storm. He ties his dogs to be rescued after, but the mission is called-off and the dogs are left alone at their own fortune. For six months, Jerry tries to find a sponsor for a rescue mission.",
+    "infoFields": {
+      "Original title": "Eight Below",
+      "IMDb Rating": "7.3 67,808 votes",
+      "TMDb Rating": "7 1,622 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Frank Marshall",
+      "role": "Director",
+      "url": "https://multimovies.city/director/frank-marshall/",
+      "image": "https://image.tmdb.org/t/p/w92/lt2aBdnfDRJI4hvBu4733ZPGaCa.jpg"
+    },
+    {
+      "name": "Paul Walker",
+      "role": "Jerry Shepard",
+      "url": "https://multimovies.city/cast/paul-walker/",
+      "image": "https://image.tmdb.org/t/p/w92/q2PLqKHYCs35HR7QybaNPH3JT96.jpg"
+    },
+    {
+      "name": "Bruce Greenwood",
+      "role": "Davis McClaren",
+      "url": "https://multimovies.city/cast/bruce-greenwood/",
+      "image": "https://image.tmdb.org/t/p/w92/rVpyddWneBBYYzYhMRmWoHMg3Hg.jpg"
+    },
+    {
+      "name": "Moon Bloodgood",
+      "role": "Katie",
+      "url": "https://multimovies.city/cast/moon-bloodgood/",
+      "image": "https://image.tmdb.org/t/p/w92/akOHCXJtQpgLIWaPwKaR34lkqFT.jpg"
+    },
+    {
+      "name": "Jason Biggs",
+      "role": "Charlie Cooper",
+      "url": "https://multimovies.city/cast/jason-biggs/",
+      "image": "https://image.tmdb.org/t/p/w92/3nRgOQylYbNuDiddtNoh8uWTz5P.jpg"
+    },
+    {
+      "name": "Gerard Plunkett",
+      "role": "Dr. Andy Harrison",
+      "url": "https://multimovies.city/cast/gerard-plunkett/",
+      "image": "https://image.tmdb.org/t/p/w92/2mFFh2CidSOYp6NEZ8Tmr1OQXvT.jpg"
+    },
+    {
+      "name": "Wendy Crewson",
+      "role": "Eve McClaren",
+      "url": "https://multimovies.city/cast/wendy-crewson/",
+      "image": "https://image.tmdb.org/t/p/w92/hj4mm0TCtXoA66Ed3G78qWVBg7l.jpg"
+    },
+    {
+      "name": "Duncan Fraser",
+      "role": "Captain Lovett",
+      "url": "https://multimovies.city/cast/duncan-fraser/",
+      "image": "https://image.tmdb.org/t/p/w92/ckiY9K7fwH5KRuTE3IM5kelwm0c.jpg"
+    },
+    {
+      "name": "Dexter Bell",
+      "role": "Worker #1",
+      "url": "https://multimovies.city/cast/dexter-bell/",
+      "image": "https://image.tmdb.org/t/p/w92/kAwa1CrvqdfN6Wz0DAexcpxgm9h.jpg"
+    },
+    {
+      "name": "August Schellenberg",
+      "role": "Mindo",
+      "url": "https://multimovies.city/cast/august-schellenberg/",
+      "image": "https://image.tmdb.org/t/p/w92/fSNg3WDMxgD7JlHs8QVhVf4dx2A.jpg"
+    },
+    {
+      "name": "Belinda Metz",
+      "role": "Dr. Rosemary Paris",
+      "url": "https://multimovies.city/cast/belinda-metz/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ajCYRAAHAl5fJ77yclVpdZvvU4o.jpg",
+    "https://image.tmdb.org/t/p/w300/oJwZgXKKSCiTCuu1PghGcsKV2aI.jpg",
+    "https://image.tmdb.org/t/p/w300/lS2bIZ4gMvhYwgpTHOJaVvu8qMD.jpg",
+    "https://image.tmdb.org/t/p/w300/JA3kbIwAuSP4ILxDoUxMoqdDbO.jpg",
+    "https://image.tmdb.org/t/p/w300/oYFaKwbfGDIU5hm1pUYLLSoiBa2.jpg",
+    "https://image.tmdb.org/t/p/w300/XITywyjknKtr3oWsv29vGhzEtK.jpg",
+    "https://image.tmdb.org/t/p/w300/m1HerfIuMwnS1XgvkDPOgF20CPu.jpg",
+    "https://image.tmdb.org/t/p/w300/cX1AdFA1CQ9dby8u70ojaOshd4F.jpg",
+    "https://image.tmdb.org/t/p/w300/qFBeFTY5MRlppvrwgu0IgLUUqHQ.jpg",
+    "https://image.tmdb.org/t/p/w300/nuuQwX1zfNkyBbau7HGMCjGniTl.jpg"
+  ],
+  "similar": [],
+  "views": 1007,
+  "sources": [
+    "https://multimoviesshg.com/e/saglw2vyjqhu"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 39068,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:02:20.119248"
+}
