@@ -4,15 +4,124 @@
   "meta": {
     "title": "Spiders",
     "poster": "https://image.tmdb.org/t/p/w500/k7KU0Lo5eWGApnophGEzEMQm7z8.jpg",
-    "synopsis": "A DNA experiment on a rare breed of spider is taking place on a NASA space shuttle, when a freak meteor shower engulfs the shuttle, causing everything to go horribly wrong. One survivor is found on the ship and watched over in a secret location deep in the California desert. The problem continues, as the survivor isn\u2019t alone, as another deadly spiders climbs out of him and goes on a rampage around the ship. Curious reporter Marci Eyre must now survive, escape and warn everyone before the spider reaches outside the desert."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 14, 2000",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "A DNA experiment on a rare breed of spider is taking place on a NASA space shuttle, when a freak meteor shower engulfs the shuttle, causing everything to go horribly wrong. One survivor is found on the ship and watched over in a secret location deep in the California desert. The problem continues, as the survivor isn\u2019t alone, as another deadly spiders climbs out of him and goes on a rampage around the ship. Curious reporter Marci Eyre must now survive, escape and warn everyone before the spider reaches outside the desert.",
+    "infoFields": {
+      "Original title": "Spiders",
+      "IMDb Rating": "3.9 3,179 votes",
+      "TMDb Rating": "4.507 74 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Gary Jones",
+      "role": "Director",
+      "url": "https://multimovies.city/director/gary-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/72iuNrz0KiZ0CWxKTjDm0QY7SPa.jpg"
+    },
+    {
+      "name": "Lana Parrilla",
+      "role": "Marci Eyre",
+      "url": "https://multimovies.city/cast/lana-parrilla/",
+      "image": "https://image.tmdb.org/t/p/w92/krXbmHncfcdnEEas5zIDM1DKsNp.jpg"
+    },
+    {
+      "name": "Josh Green",
+      "role": "John Murphy",
+      "url": "https://multimovies.city/cast/josh-green/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Oliver Macready",
+      "role": "Slick",
+      "url": "https://multimovies.city/cast/oliver-macready/",
+      "image": "https://image.tmdb.org/t/p/w92/1gZeDa9ZbN4cIT5jrLEFubgWuLl.jpg"
+    },
+    {
+      "name": "Simona Williams",
+      "role": "Loretta Martindale",
+      "url": "https://multimovies.city/cast/simona-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/2dSBTB5n1dfT8vN15QODWquGMxr.jpg"
+    },
+    {
+      "name": "Mark Phelan",
+      "role": "Agent Gray",
+      "url": "https://multimovies.city/cast/mark-phelan/",
+      "image": "https://image.tmdb.org/t/p/w92/gHOyEqy7JhTHg2eJ1zDX3g9ZBZv.jpg"
+    },
+    {
+      "name": "Leslie Zemeckis",
+      "role": "Emma",
+      "url": "https://multimovies.city/cast/leslie-zemeckis/",
+      "image": "https://image.tmdb.org/t/p/w92/1bUcEr76agVCsWpMDbfll78biaW.jpg"
+    },
+    {
+      "name": "Billy Maddox",
+      "role": "Colonel Dixon",
+      "url": "https://multimovies.city/cast/billy-maddox/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Mark Totty",
+      "role": "Commander Hooper",
+      "url": "https://multimovies.city/cast/mark-totty/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Jonathon Breck",
+      "role": "Jacobs",
+      "url": "https://multimovies.city/cast/jonathon-breck/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Nick Swarts",
+      "role": "Jake",
+      "url": "https://multimovies.city/cast/nick-swarts/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/aBOtvdJMfBBKAXs9HuReAkB3NVy.jpg",
+    "https://image.tmdb.org/t/p/w300/gSWMfu7Sre7tnOtEdwZTXG1YHJD.jpg",
+    "https://image.tmdb.org/t/p/w300/eEZTqCtmKGdduQ9pal8BuRG7MIB.jpg",
+    "https://image.tmdb.org/t/p/w300/fKOW9ilFLJVBZYiy9pnce0HiWER.jpg",
+    "https://image.tmdb.org/t/p/w300/2jwAa0EJHdNMNcNteHBpNwDcSSm.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 1066,
+  "sources": [
+    "https://multimoviesshg.com/e/kl8a8bp5mbxl"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 42174,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:28:15.221268"
 }
