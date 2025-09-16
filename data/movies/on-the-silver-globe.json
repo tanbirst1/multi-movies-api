@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/on-the-silver-globe/",
+  "meta": {
+    "title": "On the Silver Globe",
+    "poster": "https://image.tmdb.org/t/p/w500/4zzam82e6rCY2Ktm0fyRoseHhkh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Feb. 10, 1989",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "A small group of cosmic explorers, including a woman, leaves Earth to start a new civilization. They do not realize that within themselves they carry the end of their own dream. They die one by one, while their children revert to a primitive native culture, creating new myths and a new god.",
+    "infoFields": {
+      "Original title": "Na Srebrnym Globie",
+      "IMDb Rating": "7.2 5,539 votes",
+      "TMDb Rating": "7.7 155 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Andrzej \u017bu\u0142awski",
+      "role": "Director",
+      "url": "https://multimovies.city/director/andrzej-zulawski/",
+      "image": "https://image.tmdb.org/t/p/w92/A9OzmL6AJmqGfqEyGo1pvG3o8Fo.jpg"
+    },
+    {
+      "name": "Andrzej Seweryn",
+      "role": "Marek",
+      "url": "https://multimovies.city/cast/andrzej-seweryn/",
+      "image": "https://image.tmdb.org/t/p/w92/uYohJvqAai28Piqa0eEs6zAeFer.jpg"
+    },
+    {
+      "name": "Micha\u0142 Bajor",
+      "role": "Marek (voice)",
+      "url": "https://multimovies.city/cast/michal-bajor/",
+      "image": "https://image.tmdb.org/t/p/w92/jZLlF5CDpiCUoc29B2OlU0KBJzO.jpg"
+    },
+    {
+      "name": "Jerzy Trela",
+      "role": "Jerzy",
+      "url": "https://multimovies.city/cast/jerzy-trela/",
+      "image": "https://image.tmdb.org/t/p/w92/rem3V2py3o6eaaR4KQTvClVKX6n.jpg"
+    },
+    {
+      "name": "Gra\u017cyna Dyl\u0105g",
+      "role": "Ihezal",
+      "url": "https://multimovies.city/cast/grazyna-dylag/",
+      "image": "https://image.tmdb.org/t/p/w92/2WXDBAsJN7NW7Uslq1LEKDc5iLk.jpg"
+    },
+    {
+      "name": "Maria Pakulnis",
+      "role": "Ihezal (voice)",
+      "url": "https://multimovies.city/cast/maria-pakulnis/",
+      "image": "https://image.tmdb.org/t/p/w92/ofUBgXCzbSa9ferpAINvSYgXEF8.jpg"
+    },
+    {
+      "name": "Waldemar Kownacki",
+      "role": "Jacek",
+      "url": "https://multimovies.city/cast/waldemar-kownacki/",
+      "image": "https://image.tmdb.org/t/p/w92/qPqh7bHEFHzuRNeQ7bvCtttdFLg.jpg"
+    },
+    {
+      "name": "Iwona Bielska",
+      "role": "Marta",
+      "url": "https://multimovies.city/cast/iwona-bielska/",
+      "image": "https://image.tmdb.org/t/p/w92/xwNgsgT1ZBFK2xNbQwZSCsMo3xO.jpg"
+    },
+    {
+      "name": "Jerzy Gra\u0142ek",
+      "role": "Piotr",
+      "url": "https://multimovies.city/cast/jerzy-gralek/",
+      "image": "https://image.tmdb.org/t/p/w92/hdLAV2VgZye0fK25gSglHSpJTjx.jpg"
+    },
+    {
+      "name": "El\u017cbieta Karkoszka",
+      "role": "Ada",
+      "url": "https://multimovies.city/cast/elzbieta-karkoszka/",
+      "image": "https://image.tmdb.org/t/p/w92/rBemNLA1mV4AN9Jx2SnMpjoG4IQ.jpg"
+    },
+    {
+      "name": "Krystyna Janda",
+      "role": "Aza",
+      "url": "https://multimovies.city/cast/krystyna-janda/",
+      "image": "https://image.tmdb.org/t/p/w92/AmOfMDKwhm8dN41C9kAPAGR09nO.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5nZ0ax5n5k9MogcGX3IxVjlCMRt.jpg",
+    "https://image.tmdb.org/t/p/w300/s5yFF446a5PSnFNfylvGh1UpqqS.jpg",
+    "https://image.tmdb.org/t/p/w300/5b60e5dTggk7nafINXaddp7bAq5.jpg",
+    "https://image.tmdb.org/t/p/w300/eBDJPLnvlphGorLGanqVeYN2yhh.jpg",
+    "https://image.tmdb.org/t/p/w300/d4bvsihQoQpga44m5brJjGQl5VC.jpg",
+    "https://image.tmdb.org/t/p/w300/7AHsbaWncpRkt79iLMssLOfLomc.jpg",
+    "https://image.tmdb.org/t/p/w300/A54QUDDyfEMuO6PsJjf1KYZGo9Q.jpg",
+    "https://image.tmdb.org/t/p/w300/dvA9f1e2CDrJfScRetCxL5whyuI.jpg",
+    "https://image.tmdb.org/t/p/w300/g2zRsB7sT4wRHiHD5mhXovUZ3rS.jpg",
+    "https://image.tmdb.org/t/p/w300/1X0Zjm78AjtaXc5wot11iIoHBdo.jpg"
+  ],
+  "similar": [],
+  "views": 402,
+  "sources": [
+    "https://www.youtube.com/embed/zBFRiSlcBAg?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ahxl9us"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 94052,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 94052,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
