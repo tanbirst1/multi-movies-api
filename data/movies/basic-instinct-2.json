@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/basic-instinct-2/",
+  "meta": {
+    "title": "Basic Instinct 2",
+    "poster": "https://image.tmdb.org/t/p/w500/kbxuAUIKrZHXXRxVvVYw95HWPKJ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 29, 2006",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Novelist Catherine Tramell is once again in trouble with the law, and Scotland Yard appoints psychiatrist Dr. Michael Glass to evaluate her. Though, like Detective Nick Curran before him, Glass is entranced by Tramell and lured into a seductive game.",
+    "infoFields": {
+      "Original title": "Basic Instinct 2",
+      "IMDb Rating": "4.4 42,099 votes",
+      "TMDb Rating": "5 753 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Michael Caton-Jones",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-caton-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/kans2pcNqq8WIS3Up2oKqIBssIi.jpg"
+    },
+    {
+      "name": "Sharon Stone",
+      "role": "Catherine Tramell",
+      "url": "https://multimovies.city/cast/sharon-stone/",
+      "image": "https://image.tmdb.org/t/p/w92/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg"
+    },
+    {
+      "name": "David Morrissey",
+      "role": "Michael Glass",
+      "url": "https://multimovies.city/cast/david-morrissey/",
+      "image": "https://image.tmdb.org/t/p/w92/nBhEs81m2Uo5mZksnU4eLDN6LO6.jpg"
+    },
+    {
+      "name": "Charlotte Rampling",
+      "role": "Milena Gardosh",
+      "url": "https://multimovies.city/cast/charlotte-rampling/",
+      "image": "https://image.tmdb.org/t/p/w92/7fhg5FCcl0VfYERP5D0unpybqgx.jpg"
+    },
+    {
+      "name": "David Thewlis",
+      "role": "Roy Washburn",
+      "url": "https://multimovies.city/cast/david-thewlis/",
+      "image": "https://image.tmdb.org/t/p/w92/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
+    },
+    {
+      "name": "Stan Collymore",
+      "role": "Kevin Franks",
+      "url": "https://multimovies.city/cast/stan-collymore/",
+      "image": "https://image.tmdb.org/t/p/w92/tmbRnnPexT8qEUiaY9Xth0yJbV1.jpg"
+    },
+    {
+      "name": "Indira Varma",
+      "role": "Denise Glass",
+      "url": "https://multimovies.city/cast/indira-varma/",
+      "image": "https://image.tmdb.org/t/p/w92/iNplVZNqPkOXc4gGwTX3kyo3ykO.jpg"
+    },
+    {
+      "name": "Heathcote Williams",
+      "role": "Jakob Gerst",
+      "url": "https://multimovies.city/cast/heathcote-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/1gCuLzhbBTiFPLZ0pD4RGAvE7NJ.jpg"
+    },
+    {
+      "name": "Hugh Dancy",
+      "role": "Adam Towers",
+      "url": "https://multimovies.city/cast/hugh-dancy/",
+      "image": "https://image.tmdb.org/t/p/w92/zFroAbbLgP8R5rjSRmZc30gk3Q7.jpg"
+    },
+    {
+      "name": "Terence Harvey",
+      "role": "Henry Rose",
+      "url": "https://multimovies.city/cast/terence-harvey/",
+      "image": "https://image.tmdb.org/t/p/w92/p9gjpEFyW6V92sVcd1SF5kXY6rz.jpg"
+    },
+    {
+      "name": "Jan Chappell",
+      "role": "Solicitor",
+      "url": "https://multimovies.city/cast/jan-chappell/",
+      "image": "https://image.tmdb.org/t/p/w92/d9I2uJVWO6L2YlRDyOkdK9tQnse.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/g03rOxKeJJbgR3Lvzrcdii55dm8.jpg",
+    "https://image.tmdb.org/t/p/w300/jA3z8ZzL28C4vmfTdPXRiiXbme5.jpg",
+    "https://image.tmdb.org/t/p/w300/6jdcK9kbtjuqXKFSVL0gZhnw1zf.jpg",
+    "https://image.tmdb.org/t/p/w300/6kGa8qY5YwjRKWljEE5qYDiY68q.jpg",
+    "https://image.tmdb.org/t/p/w300/5hYcBrOo2jlDHT0QW3Juj1KdEOS.jpg",
+    "https://image.tmdb.org/t/p/w300/989GvsHFHpOoylSuiNVpyPY51tt.jpg",
+    "https://image.tmdb.org/t/p/w300/i97LLkryrptx7UTRyykybroOLxr.jpg",
+    "https://image.tmdb.org/t/p/w300/e5pmOVYwHbE5BBbxFF7aqM8hgCX.jpg",
+    "https://image.tmdb.org/t/p/w300/lBOzAJ32QHJwEPjGLXuheWTTppR.jpg",
+    "https://image.tmdb.org/t/p/w300/wK9ugulCfzAAu0kWHMMitoePhrz.jpg"
+  ],
+  "similar": [],
+  "views": 5484,
+  "sources": [
+    "https://www.youtube.com/embed/W7eAJ3f7C5c?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/msv3ko8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 67320,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 67320,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:01:28.290331"
+}
