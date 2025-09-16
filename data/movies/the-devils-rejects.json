@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-devils-rejects/",
+  "meta": {
+    "title": "The Devil\u2019s Rejects",
+    "poster": "https://image.tmdb.org/t/p/w500/drZz4AuI7trq6BxlH9Xa4v4O0Pb.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Jul. 22, 2005",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "The murderous, backwoods Firefly family take to the road to escape the vengeful Sheriff Wydell, who is not afraid of being as ruthless as his target.",
+    "infoFields": {
+      "Original title": "The Devil's Rejects",
+      "IMDb Rating": "6.7 108,513 votes",
+      "TMDb Rating": "6.751 1,455 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rob Zombie",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rob-zombie/",
+      "image": "https://image.tmdb.org/t/p/w92/kkl4gjIJ1pyEJhNp2B2HricD2v7.jpg"
+    },
+    {
+      "name": "Sid Haig",
+      "role": "Captain Spaulding / James Cutter",
+      "url": "https://multimovies.city/cast/sid-haig/",
+      "image": "https://image.tmdb.org/t/p/w92/vl3bpah8selBmSUDtF9irkHyvIO.jpg"
+    },
+    {
+      "name": "Bill Moseley",
+      "role": "Otis B. Driftwood",
+      "url": "https://multimovies.city/cast/bill-moseley/",
+      "image": "https://image.tmdb.org/t/p/w92/l2ksJH5uUCIaeTuier6wXrURrnv.jpg"
+    },
+    {
+      "name": "Sheri Moon Zombie",
+      "role": "Baby Firefly / Vera-Ellen",
+      "url": "https://multimovies.city/cast/sheri-moon-zombie/",
+      "image": "https://image.tmdb.org/t/p/w92/jJwAiJps5cOz484c3QJgjKe1yxJ.jpg"
+    },
+    {
+      "name": "William Forsythe",
+      "role": "Sheriff John Quincy Wydel",
+      "url": "https://multimovies.city/cast/william-forsythe/",
+      "image": "https://image.tmdb.org/t/p/w92/35BXHugSG931iVPbHn6W9SNXNY1.jpg"
+    },
+    {
+      "name": "Ken Foree",
+      "role": "Charlie Altamont",
+      "url": "https://multimovies.city/cast/ken-foree/",
+      "image": "https://image.tmdb.org/t/p/w92/5u9Ou7RHx1vDe8SQFhX3Euxe2Ae.jpg"
+    },
+    {
+      "name": "Matthew McGrory",
+      "role": "Tiny Firefly",
+      "url": "https://multimovies.city/cast/matthew-mcgrory/",
+      "image": "https://image.tmdb.org/t/p/w92/bKIiOLO08e0Kxl4LjKBvr0xmviK.jpg"
+    },
+    {
+      "name": "Leslie Easterbrook",
+      "role": "Mother Firefly",
+      "url": "https://multimovies.city/cast/leslie-easterbrook/",
+      "image": "https://image.tmdb.org/t/p/w92/cgivmDAMFWTMGKGr12Z0HjEcBgN.jpg"
+    },
+    {
+      "name": "Geoffrey Lewis",
+      "role": "Roy Sullivan",
+      "url": "https://multimovies.city/cast/geoffrey-lewis/",
+      "image": "https://image.tmdb.org/t/p/w92/codb8rrsNqnsq3e0MHkH3kAAJwg.jpg"
+    },
+    {
+      "name": "Priscilla Barnes",
+      "role": "Gloria Sullivan",
+      "url": "https://multimovies.city/cast/priscilla-barnes/",
+      "image": "https://image.tmdb.org/t/p/w92/3bEvjncb05fI7dIwzjeUrvc54qA.jpg"
+    },
+    {
+      "name": "Dave Sheridan",
+      "role": "Officer Ray Dobson",
+      "url": "https://multimovies.city/cast/dave-sheridan/",
+      "image": "https://image.tmdb.org/t/p/w92/pNP7NGCjfSn6nHpoLbCOf7RsexL.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/o1a5hUxzdXtz1vmu240euYHNe8E.jpg",
+    "https://image.tmdb.org/t/p/w300/2oPzjUF1U0P5Xw54xyAbFceQ2dB.jpg",
+    "https://image.tmdb.org/t/p/w300/9OvbJLn7pMDE7bnydHjpqfly8X2.jpg",
+    "https://image.tmdb.org/t/p/w300/l0oaVGjvsZsOCAbksqa41VC7PuH.jpg",
+    "https://image.tmdb.org/t/p/w300/igpzN8VQrYm9PyDVW0hIuf0zYmt.jpg",
+    "https://image.tmdb.org/t/p/w300/hCCZ7zW3QVsRAgGkMEusdf4Y8jM.jpg",
+    "https://image.tmdb.org/t/p/w300/2As9GOlsZOzi71oC53Eprhwocts.jpg",
+    "https://image.tmdb.org/t/p/w300/1rA1LeshA9PcGTxnJQW78WYnZ7V.jpg",
+    "https://image.tmdb.org/t/p/w300/3n80BdCuo5PTQrcz6jEMMbO4sTK.jpg",
+    "https://image.tmdb.org/t/p/w300/9OWFigklifiDFGwIgR8tFIs3W7E.jpg"
+  ],
+  "similar": [],
+  "views": 729,
+  "sources": [
+    "https://www.youtube.com/embed/rK6HXh9zRdU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/be23jki"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 84670,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 84670,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:55:02.343552"
+}
