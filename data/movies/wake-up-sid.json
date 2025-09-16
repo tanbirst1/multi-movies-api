@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/wake-up-sid/",
+  "meta": {
+    "title": "Wake Up Sid",
+    "poster": "https://image.tmdb.org/t/p/w500/1UpgW67W6Do0xizTuE26bMQFLdL.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Oct. 02, 2009",
+    "ratingValue": "7.6",
+    "ratingCount": "5",
+    "synopsis": "Wake Up Sid! is the story of a lazy Mumbai college student who does absolutely nothing, with a turn of events will Sid realize his potential in this world and become a success in the fast-paced life of Mumbai.",
+    "infoFields": {
+      "Original title": "Wake Up Sid",
+      "IMDb Rating": "7.6 33,929 votes",
+      "TMDb Rating": "7.2 145 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ayan Mukerji",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ayan-mukerji/",
+      "image": "https://image.tmdb.org/t/p/w92/h2je0la48xmeXazM61bZ4hwlWcs.jpg"
+    },
+    {
+      "name": "Ranbir Kapoor",
+      "role": "Sidharth 'Sid' Mehra",
+      "url": "https://multimovies.city/cast/ranbir-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/ymYNHV9luwgyrw17NXHqbOWTQkg.jpg"
+    },
+    {
+      "name": "Konkona Sen Sharma",
+      "role": "Aisha Banerjee",
+      "url": "https://multimovies.city/cast/konkona-sen-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/rl6VL6tMqjuxs6SO6r2329ALxZ9.jpg"
+    },
+    {
+      "name": "Rahul Khanna",
+      "role": "Kabir",
+      "url": "https://multimovies.city/cast/rahul-khanna/",
+      "image": "https://image.tmdb.org/t/p/w92/eXRnf2aCfpb7gItoWtuIHz4lOEo.jpg"
+    },
+    {
+      "name": "Anupam Kher",
+      "role": "Ram Mehra",
+      "url": "https://multimovies.city/cast/anupam-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/f7hWJ4tvzR7uXmYoTiB41TpQ2NZ.jpg"
+    },
+    {
+      "name": "Supriya Pathak",
+      "role": "Sarita Mehra",
+      "url": "https://multimovies.city/cast/supriya-pathak/",
+      "image": "https://image.tmdb.org/t/p/w92/cDvNa9XL425kBiyT4xqRGM8kK4H.jpg"
+    },
+    {
+      "name": "Namit Das",
+      "role": "Rishi",
+      "url": "https://multimovies.city/cast/namit-das/",
+      "image": "https://image.tmdb.org/t/p/w92/8Wm6DHg6OapLLTQA7I2b8nLksr7.jpg"
+    },
+    {
+      "name": "Shikha Talsania",
+      "role": "Laxmi",
+      "url": "https://multimovies.city/cast/shikha-talsania/",
+      "image": "https://image.tmdb.org/t/p/w92/qrcQ2xnofoxvPp5fjXuqyXxhY08.jpg"
+    },
+    {
+      "name": "Kashmera Shah",
+      "role": "Sonia",
+      "url": "https://multimovies.city/cast/kashmera-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/ITOuD1fj5FKo2p98wjfVdDtEpv.jpg"
+    },
+    {
+      "name": "Shruti Bapna",
+      "role": "Debbie",
+      "url": "https://multimovies.city/cast/shruti-bapna/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kainaz Motivala",
+      "role": "Tanya Lathia",
+      "url": "https://multimovies.city/cast/kainaz-motivala/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vWaZUVCuie6ycRAR6V5n0DYuoH2.jpg"
+  ],
+  "similar": [],
+  "views": 5902,
+  "sources": [
+    "https://www.youtube.com/embed/uB599LrV6AQ?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/lrinlbgzlcas"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 49284,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 49284,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:36:17.066110"
+}
