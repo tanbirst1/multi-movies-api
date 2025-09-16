@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-karate-kid-part-iii/",
+  "meta": {
+    "title": "The Karate Kid Part 3",
+    "poster": "https://image.tmdb.org/t/p/w500/zE58VthFwD9vKy1vEDnSYR6loqm.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 29, 1989",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Despondent over the closing of his karate school, Cobra Kai teacher John Kreese joins a ruthless businessman and martial artist to get revenge on Daniel and Mr. Miyagi.",
+    "infoFields": {
+      "Original title": "The Karate Kid Part III",
+      "IMDb Rating": "5.3 66,002 votes",
+      "TMDb Rating": "5.915 1,361 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John G. Avildsen",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-g-avildsen/",
+      "image": "https://image.tmdb.org/t/p/w92/cBpz7xPTfT0cfPhQoGrp7x7esma.jpg"
+    },
+    {
+      "name": "Ralph Macchio",
+      "role": "Daniel LaRusso",
+      "url": "https://multimovies.city/cast/ralph-macchio/",
+      "image": "https://image.tmdb.org/t/p/w92/kehn6kNTFPlAYrWJzBzrEu6WHJp.jpg"
+    },
+    {
+      "name": "Pat Morita",
+      "role": "Mr. Miyagi",
+      "url": "https://multimovies.city/cast/pat-morita/",
+      "image": "https://image.tmdb.org/t/p/w92/urxkD8FV5ajhjiFTyVQlbECGyRI.jpg"
+    },
+    {
+      "name": "Robyn Lively",
+      "role": "Jessica Andrews",
+      "url": "https://multimovies.city/cast/robyn-lively/",
+      "image": "https://image.tmdb.org/t/p/w92/tz4oKXOkJhHZezaQUTgo66gPn77.jpg"
+    },
+    {
+      "name": "Thomas Ian Griffith",
+      "role": "Terry Silver",
+      "url": "https://multimovies.city/cast/thomas-ian-griffith/",
+      "image": "https://image.tmdb.org/t/p/w92/4h1qQeZMG2drwEEat6WKG0rbPVC.jpg"
+    },
+    {
+      "name": "Martin Kove",
+      "role": "John Kreese",
+      "url": "https://multimovies.city/cast/martin-kove/",
+      "image": "https://image.tmdb.org/t/p/w92/vKfS55g6rqldWekNdy4JifuJQsw.jpg"
+    },
+    {
+      "name": "Sean Kanan",
+      "role": "Mike Barnes",
+      "url": "https://multimovies.city/cast/sean-kanan/",
+      "image": "https://image.tmdb.org/t/p/w92/3QV1TdLajOtS35J4OUI57LKeRRG.jpg"
+    },
+    {
+      "name": "Jonathan Avildsen",
+      "role": "Snake",
+      "url": "https://multimovies.city/cast/jonathan-avildsen/",
+      "image": "https://image.tmdb.org/t/p/w92/tdANBHx86AZ6csMOq31LnQzelav.jpg"
+    },
+    {
+      "name": "William Christopher Ford",
+      "role": "Dennis",
+      "url": "https://multimovies.city/cast/william-christopher-ford/",
+      "image": "https://image.tmdb.org/t/p/w92/v4naDbZehFkxRWQYOc1g2neOWJl.jpg"
+    },
+    {
+      "name": "Randee Heller",
+      "role": "Lucille LaRusso",
+      "url": "https://multimovies.city/cast/randee-heller/",
+      "image": "https://image.tmdb.org/t/p/w92/asb43syJO1U8SEpcBbfK1On3ECf.jpg"
+    },
+    {
+      "name": "Pat E. Johnson",
+      "role": "Referee",
+      "url": "https://multimovies.city/cast/pat-e-johnson/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/c12c7Rpq4kakQiaZIQgp5aTaDFB.jpg",
+    "https://image.tmdb.org/t/p/w300/c0wCncsu9qk9KNihJ6G4Kc2W667.jpg",
+    "https://image.tmdb.org/t/p/w300/9SPZml4PryC3Rz9EsLhrokcwoLR.jpg",
+    "https://image.tmdb.org/t/p/w300/j6cJclob35TN5A6PscSF1W6Daxu.jpg",
+    "https://image.tmdb.org/t/p/w300/k7NnYS4bJHijGWDGNzJs08QaXP8.jpg",
+    "https://image.tmdb.org/t/p/w300/5uY2kMtu33OzVjQtMuNyA49R7hY.jpg"
+  ],
+  "similar": [],
+  "views": 2646,
+  "sources": [
+    "https://www.youtube.com/embed/0YFWFJOvjwQ?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ij8ns9t"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5395,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5395,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
