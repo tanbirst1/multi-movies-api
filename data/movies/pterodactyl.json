@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/pterodactyl/",
+  "meta": {
+    "title": "Pterodactyl",
+    "poster": "https://image.tmdb.org/t/p/w500/nDo00TwXFs2FvFiTRUw1PFPVP3o.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Aug. 27, 2005",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "A dormant volcano deep with the Turkish forest holds within it a deadly secret. Perfectly preserved, a nest of pterodactyl eggs are ready to hatch\u2026",
+    "infoFields": {
+      "Original title": "Pterodactyl",
+      "IMDb Rating": "3.1 2,504 votes",
+      "TMDb Rating": "4.8 56 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mark L. Lester",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mark-l-lester/",
+      "image": "https://image.tmdb.org/t/p/w92/ioa8RxmIBPUqmeoHLetFSLrLK4Q.jpg"
+    },
+    {
+      "name": "Cameron Daddo",
+      "role": "Prof. Michael Lovecraft",
+      "url": "https://multimovies.city/cast/cameron-daddo/",
+      "image": "https://image.tmdb.org/t/p/w92/6oJz4Yu515JUjpfQ9SxdJ0a5Lpy.jpg"
+    },
+    {
+      "name": "Coolio",
+      "role": "Capt. Bergen",
+      "url": "https://multimovies.city/cast/coolio/",
+      "image": "https://image.tmdb.org/t/p/w92/2RXxdCB68Haao2O9Fq8NCRpFkFm.jpg"
+    },
+    {
+      "name": "Amy Sloan",
+      "role": "Kate Heinlein",
+      "url": "https://multimovies.city/cast/amy-sloan/",
+      "image": "https://image.tmdb.org/t/p/w92/kA3tB47pBkS76DRKMrBBWkE9QP0.jpg"
+    },
+    {
+      "name": "George Calil",
+      "role": "Serling",
+      "url": "https://multimovies.city/cast/george-calil/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ivo Cutzarida",
+      "role": "Yolen",
+      "url": "https://multimovies.city/cast/ivo-cutzarida/",
+      "image": "https://image.tmdb.org/t/p/w92/6xDwQHLTj5xG14hZRG6RFLIpvGE.jpg"
+    },
+    {
+      "name": "Steve Braun",
+      "role": "Willis Bradbury",
+      "url": "https://multimovies.city/cast/steve-braun/",
+      "image": "https://image.tmdb.org/t/p/w92/gSUxpCsSpjjTEWbNGCnxGhNKVw7.jpg"
+    },
+    {
+      "name": "Mircea Monroe",
+      "role": "Angie Lem",
+      "url": "https://multimovies.city/cast/mircea-monroe/",
+      "image": "https://image.tmdb.org/t/p/w92/jal2sg8cau0oGdZBmBM7tkBWCVA.jpg"
+    },
+    {
+      "name": "Jessica Ferrarone",
+      "role": "Zelazny",
+      "url": "https://multimovies.city/cast/jessica-ferrarone/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Danna Lee",
+      "role": "Gwen Kemper",
+      "url": "https://multimovies.city/cast/danna-lee/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Howie Lotker",
+      "role": "Jason Donaldson",
+      "url": "https://multimovies.city/cast/howie-lotker/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bdCF6PrKfReCTwTLuYh2wriDNVh.jpg"
+  ],
+  "similar": [],
+  "views": 1375,
+  "sources": [
+    "https://www.youtube.com/embed/7NFhjR6hYMQ?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/r2pispu"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7538,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7538,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:59:49.313845"
+}
