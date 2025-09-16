@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/new-police-story/",
+  "meta": {
+    "title": "New Police Story",
+    "poster": "https://image.tmdb.org/t/p/w500/ece4Ivxpt6GKVQaed9xQjKrUwun.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 23, 2004",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Sent into a drunken tailspin when his entire unit is killed by a gang of thrill-seeking punks, disgraced Hong Kong police inspector Wing needs help from his new rookie partner, with a troubled past of his own, to climb out of the bottle and track down the gang and its ruthless leader.",
+    "infoFields": {
+      "Original title": "\u65b0\u8b66\u5bdf\u6545\u4e8b",
+      "IMDb Rating": "6.9 28,097 votes",
+      "TMDb Rating": "7.1 628 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Benny Chan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/benny-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/oOWuOxW6bBlDi7Zc5Mv3F6ytIjy.jpg"
+    },
+    {
+      "name": "Jackie Chan",
+      "role": "Senior Insp. Chan Kwok-Wing",
+      "url": "https://multimovies.city/cast/jackie-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "name": "Nicholas Tse",
+      "role": "Frank Cheng Siu-Fung",
+      "url": "https://multimovies.city/cast/nicholas-tse/",
+      "image": "https://image.tmdb.org/t/p/w92/gNn875jcFFxQD9IX7LhpZeAPqtk.jpg"
+    },
+    {
+      "name": "Charlie Yeung",
+      "role": "Ho Yee",
+      "url": "https://multimovies.city/cast/charlie-yeung/",
+      "image": "https://image.tmdb.org/t/p/w92/kPevUgmVapc3U00AsnNajWvTFaS.jpg"
+    },
+    {
+      "name": "Charlene Choi",
+      "role": "Sa Sa",
+      "url": "https://multimovies.city/cast/charlene-choi/",
+      "image": "https://image.tmdb.org/t/p/w92/9f4cT2AgaDsvEwMQRirs0w01mF1.jpg"
+    },
+    {
+      "name": "Daniel Wu",
+      "role": "Joe Kwan",
+      "url": "https://multimovies.city/cast/daniel-wu/",
+      "image": "https://image.tmdb.org/t/p/w92/w6fCmYDlTNYfgdXBZjZH107c9zJ.jpg"
+    },
+    {
+      "name": "Dave Wong",
+      "role": "Sam Wong",
+      "url": "https://multimovies.city/cast/dave-wong/",
+      "image": "https://image.tmdb.org/t/p/w92/aZdVQfrXLd5z88ZaVVf3mMoTszu.jpg"
+    },
+    {
+      "name": "Andy On",
+      "role": "Tin Tin Law",
+      "url": "https://multimovies.city/cast/andy-on/",
+      "image": "https://image.tmdb.org/t/p/w92/zbH0l4V3QJdvkLKPhBr5EB5JWnB.jpg"
+    },
+    {
+      "name": "Terence Yin",
+      "role": "Fire",
+      "url": "https://multimovies.city/cast/terence-yin/",
+      "image": "https://image.tmdb.org/t/p/w92/Avh1W3UQwxfHO7G1BhwZu8aTce7.jpg"
+    },
+    {
+      "name": "Hiro Hayama",
+      "role": "Max Lung",
+      "url": "https://multimovies.city/cast/hiro-hayama/",
+      "image": "https://image.tmdb.org/t/p/w92/gGF0DgY2OJmarMWcE9jdM7zWg8g.jpg"
+    },
+    {
+      "name": "Coco Chiang Yi",
+      "role": "Sue Chow",
+      "url": "https://multimovies.city/cast/coco-chiang-yi/",
+      "image": "https://image.tmdb.org/t/p/w92/mTqZrBkTPE9bNFeDFY11EiUGMVk.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/fSB5G13FLJ3BahcvUXrHIRpniGZ.jpg",
+    "https://image.tmdb.org/t/p/w300/zaL5N5PXPZjK5qV1DYhg3Jk8kft.jpg",
+    "https://image.tmdb.org/t/p/w300/gh24hpNyQXaua2CwKCi7ztVpU3u.jpg",
+    "https://image.tmdb.org/t/p/w300/wjq22fFb15ghLgQWekwn9cJyOuN.jpg",
+    "https://image.tmdb.org/t/p/w300/fSmyalFxPzaDOM27k5cWeBtJdeo.jpg",
+    "https://image.tmdb.org/t/p/w300/v70v3yY5gPK1DvmZCZgBNbbYI7Q.jpg",
+    "https://image.tmdb.org/t/p/w300/y2lAqzdX6lpLTPv1NIQGLhG81CW.jpg",
+    "https://image.tmdb.org/t/p/w300/gYBcJRC1lVUROt3dbATurzL6e18.jpg",
+    "https://image.tmdb.org/t/p/w300/uV1JqgV0Klb5Zs9XTu5QXWrHZqc.jpg",
+    "https://image.tmdb.org/t/p/w300/oMwUsvA08gANzcRBRmvSZsvTNmB.jpg"
+  ],
+  "similar": [],
+  "views": 990,
+  "sources": [
+    "https://www.youtube.com/embed/DdEvxSxZAdE?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/rt30chbt65ub"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 23023,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 23023,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:49:53.786476"
+}
