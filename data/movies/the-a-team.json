@@ -1,0 +1,175 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-a-team/",
+  "meta": {
+    "title": "The A-Team",
+    "poster": "https://image.tmdb.org/t/p/w500/k3mKy2zYfzqGg9o5JeDyzSEPPHO.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 09, 2010",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "A group of Iraq War veterans goes on the run from U.S. military forces while they try to clear their names after being framed for a crime they didn\u2019t commit. Along the way, Col. Hannibal Smith, Capt. H.M. \u2018Howling Mad\u2019 Murdock , Sgt. Bosco \u2018B.A.\u2019 Baracus, and Lt. Templeton \u2018Faceman\u2019 Peck help out various people they encounter.",
+    "infoFields": {
+      "Original title": "The A-Team",
+      "IMDb Rating": "6.7 262,777 votes",
+      "TMDb Rating": "6.393 4,187 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Joe Carnahan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/joe-carnahan/",
+      "image": "https://image.tmdb.org/t/p/w92/e6cnnUqh6mGIjnRFI4xFc30AqVr.jpg"
+    },
+    {
+      "name": "Liam Neeson",
+      "role": "John \"Hannibal\" Smith",
+      "url": "https://multimovies.city/cast/liam-neeson/",
+      "image": "https://image.tmdb.org/t/p/w92/bboldwqSC6tdw2iL6631c98l2Mn.jpg"
+    },
+    {
+      "name": "Sharlto Copley",
+      "role": "\"Howling Mad\" Murdock",
+      "url": "https://multimovies.city/cast/sharlto-copley/",
+      "image": "https://image.tmdb.org/t/p/w92/q2dl9gYrMmgJIOemr4oo5l4gwpu.jpg"
+    },
+    {
+      "name": "Quinton Jackson",
+      "role": "Bosco \"BA\" Baracus",
+      "url": "https://multimovies.city/cast/quinton-jackson/",
+      "image": "https://image.tmdb.org/t/p/w92/1FcZPbXNJRAUJTN2U6choOgaq51.jpg"
+    },
+    {
+      "name": "Bradley Cooper",
+      "role": "Templeton \"Faceman\" Peck",
+      "url": "https://multimovies.city/cast/bradley-cooper/",
+      "image": "https://image.tmdb.org/t/p/w92/DPnessSsWqVXRbKm93PtMjB4Us.jpg"
+    },
+    {
+      "name": "Jessica Biel",
+      "role": "Charisa Sosa",
+      "url": "https://multimovies.city/cast/jessica-biel/",
+      "image": "https://image.tmdb.org/t/p/w92/u5DzbWKvAzS0M4ZhYqpUR9MZr2M.jpg"
+    },
+    {
+      "name": "Patrick Wilson",
+      "role": "Lynch",
+      "url": "https://multimovies.city/cast/patrick-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg"
+    },
+    {
+      "name": "Gerald McRaney",
+      "role": "General Morrison",
+      "url": "https://multimovies.city/cast/gerald-mcraney/",
+      "image": "https://image.tmdb.org/t/p/w92/wT7WK9T3ZS3tQTbzPzH9RR1m6NR.jpg"
+    },
+    {
+      "name": "Brian Bloom",
+      "role": "Pike",
+      "url": "https://multimovies.city/cast/brian-bloom/",
+      "image": "https://image.tmdb.org/t/p/w92/9mZKhI3aVbzZ5Xq43n7fGzWAqi0.jpg"
+    },
+    {
+      "name": "Omari Hardwick",
+      "role": "Chop Shop J",
+      "url": "https://multimovies.city/cast/omari-hardwick/",
+      "image": "https://image.tmdb.org/t/p/w92/acUogRPe6eyhiK33EavBk3SWGlB.jpg"
+    },
+    {
+      "name": "Maury Sterling",
+      "role": "Gammons",
+      "url": "https://multimovies.city/cast/maury-sterling/",
+      "image": "https://image.tmdb.org/t/p/w92/dO9rd0F67Jt9hkcLw4CXERE9q1z.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/puAUfSiVrQO2DPKOobHFjqVcXPt.jpg",
+    "https://image.tmdb.org/t/p/w300/hy1QuQa0sCJAmVAVySYZpMk1okk.jpg",
+    "https://image.tmdb.org/t/p/w300/oKzRUyVY00TVlGYEinmZHpiFfsc.jpg",
+    "https://image.tmdb.org/t/p/w300/ybZlWrftvxGdKPnR92O26lNR5ui.jpg",
+    "https://image.tmdb.org/t/p/w300/hbjWHisnZIvA7hOcxMq3DBN5yLz.jpg",
+    "https://image.tmdb.org/t/p/w300/w7gm4erjkBJXcO0cnYbVEACu7Vc.jpg",
+    "https://image.tmdb.org/t/p/w300/AfK43ueqxKBXCTPQPXl1kTwafvL.jpg",
+    "https://image.tmdb.org/t/p/w300/e8hlHjPcNhjwdPKAe3GzAZonp52.jpg",
+    "https://image.tmdb.org/t/p/w300/rLdcov2OIS7hLo5H7r30QctC3k9.jpg",
+    "https://image.tmdb.org/t/p/w300/qdpAObp03gmlG8xEOp3sx57nrEg.jpg"
+  ],
+  "similar": [],
+  "views": 2226,
+  "sources": [
+    "https://www.youtube.com/embed/exyzEFrmLuM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/tnrg08wzove1",
+    "https://sbplay.org/embed-gi1mxqxoc8yv.html",
+    "https://dood.la/e/vnfjp0lv564f",
+    "https://mixdrop.co/e/en74kdx8fqx8gxw",
+    "https://hydrax.net/watch?v=d9gJ_Kw2LHh"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10665,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 10665,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 10665,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 10665,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 10665,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 10665,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:40:29.264383"
+}
