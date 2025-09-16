@@ -4,15 +4,129 @@
   "meta": {
     "title": "The Legend of Bhagat Singh",
     "poster": "https://image.tmdb.org/t/p/w500/1OYCbYXllUvmkl6PEfefrQHPEWV.jpg",
-    "synopsis": "Born in British India, Bhagat Singh witnesses numerous atrocities during his childhood and grows up to become one of the most fearless freedom fighters in the country."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "History",
+        "url": "https://multimovies.city/genre/history/"
+      }
+    ],
+    "firstAirDate": "Jun. 07, 2002",
+    "ratingValue": "5",
+    "ratingCount": "3",
+    "synopsis": "Born in British India, Bhagat Singh witnesses numerous atrocities during his childhood and grows up to become one of the most fearless freedom fighters in the country.",
+    "infoFields": {
+      "Original title": "\u0926 \u0932\u0940\u091c\u093c\u0947\u0902\u0921 \u0911\u092b\u093c \u092d\u0917\u0924 \u0938\u093f\u0902\u0939",
+      "IMDb Rating": "8.1 16,816 votes",
+      "TMDb Rating": "6.9 49 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Rajkumar Santoshi",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rajkumar-santoshi/",
+      "image": "https://image.tmdb.org/t/p/w92/8XUcYOEigleKe1ipxizoZ16Cmst.jpg"
+    },
+    {
+      "name": "Ajay Devgn",
+      "role": "Bhagat K. Singh",
+      "url": "https://multimovies.city/cast/ajay-devgn/",
+      "image": "https://image.tmdb.org/t/p/w92/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg"
+    },
+    {
+      "name": "Amrita Rao",
+      "role": "Mannewali",
+      "url": "https://multimovies.city/cast/amrita-rao/",
+      "image": "https://image.tmdb.org/t/p/w92/7KrulJXPMtP5Czc7n09SsB1DbIl.jpg"
+    },
+    {
+      "name": "Sushant Singh",
+      "role": "Sukhdev",
+      "url": "https://multimovies.city/cast/sushant-singh/",
+      "image": "https://image.tmdb.org/t/p/w92/cAXp9JphzW3E90OHhxyBB7JXyiO.jpg"
+    },
+    {
+      "name": "Akhilendra Mishra",
+      "role": "Chandrashekhar Azad",
+      "url": "https://multimovies.city/cast/akhilendra-mishra/",
+      "image": "https://image.tmdb.org/t/p/w92/98XU1EhlP6i6CqEvuYtyCzoTlf.jpg"
+    },
+    {
+      "name": "D. Santosh",
+      "role": "Rajguru",
+      "url": "https://multimovies.city/cast/d-santosh/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Bhaswar Chatterjee",
+      "role": "Batukeshwar Dutt",
+      "url": "https://multimovies.city/cast/bhaswar-chatterjee/",
+      "image": "https://image.tmdb.org/t/p/w92/agkI0zcFAiknsHJJHTvOckbLqQ1.jpg"
+    },
+    {
+      "name": "Raj Babbar",
+      "role": "Kishan Singh",
+      "url": "https://multimovies.city/cast/raj-babbar/",
+      "image": "https://image.tmdb.org/t/p/w92/czcJMiNDxfQrNnDPNBM2O6cTmZR.jpg"
+    },
+    {
+      "name": "Farida Jalal",
+      "role": "Vidyavati K. Singh",
+      "url": "https://multimovies.city/cast/farida-jalal/",
+      "image": "https://image.tmdb.org/t/p/w92/qLlAHvTwQw6A91G2CLptlcUMYQZ.jpg"
+    },
+    {
+      "name": "Mukesh Tiwari",
+      "role": "Jailor",
+      "url": "https://multimovies.city/cast/mukesh-tiwari/",
+      "image": "https://image.tmdb.org/t/p/w92/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg"
+    },
+    {
+      "name": "Sitaram Panchal",
+      "role": "Lala Lajpat Rai",
+      "url": "https://multimovies.city/cast/sitaram-panchal/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1a1HqVHE7JskyDntSu3gwvjcH6w.jpg",
+    "https://image.tmdb.org/t/p/w300/2kvu4dl15hG6t9rPob8oyC6Vlrg.jpg",
+    "https://image.tmdb.org/t/p/w300/P2CsZGtsT4fsKpmaMAfMs1Njfe.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 1657,
+  "sources": [
+    "https://www.youtube.com/embed/CY37_al1IRs?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/agvkinr4x9cs"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10264,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 10264,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:31:25"
+  "last_update": "2025-09-16T17:33:01.055463"
 }
