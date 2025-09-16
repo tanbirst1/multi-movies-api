@@ -1,0 +1,121 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/doraemon-nobitas-great-battle-of-the-mermaid-king/",
+  "meta": {
+    "title": "Doraemon The Movie: Nobita Aur Ek Jalpari",
+    "poster": "https://image.tmdb.org/t/p/w500/jh3IFeOKS0icrgF2R5U63XYj7cl.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/genre/disney-channel/"
+      },
+      {
+        "name": "Doraemon Movies",
+        "url": "https://multimovies.city/genre/doraemon/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      }
+    ],
+    "firstAirDate": "Mar. 06, 2010",
+    "ratingValue": "9",
+    "ratingCount": "10",
+    "synopsis": "When Nobita feels like diving in his hometown, Doraemon uses a Underwater Pump Simulator to pump all the water out of Tokyo, causing the entire city to go underwater. That night, Doraemon and Nobita use a Diving Mask Simulator to dive underwater. Later on, lots of fish, and a shark attack Doraemon and Nobita. So, Doraemon puts a stop on the Underwater Pump Simulator, but there is a girl named Sophia, lying down on the bushes in his neighborhood.",
+    "infoFields": {
+      "Original title": "\u6620\u753b\u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u306e\u4eba\u9b5a\u5927\u6d77\u6226",
+      "IMDb Rating": "6.5 534 votes",
+      "TMDb Rating": "7.1 40 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "K\u014dz\u014d Kusuba",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kozo-kusuba/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Chiaki Fujimoto",
+      "role": "Dorami (voice)",
+      "url": "https://multimovies.city/cast/chiaki-fujimoto/",
+      "image": "https://image.tmdb.org/t/p/w92/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
+    },
+    {
+      "name": "Megumi Oohara",
+      "role": "Nobi Nobita (voice)",
+      "url": "https://multimovies.city/cast/megumi-oohara/",
+      "image": "https://image.tmdb.org/t/p/w92/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+    },
+    {
+      "name": "Wasabi Mizuta",
+      "role": "Doraemon (voice)",
+      "url": "https://multimovies.city/cast/wasabi-mizuta/",
+      "image": "https://image.tmdb.org/t/p/w92/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+    },
+    {
+      "name": "Tomokazu Seki",
+      "role": "Suneo Honekawa (voice)",
+      "url": "https://multimovies.city/cast/tomokazu-seki/",
+      "image": "https://image.tmdb.org/t/p/w92/4N6i4cgtbeUj5AJd8kiBZ2BxxEJ.jpg"
+    },
+    {
+      "name": "Yumi Kakazu",
+      "role": "Shizuka Minamoto (voice)",
+      "url": "https://multimovies.city/cast/yumi-kakazu/",
+      "image": "https://image.tmdb.org/t/p/w92/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+    },
+    {
+      "name": "Subaru Kimura",
+      "role": "Takeshi Goda (voice)",
+      "url": "https://multimovies.city/cast/subaru-kimura/",
+      "image": "https://image.tmdb.org/t/p/w92/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+    },
+    {
+      "name": "Shihoko Hagino",
+      "role": "Dekisugi (voice)",
+      "url": "https://multimovies.city/cast/shihoko-hagino/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Mayumi Iizuka",
+      "role": "Haribo (voice)",
+      "url": "https://multimovies.city/cast/mayumi-iizuka/",
+      "image": "https://image.tmdb.org/t/p/w92/mg1ZCF9fhbBOgHgpL98g6CkWndc.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6Aj4LfIOhG85obqGE3O0WvpQzqw.jpg",
+    "https://image.tmdb.org/t/p/w300/fVRmav5gfVQ9b5lRMFMQL0F9cZM.jpg",
+    "https://image.tmdb.org/t/p/w300/stcq2uChjFlykpg3eEZ3OHAul6q.jpg"
+  ],
+  "similar": [],
+  "views": 8978,
+  "sources": [
+    "https://multimoviesshg.com/e/0lpsssgpta0i"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11033,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:36:53.683573"
+}
