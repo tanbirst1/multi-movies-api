@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-pianist/",
+  "meta": {
+    "title": "The Pianist",
+    "poster": "https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "War",
+        "url": "https://multimovies.city/genre/war/"
+      }
+    ],
+    "firstAirDate": "Sep. 17, 2002",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "The true story of pianist W\u0142adys\u0142aw Szpilman\u2019s experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a caf\u00e9; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+    "infoFields": {
+      "Original title": "The Pianist",
+      "IMDb Rating": "8.5 910,824 votes",
+      "TMDb Rating": "8.382 8,809 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Roman Polanski",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roman-polanski/",
+      "image": "https://image.tmdb.org/t/p/w92/yHwHSXdZatkoLgIjPeW14GKlrZs.jpg"
+    },
+    {
+      "name": "Adrien Brody",
+      "role": "W\u0142adys\u0142aw 'W\u0142adek' Szpilman",
+      "url": "https://multimovies.city/cast/adrien-brody/",
+      "image": "https://image.tmdb.org/t/p/w92/1dBItgLFBNGEXnI48VvnnN2vFaX.jpg"
+    },
+    {
+      "name": "Thomas Kretschmann",
+      "role": "Captain Wilm Hosenfeld",
+      "url": "https://multimovies.city/cast/thomas-kretschmann/",
+      "image": "https://image.tmdb.org/t/p/w92/kBnPu1KREhckuPpnAUppm24kkVX.jpg"
+    },
+    {
+      "name": "Frank Finlay",
+      "role": "Father",
+      "url": "https://multimovies.city/cast/frank-finlay/",
+      "image": "https://image.tmdb.org/t/p/w92/fO7CYAaGydu9d3s5numYRi1BRvL.jpg"
+    },
+    {
+      "name": "Maureen Lipman",
+      "role": "Mother",
+      "url": "https://multimovies.city/cast/maureen-lipman/",
+      "image": "https://image.tmdb.org/t/p/w92/kx26NOAw9GnsHjJIJ4l40YHblJ.jpg"
+    },
+    {
+      "name": "Emilia Fox",
+      "role": "Dorota",
+      "url": "https://multimovies.city/cast/emilia-fox/",
+      "image": "https://image.tmdb.org/t/p/w92/lZpNRsHAOW8m0f7bRfgUDmRRjo.jpg"
+    },
+    {
+      "name": "Ed Stoppard",
+      "role": "Henryk Szpilman",
+      "url": "https://multimovies.city/cast/ed-stoppard/",
+      "image": "https://image.tmdb.org/t/p/w92/kulqaGMqFhFpnj7QvQxCOHTzrc1.jpg"
+    },
+    {
+      "name": "Julia Rayner",
+      "role": "Regina Szpilman",
+      "url": "https://multimovies.city/cast/julia-rayner/",
+      "image": "https://image.tmdb.org/t/p/w92/rLDjZ79E5tHILTpzKitMaC3r1sI.jpg"
+    },
+    {
+      "name": "Jessica Kate Meyer",
+      "role": "Halina Szpilman",
+      "url": "https://multimovies.city/cast/jessica-kate-meyer/",
+      "image": "https://image.tmdb.org/t/p/w92/vwyvMA9t4njaaAriCNaXBkpcyy6.jpg"
+    },
+    {
+      "name": "Michal Zebrowski",
+      "role": "Jurek",
+      "url": "https://multimovies.city/cast/michal-zebrowski/",
+      "image": "https://image.tmdb.org/t/p/w92/4qzNrGn4V17nDPF3HmJcpk0rLb2.jpg"
+    },
+    {
+      "name": "Wanja Mues",
+      "role": "SS Slapping Father",
+      "url": "https://multimovies.city/cast/wanja-mues/",
+      "image": "https://image.tmdb.org/t/p/w92/10ptcRKO2diZH1lqVUdWfCIEFG6.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+    "https://image.tmdb.org/t/p/w300/1XqIhsqnAozznGhxlGdI0GPcCro.jpg",
+    "https://image.tmdb.org/t/p/w300/cqOmm81h5zVl182kzbr0xSKD6nF.jpg",
+    "https://image.tmdb.org/t/p/w300/A7r8GRpvOojI2Vl5EEJfAIfzCg9.jpg",
+    "https://image.tmdb.org/t/p/w300/43qoaxPabvW2cDDI60Dam6mHV0K.jpg",
+    "https://image.tmdb.org/t/p/w300/qLo1CF1zixEaKqOHXI1Tn4xavjm.jpg",
+    "https://image.tmdb.org/t/p/w300/tVXem005jd4AepgfyaILijflNlQ.jpg",
+    "https://image.tmdb.org/t/p/w300/giYF7lVVxDrMTsHCPVleLotmEfL.jpg",
+    "https://image.tmdb.org/t/p/w300/tzGA6ip6dhYn9apYbGV2U2uRW8e.jpg",
+    "https://image.tmdb.org/t/p/w300/fuFcyX9pXcLeKfsEpArtnqV3gyX.jpg"
+  ],
+  "similar": [],
+  "views": 2360,
+  "sources": [
+    "https://www.youtube.com/embed/u_jE7-6Uv7E?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/ak8jjzqaouk4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 48517,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 48517,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:36:11.991981"
+}
