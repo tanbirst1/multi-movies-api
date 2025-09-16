@@ -1,0 +1,126 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/scary-movie-3/",
+  "meta": {
+    "title": "Scary Movie 3",
+    "poster": "https://image.tmdb.org/t/p/w500/9hxL94pzuix9GWwba8dr4luINyo.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Oct. 24, 2003",
+    "ratingValue": "9.5",
+    "ratingCount": "2",
+    "synopsis": "In the third installment of the Scary Movie franchise, news anchorwoman Cindy Campbell has to investigate mysterious crop circles and killing video tapes, and help the President stop an alien invasion in the process.",
+    "infoFields": {
+      "Original title": "Scary Movie 3",
+      "IMDb Rating": "5.6 163,975 votes",
+      "TMDb Rating": "5.961 4,161 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Zucker",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-zucker/",
+      "image": "https://image.tmdb.org/t/p/w92/xsnUOQbDmFYmCWINHqfBnKIMRVa.jpg"
+    },
+    {
+      "name": "Anna Faris",
+      "role": "Cindy Campbell",
+      "url": "https://multimovies.city/cast/anna-faris/",
+      "image": "https://image.tmdb.org/t/p/w92/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg"
+    },
+    {
+      "name": "Simon Rex",
+      "role": "George",
+      "url": "https://multimovies.city/cast/simon-rex/",
+      "image": "https://image.tmdb.org/t/p/w92/uD5rVSTfypRR4p5wnnSwEa6qGDH.jpg"
+    },
+    {
+      "name": "Anthony Anderson",
+      "role": "Mahalik",
+      "url": "https://multimovies.city/cast/anthony-anderson/",
+      "image": "https://image.tmdb.org/t/p/w92/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+    },
+    {
+      "name": "Charlie Sheen",
+      "role": "Tom",
+      "url": "https://multimovies.city/cast/charlie-sheen/",
+      "image": "https://image.tmdb.org/t/p/w92/sxoSLhXPEL1Hp1yaTpejTLfd1As.jpg"
+    },
+    {
+      "name": "Regina Hall",
+      "role": "Brenda Meeks",
+      "url": "https://multimovies.city/cast/regina-hall/",
+      "image": "https://image.tmdb.org/t/p/w92/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+      "name": "Leslie Nielsen",
+      "role": "President Baxter Harris",
+      "url": "https://multimovies.city/cast/leslie-nielsen/",
+      "image": "https://image.tmdb.org/t/p/w92/u5vWl5dw69Nf89f905Qb5JqEVL3.jpg"
+    },
+    {
+      "name": "Kevin Hart",
+      "role": "CJ",
+      "url": "https://multimovies.city/cast/kevin-hart/",
+      "image": "https://image.tmdb.org/t/p/w92/7OwsFfoxNGIfWwSmdORyB7v8XNj.jpg"
+    },
+    {
+      "name": "Jeremy Piven",
+      "role": "Ross Giggins",
+      "url": "https://multimovies.city/cast/jeremy-piven/",
+      "image": "https://image.tmdb.org/t/p/w92/pBD1jcAZiDrHWcFpJtBtqLRD4gR.jpg"
+    },
+    {
+      "name": "Pamela Anderson",
+      "role": "Becca",
+      "url": "https://multimovies.city/cast/pamela-anderson/",
+      "image": "https://image.tmdb.org/t/p/w92/9G4tgRMFw3Po623344dnHQzRVkp.jpg"
+    },
+    {
+      "name": "Jenny McCarthy-Wahlberg",
+      "role": "Kate",
+      "url": "https://multimovies.city/cast/jenny-mccarthy-wahlberg/",
+      "image": "https://image.tmdb.org/t/p/w92/3TLU4bjzAW3Q85ELPqhPsyXC5DR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/jRjfxiLcO8iMGlPzuQoSD7tqOOZ.jpg",
+    "https://image.tmdb.org/t/p/w300/lGHd1JOwCdyM2Led0qo3FiI71fF.jpg",
+    "https://image.tmdb.org/t/p/w300/sZnMehKrIYWE32aebjdkDT8mySd.jpg",
+    "https://image.tmdb.org/t/p/w300/x7j1EodwYOxPZuA9XXQKNVhFN9A.jpg",
+    "https://image.tmdb.org/t/p/w300/nF74HKjNe7X54XMcIc7ulK5InxR.jpg"
+  ],
+  "similar": [],
+  "views": 4647,
+  "sources": [
+    "https://www.youtube.com/embed/O21wD8Tzr2k?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/zf1at6p"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6728,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6728,
+      "nume": 1,
+      "title": "2ru"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:46:13.511057"
+}
