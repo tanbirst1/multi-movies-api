@@ -1,0 +1,113 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/chintu-ji/",
+  "meta": {
+    "title": "Chintu Ji",
+    "poster": "https://image.tmdb.org/t/p/w500/bKvETPlNQlvDCqeheirGknoYwa4.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Sep. 04, 2009",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Rishi \u2018Chintuji\u2019 Kapoor, the son of a legendary actor, decides to enter politics and go to Hadbahedi, a remote village. However, he creates havoc by misleading the villagers who trust him simply because he is famous.",
+    "infoFields": {
+      "Original title": "\u091a\u093f\u0902\u091f\u0942 \u091c\u0940",
+      "IMDb Rating": "5.5 223 votes",
+      "TMDb Rating": "3.3 3 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ranjit Kapoor",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ranjit-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/toKeAxcOIgtGoekt4jQpdQy57oC.jpg"
+    },
+    {
+      "name": "Rishi Kapoor",
+      "role": "Chintu",
+      "url": "https://multimovies.city/cast/rishi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/yQOKkmQaksa3hOi72MbPnrqz77k.jpg"
+    },
+    {
+      "name": "Priyanshu Chatterjee",
+      "role": "Arun Bakshi",
+      "url": "https://multimovies.city/cast/priyanshu-chatterjee/",
+      "image": "https://image.tmdb.org/t/p/w92/fPAIAZcdGD2UBMwBluqiYi5pXHb.jpg"
+    },
+    {
+      "name": "Kulraj Randhawa",
+      "role": "Devika Malhotra",
+      "url": "https://multimovies.city/cast/kulraj-randhawa/",
+      "image": "https://image.tmdb.org/t/p/w92/fBVsNODjOZBIXTunnjEhiQqFfWx.jpg"
+    },
+    {
+      "name": "Saurabh Shukla",
+      "role": "Malkani",
+      "url": "https://multimovies.city/cast/saurabh-shukla/",
+      "image": "https://image.tmdb.org/t/p/w92/uFGVBmRIHLAQkYYSI2lSXOxMi4f.jpg"
+    },
+    {
+      "name": "Grusha Kapoor",
+      "role": "Kanta",
+      "url": "https://multimovies.city/cast/grusha-kapoor/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Anu Kapoor",
+      "role": "Amar Sanghvi",
+      "url": "https://multimovies.city/cast/anu-kapoor/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sophiya Chaudhary",
+      "role": "Menka",
+      "url": "https://multimovies.city/cast/sophiya-chaudhary/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ashish Ghosh",
+      "role": "doctor",
+      "url": "https://multimovies.city/cast/ashish-ghosh/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kseniya Ryabinkina",
+      "role": "Special Appearance",
+      "url": "https://multimovies.city/cast/kseniya-ryabinkina/",
+      "image": "https://image.tmdb.org/t/p/w92/r2avbCPtomh0nETqbldSfx1DQw8.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ffOP04nfA0rLGCn4fRZx3kWBr43.jpg"
+  ],
+  "similar": [],
+  "views": 91,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/mwlyrhd"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 68609,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:32:04.661058"
+}
