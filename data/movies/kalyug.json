@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/kalyug/",
+  "meta": {
+    "title": "Kalyug",
+    "poster": "https://image.tmdb.org/t/p/w500/zvs6wuMCdn0zTe3U7yeXboiHjin.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Dec. 09, 2005",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Kunal and Renuka\u2019s marital bliss is shattered when a group of people film and upload a video of them being intimate on an adult website. Kunal fights to take them and their illegal racket down.",
+    "infoFields": {
+      "Original title": "\u0915\u0932\u092f\u0941\u0917",
+      "IMDb Rating": "6.5 3,137 votes",
+      "TMDb Rating": "6.2 18 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mohit Suri",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mohit-suri/",
+      "image": "https://image.tmdb.org/t/p/w92/iDAUmTKFKD0XVDyqFNtAyMNzx4W.jpg"
+    },
+    {
+      "name": "Kunal Khemu",
+      "role": "Kunal Dhar",
+      "url": "https://multimovies.city/cast/kunal-khemu/",
+      "image": "https://image.tmdb.org/t/p/w92/b14MYOFVeebBGyD2Zr86DIMNH0h.jpg"
+    },
+    {
+      "name": "Emraan Hashmi",
+      "role": "Ali Bhai",
+      "url": "https://multimovies.city/cast/emraan-hashmi/",
+      "image": "https://image.tmdb.org/t/p/w92/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+      "name": "Deepal Shaw",
+      "role": "Anita 'Annie'",
+      "url": "https://multimovies.city/cast/deepal-shaw/",
+      "image": "https://image.tmdb.org/t/p/w92/uao1qnhJkTMH8PWMSQCzcNw3Dfa.jpg"
+    },
+    {
+      "name": "Smiley Suri",
+      "role": "Renuka",
+      "url": "https://multimovies.city/cast/smiley-suri/",
+      "image": "https://image.tmdb.org/t/p/w92/2q8CuVO73jqeh9tz9QEsNnTkvB5.jpg"
+    },
+    {
+      "name": "Amrita Singh",
+      "role": "Simi Roy",
+      "url": "https://multimovies.city/cast/amrita-singh/",
+      "image": "https://image.tmdb.org/t/p/w92/yzGYLwPUvn5ksdisC0L4bQiLTNj.jpg"
+    },
+    {
+      "name": "Ashutosh Rana",
+      "role": "Farid",
+      "url": "https://multimovies.city/cast/ashutosh-rana/",
+      "image": "https://image.tmdb.org/t/p/w92/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+      "name": "Atul Parchure",
+      "role": "Bhaskar",
+      "url": "https://multimovies.city/cast/atul-parchure/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Farid Amiri",
+      "role": "Vikram Garewal",
+      "url": "https://multimovies.city/cast/farid-amiri/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sandeep Mehta",
+      "role": "Advocate Ketan Shah",
+      "url": "https://multimovies.city/cast/sandeep-mehta/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Yatin Karyekar",
+      "role": "Kunal's Father",
+      "url": "https://multimovies.city/cast/yatin-karyekar/",
+      "image": "https://image.tmdb.org/t/p/w92/ugntR3EIb0SWV1HhBK7wUtPCB1h.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/gFZal1ArW2Qy1BGRRkOjAHlKCQ5.jpg",
+    "https://image.tmdb.org/t/p/w300/t4PpBhBh5TSaeMzMvRUpOOVTMED.jpg",
+    "https://image.tmdb.org/t/p/w300/ds3KFqLCojOW0OfAeMmJdua6nwV.jpg",
+    "https://image.tmdb.org/t/p/w300/knsdKjueNnYnztbGqCiQ9wgQwyV.jpg",
+    "https://image.tmdb.org/t/p/w300/tEoDkMl4JpjQsVyIkxmqHw5IQRs.jpg",
+    "https://image.tmdb.org/t/p/w300/ueCUOpKwYnBPd5eUsHeM3lDmiGX.jpg",
+    "https://image.tmdb.org/t/p/w300/6u6eRWsVsqSATXrC2atX0GogkQc.jpg",
+    "https://image.tmdb.org/t/p/w300/xa4zzJSDkeH1MelWVDduyNSGDGf.jpg",
+    "https://image.tmdb.org/t/p/w300/6XLyWmyotT0XLmHbv922ioNs4O0.jpg",
+    "https://image.tmdb.org/t/p/w300/klDmnzWuExEh5EjKDdbxiqIunhj.jpg"
+  ],
+  "similar": [],
+  "views": 8971,
+  "sources": [
+    "https://www.youtube.com/embed/Ve0qbY-_J8E?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/9b5oy7q71t1g"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 47597,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 47597,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:57:46.454313"
+}
