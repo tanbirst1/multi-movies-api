@@ -1,0 +1,126 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/swades/",
+  "meta": {
+    "title": "Swades",
+    "poster": "https://image.tmdb.org/t/p/w500/jAu4UhlBWVcpWVUgZvxvn67Hh42.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Dec. 17, 2004",
+    "ratingValue": "9.6",
+    "ratingCount": "15",
+    "synopsis": "A successful Indian scientist returns home to his village to take his nanny back to America with him, and in the process rediscovers his roots.",
+    "infoFields": {
+      "Original title": "\u0938\u094d\u0935\u0926\u0947\u0938",
+      "IMDb Rating": "8.2 98,231 votes",
+      "TMDb Rating": "7.263 300 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ashutosh Gowariker",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ashutosh-gowariker/",
+      "image": "https://image.tmdb.org/t/p/w92/68HDY3mVDLtx4GI4jMHCkzhSICy.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Mohan Bhargav",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Gayatri Joshi",
+      "role": "Gita",
+      "url": "https://multimovies.city/cast/gayatri-joshi/",
+      "image": "https://image.tmdb.org/t/p/w92/j7htn5mcWPP4qWoV1NQ3DLkmJlv.jpg"
+    },
+    {
+      "name": "Kishori Balal",
+      "role": "Kaveri Amma",
+      "url": "https://multimovies.city/cast/kishori-balal/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Smith Seth",
+      "role": "Chiku",
+      "url": "https://multimovies.city/cast/smith-seth/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Lekh Tandon",
+      "role": "Dadaji",
+      "url": "https://multimovies.city/cast/lekh-tandon/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Rajesh Vivek",
+      "role": "Nivaran Dayal Shrivastav",
+      "url": "https://multimovies.city/cast/rajesh-vivek/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Daya Shankar Pandey",
+      "role": "Mela Ram",
+      "url": "https://multimovies.city/cast/daya-shankar-pandey/",
+      "image": "https://image.tmdb.org/t/p/w92/Aatr8cdKgD0tIkk7Iy8QMKHAev2.jpg"
+    },
+    {
+      "name": "Farrukh Jaffar",
+      "role": "Fatima Bi",
+      "url": "https://multimovies.city/cast/farrukh-jaffar/",
+      "image": "https://image.tmdb.org/t/p/w92/5k29GCI3qLC2n0YPsKVvv7Sn4b2.jpg"
+    },
+    {
+      "name": "Vishnudutt Gaur",
+      "role": "",
+      "url": "https://multimovies.city/cast/vishnudutt-gaur/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Raja Awasthi",
+      "role": "",
+      "url": "https://multimovies.city/cast/raja-awasthi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/AmRfsOyEXpVhnaYXZMoDlZd9Siq.jpg"
+  ],
+  "similar": [],
+  "views": 20535,
+  "sources": [
+    "https://www.youtube.com/embed/vc7AZNWvs0M?autoplay=0&autohide=1",
+    "https://smoothpre.com/v/5hrjrgspybtx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 45477,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 45477,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:53:28.886067"
+}
