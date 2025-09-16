@@ -1,0 +1,163 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/8-mile/",
+  "meta": {
+    "title": "8 Mile",
+    "poster": "https://image.tmdb.org/t/p/w500/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Music",
+        "url": "https://multimovies.city/genre/music/"
+      }
+    ],
+    "firstAirDate": "Nov. 08, 2002",
+    "ratingValue": "10",
+    "ratingCount": "4",
+    "synopsis": "For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his dreams in Detroit\u2019s vibrant music scene, Jimmy wages an extraordinary personal struggle to find his own voice \u2013 and earn a place in a world where rhymes rule, legends are born and every moment\u2026 is another chance.",
+    "infoFields": {
+      "Original title": "8 Mile",
+      "IMDb Rating": "7.2 300,369 votes",
+      "TMDb Rating": "7.125 6,454 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Curtis Hanson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/curtis-hanson/",
+      "image": "https://image.tmdb.org/t/p/w92/1ht0tJ0Icxc134W3ZpcGtwMtNLA.jpg"
+    },
+    {
+      "name": "Eminem",
+      "role": "Jimmy B. \"Rabbit\" Smith",
+      "url": "https://multimovies.city/cast/eminem/",
+      "image": "https://image.tmdb.org/t/p/w92/4DwawZRFMdc11qfOom2qZ7Wj2QA.jpg"
+    },
+    {
+      "name": "Mekhi Phifer",
+      "role": "David \"Future\" Porter",
+      "url": "https://multimovies.city/cast/mekhi-phifer/",
+      "image": "https://image.tmdb.org/t/p/w92/b9qbdKiuJdNROpIdZCuUdN5Smam.jpg"
+    },
+    {
+      "name": "Brittany Murphy",
+      "role": "Alex",
+      "url": "https://multimovies.city/cast/brittany-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/uLOrqcSk2h5o3ekNfcuGFDzN13W.jpg"
+    },
+    {
+      "name": "Kim Basinger",
+      "role": "Stephanie Smith",
+      "url": "https://multimovies.city/cast/kim-basinger/",
+      "image": "https://image.tmdb.org/t/p/w92/iqQ4o2sRna7J1Z9KkB9Avp9CIsk.jpg"
+    },
+    {
+      "name": "Michael Shannon",
+      "role": "Greg Buehl",
+      "url": "https://multimovies.city/cast/michael-shannon/",
+      "image": "https://image.tmdb.org/t/p/w92/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+    },
+    {
+      "name": "Evan Jones",
+      "role": "Cheddar Bob",
+      "url": "https://multimovies.city/cast/evan-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/uxYasGfUeiAGDZeOza7cIEE2Pbc.jpg"
+    },
+    {
+      "name": "Taryn Manning",
+      "role": "Janeane",
+      "url": "https://multimovies.city/cast/taryn-manning/",
+      "image": "https://image.tmdb.org/t/p/w92/obE0w8SVx7Hq773KY2DCxK1j2GF.jpg"
+    },
+    {
+      "name": "Anthony Mackie",
+      "role": "Papa Doc",
+      "url": "https://multimovies.city/cast/anthony-mackie/",
+      "image": "https://image.tmdb.org/t/p/w92/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+    },
+    {
+      "name": "De'Angelo Wilson",
+      "role": "DJ IZ",
+      "url": "https://multimovies.city/cast/deangelo-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/wdR9xye5No1vwMFPI8Xyl01DdSM.jpg"
+    },
+    {
+      "name": "Omar Benson Miller",
+      "role": "Sol George",
+      "url": "https://multimovies.city/cast/omar-benson-miller/",
+      "image": "https://image.tmdb.org/t/p/w92/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bfccQmQWNFQYRv4PHgCnjDu7PXn.jpg",
+    "https://image.tmdb.org/t/p/w300/xfEa80juvBHiL2hwfiJ7IBGdJnN.jpg",
+    "https://image.tmdb.org/t/p/w300/jNG7pl0DkN1nzxnbZj4MCGf2VEG.jpg",
+    "https://image.tmdb.org/t/p/w300/AiFLFZmq1dSzE8bw30sdRx0wEm1.jpg",
+    "https://image.tmdb.org/t/p/w300/k0Dkh8FMlVwa6MO7Hd2L7ElTasA.jpg",
+    "https://image.tmdb.org/t/p/w300/8HqhmtD7WOoADlqmy55wpPu24Mv.jpg",
+    "https://image.tmdb.org/t/p/w300/hm8XHsub0gyxivEpNKuECc65rBt.jpg",
+    "https://image.tmdb.org/t/p/w300/hzC4Zy7NxtWHPWEkOw8XCOkmNnb.jpg",
+    "https://image.tmdb.org/t/p/w300/uVUfJCqGmDPc8Sjam6GVKmUpxqE.jpg",
+    "https://image.tmdb.org/t/p/w300/1nZXiqhwvaRSdLqF10RExCShl7b.jpg"
+  ],
+  "similar": [],
+  "views": 1740,
+  "sources": [
+    "https://www.youtube.com/embed/xh1ROLEDyP4?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/2sffkchpvd6v",
+    "https://sbplay.org/embed-bdnmilbspoab.html",
+    "https://dood.la/e/6p1g6rnif6ro",
+    "https://mixdrop.co/e/4nxxr14ps1q83n",
+    "https://hydrax.net/watch?v=1xA-v9nWGP"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 16255,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 16255,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 16255,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 16255,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 16255,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 16255,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:35:29.387153"
+}
