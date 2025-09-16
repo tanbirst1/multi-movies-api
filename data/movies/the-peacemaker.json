@@ -1,0 +1,86 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-peacemaker/",
+  "meta": {
+    "title": "The Peacemaker",
+    "poster": "https://image.tmdb.org/t/p/w500/dt_poster.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Oct. 14, 1914",
+    "ratingValue": "1",
+    "ratingCount": "1",
+    "synopsis": "",
+    "infoFields": {
+      "Original title": "The Peacemaker"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Van Dyke Brooke",
+      "role": "Director",
+      "url": "https://multimovies.city/director/van-dyke-brooke/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Antonio Moreno",
+      "role": "",
+      "url": "https://multimovies.city/cast/antonio-moreno/",
+      "image": "https://image.tmdb.org/t/p/w92/swsEgnc8bkILLcOjUDPGtZdXnQs.jpg"
+    },
+    {
+      "name": "Norma Talmadge",
+      "role": "",
+      "url": "https://multimovies.city/cast/norma-talmadge/",
+      "image": "https://image.tmdb.org/t/p/w92/h8ES1kk8EEByz34sKaWMDyB6Ntv.jpg"
+    },
+    {
+      "name": "Van Dyke Brooke",
+      "role": "",
+      "url": "https://multimovies.city/cast/van-dyke-brooke/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Constance Talmadge",
+      "role": "",
+      "url": "https://multimovies.city/cast/constance-talmadge/",
+      "image": "https://image.tmdb.org/t/p/w92/ns0qHdjv8WRgsL5wNe3I5HAc1Uq.jpg"
+    },
+    {
+      "name": "Garry McGarry",
+      "role": "",
+      "url": "https://multimovies.city/cast/garry-mcgarry/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Maurice Costello",
+      "role": "Himself - Cameo Appearance",
+      "url": "https://multimovies.city/cast/maurice-costello/",
+      "image": "https://image.tmdb.org/t/p/w92/n5oYXqQdabGu1sTCrLFWHg40RSL.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 852,
+  "sources": [
+    "https://multimoviesshg.com/e/071qbg7z5x1g"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 32490,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
