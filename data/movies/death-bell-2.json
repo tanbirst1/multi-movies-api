@@ -1,0 +1,124 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/death-bell-2/",
+  "meta": {
+    "title": "Death Bell 2",
+    "poster": "https://image.tmdb.org/t/p/w500/6E3XPxhorO0sLIa0jeX3zDD3PXI.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Jul. 28, 2010",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "A class of students stays at school for a camp in an elite study group to finesse theirs and the school\u2019s grades. Upon the first night, the swimming coach is found murdered. As the students try to figure out what happens, a voice informs them that if they don\u2019t figure the murder out, students will begin dying in quick succession.",
+    "infoFields": {
+      "Original title": "\uace0\uc0ac \ub450 \ubc88\uc9f8 \uc774\uc57c\uae30: \uad50\uc0dd\uc2e4\uc2b5",
+      "IMDb Rating": "4.9 896 votes",
+      "TMDb Rating": "5.8 72 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "You Sun-dong",
+      "role": "Director",
+      "url": "https://multimovies.city/director/you-sun-dong/",
+      "image": "https://image.tmdb.org/t/p/w92/inQLiElwPIeiKkIm7AWKjbWGtXu.jpg"
+    },
+    {
+      "name": "Kim Soo-ro",
+      "role": "Cha Seon-sang",
+      "url": "https://multimovies.city/cast/kim-soo-ro/",
+      "image": "https://image.tmdb.org/t/p/w92/fWyRbAX57XJsvQ7dRRzco6XquEN.jpg"
+    },
+    {
+      "name": "Hwang Jung-eum",
+      "role": "Eun-su",
+      "url": "https://multimovies.city/cast/hwang-jung-eum/",
+      "image": "https://image.tmdb.org/t/p/w92/6cFV8HmyyyTl7QfZE9KJhr051SM.jpg"
+    },
+    {
+      "name": "Park Ji-yeon",
+      "role": "Se-hee",
+      "url": "https://multimovies.city/cast/park-ji-yeon/",
+      "image": "https://image.tmdb.org/t/p/w92/djhLfOL5bK4tmR4LiSVnChbKzWc.jpg"
+    },
+    {
+      "name": "Yoon Shi-yoon",
+      "role": "Kwan-woo",
+      "url": "https://multimovies.city/cast/yoon-shi-yoon/",
+      "image": "https://image.tmdb.org/t/p/w92/jHh6iGf2UrGPn6rZ0xfwpl0jA8E.jpg"
+    },
+    {
+      "name": "Park Eun-bin",
+      "role": "Na-rae",
+      "url": "https://multimovies.city/cast/park-eun-bin/",
+      "image": "https://image.tmdb.org/t/p/w92/2PqeVq0KV1pEUgeeSquk2ljfMR0.jpg"
+    },
+    {
+      "name": "Ji Chang-wook",
+      "role": "Soo-il",
+      "url": "https://multimovies.city/cast/ji-chang-wook/",
+      "image": "https://image.tmdb.org/t/p/w92/nlReEkp65LAhIVVNcxdIfSco0kn.jpg"
+    },
+    {
+      "name": "Yoon Seung-ah",
+      "role": "Tae-yeon",
+      "url": "https://multimovies.city/cast/yoon-seung-ah/",
+      "image": "https://image.tmdb.org/t/p/w92/uBs9J9zkgSPHW14h10AXMBWC4yX.jpg"
+    },
+    {
+      "name": "Lee Ah-jin",
+      "role": "Ji-yoon",
+      "url": "https://multimovies.city/cast/lee-ah-jin/",
+      "image": "https://image.tmdb.org/t/p/w92/qqoLBdAUStTlOp3nbhTNy9EaooD.jpg"
+    },
+    {
+      "name": "Nam Bo-ra",
+      "role": "Hyeon-a",
+      "url": "https://multimovies.city/cast/nam-bo-ra/",
+      "image": "https://image.tmdb.org/t/p/w92/62tB8Dp2D7XqkJV5GvGXcX46dca.jpg"
+    },
+    {
+      "name": "Yeo Min-joo",
+      "role": "Yong-ran",
+      "url": "https://multimovies.city/cast/yeo-min-joo/",
+      "image": "https://image.tmdb.org/t/p/w92/oJf1mH5HokD8UbOqvMrnNPX6Qim.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qd6QhU1nHK2eSvYVKYvQrx5GVJR.jpg",
+    "https://image.tmdb.org/t/p/w300/sfy6saHj8cnao5bQT5nTrG5TqHY.jpg",
+    "https://image.tmdb.org/t/p/w300/l2zpd5YcviwL6CIxyZsYtwyHSmc.jpg"
+  ],
+  "similar": [],
+  "views": 1218,
+  "sources": [
+    "https://www.youtube.com/embed/Bue6dwVDNCg?autoplay=0&autohide=1",
+    "https://player.videasy.net/movie/tt1703938"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 62805,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 62805,
+      "nume": 1,
+      "title": "vidsrc"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:44:13.590950"
+}
