@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hum-tum/",
+  "meta": {
+    "title": "Hum Tum",
+    "poster": "https://image.tmdb.org/t/p/w500/yYwxJ6Qgr2TyHMRPBSqiCHQeVMb.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "May. 28, 2004",
+    "ratingValue": "8.3",
+    "ratingCount": "6",
+    "synopsis": "The encounters of two people who run into each other on several occasions under circumstances ranging from friendly to hostile to loving. Along many years and countless run-ins, the two despise each other, befriend each other, and fall in love with each other\u2014in no particular order.",
+    "infoFields": {
+      "Original title": "\u0939\u092e \u0924\u0941\u092e",
+      "IMDb Rating": "7 14,645 votes",
+      "TMDb Rating": "6.447 85 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kunal Kohli",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kunal-kohli/",
+      "image": "https://image.tmdb.org/t/p/w92/kFnrHabWyrESlZZMmBKEV57WX3h.jpg"
+    },
+    {
+      "name": "Rani Mukerji",
+      "role": "Rhea Prakash",
+      "url": "https://multimovies.city/cast/rani-mukerji/",
+      "image": "https://image.tmdb.org/t/p/w92/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg"
+    },
+    {
+      "name": "Saif Ali Khan",
+      "role": "Karan Kapoor",
+      "url": "https://multimovies.city/cast/saif-ali-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    },
+    {
+      "name": "Kirron Kher",
+      "role": "Parminder Prakash",
+      "url": "https://multimovies.city/cast/kirron-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/bM9ZjQmsKYqGQaqBBPIhwlsNOYx.jpg"
+    },
+    {
+      "name": "Rati Agnihotri",
+      "role": "Anju Kapoor",
+      "url": "https://multimovies.city/cast/rati-agnihotri/",
+      "image": "https://image.tmdb.org/t/p/w92/a4E2eoMZAt8bxRwSzX208UXBza5.jpg"
+    },
+    {
+      "name": "Rishi Kapoor",
+      "role": "Arjun Kapoor",
+      "url": "https://multimovies.city/cast/rishi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/yQOKkmQaksa3hOi72MbPnrqz77k.jpg"
+    },
+    {
+      "name": "Jimmy Shergill",
+      "role": "Mihir Vora",
+      "url": "https://multimovies.city/cast/jimmy-shergill/",
+      "image": "https://image.tmdb.org/t/p/w92/A3fJrhIgM7Q5TGwbQYxYBjNsV37.jpg"
+    },
+    {
+      "name": "Abhishek Bachchan",
+      "role": "Sameer",
+      "url": "https://multimovies.city/cast/abhishek-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/o2hWC004VnRyGLOgg8OjiP1Ch5A.jpg"
+    },
+    {
+      "name": "Shenaz Treasury",
+      "role": "Shalini",
+      "url": "https://multimovies.city/cast/shenaz-treasury/",
+      "image": "https://image.tmdb.org/t/p/w92/6ytAiGLbDpkHHtkdIHfq1AB2zkT.jpg"
+    },
+    {
+      "name": "Isha Koppikar",
+      "role": "Diana Fernandez",
+      "url": "https://multimovies.city/cast/isha-koppikar/",
+      "image": "https://image.tmdb.org/t/p/w92/yKxTrxQLc3acJdNG02YfFWXo36w.jpg"
+    },
+    {
+      "name": "Parinita Seth",
+      "role": "Friend",
+      "url": "https://multimovies.city/cast/parinita-seth/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/fGxaC8xYB8xc33sGGzZfFM3nPq2.jpg"
+  ],
+  "similar": [],
+  "views": 4075,
+  "sources": [
+    "https://multimoviesshg.com/e/dla799st9a60"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6805,
+      "nume": 1,
+      "title": "f"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:47:49.517798"
+}
