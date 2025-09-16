@@ -1,0 +1,118 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/timecrimes/",
+  "meta": {
+    "title": "Timecrimes",
+    "poster": "https://image.tmdb.org/t/p/w500/zdxQRP7mzczMJBwKnv8MCPRq7rQ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Nov. 01, 2007",
+    "ratingValue": "1",
+    "ratingCount": "1",
+    "synopsis": "A man accidentally gets into a time machine and travels back in time nearly an hour. Finding himself will be the first of a series of disasters of unforeseeable consequences.",
+    "infoFields": {
+      "Original title": "Los cronocr\u00edmenes",
+      "IMDb Rating": "7.1 69,778 votes",
+      "TMDb Rating": "6.997 1,233 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Nacho Vigalondo",
+      "role": "Director",
+      "url": "https://multimovies.city/director/nacho-vigalondo/",
+      "image": "https://image.tmdb.org/t/p/w92/ydoLch061IWUMdIi5CkbKnFIph8.jpg"
+    },
+    {
+      "name": "Karra Elejalde",
+      "role": "H\u00e9ctor",
+      "url": "https://multimovies.city/cast/karra-elejalde/",
+      "image": "https://image.tmdb.org/t/p/w92/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg"
+    },
+    {
+      "name": "Candela Fern\u00e1ndez",
+      "role": "Clara",
+      "url": "https://multimovies.city/cast/candela-fernandez/",
+      "image": "https://image.tmdb.org/t/p/w92/vm42uyOfNqz7PSQbzhmV5Ad7TK7.jpg"
+    },
+    {
+      "name": "B\u00e1rbara Goenaga",
+      "role": "La chica del bosque",
+      "url": "https://multimovies.city/cast/barbara-goenaga/",
+      "image": "https://image.tmdb.org/t/p/w92/cgBlu4aTHiyznJW2g49AF605xk.jpg"
+    },
+    {
+      "name": "Nacho Vigalondo",
+      "role": "El Joven",
+      "url": "https://multimovies.city/cast/nacho-vigalondo/",
+      "image": "https://image.tmdb.org/t/p/w92/ydoLch061IWUMdIi5CkbKnFIph8.jpg"
+    },
+    {
+      "name": "Juan Inciarte",
+      "role": "H\u00e9ctor Ocasional",
+      "url": "https://multimovies.city/cast/juan-inciarte/",
+      "image": "https://image.tmdb.org/t/p/w92/6Jc79fhdKycCpy3aMphccf73Xdo.jpg"
+    },
+    {
+      "name": "Libby Brien",
+      "role": "Clara (voice)",
+      "url": "https://multimovies.city/cast/libby-brien/",
+      "image": "https://image.tmdb.org/t/p/w92/qAsWzVMkM60NBKAefb0AZZhbp51.jpg"
+    },
+    {
+      "name": "Nicole Dionne",
+      "role": "La Chica (voice)",
+      "url": "https://multimovies.city/cast/nicole-dionne/",
+      "image": "https://image.tmdb.org/t/p/w92/nBny0UCE02znbdNolcX99q6Kxce.jpg"
+    },
+    {
+      "name": "Philip Hersh",
+      "role": "Radio Announcer (voice)",
+      "url": "https://multimovies.city/cast/philip-hersh/",
+      "image": "https://image.tmdb.org/t/p/w92/cUsURK3CAbMjvxghCBo71rn6IAU.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/anA2hEvG5SWrYETwcJ1SUPUfKDz.jpg",
+    "https://image.tmdb.org/t/p/w300/xIrXkJnbJDBieNiMBNzobDKLAR8.jpg",
+    "https://image.tmdb.org/t/p/w300/aJcxMuFx7trDtdXLpwVFb9rj3J8.jpg",
+    "https://image.tmdb.org/t/p/w300/p4L6qgz7uYqOkoL9LyYVI1XKHgP.jpg",
+    "https://image.tmdb.org/t/p/w300/7gFpFakY4GU18X7pey0wLijiUfa.jpg"
+  ],
+  "similar": [],
+  "views": 1232,
+  "sources": [
+    "https://www.youtube.com/embed/3XuWoe9NSic?autoplay=0&autohide=1",
+    "https://player.videasy.net/movie/tt0480669"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 64127,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 64127,
+      "nume": 1,
+      "title": "vidsrc"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:14:11.012929"
+}
