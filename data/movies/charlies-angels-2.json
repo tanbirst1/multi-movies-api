@@ -4,15 +4,139 @@
   "meta": {
     "title": "Charlie\u2019s Angels",
     "poster": "https://image.tmdb.org/t/p/w500/u5GbILxLgfeNHCnTtTRuhmAC9i4.jpg",
-    "synopsis": "The captivating crime-fighting trio who are masters of disguise, espionage and martial arts are back! When a devious mastermind embroils them in a plot to destroy individual privacy, the Angels, aided by their loyal sidekick Bosley, set out to bring down the bad guys. But when a terrible secret is revealed, it makes the Angels targets for assassination."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Nov. 02, 2000",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "The captivating crime-fighting trio who are masters of disguise, espionage and martial arts are back! When a devious mastermind embroils them in a plot to destroy individual privacy, the Angels, aided by their loyal sidekick Bosley, set out to bring down the bad guys. But when a terrible secret is revealed, it makes the Angels targets for assassination.",
+    "infoFields": {
+      "Original title": "Charlie's Angels",
+      "IMDb Rating": "5.6 191,923 votes",
+      "TMDb Rating": "5.818 3,801 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "McG",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mcg/",
+      "image": "https://image.tmdb.org/t/p/w92/vkHseZiluwbkqFHdvenCeQR3Ds9.jpg"
+    },
+    {
+      "name": "Cameron Diaz",
+      "role": "Natalie Cook",
+      "url": "https://multimovies.city/cast/cameron-diaz/",
+      "image": "https://image.tmdb.org/t/p/w92/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "name": "Drew Barrymore",
+      "role": "Dylan Sanders",
+      "url": "https://multimovies.city/cast/drew-barrymore/",
+      "image": "https://image.tmdb.org/t/p/w92/uSj402URh6CSSnVpZsL90f0PYIG.jpg"
+    },
+    {
+      "name": "Lucy Liu",
+      "role": "Alex Munday",
+      "url": "https://multimovies.city/cast/lucy-liu/",
+      "image": "https://image.tmdb.org/t/p/w92/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+    },
+    {
+      "name": "Bill Murray",
+      "role": "John Bosley",
+      "url": "https://multimovies.city/cast/bill-murray/",
+      "image": "https://image.tmdb.org/t/p/w92/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+    },
+    {
+      "name": "Sam Rockwell",
+      "role": "Eric Knox",
+      "url": "https://multimovies.city/cast/sam-rockwell/",
+      "image": "https://image.tmdb.org/t/p/w92/vYpWxV0bnUgKo7SdasfGP9HttUq.jpg"
+    },
+    {
+      "name": "Tim Curry",
+      "role": "Roger Corwin",
+      "url": "https://multimovies.city/cast/tim-curry/",
+      "image": "https://image.tmdb.org/t/p/w92/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+    },
+    {
+      "name": "Kelly Lynch",
+      "role": "Vivian Wood",
+      "url": "https://multimovies.city/cast/kelly-lynch/",
+      "image": "https://image.tmdb.org/t/p/w92/lYpcMbWOpZ552VHPCjwjyZ2jvvw.jpg"
+    },
+    {
+      "name": "Crispin Glover",
+      "role": "Thin Man",
+      "url": "https://multimovies.city/cast/crispin-glover/",
+      "image": "https://image.tmdb.org/t/p/w92/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+    },
+    {
+      "name": "John Forsythe",
+      "role": "Charlie (voice)",
+      "url": "https://multimovies.city/cast/john-forsythe/",
+      "image": "https://image.tmdb.org/t/p/w92/y5dkNu6a12W0o2Q6Jjz1RwsRV5R.jpg"
+    },
+    {
+      "name": "Matt LeBlanc",
+      "role": "Jason Gibbons",
+      "url": "https://multimovies.city/cast/matt-leblanc/",
+      "image": "https://image.tmdb.org/t/p/w92/a7Fl1sLUq1UDJ4pHsnwpBdEiDEZ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9VflexlNS215ALWif6l9Nn8zIyz.jpg",
+    "https://image.tmdb.org/t/p/w300/oq3IOr7QvEmei0eXsXacqaMPqlV.jpg",
+    "https://image.tmdb.org/t/p/w300/iEsbrEAfuZTXKYGQsIVeELZyGlE.jpg",
+    "https://image.tmdb.org/t/p/w300/8oWWicaLJSj2saV2DjyEJdT1YHn.jpg",
+    "https://image.tmdb.org/t/p/w300/xSDSUQOKAoxantx1Him9i3u5ZEG.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 1277,
+  "sources": [
+    "https://www.youtube.com/embed/RFuZhw5b1KA?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/oq5z4fs9zhrk"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25542,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 25542,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:27:10.901378"
 }
