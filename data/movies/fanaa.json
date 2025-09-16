@@ -1,0 +1,137 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/fanaa/",
+  "meta": {
+    "title": "Fanaa",
+    "poster": "https://image.tmdb.org/t/p/w500/8YCF3drTYLc7eoLFBbbexsT3iQj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 26, 2006",
+    "ratingValue": "7.1",
+    "ratingCount": "7",
+    "synopsis": "Zooni Ali Beg is a blind Kashmiri girl who travels without her parents for the first time with a dance troupe to Delhi to perform in a ceremony for independence day. On her journey, she meets Rehan Khan, a casanova and tour guide who flirts with her. Although her friends warn Zooni about him, she cannot resist falling in love with him and he takes her on a private tour of New Delhi. But there is more to Rehan than meets the eye and Zooni will have to make a heartbreaking decision.",
+    "infoFields": {
+      "Original title": "\u092b\u093c\u0928\u093e",
+      "IMDb Rating": "7.1 35,274 votes",
+      "TMDb Rating": "6.744 199 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kunal Kohli",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kunal-kohli/",
+      "image": "https://image.tmdb.org/t/p/w92/kFnrHabWyrESlZZMmBKEV57WX3h.jpg"
+    },
+    {
+      "name": "Aamir Khan",
+      "role": "Rehan Qadri",
+      "url": "https://multimovies.city/cast/aamir-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/lgUCJoOtMcYK2CLcic761bxZSUR.jpg"
+    },
+    {
+      "name": "Kajol",
+      "role": "Zooni Ali Beg",
+      "url": "https://multimovies.city/cast/kajol/",
+      "image": "https://image.tmdb.org/t/p/w92/h4m0TkDuEMCUNaPrQxMRyFb2AQ7.jpg"
+    },
+    {
+      "name": "Rishi Kapoor",
+      "role": "Zulfikar Ali Beg",
+      "url": "https://multimovies.city/cast/rishi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/yQOKkmQaksa3hOi72MbPnrqz77k.jpg"
+    },
+    {
+      "name": "Kirron Kher",
+      "role": "Nafisa Ali Begum",
+      "url": "https://multimovies.city/cast/kirron-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/bM9ZjQmsKYqGQaqBBPIhwlsNOYx.jpg"
+    },
+    {
+      "name": "Sanaya Irani",
+      "role": "Bobo",
+      "url": "https://multimovies.city/cast/sanaya-irani/",
+      "image": "https://image.tmdb.org/t/p/w92/8b3KRno9pinTGkazElnvTQaCGrg.jpg"
+    },
+    {
+      "name": "Shiney Ahuja",
+      "role": "Shiney Ahuja",
+      "url": "https://multimovies.city/cast/shiney-ahuja/",
+      "image": "https://image.tmdb.org/t/p/w92/w0HPmQoxelpCLqTxhlsEMAtPn5T.jpg"
+    },
+    {
+      "name": "Lillete Dubey",
+      "role": "Madam",
+      "url": "https://multimovies.city/cast/lillete-dubey/",
+      "image": "https://image.tmdb.org/t/p/w92/qeAlaycZ3ATHr2P6LV1V5LeC4hV.jpg"
+    },
+    {
+      "name": "Tabu",
+      "role": "Nafisa Ali Begum",
+      "url": "https://multimovies.city/cast/tabu/",
+      "image": "https://image.tmdb.org/t/p/w92/cvt5nvCHr1ICf5u8A2mlzLQ8LsV.jpg"
+    },
+    {
+      "name": "Ali Haji",
+      "role": "Rehan",
+      "url": "https://multimovies.city/cast/ali-haji/",
+      "image": "https://image.tmdb.org/t/p/w92/ailp7sKfoMEukhgWt4gFVgvLOyp.jpg"
+    },
+    {
+      "name": "Lara Dutta",
+      "role": "Zeenat",
+      "url": "https://multimovies.city/cast/lara-dutta/",
+      "image": "https://image.tmdb.org/t/p/w92/h9D3k3X79knBKDkUDvfOsM2Mr1q.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3mGqULd5aY3JphLIqt3LTQ1fQ2D.jpg",
+    "https://image.tmdb.org/t/p/w300/AnSkRgjRoJCfgpMgdqQm7qW9ps2.jpg",
+    "https://image.tmdb.org/t/p/w300/sUwbC3UW7n1uEKEZYZJY4Jo1K5x.jpg",
+    "https://image.tmdb.org/t/p/w300/7qk4iBrgetf2sMKW9Pm9mRACHyW.jpg",
+    "https://image.tmdb.org/t/p/w300/7KkqIwaz5HiKFHp5f13GsZox2te.jpg",
+    "https://image.tmdb.org/t/p/w300/6TFxEoqX99UpBXJEdJqJS0nOFaR.jpg",
+    "https://image.tmdb.org/t/p/w300/O8F6VQwkgs02Ag9oAGxX5XdU5i.jpg",
+    "https://image.tmdb.org/t/p/w300/2ZJt5rtAliQFAS8131wgGAFoRCT.jpg"
+  ],
+  "similar": [],
+  "views": 9435,
+  "sources": [
+    "https://www.youtube.com/embed/qe5NZVOD644?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/5u8v418dhs46"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 108,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 108,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:00:31.938756"
+}
