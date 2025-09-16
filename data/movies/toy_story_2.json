@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/toy-story-2/",
+  "meta": {
+    "title": "Toy Story 2",
+    "poster": "https://image.tmdb.org/t/p/w500/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Oct. 30, 1999",
+    "ratingValue": "9.6",
+    "ratingCount": "7",
+    "synopsis": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al\u2019s Toy Barn kidnaps Woody. Andy\u2019s toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+    "infoFields": {
+      "Original title": "Toy Story 2",
+      "IMDb Rating": "7.9 648,406 votes",
+      "TMDb Rating": "7.601 14,231 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Lee Unkrich",
+      "role": "Director",
+      "url": "https://multimovies.city/director/lee-unkrich/",
+      "image": "https://image.tmdb.org/t/p/w92/crb297utC6W4HSstOe5djDPTwEN.jpg"
+    },
+    {
+      "name": "Tom Hanks",
+      "role": "Woody (voice)",
+      "url": "https://multimovies.city/cast/tom-hanks/",
+      "image": "https://image.tmdb.org/t/p/w92/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+    },
+    {
+      "name": "Tim Allen",
+      "role": "Buzz Lightyear (voice)",
+      "url": "https://multimovies.city/cast/tim-allen/",
+      "image": "https://image.tmdb.org/t/p/w92/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "name": "Joan Cusack",
+      "role": "Jessie the Yodeling Cowgirl (voice)",
+      "url": "https://multimovies.city/cast/joan-cusack/",
+      "image": "https://image.tmdb.org/t/p/w92/69cfjfZFjVxfu2QbngnXOkipcyn.jpg"
+    },
+    {
+      "name": "Kelsey Grammer",
+      "role": "Stinky Pete the Prospector (voice)",
+      "url": "https://multimovies.city/cast/kelsey-grammer/",
+      "image": "https://image.tmdb.org/t/p/w92/cjUCogoFRnFKAgeyRmGGpekz0TF.jpg"
+    },
+    {
+      "name": "Don Rickles",
+      "role": "Mr. Potato Head (voice)",
+      "url": "https://multimovies.city/cast/don-rickles/",
+      "image": "https://image.tmdb.org/t/p/w92/iJLQV4dcbTUgxlWJakjDldzlMXS.jpg"
+    },
+    {
+      "name": "Jim Varney",
+      "role": "Slinky Dog (voice)",
+      "url": "https://multimovies.city/cast/jim-varney/",
+      "image": "https://image.tmdb.org/t/p/w92/yrhgPWGOc36GN0P9kuJ48sU4fVa.jpg"
+    },
+    {
+      "name": "Wallace Shawn",
+      "role": "Rex the Green Dinosaur (voice)",
+      "url": "https://multimovies.city/cast/wallace-shawn/",
+      "image": "https://image.tmdb.org/t/p/w92/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "name": "John Ratzenberger",
+      "role": "Hamm the Piggy Bank (voice)",
+      "url": "https://multimovies.city/cast/john-ratzenberger/",
+      "image": "https://image.tmdb.org/t/p/w92/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "name": "Annie Potts",
+      "role": "Bo Peep (voice)",
+      "url": "https://multimovies.city/cast/annie-potts/",
+      "image": "https://image.tmdb.org/t/p/w92/wci5yNwwQvvRtHybDG36wZqhC1t.jpg"
+    },
+    {
+      "name": "Wayne Knight",
+      "role": "Al McWhiggin (voice)",
+      "url": "https://multimovies.city/cast/wayne-knight/",
+      "image": "https://image.tmdb.org/t/p/w92/xlGqbZjn48xAUa7eqTybZP360w0.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/91qfG6VaxRsCh1SbIi1w2vxknsL.jpg",
+    "https://image.tmdb.org/t/p/w300/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
+    "https://image.tmdb.org/t/p/w300/cmyDcJLkWjIBsB74K7BMA5DL5QU.jpg",
+    "https://image.tmdb.org/t/p/w300/l4B2QI2lRKzHMJHke9FAsXLHP35.jpg",
+    "https://image.tmdb.org/t/p/w300/jIRpHvS2pQIz2hWR2RZs10hTvOs.jpg",
+    "https://image.tmdb.org/t/p/w300/lLpcDHm9HdLKxEWZ9uYySv1ATAG.jpg",
+    "https://image.tmdb.org/t/p/w300/vTedMoIivZPRU5TBnDKjZm1phWY.jpg",
+    "https://image.tmdb.org/t/p/w300/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
+    "https://image.tmdb.org/t/p/w300/36esZhEltjCJvQVAsLKEIUo6Jaf.jpg",
+    "https://image.tmdb.org/t/p/w300/8RSGlhJmFRvbAO5LdX8caWXHzIt.jpg"
+  ],
+  "similar": [],
+  "views": 3301,
+  "sources": [
+    "https://www.youtube.com/embed/xNWSGRD5CzU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/guo775o"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20725,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 20725,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
