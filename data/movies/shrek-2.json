@@ -1,0 +1,171 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/shrek-2/",
+  "meta": {
+    "title": "Shrek 2",
+    "poster": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      }
+    ],
+    "firstAirDate": "May. 19, 2004",
+    "ratingValue": "9.8",
+    "ratingCount": "4",
+    "synopsis": "Shrek, Fiona and Donkey set off to Far, Far Away to meet Fiona\u2019s mother and father. But not everyone is happy. Shrek and the King find it hard to get along, and there\u2019s tension in the marriage. The fairy godmother discovers that Shrek has married Fiona instead of her Son Prince Charming and sets about destroying their marriage.",
+    "infoFields": {
+      "Original title": "Shrek 2",
+      "IMDb Rating": "7.3 481,598 votes",
+      "TMDb Rating": "7.235 11,043 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Andrew Adamson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/andrew-adamson/",
+      "image": "https://image.tmdb.org/t/p/w92/qqIAVKAe5LHRbPyZUlptsqlo4Kb.jpg"
+    },
+    {
+      "name": "Mike Myers",
+      "role": "Shrek (voice)",
+      "url": "https://multimovies.city/cast/mike-myers/",
+      "image": "https://image.tmdb.org/t/p/w92/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "name": "Eddie Murphy",
+      "role": "Donkey (voice)",
+      "url": "https://multimovies.city/cast/eddie-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/35NneLV2mx3c4eHptwcCMDmihik.jpg"
+    },
+    {
+      "name": "Cameron Diaz",
+      "role": "Princess Fiona (voice)",
+      "url": "https://multimovies.city/cast/cameron-diaz/",
+      "image": "https://image.tmdb.org/t/p/w92/xw6K3lC6hQNeG7usUSYZIMuI4N2.jpg"
+    },
+    {
+      "name": "Julie Andrews",
+      "role": "Queen Lillian (voice)",
+      "url": "https://multimovies.city/cast/julie-andrews/",
+      "image": "https://image.tmdb.org/t/p/w92/kTXM2KfsXh2vSav0s9vaDKfs4lR.jpg"
+    },
+    {
+      "name": "Antonio Banderas",
+      "role": "Puss in Boots (voice)",
+      "url": "https://multimovies.city/cast/antonio-banderas/",
+      "image": "https://image.tmdb.org/t/p/w92/n8YlGookYzgD3cmpMP45BYRNIoh.jpg"
+    },
+    {
+      "name": "John Cleese",
+      "role": "King Harold (voice)",
+      "url": "https://multimovies.city/cast/john-cleese/",
+      "image": "https://image.tmdb.org/t/p/w92/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+    },
+    {
+      "name": "Rupert Everett",
+      "role": "Prince Charming (voice)",
+      "url": "https://multimovies.city/cast/rupert-everett/",
+      "image": "https://image.tmdb.org/t/p/w92/7t77pzlJnSLSXTzQLUey3YAzaxQ.jpg"
+    },
+    {
+      "name": "Jennifer Saunders",
+      "role": "Fairy Godmother (voice)",
+      "url": "https://multimovies.city/cast/jennifer-saunders/",
+      "image": "https://image.tmdb.org/t/p/w92/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg"
+    },
+    {
+      "name": "Aron Warner",
+      "role": "Wolf (voice)",
+      "url": "https://multimovies.city/cast/aron-warner/",
+      "image": "https://image.tmdb.org/t/p/w92/lBgvkire1EERcCZLLBm7TPGvL8l.jpg"
+    },
+    {
+      "name": "Kelly Asbury",
+      "role": "Page / Elf / Nobleman / Nobleman's Son (voice)",
+      "url": "https://multimovies.city/cast/kelly-asbury/",
+      "image": "https://image.tmdb.org/t/p/w92/fzHQFYLc1zVVn3dUjr6pMuKdE0U.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wD44moEofk0EZyFxLQItuwdGsvV.jpg",
+    "https://image.tmdb.org/t/p/w300/2JoIysXRYYeveJghG1Br53LRoKF.jpg",
+    "https://image.tmdb.org/t/p/w300/l45UqyARB3WxpYNuACjMjndpe85.jpg",
+    "https://image.tmdb.org/t/p/w300/pmK1thOAztOmtdEwH0eQHy1jiRT.jpg",
+    "https://image.tmdb.org/t/p/w300/7VzBQUOKW5wXksbt4sXeAwhsX9y.jpg",
+    "https://image.tmdb.org/t/p/w300/bk44UUz9YpPhzYuMCgkSobEqYrr.jpg",
+    "https://image.tmdb.org/t/p/w300/b33E34IywGC4NWYY3G1ck7uehNF.jpg",
+    "https://image.tmdb.org/t/p/w300/g1EsYgp8GbdztpodCCa2n7xxc5S.jpg",
+    "https://image.tmdb.org/t/p/w300/dkYWPr7nnYcV2q2TTyCy7Ogi0vX.jpg",
+    "https://image.tmdb.org/t/p/w300/22Dl9G8tNpjEY60SfmGsLbilYaf.jpg"
+  ],
+  "similar": [],
+  "views": 3003,
+  "sources": [
+    "https://www.youtube.com/embed/dB7a9utApIQ?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/0ste4qpwccw9",
+    "https://sbplay.org/embed-1wcg2gxm2kc9.html",
+    "https://dood.la/e/t2moecncy5h9",
+    "https://mixdrop.co/e/9n8o06x4uoznp6",
+    "https://hydrax.net/watch?v=0yh9Us-rcN"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 21192,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 21192,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 21192,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 21192,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 21192,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 21192,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:48:09.484784"
+}
