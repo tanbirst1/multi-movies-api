@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/daddy-day-care/",
+  "meta": {
+    "title": "Daddy Day Care",
+    "poster": "https://image.tmdb.org/t/p/w500/uiey5XUKuPicwpIJMf1OpaOd1jL.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "May. 09, 2003",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Two men get laid off and have to become stay-at-home dads when they can\u2019t find jobs, which inspires them to open their own day-care center.",
+    "infoFields": {
+      "Original title": "Daddy Day Care",
+      "IMDb Rating": "5.6 76,446 votes",
+      "TMDb Rating": "5.902 2,152 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Nancy Karlin",
+      "role": "Director",
+      "url": "https://multimovies.city/director/nancy-karlin/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Eddie Murphy",
+      "role": "Charlie Hinton",
+      "url": "https://multimovies.city/cast/eddie-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "name": "Jeff Garlin",
+      "role": "Phil",
+      "url": "https://multimovies.city/cast/jeff-garlin/",
+      "image": "https://image.tmdb.org/t/p/w92/8shJOwynglerVVxhOKbvDYTThBd.jpg"
+    },
+    {
+      "name": "Steve Zahn",
+      "role": "Marvin",
+      "url": "https://multimovies.city/cast/steve-zahn/",
+      "image": "https://image.tmdb.org/t/p/w92/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+      "name": "Regina King",
+      "role": "Kim Hinton",
+      "url": "https://multimovies.city/cast/regina-king/",
+      "image": "https://image.tmdb.org/t/p/w92/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+    },
+    {
+      "name": "Kevin Nealon",
+      "role": "Bruce",
+      "url": "https://multimovies.city/cast/kevin-nealon/",
+      "image": "https://image.tmdb.org/t/p/w92/5eV3T45dXMzXaKy9A3wE2UueRvx.jpg"
+    },
+    {
+      "name": "Jonathan Katz",
+      "role": "Dan Kubitz",
+      "url": "https://multimovies.city/cast/jonathan-katz/",
+      "image": "https://image.tmdb.org/t/p/w92/4jtl2ZQhfGiKmSVpKkvXYVVgxi.jpg"
+    },
+    {
+      "name": "Siobhan Fallon Hogan",
+      "role": "Peggy",
+      "url": "https://multimovies.city/cast/siobhan-fallon-hogan/",
+      "image": "https://image.tmdb.org/t/p/w92/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+    },
+    {
+      "name": "Lisa Edelstein",
+      "role": "Crispin's Mom",
+      "url": "https://multimovies.city/cast/lisa-edelstein/",
+      "image": "https://image.tmdb.org/t/p/w92/wWNU2koV7qksXLtXDtbuGcbnfa1.jpg"
+    },
+    {
+      "name": "Lacey Chabert",
+      "role": "Jenny",
+      "url": "https://multimovies.city/cast/lacey-chabert/",
+      "image": "https://image.tmdb.org/t/p/w92/lYRtX2k8A1Y52IQdpKS9Louaf1j.jpg"
+    },
+    {
+      "name": "Laura Kightlinger",
+      "role": "Sheila",
+      "url": "https://multimovies.city/cast/laura-kightlinger/",
+      "image": "https://image.tmdb.org/t/p/w92/g0cN04jwrJ3CEURkcg4TT55kwTU.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/gQ9uxP1hBIJd0dw4jMTCkToQQly.jpg",
+    "https://image.tmdb.org/t/p/w300/324Ztjb22pdtxI8NW7mjGknL4CE.jpg",
+    "https://image.tmdb.org/t/p/w300/prb5MKv8YLyVm1vcaGfbSMNS82U.jpg",
+    "https://image.tmdb.org/t/p/w300/2MKuTjsUE04RUOTUyFGZUeY8Gjg.jpg",
+    "https://image.tmdb.org/t/p/w300/cefWNrWiaePE4Acmli9QjE6Eh86.jpg",
+    "https://image.tmdb.org/t/p/w300/spON9n3xyKg7dexE2ytMbBX2CH4.jpg",
+    "https://image.tmdb.org/t/p/w300/vFZIJThsCv2SRHKOuMwEwB5MuAK.jpg",
+    "https://image.tmdb.org/t/p/w300/6lSZ478j7PoVOMZYVTEt1kDAvll.jpg",
+    "https://image.tmdb.org/t/p/w300/sFjYkWyVqHDCzVnXblbvUPYEk85.jpg"
+  ],
+  "similar": [],
+  "views": 142,
+  "sources": [
+    "https://www.youtube.com/embed/hx0_F3I10ws?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/mga9ptt"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 88530,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 88530,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:44:03.074583"
+}
