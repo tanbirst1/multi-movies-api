@@ -24,7 +24,7 @@
       }
     ],
     "firstAirDate": "May. 25, 1975",
-    "ratingValue": "9",
+    "ratingValue": "8",
     "ratingCount": "1",
     "synopsis": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not to enter, as \u201cit is a silly place\u201d.",
     "infoFields": {
@@ -115,7 +115,7 @@
     "https://image.tmdb.org/t/p/w300/9rSeoG2xQDt290WXja7rOsZjiCH.jpg"
   ],
   "similar": [],
-  "views": 1043,
+  "views": 1046,
   "sources": [
     "https://www.youtube.com/embed/qk4k0brx1P0?autoplay=0&autohide=1",
     "https://multimoviesshg.com/e/zh7gaglb3j26",
@@ -162,5 +162,6 @@
       "title": "Server 05"
     }
   ],
-  "cache": false
+  "cache": false,
+  "last_update": "2025-09-16T17:03:46.419573"
 }
