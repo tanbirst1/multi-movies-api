@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-grudge/",
+  "meta": {
+    "title": "The Grudge",
+    "poster": "https://image.tmdb.org/t/p/w500/5AGB8FVELnhMMw3nO372sw1xp58.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Oct. 22, 2004",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim.",
+    "infoFields": {
+      "Original title": "The Grudge",
+      "IMDb Rating": "5.9 147,316 votes",
+      "TMDb Rating": "5.878 2,603 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Takashi Shimizu",
+      "role": "Director",
+      "url": "https://multimovies.city/director/takashi-shimizu/",
+      "image": "https://image.tmdb.org/t/p/w92/krjo0ifUmCCnKTbYpnEWZU8owaJ.jpg"
+    },
+    {
+      "name": "Sarah Michelle Gellar",
+      "role": "Karen Davis",
+      "url": "https://multimovies.city/cast/sarah-michelle-gellar/",
+      "image": "https://image.tmdb.org/t/p/w92/lQD0YNIfpoFlUnn5ThTNFXvp6tH.jpg"
+    },
+    {
+      "name": "Jason Behr",
+      "role": "Doug McCarthy",
+      "url": "https://multimovies.city/cast/jason-behr/",
+      "image": "https://image.tmdb.org/t/p/w92/182lEPNJDKIJITUlz8M5KbCI0rK.jpg"
+    },
+    {
+      "name": "William Mapother",
+      "role": "Matthew Williams",
+      "url": "https://multimovies.city/cast/william-mapother/",
+      "image": "https://image.tmdb.org/t/p/w92/k4TqA37bSoMz1VTyw9wPh3ptGch.jpg"
+    },
+    {
+      "name": "Clea DuVall",
+      "role": "Jennifer Williams",
+      "url": "https://multimovies.city/cast/clea-duvall/",
+      "image": "https://image.tmdb.org/t/p/w92/yueygn1Lmmni7EaMQD9LslexDlu.jpg"
+    },
+    {
+      "name": "KaDee Strickland",
+      "role": "Susan Williams",
+      "url": "https://multimovies.city/cast/kadee-strickland/",
+      "image": "https://image.tmdb.org/t/p/w92/73xvqIpgGN4KqfFQJQR6q54I6FA.jpg"
+    },
+    {
+      "name": "Grace Zabriskie",
+      "role": "Emma Williams",
+      "url": "https://multimovies.city/cast/grace-zabriskie/",
+      "image": "https://image.tmdb.org/t/p/w92/19tr5IbzCmv4x5B3WFlG1RQPwXu.jpg"
+    },
+    {
+      "name": "Bill Pullman",
+      "role": "Peter Kirk",
+      "url": "https://multimovies.city/cast/bill-pullman/",
+      "image": "https://image.tmdb.org/t/p/w92/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+    },
+    {
+      "name": "Rosa Blasi",
+      "role": "Maria Kirk",
+      "url": "https://multimovies.city/cast/rosa-blasi/",
+      "image": "https://image.tmdb.org/t/p/w92/fTQ3XtlCvSO8Ze7L6WBLyuyEf0.jpg"
+    },
+    {
+      "name": "Ted Raimi",
+      "role": "Alex Jones",
+      "url": "https://multimovies.city/cast/ted-raimi/",
+      "image": "https://image.tmdb.org/t/p/w92/vCfwp1BzY7qXs74fMLE1ydGxsTY.jpg"
+    },
+    {
+      "name": "Ryo Ishibashi",
+      "role": "Det. Hideto Nakagawa",
+      "url": "https://multimovies.city/cast/ryo-ishibashi/",
+      "image": "https://image.tmdb.org/t/p/w92/1q8noUaI5E0ykjLdXRZcn7U79LN.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3F2BYZy8H74lWUEKfP5lTPFxEq8.jpg",
+    "https://image.tmdb.org/t/p/w300/e8nfiNRrcUfebNLPKtR6dzgV1M1.jpg",
+    "https://image.tmdb.org/t/p/w300/dAMCO2gU2Iatm6PkwDhcwT67Rpa.jpg",
+    "https://image.tmdb.org/t/p/w300/azCFDojFTP6SZLNubTAR3RaVNEb.jpg",
+    "https://image.tmdb.org/t/p/w300/873mZBgEzwfwaBYZuY4V31BRrLJ.jpg",
+    "https://image.tmdb.org/t/p/w300/sU3ib8cPFUYfRaTe4osXitfoBdC.jpg",
+    "https://image.tmdb.org/t/p/w300/wUAQ3PZlxAW6q1p0tQSWanYnJiA.jpg",
+    "https://image.tmdb.org/t/p/w300/5nD5lR3CPPVsTUXKUEQXbD28caA.jpg",
+    "https://image.tmdb.org/t/p/w300/utgvpMHyU1RcRaYeXke3ySFeFjG.jpg"
+  ],
+  "similar": [],
+  "views": 4130,
+  "sources": [
+    "https://www.youtube.com/embed/tqn2t3PefdY?autoplay=0&autohide=1",
+    "https://multimovies.website/e/vvdy040m6wyt.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5463,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5463,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:49:18.912675"
+}
