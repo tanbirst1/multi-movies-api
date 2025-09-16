@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/spider-man-3/",
+  "meta": {
+    "title": "Spider-Man 3",
+    "poster": "https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Marvel Collection",
+        "url": "https://multimovies.city/genre/marvel-collection/"
+      }
+    ],
+    "firstAirDate": "May. 01, 2007",
+    "ratingValue": "9.2",
+    "ratingCount": "28",
+    "synopsis": "The seemingly invincible Spider-Man goes up against an all-new crop of villains\u2014including the shape-shifting Sandman. While Spider-Man\u2019s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+    "infoFields": {
+      "Original title": "Spider-Man 3",
+      "IMDb Rating": "6.3 604,544 votes",
+      "TMDb Rating": "6.4 14,501 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sam Raimi",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sam-raimi/",
+      "image": "https://image.tmdb.org/t/p/w92/ljNw0AjMKzXRvnQbgoKOsfQoVDu.jpg"
+    },
+    {
+      "name": "Tobey Maguire",
+      "role": "Spider-Man / Peter Parker",
+      "url": "https://multimovies.city/cast/tobey-maguire/",
+      "image": "https://image.tmdb.org/t/p/w92/kOJelnLSb89SeivbOCt1l94Hz2d.jpg"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "role": "Mary Jane Watson",
+      "url": "https://multimovies.city/cast/kirsten-dunst/",
+      "image": "https://image.tmdb.org/t/p/w92/6RAAxI4oPnDMzXpXWgkkzSgnIAJ.jpg"
+    },
+    {
+      "name": "James Franco",
+      "role": "New Goblin / Harry Osborn",
+      "url": "https://multimovies.city/cast/james-franco/",
+      "image": "https://image.tmdb.org/t/p/w92/rShzuvrQJJQJ6lXDn3IQX4o0iCE.jpg"
+    },
+    {
+      "name": "Thomas Haden Church",
+      "role": "Sandman / Flint Marko",
+      "url": "https://multimovies.city/cast/thomas-haden-church/",
+      "image": "https://image.tmdb.org/t/p/w92/VP6VDYL0OEDwSbTRysiJ0kAGxI.jpg"
+    },
+    {
+      "name": "Topher Grace",
+      "role": "Venom / Eddie Brock",
+      "url": "https://multimovies.city/cast/topher-grace/",
+      "image": "https://image.tmdb.org/t/p/w92/tgF5PeH4xwz32FjB80n5aFiuHX.jpg"
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "role": "Gwen Stacy",
+      "url": "https://multimovies.city/cast/bryce-dallas-howard/",
+      "image": "https://image.tmdb.org/t/p/w92/qQX1rhQaJ1G8eMG2RknFKiXfNRc.jpg"
+    },
+    {
+      "name": "Rosemary Harris",
+      "role": "May Parker",
+      "url": "https://multimovies.city/cast/rosemary-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/rpSsXg0tB7wWQMffvvMqLzrvZAj.jpg"
+    },
+    {
+      "name": "J.K. Simmons",
+      "role": "J. Jonah Jameson",
+      "url": "https://multimovies.city/cast/j-k-simmons/",
+      "image": "https://image.tmdb.org/t/p/w92/jPoNW5fugs5h8AbcE7H5OBm04Tm.jpg"
+    },
+    {
+      "name": "James Cromwell",
+      "role": "Captain Stacey",
+      "url": "https://multimovies.city/cast/james-cromwell/",
+      "image": "https://image.tmdb.org/t/p/w92/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+    },
+    {
+      "name": "Dylan Baker",
+      "role": "Dr. Curt Connors",
+      "url": "https://multimovies.city/cast/dylan-baker/",
+      "image": "https://image.tmdb.org/t/p/w92/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+    "https://image.tmdb.org/t/p/w300/6MQmtWk4cFwSDyNvIgoJRBIHUT3.jpg",
+    "https://image.tmdb.org/t/p/w300/eSGBbCOX7KM3Rf8HHwK8tglklyS.jpg",
+    "https://image.tmdb.org/t/p/w300/gLZMjwGDEg8Snm7iZTJmJH0QakD.jpg",
+    "https://image.tmdb.org/t/p/w300/a6lJwBf62zCmMQMunhAKimX7Mnp.jpg",
+    "https://image.tmdb.org/t/p/w300/nVSkePSFsZNcMJsp8IOQVmHhyG1.jpg",
+    "https://image.tmdb.org/t/p/w300/srATZkiFYImhc0LHVXo080B4Yeq.jpg",
+    "https://image.tmdb.org/t/p/w300/q7PH9Dx3brbufTsRcdeJWsEZyzS.jpg",
+    "https://image.tmdb.org/t/p/w300/FfAU0PUs8AJkMU2VbkVNFtRXR4.jpg",
+    "https://image.tmdb.org/t/p/w300/5zjtuUEPxctpQ6KuoSZnr98sWeS.jpg"
+  ],
+  "similar": [],
+  "views": 26937,
+  "sources": [
+    "https://www.youtube.com/embed/wPosLpgMtTY?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vdmrmai"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8653,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 8653,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:08:58.962795"
+}
