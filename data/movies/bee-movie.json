@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/bee-movie/",
+  "meta": {
+    "title": "Bee Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/rYBaXgvTKFS8iZC7Wr8SMomSauQ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Oct. 28, 2007",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Barry B. Benson, a recent college graduate who wants more out of his life than making honey, decides to sue the human race after learning about the exploitation of bees at the hands of mankind. What will happen next?",
+    "infoFields": {
+      "Original title": "Bee Movie",
+      "IMDb Rating": "6.1 190,616 votes",
+      "TMDb Rating": "6.029 5,013 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Steve Hickner",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steve-hickner/",
+      "image": "https://image.tmdb.org/t/p/w92/aUTvRbUcbYY1z6o4QGGL47nUGmz.jpg"
+    },
+    {
+      "name": "Jerry Seinfeld",
+      "role": "Barry B. Benson (voice)",
+      "url": "https://multimovies.city/cast/jerry-seinfeld/",
+      "image": "https://image.tmdb.org/t/p/w92/ajmOd1zbf4XtDJw29nXocuMI80b.jpg"
+    },
+    {
+      "name": "Ren\u00e9e Zellweger",
+      "role": "Vanessa Bloome (voice)",
+      "url": "https://multimovies.city/cast/renee-zellweger/",
+      "image": "https://image.tmdb.org/t/p/w92/iNnPqkEF0hPWhmWpjyuLuUdbKN8.jpg"
+    },
+    {
+      "name": "Matthew Broderick",
+      "role": "Adam Flayman (voice)",
+      "url": "https://multimovies.city/cast/matthew-broderick/",
+      "image": "https://image.tmdb.org/t/p/w92/q3Qe6LODvoKF3AKElVAmxBFpTGd.jpg"
+    },
+    {
+      "name": "Patrick Warburton",
+      "role": "Ken (voice)",
+      "url": "https://multimovies.city/cast/patrick-warburton/",
+      "image": "https://image.tmdb.org/t/p/w92/nDoOii5HaGwPxYa28xFC2sDkF8y.jpg"
+    },
+    {
+      "name": "John Goodman",
+      "role": "Layton T. Montgomery (voice)",
+      "url": "https://multimovies.city/cast/john-goodman/",
+      "image": "https://image.tmdb.org/t/p/w92/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    },
+    {
+      "name": "Chris Rock",
+      "role": "Mooseblood (voice)",
+      "url": "https://multimovies.city/cast/chris-rock/",
+      "image": "https://image.tmdb.org/t/p/w92/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg"
+    },
+    {
+      "name": "Kathy Bates",
+      "role": "Janet Benson (voice)",
+      "url": "https://multimovies.city/cast/kathy-bates/",
+      "image": "https://image.tmdb.org/t/p/w92/qZRTzTjV4OC1Ii9a0n8QBS9zMOd.jpg"
+    },
+    {
+      "name": "Barry Levinson",
+      "role": "Martin Benson (voice)",
+      "url": "https://multimovies.city/cast/barry-levinson/",
+      "image": "https://image.tmdb.org/t/p/w92/auf7SnoOE9FULo8KhSSL8c2Yrlb.jpg"
+    },
+    {
+      "name": "Larry King",
+      "role": "Bee Larry King (voice)",
+      "url": "https://multimovies.city/cast/larry-king/",
+      "image": "https://image.tmdb.org/t/p/w92/afNrrwBSbeFLrh0dVHvlMRRyont.jpg"
+    },
+    {
+      "name": "Ray Liotta",
+      "role": "Ray Liotta (voice)",
+      "url": "https://multimovies.city/cast/ray-liotta/",
+      "image": "https://image.tmdb.org/t/p/w92/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/dM69VHjYFs8JBFNwI1rG0c7xeQz.jpg",
+    "https://image.tmdb.org/t/p/w300/lGkhjR3EQSNH0v0QHkgm1gStHX0.jpg",
+    "https://image.tmdb.org/t/p/w300/7JzyYQnIpHdoMR3PtTwM5xaLA20.jpg",
+    "https://image.tmdb.org/t/p/w300/uRZhr7zzaxeidLq2eYL59ulh4vn.jpg",
+    "https://image.tmdb.org/t/p/w300/lVfqLDmfrxIXFU2TcWTsG3ePdER.jpg",
+    "https://image.tmdb.org/t/p/w300/kqwlo4BYRqmWF3lwzuWErRU3SsJ.jpg",
+    "https://image.tmdb.org/t/p/w300/vHBH46tX9cHWPV0px7cVjfR8ouD.jpg",
+    "https://image.tmdb.org/t/p/w300/nlgujXsHp2YPZg8gVpSEcyW6Xcu.jpg",
+    "https://image.tmdb.org/t/p/w300/t5ynIUnm7KLXbTWBEgmYhVGxOsn.jpg",
+    "https://image.tmdb.org/t/p/w300/l8KLExTwAIJpSOnvNJ5CqpWjzNH.jpg"
+  ],
+  "similar": [],
+  "views": 193,
+  "sources": [
+    "https://www.youtube.com/embed/z3PtI-ljZAU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/hb4llow"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 96278,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 96278,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:14:15.241340"
+}
