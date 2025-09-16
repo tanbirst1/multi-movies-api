@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/terminator-3-rise-of-the-machines/",
+  "meta": {
+    "title": "Terminator 3: Rise of the Machines",
+    "poster": "https://image.tmdb.org/t/p/w500/hTKYcptqbBZwLhUVcIATQ72WNSY.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 02, 2003",
+    "ratingValue": "6.2",
+    "ratingCount": "5",
+    "synopsis": "It\u2019s been 10 years since John Connor saved Earth from Judgment Day, and he\u2019s now living under the radar, steering clear of using anything Skynet can trace. That is, until he encounters T-X, a robotic assassin ordered to finish what T-1000 started. Good thing Connor\u2019s former nemesis, the Terminator, is back to aid the now-adult Connor \u2026 just like he promised.",
+    "infoFields": {
+      "Original title": "Terminator 3: Rise of the Machines",
+      "IMDb Rating": "6.3 418,169 votes",
+      "TMDb Rating": "6.156 6,340 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jonathan Mostow",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jonathan-mostow/",
+      "image": "https://image.tmdb.org/t/p/w92/yRMYvjGLIf0aOUKVLnU6jSpR1oQ.jpg"
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "role": "The Terminator",
+      "url": "https://multimovies.city/cast/arnold-schwarzenegger/",
+      "image": "https://image.tmdb.org/t/p/w92/zEMhugsgXIpnQqO31GpAJYMUZZ1.jpg"
+    },
+    {
+      "name": "Nick Stahl",
+      "role": "John Connor",
+      "url": "https://multimovies.city/cast/nick-stahl/",
+      "image": "https://image.tmdb.org/t/p/w92/mKJoI60NHS5xMc7HUrZjpSVfghK.jpg"
+    },
+    {
+      "name": "Claire Danes",
+      "role": "Kate Brewster",
+      "url": "https://multimovies.city/cast/claire-danes/",
+      "image": "https://image.tmdb.org/t/p/w92/ustSV3r790QyskweHVC2XqDWs7U.jpg"
+    },
+    {
+      "name": "Kristanna Loken",
+      "role": "T-X",
+      "url": "https://multimovies.city/cast/kristanna-loken/",
+      "image": "https://image.tmdb.org/t/p/w92/vv16m6F4ZNQq4cy0E2JbrW6OuOF.jpg"
+    },
+    {
+      "name": "Earl Boen",
+      "role": "Dr. Peter Silberman",
+      "url": "https://multimovies.city/cast/earl-boen/",
+      "image": "https://image.tmdb.org/t/p/w92/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
+    },
+    {
+      "name": "David Andrews",
+      "role": "Robert Brewster",
+      "url": "https://multimovies.city/cast/david-andrews/",
+      "image": "https://image.tmdb.org/t/p/w92/36LEerIIN7gpG52mM3Ier7YWDbh.jpg"
+    },
+    {
+      "name": "Carolyn Hennesy",
+      "role": "Rich Woman",
+      "url": "https://multimovies.city/cast/carolyn-hennesy/",
+      "image": "https://image.tmdb.org/t/p/w92/7bQvRDhBrokCMCQBQDKRYsYqItq.jpg"
+    },
+    {
+      "name": "Jay Acovone",
+      "role": "Cop - Westside Street",
+      "url": "https://multimovies.city/cast/jay-acovone/",
+      "image": "https://image.tmdb.org/t/p/w92/jJR6JKsuwExjUUheA9JlIC7mgY5.jpg"
+    },
+    {
+      "name": "Mark Famiglietti",
+      "role": "Scott Petersen",
+      "url": "https://multimovies.city/cast/mark-famiglietti/",
+      "image": "https://image.tmdb.org/t/p/w92/uPJfLgWEUKni0TLnwwEebkGSQkn.jpg"
+    },
+    {
+      "name": "Moira Sinise",
+      "role": "Betsy",
+      "url": "https://multimovies.city/cast/moira-sinise/",
+      "image": "https://image.tmdb.org/t/p/w92/twInciBafWI03FqGmd53u64PJgC.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kbXMOnz2RhTSAbLtHX5hy5AXtwv.jpg",
+    "https://image.tmdb.org/t/p/w300/r1wtU9FsU1smR78vPAyxRNYUpK5.jpg",
+    "https://image.tmdb.org/t/p/w300/voVkSwgFYv9GOpRNfUAwj6qYRTL.jpg",
+    "https://image.tmdb.org/t/p/w300/qevWhvmPcG8GKf57LaV4agTlFui.jpg",
+    "https://image.tmdb.org/t/p/w300/3bFtJTsJ8UM9fMerYS1OaYmeAPq.jpg",
+    "https://image.tmdb.org/t/p/w300/e6i2yuCkZq5cX2q5FNjo62FJRdH.jpg",
+    "https://image.tmdb.org/t/p/w300/pLszlQioKzl6WXIgU3DJfTeQyAr.jpg",
+    "https://image.tmdb.org/t/p/w300/heNbD1JojBNz6kfHWr3O8Uk0a3a.jpg",
+    "https://image.tmdb.org/t/p/w300/fw3eAM4MV0T6fx9aDyehvG0yRyF.jpg",
+    "https://image.tmdb.org/t/p/w300/nZCQUC9W9XKBe7Tm3KuzwOQUt41.jpg"
+  ],
+  "similar": [],
+  "views": 5225,
+  "sources": [
+    "https://www.youtube.com/embed/zdYYI_2Tudg?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/5pgi6my1j5ut"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 3010,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 3010,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:42:31.345755"
+}
