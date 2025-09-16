@@ -1,0 +1,117 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/darna-mana-hai/",
+  "meta": {
+    "title": "Darna Mana Hai",
+    "poster": "https://image.tmdb.org/t/p/w500/aoI022wesHyrQJJKu4mH0bcXuCD.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Jun. 25, 2003",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Stranded in an abandoned building, six friends relate scary stories while a crazed killer lurks in the forest.",
+    "infoFields": {
+      "Original title": "\u0921\u0930\u0928\u093e \u092e\u0928\u093e \u0939\u0948",
+      "IMDb Rating": "6.3 4,278 votes",
+      "TMDb Rating": "5.903 31 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Prawaal Raman",
+      "role": "Director",
+      "url": "https://multimovies.city/director/prawaal-raman/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sameera Reddy",
+      "role": "Shruti",
+      "url": "https://multimovies.city/cast/sameera-reddy/",
+      "image": "https://image.tmdb.org/t/p/w92/egzWn7xxmKZxnynYuFlD93z3GMf.jpg"
+    },
+    {
+      "name": "Gaurav Kapur",
+      "role": "Romi",
+      "url": "https://multimovies.city/cast/gaurav-kapur/",
+      "image": "https://image.tmdb.org/t/p/w92/d0MDbV3mU0rcPzVIYh5RqADaLAK.jpg"
+    },
+    {
+      "name": "Peeya Rai Chowdhary",
+      "role": "Mehnaaz",
+      "url": "https://multimovies.city/cast/peeya-rai-chowdhary/",
+      "image": "https://image.tmdb.org/t/p/w92/vqiA0XtcDnraG9daxuOiCe293CN.jpg"
+    },
+    {
+      "name": "Kiku Sharda",
+      "role": "Amar",
+      "url": "https://multimovies.city/cast/kiku-sharda/",
+      "image": "https://image.tmdb.org/t/p/w92/j1yxHbF12tDRoTqqLVqdJzCo9ro.jpg"
+    },
+    {
+      "name": "Malavika",
+      "role": "Neha",
+      "url": "https://multimovies.city/cast/malavika/",
+      "image": "https://image.tmdb.org/t/p/w92/9157JOet1G7L1uAGQmfgE5YO9aW.jpg"
+    },
+    {
+      "name": "Antara Mali",
+      "role": "Anjali",
+      "url": "https://multimovies.city/cast/antara-mali/",
+      "image": "https://image.tmdb.org/t/p/w92/KnXB2ijfcMGBtaBlR6lEDjyouK.jpg"
+    },
+    {
+      "name": "Sohail Khan",
+      "role": "Karan",
+      "url": "https://multimovies.city/cast/sohail-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/bosWkX7lwr3qfluaB3ZlbLXKSR3.jpg"
+    },
+    {
+      "name": "Saif Ali Khan",
+      "role": "Anil Manchandani",
+      "url": "https://multimovies.city/cast/saif-ali-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    },
+    {
+      "name": "Boman Irani",
+      "role": "Hotel Owner",
+      "url": "https://multimovies.city/cast/boman-irani/",
+      "image": "https://image.tmdb.org/t/p/w92/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg"
+    },
+    {
+      "name": "Raghubir Yadav",
+      "role": "Dayashankar Pandey",
+      "url": "https://multimovies.city/cast/raghubir-yadav/",
+      "image": "https://image.tmdb.org/t/p/w92/khyp4vnuGKVxrtszyB7kSf3vuzw.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kZ9bjwQXLjoQ9KShSqsfF1N0AfN.jpg",
+    "https://image.tmdb.org/t/p/w300/AsdEyJUgvyF88vcgrBg8jui0dwv.jpg",
+    "https://image.tmdb.org/t/p/w300/tTMIO0G8Gf7TXoAnkmL2ratQc6N.jpg"
+  ],
+  "similar": [],
+  "views": 769,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/iy1qs36"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 98687,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:42:49.442030"
+}
