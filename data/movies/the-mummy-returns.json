@@ -4,15 +4,136 @@
   "meta": {
     "title": "The Mummy Returns",
     "poster": "https://image.tmdb.org/t/p/w500/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
-    "synopsis": "Rick and Evelyn O\u2019Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King\u2019s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn\u2019t above kidnapping its new bearer, Alex, to gain control of Anubis\u2019s otherworldly army."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "May. 04, 2001",
+    "ratingValue": "9.1",
+    "ratingCount": "9",
+    "synopsis": "Rick and Evelyn O\u2019Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King\u2019s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn\u2019t above kidnapping its new bearer, Alex, to gain control of Anubis\u2019s otherworldly army.",
+    "infoFields": {
+      "Original title": "The Mummy Returns",
+      "IMDb Rating": "6.4 333,272 votes",
+      "TMDb Rating": "6.3 6,228 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Stephen Sommers",
+      "role": "Director",
+      "url": "https://multimovies.city/director/stephen-sommers/",
+      "image": "https://image.tmdb.org/t/p/w92/wGhd7IF1Buf7qPXuC4y1t02hams.jpg"
+    },
+    {
+      "name": "Brendan Fraser",
+      "role": "Rick O'Connell",
+      "url": "https://multimovies.city/cast/brendan-fraser/",
+      "image": "https://image.tmdb.org/t/p/w92/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "name": "Rachel Weisz",
+      "role": "Evelyn O'Connell / Nefertiri",
+      "url": "https://multimovies.city/cast/rachel-weisz/",
+      "image": "https://image.tmdb.org/t/p/w92/58czHc8QU1L4H0N45T0UML8efgS.jpg"
+    },
+    {
+      "name": "John Hannah",
+      "role": "Jonathan Carnahan",
+      "url": "https://multimovies.city/cast/john-hannah/",
+      "image": "https://image.tmdb.org/t/p/w92/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+    },
+    {
+      "name": "Arnold Vosloo",
+      "role": "Imhotep",
+      "url": "https://multimovies.city/cast/arnold-vosloo/",
+      "image": "https://image.tmdb.org/t/p/w92/g7IuNOiDslCGInYEYClbyRrma5z.jpg"
+    },
+    {
+      "name": "Oded Fehr",
+      "role": "Ardeth Bay",
+      "url": "https://multimovies.city/cast/oded-fehr/",
+      "image": "https://image.tmdb.org/t/p/w92/gcYVN3vx8tHedEz2RbVNSKs44Wm.jpg"
+    },
+    {
+      "name": "Patricia Vel\u00e1squez",
+      "role": "Meela / Anck-Su-Namun",
+      "url": "https://multimovies.city/cast/patricia-velasquez/",
+      "image": "https://image.tmdb.org/t/p/w92/51Ve74pQUnR6tv3faE8LKUFZa9I.jpg"
+    },
+    {
+      "name": "Freddie Boath",
+      "role": "Alex O'Connell",
+      "url": "https://multimovies.city/cast/freddie-boath/",
+      "image": "https://image.tmdb.org/t/p/w92/yR1yJnwALekEG521eddpnL5mApD.jpg"
+    },
+    {
+      "name": "Alun Armstrong",
+      "role": "Baltus Hafez",
+      "url": "https://multimovies.city/cast/alun-armstrong/",
+      "image": "https://image.tmdb.org/t/p/w92/ahx132GjztjnH7gP64Q0NLewUqZ.jpg"
+    },
+    {
+      "name": "Dwayne Johnson",
+      "role": "Mathayus / The Scorpion King",
+      "url": "https://multimovies.city/cast/dwayne-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/xZV1qF3EsTivbEXCmx2HQazPvHK.jpg"
+    },
+    {
+      "name": "Adewale Akinnuoye-Agbaje",
+      "role": "Lock-Nah",
+      "url": "https://multimovies.city/cast/adewale-akinnuoye-agbaje/",
+      "image": "https://image.tmdb.org/t/p/w92/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/uoOD6qqz4QFhgvhdsrrQUmkmAMc.jpg",
+    "https://image.tmdb.org/t/p/w300/vQvYogoV88EXdMiXGuzpdhwcuMN.jpg",
+    "https://image.tmdb.org/t/p/w300/cxIwqO2fYHBVIfATkODv3m2BImL.jpg",
+    "https://image.tmdb.org/t/p/w300/fRnhnR2JfkGBT19z7EXEmIUcDSo.jpg",
+    "https://image.tmdb.org/t/p/w300/jxDI46BN5NRoNuknUbQaiX2WGM7.jpg",
+    "https://image.tmdb.org/t/p/w300/bCGjOg2IrWng0p6aGJlMD6ctJqK.jpg",
+    "https://image.tmdb.org/t/p/w300/xR0xx9pz2w5dWJx10uaPvo47Eiw.jpg",
+    "https://image.tmdb.org/t/p/w300/r272XkssdtdvuScIete9Sk1UWI7.jpg",
+    "https://image.tmdb.org/t/p/w300/rSgsoC3HVtpWcNYYHhfQYUjYTOh.jpg",
+    "https://image.tmdb.org/t/p/w300/f2g1CuRVveHIFkb8Mqg1I1AkLxA.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 10214,
+  "sources": [
+    "https://www.youtube.com/embed/ptmLrNpmcBo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/yyo76rgzlunm"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5051,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5051,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:29:54.833919"
 }
