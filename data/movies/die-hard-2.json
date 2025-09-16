@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/die-hard-2/",
+  "meta": {
+    "title": "Die Hard 2",
+    "poster": "https://image.tmdb.org/t/p/w500/lDFO7D4MdbhjOwaPwe18QG69Rt0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 03, 1990",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "One year after his heroics in Los Angeles, John McClane is an off-duty cop who is the wrong guy in the wrong place at the wrong time. On a snowy Christmas Eve, as he waits for his wife\u2019s plane to land at Washington Dulles International Airport, terrorists take over the air traffic control system in a plot to free a South American army general and drug smuggler being flown into the US to face drug charges. It\u2019s now up to McClane to take on the terrorists, while coping with an inept airport police chief, an uncooperative anti-terrorist squad, and the life of his wife and everyone else trapped in planes circling overhead.",
+    "infoFields": {
+      "Original title": "Die Hard 2",
+      "IMDb Rating": "7.2 398,777 votes",
+      "TMDb Rating": "6.956 6,051 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Renny Harlin",
+      "role": "Director",
+      "url": "https://multimovies.city/director/renny-harlin/",
+      "image": "https://image.tmdb.org/t/p/w92/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg"
+    },
+    {
+      "name": "Bruce Willis",
+      "role": "John McClane",
+      "url": "https://multimovies.city/cast/bruce-willis/",
+      "image": "https://image.tmdb.org/t/p/w92/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+      "name": "Bonnie Bedelia",
+      "role": "Holly McClane",
+      "url": "https://multimovies.city/cast/bonnie-bedelia/",
+      "image": "https://image.tmdb.org/t/p/w92/2dCd7HGOfmn4x7v97EcNIwy12io.jpg"
+    },
+    {
+      "name": "William Sadler",
+      "role": "Stuart",
+      "url": "https://multimovies.city/cast/william-sadler/",
+      "image": "https://image.tmdb.org/t/p/w92/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+    },
+    {
+      "name": "John Amos",
+      "role": "Major Grant",
+      "url": "https://multimovies.city/cast/john-amos/",
+      "image": "https://image.tmdb.org/t/p/w92/b2zYGkMG28wYDHC9CunfYAeoeMQ.jpg"
+    },
+    {
+      "name": "Franco Nero",
+      "role": "General Ramon Esperanza",
+      "url": "https://multimovies.city/cast/franco-nero/",
+      "image": "https://image.tmdb.org/t/p/w92/uiCrTolkOqpZYVxveMZeBx7sjZO.jpg"
+    },
+    {
+      "name": "William Atherton",
+      "role": "Richard Thornberg",
+      "url": "https://multimovies.city/cast/william-atherton/",
+      "image": "https://image.tmdb.org/t/p/w92/S9W4deKuEa2K12ZiXwlvrC6J4U.jpg"
+    },
+    {
+      "name": "Dennis Franz",
+      "role": "Capt. Carmine Lorenzo",
+      "url": "https://multimovies.city/cast/dennis-franz/",
+      "image": "https://image.tmdb.org/t/p/w92/kbSUcfAbhV1kWuDtLhH5CQwcbJQ.jpg"
+    },
+    {
+      "name": "Art Evans",
+      "role": "Leslie Barnes",
+      "url": "https://multimovies.city/cast/art-evans/",
+      "image": "https://image.tmdb.org/t/p/w92/buSAuxtomWV06xdfzZYd7kLbTVc.jpg"
+    },
+    {
+      "name": "Fred Thompson",
+      "role": "Trudeau",
+      "url": "https://multimovies.city/cast/fred-thompson/",
+      "image": "https://image.tmdb.org/t/p/w92/d3x9crhTbzHaVA2OEsRu1YxirBG.jpg"
+    },
+    {
+      "name": "Tom Bower",
+      "role": "Marvin",
+      "url": "https://multimovies.city/cast/tom-bower/",
+      "image": "https://image.tmdb.org/t/p/w92/q26z6T3QZfpirZV3Ex885zUgUR4.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+    "https://image.tmdb.org/t/p/w300/fgkgab4Rel0nOI3B3scHeNB4Mn6.jpg",
+    "https://image.tmdb.org/t/p/w300/ok5fcDwhkCKEKJtPwQt1zlmPFhk.jpg",
+    "https://image.tmdb.org/t/p/w300/d5cqEx87XRQhwKcjrmMVZ22tx5J.jpg",
+    "https://image.tmdb.org/t/p/w300/c9MQjaP2P69CFIZRuNClP3laQoM.jpg",
+    "https://image.tmdb.org/t/p/w300/1sejUyhtyAcGX5KPufRzzWUfjNZ.jpg",
+    "https://image.tmdb.org/t/p/w300/61eQdVe9Fs587Hlu1SFDMidjIRu.jpg",
+    "https://image.tmdb.org/t/p/w300/6ILlTQJyIAdOVnzNXOOVFVfBhx4.jpg",
+    "https://image.tmdb.org/t/p/w300/A3cDtHhClxMcfd3bJQjrOA5avcX.jpg"
+  ],
+  "similar": [],
+  "views": 217,
+  "sources": [
+    "https://www.youtube.com/embed/1iH7S5NHSnI?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/w6u170n"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 97451,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 97451,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false
+}
