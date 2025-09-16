@@ -1,0 +1,120 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/vivah/",
+  "meta": {
+    "title": "Vivah",
+    "poster": "https://image.tmdb.org/t/p/w500/e5zFYX3hW1TNeFCzRw7ET2DxRPm.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Nov. 10, 2006",
+    "ratingValue": "7.7",
+    "ratingCount": "12",
+    "synopsis": "Poonam, a traditionally brought-up young woman, is to marry Prem, a groom chosen by her uncle. Poonam and Prem\u2019s faith and love are to be tested however, when an accident occurs and Poonam might be scarred for life.",
+    "infoFields": {
+      "Original title": "\u0935\u093f\u0935\u093e\u0939",
+      "IMDb Rating": "6.6 10,745 votes",
+      "TMDb Rating": "6.462 78 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sooraj Barjatya",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sooraj-barjatya/",
+      "image": "https://image.tmdb.org/t/p/w92/cayLTtN2H1ErYFySfznPkYGOdhA.jpg"
+    },
+    {
+      "name": "Shahid Kapoor",
+      "role": "Prem Bajpayee",
+      "url": "https://multimovies.city/cast/shahid-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/q5jqLRioZgIVjXpKS8XHx27ScDQ.jpg"
+    },
+    {
+      "name": "Amrita Rao",
+      "role": "Poonam Mishra",
+      "url": "https://multimovies.city/cast/amrita-rao/",
+      "image": "https://image.tmdb.org/t/p/w92/7KrulJXPMtP5Czc7n09SsB1DbIl.jpg"
+    },
+    {
+      "name": "Anupam Kher",
+      "role": "Harishchandra Bajpayee",
+      "url": "https://multimovies.city/cast/anupam-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/f7hWJ4tvzR7uXmYoTiB41TpQ2NZ.jpg"
+    },
+    {
+      "name": "Seema Biswas",
+      "role": "Rama Mishra",
+      "url": "https://multimovies.city/cast/seema-biswas/",
+      "image": "https://image.tmdb.org/t/p/w92/nRd9anbVgvsRrWbH3G09nWTThHp.jpg"
+    },
+    {
+      "name": "Alok Nath",
+      "role": "Krishna Kant (Chacha)",
+      "url": "https://multimovies.city/cast/alok-nath/",
+      "image": "https://image.tmdb.org/t/p/w92/fMtqIj07e2HD0i5YbV91kgjrZzm.jpg"
+    },
+    {
+      "name": "Manoj Joshi",
+      "role": "Bhagatji",
+      "url": "https://multimovies.city/cast/manoj-joshi/",
+      "image": "https://image.tmdb.org/t/p/w92/6uCyRDLYx4INHvi4HyfarXEwWXL.jpg"
+    },
+    {
+      "name": "Samir Soni",
+      "role": "Sunil Bajpayee",
+      "url": "https://multimovies.city/cast/samir-soni/",
+      "image": "https://image.tmdb.org/t/p/w92/dwQDVAzcjexg1HCDBeGEW0MoPth.jpg"
+    },
+    {
+      "name": "Mohnish Behl",
+      "role": "Dr. Rashid Khan",
+      "url": "https://multimovies.city/cast/mohnish-behl/",
+      "image": "https://image.tmdb.org/t/p/w92/iiDceTPiwHY4y91gdP3OsEHOo7r.jpg"
+    },
+    {
+      "name": "Jatin Sial",
+      "role": "Prem's office staff",
+      "url": "https://multimovies.city/cast/jatin-sial/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Dinesh Lamba",
+      "role": "Munimji",
+      "url": "https://multimovies.city/cast/dinesh-lamba/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iBIWEBAlDkDkjVF1kaCHcLfawkV.jpg",
+    "https://image.tmdb.org/t/p/w300/l8hUeUX87Q6Gl7ulvGjC5tHUldk.jpg"
+  ],
+  "similar": [],
+  "views": 12095,
+  "sources": [
+    "https://multimoviesshg.com/e/rm8ovsmj0bpq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 43814,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:07:19.643807"
+}
