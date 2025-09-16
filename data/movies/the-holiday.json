@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-holiday/",
+  "meta": {
+    "title": "The Holiday",
+    "poster": "https://image.tmdb.org/t/p/w500/n26GUumac5MrzpJiv0DPI7MMIUJ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Dec. 05, 2006",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Two women, one from the United States and one from the United Kingdom, swap homes at Christmas time after bad breakups with their boyfriends. Each woman finds romance with a local man but realizes that the imminent return home may end the relationship.",
+    "infoFields": {
+      "Original title": "The Holiday",
+      "IMDb Rating": "7 335,619 votes",
+      "TMDb Rating": "7.1 5,058 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Nancy Meyers",
+      "role": "Director",
+      "url": "https://multimovies.city/director/nancy-meyers/",
+      "image": "https://image.tmdb.org/t/p/w92/oguBZ1ubDnY1FTrUXxjULulbXKV.jpg"
+    },
+    {
+      "name": "Cameron Diaz",
+      "role": "Amanda",
+      "url": "https://multimovies.city/cast/cameron-diaz/",
+      "image": "https://image.tmdb.org/t/p/w92/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "name": "Kate Winslet",
+      "role": "Iris",
+      "url": "https://multimovies.city/cast/kate-winslet/",
+      "image": "https://image.tmdb.org/t/p/w92/5QKFvhIqKbI7adpG5TZBVZDv0hF.jpg"
+    },
+    {
+      "name": "Jude Law",
+      "role": "Graham",
+      "url": "https://multimovies.city/cast/jude-law/",
+      "image": "https://image.tmdb.org/t/p/w92/6UadpSbfC39WMChAcdnNunzwDxv.jpg"
+    },
+    {
+      "name": "Jack Black",
+      "role": "Miles",
+      "url": "https://multimovies.city/cast/jack-black/",
+      "image": "https://image.tmdb.org/t/p/w92/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "name": "Eli Wallach",
+      "role": "Arthur",
+      "url": "https://multimovies.city/cast/eli-wallach/",
+      "image": "https://image.tmdb.org/t/p/w92/s452wxFLaOwAIs6juD0rrvxaFxL.jpg"
+    },
+    {
+      "name": "Edward Burns",
+      "role": "Ethan",
+      "url": "https://multimovies.city/cast/edward-burns/",
+      "image": "https://image.tmdb.org/t/p/w92/pTLdPUSxDUcdmvy91LGCF3pk0AM.jpg"
+    },
+    {
+      "name": "Rufus Sewell",
+      "role": "Jasper",
+      "url": "https://multimovies.city/cast/rufus-sewell/",
+      "image": "https://image.tmdb.org/t/p/w92/yc2EWyg45GO03YqDttaEhjvegiE.jpg"
+    },
+    {
+      "name": "Miffy Englefield",
+      "role": "Sophie",
+      "url": "https://multimovies.city/cast/miffy-englefield/",
+      "image": "https://image.tmdb.org/t/p/w92/bE1hlUbNbaCSjioRPqg5TbLlfUS.jpg"
+    },
+    {
+      "name": "Emma Pritchard",
+      "role": "Olivia",
+      "url": "https://multimovies.city/cast/emma-pritchard/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sarah Parish",
+      "role": "Hannah",
+      "url": "https://multimovies.city/cast/sarah-parish/",
+      "image": "https://image.tmdb.org/t/p/w92/vWcEkSmENll9Oauqq7C9nPxreO1.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/pvVpR8lPRAPbeVU6hqJwD4r9roo.jpg",
+    "https://image.tmdb.org/t/p/w300/5LMUfOxQJCY1i0wGX8fsfe1kXqu.jpg",
+    "https://image.tmdb.org/t/p/w300/9TP7FGdo9ppnuXX3DbB9RtzYKkh.jpg",
+    "https://image.tmdb.org/t/p/w300/nhiuJ3jalLJ2n4rEKpGCXLrXCx1.jpg",
+    "https://image.tmdb.org/t/p/w300/eEJmoNST0d9Htn7D2eku2DZazzL.jpg",
+    "https://image.tmdb.org/t/p/w300/nC9TOfu1huHSexh2Xxz2nGnjngp.jpg",
+    "https://image.tmdb.org/t/p/w300/3DW0vLXq0qtKKS7FrKaEOLWYMrB.jpg",
+    "https://image.tmdb.org/t/p/w300/x1bxL87uvmdcZxGkKPjn0c7wjWM.jpg",
+    "https://image.tmdb.org/t/p/w300/9Ebn8atCcGk5OZrx4xmoTobAxoh.jpg",
+    "https://image.tmdb.org/t/p/w300/pHlVQuHWZ8LzNe4fH6TyTob2HCi.jpg"
+  ],
+  "similar": [],
+  "views": 1089,
+  "sources": [
+    "https://www.youtube.com/embed/wk9caHO3pW0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/hmjmnz2"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 71049,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 71049,
+      "nume": 1,
+      "title": "GD"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:06:41.285512"
+}
