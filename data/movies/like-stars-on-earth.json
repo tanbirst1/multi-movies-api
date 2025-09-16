@@ -1,0 +1,151 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/like-stars-on-earth/",
+  "meta": {
+    "title": "Taare Zameen Par",
+    "poster": "https://image.tmdb.org/t/p/w500/fwXhw9bERqKrJfJK6WGakPIh3FS.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Dec. 21, 2007",
+    "ratingValue": "8.8",
+    "ratingCount": "19",
+    "synopsis": "Ishaan Awasthi is an eight-year-old whose world is filled with wonders that no one else seems to appreciate. Colours, fish, dogs, and kites don\u2019t seem important to the adults, who are much more interested in things like homework, marks, and neatness. Ishaan cannot seem to get anything right in class; he is then sent to boarding school, where his life changes forever.",
+    "infoFields": {
+      "Original title": "\u0924\u093e\u0930\u0947 \u091c\u093c\u092e\u0940\u0928 \u092a\u0930",
+      "IMDb Rating": "8.3 197,079 votes",
+      "TMDb Rating": "7.987 967 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Aamir Khan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/aamir-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/bI3yxh4FzKL2hHYS4nbzcDMWtZs.jpg"
+    },
+    {
+      "name": "Darsheel Safary",
+      "role": "Ishaan Nandkishore Awasthi",
+      "url": "https://multimovies.city/cast/darsheel-safary/",
+      "image": "https://image.tmdb.org/t/p/w92/p6HaQCgVAtH2eKp69JCc1FjDgXc.jpg"
+    },
+    {
+      "name": "Aamir Khan",
+      "role": "Ram Shankar Nikumbh",
+      "url": "https://multimovies.city/cast/aamir-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/bI3yxh4FzKL2hHYS4nbzcDMWtZs.jpg"
+    },
+    {
+      "name": "Tisca Chopra",
+      "role": "Maya Awasthi",
+      "url": "https://multimovies.city/cast/tisca-chopra/",
+      "image": "https://image.tmdb.org/t/p/w92/3Paj1g86LtZIcP3poEcDJhIdpQJ.jpg"
+    },
+    {
+      "name": "Vipin Sharma",
+      "role": "Nandkishore Awasthi",
+      "url": "https://multimovies.city/cast/vipin-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/vyeSxwc7ZBQdnWp2WLgz1gA3utk.jpg"
+    },
+    {
+      "name": "Tanay Chheda",
+      "role": "Rajan Damodaran",
+      "url": "https://multimovies.city/cast/tanay-chheda/",
+      "image": "https://image.tmdb.org/t/p/w92/lZ0tjKg0FQ869tP80eBHobb3ouH.jpg"
+    },
+    {
+      "name": "Sachet Engineer",
+      "role": "Yohaan Awasthi",
+      "url": "https://multimovies.city/cast/sachet-engineer/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Girija Oak",
+      "role": "Jabeen",
+      "url": "https://multimovies.city/cast/girija-oak/",
+      "image": "https://image.tmdb.org/t/p/w92/25WXo7cPtBScBkNfKymXhuRnQhG.jpg"
+    },
+    {
+      "name": "Bugs Bhargava",
+      "role": "Sen Sir",
+      "url": "https://multimovies.city/cast/bugs-bhargava/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Shankar Sachdev",
+      "role": "Tiwari Sir",
+      "url": "https://multimovies.city/cast/shankar-sachdev/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Lalita Lajmi",
+      "role": "Lalita Lajmi",
+      "url": "https://multimovies.city/cast/lalita-lajmi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5dF4FNwM2qZIuF0WCUs5zvDGU2H.jpg",
+    "https://image.tmdb.org/t/p/w300/bPwdy3zaNnMdZ22u0WCcYu0xxgt.jpg"
+  ],
+  "similar": [],
+  "views": 11586,
+  "sources": [
+    "https://www.youtube.com/embed/tn_2Ie_jtX8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/um60k0xupgli",
+    "https://sbplay.org/embed-lam2febylzu7.html",
+    "https://dood.la/e/qt1qrfgntcpk",
+    "https://mixdrop.co/e/7rrqn41qbzmnrr",
+    "https://hydrax.net/watch?v=At5ktt5VLe"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10392,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 10392,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 10392,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 10392,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 10392,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 10392,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:18:43.374873"
+}
