@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/another-9-1-2-weeks/",
+  "meta": {
+    "title": "Another 9 1/2 Weeks",
+    "poster": "https://image.tmdb.org/t/p/w500/lbQjiB1KTCX1Tmrby7CV7tP5Yq5.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 12, 1997",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "John heads to Paris hoping to meet his ex from the first movie, but instead ends up with her former friend, Lea.",
+    "infoFields": {
+      "Original title": "Another 9 1/2 Weeks",
+      "IMDb Rating": "2.9 4,671 votes",
+      "TMDb Rating": "4.756 80 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Anne Goursaud",
+      "role": "Director",
+      "url": "https://multimovies.city/director/anne-goursaud/",
+      "image": "https://image.tmdb.org/t/p/w92/p00sjw0puqjfL9QeNRZSVRzQYvl.jpg"
+    },
+    {
+      "name": "Mickey Rourke",
+      "role": "John Gray",
+      "url": "https://multimovies.city/cast/mickey-rourke/",
+      "image": "https://image.tmdb.org/t/p/w92/i6vXukUwRsJa7S9yhZgoKt9xLDv.jpg"
+    },
+    {
+      "name": "Agathe de La Fontaine",
+      "role": "Claire",
+      "url": "https://multimovies.city/cast/agathe-de-la-fontaine/",
+      "image": "https://image.tmdb.org/t/p/w92/mNtlfyBpLJQTvetVHlV6MEV8GL3.jpg"
+    },
+    {
+      "name": "Angie Everhart",
+      "role": "Lea Calot",
+      "url": "https://multimovies.city/cast/angie-everhart/",
+      "image": "https://image.tmdb.org/t/p/w92/2jLxkMzqHkCGbBWGkeMixJbOg85.jpg"
+    },
+    {
+      "name": "Steven Berkoff",
+      "role": "Vittorio DaSilva",
+      "url": "https://multimovies.city/cast/steven-berkoff/",
+      "image": "https://image.tmdb.org/t/p/w92/v15QPmGSTM5PGGZIhZd1KweFK5E.jpg"
+    },
+    {
+      "name": "Dougray Scott",
+      "role": "Charlie",
+      "url": "https://multimovies.city/cast/dougray-scott/",
+      "image": "https://image.tmdb.org/t/p/w92/1fBd7n7s1Furk4kXN4YIcOD6mZb.jpg"
+    },
+    {
+      "name": "Werner Schreyer",
+      "role": "Gilles",
+      "url": "https://multimovies.city/cast/werner-schreyer/",
+      "image": "https://image.tmdb.org/t/p/w92/zV8oCeYRomKodjQuUMAHC5ZBB1t.jpg"
+    },
+    {
+      "name": "Faisal Attia",
+      "role": "Drug Dealer #2",
+      "url": "https://multimovies.city/cast/faisal-attia/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Philippe Beglia",
+      "role": "Hotel Raphael Doorman",
+      "url": "https://multimovies.city/cast/philippe-beglia/",
+      "image": "https://image.tmdb.org/t/p/w92/gTkAwopSP0sEw51C3beVx24oNlh.jpg"
+    },
+    {
+      "name": "Christin Amy Artner",
+      "role": "Kahidijah",
+      "url": "https://multimovies.city/cast/christin-amy-artner/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sandra Cervik",
+      "role": "Hotel Maid",
+      "url": "https://multimovies.city/cast/sandra-cervik/",
+      "image": "https://image.tmdb.org/t/p/w92/awSMOFiv4h8LjZUdaZI5AVdvsRJ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5Lf8xrXXgtBrjhqsIS2HkhBWzPM.jpg",
+    "https://image.tmdb.org/t/p/w300/rO5k5Rx4rLA5yGrbd0iSrUFb3Fx.jpg",
+    "https://image.tmdb.org/t/p/w300/858gToeYFliB7mSzY853oJNlUNJ.jpg",
+    "https://image.tmdb.org/t/p/w300/jZfkeRwfHc9texXmuYhsZWiVnxp.jpg",
+    "https://image.tmdb.org/t/p/w300/p557oq0mwA7jSjKgjBwoOtMdGxG.jpg"
+  ],
+  "similar": [],
+  "views": 4809,
+  "sources": [
+    "https://www.youtube.com/embed/v0kEWhgd9f0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/yo643ti5q8lf"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26367,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 26367,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
