@@ -1,0 +1,137 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-unborn/",
+  "meta": {
+    "title": "The Unborn",
+    "poster": "https://image.tmdb.org/t/p/w500/6SUuLwyk9wFKZDYsgdSahYs7HEf.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jan. 09, 2009",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "A young woman fights the spirit that is slowly taking possession of her.",
+    "infoFields": {
+      "Original title": "The Unborn",
+      "IMDb Rating": "4.7 53,437 votes",
+      "TMDb Rating": "5.2 1,325 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David S. Goyer",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-s-goyer/",
+      "image": "https://image.tmdb.org/t/p/w92/gf44Hr3HJuWK7ZMHQKzDNBe0ylI.jpg"
+    },
+    {
+      "name": "Odette Annable",
+      "role": "Casey Beldon",
+      "url": "https://multimovies.city/cast/odette-annable/",
+      "image": "https://image.tmdb.org/t/p/w92/fWPmTC9QfqAKi3JKJKp2LKrm8Ix.jpg"
+    },
+    {
+      "name": "Cam Gigandet",
+      "role": "Mark Hardigan",
+      "url": "https://multimovies.city/cast/cam-gigandet/",
+      "image": "https://image.tmdb.org/t/p/w92/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+    },
+    {
+      "name": "Gary Oldman",
+      "role": "Rabbi Joseph Sendak",
+      "url": "https://multimovies.city/cast/gary-oldman/",
+      "image": "https://image.tmdb.org/t/p/w92/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+    },
+    {
+      "name": "Idris Elba",
+      "role": "Arthur Wyndham",
+      "url": "https://multimovies.city/cast/idris-elba/",
+      "image": "https://image.tmdb.org/t/p/w92/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "name": "James Remar",
+      "role": "Gordon Beldon",
+      "url": "https://multimovies.city/cast/james-remar/",
+      "image": "https://image.tmdb.org/t/p/w92/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
+    },
+    {
+      "name": "Ethan Cutkosky",
+      "role": "Barto Kozma",
+      "url": "https://multimovies.city/cast/ethan-cutkosky/",
+      "image": "https://image.tmdb.org/t/p/w92/nPL6NNLSAktu8902c00d3otlu9w.jpg"
+    },
+    {
+      "name": "Meagan Good",
+      "role": "Romy Marshall",
+      "url": "https://multimovies.city/cast/meagan-good/",
+      "image": "https://image.tmdb.org/t/p/w92/2ARb40kppmUDfsXn9i2FsjfziKv.jpg"
+    },
+    {
+      "name": "Jane Alexander",
+      "role": "Sofi Kozma",
+      "url": "https://multimovies.city/cast/jane-alexander/",
+      "image": "https://image.tmdb.org/t/p/w92/5nWLBhNH6tQGVskI89J45C7LU2o.jpg"
+    },
+    {
+      "name": "Carla Gugino",
+      "role": "Janet Beldon",
+      "url": "https://multimovies.city/cast/carla-gugino/",
+      "image": "https://image.tmdb.org/t/p/w92/icqhKSZj60rk0FyVwkyxLdoku4u.jpg"
+    },
+    {
+      "name": "Atticus Shaffer",
+      "role": "Matty Newton",
+      "url": "https://multimovies.city/cast/atticus-shaffer/",
+      "image": "https://image.tmdb.org/t/p/w92/uZUZizKPSIiEiqVXh5IwIQBH2VX.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ek7LZZ6O9o1WKr8oAZ203Jmsm6J.jpg",
+    "https://image.tmdb.org/t/p/w300/b7QjZbmKj2wLnKlqwHTXP0GKjzB.jpg",
+    "https://image.tmdb.org/t/p/w300/mScJxVsdEW9jNpYf7wqRMYhNCoO.jpg",
+    "https://image.tmdb.org/t/p/w300/rvy0OQQ6bcBq7kVFi3dj6ULINl7.jpg",
+    "https://image.tmdb.org/t/p/w300/pJQYNDXvWvCzukqRMrBa53zrb1E.jpg",
+    "https://image.tmdb.org/t/p/w300/4bVXaRkLcHVITtMJE8CvMfAivc6.jpg",
+    "https://image.tmdb.org/t/p/w300/10A9bqjdrqad0bTE4kOMTEGSofy.jpg",
+    "https://image.tmdb.org/t/p/w300/38FFmCRpie7WVaSj8ahcNiokAC9.jpg"
+  ],
+  "similar": [],
+  "views": 2325,
+  "sources": [
+    "https://www.youtube.com/embed/sc3Cba0qOco?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/b9kza7v0arkb"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 54683,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 54683,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:26:54.853296"
+}
