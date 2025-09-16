@@ -1,0 +1,121 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/frozen-2/",
+  "meta": {
+    "title": "Frozen",
+    "poster": "https://image.tmdb.org/t/p/w500/kEiMX42a35S4blAw4KrQe3U5zNc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Feb. 05, 2010",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "When three skiers find themselves stranded on a chair lift at a New England ski resort that has closed for the next week, they are forced to make life or death choices that prove to be more perilous than staying put and freezing to death.",
+    "infoFields": {
+      "Original title": "Frozen",
+      "IMDb Rating": "6.2 79,781 votes",
+      "TMDb Rating": "5.989 1,704 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Adam Green",
+      "role": "Director",
+      "url": "https://multimovies.city/director/adam-green/",
+      "image": "https://image.tmdb.org/t/p/w92/b6L3KHNumlumhySfspBaeOA7Zxr.jpg"
+    },
+    {
+      "name": "Emma Bell",
+      "role": "Parker O'Neil",
+      "url": "https://multimovies.city/cast/emma-bell/",
+      "image": "https://image.tmdb.org/t/p/w92/nWsmC9JQcg27WcD7X9MxCAMWEox.jpg"
+    },
+    {
+      "name": "Shawn Ashmore",
+      "role": "Joe Lynch",
+      "url": "https://multimovies.city/cast/shawn-ashmore/",
+      "image": "https://image.tmdb.org/t/p/w92/tXA1gFtsp9HWnzlQsaZSoZC8L4r.jpg"
+    },
+    {
+      "name": "Kevin Zegers",
+      "role": "Dan Walker",
+      "url": "https://multimovies.city/cast/kevin-zegers/",
+      "image": "https://image.tmdb.org/t/p/w92/zRjasG4NXxKbe6e1c4enivAvfcH.jpg"
+    },
+    {
+      "name": "Ed Ackerman",
+      "role": "Jason",
+      "url": "https://multimovies.city/cast/ed-ackerman/",
+      "image": "https://image.tmdb.org/t/p/w92/idirAWlgShb9EYfgfNFEzdCrDRO.jpg"
+    },
+    {
+      "name": "Rileah Vanderbilt",
+      "role": "Shannon",
+      "url": "https://multimovies.city/cast/rileah-vanderbilt/",
+      "image": "https://image.tmdb.org/t/p/w92/6tsH27Hh57sp58iR3uRwVYe68lZ.jpg"
+    },
+    {
+      "name": "Kane Hodder",
+      "role": "Cody",
+      "url": "https://multimovies.city/cast/kane-hodder/",
+      "image": "https://image.tmdb.org/t/p/w92/avMGd9rA2ys1pJok1EGOa46MEQX.jpg"
+    },
+    {
+      "name": "Adam Johnson",
+      "role": "Rifkin",
+      "url": "https://multimovies.city/cast/adam-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/oFgiM8x3dGk2AQXI7RKcb6j1J7g.jpg"
+    },
+    {
+      "name": "Chris York",
+      "role": "Ryan",
+      "url": "https://multimovies.city/cast/chris-york/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Peder Melhuse",
+      "role": "Driver",
+      "url": "https://multimovies.city/cast/peder-melhuse/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vD1yKObsRS2cvpmtuaCaMhr4zxe.jpg",
+    "https://image.tmdb.org/t/p/w300/qw4pp4PntwyWlYFOpHEkQbU6gLF.jpg",
+    "https://image.tmdb.org/t/p/w300/3UJFH5XptQa3lGSGifEitZc1Qc3.jpg",
+    "https://image.tmdb.org/t/p/w300/a9fM0wmA1JwWCMpV5wLFm0662G5.jpg",
+    "https://image.tmdb.org/t/p/w300/77d3VhkOe4FBv2HIfPzyvCu5JQW.jpg",
+    "https://image.tmdb.org/t/p/w300/asDTzC0ABHsC8yAn5iffs6pscVg.jpg"
+  ],
+  "similar": [],
+  "views": 1500,
+  "sources": [
+    "https://www.youtube.com/embed/GiUNsDVjCbo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/r0ampzlz6xn1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 38950,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 38950,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:37:59.002269"
+}
