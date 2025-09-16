@@ -1,0 +1,171 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-matrix-reloaded/",
+  "meta": {
+    "title": "The Matrix Reloaded",
+    "poster": "https://image.tmdb.org/t/p/w500/9TGHDvWrqKBzwDxDodHYXEmOE6J.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 15, 2003",
+    "ratingValue": "10",
+    "ratingCount": "4",
+    "synopsis": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance. Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition. But a nasty piece of news hits the human resistance: 250,000 machine sentinels are digging to Zion and would reach them in 72 hours. As Zion prepares for the ultimate war, Neo, Morpheus and Trinity are advised by the Oracle to find the Keymaker who would help them reach the Source. Meanwhile Neo\u2019s recurrent dreams depicting Trinity\u2019s death have got him worried and as if it was not enough, Agent Smith has somehow escaped deletion, has become more powerful than before and has fixed Neo as his next target.",
+    "infoFields": {
+      "Original title": "The Matrix Reloaded",
+      "IMDb Rating": "7.2 606,469 votes",
+      "TMDb Rating": "7.036 9,796 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David R. Ellis",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-r-ellis/",
+      "image": "https://image.tmdb.org/t/p/w92/zw1ccRyxUBy0y7JDdXTZAYg96xd.jpg"
+    },
+    {
+      "name": "Keanu Reeves",
+      "role": "Thomas A. Anderson / Neo",
+      "url": "https://multimovies.city/cast/keanu-reeves/",
+      "image": "https://image.tmdb.org/t/p/w92/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg"
+    },
+    {
+      "name": "Laurence Fishburne",
+      "role": "Morpheus",
+      "url": "https://multimovies.city/cast/laurence-fishburne/",
+      "image": "https://image.tmdb.org/t/p/w92/8suOhUmPbfKqDQ17jQ1Gy0mI3P4.jpg"
+    },
+    {
+      "name": "Carrie-Anne Moss",
+      "role": "Trinity",
+      "url": "https://multimovies.city/cast/carrie-anne-moss/",
+      "image": "https://image.tmdb.org/t/p/w92/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
+    },
+    {
+      "name": "Hugo Weaving",
+      "role": "Agent Smith",
+      "url": "https://multimovies.city/cast/hugo-weaving/",
+      "image": "https://image.tmdb.org/t/p/w92/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "name": "Jada Pinkett Smith",
+      "role": "Niobe",
+      "url": "https://multimovies.city/cast/jada-pinkett-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/vt1Z1Fsu7gjp4L0OHey9Aa79lWj.jpg"
+    },
+    {
+      "name": "Gloria Foster",
+      "role": "Oracle",
+      "url": "https://multimovies.city/cast/gloria-foster/",
+      "image": "https://image.tmdb.org/t/p/w92/AriGXtC9fjBOia9Zr8CZjn4o3rx.jpg"
+    },
+    {
+      "name": "Harold Perrineau",
+      "role": "Link",
+      "url": "https://multimovies.city/cast/harold-perrineau/",
+      "image": "https://image.tmdb.org/t/p/w92/8x1aoTRnUpx4AHc1fQSzGWGJhGs.jpg"
+    },
+    {
+      "name": "Monica Bellucci",
+      "role": "Persephone",
+      "url": "https://multimovies.city/cast/monica-bellucci/",
+      "image": "https://image.tmdb.org/t/p/w92/j9kcLBn7XbvBfZdK34oU5nMsMaH.jpg"
+    },
+    {
+      "name": "Harry Lennix",
+      "role": "Commander Lock",
+      "url": "https://multimovies.city/cast/harry-lennix/",
+      "image": "https://image.tmdb.org/t/p/w92/kNGiizWpetf4pyAkINkjkWacmCL.jpg"
+    },
+    {
+      "name": "Lambert Wilson",
+      "role": "The Merovingian",
+      "url": "https://multimovies.city/cast/lambert-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/5Fx2vg8Qux0LcOFLAGJK6VzET.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/pxK1iK6anS6erGg4QePmMKbB1E7.jpg",
+    "https://image.tmdb.org/t/p/w300/sDxCd4nt3eR4qOCW1GoD0RabQtq.jpg",
+    "https://image.tmdb.org/t/p/w300/tva2OlLELCagFynFibcefhn2D9i.jpg",
+    "https://image.tmdb.org/t/p/w300/hgg12QdHLZrfkposbefF7Goo6nN.jpg",
+    "https://image.tmdb.org/t/p/w300/YfMEwVRe1c5rhFYmL2P8153T8x.jpg",
+    "https://image.tmdb.org/t/p/w300/kQIzFGdVCwsuutMKyCVZ8LrJw3e.jpg",
+    "https://image.tmdb.org/t/p/w300/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
+    "https://image.tmdb.org/t/p/w300/6RoeOYp8Z6TtHATYJF52BjPoqo5.jpg",
+    "https://image.tmdb.org/t/p/w300/641MUFisaCXxyd0kKK6ELWTfdQT.jpg",
+    "https://image.tmdb.org/t/p/w300/w38phWk7iIyZuWcPgK4tzGKet9H.jpg"
+  ],
+  "similar": [],
+  "views": 5099,
+  "sources": [
+    "https://www.youtube.com/embed/zsgrsiZoymA?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/i7489b0k0f8x",
+    "https://sbplay.org/embed-qy747lunuri4.html",
+    "https://dood.la/e/2lymw5hletm5",
+    "https://mixdrop.co/e/9n81lze4u3zx60d",
+    "https://hydrax.net/watch?v=0e7KpUIOcqQ"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 16567,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 16567,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 16567,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 16567,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 16567,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 16567,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:43:55.875248"
+}
