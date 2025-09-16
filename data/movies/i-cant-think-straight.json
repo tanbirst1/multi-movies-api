@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/i-cant-think-straight/",
+  "meta": {
+    "title": "I Can\u2019t Think Straight",
+    "poster": "https://image.tmdb.org/t/p/w500/cC33ZIJnoeC8J8C7fDoXpCXkyA3.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 01, 2008",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Tala, a London-based Palestinian, is preparing for her elaborate Middle Eastern wedding when she meets Leyla, a young British Indian woman who is dating her best friend. Spirited Christian Tala and shy Muslim Leyla could not be more different from each other, but the attraction is immediate and goes deeper than friendship. But Tala is not ready to accept the implications of the choice her heart has made for her and escapes back to Jordan, while Leyla tries to move on with her new-found life, to the shock of her tradition-loving parents. As Tala\u2019s wedding day approaches, simmering tensions come to boiling point and the pressure mounts for Tala to be true to herself.",
+    "infoFields": {
+      "Original title": "I Can't Think Straight",
+      "TMDb Rating": "7.529 314 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Shamim Sarif",
+      "role": "Director",
+      "url": "https://multimovies.city/director/shamim-sarif/",
+      "image": "https://image.tmdb.org/t/p/w92/lg2xNYLyfMzYuZGXFnCR7SGRbrC.jpg"
+    },
+    {
+      "name": "Lisa Ray",
+      "role": "Tala",
+      "url": "https://multimovies.city/cast/lisa-ray/",
+      "image": "https://image.tmdb.org/t/p/w92/38TeusBORjoJodJjwRjEIt8Zgx8.jpg"
+    },
+    {
+      "name": "Sheetal Sheth",
+      "role": "Leyla",
+      "url": "https://multimovies.city/cast/sheetal-sheth/",
+      "image": "https://image.tmdb.org/t/p/w92/6lLxAW5uRG3MiSKnK2HBZoyZQIa.jpg"
+    },
+    {
+      "name": "Antonia Frering",
+      "role": "Reema",
+      "url": "https://multimovies.city/cast/antonia-frering/",
+      "image": "https://image.tmdb.org/t/p/w92/2juDS3TepeQhQqocnMTkgiGKWXX.jpg"
+    },
+    {
+      "name": "Dalip Tahil",
+      "role": "Omar",
+      "url": "https://multimovies.city/cast/dalip-tahil/",
+      "image": "https://image.tmdb.org/t/p/w92/4kgTd5aKh3IRxrJ7uG5h9mojb57.jpg"
+    },
+    {
+      "name": "Nina Wadia",
+      "role": "Housekeeper",
+      "url": "https://multimovies.city/cast/nina-wadia/",
+      "image": "https://image.tmdb.org/t/p/w92/93UyOjCRBdVj2VwNp0JsNXlqLJU.jpg"
+    },
+    {
+      "name": "Siddiqua Akhtar",
+      "role": "Maya",
+      "url": "https://multimovies.city/cast/siddiqua-akhtar/",
+      "image": "https://image.tmdb.org/t/p/w92/gB4ZVM6m8AH65bOrSHdjyB7oMwl.jpg"
+    },
+    {
+      "name": "Amber Rose Revah",
+      "role": "Yasmin",
+      "url": "https://multimovies.city/cast/amber-rose-revah/",
+      "image": "https://image.tmdb.org/t/p/w92/cThPovs1j59Vs5iejgLqUZRBchv.jpg"
+    },
+    {
+      "name": "Ernest Ignatius",
+      "role": "Sam",
+      "url": "https://multimovies.city/cast/ernest-ignatius/",
+      "image": "https://image.tmdb.org/t/p/w92/A6IzIQ2PKPSJzNy6fydb4Etl8XA.jpg"
+    },
+    {
+      "name": "Anya Lahiri",
+      "role": "Lamia",
+      "url": "https://multimovies.city/cast/anya-lahiri/",
+      "image": "https://image.tmdb.org/t/p/w92/Af6VGe2k3ReZ5G3mVCSthKhfKIX.jpg"
+    },
+    {
+      "name": "Kimberly Jaraj",
+      "role": "Zina",
+      "url": "https://multimovies.city/cast/kimberly-jaraj/",
+      "image": "https://image.tmdb.org/t/p/w92/3UjKZZAcqwES6Hf1RhhJtv1WWW0.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nZzt1zMsdOuEwvTtUpQsFGNandc.jpg"
+  ],
+  "similar": [],
+  "views": 1383,
+  "sources": [
+    "https://www.youtube.com/embed/KIetcsELZvo?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/cve6w8q"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 91820,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 91820,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:21:03.860586"
+}
