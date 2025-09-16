@@ -4,15 +4,157 @@
   "meta": {
     "title": "Baby Geniuses",
     "poster": "https://image.tmdb.org/t/p/w500/70EpKntF6KrN2X38oVLCL9e8WBQ.jpg",
-    "synopsis": "Scientist hold talking, super-intelligent babies captive, but things take a turn for the worse when a mix-up occurs between a baby genius and its twin."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Mar. 12, 1999",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Scientist hold talking, super-intelligent babies captive, but things take a turn for the worse when a mix-up occurs between a baby genius and its twin.",
+    "infoFields": {
+      "Original title": "Baby Geniuses",
+      "IMDb Rating": "2.5 26,902 votes",
+      "TMDb Rating": "4.066 319 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Bob Clark",
+      "role": "Director",
+      "url": "https://multimovies.city/director/bob-clark/",
+      "image": "https://image.tmdb.org/t/p/w92/9T202dlMtzl1cA143aW3y6jTVXB.jpg"
+    },
+    {
+      "name": "Kathleen Turner",
+      "role": "Elena Kinder",
+      "url": "https://multimovies.city/cast/kathleen-turner/",
+      "image": "https://image.tmdb.org/t/p/w92/m5wgloDlhOzSXZfxgBVJ4Dx068e.jpg"
+    },
+    {
+      "name": "Christopher Lloyd",
+      "role": "Heep",
+      "url": "https://multimovies.city/cast/christopher-lloyd/",
+      "image": "https://image.tmdb.org/t/p/w92/dlZHFESE1h0zkEzWAEbqUq573X7.jpg"
+    },
+    {
+      "name": "Kim Cattrall",
+      "role": "Robin",
+      "url": "https://multimovies.city/cast/kim-cattrall/",
+      "image": "https://image.tmdb.org/t/p/w92/jDqSho6MUPdlaBfS56FVNSbPyIS.jpg"
+    },
+    {
+      "name": "Peter MacNicol",
+      "role": "Dan",
+      "url": "https://multimovies.city/cast/peter-macnicol/",
+      "image": "https://image.tmdb.org/t/p/w92/xo09hN0cqYh1V7z986yFOTdaKhU.jpg"
+    },
+    {
+      "name": "Dom DeLuise",
+      "role": "Lenny",
+      "url": "https://multimovies.city/cast/dom-deluise/",
+      "image": "https://image.tmdb.org/t/p/w92/3k45LlomavX4f2f3FnjtKhjojuf.jpg"
+    },
+    {
+      "name": "Ruby Dee",
+      "role": "Margo",
+      "url": "https://multimovies.city/cast/ruby-dee/",
+      "image": "https://image.tmdb.org/t/p/w92/eRRRVQTLkH3RU9inzRHJqWdIZkW.jpg"
+    },
+    {
+      "name": "Kyle Howard",
+      "role": "Dickie",
+      "url": "https://multimovies.city/cast/kyle-howard/",
+      "image": "https://image.tmdb.org/t/p/w92/bEpuGCBYeIoQeZkHXfnOV9dBaOb.jpg"
+    },
+    {
+      "name": "Kaye Ballard",
+      "role": "Mayor",
+      "url": "https://multimovies.city/cast/kaye-ballard/",
+      "image": "https://image.tmdb.org/t/p/w92/g8mVPnVylLX2nFLsnQHtii6S6xa.jpg"
+    },
+    {
+      "name": "Leo Fitzgerald",
+      "role": "Sly / Whit",
+      "url": "https://multimovies.city/cast/leo-fitzgerald/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Myles Fitzgerald",
+      "role": "Sly / Whit",
+      "url": "https://multimovies.city/cast/myles-fitzgerald/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/QAnuNwYnnttSkBkvUBwQYf8cKD.jpg",
+    "https://image.tmdb.org/t/p/w300/nfvSut3CxIqGqg9J8yUmpzCZsA6.jpg",
+    "https://image.tmdb.org/t/p/w300/3ZryiAT5QF7DcnzP1Bk64vfs03l.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 507,
+  "sources": [
+    "https://www.youtube.com/embed/tWKMjHKNubM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/pmvt6beq2gpn",
+    "https://sbplay.org/embed-veqeu4t630oe.html",
+    "https://dood.la/e/o010j2kmcing",
+    "https://mixdrop.co/e/xorr96zxf0ozrl",
+    "https://hydrax.net/watch?v=UfpCblEZ7K"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 14864,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 14864,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 14864,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 14864,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 14864,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 14864,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:20:44"
+  "last_update": "2025-09-16T17:23:14.018777"
 }
