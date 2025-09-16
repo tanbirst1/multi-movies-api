@@ -1,0 +1,120 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/water/",
+  "meta": {
+    "title": "Water",
+    "poster": "https://image.tmdb.org/t/p/w500/bWgthg4wwAmyu6FoyC006IQU9JN.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Sep. 08, 2005",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "The year is 1938, and Mahatma Gandhi\u2019s groundbreaking philosophies are sweeping across India, but 8-year-old Chuyia, newly widowed, must go to live with other outcast widows on an ashram. Her presence transforms the ashram as she befriends two of her compatriots.",
+    "infoFields": {
+      "Original title": "Water",
+      "IMDb Rating": "7.7 15,095 votes",
+      "TMDb Rating": "6.847 98 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Deepa Mehta",
+      "role": "Director",
+      "url": "https://multimovies.city/director/deepa-mehta/",
+      "image": "https://image.tmdb.org/t/p/w92/d4EDC75axLzRLvwlSz7xMIrqQbv.jpg"
+    },
+    {
+      "name": "Lisa Ray",
+      "role": "Kalyani",
+      "url": "https://multimovies.city/cast/lisa-ray/",
+      "image": "https://image.tmdb.org/t/p/w92/38TeusBORjoJodJjwRjEIt8Zgx8.jpg"
+    },
+    {
+      "name": "Sarala",
+      "role": "Chuyia",
+      "url": "https://multimovies.city/cast/sarala/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "John Abraham",
+      "role": "Narayan",
+      "url": "https://multimovies.city/cast/john-abraham/",
+      "image": "https://image.tmdb.org/t/p/w92/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg"
+    },
+    {
+      "name": "Seema Biswas",
+      "role": "Shakuntala",
+      "url": "https://multimovies.city/cast/seema-biswas/",
+      "image": "https://image.tmdb.org/t/p/w92/nRd9anbVgvsRrWbH3G09nWTThHp.jpg"
+    },
+    {
+      "name": "Waheeda Rehman",
+      "role": "Bhagavati",
+      "url": "https://multimovies.city/cast/waheeda-rehman/",
+      "image": "https://image.tmdb.org/t/p/w92/o2GvpNWpArOZU5C9FBqo7WwnMYx.jpg"
+    },
+    {
+      "name": "Vinay Pathak",
+      "role": "Rabindra",
+      "url": "https://multimovies.city/cast/vinay-pathak/",
+      "image": "https://image.tmdb.org/t/p/w92/nt4MvHjHq5sF1aPrLyFO1YizD8y.jpg"
+    },
+    {
+      "name": "Rishma Malik Scott",
+      "role": "Snehalata",
+      "url": "https://multimovies.city/cast/rishma-malik-scott/",
+      "image": "https://image.tmdb.org/t/p/w92/hv0ivqoPDaxxQZtJZc0JER8FKKJ.jpg"
+    },
+    {
+      "name": "Manorama",
+      "role": "Madhumati",
+      "url": "https://multimovies.city/cast/manorama/",
+      "image": "https://image.tmdb.org/t/p/w92/ctIm9goucENifJ2O7FqNP8D5mYR.jpg"
+    },
+    {
+      "name": "Raghubir Yadav",
+      "role": "Gulabi",
+      "url": "https://multimovies.city/cast/raghubir-yadav/",
+      "image": "https://image.tmdb.org/t/p/w92/tyPSVEgVsu2DynLtdTxB93CrnMF.jpg"
+    },
+    {
+      "name": "Gerson Da Cunha",
+      "role": "Seth Dwarkanath",
+      "url": "https://multimovies.city/cast/gerson-da-cunha/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 1047,
+  "sources": [
+    "https://www.youtube.com/embed/2R0pRl18js8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/q8s5lm011jky"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5353,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5353,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:59:25.453318"
+}
