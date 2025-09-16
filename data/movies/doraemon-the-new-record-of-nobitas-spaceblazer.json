@@ -1,0 +1,113 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/doraemon-the-new-record-of-nobitas-spaceblazer/",
+  "meta": {
+    "title": "Doraemon The Movie Adventure Of Koya Koya Planet",
+    "poster": "https://image.tmdb.org/t/p/w500/6F5mriTD7HrVSJf7o0BrAedw5LX.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/genre/disney-channel/"
+      },
+      {
+        "name": "Doraemon Movies",
+        "url": "https://multimovies.city/genre/doraemon/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      }
+    ],
+    "firstAirDate": "Mar. 07, 2009",
+    "ratingValue": "9.8",
+    "ratingCount": "5",
+    "synopsis": "While Nobita is sleeping, he suddenly feels the floor is trembling, like there would be an earthquake in his room. A little rabbit from an alternate universe named Chamii opens the door between the dimensions using a hammer and gets inside Nobita\u2019s room through the floor. Nobita wakes up and Doraemon hears somebody steal food from the fridge in the kitchen. It is Chamii, who gets caught by Doraemon and Nobita. She shows them the passageway through Nobita\u2019s floor into the spaceship. After they enter the spaceship, they see Koya Koya Planet. They meet a boy named Roppuru.",
+    "infoFields": {
+      "Original title": "\u6620\u753b\u30c9\u30e9\u3048\u3082\u3093 \u65b0\u30fb\u306e\u3073\u592a\u306e\u5b87\u5b99\u958b\u62d3\u53f2",
+      "IMDb Rating": "6.6 456 votes",
+      "TMDb Rating": "6.803 33 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Shigeo Koshi",
+      "role": "Director",
+      "url": "https://multimovies.city/director/shigeo-koshi/",
+      "image": "https://image.tmdb.org/t/p/w92/xe3NlKWHgredo5miBYiYrve7QH4.jpg"
+    },
+    {
+      "name": "Wasabi Mizuta",
+      "role": "Doraemon (voice)",
+      "url": "https://multimovies.city/cast/wasabi-mizuta/",
+      "image": "https://image.tmdb.org/t/p/w92/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+    },
+    {
+      "name": "Megumi Oohara",
+      "role": "Nobita (voice)",
+      "url": "https://multimovies.city/cast/megumi-oohara/",
+      "image": "https://image.tmdb.org/t/p/w92/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+    },
+    {
+      "name": "Yumi Kakazu",
+      "role": "Shizuka (voice)",
+      "url": "https://multimovies.city/cast/yumi-kakazu/",
+      "image": "https://image.tmdb.org/t/p/w92/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+    },
+    {
+      "name": "Tomokazu Seki",
+      "role": "Suneo (voice)",
+      "url": "https://multimovies.city/cast/tomokazu-seki/",
+      "image": "https://image.tmdb.org/t/p/w92/4N6i4cgtbeUj5AJd8kiBZ2BxxEJ.jpg"
+    },
+    {
+      "name": "Karina",
+      "role": "Morina (voice)",
+      "url": "https://multimovies.city/cast/karina/",
+      "image": "https://image.tmdb.org/t/p/w92/52r808ysO7KNLodT1AAJlupEO85.jpg"
+    },
+    {
+      "name": "Subaru Kimura",
+      "role": "Gian (voice)",
+      "url": "https://multimovies.city/cast/subaru-kimura/",
+      "image": "https://image.tmdb.org/t/p/w92/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+    },
+    {
+      "name": "Ayaka Wilson",
+      "role": "Kulem (voice)",
+      "url": "https://multimovies.city/cast/ayaka-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/f0fWicCohDdBbxuKuJXqmCw2ckO.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/4VFRn5xcD8o3qUMrSShm3I6zpfl.jpg"
+  ],
+  "similar": [],
+  "views": 7468,
+  "sources": [
+    "https://multimoviesshg.com/e/km70jmn82f0r"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11058,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:25:41.909018"
+}
