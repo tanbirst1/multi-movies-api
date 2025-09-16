@@ -4,6 +4,6 @@
     { "src": "/api/scrape", "dest": "/api/scrape.js" }
   ],
   "builds": [
-    { "src": "package.json", "use": "@vercel/next" }
+    { "src": "api/**/*.js", "use": "@vercel/node" }
   ]
 }
