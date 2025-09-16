@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/orphan/",
+  "meta": {
+    "title": "Orphan",
+    "poster": "https://image.tmdb.org/t/p/w500/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 24, 2009",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "After losing their baby, a married couple adopt 9-year old Esther, who may not be as innocent as she seems.",
+    "infoFields": {
+      "Original title": "Orphan",
+      "IMDb Rating": "7 264,356 votes",
+      "TMDb Rating": "7 5,299 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jaume Collet-Serra",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jaume-collet-serra/",
+      "image": "https://image.tmdb.org/t/p/w92/s1MdlS2wnzfKevPfXK63V1qkwfI.jpg"
+    },
+    {
+      "name": "Vera Farmiga",
+      "role": "Kate",
+      "url": "https://multimovies.city/cast/vera-farmiga/",
+      "image": "https://image.tmdb.org/t/p/w92/k4hf7VitJ38amqwYURZIvxNw9lJ.jpg"
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "role": "John",
+      "url": "https://multimovies.city/cast/peter-sarsgaard/",
+      "image": "https://image.tmdb.org/t/p/w92/gYnEJjeHgZVBZh6aGzgfzm4jIHM.jpg"
+    },
+    {
+      "name": "Isabelle Fuhrman",
+      "role": "Esther",
+      "url": "https://multimovies.city/cast/isabelle-fuhrman/",
+      "image": "https://image.tmdb.org/t/p/w92/eODCJjIQAEe760jeHDhWelxlK06.jpg"
+    },
+    {
+      "name": "CCH Pounder",
+      "role": "Sister Abigail",
+      "url": "https://multimovies.city/cast/cch-pounder/",
+      "image": "https://image.tmdb.org/t/p/w92/vJ5Swy2WDBC46zJrbJmwsGgTPJ2.jpg"
+    },
+    {
+      "name": "Jimmy Bennett",
+      "role": "Daniel",
+      "url": "https://multimovies.city/cast/jimmy-bennett/",
+      "image": "https://image.tmdb.org/t/p/w92/8ktMwTxDqgyiYKdIB5dWEuX2zG1.jpg"
+    },
+    {
+      "name": "Margo Martindale",
+      "role": "Dr. Browning",
+      "url": "https://multimovies.city/cast/margo-martindale/",
+      "image": "https://image.tmdb.org/t/p/w92/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+    },
+    {
+      "name": "Karel Roden",
+      "role": "Dr. V\u00e4rava",
+      "url": "https://multimovies.city/cast/karel-roden/",
+      "image": "https://image.tmdb.org/t/p/w92/zfxaI9n2kjlDyJUpSFvawQGV1Hg.jpg"
+    },
+    {
+      "name": "Aryana Engineer",
+      "role": "Max",
+      "url": "https://multimovies.city/cast/aryana-engineer/",
+      "image": "https://image.tmdb.org/t/p/w92/rVKtsVvYacIR1S2BLNis1XKG9kN.jpg"
+    },
+    {
+      "name": "Rosemary Dunsmore",
+      "role": "Grandma Barbara",
+      "url": "https://multimovies.city/cast/rosemary-dunsmore/",
+      "image": "https://image.tmdb.org/t/p/w92/uR570A4TxJhfWMuNh9S9JlnwBlx.jpg"
+    },
+    {
+      "name": "Jamie Young",
+      "role": "Brenda",
+      "url": "https://multimovies.city/cast/jamie-young/",
+      "image": "https://image.tmdb.org/t/p/w92/c8loTafCIYaTvrYGbagt3uGtw31.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/blJVWug8FJggb9gs6NuooyOWBTP.jpg",
+    "https://image.tmdb.org/t/p/w300/zZjTKwLdSQpl85viP1DK05Wo7Eq.jpg",
+    "https://image.tmdb.org/t/p/w300/b4ux50P5jJXZVnqnAN9xRC3Lnzl.jpg",
+    "https://image.tmdb.org/t/p/w300/iMgFdV0zvldI3FnIFSu0seb4KWr.jpg",
+    "https://image.tmdb.org/t/p/w300/mPEZO8DVtgVWAgxRdsegHmLqgBU.jpg",
+    "https://image.tmdb.org/t/p/w300/yrR1Hk2NbWupDHfroGt2spdE1Jm.jpg",
+    "https://image.tmdb.org/t/p/w300/pio6noHa4Bouw7Fp18aFvJWyBNA.jpg",
+    "https://image.tmdb.org/t/p/w300/bjWLrjrOekYT73gHpuksAaJ0wPc.jpg",
+    "https://image.tmdb.org/t/p/w300/cKCYaNChMhQbHVpTSh644xqPQaQ.jpg",
+    "https://image.tmdb.org/t/p/w300/2AkcSMF39hQ0KQCKQuqjxLca33v.jpg"
+  ],
+  "similar": [],
+  "views": 1626,
+  "sources": [
+    "https://www.youtube.com/embed/m5BSLNAKIZs?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ythgbkr"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 77975,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 77975,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:33:43.571701"
+}
