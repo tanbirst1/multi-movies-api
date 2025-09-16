@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/quarantine/",
+  "meta": {
+    "title": "Quarantine",
+    "poster": "https://image.tmdb.org/t/p/w500/rGfOD8IC1x4PqmnqRuA8KyCckia.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Oct. 10, 2008",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A television reporter and her cameraman are trapped inside a building quarantined by the CDC after the outbreak of a mysterious virus which turns humans into bloodthirsty killers.",
+    "infoFields": {
+      "Original title": "Quarantine",
+      "IMDb Rating": "6 78,058 votes",
+      "TMDb Rating": "5.751 1,206 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John Erick Dowdle",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-erick-dowdle/",
+      "image": "https://image.tmdb.org/t/p/w92/mLk9hP0qznRLRKBkMM1bHWfoCGi.jpg"
+    },
+    {
+      "name": "Dania Ramirez",
+      "role": "Sadie",
+      "url": "https://multimovies.city/cast/dania-ramirez/",
+      "image": "https://image.tmdb.org/t/p/w92/jfRcoVQLnLb90fnUr3waktfRUYE.jpg"
+    },
+    {
+      "name": "Jennifer Carpenter",
+      "role": "Angela Vidal",
+      "url": "https://multimovies.city/cast/jennifer-carpenter/",
+      "image": "https://image.tmdb.org/t/p/w92/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
+    },
+    {
+      "name": "Jay Hernandez",
+      "role": "Jake",
+      "url": "https://multimovies.city/cast/jay-hernandez/",
+      "image": "https://image.tmdb.org/t/p/w92/4UYLC0mEosMmOJ3civAGHgjZIah.jpg"
+    },
+    {
+      "name": "Steve Harris",
+      "role": "Scott Percival",
+      "url": "https://multimovies.city/cast/steve-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/6qD0I3RPe2ivV5GdXgW3tJHSu1e.jpg"
+    },
+    {
+      "name": "Greg Germann",
+      "role": "Lawrence",
+      "url": "https://multimovies.city/cast/greg-germann/",
+      "image": "https://image.tmdb.org/t/p/w92/cRLbrKwasOiBj68pORvrZTPHRfB.jpg"
+    },
+    {
+      "name": "Johnathon Schaech",
+      "role": "George Fletcher",
+      "url": "https://multimovies.city/cast/johnathon-schaech/",
+      "image": "https://image.tmdb.org/t/p/w92/Oie8DRAaTR200FfgxtRG7MbdAA.jpg"
+    },
+    {
+      "name": "Columbus Short",
+      "role": "Danny Wilensky",
+      "url": "https://multimovies.city/cast/columbus-short/",
+      "image": "https://image.tmdb.org/t/p/w92/rUHCNAvu9xOmBP7i9jAABR7j5cg.jpg"
+    },
+    {
+      "name": "Andrew Fiscella",
+      "role": "James McCreedy",
+      "url": "https://multimovies.city/cast/andrew-fiscella/",
+      "image": "https://image.tmdb.org/t/p/w92/ocGc3XfFp3nzUm6UxOZqdnYAen1.jpg"
+    },
+    {
+      "name": "Rade \u0160erbed\u017eija",
+      "role": "Yuri Ivanov",
+      "url": "https://multimovies.city/cast/rade-serbedzija/",
+      "image": "https://image.tmdb.org/t/p/w92/eGK40yJnDCJOhtGXZrhkrkfVOwu.jpg"
+    },
+    {
+      "name": "Bernard White",
+      "role": "Bernard",
+      "url": "https://multimovies.city/cast/bernard-white/",
+      "image": "https://image.tmdb.org/t/p/w92/yW1MG2BHGBWxIAQ7F93TFtUNUFv.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/eBbge8LlrqWGo4MLsH7qXtOrpFi.jpg",
+    "https://image.tmdb.org/t/p/w300/gKBOaD2lN6rxEoVT1GvIUxbUidR.jpg",
+    "https://image.tmdb.org/t/p/w300/iqfea9N38CWKqqCK95n4Eu9ooty.jpg",
+    "https://image.tmdb.org/t/p/w300/wT6g9M40DUoQM7uvy9s9vsqckfR.jpg",
+    "https://image.tmdb.org/t/p/w300/z2VOjocit2sYL3kfHOUv0GlYM9E.jpg",
+    "https://image.tmdb.org/t/p/w300/1T7rOfvrkGJxUWNP2gi0FFPPbyD.jpg",
+    "https://image.tmdb.org/t/p/w300/cdBE2hyEnovjLo4dJGTLf9DFU5w.jpg"
+  ],
+  "similar": [],
+  "views": 670,
+  "sources": [
+    "https://www.youtube.com/embed/KoBh5S_aWwk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/n49jq4a"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58285,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58285,
+      "nume": 1,
+      "title": "gdmirror"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:23:28.934034"
+}
