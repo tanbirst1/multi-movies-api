@@ -1,0 +1,137 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/arthur-and-the-revenge-of-maltazard/",
+  "meta": {
+    "title": "Arthur and the Revenge of Maltazard",
+    "poster": "https://image.tmdb.org/t/p/w500/rHCL0HwlQvU01TLRRHZFlvsVEqt.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 26, 2009",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Arthur answers a distress call from Princess Selenia, who is menaced by the nefarious Maltazard.",
+    "infoFields": {
+      "Original title": "Arthur et la vengeance de Maltazard",
+      "IMDb Rating": "5.2 10,996 votes",
+      "TMDb Rating": "5.739 1,634 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Luc Besson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/luc-besson/",
+      "image": "https://image.tmdb.org/t/p/w92/bLVPnHMVFZ7wrF6ovMVF5U1UX89.jpg"
+    },
+    {
+      "name": "Freddie Highmore",
+      "role": "Arthur Montgomery",
+      "url": "https://multimovies.city/cast/freddie-highmore/",
+      "image": "https://image.tmdb.org/t/p/w92/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+    },
+    {
+      "name": "Mia Farrow",
+      "role": "Granny",
+      "url": "https://multimovies.city/cast/mia-farrow/",
+      "image": "https://image.tmdb.org/t/p/w92/kuLfS2jQOnfIOwCO7RHlwjDIERQ.jpg"
+    },
+    {
+      "name": "Logan Miller",
+      "role": "Jake",
+      "url": "https://multimovies.city/cast/logan-miller/",
+      "image": "https://image.tmdb.org/t/p/w92/xa62ZRSMFUUk4KS9kkKYZkNDlKi.jpg"
+    },
+    {
+      "name": "Robert Stanton",
+      "role": "Armand",
+      "url": "https://multimovies.city/cast/robert-stanton/",
+      "image": "https://image.tmdb.org/t/p/w92/9MGtabbO2H3kVeehCzRlhQjFe4T.jpg"
+    },
+    {
+      "name": "Penny Balfour",
+      "role": "Rose Montgomery",
+      "url": "https://multimovies.city/cast/penny-balfour/",
+      "image": "https://image.tmdb.org/t/p/w92/66EMHluc98i66jefTOg8BzvP14c.jpg"
+    },
+    {
+      "name": "Ron Crawford",
+      "role": "Archibald",
+      "url": "https://multimovies.city/cast/ron-crawford/",
+      "image": "https://image.tmdb.org/t/p/w92/gnqzq1wLyv5KmF86nStCQBcLqej.jpg"
+    },
+    {
+      "name": "Jean Bejote Njamba",
+      "role": "Chief Matassalai (voice)",
+      "url": "https://multimovies.city/cast/jean-bejote-njamba/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Lou Reed",
+      "role": "Maltazard (voice)",
+      "url": "https://multimovies.city/cast/lou-reed/",
+      "image": "https://image.tmdb.org/t/p/w92/lWFiXdQtYHqr2EXnk5nhDFm36XF.jpg"
+    },
+    {
+      "name": "Selena Gomez",
+      "role": "Selenia (voice)",
+      "url": "https://multimovies.city/cast/selena-gomez/",
+      "image": "https://image.tmdb.org/t/p/w92/z01WLWmdW1AZbgDSGY0WtnJmALo.jpg"
+    },
+    {
+      "name": "Jimmy Fallon",
+      "role": "Prince Betameche (voice)",
+      "url": "https://multimovies.city/cast/jimmy-fallon/",
+      "image": "https://image.tmdb.org/t/p/w92/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hteOllfbTkD0S7oaEE9zxQYmSsZ.jpg",
+    "https://image.tmdb.org/t/p/w300/mLUK7Krf22aFwkTRAkbnRmwb6C7.jpg",
+    "https://image.tmdb.org/t/p/w300/n9opGGUAmZlaVpZloBIEZ7RIyJR.jpg",
+    "https://image.tmdb.org/t/p/w300/tJsPearFhU6gaODJwdl6VioAczQ.jpg"
+  ],
+  "similar": [],
+  "views": 849,
+  "sources": [
+    "https://www.youtube.com/embed/idh1KNSpH3I?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/j8xgvh6dkptf"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 49332,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 49332,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:34:08.266686"
+}
