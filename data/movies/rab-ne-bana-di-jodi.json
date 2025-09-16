@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rab-ne-bana-di-jodi/",
+  "meta": {
+    "title": "Rab Ne Bana Di Jodi",
+    "poster": "https://image.tmdb.org/t/p/w500/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Dec. 11, 2008",
+    "ratingValue": "9.1",
+    "ratingCount": "20",
+    "synopsis": "A lonely 40-ish man, likely to remain a bachelor, has a chance to find the love of his life when he falls for a vivacious young woman.",
+    "infoFields": {
+      "Original title": "\u0930\u092c \u0928\u0947 \u092c\u0928\u093e \u0926\u0940 \u091c\u094b\u0921\u093c\u0940",
+      "IMDb Rating": "7.2 50,432 votes",
+      "TMDb Rating": "7.115 231 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Aditya Chopra",
+      "role": "Director",
+      "url": "https://multimovies.city/director/aditya-chopra/",
+      "image": "https://image.tmdb.org/t/p/w92/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Surinder 'Suri' Sahni / Raj Kapoor",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Vinay Pathak",
+      "role": "Balwinder 'Bobby' Khosla",
+      "url": "https://multimovies.city/cast/vinay-pathak/",
+      "image": "https://image.tmdb.org/t/p/w92/nt4MvHjHq5sF1aPrLyFO1YizD8y.jpg"
+    },
+    {
+      "name": "Anushka Sharma",
+      "role": "Taani Sahni",
+      "url": "https://multimovies.city/cast/anushka-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/fPhX9mefBzco5ntQUZNJZG56Gbi.jpg"
+    },
+    {
+      "name": "M. K. Raina",
+      "role": "Taani's Father",
+      "url": "https://multimovies.city/cast/m-k-raina/",
+      "image": "https://image.tmdb.org/t/p/w92/bQNUSxj96Ybu1Ff1qdm3wdzTYqn.jpg"
+    },
+    {
+      "name": "Manmeet Singh",
+      "role": "Raju Mechanic",
+      "url": "https://multimovies.city/cast/manmeet-singh/",
+      "image": "https://image.tmdb.org/t/p/w92/vt4XktD9MRq5RGA1l1w6vUrJFst.jpg"
+    },
+    {
+      "name": "Isha Koppikar",
+      "role": "Dance Master",
+      "url": "https://multimovies.city/cast/isha-koppikar/",
+      "image": "https://image.tmdb.org/t/p/w92/yKxTrxQLc3acJdNG02YfFWXo36w.jpg"
+    },
+    {
+      "name": "Richa Pallod",
+      "role": "Dance Instructor",
+      "url": "https://multimovies.city/cast/richa-pallod/",
+      "image": "https://image.tmdb.org/t/p/w92/2yo80bulfWF963ELDznsgfaMyGR.jpg"
+    },
+    {
+      "name": "Kajol",
+      "role": "Special Appearance in \"Phir Milenge Chalte Chalte\" Song",
+      "url": "https://multimovies.city/cast/kajol/",
+      "image": "https://image.tmdb.org/t/p/w92/h4m0TkDuEMCUNaPrQxMRyFb2AQ7.jpg"
+    },
+    {
+      "name": "Rani Mukerji",
+      "role": "Special Appearance in \"Phir Milenge Chalte Chalte\" Song",
+      "url": "https://multimovies.city/cast/rani-mukerji/",
+      "image": "https://image.tmdb.org/t/p/w92/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg"
+    },
+    {
+      "name": "Preity Zinta",
+      "role": "Special Appearance in \"Phir Milenge Chalte Chalte\" Song",
+      "url": "https://multimovies.city/cast/preity-zinta/",
+      "image": "https://image.tmdb.org/t/p/w92/uaY2M3goYsp0QpNenharmIqnMvy.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/AcLsfw3TVZGFFT8yRA5StPKk65y.jpg"
+  ],
+  "similar": [],
+  "views": 22899,
+  "sources": [
+    "https://multimoviesshg.com/e/lnfxtdabuing"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8518,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:27:39.654329"
+}
