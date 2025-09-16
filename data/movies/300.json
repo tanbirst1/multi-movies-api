@@ -1,0 +1,160 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/300/",
+  "meta": {
+    "title": "300",
+    "poster": "https://image.tmdb.org/t/p/w500/9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "War",
+        "url": "https://multimovies.city/genre/war/"
+      }
+    ],
+    "firstAirDate": "Mar. 07, 2007",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Based on Frank Miller\u2019s graphic novel, \u201c300\u201d is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world\u2019s first democracy.",
+    "infoFields": {
+      "Original title": "300",
+      "IMDb Rating": "7.6 833,940 votes",
+      "TMDb Rating": "7.17 12,492 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Zack Snyder",
+      "role": "Director",
+      "url": "https://multimovies.city/director/zack-snyder/",
+      "image": "https://image.tmdb.org/t/p/w92/iD0GDqkvJXDXiNEZej198hjt3Tt.jpg"
+    },
+    {
+      "name": "Gerard Butler",
+      "role": "King Leonidas",
+      "url": "https://multimovies.city/cast/gerard-butler/",
+      "image": "https://image.tmdb.org/t/p/w92/hAKPWWvUyvcfqPcoBG45c8NRr6e.jpg"
+    },
+    {
+      "name": "Lena Headey",
+      "role": "Queen Gorgo",
+      "url": "https://multimovies.city/cast/lena-headey/",
+      "image": "https://image.tmdb.org/t/p/w92/xR2IBnBlUdyBe5hecaVdtRuQqUE.jpg"
+    },
+    {
+      "name": "Dominic West",
+      "role": "Theron",
+      "url": "https://multimovies.city/cast/dominic-west/",
+      "image": "https://image.tmdb.org/t/p/w92/aCzmg3TWIElRFU15bnekttKOsYC.jpg"
+    },
+    {
+      "name": "Rodrigo Santoro",
+      "role": "Xerxes",
+      "url": "https://multimovies.city/cast/rodrigo-santoro/",
+      "image": "https://image.tmdb.org/t/p/w92/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+    },
+    {
+      "name": "David Wenham",
+      "role": "Dilios",
+      "url": "https://multimovies.city/cast/david-wenham/",
+      "image": "https://image.tmdb.org/t/p/w92/3M7oraDne8PzeOQHpD0wwxhobW3.jpg"
+    },
+    {
+      "name": "Andrew Tiernan",
+      "role": "Ephialtes",
+      "url": "https://multimovies.city/cast/andrew-tiernan/",
+      "image": "https://image.tmdb.org/t/p/w92/dD32tMcONax0lmLw9nwyAf43mlN.jpg"
+    },
+    {
+      "name": "Vincent Regan",
+      "role": "Captain",
+      "url": "https://multimovies.city/cast/vincent-regan/",
+      "image": "https://image.tmdb.org/t/p/w92/vnylF0jSWOdQyRWAsQgV3oA9dk.jpg"
+    },
+    {
+      "name": "Michael Fassbender",
+      "role": "Stelios",
+      "url": "https://multimovies.city/cast/michael-fassbender/",
+      "image": "https://image.tmdb.org/t/p/w92/44HPVHj1DijOuUe0zYuQfSZujKH.jpg"
+    },
+    {
+      "name": "Peter Mensah",
+      "role": "Messenger",
+      "url": "https://multimovies.city/cast/peter-mensah/",
+      "image": "https://image.tmdb.org/t/p/w92/t94TFc6f71AUmZFqdaQfjr7LTRp.jpg"
+    },
+    {
+      "name": "Andrew Pleavin",
+      "role": "Daxos",
+      "url": "https://multimovies.city/cast/andrew-pleavin/",
+      "image": "https://image.tmdb.org/t/p/w92/hp20HveWeBveVYtE87DPwmXEpD2.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/eGhjeUbzttA3E4flxdAm8gHz4h4.jpg",
+    "https://image.tmdb.org/t/p/w300/cArwbEj2s419IIcYenvJsk1J9bj.jpg",
+    "https://image.tmdb.org/t/p/w300/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+    "https://image.tmdb.org/t/p/w300/inmzNh0cKYvjuzeRI7X9fhdXa02.jpg",
+    "https://image.tmdb.org/t/p/w300/rrj1Bv4Y9ozB53QivyRywULNvpZ.jpg",
+    "https://image.tmdb.org/t/p/w300/fW3tacIlrWrjCiLjZCAbVSBFLYf.jpg",
+    "https://image.tmdb.org/t/p/w300/ykIqpAfNJx3RLXQX75V56vqYasP.jpg",
+    "https://image.tmdb.org/t/p/w300/i7wZs6hHvfEQyHy07UHrGe6EclX.jpg",
+    "https://image.tmdb.org/t/p/w300/xvGns3mBXXS7HGmckl82boBVGcy.jpg",
+    "https://image.tmdb.org/t/p/w300/xa504sSs0wDhIBtVe1c5vLfIrGt.jpg"
+  ],
+  "similar": [],
+  "views": 15702,
+  "sources": [
+    "https://www.youtube.com/embed/UrIbxk7idYA?autoplay=0&autohide=1",
+    "https://vigorto302aed.com/play/tt0416449",
+    "https://sbplay.org/embed-wmkyjaza3tkm.html",
+    "https://dood.la/e/le85auxikeoo",
+    "https://mixdrop.co/e/pk34doppfqwxo1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 16572,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 16572,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 16572,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 16572,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 16572,
+      "nume": 4,
+      "title": "Server 04"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:10:07.059763"
+}
