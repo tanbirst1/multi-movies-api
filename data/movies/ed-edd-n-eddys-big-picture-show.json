@@ -1,0 +1,151 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ed-edd-n-eddys-big-picture-show/",
+  "meta": {
+    "title": "Ed, Edd n Eddy\u2019s Big Picture Show",
+    "poster": "https://image.tmdb.org/t/p/w500/uVEk216PiUiGrG6Lxo71NqgdZ7Z.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "TV Movie",
+        "url": "https://multimovies.city/genre/tv-movie/"
+      }
+    ],
+    "firstAirDate": "Jun. 05, 2009",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "When a scam goes horribly wrong and leaves the neighborhood kids furious, the Eds embark on a journey to find Eddy\u2019s brother in the \u201cEd, Edd, n Eddy\u201d series finale.",
+    "infoFields": {
+      "Original title": "Ed, Edd n Eddy's Big Picture Show",
+      "IMDb Rating": "8.1 3,398 votes",
+      "TMDb Rating": "7.4 130 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Danny Antonucci",
+      "role": "Director",
+      "url": "https://multimovies.city/director/danny-antonucci/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Matt Hill",
+      "role": "Ed (voice)",
+      "url": "https://multimovies.city/cast/matt-hill/",
+      "image": "https://image.tmdb.org/t/p/w92/c9LL79WphPAjDX4J9yHV5ZoANxy.jpg"
+    },
+    {
+      "name": "Sam Vincent",
+      "role": "Edd (voice)",
+      "url": "https://multimovies.city/cast/sam-vincent/",
+      "image": "https://image.tmdb.org/t/p/w92/eJadsFcztqQZQIKzL5cMyasi1oa.jpg"
+    },
+    {
+      "name": "Tony Sampson",
+      "role": "Eddy (voice)",
+      "url": "https://multimovies.city/cast/tony-sampson/",
+      "image": "https://image.tmdb.org/t/p/w92/8PxxVNxuUWmFXy97a4sSjHVr9vO.jpg"
+    },
+    {
+      "name": "Keenan Christensen",
+      "role": "Jimmy (voice)",
+      "url": "https://multimovies.city/cast/keenan-christensen/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "David-Paul Grove",
+      "role": "Jonny 2x4 (voice)",
+      "url": "https://multimovies.city/cast/david-paul-grove/",
+      "image": "https://image.tmdb.org/t/p/w92/u5ERJwvYZBW1Fnqb4V98ycZx0nu.jpg"
+    },
+    {
+      "name": "Janyse Jaud",
+      "role": "Sarah / Lee Kanker (voice)",
+      "url": "https://multimovies.city/cast/janyse-jaud/",
+      "image": "https://image.tmdb.org/t/p/w92/7ZvfIfmgkU2B8jA25czUoKXXq6e.jpg"
+    },
+    {
+      "name": "Kathleen Barr",
+      "role": "Kevin / Marie Kanker (voice)",
+      "url": "https://multimovies.city/cast/kathleen-barr/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Erin Fitzgerald",
+      "role": "Nazz / May Kanker (voice)",
+      "url": "https://multimovies.city/cast/erin-fitzgerald/",
+      "image": "https://image.tmdb.org/t/p/w92/fAMOm2xRjbR7nDUo3FsNVy61U70.jpg"
+    },
+    {
+      "name": "Peter Kelamis",
+      "role": "Rolf (voice)",
+      "url": "https://multimovies.city/cast/peter-kelamis/",
+      "image": "https://image.tmdb.org/t/p/w92/nV0lHILeENtQ8PbGa3E5Mrx607a.jpg"
+    },
+    {
+      "name": "Terry Klassen",
+      "role": "Eddy's Brother (voice)",
+      "url": "https://multimovies.city/cast/terry-klassen/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zvYyXc4wfevrxDRhkdyANMqu9KD.jpg",
+    "https://image.tmdb.org/t/p/w300/o8bssfCqnleDTR22kIK6ytQmqaF.jpg",
+    "https://image.tmdb.org/t/p/w300/clo4y2FBAyo5uYdud4lFlOrA9iz.jpg",
+    "https://image.tmdb.org/t/p/w300/zdurf0P8h8aGH6FE5En6R5LZKf6.jpg",
+    "https://image.tmdb.org/t/p/w300/jBJKdqAQ2q9Ri9hmj8iUdX4SIbL.jpg",
+    "https://image.tmdb.org/t/p/w300/hpYFQg9R8jojh1ihA2zELgewLmi.jpg"
+  ],
+  "similar": [],
+  "views": 502,
+  "sources": [
+    "https://www.youtube.com/embed/a-rHWZdbFQw?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/a17xels"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 82790,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 82790,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:29:51.660667"
+}
