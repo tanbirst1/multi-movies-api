@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/shanghai-knights/",
+  "meta": {
+    "title": "Shanghai Knights",
+    "poster": "https://image.tmdb.org/t/p/w500/vVNQStMlZS9mn2AKBEpadRunHgt.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Western",
+        "url": "https://multimovies.city/genre/western/"
+      }
+    ],
+    "firstAirDate": "Feb. 06, 2003",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "The dynamic duo of Chon Wang and Roy O\u2019Bannon return for another crazy adventure. This time, they\u2019re in London to avenge the murder of Chon\u2019s father, but end up on an even bigger case. Chon\u2019s sister is there to do the same, but instead unearths a plot to kill the royal family. No one believes her, though, and it\u2019s up to Chon and Roy (who has romance on his mind) to prove her right.",
+    "infoFields": {
+      "Original title": "Shanghai Knights",
+      "IMDb Rating": "6.2 114,214 votes",
+      "TMDb Rating": "6.135 2,245 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Dobkin",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-dobkin/",
+      "image": "https://image.tmdb.org/t/p/w92/c1cs3r7rDOzk0n32EDlon1xCGlE.jpg"
+    },
+    {
+      "name": "Jackie Chan",
+      "role": "Chon Wang",
+      "url": "https://multimovies.city/cast/jackie-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "name": "Owen Wilson",
+      "role": "Roy O\u2019Bannon",
+      "url": "https://multimovies.city/cast/owen-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+    },
+    {
+      "name": "Fann Wong",
+      "role": "Chon Lin",
+      "url": "https://multimovies.city/cast/fann-wong/",
+      "image": "https://image.tmdb.org/t/p/w92/70J0za6SEZjUV0F1lEdFTNh4iIx.jpg"
+    },
+    {
+      "name": "Aidan Gillen",
+      "role": "Lord Nelson Rathbone",
+      "url": "https://multimovies.city/cast/aidan-gillen/",
+      "image": "https://image.tmdb.org/t/p/w92/ju5ho6nnwOQ2QLGLnDP9yOZhGpb.jpg"
+    },
+    {
+      "name": "Donnie Yen",
+      "role": "Wu Chow",
+      "url": "https://multimovies.city/cast/donnie-yen/",
+      "image": "https://image.tmdb.org/t/p/w92/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+    },
+    {
+      "name": "Tom Fisher",
+      "role": "Arthur 'Artie' Doyle",
+      "url": "https://multimovies.city/cast/tom-fisher/",
+      "image": "https://image.tmdb.org/t/p/w92/oVKIxTE5zNg5KlFg2AEZ0vYs2sy.jpg"
+    },
+    {
+      "name": "Aaron Taylor-Johnson",
+      "role": "Charlie Chaplin",
+      "url": "https://multimovies.city/cast/aaron-taylor-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/vkph4FcqFrOnVbrIQD7MbJXz4Uf.jpg"
+    },
+    {
+      "name": "Alison King",
+      "role": "Prostitute",
+      "url": "https://multimovies.city/cast/alison-king/",
+      "image": "https://image.tmdb.org/t/p/w92/y1aSxRM7FseVYAKu1vd6B8fPRNI.jpg"
+    },
+    {
+      "name": "Constantine Gregory",
+      "role": "The Mayor",
+      "url": "https://multimovies.city/cast/constantine-gregory/",
+      "image": "https://image.tmdb.org/t/p/w92/Wu1DUqLi8ZclEcdLGgYgnNcPmw.jpg"
+    },
+    {
+      "name": "Anna-Louise Plowman",
+      "role": "Debutante",
+      "url": "https://multimovies.city/cast/anna-louise-plowman/",
+      "image": "https://image.tmdb.org/t/p/w92/8u1EbmdjtZEr8EUOLjyjnZKM6PK.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ctSHPoptLOGtg2tKgVWhz1eCNNi.jpg",
+    "https://image.tmdb.org/t/p/w300/AoXqOWzD0HGZttYi0wHMvvGJZhZ.jpg",
+    "https://image.tmdb.org/t/p/w300/uesyZRZpCmHmJZ1wFirV7nrHDgZ.jpg",
+    "https://image.tmdb.org/t/p/w300/zVdruBwdiShHobQhBDLSrHEBgpc.jpg",
+    "https://image.tmdb.org/t/p/w300/dvHDOFXjdn33I4HUnlnMToMIFLy.jpg",
+    "https://image.tmdb.org/t/p/w300/A8Y7BfZ9ltP4mK0X5TwKkQfM6PS.jpg",
+    "https://image.tmdb.org/t/p/w300/pmZR0TTno1qtLxDoyPyQXzpYVGl.jpg",
+    "https://image.tmdb.org/t/p/w300/jDtjEJgNJHyx5QnM4sPv0EB1KM0.jpg",
+    "https://image.tmdb.org/t/p/w300/9e7XNYeP2PgVhcqYDVwiTDCzzvU.jpg",
+    "https://image.tmdb.org/t/p/w300/t0tBrWtLM0JIgC5ud1z1SVdBC7i.jpg"
+  ],
+  "similar": [],
+  "views": 950,
+  "sources": [
+    "https://www.youtube.com/embed/1QUHogxpXp8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/fo9u7zy"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6702,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6702,
+      "nume": 1,
+      "title": "2ru"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:39:59.213328"
+}
