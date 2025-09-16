@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/knight-and-day/",
+  "meta": {
+    "title": "Knight and Day",
+    "poster": "https://image.tmdb.org/t/p/w500/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 15, 2010",
+    "ratingValue": "10",
+    "ratingCount": "3",
+    "synopsis": "A fugitive couple goes on a glamorous and sometimes deadly adventure where nothing and no one \u2013 even themselves \u2013 are what they seem. Amid shifting alliances and unexpected betrayals, they race across the globe, with their survival ultimately hinging on the battle of truth vs. trust.",
+    "infoFields": {
+      "Original title": "Knight and Day",
+      "IMDb Rating": "6.3 213,078 votes",
+      "TMDb Rating": "6.216 4,412 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "James Mangold",
+      "role": "Director",
+      "url": "https://multimovies.city/director/james-mangold/",
+      "image": "https://image.tmdb.org/t/p/w92/pk0GDjn99crNwR4qgCCEokDYd71.jpg"
+    },
+    {
+      "name": "Tom Cruise",
+      "role": "Roy Miller",
+      "url": "https://multimovies.city/cast/tom-cruise/",
+      "image": "https://image.tmdb.org/t/p/w92/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"
+    },
+    {
+      "name": "Cameron Diaz",
+      "role": "June Havens",
+      "url": "https://multimovies.city/cast/cameron-diaz/",
+      "image": "https://image.tmdb.org/t/p/w92/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "role": "Fitzgerald",
+      "url": "https://multimovies.city/cast/peter-sarsgaard/",
+      "image": "https://image.tmdb.org/t/p/w92/jOc4VjxPaOkWOqnLCxd8BJy9g5i.jpg"
+    },
+    {
+      "name": "Viola Davis",
+      "role": "CIA Director Isabel George",
+      "url": "https://multimovies.city/cast/viola-davis/",
+      "image": "https://image.tmdb.org/t/p/w92/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+    },
+    {
+      "name": "Jordi Moll\u00e0",
+      "role": "Antonio Quintana",
+      "url": "https://multimovies.city/cast/jordi-molla/",
+      "image": "https://image.tmdb.org/t/p/w92/2XEuPT0T9SRwcpsOXD9vMpm4Vad.jpg"
+    },
+    {
+      "name": "Paul Dano",
+      "role": "Simon Feck",
+      "url": "https://multimovies.city/cast/paul-dano/",
+      "image": "https://image.tmdb.org/t/p/w92/zEJJsm0z07EPNl2Pi1h67xuCmcA.jpg"
+    },
+    {
+      "name": "Maggie Grace",
+      "role": "April Havens",
+      "url": "https://multimovies.city/cast/maggie-grace/",
+      "image": "https://image.tmdb.org/t/p/w92/rcagRQ6PGsDCdacAeCUDwCSNodr.jpg"
+    },
+    {
+      "name": "Marc Blucas",
+      "role": "Rodney",
+      "url": "https://multimovies.city/cast/marc-blucas/",
+      "image": "https://image.tmdb.org/t/p/w92/mk0YeUWkMsFKzJ8wFHsEXuGd2KK.jpg"
+    },
+    {
+      "name": "Celia Weston",
+      "role": "Molly Knight",
+      "url": "https://multimovies.city/cast/celia-weston/",
+      "image": "https://image.tmdb.org/t/p/w92/pQYygvqfmKnK4weuUCLUX45q5AJ.jpg"
+    },
+    {
+      "name": "Falk Hentschel",
+      "role": "Bernhard",
+      "url": "https://multimovies.city/cast/falk-hentschel/",
+      "image": "https://image.tmdb.org/t/p/w92/jM2dbh9AhtahccUH8we9LYYrj6c.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/grHeT4GGDmVcreyuS0D53DlFD5p.jpg",
+    "https://image.tmdb.org/t/p/w300/8UTiQlVOVLFDhGfDndPy56n4sFw.jpg",
+    "https://image.tmdb.org/t/p/w300/9YJBqDQB1mBANkgKpm4xODx8gWJ.jpg",
+    "https://image.tmdb.org/t/p/w300/mJcHh2YnqtqgStTMYqHbIX2O4Tj.jpg",
+    "https://image.tmdb.org/t/p/w300/30TFe41GTirRLQjlOCQmPcbLaEM.jpg",
+    "https://image.tmdb.org/t/p/w300/6FFfVeVGGgMGrkMn5nORZBPBrru.jpg",
+    "https://image.tmdb.org/t/p/w300/523DJjPPgq5fKOni2B8Ly4hTrUE.jpg",
+    "https://image.tmdb.org/t/p/w300/4zTiQjRzqIaCFGYVPLUi9WMjSpO.jpg",
+    "https://image.tmdb.org/t/p/w300/s28TDCPY9TRcaD0CN96k1klzkJh.jpg",
+    "https://image.tmdb.org/t/p/w300/1qJEHS4EJAbwIj77XpbN945BdiI.jpg"
+  ],
+  "similar": [],
+  "views": 4080,
+  "sources": [
+    "https://www.youtube.com/embed/JGPl86DBNNs?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ss56k1o"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 9157,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 9157,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:40:15.224964"
+}
