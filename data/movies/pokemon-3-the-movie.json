@@ -4,15 +4,139 @@
   "meta": {
     "title": "Pok\u00e9mon Movie 3: Spell of the Unown",
     "poster": "https://image.tmdb.org/t/p/w500/g2C95ubS56O1ITXy1MgC69kAwF0.jpg",
-    "synopsis": "When Molly Hale\u2019s sadness of her father\u2019s disappearance gets to her, she unknowingly uses the Unown to create her own dream world along with Entei, who she believes to be her father. When Entei kidnaps Ash\u2019s mother, Ash along with Misty & Brock invade the mansion looking for his mom and trying to stop the mysteries of Molly\u2019s Dream World and Entei!"
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      }
+    ],
+    "firstAirDate": "Jul. 08, 2000",
+    "ratingValue": "5.5",
+    "ratingCount": "4",
+    "synopsis": "When Molly Hale\u2019s sadness of her father\u2019s disappearance gets to her, she unknowingly uses the Unown to create her own dream world along with Entei, who she believes to be her father. When Entei kidnaps Ash\u2019s mother, Ash along with Misty & Brock invade the mansion looking for his mom and trying to stop the mysteries of Molly\u2019s Dream World and Entei!",
+    "infoFields": {
+      "Original title": "\u5287\u5834\u7248\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u7d50\u6676\u5854\u306e\u5e1d\u738b ENTEI",
+      "IMDb Rating": "5.8 14,763 votes",
+      "TMDb Rating": "6.529 573 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Kunihiko Yuyama",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kunihiko-yuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/m9TuHUsVZXwacadFyDIZ7BKFkrM.jpg"
+    },
+    {
+      "name": "Rica Matsumoto",
+      "role": "Satoshi (voice)",
+      "url": "https://multimovies.city/cast/rica-matsumoto/",
+      "image": "https://image.tmdb.org/t/p/w92/ykm6ZpLcX5wblCNp7rOAoZpCh3L.jpg"
+    },
+    {
+      "name": "Ikue Otani",
+      "role": "Pikachu (voice)",
+      "url": "https://multimovies.city/cast/ikue-otani/",
+      "image": "https://image.tmdb.org/t/p/w92/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "name": "Yuji Ueda",
+      "role": "Takeshi / Yorunozuku / Sonans (voice)",
+      "url": "https://multimovies.city/cast/yuji-ueda/",
+      "image": "https://image.tmdb.org/t/p/w92/nwJBK4WwsUCcBcX425GD2BroJDr.jpg"
+    },
+    {
+      "name": "Mayumi Izuka",
+      "role": "Kasumi (voice)",
+      "url": "https://multimovies.city/cast/mayumi-izuka/",
+      "image": "https://image.tmdb.org/t/p/w92/mg1ZCF9fhbBOgHgpL98g6CkWndc.jpg"
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "role": "Musashi (voice)",
+      "url": "https://multimovies.city/cast/megumi-hayashibara/",
+      "image": "https://image.tmdb.org/t/p/w92/wqwCa9PNUBXPuN9MpSnYq2dz740.jpg"
+    },
+    {
+      "name": "Shin-ichiro Miki",
+      "role": "Kojiro / Hitodeman/ Lizardon/ Nyorozo / Zubat (voice)",
+      "url": "https://multimovies.city/cast/shin-ichiro-miki/",
+      "image": "https://image.tmdb.org/t/p/w92/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
+    },
+    {
+      "name": "Inuko Inuyama",
+      "role": "Nyarth (voice)",
+      "url": "https://multimovies.city/cast/inuko-inuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/bA6BQgafhEyRFMh4EbZQJqvIVWY.jpg"
+    },
+    {
+      "name": "Naoto Takenaka",
+      "role": "Sully Snowdon / Entei (voice)",
+      "url": "https://multimovies.city/cast/naoto-takenaka/",
+      "image": "https://image.tmdb.org/t/p/w92/sm17CU4kPDVcRRO6NJNE35LHMQl.jpg"
+    },
+    {
+      "name": "Akiko Yajima",
+      "role": "Me Snowdon (voice)",
+      "url": "https://multimovies.city/cast/akiko-yajima/",
+      "image": "https://image.tmdb.org/t/p/w92/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
+    },
+    {
+      "name": "Ai Kato",
+      "role": "Rin (voice)",
+      "url": "https://multimovies.city/cast/ai-kato/",
+      "image": "https://image.tmdb.org/t/p/w92/xOWPX3ejKjQJUGfqLy56CPY6YxE.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6X3qdsHcwu06GiiXwwNRWzfJ5oJ.jpg",
+    "https://image.tmdb.org/t/p/w300/dLGQo5Xq6H18vPx00Czot8VHi3K.jpg",
+    "https://image.tmdb.org/t/p/w300/6I6J6QC2ytHhLiTDZVECUmi0spX.jpg",
+    "https://image.tmdb.org/t/p/w300/gDetGdvaJ4KsIaqQvHTF47mJH9f.jpg",
+    "https://image.tmdb.org/t/p/w300/A9ebiRHbA8x0KG0SkPRvFghMTvU.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 1374,
+  "sources": [
+    "https://www.youtube.com/embed/SEqstQn0sag?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/0frgq347cn1x"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 29237,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 29237,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:28:02.832196"
 }
