@@ -6,7 +6,8 @@
     "start": "node api/tv.js",
     "dev": "vercel dev",
     "deploy": "vercel --prod",
-    "prebuild": "rm -rf data"
+    "prebuild": "rm -rf data",
+    "build": "echo 'Building API project...'"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
