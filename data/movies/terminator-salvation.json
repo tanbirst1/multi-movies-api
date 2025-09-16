@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/terminator-salvation/",
+  "meta": {
+    "title": "Terminator Salvation",
+    "poster": "https://image.tmdb.org/t/p/w500/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 20, 2009",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "All grown up in post-apocalyptic 2018, John Connor must lead the resistance of humans against the increasingly dominating militaristic robots. But when Marcus Wright appears, his existence confuses the mission as Connor tries to determine whether Wright has come from the future or the past \u2014 and whether he\u2019s friend or foe.",
+    "infoFields": {
+      "Original title": "Terminator Salvation",
+      "IMDb Rating": "6.5 376,977 votes",
+      "TMDb Rating": "6.1 6,221 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "McG",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mcg/",
+      "image": "https://image.tmdb.org/t/p/w92/vkHseZiluwbkqFHdvenCeQR3Ds9.jpg"
+    },
+    {
+      "name": "Christian Bale",
+      "role": "John Connor",
+      "url": "https://multimovies.city/cast/christian-bale/",
+      "image": "https://image.tmdb.org/t/p/w92/qCpZn2e3dimwbryLnqxZuI88PTi.jpg"
+    },
+    {
+      "name": "Sam Worthington",
+      "role": "Marcus Wright",
+      "url": "https://multimovies.city/cast/sam-worthington/",
+      "image": "https://image.tmdb.org/t/p/w92/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+    },
+    {
+      "name": "Moon Bloodgood",
+      "role": "Blair Williams",
+      "url": "https://multimovies.city/cast/moon-bloodgood/",
+      "image": "https://image.tmdb.org/t/p/w92/akOHCXJtQpgLIWaPwKaR34lkqFT.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Serena",
+      "url": "https://multimovies.city/cast/helena-bonham-carter/",
+      "image": "https://image.tmdb.org/t/p/w92/h3SMnd9GjF2AVaxChgWuVZknutT.jpg"
+    },
+    {
+      "name": "Anton Yelchin",
+      "role": "Kyle Reese",
+      "url": "https://multimovies.city/cast/anton-yelchin/",
+      "image": "https://image.tmdb.org/t/p/w92/uOMWKYOLezo4ETMtrQt7uQBLSBh.jpg"
+    },
+    {
+      "name": "Common",
+      "role": "Barnes",
+      "url": "https://multimovies.city/cast/common/",
+      "image": "https://image.tmdb.org/t/p/w92/dHOcvZJmHz50gk78Eta7PfoZQLH.jpg"
+    },
+    {
+      "name": "Zach McGowan",
+      "role": "Soldier on Osprey",
+      "url": "https://multimovies.city/cast/zach-mcgowan/",
+      "image": "https://image.tmdb.org/t/p/w92/v88KoZF7KNwV4WRi4V0GvDOqQyR.jpg"
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "role": "Kate Connor",
+      "url": "https://multimovies.city/cast/bryce-dallas-howard/",
+      "image": "https://image.tmdb.org/t/p/w92/qQX1rhQaJ1G8eMG2RknFKiXfNRc.jpg"
+    },
+    {
+      "name": "Jane Alexander",
+      "role": "Virginia",
+      "url": "https://multimovies.city/cast/jane-alexander/",
+      "image": "https://image.tmdb.org/t/p/w92/5nWLBhNH6tQGVskI89J45C7LU2o.jpg"
+    },
+    {
+      "name": "Michael Ironside",
+      "role": "General Ashdown",
+      "url": "https://multimovies.city/cast/michael-ironside/",
+      "image": "https://image.tmdb.org/t/p/w92/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5tKiuZvvV1lic7v65rdoGPmoOvf.jpg",
+    "https://image.tmdb.org/t/p/w300/mbriVZKHB04tXxwGrDOB8qrjKD7.jpg",
+    "https://image.tmdb.org/t/p/w300/uifaXfJxjTMeNttw5u04nHx1G5w.jpg",
+    "https://image.tmdb.org/t/p/w300/yLacmMBSSMaVnRoJhiTBJqPD62N.jpg",
+    "https://image.tmdb.org/t/p/w300/aA47323g6COINCoipQtHvDVpYJt.jpg",
+    "https://image.tmdb.org/t/p/w300/mglXOOyXISvuIdLgvhU9oXn1Mi7.jpg",
+    "https://image.tmdb.org/t/p/w300/lo70DEjfUOweEosuPPIlcIOhhBm.jpg",
+    "https://image.tmdb.org/t/p/w300/m9yHpYz4GcEtmHJW4rvQIrF891h.jpg",
+    "https://image.tmdb.org/t/p/w300/l2bAhg1h3eJrXiIZv8v2uMkuQPF.jpg",
+    "https://image.tmdb.org/t/p/w300/oEbtjCyBxuYhymYlcQOY2lwUzJ.jpg"
+  ],
+  "similar": [],
+  "views": 3845,
+  "sources": [
+    "https://www.youtube.com/embed/Sv6SM0w0B5A?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/rlx0qi628nyg"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 3036,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 3036,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:30:15.123438"
+}
