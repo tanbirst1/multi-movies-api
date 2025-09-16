@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/avatar/",
+  "meta": {
+    "title": "Avatar",
+    "poster": "https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Dec. 15, 2009",
+    "ratingValue": "8.7",
+    "ratingCount": "12",
+    "synopsis": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+    "infoFields": {
+      "Original title": "Avatar",
+      "IMDb Rating": "7.9 1,337,560 votes",
+      "TMDb Rating": "7.569 28,960 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "James Cameron",
+      "role": "Director",
+      "url": "https://multimovies.city/director/james-cameron/",
+      "image": "https://image.tmdb.org/t/p/w92/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+    },
+    {
+      "name": "Sam Worthington",
+      "role": "Jake Sully",
+      "url": "https://multimovies.city/cast/sam-worthington/",
+      "image": "https://image.tmdb.org/t/p/w92/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+      "name": "Zoe Salda\u00f1a",
+      "role": "Neytiri",
+      "url": "https://multimovies.city/cast/zoe-saldana/",
+      "image": "https://image.tmdb.org/t/p/w92/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+    },
+    {
+      "name": "Stephen Lang",
+      "role": "Colonel Miles Quaritch",
+      "url": "https://multimovies.city/cast/stephen-lang/",
+      "image": "https://image.tmdb.org/t/p/w92/xEBuFWrCKDQD6r6CZK71GYIc4UW.jpg"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "role": "Trudy Chacon",
+      "url": "https://multimovies.city/cast/michelle-rodriguez/",
+      "image": "https://image.tmdb.org/t/p/w92/hulQAiXNFLq4VDYVxBPgK009njf.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Dr. Grace Augustine",
+      "url": "https://multimovies.city/cast/sigourney-weaver/",
+      "image": "https://image.tmdb.org/t/p/w92/sHWCLx54yLtaFtppp5ADjAsrWIc.jpg"
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "role": "Parker Selfridge",
+      "url": "https://multimovies.city/cast/giovanni-ribisi/",
+      "image": "https://image.tmdb.org/t/p/w92/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+    },
+    {
+      "name": "Joel David Moore",
+      "role": "Norm Spellman",
+      "url": "https://multimovies.city/cast/joel-david-moore/",
+      "image": "https://image.tmdb.org/t/p/w92/pZQ4un6v0EANFMAiJYEaGRsCFWE.jpg"
+    },
+    {
+      "name": "CCH Pounder",
+      "role": "Mo'at",
+      "url": "https://multimovies.city/cast/cch-pounder/",
+      "image": "https://image.tmdb.org/t/p/w92/8IBLs1BkLZpOTVREt5yDusW1nim.jpg"
+    },
+    {
+      "name": "Wes Studi",
+      "role": "Eytukan",
+      "url": "https://multimovies.city/cast/wes-studi/",
+      "image": "https://image.tmdb.org/t/p/w92/hIi9rjpOR4az0oJfvlx0FnKSJLv.jpg"
+    },
+    {
+      "name": "Laz Alonso",
+      "role": "Tsu'Tey",
+      "url": "https://multimovies.city/cast/laz-alonso/",
+      "image": "https://image.tmdb.org/t/p/w92/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+    "https://image.tmdb.org/t/p/w300/AmHOQ7rpHwiaUMRjKXztnauSJb7.jpg",
+    "https://image.tmdb.org/t/p/w300/8I37NtDffNV7AZlDa7uDvvqhovU.jpg",
+    "https://image.tmdb.org/t/p/w300/7ABsaBkO1jA2psC8Hy4IDhkID4h.jpg",
+    "https://image.tmdb.org/t/p/w300/chauy3iJaZtrMbTr72rgNmOZwo3.jpg",
+    "https://image.tmdb.org/t/p/w300/2YLOjUiczXEgVZFDSIeH3iWB3Ub.jpg",
+    "https://image.tmdb.org/t/p/w300/xMMrBziwJqrgjerqpNeQvwuwiUp.jpg",
+    "https://image.tmdb.org/t/p/w300/ruziOM4OlILvyrOdChvvFqy4Ggw.jpg",
+    "https://image.tmdb.org/t/p/w300/qCv5kKfYRAofZGxYCPWlIuE6jP5.jpg",
+    "https://image.tmdb.org/t/p/w300/uvI7pMTzKrn2N783B00JTArKo7U.jpg"
+  ],
+  "similar": [],
+  "views": 24208,
+  "sources": [
+    "https://www.youtube.com/embed/5PSNL1qE6VY?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/45wvene0jxl3"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5345,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5345,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:39:12.036252"
+}
