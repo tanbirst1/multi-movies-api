@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-lord-of-the-rings-the-two-towers/",
+  "meta": {
+    "title": "The Lord of the Rings: The Two Towers",
+    "poster": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 18, 2002",
+    "ratingValue": "9.1",
+    "ratingCount": "10",
+    "synopsis": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+    "infoFields": {
+      "Original title": "The Lord of the Rings: The Two Towers",
+      "IMDb Rating": "8.8 1,696,319 votes",
+      "TMDb Rating": "8.407 22,661 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Peter Jackson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/peter-jackson/",
+      "image": "https://image.tmdb.org/t/p/w92/bNc908d59Ba8VDNr4eCcm4G1cR.jpg"
+    },
+    {
+      "name": "Elijah Wood",
+      "role": "Frodo",
+      "url": "https://multimovies.city/cast/elijah-wood/",
+      "image": "https://image.tmdb.org/t/p/w92/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+      "name": "Ian McKellen",
+      "role": "Gandalf",
+      "url": "https://multimovies.city/cast/ian-mckellen/",
+      "image": "https://image.tmdb.org/t/p/w92/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "name": "Liv Tyler",
+      "role": "Arwen",
+      "url": "https://multimovies.city/cast/liv-tyler/",
+      "image": "https://image.tmdb.org/t/p/w92/jrOj6t9pH8TqO65pnsRuvRNhwqx.jpg"
+    },
+    {
+      "name": "Viggo Mortensen",
+      "role": "Aragorn",
+      "url": "https://multimovies.city/cast/viggo-mortensen/",
+      "image": "https://image.tmdb.org/t/p/w92/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "name": "Sean Astin",
+      "role": "Sam",
+      "url": "https://multimovies.city/cast/sean-astin/",
+      "image": "https://image.tmdb.org/t/p/w92/5oJzy6Ra0tuMEV7mfxjtqye5qUX.jpg"
+    },
+    {
+      "name": "Andy Serkis",
+      "role": "Gollum",
+      "url": "https://multimovies.city/cast/andy-serkis/",
+      "image": "https://image.tmdb.org/t/p/w92/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "name": "Cate Blanchett",
+      "role": "Galadriel",
+      "url": "https://multimovies.city/cast/cate-blanchett/",
+      "image": "https://image.tmdb.org/t/p/w92/vq4vuAVhYngfzVNn8SbnG0JEy15.jpg"
+    },
+    {
+      "name": "John Rhys-Davies",
+      "role": "Gimli / Treebeard (voice)",
+      "url": "https://multimovies.city/cast/john-rhys-davies/",
+      "image": "https://image.tmdb.org/t/p/w92/dvT1NPY8CXIVQh0O1h6rpfYOgKz.jpg"
+    },
+    {
+      "name": "Bernard Hill",
+      "role": "Th\u00e9oden",
+      "url": "https://multimovies.city/cast/bernard-hill/",
+      "image": "https://image.tmdb.org/t/p/w92/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+    },
+    {
+      "name": "Christopher Lee",
+      "role": "Saruman",
+      "url": "https://multimovies.city/cast/christopher-lee/",
+      "image": "https://image.tmdb.org/t/p/w92/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7ABgKch4hBX4qwCujRKM58fKsoG.jpg",
+    "https://image.tmdb.org/t/p/w300/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+    "https://image.tmdb.org/t/p/w300/9BUvLUz1GhbNpcyQRyZm1HNqMq4.jpg",
+    "https://image.tmdb.org/t/p/w300/nS4picOwj15APKzJeBCk6EBcMG5.jpg",
+    "https://image.tmdb.org/t/p/w300/3c1AZHFil1M3HbGepQIc9qco3EZ.jpg",
+    "https://image.tmdb.org/t/p/w300/zcc0My3G4SYR72VuEYHNcUWkkW0.jpg",
+    "https://image.tmdb.org/t/p/w300/7tNTPZMb13W0AhkcuoL6myRrNRr.jpg",
+    "https://image.tmdb.org/t/p/w300/nOFLk8Pbd1FWxJI4QqNKYhFFvkN.jpg",
+    "https://image.tmdb.org/t/p/w300/NawWTiSxnTPeJrc4y2QsLImyp.jpg",
+    "https://image.tmdb.org/t/p/w300/4UZ9JGRTfeQGQollirsfGjvQkPw.jpg"
+  ],
+  "similar": [],
+  "views": 12019,
+  "sources": [
+    "https://www.youtube.com/embed/cvCktPUwkW0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ge6qn5f"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8762,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 8762,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:40:42.010694"
+}
