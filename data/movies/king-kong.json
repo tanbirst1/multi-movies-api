@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/king-kong/",
+  "meta": {
+    "title": "King Kong",
+    "poster": "https://image.tmdb.org/t/p/w500/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Dec. 12, 2005",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+    "infoFields": {
+      "Original title": "King Kong",
+      "IMDb Rating": "7.2 455,398 votes",
+      "TMDb Rating": "6.889 7,892 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Peter Jackson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/peter-jackson/",
+      "image": "https://image.tmdb.org/t/p/w92/bNc908d59Ba8VDNr4eCcm4G1cR.jpg"
+    },
+    {
+      "name": "Naomi Watts",
+      "role": "Ann Darrow",
+      "url": "https://multimovies.city/cast/naomi-watts/",
+      "image": "https://image.tmdb.org/t/p/w92/k6l8BWX1yqfGt95enzEkHoPvON4.jpg"
+    },
+    {
+      "name": "Jack Black",
+      "role": "Carl Denham",
+      "url": "https://multimovies.city/cast/jack-black/",
+      "image": "https://image.tmdb.org/t/p/w92/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+    },
+    {
+      "name": "Adrien Brody",
+      "role": "Jack Driscoll",
+      "url": "https://multimovies.city/cast/adrien-brody/",
+      "image": "https://image.tmdb.org/t/p/w92/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+    },
+    {
+      "name": "Andy Serkis",
+      "role": "Kong / Lumpy",
+      "url": "https://multimovies.city/cast/andy-serkis/",
+      "image": "https://image.tmdb.org/t/p/w92/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "name": "Colin Hanks",
+      "role": "Preston",
+      "url": "https://multimovies.city/cast/colin-hanks/",
+      "image": "https://image.tmdb.org/t/p/w92/iljyDSiJRcwJL8QXQZ2WTyU1wh5.jpg"
+    },
+    {
+      "name": "Thomas Kretschmann",
+      "role": "Captain Englehorn",
+      "url": "https://multimovies.city/cast/thomas-kretschmann/",
+      "image": "https://image.tmdb.org/t/p/w92/p1XYiekXjaUxHMztBALrez1Ud4J.jpg"
+    },
+    {
+      "name": "Jamie Bell",
+      "role": "Jimmy",
+      "url": "https://multimovies.city/cast/jamie-bell/",
+      "image": "https://image.tmdb.org/t/p/w92/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+    },
+    {
+      "name": "Kyle Chandler",
+      "role": "Bruce Baxter",
+      "url": "https://multimovies.city/cast/kyle-chandler/",
+      "image": "https://image.tmdb.org/t/p/w92/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+    },
+    {
+      "name": "Evan Parke",
+      "role": "Hayes",
+      "url": "https://multimovies.city/cast/evan-parke/",
+      "image": "https://image.tmdb.org/t/p/w92/hg0bSMu1S28t7VLH9jZfZdcVnax.jpg"
+    },
+    {
+      "name": "Lobo Chan",
+      "role": "Choy",
+      "url": "https://multimovies.city/cast/lobo-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/aM5yxAVEXbFYDAZNcyGWZue3opB.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+    "https://image.tmdb.org/t/p/w300/4fdwVyY6Vb4zc7lZ8OIGGPyBy7n.jpg",
+    "https://image.tmdb.org/t/p/w300/p1qKVCT6Vv99ST5jqARqM9we40Y.jpg",
+    "https://image.tmdb.org/t/p/w300/dZKWgrwL6WWvteKVju4X5yfum3j.jpg",
+    "https://image.tmdb.org/t/p/w300/fvvyJm0EKDXl6xrGYOosV9IMPHd.jpg",
+    "https://image.tmdb.org/t/p/w300/14xx5Tf58mD8FRJ1B3BspiLiRxz.jpg",
+    "https://image.tmdb.org/t/p/w300/fViKpktx4xktlQVaaKin6u94rcv.jpg",
+    "https://image.tmdb.org/t/p/w300/khCWWTRSwmMw1Us6rVFpEzDeDJf.jpg",
+    "https://image.tmdb.org/t/p/w300/ztf4lSoEbMQ2uinAwt8usCNpnCp.jpg",
+    "https://image.tmdb.org/t/p/w300/5PXqCkPE4M0UO5gZyEng4cAjbBq.jpg"
+  ],
+  "similar": [],
+  "views": 5503,
+  "sources": [
+    "https://www.youtube.com/embed/4rgo4yeC3C4?autoplay=0&autohide=1",
+    "https://multimovies.rpmhub.site/#z8te"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 74231,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 74231,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:57:35.653441"
+}
