@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ben-hur/",
+  "meta": {
+    "title": "Ben-Hur",
+    "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "History",
+        "url": "https://multimovies.city/genre/history/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 18, 1959",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "In 25 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire. Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+    "infoFields": {
+      "Original title": "Ben-Hur",
+      "IMDb Rating": "8.1 263,033 votes",
+      "TMDb Rating": "7.888 2,887 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "William Wyler",
+      "role": "Director",
+      "url": "https://multimovies.city/director/william-wyler/",
+      "image": "https://image.tmdb.org/t/p/w92/iJ3pqrklebAlED8FNPfRc0XLgiH.jpg"
+    },
+    {
+      "name": "Charlton Heston",
+      "role": "Judah Ben-Hur",
+      "url": "https://multimovies.city/cast/charlton-heston/",
+      "image": "https://image.tmdb.org/t/p/w92/mJabHWZrjlFiF8U8Bbr8lSFtLX6.jpg"
+    },
+    {
+      "name": "Stephen Boyd",
+      "role": "Messala",
+      "url": "https://multimovies.city/cast/stephen-boyd/",
+      "image": "https://image.tmdb.org/t/p/w92/64KLW9XGjGLUl3RbtjfMRPFEDYu.jpg"
+    },
+    {
+      "name": "Hugh Griffith",
+      "role": "Scheich Ildirim",
+      "url": "https://multimovies.city/cast/hugh-griffith/",
+      "image": "https://image.tmdb.org/t/p/w92/xg3tpIaNyBmNBcJMG4Ft1uZTRVh.jpg"
+    },
+    {
+      "name": "Jack Hawkins",
+      "role": "Quintus Arrius",
+      "url": "https://multimovies.city/cast/jack-hawkins/",
+      "image": "https://image.tmdb.org/t/p/w92/pfpe9NQrcrTrxMeU0xGsh1XRBOK.jpg"
+    },
+    {
+      "name": "Haya Harareet",
+      "role": "Esther",
+      "url": "https://multimovies.city/cast/haya-harareet/",
+      "image": "https://image.tmdb.org/t/p/w92/gurUharioqQL9f9zdTXbt4fJLPE.jpg"
+    },
+    {
+      "name": "Martha Scott",
+      "role": "Miriam",
+      "url": "https://multimovies.city/cast/martha-scott/",
+      "image": "https://image.tmdb.org/t/p/w92/oBR5i2WR0W7qHGzvyPApIUH3DxL.jpg"
+    },
+    {
+      "name": "Cathy O'Donnell",
+      "role": "Tirzah",
+      "url": "https://multimovies.city/cast/cathy-odonnell/",
+      "image": "https://image.tmdb.org/t/p/w92/hBNexdnsOlpup6iwgTsYg3Zus93.jpg"
+    },
+    {
+      "name": "Sam Jaffe",
+      "role": "Simonides",
+      "url": "https://multimovies.city/cast/sam-jaffe/",
+      "image": "https://image.tmdb.org/t/p/w92/pvWsxtku6Ki4zKJPUz3K2StJmwB.jpg"
+    },
+    {
+      "name": "Finlay Currie",
+      "role": "Balthasar",
+      "url": "https://multimovies.city/cast/finlay-currie/",
+      "image": "https://image.tmdb.org/t/p/w92/okHKOxm5wmFu513NsK3JNI7fMkr.jpg"
+    },
+    {
+      "name": "Frank Thring",
+      "role": "Pontius Pilatus",
+      "url": "https://multimovies.city/cast/frank-thring/",
+      "image": "https://image.tmdb.org/t/p/w92/uuXtWasXbPKH34kDS9gaMIdtAAO.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/opC7CvwhOeBWZnhfcZkdtEskIQD.jpg",
+    "https://image.tmdb.org/t/p/w300/noBLpUnaH7xwphEwbMRloAGnfFd.jpg",
+    "https://image.tmdb.org/t/p/w300/et2OHXAx6MEWHr0oTNmSrFGPYua.jpg",
+    "https://image.tmdb.org/t/p/w300/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+    "https://image.tmdb.org/t/p/w300/sXDSz7XXHwbgah76IYKnnFaTRFA.jpg",
+    "https://image.tmdb.org/t/p/w300/9a0rUOhu3yZH20UirHNMlCeEZQo.jpg",
+    "https://image.tmdb.org/t/p/w300/aPCHvdCBkRHiAYh4cFlcBDyzhxi.jpg",
+    "https://image.tmdb.org/t/p/w300/aOLUgTW4Pfmwz7tYU1fTfsMqcIR.jpg",
+    "https://image.tmdb.org/t/p/w300/9PhjBQjYxIbh1SSfWLjoYZIcnZU.jpg",
+    "https://image.tmdb.org/t/p/w300/gstw4PWfTerGi6JbgaZK2Zj6JS0.jpg"
+  ],
+  "similar": [],
+  "views": 660,
+  "sources": [
+    "https://www.youtube.com/embed/CISLKr28-Jc?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/cvasqwn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 86533,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 86533,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
