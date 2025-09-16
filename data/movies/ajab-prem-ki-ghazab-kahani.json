@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ajab-prem-ki-ghazab-kahani/",
+  "meta": {
+    "title": "Ajab Prem Ki Ghazab Kahani",
+    "poster": "https://image.tmdb.org/t/p/w500/6IC8PQZAynsUAh0MDvopR3zDTRk.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Nov. 06, 2009",
+    "ratingValue": "9",
+    "ratingCount": "4",
+    "synopsis": "When his love interest doesn\u2019t show up for a meeting, a man and his friends go to Goa in order to find her, where they discover she loves someone else.",
+    "infoFields": {
+      "Original title": "\u0905\u091c\u092c \u092a\u094d\u0930\u0947\u092e \u0915\u093f \u0917\u093c\u091c\u093c\u092c \u0915\u0939\u093e\u0928\u0940",
+      "IMDb Rating": "6.4 17,966 votes",
+      "TMDb Rating": "6.2 138 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rajkumar Santoshi",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rajkumar-santoshi/",
+      "image": "https://image.tmdb.org/t/p/w92/8XUcYOEigleKe1ipxizoZ16Cmst.jpg"
+    },
+    {
+      "name": "Ranbir Kapoor",
+      "role": "Prem Shankar Sharma",
+      "url": "https://multimovies.city/cast/ranbir-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/ymYNHV9luwgyrw17NXHqbOWTQkg.jpg"
+    },
+    {
+      "name": "Katrina Kaif",
+      "role": "Jennifer Pinto (Jenny)",
+      "url": "https://multimovies.city/cast/katrina-kaif/",
+      "image": "https://image.tmdb.org/t/p/w92/bsFHyJnqUFEi9CkSUoMbvAj5Xih.jpg"
+    },
+    {
+      "name": "Upen Patel",
+      "role": "Rahul Jalan",
+      "url": "https://multimovies.city/cast/upen-patel/",
+      "image": "https://image.tmdb.org/t/p/w92/eHeqwIDD0f8iwnqcoLYqCmrFmwy.jpg"
+    },
+    {
+      "name": "Govind Namdeo",
+      "role": "Pitambar Jalan",
+      "url": "https://multimovies.city/cast/govind-namdeo/",
+      "image": "https://image.tmdb.org/t/p/w92/4PYvzEHjEXScVjYuiQxVpNpvQ18.jpg"
+    },
+    {
+      "name": "Darshan Jariwala",
+      "role": "Shiv Shankar Sharma",
+      "url": "https://multimovies.city/cast/darshan-jariwala/",
+      "image": "https://image.tmdb.org/t/p/w92/wUjcLcLzM2E7kEde5aq33AyYcDf.jpg"
+    },
+    {
+      "name": "Mithilesh Chaturvedi",
+      "role": "Mr Pinto",
+      "url": "https://multimovies.city/cast/mithilesh-chaturvedi/",
+      "image": "https://image.tmdb.org/t/p/w92/d4d4cVXiPnUkhuEaV0cfaq0csyh.jpg"
+    },
+    {
+      "name": "Navneet Nishan",
+      "role": "Mrs Pinto",
+      "url": "https://multimovies.city/cast/navneet-nishan/",
+      "image": "https://image.tmdb.org/t/p/w92/dm1ICqCOeJC88ye81ITQrhBw6U3.jpg"
+    },
+    {
+      "name": "Smita Jaykar",
+      "role": "Sharda Sharma",
+      "url": "https://multimovies.city/cast/smita-jaykar/",
+      "image": "https://image.tmdb.org/t/p/w92/5YpJqn2u69d9MaEkn0ucD2tbz4x.jpg"
+    },
+    {
+      "name": "Shyam Mashalkar",
+      "role": "Raju",
+      "url": "https://multimovies.city/cast/shyam-mashalkar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Dolly Bindra",
+      "role": "Pitambar Jalan's Wife",
+      "url": "https://multimovies.city/cast/dolly-bindra/",
+      "image": "https://image.tmdb.org/t/p/w92/iDpVKX6PF9OnHo8tcbpejIHbgbX.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iracY0nh7yTQfOYIMFhq2ZgcT3f.jpg",
+    "https://image.tmdb.org/t/p/w300/80O0cGj8WoAX9lVhmbkq0JCZyWd.jpg",
+    "https://image.tmdb.org/t/p/w300/gZ2K1Ewx07gVTE3qwqPLmyEIXkv.jpg"
+  ],
+  "similar": [],
+  "views": 2541,
+  "sources": [
+    "https://www.youtube.com/embed/6GUZ5G72rh4?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/lopwfpx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 85437,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 85437,
+      "nume": 1,
+      "title": "hf"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:34:47.861087"
+}
