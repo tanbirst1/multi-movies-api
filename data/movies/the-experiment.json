@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-experiment/",
+  "meta": {
+    "title": "The Experiment",
+    "poster": "https://image.tmdb.org/t/p/w500/zy6hJYii2PJfMRoUBlULhfuLsgL.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 15, 2010",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "20 men are chosen to participate in the roles of guards and prisoners in a psychological study that ultimately spirals out of control.",
+    "infoFields": {
+      "Original title": "The Experiment",
+      "IMDb Rating": "6.4 58,431 votes",
+      "TMDb Rating": "6.4 1,229 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Paul T. Scheuring",
+      "role": "Director",
+      "url": "https://multimovies.city/director/paul-t-scheuring/",
+      "image": "https://image.tmdb.org/t/p/w92/2hNYumD0sMCDezKvTtDwginHP4L.jpg"
+    },
+    {
+      "name": "Adrien Brody",
+      "role": "Travis",
+      "url": "https://multimovies.city/cast/adrien-brody/",
+      "image": "https://image.tmdb.org/t/p/w92/ljvF4lI0KmZYMydDlcOzIAZn2nN.jpg"
+    },
+    {
+      "name": "Cam Gigandet",
+      "role": "Chase",
+      "url": "https://multimovies.city/cast/cam-gigandet/",
+      "image": "https://image.tmdb.org/t/p/w92/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+    },
+    {
+      "name": "Forest Whitaker",
+      "role": "Barris",
+      "url": "https://multimovies.city/cast/forest-whitaker/",
+      "image": "https://image.tmdb.org/t/p/w92/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    },
+    {
+      "name": "Maggie Grace",
+      "role": "Kelly",
+      "url": "https://multimovies.city/cast/maggie-grace/",
+      "image": "https://image.tmdb.org/t/p/w92/fEZSGno4ooPgFjuGzE7ogsWEHsh.jpg"
+    },
+    {
+      "name": "Clifton Collins Jr.",
+      "role": "Nix",
+      "url": "https://multimovies.city/cast/clifton-collins-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/qG3doVXFax1EmYR1EqMvLbx5wwz.jpg"
+    },
+    {
+      "name": "Fisher Stevens",
+      "role": "Archaleta",
+      "url": "https://multimovies.city/cast/fisher-stevens/",
+      "image": "https://image.tmdb.org/t/p/w92/vfyZMT3t3mGTloYGrC7T3QhGkwp.jpg"
+    },
+    {
+      "name": "Damien Leake",
+      "role": "Govenor",
+      "url": "https://multimovies.city/cast/damien-leake/",
+      "image": "https://image.tmdb.org/t/p/w92/7E0kD9z3lSXnAxNIC4ijnsAUsgf.jpg"
+    },
+    {
+      "name": "Ethan Cohn",
+      "role": "Benji",
+      "url": "https://multimovies.city/cast/ethan-cohn/",
+      "image": "https://image.tmdb.org/t/p/w92/fB7LlmdY8dCVy3oyO2YA5QG6g0V.jpg"
+    },
+    {
+      "name": "Travis Fimmel",
+      "role": "Helweg",
+      "url": "https://multimovies.city/cast/travis-fimmel/",
+      "image": "https://image.tmdb.org/t/p/w92/i6wEoE9P6PgYe75g6QT8Y7JjX6n.jpg"
+    },
+    {
+      "name": "David Banner",
+      "role": "Bosch",
+      "url": "https://multimovies.city/cast/david-banner/",
+      "image": "https://image.tmdb.org/t/p/w92/jm4BDJT11uHt60VWdadqSb65sdv.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/dKJM7ASnbe2owv92S4OwtqBG8wl.jpg",
+    "https://image.tmdb.org/t/p/w300/ok2UUI2gtmkdfRZFkILLiAiIpZs.jpg",
+    "https://image.tmdb.org/t/p/w300/hmOnYfEiR0yTk7vWt8HTVxNSJfW.jpg",
+    "https://image.tmdb.org/t/p/w300/AdvOAcJ6UxqrG3LmPgTDQl26Qrq.jpg",
+    "https://image.tmdb.org/t/p/w300/xC0z0anLHq9T6WOVlTQsY6ZRajV.jpg",
+    "https://image.tmdb.org/t/p/w300/qCDcNUkm3o832Im6dKLxwYrvXV0.jpg",
+    "https://image.tmdb.org/t/p/w300/AaTDFsyE87qwq7HdD2KoywobmOt.jpg",
+    "https://image.tmdb.org/t/p/w300/23Qjl21cVJ5imy0rCjnjM4vZsxW.jpg",
+    "https://image.tmdb.org/t/p/w300/1bs1OtY0IsMP4vsg6o5zqFQ2Nof.jpg"
+  ],
+  "similar": [],
+  "views": 772,
+  "sources": [
+    "https://www.youtube.com/embed/Bi76npKs0X8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/nqjj525"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 82957,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 82957,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:44:37.857550"
+}
