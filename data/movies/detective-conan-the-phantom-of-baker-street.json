@@ -4,15 +4,125 @@
   "meta": {
     "title": "Detective Conan Movie 06 : The Phantom of Baker Street",
     "poster": "https://image.tmdb.org/t/p/w500/AbgADjLIYoLAc3mayVWGBWSbjT.jpg",
-    "synopsis": "Noah\u2019s Ark\u2014the latest in VR technology and a milestone of human innovation\u2014is set for a showcase to Japan\u2019s privileged children. They have the honour of beginning a new revolution in gaming; however, their carefree fun is cut short when a company employee is found murdered, with his dying message pointing to a clue hidden within the Ark. Along with the Detective Boys and Ran Mouri, Conan Edogawa enters Noah\u2019s Ark to solve this mystery and ensure the perpetrator is caught. But once they\u2019re inside the Ark, it takes on a mind of its own, imprisoning them and the children within its worlds. To escape and bring the murderer to justice, Conan and company must navigate a simulated 19th century London and track down the infamous Jack the Ripper\u2014with the lives of 50 innocent children depending on them."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Hindi Dub Anime",
+        "url": "https://multimovies.city/genre/anime-hindi/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Apr. 20, 2002",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Noah\u2019s Ark\u2014the latest in VR technology and a milestone of human innovation\u2014is set for a showcase to Japan\u2019s privileged children. They have the honour of beginning a new revolution in gaming; however, their carefree fun is cut short when a company employee is found murdered, with his dying message pointing to a clue hidden within the Ark. Along with the Detective Boys and Ran Mouri, Conan Edogawa enters Noah\u2019s Ark to solve this mystery and ensure the perpetrator is caught. But once they\u2019re inside the Ark, it takes on a mind of its own, imprisoning them and the children within its worlds. To escape and bring the murderer to justice, Conan and company must navigate a simulated 19th century London and track down the infamous Jack the Ripper\u2014with the lives of 50 innocent children depending on them.",
+    "infoFields": {
+      "Original title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u30d9\u30a4\u30ab\u30fc\u8857\uff08\u30b9\u30c8\u30ea\u30fc\u30c8\uff09\u306e\u4ea1\u970a",
+      "IMDb Rating": "7.8 3,748 votes",
+      "TMDb Rating": "7.667 174 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Kenji Kodama",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kenji-kodama/",
+      "image": "https://image.tmdb.org/t/p/w92/egHkNYdpKLt9GMAaDSSZA1uDX6K.jpg"
+    },
+    {
+      "name": "Minami Takayama",
+      "role": "Conan Edogawa (voice)",
+      "url": "https://multimovies.city/cast/minami-takayama/",
+      "image": "https://image.tmdb.org/t/p/w92/fDfP8TG6Sbosxc8zkz5xj7wkUrE.jpg"
+    },
+    {
+      "name": "Wakana Yamazaki",
+      "role": "Ran Mouri (voice)",
+      "url": "https://multimovies.city/cast/wakana-yamazaki/",
+      "image": "https://image.tmdb.org/t/p/w92/7BKB03wUE66hSUTUpUKBQ6djYsA.jpg"
+    },
+    {
+      "name": "Kappei Yamaguchi",
+      "role": "Shinichi Kudo (voice)",
+      "url": "https://multimovies.city/cast/kappei-yamaguchi/",
+      "image": "https://image.tmdb.org/t/p/w92/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
+    },
+    {
+      "name": "Akira Kamiya",
+      "role": "Kogoro Mouri (voice)",
+      "url": "https://multimovies.city/cast/akira-kamiya/",
+      "image": "https://image.tmdb.org/t/p/w92/mTNcabyfjrGixnxdF39w6ud315X.jpg"
+    },
+    {
+      "name": "Hideyuki Tanaka",
+      "role": "Yuusaku Kudo (voice)",
+      "url": "https://multimovies.city/cast/hideyuki-tanaka/",
+      "image": "https://image.tmdb.org/t/p/w92/1D1PmELZexM6aod77gbh9GwvvGG.jpg"
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "role": "Ai Haibara (voice)",
+      "url": "https://multimovies.city/cast/megumi-hayashibara/",
+      "image": "https://image.tmdb.org/t/p/w92/wqwCa9PNUBXPuN9MpSnYq2dz740.jpg"
+    },
+    {
+      "name": "Chafurin",
+      "role": "Juzo Megure (voice)",
+      "url": "https://multimovies.city/cast/chafurin/",
+      "image": "https://image.tmdb.org/t/p/w92/9JIB3TY4hpacwtTF3XtBfBKte7w.jpg"
+    },
+    {
+      "name": "Yukiko Iwai",
+      "role": "Ayumi Yoshida (voice)",
+      "url": "https://multimovies.city/cast/yukiko-iwai/",
+      "image": "https://image.tmdb.org/t/p/w92/9JpPkRCd4eYzMDUex8LZtSvEbUm.jpg"
+    },
+    {
+      "name": "Naoko Matsui",
+      "role": "Sonoko Suzuki (voice)",
+      "url": "https://multimovies.city/cast/naoko-matsui/",
+      "image": "https://image.tmdb.org/t/p/w92/xtBpoWzP90fY2od1Y90D83mMZ2G.jpg"
+    },
+    {
+      "name": "Kenichi Ogata",
+      "role": "Hiroshi Agasa (voice)",
+      "url": "https://multimovies.city/cast/kenichi-ogata/",
+      "image": "https://image.tmdb.org/t/p/w92/rTk93s0IfeUV8cvKc9BsJbrSBGV.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2Gx0IssZeGhpwvULplQuf9UiI26.jpg",
+    "https://image.tmdb.org/t/p/w300/pimCwPoXvhf5Frqj5dlJGO5PLfR.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 743,
+  "sources": [
+    "https://multimoviesshg.com/e/embbvd55ntke"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 34386,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:31:25"
+  "last_update": "2025-09-16T17:33:45.208669"
 }
