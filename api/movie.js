@@ -1,8 +1,7 @@
 // pages/api/movies.js
 const GITHUB_REPO = "tanbirst1/multi-movies-api";
 const GITHUB_BRANCH = "main";
-const NETLIFY_BASE = "https://stellular-dango-34f9ba.netlify.app/data/movies/";
-const DEFAULT_FIRST_AIR = "2015-08-26T00:00:00Z"; // safe ISO fallback
+const DEFAULT_FIRST_AIR = "2015-08-26T00:00:00Z"; // fallback date
 
 // --- Simple in-memory cache ---
 let cache = { data: null, expiry: 0 };
@@ -19,7 +18,7 @@ export default async function handler(req, res) {
     try {
       const nf = await import("node-fetch");
       fetchFn = nf.default || nf;
-    } catch (e) {
+    } catch {
       return res.status(500).json({ error: "No fetch available" });
     }
   }
@@ -38,12 +37,16 @@ export default async function handler(req, res) {
     const ghResp = await fetchFn(ghUrl, {
       headers: {
         Accept: "application/vnd.github.v3+json",
-        ...(process.env.GITHUB_TOKEN ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {}),
+        ...(process.env.GITHUB_TOKEN
+          ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` }
+          : {}),
       },
     });
 
     if (!ghResp.ok) {
-      return res.status(500).json({ error: `GitHub API error: ${ghResp.status}` });
+      return res
+        .status(500)
+        .json({ error: `GitHub API error: ${ghResp.status}` });
     }
 
     const files = await ghResp.json();
@@ -51,20 +54,30 @@ export default async function handler(req, res) {
       return res.status(500).json({ error: "Invalid GitHub API response" });
     }
 
+    // ✅ Only JSON movie files
     const jsonFiles = files
       .filter((f) => f && f.type === "file" && f.name.endsWith(".json"))
       .map((f) => f.name);
 
     if (jsonFiles.length === 0) {
-      return res.status(200).json({ "Recently added": [], total: 0, total_pages: 0, page: 1 });
+      return res.status(200).json({
+        "Recently added": [],
+        total: 0,
+        total_pages: 0,
+        page: 1,
+      });
     }
 
-    // ✅ 2. Get last commit date
+    // ✅ 2. Get last commit date for a file
     async function getLastCommitDate(file) {
       const commitsUrl = `https://api.github.com/repos/${GITHUB_REPO}/commits?path=data/movies/${file}&sha=${GITHUB_BRANCH}&per_page=1`;
       try {
         const r = await fetchFn(commitsUrl, {
-          headers: { ...(process.env.GITHUB_TOKEN ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {}) },
+          headers: {
+            ...(process.env.GITHUB_TOKEN
+              ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` }
+              : {}),
+          },
         });
         if (r.ok) {
           const data = await r.json();
@@ -76,63 +89,46 @@ export default async function handler(req, res) {
       return DEFAULT_FIRST_AIR;
     }
 
-    // ✅ 3. Fetch JSON (Netlify → GitHub raw)
-    async function fetchMovieJson(file) {
-      const netlifyUrl = `${NETLIFY_BASE}${encodeURIComponent(file)}`;
-      try {
-        const r = await fetchFn(netlifyUrl, { cache: "no-store" });
-        if (r.ok) return await r.json();
-      } catch {}
-      const rawUrl = `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/data/movies/${encodeURIComponent(file)}`;
-      try {
-        const r2 = await fetchFn(rawUrl, { cache: "no-store" });
-        if (r2.ok) return await r2.json();
-      } catch {}
-      return null;
-    }
-
-    // ✅ 4. Collect metadata
+    // ✅ 3. Collect lightweight metadata (title from filename + URL)
     const moviesData = [];
     for (const file of jsonFiles) {
-      const [commitDate, data] = await Promise.all([getLastCommitDate(file), fetchMovieJson(file)]);
-      if (!data) continue;
+      const commitDate = await getLastCommitDate(file);
 
-      const title = data.title || data.name || file.replace(/\.json$/i, "");
-      const link = data.scrapedFrom || data.link || "#";
-      const date_or_year = data.meta?.firstAirDate || data.year || "Unknown";
-      const original_image = data.meta?.poster || data.poster || null;
-
-      // ✅ Ratings handling
-      const ratings = {};
-      if (data["IMDb Rating"]) ratings.imdb = data["IMDb Rating"];
-      if (data["TMDb Rating"]) ratings.tmdb = data["TMDb Rating"];
-      if (data.rating) ratings.other = data.rating;
-      if (data.meta?.rating) ratings.meta = data.meta.rating;
+      const title = file.replace(/\.json$/i, "").replace(/[-_]/g, " ");
+      const link = `/data/movies/${file}`; // direct JSON link (frontend fetch full data)
 
       moviesData.push({
         title,
-        link,
-        date_or_year,
-        ratings: Object.keys(ratings).length > 0 ? ratings : { info: "Unknown" },
-        original_image,
+        url: link,
         last_updated: safeIsoDate(commitDate),
       });
     }
 
-    // ✅ 5. Sort by last commit date
+    // ✅ 4. Sort by last commit date
     const sortedMovies = moviesData.sort(
-      (a, b) => new Date(b.last_updated).getTime() - new Date(a.last_updated).getTime()
+      (a, b) =>
+        new Date(b.last_updated).getTime() -
+        new Date(a.last_updated).getTime()
     );
+
+    // ✅ 5. Search
+    let filtered = sortedMovies;
+    if (req.query.q) {
+      const q = req.query.q.toLowerCase();
+      filtered = sortedMovies.filter((m) =>
+        m.title.toLowerCase().includes(q)
+      );
+    }
 
     // ✅ 6. Pagination
     const perPage = parseInt(req.query.limit || "20", 10);
     const page = parseInt(req.query.page || "1", 10);
-    const total = sortedMovies.length;
+    const total = filtered.length;
     const totalPages = Math.ceil(total / perPage);
 
     const start = (page - 1) * perPage;
     const end = start + perPage;
-    const paginated = sortedMovies.slice(start, end);
+    const paginated = filtered.slice(start, end);
 
     const responseData = {
       total,
