@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-fountain/",
+  "meta": {
+    "title": "The Fountain",
+    "poster": "https://image.tmdb.org/t/p/w500/4XTf8GuCVLWolubANaKkpk62YPq.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Nov. 22, 2006",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.",
+    "infoFields": {
+      "Original title": "The Fountain",
+      "TMDb Rating": "6.9 2,891 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Darren Aronofsky",
+      "role": "Director",
+      "url": "https://multimovies.city/director/darren-aronofsky/",
+      "image": "https://image.tmdb.org/t/p/w92/tOjz8mVI2HeQBvU6KNjIExMBsXL.jpg"
+    },
+    {
+      "name": "Hugh Jackman",
+      "role": "Tom\u00e1s / Tom Creo / Tommy",
+      "url": "https://multimovies.city/cast/hugh-jackman/",
+      "image": "https://image.tmdb.org/t/p/w92/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "name": "Rachel Weisz",
+      "role": "Isabel / Izzi Creo",
+      "url": "https://multimovies.city/cast/rachel-weisz/",
+      "image": "https://image.tmdb.org/t/p/w92/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+    },
+    {
+      "name": "Ellen Burstyn",
+      "role": "Dr. Lillian Guzetti",
+      "url": "https://multimovies.city/cast/ellen-burstyn/",
+      "image": "https://image.tmdb.org/t/p/w92/uEHZoAtCnGCXvQDHe3s3DWW2G1c.jpg"
+    },
+    {
+      "name": "Mark Margolis",
+      "role": "Father Avila",
+      "url": "https://multimovies.city/cast/mark-margolis/",
+      "image": "https://image.tmdb.org/t/p/w92/rT5TYJIPLBkTqsrUs00AixGeaMM.jpg"
+    },
+    {
+      "name": "Stephen McHattie",
+      "role": "Grand Inquisitor Silecio",
+      "url": "https://multimovies.city/cast/stephen-mchattie/",
+      "image": "https://image.tmdb.org/t/p/w92/zqOwiEDXYM9AKQgHGJGeIp7QkPh.jpg"
+    },
+    {
+      "name": "Fernando Hern\u00e1ndez",
+      "role": "Lord of Xibalba",
+      "url": "https://multimovies.city/cast/fernando-hernandez/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Cliff Curtis",
+      "role": "Captain Ariel",
+      "url": "https://multimovies.city/cast/cliff-curtis/",
+      "image": "https://image.tmdb.org/t/p/w92/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
+    },
+    {
+      "name": "Sean Patrick Thomas",
+      "role": "Antonio",
+      "url": "https://multimovies.city/cast/sean-patrick-thomas/",
+      "image": "https://image.tmdb.org/t/p/w92/59Mqg13DVutKEN4ZmkG8O814uKg.jpg"
+    },
+    {
+      "name": "Donna Murphy",
+      "role": "Betty",
+      "url": "https://multimovies.city/cast/donna-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/tmre2oZkIHGqnLhWeldpX2Ujgl0.jpg"
+    },
+    {
+      "name": "Ethan Suplee",
+      "role": "Manny",
+      "url": "https://multimovies.city/cast/ethan-suplee/",
+      "image": "https://image.tmdb.org/t/p/w92/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9RNJ0pKYA8EQiMa0lFZ68gzeElH.jpg",
+    "https://image.tmdb.org/t/p/w300/aGeXQr3V4sfo7Eb7AlRYm9VTIlE.jpg",
+    "https://image.tmdb.org/t/p/w300/6RZpbG2BfKbBtYuz7LHVVYoGwoq.jpg",
+    "https://image.tmdb.org/t/p/w300/iv06YJjAugHpXs6bUXRgClO4GcO.jpg",
+    "https://image.tmdb.org/t/p/w300/1WdrPAHs9a8JnYLiCnVKoESQWkc.jpg",
+    "https://image.tmdb.org/t/p/w300/drk2AC8pFv9pG82GLJ4FGVJtP5K.jpg",
+    "https://image.tmdb.org/t/p/w300/jZEjElQwPPeOhsRnYUg4QJAjCbh.jpg",
+    "https://image.tmdb.org/t/p/w300/zGN3oWZ9toIFjgAwAc2Xswt8t0g.jpg",
+    "https://image.tmdb.org/t/p/w300/7tkmiHxjd6L7ehoCu5rRP4ezTOx.jpg",
+    "https://image.tmdb.org/t/p/w300/wLTF37TRXssLPGsO8B1E4q4LPlI.jpg"
+  ],
+  "similar": [],
+  "views": 926,
+  "sources": [
+    "https://www.youtube.com/embed/pT1B1ykme2M?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/nfjb95c"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 92113,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 92113,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:06:52.478518"
+}
