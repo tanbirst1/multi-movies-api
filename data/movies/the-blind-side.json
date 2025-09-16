@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-blind-side/",
+  "meta": {
+    "title": "The Blind Side",
+    "poster": "https://image.tmdb.org/t/p/w500/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 20, 2009",
+    "ratingValue": "7.9",
+    "ratingCount": "8",
+    "synopsis": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",
+    "infoFields": {
+      "Original title": "The Blind Side",
+      "IMDb Rating": "7.6 342,415 votes",
+      "TMDb Rating": "7.7 5,613 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John Lee Hancock",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-lee-hancock/",
+      "image": "https://image.tmdb.org/t/p/w92/ytGKxuC1sFUmd68jUwDA37Jn0LG.jpg"
+    },
+    {
+      "name": "Sandra Bullock",
+      "role": "Leigh Anne Tuohy",
+      "url": "https://multimovies.city/cast/sandra-bullock/",
+      "image": "https://image.tmdb.org/t/p/w92/u2tnZ0L2dwrzFKevVANYT5Pb1nE.jpg"
+    },
+    {
+      "name": "Tim McGraw",
+      "role": "Sean Tuohy",
+      "url": "https://multimovies.city/cast/tim-mcgraw/",
+      "image": "https://image.tmdb.org/t/p/w92/prKoPyWZDQYHZeTmFqvMW0EFWDB.jpg"
+    },
+    {
+      "name": "Quinton Aaron",
+      "role": "Michael Oher",
+      "url": "https://multimovies.city/cast/quinton-aaron/",
+      "image": "https://image.tmdb.org/t/p/w92/AvmNkbRAX1oOecrldWuwvRmDZGw.jpg"
+    },
+    {
+      "name": "Jae Head",
+      "role": "S.J. Tuohy",
+      "url": "https://multimovies.city/cast/jae-head/",
+      "image": "https://image.tmdb.org/t/p/w92/nNh2DiYXZneyeiYDitKT6s1AwEy.jpg"
+    },
+    {
+      "name": "Lily Collins",
+      "role": "Collins Tuohy",
+      "url": "https://multimovies.city/cast/lily-collins/",
+      "image": "https://image.tmdb.org/t/p/w92/aFSZkMNjmDR07JtkvhcbLAbDAMx.jpg"
+    },
+    {
+      "name": "Ray McKinnon",
+      "role": "Coach Cotton",
+      "url": "https://multimovies.city/cast/ray-mckinnon/",
+      "image": "https://image.tmdb.org/t/p/w92/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+    },
+    {
+      "name": "Kim Dickens",
+      "role": "Mrs. Boswell",
+      "url": "https://multimovies.city/cast/kim-dickens/",
+      "image": "https://image.tmdb.org/t/p/w92/bYIQGHeSIt4G2tLrLt61FJ2CD7h.jpg"
+    },
+    {
+      "name": "Adriane Lenox",
+      "role": "Denise Oher",
+      "url": "https://multimovies.city/cast/adriane-lenox/",
+      "image": "https://image.tmdb.org/t/p/w92/6uwcIdXFMCZntOxpEjiNOZfYbDv.jpg"
+    },
+    {
+      "name": "Kathy Bates",
+      "role": "Miss Sue",
+      "url": "https://multimovies.city/cast/kathy-bates/",
+      "image": "https://image.tmdb.org/t/p/w92/3MsayDvY73uXGVbCFHyy1ABTacV.jpg"
+    },
+    {
+      "name": "Catherine Dyer",
+      "role": "Mrs. Smith",
+      "url": "https://multimovies.city/cast/catherine-dyer/",
+      "image": "https://image.tmdb.org/t/p/w92/tMZkfDMu7U6IcIE9hx4NlJJIB39.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zndjQ64SrM5Bo6xMuofCYP8yBhd.jpg",
+    "https://image.tmdb.org/t/p/w300/hXx7BOsj0B5GHSiqFvAvqAvK4kj.jpg",
+    "https://image.tmdb.org/t/p/w300/9i4MsFW0y7HR013WArZwpdasC74.jpg",
+    "https://image.tmdb.org/t/p/w300/5P6hWD4zxAMntRuRnB4MmPLijNw.jpg",
+    "https://image.tmdb.org/t/p/w300/68WeBV6mq5uQnv0jpgtA1NgTkL9.jpg",
+    "https://image.tmdb.org/t/p/w300/lX6IBaC4Z6wWRvB3LudAJXcBPxS.jpg",
+    "https://image.tmdb.org/t/p/w300/hzNfCCcg4J9g2qnUovgV37wUSZZ.jpg",
+    "https://image.tmdb.org/t/p/w300/qMOzzTSMKOLcnKiUjQuQyvg9T6p.jpg",
+    "https://image.tmdb.org/t/p/w300/n0Xb2cdFc4JK0MAye3mlJxLE326.jpg",
+    "https://image.tmdb.org/t/p/w300/pGKsqiU6p1DsgqBbEaGqRFEtJgA.jpg"
+  ],
+  "similar": [],
+  "views": 6696,
+  "sources": [
+    "https://www.youtube.com/embed/KA56LqFszYI?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/2n4e1yl946e9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6085,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6085,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:34:21.419736"
+}
