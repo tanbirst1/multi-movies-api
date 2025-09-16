@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/cashback/",
+  "meta": {
+    "title": "Cashback",
+    "poster": "https://image.tmdb.org/t/p/w500/xghcRxElKCyHU2RqjXWZiDlLZGM.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jan. 17, 2007",
+    "ratingValue": "4",
+    "ratingCount": "6",
+    "synopsis": "After a painful breakup, Ben develops insomnia. To kill time, he starts working the late night shift at the local supermarket, where his artistic imagination runs wild.",
+    "infoFields": {
+      "Original title": "Cashback",
+      "IMDb Rating": "7.1 92,333 votes",
+      "TMDb Rating": "6.9 1,252 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sean Ellis",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sean-ellis/",
+      "image": "https://image.tmdb.org/t/p/w92/b0YRn81Hxm1Lcsfzuctl9wSpJoB.jpg"
+    },
+    {
+      "name": "Sean Biggerstaff",
+      "role": "Ben Willis",
+      "url": "https://multimovies.city/cast/sean-biggerstaff/",
+      "image": "https://image.tmdb.org/t/p/w92/6g9cQWg3ikD3xboDtyF8qKdpmgl.jpg"
+    },
+    {
+      "name": "Emilia Fox",
+      "role": "Sharon Pintey",
+      "url": "https://multimovies.city/cast/emilia-fox/",
+      "image": "https://image.tmdb.org/t/p/w92/lZpNRsHAOW8m0f7bRfgUDmRRjo.jpg"
+    },
+    {
+      "name": "Shaun Evans",
+      "role": "Sean Higgins",
+      "url": "https://multimovies.city/cast/shaun-evans/",
+      "image": "https://image.tmdb.org/t/p/w92/tB6pnTyN8zOxCKneCERNVLnbSTs.jpg"
+    },
+    {
+      "name": "Michael Dixon",
+      "role": "Barry Brickman",
+      "url": "https://multimovies.city/cast/michael-dixon/",
+      "image": "https://image.tmdb.org/t/p/w92/zDxnPEgYE2CC777IjZ8oW6yWlVl.jpg"
+    },
+    {
+      "name": "Michelle Ryan",
+      "role": "Suzy",
+      "url": "https://multimovies.city/cast/michelle-ryan/",
+      "image": "https://image.tmdb.org/t/p/w92/ku4bB0mkNqIxrq9inHMurh81ZHg.jpg"
+    },
+    {
+      "name": "Stuart Goodwin",
+      "role": "Jenkins",
+      "url": "https://multimovies.city/cast/stuart-goodwin/",
+      "image": "https://image.tmdb.org/t/p/w92/qZIr20nzz7haX5hTklBtUS8mnIj.jpg"
+    },
+    {
+      "name": "Frank Hesketh",
+      "role": "Young Ben Willis",
+      "url": "https://multimovies.city/cast/frank-hesketh/",
+      "image": "https://image.tmdb.org/t/p/w92/snVQMxV6lDNYttfM4EBuINPhFsv.jpg"
+    },
+    {
+      "name": "Daphne Guinness",
+      "role": "Anna Shapiro",
+      "url": "https://multimovies.city/cast/daphne-guinness/",
+      "image": "https://image.tmdb.org/t/p/w92/bgM7RKuw4hUyckJIjtiyNNpIhT2.jpg"
+    },
+    {
+      "name": "Jay Bowen",
+      "role": "Steve Jenkins",
+      "url": "https://multimovies.city/cast/jay-bowen/",
+      "image": "https://image.tmdb.org/t/p/w92/u8wKGJrXYolSfUfAFrnCj4p4uZX.jpg"
+    },
+    {
+      "name": "Irene Bagach",
+      "role": "Frozen Beautiful Girl",
+      "url": "https://multimovies.city/cast/irene-bagach/",
+      "image": "https://image.tmdb.org/t/p/w92/1366a6IB8vReSpJBYIOGmTHPIOh.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/pdSSDEVXjE5DZxFdX3kpjZywNrv.jpg",
+    "https://image.tmdb.org/t/p/w300/3g8KRLnSoyG2vV7HctDPBsEqbFb.jpg",
+    "https://image.tmdb.org/t/p/w300/7iKzyV07yaFLJ7CMv6011QYOfLN.jpg",
+    "https://image.tmdb.org/t/p/w300/74K96P8QckIQ35FdyX0qzRUHii7.jpg",
+    "https://image.tmdb.org/t/p/w300/y42XRbrHqJoof1Ob4h9lKgGeRih.jpg"
+  ],
+  "similar": [],
+  "views": 14257,
+  "sources": [
+    "https://www.youtube.com/embed/8BtOX4qwe40?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ikquw9p"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 51528,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 51528,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:10:58.724930"
+}
