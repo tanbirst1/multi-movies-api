@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/scream-2/",
+  "meta": {
+    "title": "Scream",
+    "poster": "https://image.tmdb.org/t/p/w500/3O3klyyYpAZBBE4n7IngzTomRDp.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Dec. 20, 1996",
+    "ratingValue": "9.3",
+    "ratingCount": "3",
+    "synopsis": "After a series of mysterious deaths befalls their small town, an offbeat group of friends become the target of a masked killer.",
+    "infoFields": {
+      "Original title": "Scream",
+      "IMDb Rating": "7.4 363,633 votes",
+      "TMDb Rating": "7.393 5,895 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Wes Craven",
+      "role": "Director",
+      "url": "https://multimovies.city/director/wes-craven/",
+      "image": "https://image.tmdb.org/t/p/w92/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg"
+    },
+    {
+      "name": "David Arquette",
+      "role": "Dewey Riley",
+      "url": "https://multimovies.city/cast/david-arquette/",
+      "image": "https://image.tmdb.org/t/p/w92/1C5sLNLNVZ3P8sMy7HUQ32IKdqX.jpg"
+    },
+    {
+      "name": "Neve Campbell",
+      "role": "Sidney Prescott",
+      "url": "https://multimovies.city/cast/neve-campbell/",
+      "image": "https://image.tmdb.org/t/p/w92/9fDbXBbrM6L10YrzDJUJowDt8U.jpg"
+    },
+    {
+      "name": "Courteney Cox",
+      "role": "Gale Weathers",
+      "url": "https://multimovies.city/cast/courteney-cox/",
+      "image": "https://image.tmdb.org/t/p/w92/3bTVQH9vBXAiwGVHXKLylStz4RT.jpg"
+    },
+    {
+      "name": "Matthew Lillard",
+      "role": "Stu Macher",
+      "url": "https://multimovies.city/cast/matthew-lillard/",
+      "image": "https://image.tmdb.org/t/p/w92/auUbijDzR9xpSgQtLsYDvNatloj.jpg"
+    },
+    {
+      "name": "Rose McGowan",
+      "role": "Tatum Riley",
+      "url": "https://multimovies.city/cast/rose-mcgowan/",
+      "image": "https://image.tmdb.org/t/p/w92/38zwwYnEWfATlVTSZ2tOSHtCd3k.jpg"
+    },
+    {
+      "name": "Skeet Ulrich",
+      "role": "Billy Loomis",
+      "url": "https://multimovies.city/cast/skeet-ulrich/",
+      "image": "https://image.tmdb.org/t/p/w92/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
+    },
+    {
+      "name": "Jamie Kennedy",
+      "role": "Randy Meeks",
+      "url": "https://multimovies.city/cast/jamie-kennedy/",
+      "image": "https://image.tmdb.org/t/p/w92/shm7XMZF9bfliTDahcjqplhMkMD.jpg"
+    },
+    {
+      "name": "W. Earl Brown",
+      "role": "Kenny Brown",
+      "url": "https://multimovies.city/cast/w-earl-brown/",
+      "image": "https://image.tmdb.org/t/p/w92/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+    },
+    {
+      "name": "Liev Schreiber",
+      "role": "Cotton Weary",
+      "url": "https://multimovies.city/cast/liev-schreiber/",
+      "image": "https://image.tmdb.org/t/p/w92/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+    },
+    {
+      "name": "Joseph Whipp",
+      "role": "Sheriff Burke",
+      "url": "https://multimovies.city/cast/joseph-whipp/",
+      "image": "https://image.tmdb.org/t/p/w92/1ZRu1apOXYDvNjhci0wzXdtlOlW.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+    "https://image.tmdb.org/t/p/w300/g5ktyPafmGmXZKEbZDbvb7dS9Cc.jpg",
+    "https://image.tmdb.org/t/p/w300/6kqofCrSkuVlRYw2pHkwvUX5BdS.jpg",
+    "https://image.tmdb.org/t/p/w300/cfATFuwBQn27Fm6OPDMwBToS3tQ.jpg",
+    "https://image.tmdb.org/t/p/w300/ln92j8nKhxnnGxpeTa3L8zKjJyS.jpg",
+    "https://image.tmdb.org/t/p/w300/wT30bGBvr7vseeFNK9m4DFFC9jR.jpg",
+    "https://image.tmdb.org/t/p/w300/7ZigA0vEuUMDXeZdo8ltjov8oRB.jpg",
+    "https://image.tmdb.org/t/p/w300/8m7Qhs1sZF83YLUBSgDd0tmd46j.jpg",
+    "https://image.tmdb.org/t/p/w300/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+    "https://image.tmdb.org/t/p/w300/tZQHWBEELxJCAL8bqfk1LFt0OVd.jpg"
+  ],
+  "similar": [],
+  "views": 2595,
+  "sources": [
+    "https://www.youtube.com/embed/xRqAmYpV_Ts?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/qcsaymd2mw6d",
+    "https://sbplay.org/embed-5kpy65ya7tdj.html",
+    "https://dood.la/e/s0w2ez87ucdt",
+    "https://mixdrop.co/e/qlq6e9kpuvwq0z",
+    "https://hydrax.net/watch?v=4T5olovx-W"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 19822,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 19822,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 19822,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 19822,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 19822,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 19822,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
