@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/love-actually/",
+  "meta": {
+    "title": "Love Actually",
+    "poster": "https://image.tmdb.org/t/p/w500/1ODdWLpyOnIVl0l67GrdaFDlJGf.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Sep. 07, 2003",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Eight London couples try to deal with their relationships in different ways. Their tryst with love makes them discover how complicated relationships can be.",
+    "infoFields": {
+      "Original title": "Love Actually",
+      "IMDb Rating": "7.6 531,882 votes",
+      "TMDb Rating": "7.115 6,450 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Richard Curtis",
+      "role": "Director",
+      "url": "https://multimovies.city/director/richard-curtis/",
+      "image": "https://image.tmdb.org/t/p/w92/dLhFfcHJvOLzzykO3LYkinXJUA1.jpg"
+    },
+    {
+      "name": "Alan Rickman",
+      "role": "Harry",
+      "url": "https://multimovies.city/cast/alan-rickman/",
+      "image": "https://image.tmdb.org/t/p/w92/wo4ckFUWfixbW7i28ebOtBK4qpd.jpg"
+    },
+    {
+      "name": "Bill Nighy",
+      "role": "Billy Mack",
+      "url": "https://multimovies.city/cast/bill-nighy/",
+      "image": "https://image.tmdb.org/t/p/w92/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "name": "Colin Firth",
+      "role": "Jamie Bennett",
+      "url": "https://multimovies.city/cast/colin-firth/",
+      "image": "https://image.tmdb.org/t/p/w92/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+    },
+    {
+      "name": "Emma Thompson",
+      "role": "Karen",
+      "url": "https://multimovies.city/cast/emma-thompson/",
+      "image": "https://image.tmdb.org/t/p/w92/xr8Ki3CIqweWWqS5q0kUYdiK6oQ.jpg"
+    },
+    {
+      "name": "Hugh Grant",
+      "role": "The Prime Minister",
+      "url": "https://multimovies.city/cast/hugh-grant/",
+      "image": "https://image.tmdb.org/t/p/w92/tUHkXYdwm405DjBm2IpPxGjYkjj.jpg"
+    },
+    {
+      "name": "Laura Linney",
+      "role": "Sarah",
+      "url": "https://multimovies.city/cast/laura-linney/",
+      "image": "https://image.tmdb.org/t/p/w92/ztQXGmNLzhDV22rAvcXzCG4d0cy.jpg"
+    },
+    {
+      "name": "Liam Neeson",
+      "role": "Daniel",
+      "url": "https://multimovies.city/cast/liam-neeson/",
+      "image": "https://image.tmdb.org/t/p/w92/bboldwqSC6tdw2iL6631c98l2Mn.jpg"
+    },
+    {
+      "name": "Martine McCutcheon",
+      "role": "Natalie",
+      "url": "https://multimovies.city/cast/martine-mccutcheon/",
+      "image": "https://image.tmdb.org/t/p/w92/zhc5UekBu66cLXxy5gJgjwn5D5m.jpg"
+    },
+    {
+      "name": "Andrew Lincoln",
+      "role": "Mark",
+      "url": "https://multimovies.city/cast/andrew-lincoln/",
+      "image": "https://image.tmdb.org/t/p/w92/gwUZjA4GOxalzxqn1gi9VgRiZOu.jpg"
+    },
+    {
+      "name": "Keira Knightley",
+      "role": "Juliet",
+      "url": "https://multimovies.city/cast/keira-knightley/",
+      "image": "https://image.tmdb.org/t/p/w92/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+    "https://image.tmdb.org/t/p/w300/4Sn0M0Dv0iL5Tkl2dWko9oilcFL.jpg",
+    "https://image.tmdb.org/t/p/w300/uMZNQNKDVfvzw77TGc9brbZ8LiS.jpg",
+    "https://image.tmdb.org/t/p/w300/erq91NG71GT1SWG2uzuxrEBgP5K.jpg",
+    "https://image.tmdb.org/t/p/w300/dgUJHy2EUBGjWAH6XSl5QHqLXT0.jpg",
+    "https://image.tmdb.org/t/p/w300/e3SvwuaXg9ZJi4HX5p9kFDBCrs7.jpg",
+    "https://image.tmdb.org/t/p/w300/7N4YGW93gpkgt1o5xrhdaCOfouA.jpg",
+    "https://image.tmdb.org/t/p/w300/4rols69taYhDeRaWF2ly9JHcSqv.jpg",
+    "https://image.tmdb.org/t/p/w300/m6nu8zSTAXm0iVbbgSx4rCpGf4s.jpg",
+    "https://image.tmdb.org/t/p/w300/c9HtnVGff61gsGdSnHBqJxQrW2g.jpg"
+  ],
+  "similar": [],
+  "views": 1177,
+  "sources": [
+    "https://www.youtube.com/embed/H9Z3_ifFheQ?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/8tkiniu52fru"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 51592,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 51592,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:46:51.310095"
+}
