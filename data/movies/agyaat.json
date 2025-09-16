@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/agyaat/",
+  "meta": {
+    "title": "Agyaat",
+    "poster": "https://image.tmdb.org/t/p/w500/d1v7dk1f1N2OfxQtD8q4w2XKnX7.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "South Indian",
+        "url": "https://multimovies.city/genre/south-indian/"
+      }
+    ],
+    "firstAirDate": "Aug. 07, 2009",
+    "ratingValue": "2",
+    "ratingCount": "1",
+    "synopsis": "A film unit goes for a shoot deep into a forest, they settle at a place with bare minimal facilities run by a strange and quirky man called Setu.",
+    "infoFields": {
+      "Original title": "\u0905\u091c\u094d\u091e\u093e\u0924",
+      "IMDb Rating": "3 747 votes",
+      "TMDb Rating": "3.4 8 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ram Gopal Varma",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ram-gopal-varma/",
+      "image": "https://image.tmdb.org/t/p/w92/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg"
+    },
+    {
+      "name": "Nithiin",
+      "role": "Sujal",
+      "url": "https://multimovies.city/cast/nithiin/",
+      "image": "https://image.tmdb.org/t/p/w92/dc3SkHyhZbWluuOlwmWICzR1QmA.jpg"
+    },
+    {
+      "name": "Gautam Rode",
+      "role": "Sharman",
+      "url": "https://multimovies.city/cast/gautam-rode/",
+      "image": "https://image.tmdb.org/t/p/w92/75BIJJp1zEoAPlEUGH03PBBNXYp.jpg"
+    },
+    {
+      "name": "Priyanka Kothari",
+      "role": "Aasha",
+      "url": "https://multimovies.city/cast/priyanka-kothari/",
+      "image": "https://image.tmdb.org/t/p/w92/uQahG06jNs63mOkRjDYvRhUMbGu.jpg"
+    },
+    {
+      "name": "Rasika Dugal",
+      "role": "Sameera",
+      "url": "https://multimovies.city/cast/rasika-dugal/",
+      "image": "https://image.tmdb.org/t/p/w92/cMJP2OEOrKwF05BFh3zI3TyS5Ft.jpg"
+    },
+    {
+      "name": "Ishtiyak Khan",
+      "role": "Laxman",
+      "url": "https://multimovies.city/cast/ishtiyak-khan/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ishrat Ali",
+      "role": "Moorthy",
+      "url": "https://multimovies.city/cast/ishrat-ali/",
+      "image": "https://image.tmdb.org/t/p/w92/tP8pNnCwpqQOWSoJ3RDQF0RUQlQ.jpg"
+    },
+    {
+      "name": "Ravi Kale",
+      "role": "Rakka",
+      "url": "https://multimovies.city/cast/ravi-kale/",
+      "image": "https://image.tmdb.org/t/p/w92/7QWF6ine4pE2RdCHJpXa2shQVCK.jpg"
+    },
+    {
+      "name": "Howard Rosemeyer",
+      "role": "JJ",
+      "url": "https://multimovies.city/cast/howard-rosemeyer/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kali Prasad Mukherjee",
+      "role": "Shakky",
+      "url": "https://multimovies.city/cast/kali-prasad-mukherjee/",
+      "image": "https://image.tmdb.org/t/p/w92/1eVeiZooLgT2r24M6dAZEhNc76h.jpg"
+    },
+    {
+      "name": "Joy Fernandes",
+      "role": "Setu",
+      "url": "https://multimovies.city/cast/joy-fernandes/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://m.media-amazon.com/images/S/pv-target-images/3132f307c62b9905f98fd9965b22320919f385fe8d2a3267646faec619ce2332.jpg"
+  ],
+  "similar": [],
+  "views": 522,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/in7x7lc"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 72261,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:32:48.151776"
+}
