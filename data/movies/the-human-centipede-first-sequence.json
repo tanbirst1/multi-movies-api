@@ -1,0 +1,109 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-human-centipede-first-sequence/",
+  "meta": {
+    "title": "The Human Centipede (First Sequence)",
+    "poster": "https://image.tmdb.org/t/p/w500/gMtjxIkEi0hnTV5lPHbgeZ4ZpUZ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Oct. 31, 2009",
+    "ratingValue": "9.7",
+    "ratingCount": "3",
+    "synopsis": "During a stopover in Germany in the middle of a carefree road trip through Europe, two American girls find themselves alone at night when their car breaks down in the woods. Searching for help at a nearby villa, they are wooed into the clutches of a deranged retired surgeon who explains his mad scientific vision to his captives\u2019 utter horror. They are to be the subjects of his sick lifetime fantasy: to be the first to connect people, one to the next, and in doing so bring to life \u201cthe human centipede.\u201d",
+    "infoFields": {
+      "Original title": "The Human Centipede (First Sequence)",
+      "IMDb Rating": "4.4 86,546 votes",
+      "TMDb Rating": "5.246 2,057 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tom Six",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tom-six/",
+      "image": "https://image.tmdb.org/t/p/w92/rp9BA1HtLeiAWOzM4IbrfrfLJ0l.jpg"
+    },
+    {
+      "name": "Dieter Laser",
+      "role": "Dr. Heiter",
+      "url": "https://multimovies.city/cast/dieter-laser/",
+      "image": "https://image.tmdb.org/t/p/w92/xBhIIbhkFV0M0WRBokHXPS7zUYq.jpg"
+    },
+    {
+      "name": "Ashley C. Williams",
+      "role": "Lindsay",
+      "url": "https://multimovies.city/cast/ashley-c-williams/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ashlynn Yennie",
+      "role": "Jenny",
+      "url": "https://multimovies.city/cast/ashlynn-yennie/",
+      "image": "https://image.tmdb.org/t/p/w92/8GIgCCdqxFfSeNEagpvKPBjSWDm.jpg"
+    },
+    {
+      "name": "Akihiro Kitamura",
+      "role": "Katsuro",
+      "url": "https://multimovies.city/cast/akihiro-kitamura/",
+      "image": "https://image.tmdb.org/t/p/w92/yBhgkJIUwqqtrW7fn5jU2hHU0AW.jpg"
+    },
+    {
+      "name": "Andreas Leupold",
+      "role": "Detective Kranz",
+      "url": "https://multimovies.city/cast/andreas-leupold/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Peter Blankenstein",
+      "role": "Detective Voller",
+      "url": "https://multimovies.city/cast/peter-blankenstein/",
+      "image": "https://image.tmdb.org/t/p/w92/4A9KOpUlQOlj0AzqmCMHjSBGP0v.jpg"
+    },
+    {
+      "name": "Rosemary Annabella",
+      "role": "Amy (voice)",
+      "url": "https://multimovies.city/cast/rosemary-annabella/",
+      "image": "https://image.tmdb.org/t/p/w92/6YuAv3gdBoIgw4ESX29xz2cXHOB.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zq1gg17cE6wu139QAbkCvAXJsUH.jpg",
+    "https://image.tmdb.org/t/p/w300/l212Ivv1ZDyvT16Gfn1ASzUzF0f.jpg",
+    "https://image.tmdb.org/t/p/w300/yvoSIOmM5wRetNJmygbKaCt6P40.jpg",
+    "https://image.tmdb.org/t/p/w300/wubUakLEAAnKeXmuTks5insTKQx.jpg",
+    "https://image.tmdb.org/t/p/w300/jRzDVPKRrtsPAjVax1mVfhxOZNk.jpg",
+    "https://image.tmdb.org/t/p/w300/fCGVlshZ1TTBq9k4PVlQbUL0kRU.jpg"
+  ],
+  "similar": [],
+  "views": 12583,
+  "sources": [
+    "https://www.youtube.com/embed/glfBurdSUS8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/13917py733zc"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 43623,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 43623,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:34:51.900524"
+}
