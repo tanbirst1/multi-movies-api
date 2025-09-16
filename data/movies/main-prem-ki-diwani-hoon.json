@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/main-prem-ki-diwani-hoon/",
+  "meta": {
+    "title": "Main Prem Ki Diwani Hoon",
+    "poster": "https://image.tmdb.org/t/p/w500/1ubxLXZbSXi3MWk8nZRBDEoqfB0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 26, 2003",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Main Prem Ki Diwani Hoon is the story of Sanjana (Kareena Kapoor), a girl of today\u2019s generation full of life and vibrant ecstasy. She lives life on her own terms and gets very upset when her mother Susheela (Himani Shivpuri), arranges for her to see a boy leading to a marriage prospect.",
+    "infoFields": {
+      "Original title": "Main Prem Ki Diwani Hoon",
+      "TMDb Rating": "5.2 56 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sooraj Barjatya",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sooraj-barjatya/",
+      "image": "https://image.tmdb.org/t/p/w92/cayLTtN2H1ErYFySfznPkYGOdhA.jpg"
+    },
+    {
+      "name": "Hrithik Roshan",
+      "role": "Prem Kishan Mathur",
+      "url": "https://multimovies.city/cast/hrithik-roshan/",
+      "image": "https://image.tmdb.org/t/p/w92/5O7WrWe84WDFj7td64NVsobtHf3.jpg"
+    },
+    {
+      "name": "Kareena Kapoor Khan",
+      "role": "Sanjana",
+      "url": "https://multimovies.city/cast/kareena-kapoor-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/pJZJJ93NwJq3kb3RWtaZBYVga1x.jpg"
+    },
+    {
+      "name": "Abhishek Bachchan",
+      "role": "Prem Kumar",
+      "url": "https://multimovies.city/cast/abhishek-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/cALtfAvfUtS0Luf8MZaSiLfFRwd.jpg"
+    },
+    {
+      "name": "Himani Shivpuri",
+      "role": "Susheela",
+      "url": "https://multimovies.city/cast/himani-shivpuri/",
+      "image": "https://image.tmdb.org/t/p/w92/iEgl4ME7OfMJ8CVKxpeMiC4Wv5w.jpg"
+    },
+    {
+      "name": "Johnny Lever",
+      "role": "Johnny",
+      "url": "https://multimovies.city/cast/johnny-lever/",
+      "image": "https://image.tmdb.org/t/p/w92/kohAOhKr4HBln8b9P4i1kmMONyi.jpg"
+    },
+    {
+      "name": "Pankaj Kapur",
+      "role": "Satyaprakash",
+      "url": "https://multimovies.city/cast/pankaj-kapur/",
+      "image": "https://image.tmdb.org/t/p/w92/q1ILNa9c4bVT7sr6yE6TUzGYaPu.jpg"
+    },
+    {
+      "name": "Raju Srivastava",
+      "role": "Servant",
+      "url": "https://multimovies.city/cast/raju-srivastava/",
+      "image": "https://image.tmdb.org/t/p/w92/pQa5U3S8yKqVluEjZo89s5UwcB9.jpg"
+    },
+    {
+      "name": "Reema Lagoo",
+      "role": "Prem Kumar's Mother",
+      "url": "https://multimovies.city/cast/reema-lagoo/",
+      "image": "https://image.tmdb.org/t/p/w92/hQ5r2pPD8T94Dli5oNP6IlwEf1c.jpg"
+    },
+    {
+      "name": "Upasna Singh",
+      "role": "Secretary",
+      "url": "https://multimovies.city/cast/upasna-singh/",
+      "image": "https://image.tmdb.org/t/p/w92/1d22sfm4isBlg9q24YrcxxVDlFQ.jpg"
+    },
+    {
+      "name": "Tannaz Irani",
+      "role": "Roopa",
+      "url": "https://multimovies.city/cast/tannaz-irani/",
+      "image": "https://image.tmdb.org/t/p/w92/zKUiHDyMLOaeBNR58Un0NoeMhAV.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/sY9U6G7U2ee4QXds9jogoOZQHx3.jpg",
+    "https://image.tmdb.org/t/p/w300/r8ZW0BxvUwKV5E8COEyTRge3H1V.jpg",
+    "https://image.tmdb.org/t/p/w300/qIfnfdnmSd1oLwj2m6t0ZhXAEVv.jpg"
+  ],
+  "similar": [],
+  "views": 1684,
+  "sources": [
+    "https://www.youtube.com/embed/wzRNn-Yff6I?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/muystz7"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 91867,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 91867,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:42:43.465955"
+}
