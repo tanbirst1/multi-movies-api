@@ -4,15 +4,120 @@
   "meta": {
     "title": "Sorority Boys",
     "poster": "https://image.tmdb.org/t/p/w500/tN8HzauIioA4GUEyVV0ik0QGPkD.jpg",
-    "synopsis": "After being falsely accused of stealing the budget for their annual cocktail cruise, three very different fraternity brothers are kicked out of their dorm. In order to clear their name and to secure their future careers, the three dress up in drag and pledge the sorority next door where they learn a few valuable \u2013 and hilarious \u2013 lessons about themselves and the female species."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Mar. 22, 2002",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "After being falsely accused of stealing the budget for their annual cocktail cruise, three very different fraternity brothers are kicked out of their dorm. In order to clear their name and to secure their future careers, the three dress up in drag and pledge the sorority next door where they learn a few valuable \u2013 and hilarious \u2013 lessons about themselves and the female species.",
+    "infoFields": {
+      "Original title": "Sorority Boys",
+      "IMDb Rating": "5.4 16,329 votes",
+      "TMDb Rating": "5.454 230 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Wallace Wolodarsky",
+      "role": "Director",
+      "url": "https://multimovies.city/director/wallace-wolodarsky/",
+      "image": "https://image.tmdb.org/t/p/w92/a6npTg5wUQIHkyH17m5FPc9hJPV.jpg"
+    },
+    {
+      "name": "Barry Watson",
+      "role": "Dave / Daisey",
+      "url": "https://multimovies.city/cast/barry-watson/",
+      "image": "https://image.tmdb.org/t/p/w92/PjjFRCn8s8tgjO9nWmVlBVzpha.jpg"
+    },
+    {
+      "name": "Michael Rosenbaum",
+      "role": "Adam / Adina",
+      "url": "https://multimovies.city/cast/michael-rosenbaum/",
+      "image": "https://image.tmdb.org/t/p/w92/9a1wACjRIAg1cbTEsL5WrzPwnFi.jpg"
+    },
+    {
+      "name": "Harland Williams",
+      "role": "Doofer / Roberta",
+      "url": "https://multimovies.city/cast/harland-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/mnor1Hoy3kvTBygccBIVuyWfvge.jpg"
+    },
+    {
+      "name": "Melissa Sagemiller",
+      "role": "Leah",
+      "url": "https://multimovies.city/cast/melissa-sagemiller/",
+      "image": "https://image.tmdb.org/t/p/w92/s8JEuWY5wnrm5D0uZCh9ezYztx6.jpg"
+    },
+    {
+      "name": "Tony Denman",
+      "role": "Jimmy",
+      "url": "https://multimovies.city/cast/tony-denman/",
+      "image": "https://image.tmdb.org/t/p/w92/pHflMRqifW6jfmZ5MEwlX4Zun29.jpg"
+    },
+    {
+      "name": "Brad Beyer",
+      "role": "Spence",
+      "url": "https://multimovies.city/cast/brad-beyer/",
+      "image": "https://image.tmdb.org/t/p/w92/8c9M5MPYA5hFXHqmmoJSO0BBGTD.jpg"
+    },
+    {
+      "name": "Kathryn Stockwood",
+      "role": "Patty",
+      "url": "https://multimovies.city/cast/kathryn-stockwood/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Heather Matarazzo",
+      "role": "Katie",
+      "url": "https://multimovies.city/cast/heather-matarazzo/",
+      "image": "https://image.tmdb.org/t/p/w92/afZhMKmsAHZA9jHq7F9tNUFZci6.jpg"
+    },
+    {
+      "name": "Yvonne Sci\u00f2",
+      "role": "Frederique",
+      "url": "https://multimovies.city/cast/yvonne-scio/",
+      "image": "https://image.tmdb.org/t/p/w92/sIGxBizntdQVftxzYKvW2kdJF7M.jpg"
+    },
+    {
+      "name": "Kerri Higuchi",
+      "role": "Susie",
+      "url": "https://multimovies.city/cast/kerri-higuchi/",
+      "image": "https://image.tmdb.org/t/p/w92/1xEa8z1LoCu9miuxhhKx2DHWLdx.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ySYMPpD6eCBRD1YU1HK5ZKEN1gE.jpg",
+    "https://image.tmdb.org/t/p/w300/1DiMBHJkMnLiDLTTAoFQjcDlBpg.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 684,
+  "sources": [
+    "https://www.youtube.com/embed/1EX1nLDlBJM?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/9g40amyu9irl"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58904,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58904,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:31:25"
+  "last_update": "2025-09-16T17:33:12.927723"
 }
