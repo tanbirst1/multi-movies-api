@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-passion-of-the-christ/",
+  "meta": {
+    "title": "The Passion of the Christ",
+    "poster": "https://image.tmdb.org/t/p/w500/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 25, 2004",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A graphic portrayal of the last twelve hours of Jesus of Nazareth\u2019s life.",
+    "infoFields": {
+      "Original title": "The Passion of the Christ",
+      "IMDb Rating": "7.2 261,864 votes",
+      "TMDb Rating": "7.521 4,860 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mel Gibson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mel-gibson/",
+      "image": "https://image.tmdb.org/t/p/w92/bLzZZRyAsGJvQqsQ1hdptv93aIL.jpg"
+    },
+    {
+      "name": "Jim Caviezel",
+      "role": "Jesus",
+      "url": "https://multimovies.city/cast/jim-caviezel/",
+      "image": "https://image.tmdb.org/t/p/w92/3dwavYsGYA6zzzipfdLIHbudIZW.jpg"
+    },
+    {
+      "name": "Maia Morgenstern",
+      "role": "Maria",
+      "url": "https://multimovies.city/cast/maia-morgenstern/",
+      "image": "https://image.tmdb.org/t/p/w92/zmqKMZcT5z0QKwTTmmb9O0rekbt.jpg"
+    },
+    {
+      "name": "Christo Jivkov",
+      "role": "Juan",
+      "url": "https://multimovies.city/cast/christo-jivkov/",
+      "image": "https://image.tmdb.org/t/p/w92/iv8gzmS4gswtk5KZBwgITKtzpzm.jpg"
+    },
+    {
+      "name": "Francesco De Vito",
+      "role": "Pedro",
+      "url": "https://multimovies.city/cast/francesco-de-vito/",
+      "image": "https://image.tmdb.org/t/p/w92/s8uOepBCIS6dpZ0OnLjnjXjE6z2.jpg"
+    },
+    {
+      "name": "Monica Bellucci",
+      "role": "Magdalena",
+      "url": "https://multimovies.city/cast/monica-bellucci/",
+      "image": "https://image.tmdb.org/t/p/w92/euhMjVgdEGFm4AzjvB1b2oSMlLU.jpg"
+    },
+    {
+      "name": "Mattia Sbragia",
+      "role": "Caif\u00e1s",
+      "url": "https://multimovies.city/cast/mattia-sbragia/",
+      "image": "https://image.tmdb.org/t/p/w92/uQYa5QiHBMLZ0nAtnWEDMUwrTZa.jpg"
+    },
+    {
+      "name": "Toni Bertorelli",
+      "role": "An\u00e1s",
+      "url": "https://multimovies.city/cast/toni-bertorelli/",
+      "image": "https://image.tmdb.org/t/p/w92/4qhYeIKRHTJXqLAbqXTiFrRVOpL.jpg"
+    },
+    {
+      "name": "Luca Lionello",
+      "role": "Judas",
+      "url": "https://multimovies.city/cast/luca-lionello/",
+      "image": "https://image.tmdb.org/t/p/w92/tBjJS35BSvbPc0m5ApqTWq8St66.jpg"
+    },
+    {
+      "name": "Hristo Shopov",
+      "role": "Poncio Pilato",
+      "url": "https://multimovies.city/cast/hristo-shopov/",
+      "image": "https://image.tmdb.org/t/p/w92/5b3xNLQwZK15eUiy8QiTGQjJVCA.jpg"
+    },
+    {
+      "name": "Claudia Gerini",
+      "role": "Claudia Procles",
+      "url": "https://multimovies.city/cast/claudia-gerini/",
+      "image": "https://image.tmdb.org/t/p/w92/QFBen9LPrKuSr9awe0Go3gl6sG.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/pulJ1iY7GVeppMRipiR7ZGDW7EW.jpg",
+    "https://image.tmdb.org/t/p/w300/4840rkbpsiuow5ew155oVKcqJwj.jpg",
+    "https://image.tmdb.org/t/p/w300/pE3dLJJ55Y2eiO5s7wYe9J3qS63.jpg",
+    "https://image.tmdb.org/t/p/w300/7z4gDjetNQ3OJwBZ6iyf6gAARiB.jpg",
+    "https://image.tmdb.org/t/p/w300/fyJrIBwEBsQhrY1NKxFHm9OniqK.jpg",
+    "https://image.tmdb.org/t/p/w300/rplJDpuEI5Gr34LnKOl1XLg9zIT.jpg",
+    "https://image.tmdb.org/t/p/w300/tt6OzRhbLnDf0lObnZQ0PKkXxGt.jpg",
+    "https://image.tmdb.org/t/p/w300/kjY36Yj2ySqUqe0OMvAMtNn1zfS.jpg",
+    "https://image.tmdb.org/t/p/w300/iHlNai0XOImPMfvFpDkIXFM5XrK.jpg",
+    "https://image.tmdb.org/t/p/w300/7r36sdyShTCPzCTwm2wocffknNy.jpg"
+  ],
+  "similar": [],
+  "views": 931,
+  "sources": [
+    "https://www.youtube.com/embed/4Aif1qEB_JU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/lquuya7"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 86484,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 86484,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:44:30.059046"
+}
