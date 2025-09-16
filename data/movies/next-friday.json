@@ -4,15 +4,122 @@
   "meta": {
     "title": "Next Friday",
     "poster": "https://image.tmdb.org/t/p/w500/dP4fYCGQZzg17ta7FvLwJVCwwt9.jpg",
-    "synopsis": "A streetwise man flees South Central Los Angeles, heading to the suburbs and his lottery-winner uncle and cousin, to avoid a neighborhood thug with a grudge who has just escaped from prison."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jan. 12, 2000",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "A streetwise man flees South Central Los Angeles, heading to the suburbs and his lottery-winner uncle and cousin, to avoid a neighborhood thug with a grudge who has just escaped from prison.",
+    "infoFields": {
+      "Original title": "Next Friday",
+      "IMDb Rating": "6.1 46,229 votes",
+      "TMDb Rating": "6.447 601 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Frank Davis",
+      "role": "Director",
+      "url": "https://multimovies.city/director/frank-davis/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ice Cube",
+      "role": "Craig Jones",
+      "url": "https://multimovies.city/cast/ice-cube/",
+      "image": "https://image.tmdb.org/t/p/w92/ymR7Yll7HjL6i6Z3pt435hYi91T.jpg"
+    },
+    {
+      "name": "Mike Epps",
+      "role": "Day-Day",
+      "url": "https://multimovies.city/cast/mike-epps/",
+      "image": "https://image.tmdb.org/t/p/w92/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg"
+    },
+    {
+      "name": "Justin Pierce",
+      "role": "Roach",
+      "url": "https://multimovies.city/cast/justin-pierce/",
+      "image": "https://image.tmdb.org/t/p/w92/tBOf7ySDq5ETGxLcsXfoYM853Gg.jpg"
+    },
+    {
+      "name": "John Witherspoon",
+      "role": "Mr. Jones",
+      "url": "https://multimovies.city/cast/john-witherspoon/",
+      "image": "https://image.tmdb.org/t/p/w92/5clP720NIBWMKT0pwVCzIPjVkxG.jpg"
+    },
+    {
+      "name": "Don Curry",
+      "role": "Uncle Elroy",
+      "url": "https://multimovies.city/cast/don-curry/",
+      "image": "https://image.tmdb.org/t/p/w92/jVWzJTT2ggOqz2RI4HqsU2F2oDX.jpg"
+    },
+    {
+      "name": "Jacob Vargas",
+      "role": "Joker",
+      "url": "https://multimovies.city/cast/jacob-vargas/",
+      "image": "https://image.tmdb.org/t/p/w92/hq5SIxyGHGTBCxc9LPpyeHmOjkU.jpg"
+    },
+    {
+      "name": "Tamala Jones",
+      "role": "D'wana",
+      "url": "https://multimovies.city/cast/tamala-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/oPdfyRpJNaf7oO0pJlxAKmc9egX.jpg"
+    },
+    {
+      "name": "Clifton Powell",
+      "role": "Pinky",
+      "url": "https://multimovies.city/cast/clifton-powell/",
+      "image": "https://image.tmdb.org/t/p/w92/9wGVqDcrjpZnwjlnwB45LMbsJSj.jpg"
+    },
+    {
+      "name": "Sticky Fingaz",
+      "role": "Tyrone",
+      "url": "https://multimovies.city/cast/sticky-fingaz/",
+      "image": "https://image.tmdb.org/t/p/w92/21IRexFdibIGWyKpb4T2nyi8Q78.jpg"
+    },
+    {
+      "name": "Kym Whitley",
+      "role": "Suga",
+      "url": "https://multimovies.city/cast/kym-whitley/",
+      "image": "https://image.tmdb.org/t/p/w92/kWo5pJe9Ogi3YQAocVoDMP1Sndj.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/xi4Uy11TdACds3SXglrbbmaVd90.jpg",
+    "https://image.tmdb.org/t/p/w300/aEo3hKjdfJ5wmPz12TNexMoK6vW.jpg",
+    "https://image.tmdb.org/t/p/w300/x0kldxGLjwfqoa6Rv4ytTZ2RPov.jpg",
+    "https://image.tmdb.org/t/p/w300/8yuRVQk6R7ACk56zxyh5hbAAKi1.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 381,
+  "sources": [
+    "https://www.youtube.com/embed/mKepqz19Qb0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/y66mtv0"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 94179,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 94179,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:22:44"
+  "last_update": "2025-09-16T17:25:31.193377"
 }
