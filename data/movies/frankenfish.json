@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/frankenfish/",
+  "meta": {
+    "title": "Frankenfish",
+    "poster": "https://image.tmdb.org/t/p/w500/wsz37AAeeghof4DFJZ0FxAeZN2H.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "TV Movie",
+        "url": "https://multimovies.city/genre/tv-movie/"
+      }
+    ],
+    "firstAirDate": "Oct. 09, 2004",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "When the body of a man is found completely destroyed in the swamps in Louisiana, the medical investigator Sam Rivers is assigned to investigate the murder. He travels with the biologist Mary Callahan to the location where the victim lived in a floating house and he meets his family and friends. They find that Chinese snake-heads genetically engineered that belong to a wealthy hunter are attacking and killing the locals. While the group fights to survive, the hunter Jeff arrives with his team to hunt the predators.",
+    "infoFields": {
+      "Original title": "Frankenfish",
+      "IMDb Rating": "4.7 5,642 votes",
+      "TMDb Rating": "5.7 140 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mark A.Z. Dipp\u00e9",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mark-a-z-dippe/",
+      "image": "https://image.tmdb.org/t/p/w92/AkBCnCgeOWlZM7Yg5qAyI4cQnwK.jpg"
+    },
+    {
+      "name": "Tory Kittles",
+      "role": "Sam Rivers",
+      "url": "https://multimovies.city/cast/tory-kittles/",
+      "image": "https://image.tmdb.org/t/p/w92/8NubsD32UAPhPflJuEBqtTa5vWR.jpg"
+    },
+    {
+      "name": "K.D. Aubert",
+      "role": "Eliza",
+      "url": "https://multimovies.city/cast/k-d-aubert/",
+      "image": "https://image.tmdb.org/t/p/w92/elSl5UPcxbAuSzsowWaXHnwkwcQ.jpg"
+    },
+    {
+      "name": "China Chow",
+      "role": "Mary Callahan",
+      "url": "https://multimovies.city/cast/china-chow/",
+      "image": "https://image.tmdb.org/t/p/w92/zHc4Ooc7HV6RjnW0FTR0oQje6d7.jpg"
+    },
+    {
+      "name": "Matthew Rauch",
+      "role": "Dan",
+      "url": "https://multimovies.city/cast/matthew-rauch/",
+      "image": "https://image.tmdb.org/t/p/w92/zbwyjV7ojfO1HPXDHIRJE4U7BE.jpg"
+    },
+    {
+      "name": "Tomas Arana",
+      "role": "Jeff",
+      "url": "https://multimovies.city/cast/tomas-arana/",
+      "image": "https://image.tmdb.org/t/p/w92/qMuQWxUQ2sXDiN2d9EDVT5VXHo2.jpg"
+    },
+    {
+      "name": "Donna Biscoe",
+      "role": "Gloria Crankton",
+      "url": "https://multimovies.city/cast/donna-biscoe/",
+      "image": "https://image.tmdb.org/t/p/w92/edkQKepb7ze6LKFMHC2ahAwO0Wh.jpg"
+    },
+    {
+      "name": "Mark Boone Junior",
+      "role": "Joseph",
+      "url": "https://multimovies.city/cast/mark-boone-junior/",
+      "image": "https://image.tmdb.org/t/p/w92/rcncVr356hpfKX9qOrKL3SJlEO7.jpg"
+    },
+    {
+      "name": "Reggie Lee",
+      "role": "Anton",
+      "url": "https://multimovies.city/cast/reggie-lee/",
+      "image": "https://image.tmdb.org/t/p/w92/93my9HnsFT5DFq9oY1nCJ8Ttv22.jpg"
+    },
+    {
+      "name": "Noelle Evans",
+      "role": "Bobbi",
+      "url": "https://multimovies.city/cast/noelle-evans/",
+      "image": "https://image.tmdb.org/t/p/w92/wxS62nis6a0331RynIYfn1nCO70.jpg"
+    },
+    {
+      "name": "Richard Edson",
+      "role": "Roland",
+      "url": "https://multimovies.city/cast/richard-edson/",
+      "image": "https://image.tmdb.org/t/p/w92/vuuU7beZrawR6VZB3a2QhDVtkjg.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3uJhw4tMRodXlZHk2aoRJ9L9qoT.jpg",
+    "https://image.tmdb.org/t/p/w300/ePnGpampMKPQZx39D0SrWdn84wi.jpg",
+    "https://image.tmdb.org/t/p/w300/oNUYmFU7lLeFF2udgKAydo8EBWh.jpg"
+  ],
+  "similar": [],
+  "views": 681,
+  "sources": [
+    "https://www.youtube.com/embed/nvWMdTgl9hs?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/h74h5gz"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 68543,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 68543,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:49:29.350514"
+}
