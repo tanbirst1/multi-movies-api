@@ -1,0 +1,145 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/main-hoon-na/",
+  "meta": {
+    "title": "Main Hoon Na",
+    "poster": "https://image.tmdb.org/t/p/w500/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Apr. 30, 2004",
+    "ratingValue": "8.3",
+    "ratingCount": "16",
+    "synopsis": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general\u2019s daughter from a radical militant, and to find his estranged half-brother.",
+    "infoFields": {
+      "Original title": "\u092e\u0948\u0902 \u0939\u0942\u0901 \u0928\u093e",
+      "IMDb Rating": "7 37,510 votes",
+      "TMDb Rating": "6.9 211 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Farah Khan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/farah-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/yfmm3VIGRZ8RDRQ0pjn3Vizw6WC.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Major Ram Prasad Sharma",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Sushmita Sen",
+      "role": "Miss Chandni",
+      "url": "https://multimovies.city/cast/sushmita-sen/",
+      "image": "https://image.tmdb.org/t/p/w92/arteijssIoHzs8wFLjs6pvqRnlJ.jpg"
+    },
+    {
+      "name": "Suniel Shetty",
+      "role": "Raghavan / Major Raghav Dutta",
+      "url": "https://multimovies.city/cast/suniel-shetty/",
+      "image": "https://image.tmdb.org/t/p/w92/8zdduuPcsoUtBbCA8rl17X44jwe.jpg"
+    },
+    {
+      "name": "Amrita Rao",
+      "role": "Sanjana Bakshi a.k.a Sanju",
+      "url": "https://multimovies.city/cast/amrita-rao/",
+      "image": "https://image.tmdb.org/t/p/w92/7KrulJXPMtP5Czc7n09SsB1DbIl.jpg"
+    },
+    {
+      "name": "Zayed Khan",
+      "role": "Lakshman Prasad Sharma a.k.a Lucky",
+      "url": "https://multimovies.city/cast/zayed-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/lL1u1ZgcFNnpFNWStCUOugDLYrC.jpg"
+    },
+    {
+      "name": "Boman Irani",
+      "role": "The Principal",
+      "url": "https://multimovies.city/cast/boman-irani/",
+      "image": "https://image.tmdb.org/t/p/w92/u71heG3Xw9IAwNpuufoelfjyYLG.jpg"
+    },
+    {
+      "name": "Praveen Sirohi",
+      "role": "Vivek",
+      "url": "https://multimovies.city/cast/praveen-sirohi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kirron Kher",
+      "role": "Mrs. Sharma",
+      "url": "https://multimovies.city/cast/kirron-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/bM9ZjQmsKYqGQaqBBPIhwlsNOYx.jpg"
+    },
+    {
+      "name": "Murali Sharma",
+      "role": "Khan",
+      "url": "https://multimovies.city/cast/murali-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    },
+    {
+      "name": "Kunal Kumar",
+      "role": "Baman",
+      "url": "https://multimovies.city/cast/kunal-kumar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
+    "https://image.tmdb.org/t/p/w300/uekA0GPtfIfmsh3iZWmfgOaGVoU.jpg",
+    "https://image.tmdb.org/t/p/w300/7GvADi3BBj2VFsm3u734z6mr6ks.jpg"
+  ],
+  "similar": [],
+  "views": 19604,
+  "sources": [
+    "https://multimoviesshg.com/e/a7i9r02wziay",
+    "https://sbplay.org/embed-utjxfxgn8fa2.html",
+    "https://dood.la/e/nl045wq9lbvc",
+    "https://mixdrop.co/e/knxxp39vhzvj89",
+    "https://hydrax.net/watch?v=JE7N1249C"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7007,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 7007,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 7007,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 7007,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 7007,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:48:39.568262"
+}
