@@ -1,0 +1,167 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/500-days-of-summer/",
+  "meta": {
+    "title": "(500) Days of Summer {English With Subtitles}",
+    "poster": "https://image.tmdb.org/t/p/w500/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jul. 17, 2009",
+    "ratingValue": "8.7",
+    "ratingCount": "19",
+    "synopsis": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
+    "infoFields": {
+      "Original title": "(500) Days of Summer",
+      "IMDb Rating": "7.7 530,534 votes",
+      "TMDb Rating": "7.269 9,130 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Marc Webb",
+      "role": "Director",
+      "url": "https://multimovies.city/director/marc-webb/",
+      "image": "https://image.tmdb.org/t/p/w92/65tk6xLNEW4EG0CSrxbVeHDi03a.jpg"
+    },
+    {
+      "name": "Joseph Gordon-Levitt",
+      "role": "Tom Hansen",
+      "url": "https://multimovies.city/cast/joseph-gordon-levitt/",
+      "image": "https://image.tmdb.org/t/p/w92/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+    },
+    {
+      "name": "Zooey Deschanel",
+      "role": "Summer Finn",
+      "url": "https://multimovies.city/cast/zooey-deschanel/",
+      "image": "https://image.tmdb.org/t/p/w92/30KQyjsXfrdm4Dcori7bDFTg9Le.jpg"
+    },
+    {
+      "name": "Chlo\u00eb Grace Moretz",
+      "role": "Rachel Hansen",
+      "url": "https://multimovies.city/cast/chloe-grace-moretz/",
+      "image": "https://image.tmdb.org/t/p/w92/bUm9QkEoKECS58PJpPomNmEVWh4.jpg"
+    },
+    {
+      "name": "Geoffrey Arend",
+      "role": "McKenzie",
+      "url": "https://multimovies.city/cast/geoffrey-arend/",
+      "image": "https://image.tmdb.org/t/p/w92/bpqF3V5lK5GxuIU4VuTaVaztIvw.jpg"
+    },
+    {
+      "name": "Matthew Gray Gubler",
+      "role": "Paul",
+      "url": "https://multimovies.city/cast/matthew-gray-gubler/",
+      "image": "https://image.tmdb.org/t/p/w92/tHjIUjHFjl4Kzc4XQ7JSd1EHYSU.jpg"
+    },
+    {
+      "name": "Clark Gregg",
+      "role": "Vance",
+      "url": "https://multimovies.city/cast/clark-gregg/",
+      "image": "https://image.tmdb.org/t/p/w92/nbxFbr2SaF4Sdc6HdsF193GInvJ.jpg"
+    },
+    {
+      "name": "Patricia Belcher",
+      "role": "Millie",
+      "url": "https://multimovies.city/cast/patricia-belcher/",
+      "image": "https://image.tmdb.org/t/p/w92/8h5cLajSjv3fLIeAyuYyNxj7gte.jpg"
+    },
+    {
+      "name": "Rachel Boston",
+      "role": "Alison",
+      "url": "https://multimovies.city/cast/rachel-boston/",
+      "image": "https://image.tmdb.org/t/p/w92/lXsexhIX8oMhPnO85M0ocL0GhC2.jpg"
+    },
+    {
+      "name": "Minka Kelly",
+      "role": "Autumn - Girl at interview",
+      "url": "https://multimovies.city/cast/minka-kelly/",
+      "image": "https://image.tmdb.org/t/p/w92/40rLdQZlAPzDmizuDdb2uaSlFvC.jpg"
+    },
+    {
+      "name": "Ian Reed Kesler",
+      "role": "Douche",
+      "url": "https://multimovies.city/cast/ian-reed-kesler/",
+      "image": "https://image.tmdb.org/t/p/w92/gFOSoGimxjSLDh3bYrQIbkPyEdq.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/etBZfuOie3uODTKTV5xnbAKB4Fr.jpg",
+    "https://image.tmdb.org/t/p/w300/pvEASRjDoqiay9GwgQpYNJGa5LW.jpg",
+    "https://image.tmdb.org/t/p/w300/rt3wAltFxwKaR5cJ3QudnG0MqGX.jpg",
+    "https://image.tmdb.org/t/p/w300/qR7jY0Huddk3sPP9xyax62Hicyf.jpg",
+    "https://image.tmdb.org/t/p/w300/x0emyxKfPMfxuW71xrzV07cmg1e.jpg",
+    "https://image.tmdb.org/t/p/w300/2zFl6j8MB4jCKUQKVlADyESwkVY.jpg",
+    "https://image.tmdb.org/t/p/w300/A7oLC1wvNQTisD0hcLkYoN5XV7p.jpg",
+    "https://image.tmdb.org/t/p/w300/At5SIK2TOYQEeHrRqIsSXDDaT59.jpg",
+    "https://image.tmdb.org/t/p/w300/bAtK2W0Bf8cx4cuFJgC7NqjTta9.jpg",
+    "https://image.tmdb.org/t/p/w300/cpSrC3PNTzzYenHlStvockyFYte.jpg"
+  ],
+  "similar": [],
+  "views": 22718,
+  "sources": [
+    "https://www.youtube.com/embed/TNEkwcY7OI0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/cmkxmbyc8v13",
+    "https://sbplay.org/embed-lgqcsfyselez.html",
+    "https://dood.la/e/8ipnzhu1wxep",
+    "https://mixdrop.co/e/6q66oqkebl81gnr",
+    "https://hydrax.net/watch?v=Z7Q_amVHBq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20521,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 20521,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 20521,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 20521,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 20521,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 20521,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:28:26.723454"
+}
