@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-rules-of-attraction/",
+  "meta": {
+    "title": "The Rules of Attraction",
+    "poster": "https://image.tmdb.org/t/p/w500/6OybelUmwUkDm7fbX1BI7OhpYeQ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Oct. 11, 2002",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "The incredibly spoiled and overprivileged students of Camden College are a backdrop for an unusual love triangle between a drug dealer, a virgin and a bisexual classmate.",
+    "infoFields": {
+      "Original title": "The Rules of Attraction",
+      "IMDb Rating": "6.6 54,538 votes",
+      "TMDb Rating": "6.162 564 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Roger Avary",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roger-avary/",
+      "image": "https://image.tmdb.org/t/p/w92/eq810bljrpQ0FB0SUmUTGyxqFv6.jpg"
+    },
+    {
+      "name": "James Van Der Beek",
+      "role": "Sean Bateman",
+      "url": "https://multimovies.city/cast/james-van-der-beek/",
+      "image": "https://image.tmdb.org/t/p/w92/5CzRqYzRMNevIu6rB8gUFKpsKZL.jpg"
+    },
+    {
+      "name": "Shannyn Sossamon",
+      "role": "Lauren Hynde",
+      "url": "https://multimovies.city/cast/shannyn-sossamon/",
+      "image": "https://image.tmdb.org/t/p/w92/wb8IqhUm3j5epCiw6UwIV3nfNQR.jpg"
+    },
+    {
+      "name": "Ian Somerhalder",
+      "role": "Paul Denton",
+      "url": "https://multimovies.city/cast/ian-somerhalder/",
+      "image": "https://image.tmdb.org/t/p/w92/gq8YFzAOaxNVtSUFKccpxp2YjRS.jpg"
+    },
+    {
+      "name": "Jessica Biel",
+      "role": "Lara",
+      "url": "https://multimovies.city/cast/jessica-biel/",
+      "image": "https://image.tmdb.org/t/p/w92/3txkpzteYNW12vpREFpagSrWe6d.jpg"
+    },
+    {
+      "name": "Kate Bosworth",
+      "role": "Kelly",
+      "url": "https://multimovies.city/cast/kate-bosworth/",
+      "image": "https://image.tmdb.org/t/p/w92/ezaM2jsyrxXWVFN1SbH3UfAgZaG.jpg"
+    },
+    {
+      "name": "Jay Baruchel",
+      "role": "Harry",
+      "url": "https://multimovies.city/cast/jay-baruchel/",
+      "image": "https://image.tmdb.org/t/p/w92/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    },
+    {
+      "name": "Thomas Ian Nicholas",
+      "role": "Mitchell",
+      "url": "https://multimovies.city/cast/thomas-ian-nicholas/",
+      "image": "https://image.tmdb.org/t/p/w92/hQo2P9vwjJW6A1b327nl71a2JEW.jpg"
+    },
+    {
+      "name": "Russell Sams",
+      "role": "Richard",
+      "url": "https://multimovies.city/cast/russell-sams/",
+      "image": "https://image.tmdb.org/t/p/w92/peiOHtCsqp43LTuGRcVL6ILLFIH.jpg"
+    },
+    {
+      "name": "Kip Pardue",
+      "role": "Victor",
+      "url": "https://multimovies.city/cast/kip-pardue/",
+      "image": "https://image.tmdb.org/t/p/w92/zWLkC7AodrsZ2jooVMwwBWkAQsB.jpg"
+    },
+    {
+      "name": "Joel Michaely",
+      "role": "Raymond",
+      "url": "https://multimovies.city/cast/joel-michaely/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/59Vbotev0edUSCgkutxn3T5XcvR.jpg",
+    "https://image.tmdb.org/t/p/w300/m77Sqp7zIAIVd2eFN1SrMxwFbka.jpg",
+    "https://image.tmdb.org/t/p/w300/pIZcsiZxSWr6wpKBtHYWHSWa83B.jpg",
+    "https://image.tmdb.org/t/p/w300/ptCTRD4ieQfufNhczpjWepFL6Be.jpg",
+    "https://image.tmdb.org/t/p/w300/4FpVqilQNdlUyBpBiR4BvGVKbED.jpg",
+    "https://image.tmdb.org/t/p/w300/31Ia7zb31qgSxSgEuQWz6bjTjSH.jpg",
+    "https://image.tmdb.org/t/p/w300/85XYLGi5S2Vtn93IrkASC9jcVOj.jpg",
+    "https://image.tmdb.org/t/p/w300/9yPlJYfZTvVBEkbIEPBRcyPHrT7.jpg",
+    "https://image.tmdb.org/t/p/w300/aTliCZ0CRRwAP7JUhKXzQ1rQy5O.jpg",
+    "https://image.tmdb.org/t/p/w300/sP8pyvgk86zwX3Rsa3CL0Vnt8lU.jpg"
+  ],
+  "similar": [],
+  "views": 990,
+  "sources": [
+    "https://www.youtube.com/embed/Pl3lL4RDscY?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/l4814ep"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 88473,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 88473,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:35:50.612985"
+}
