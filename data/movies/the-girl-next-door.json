@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-girl-next-door/",
+  "meta": {
+    "title": "The Girl Next Door (English with subtitles)",
+    "poster": "https://image.tmdb.org/t/p/w500/el8RGlODqenqIs6Mcbyaog6DnXe.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Apr. 09, 2004",
+    "ratingValue": "7.7",
+    "ratingCount": "6",
+    "synopsis": "Exceptionally ambitious high schooler Matthew has aspirations for a career in politics when he falls in love with his gorgeous 19-year-old neighbor, Danielle. But Matthew\u2019s bright future is jeopardized when he finds Danielle was once a porn star. As Danielle\u2019s past catches up with her, Matthew\u2019s love for her forces him to re-evaluate his goals.",
+    "infoFields": {
+      "Original title": "The Girl Next Door",
+      "IMDb Rating": "6.7 232,697 votes",
+      "TMDb Rating": "6.716 3,145 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Luke Greenfield",
+      "role": "Director",
+      "url": "https://multimovies.city/director/luke-greenfield/",
+      "image": "https://image.tmdb.org/t/p/w92/7SnVznKqIugfbHY6arxW7hIzvTE.jpg"
+    },
+    {
+      "name": "Emile Hirsch",
+      "role": "Matthew Kidman",
+      "url": "https://multimovies.city/cast/emile-hirsch/",
+      "image": "https://image.tmdb.org/t/p/w92/Ah8BYOB7P8tX9jnQVrnAbL2kxYJ.jpg"
+    },
+    {
+      "name": "Elisha Cuthbert",
+      "role": "Danielle",
+      "url": "https://multimovies.city/cast/elisha-cuthbert/",
+      "image": "https://image.tmdb.org/t/p/w92/ym30LsFVLBFYkZ2eQvcraajSYCE.jpg"
+    },
+    {
+      "name": "Timothy Olyphant",
+      "role": "Kelly",
+      "url": "https://multimovies.city/cast/timothy-olyphant/",
+      "image": "https://image.tmdb.org/t/p/w92/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
+    },
+    {
+      "name": "Christopher Marquette",
+      "role": "Eli",
+      "url": "https://multimovies.city/#",
+      "image": "https://image.tmdb.org/t/p/w92/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg"
+    },
+    {
+      "name": "Paul Dano",
+      "role": "Klitz",
+      "url": "https://multimovies.city/cast/paul-dano/",
+      "image": "https://image.tmdb.org/t/p/w92/hGWZBC5dNrQJkcJ0JuhGp07eG6n.jpg"
+    },
+    {
+      "name": "James Remar",
+      "role": "Hugo Posh",
+      "url": "https://multimovies.city/cast/james-remar/",
+      "image": "https://image.tmdb.org/t/p/w92/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
+    },
+    {
+      "name": "Timothy Bottoms",
+      "role": "Mr. Kidman",
+      "url": "https://multimovies.city/cast/timothy-bottoms/",
+      "image": "https://image.tmdb.org/t/p/w92/e0SKyrvvyJFZWx3QFzI4qAkWi8E.jpg"
+    },
+    {
+      "name": "Donna Bullock",
+      "role": "Mrs. Kidman",
+      "url": "https://multimovies.city/cast/donna-bullock/",
+      "image": "https://image.tmdb.org/t/p/w92/rsIkkcu3f4KjaoRaZ5B8NYb2oLL.jpg"
+    },
+    {
+      "name": "Jacob Young",
+      "role": "Hunter",
+      "url": "https://multimovies.city/cast/jacob-young/",
+      "image": "https://image.tmdb.org/t/p/w92/3Gh7hZQwn899q2gSUqLXvcumROE.jpg"
+    },
+    {
+      "name": "Brian Kolodziej",
+      "role": "Derek",
+      "url": "https://multimovies.city/cast/brian-kolodziej/",
+      "image": "https://image.tmdb.org/t/p/w92/w4HCOvamCAu46KjeO1O3CVfYntI.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qvcOovScPoRalRxDy50rYSYFree.jpg",
+    "https://image.tmdb.org/t/p/w300/sQntWUAO0zp2DmM5gMOBpO1K1B8.jpg",
+    "https://image.tmdb.org/t/p/w300/7sEoKjchgb9Ue05V1MYJMzJuzo4.jpg",
+    "https://image.tmdb.org/t/p/w300/9vRzXiuh0S7M1ceSn4mW8CCaY9Z.jpg",
+    "https://image.tmdb.org/t/p/w300/lDHdDgObpNXWHP2PHnA3BjDHm3g.jpg",
+    "https://image.tmdb.org/t/p/w300/6MeZfdCezhM2Eif8r08zYD0mRSQ.jpg",
+    "https://image.tmdb.org/t/p/w300/26MLrl6IryifIkjvtpDNQh4MrXr.jpg",
+    "https://image.tmdb.org/t/p/w300/fcWxLy6psIy7Td9vLW4bpAbtGp7.jpg",
+    "https://image.tmdb.org/t/p/w300/cvvtN3JTdPtYqeWFCg0QsE7MLaL.jpg",
+    "https://image.tmdb.org/t/p/w300/uXu3wLqq4mjHSDPjqWkvAxaRZeA.jpg"
+  ],
+  "similar": [],
+  "views": 15468,
+  "sources": [
+    "https://www.youtube.com/embed/0rD3Qkh-238?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/jy5m6wwk4hli"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 27394,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 27394,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:48:48.463555"
+}
