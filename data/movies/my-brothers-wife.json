@@ -1,0 +1,108 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/my-brothers-wife/",
+  "meta": {
+    "title": "My Brother\u2019s Wife",
+    "poster": "https://image.tmdb.org/t/p/w500/bDB9p8z2vzbF6wJzWct0PwfXl4H.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Nov. 04, 2005",
+    "ratingValue": "7.5",
+    "ratingCount": "4",
+    "synopsis": "After almost 10 years of marriage, attractive Zoe discovers that her marriage lacks passion and surprise, and is seduced by the possibility of finding those sensations already forgotten in her husband\u2019s brother. From this premise a series of events lead these three characters to a dangerous game of revenges, secrets and passions. Two brothers and one woman: the triangle is outlined in a disquieting way. It is a bomb that triggers family secrets, the contained rage of desire and the unmanageable power of love. An exciting story that subjugates the viewer from beginning to end. Even though Zoe/Sonia has been married to Ignacio/Ishan for about a decade, they are unable to have children. She wants to be intimate but he prefers to be ready for intimacy on Saturdays only, and she gets physically drawn to his artistic brother, Gonzalo/Rohan. Then things get complicated for her after she tests positive for motherhood and finds that her husband may be gay.",
+    "infoFields": {
+      "Original title": "La mujer de mi hermano",
+      "IMDb Rating": "6 3,519 votes",
+      "TMDb Rating": "6.3 112 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ricardo de Montreuil",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ricardo-de-montreuil/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "B\u00e1rbara Mori",
+      "role": "Zoe",
+      "url": "https://multimovies.city/cast/barbara-mori/",
+      "image": "https://image.tmdb.org/t/p/w92/mw8zoth8E6REV9nmPJB64C1D5U.jpg"
+    },
+    {
+      "name": "Manolo Cardona",
+      "role": "Gonzalo",
+      "url": "https://multimovies.city/cast/manolo-cardona/",
+      "image": "https://image.tmdb.org/t/p/w92/9hPHLgO9lINwZynrFywTG9ms8Jl.jpg"
+    },
+    {
+      "name": "Christian Meier",
+      "role": "Ignacio",
+      "url": "https://multimovies.city/cast/christian-meier/",
+      "image": "https://image.tmdb.org/t/p/w92/Aez99BPhe7e63RuOtWGiojrV3rm.jpg"
+    },
+    {
+      "name": "Gaby Espino",
+      "role": "Laura",
+      "url": "https://multimovies.city/cast/gaby-espino/",
+      "image": "https://image.tmdb.org/t/p/w92/z9KOQ0blQTwiobqwDEVl9hRnnHD.jpg"
+    },
+    {
+      "name": "Beto Cuevas",
+      "role": "Padre Santiago",
+      "url": "https://multimovies.city/cast/beto-cuevas/",
+      "image": "https://image.tmdb.org/t/p/w92/8dQy2ugAsPQqKbvGW4n4nyszODa.jpg"
+    },
+    {
+      "name": "Bruno Bichir",
+      "role": "Boris",
+      "url": "https://multimovies.city/cast/bruno-bichir/",
+      "image": "https://image.tmdb.org/t/p/w92/af6MbUchuOv9bPh080cF7Awqxi7.jpg"
+    },
+    {
+      "name": "Ang\u00e9lica Arag\u00f3n",
+      "role": "Cristina",
+      "url": "https://multimovies.city/cast/angelica-aragon/",
+      "image": "https://image.tmdb.org/t/p/w92/ejduK7b15cBN2Gr5FRIQOdoNrXS.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qHRLolqPyokq2UYsLv8lJcnqFqZ.jpg"
+  ],
+  "similar": [],
+  "views": 10075,
+  "sources": [
+    "https://www.youtube.com/embed/bEYmz74dZCk?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/2aho3whg64xw"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 54246,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 54246,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:58:18.122707"
+}
