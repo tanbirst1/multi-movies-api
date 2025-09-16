@@ -1,0 +1,140 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/aloha-scooby-doo/",
+  "meta": {
+    "title": "Aloha Scooby-Doo!",
+    "poster": "https://image.tmdb.org/t/p/w500/26BP556PvenFfypUp10aFFMpQSV.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Feb. 08, 2005",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "The Mystery Gang goes to Hawaii for the Big Kahuna of Hanahuna Surfing Contest. However, the gang and the locals find the island invaded by the vengeful Wiki Tiki spirit and his demons.",
+    "infoFields": {
+      "Original title": "Aloha Scooby-Doo!",
+      "IMDb Rating": "6.3 5,838 votes",
+      "TMDb Rating": "7.145 431 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tim Maltby",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tim-maltby/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Casey Kasem",
+      "role": "Shaggy Rogers (voice)",
+      "url": "https://multimovies.city/cast/casey-kasem/",
+      "image": "https://image.tmdb.org/t/p/w92/AfS9bEiKFAQ1rqtV2YXvnnDr9VD.jpg"
+    },
+    {
+      "name": "Frank Welker",
+      "role": "Scooby-Doo / Fred Jones / Wiki-Tiki / Interviewer (voice)",
+      "url": "https://multimovies.city/cast/frank-welker/",
+      "image": "https://image.tmdb.org/t/p/w92/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "name": "Mindy Cohn",
+      "role": "Velma Dinkley (voice)",
+      "url": "https://multimovies.city/cast/mindy-cohn/",
+      "image": "https://image.tmdb.org/t/p/w92/AcEAchSYIUiRInwyD8nPwj8ztZa.jpg"
+    },
+    {
+      "name": "Grey DeLisle",
+      "role": "Daphne Blake / Auntie Mahina / Local Woman #2 (voice)",
+      "url": "https://multimovies.city/cast/grey-delisle/",
+      "image": "https://image.tmdb.org/t/p/w92/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "name": "Ray Bumatai",
+      "role": "Little Jim (voice)",
+      "url": "https://multimovies.city/cast/ray-bumatai/",
+      "image": "https://image.tmdb.org/t/p/w92/z1FP9vcnaktqiorAm6OaghgCfek.jpg"
+    },
+    {
+      "name": "Tia Carrere",
+      "role": "Snookie / Local Woman #1 (voice)",
+      "url": "https://multimovies.city/cast/tia-carrere/",
+      "image": "https://image.tmdb.org/t/p/w92/rnHioNQkSmBAMgEBseu9bu6vw9l.jpg"
+    },
+    {
+      "name": "Teri Garr",
+      "role": "Mayor Molly Quinn (voice)",
+      "url": "https://multimovies.city/cast/teri-garr/",
+      "image": "https://image.tmdb.org/t/p/w92/1lcO5lUIV26IouxRHNNe6XS1ycq.jpg"
+    },
+    {
+      "name": "Mario L\u00f3pez",
+      "role": "Manu Tuiama / Mainland Surfer (voice)",
+      "url": "https://multimovies.city/cast/mario-lopez/",
+      "image": "https://image.tmdb.org/t/p/w92/b9bGymfTx7Zgv26fp44mHnlPnZT.jpg"
+    },
+    {
+      "name": "Adam West",
+      "role": "Jared Moon (voice)",
+      "url": "https://multimovies.city/cast/adam-west/",
+      "image": "https://image.tmdb.org/t/p/w92/a3Yw8bb6AF7a8Zr7IyEZhZxWVWN.jpg"
+    },
+    {
+      "name": "Don Ho",
+      "role": "Special Musical Guest (voice)",
+      "url": "https://multimovies.city/cast/don-ho/",
+      "image": "https://image.tmdb.org/t/p/w92/zU64OhtgLcXCBZKDRuDbdsqaPRS.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7gvgpPaDmqPEIMaZTz04Zwhe8dP.jpg",
+    "https://image.tmdb.org/t/p/w300/q9XBTK6jwmk53LnCv0TeDvReonb.jpg",
+    "https://image.tmdb.org/t/p/w300/f4SVE0HF0FnDLPO6s0Le0afUnIm.jpg"
+  ],
+  "similar": [],
+  "views": 465,
+  "sources": [
+    "https://www.youtube.com/embed/OgHIoTqaZv0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/xg5f65r"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 70517,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 70517,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:52:38.883711"
+}
