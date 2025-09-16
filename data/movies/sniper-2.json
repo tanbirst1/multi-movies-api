@@ -1,0 +1,118 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/sniper-2/",
+  "meta": {
+    "title": "Sniper 2",
+    "poster": "https://image.tmdb.org/t/p/w500/dmHfc2h9bpCFOloUj54jntM0c9L.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 28, 2002",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Sergeant Thomas Beckett is back \u2013 and this time he has teamed up with death row inmate B.J. Cole on a suicide mission to the Balkans. Their target: a rogue general accused of running ethnic cleansing missions. But when Becket discovers that the government is using him as a pawn in a bigger mission, the body count grows and bullets really start to fly.",
+    "infoFields": {
+      "Original title": "Sniper 2",
+      "IMDb Rating": "5.2 6,404 votes",
+      "TMDb Rating": "5.401 116 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Craig R. Baxley",
+      "role": "Director",
+      "url": "https://multimovies.city/director/craig-r-baxley/",
+      "image": "https://image.tmdb.org/t/p/w92/rP8bHx8ZKlAdjq81lrziaIwOHXe.jpg"
+    },
+    {
+      "name": "Tom Berenger",
+      "role": "Thomas Beckett",
+      "url": "https://multimovies.city/cast/tom-berenger/",
+      "image": "https://image.tmdb.org/t/p/w92/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg"
+    },
+    {
+      "name": "Bokeem Woodbine",
+      "role": "Cole",
+      "url": "https://multimovies.city/cast/bokeem-woodbine/",
+      "image": "https://image.tmdb.org/t/p/w92/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+    },
+    {
+      "name": "Erika Marozs\u00e1n",
+      "role": "Sophia",
+      "url": "https://multimovies.city/cast/erika-marozsan/",
+      "image": "https://image.tmdb.org/t/p/w92/z1A2wYsXiymCgZtaWGoOy8CEPIP.jpg"
+    },
+    {
+      "name": "Tam\u00e1s Pusk\u00e1s",
+      "role": "Pavel",
+      "url": "https://multimovies.city/cast/tamas-puskas/",
+      "image": "https://image.tmdb.org/t/p/w92/50FkeKx2T1WYi5W63bBByzofRBQ.jpg"
+    },
+    {
+      "name": "Dan Butler",
+      "role": "Eckles",
+      "url": "https://multimovies.city/cast/dan-butler/",
+      "image": "https://image.tmdb.org/t/p/w92/eojKA4OavZ6814jghXCLSV2CN4G.jpg"
+    },
+    {
+      "name": "Linden Ashby",
+      "role": "McKenna",
+      "url": "https://multimovies.city/cast/linden-ashby/",
+      "image": "https://image.tmdb.org/t/p/w92/nflhvj2uJAr2S9aWvnbQWCUXC9a.jpg"
+    },
+    {
+      "name": "Barna Illy\u00e9s",
+      "role": "Vojislav",
+      "url": "https://multimovies.city/cast/barna-illyes/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ferenc Kov\u00e1cs",
+      "role": "Zoran",
+      "url": "https://multimovies.city/cast/ferenc-kovacs/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Dennis Hayden",
+      "role": "Klete",
+      "url": "https://multimovies.city/cast/dennis-hayden/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Can Togay",
+      "role": "Captain Marks",
+      "url": "https://multimovies.city/cast/can-togay/",
+      "image": "https://image.tmdb.org/t/p/w92/amZx01YXXAHZyQmm6krFp0GirhJ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/fjuKo5qtOaMbD24p5qGZ5XZFKzU.jpg",
+    "https://image.tmdb.org/t/p/w300/oktFJg48ZBYjuAyP1mnSDKOoNyC.jpg",
+    "https://image.tmdb.org/t/p/w300/ckpxWNSR5snyCjlbKpK5VCQdE4u.jpg",
+    "https://image.tmdb.org/t/p/w300/8Q0wK2BY4Q2Ci4q9xAVIEYSMIMM.jpg"
+  ],
+  "similar": [],
+  "views": 865,
+  "sources": [
+    "https://multimoviesshg.com/e/mpfk3jstt9un"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20233,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:40:31.821476"
+}
