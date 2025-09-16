@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/wicked-minds/",
+  "meta": {
+    "title": "Wicked Minds",
+    "poster": "https://image.tmdb.org/t/p/w500/A6A15cDR8mpdOxW4y7UzFanzbM0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 01, 2003",
+    "ratingValue": "9.5",
+    "ratingCount": "2",
+    "synopsis": "Holden returns home from college and is surprised to find his overpowering competitive father married to a much younger woman Lana. Holden quickly falls for the beauty and charisma of his step mother. A passionate affair begins between son and stepmother.",
+    "infoFields": {
+      "Original title": "Wicked Minds",
+      "IMDb Rating": "5.4 994 votes",
+      "TMDb Rating": "6.6 37 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jason Hreno",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jason-hreno/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Angie Everhart",
+      "role": "Lana",
+      "url": "https://multimovies.city/cast/angie-everhart/",
+      "image": "https://image.tmdb.org/t/p/w92/2jLxkMzqHkCGbBWGkeMixJbOg85.jpg"
+    },
+    {
+      "name": "Andrew W. Walker",
+      "role": "Holden Price",
+      "url": "https://multimovies.city/cast/andrew-w-walker/",
+      "image": "https://image.tmdb.org/t/p/w92/fPyQi2auu1R948AKniUsoPUXzD5.jpg"
+    },
+    {
+      "name": "Winston Rekert",
+      "role": "Mason",
+      "url": "https://multimovies.city/cast/winston-rekert/",
+      "image": "https://image.tmdb.org/t/p/w92/edy4AvLc9O51lJ2LOMmCOZFdm7w.jpg"
+    },
+    {
+      "name": "Amy Sloan",
+      "role": "Nicole",
+      "url": "https://multimovies.city/cast/amy-sloan/",
+      "image": "https://image.tmdb.org/t/p/w92/y1wtmXt4DFQ72lfKnWgDHkfeYBU.jpg"
+    },
+    {
+      "name": "Frank Schorpion",
+      "role": "Harry",
+      "url": "https://multimovies.city/cast/frank-schorpion/",
+      "image": "https://image.tmdb.org/t/p/w92/aYHpKplVgIeuN8VoJq5R1Im9QKi.jpg"
+    },
+    {
+      "name": "Ellen David",
+      "role": "Detective Clarkson",
+      "url": "https://multimovies.city/cast/ellen-david/",
+      "image": "https://image.tmdb.org/t/p/w92/kODfwKI8AD5ZI3Yb9IcAeOxxMKQ.jpg"
+    },
+    {
+      "name": "Conrad Pla",
+      "role": "Detective Mormino",
+      "url": "https://multimovies.city/cast/conrad-pla/",
+      "image": "https://image.tmdb.org/t/p/w92/p09lsBpONGWdapNgbOvjsQokgXU.jpg"
+    },
+    {
+      "name": "Alan Fawcett",
+      "role": "Gerald Sykes",
+      "url": "https://multimovies.city/cast/alan-fawcett/",
+      "image": "https://image.tmdb.org/t/p/w92/xWfbQTpiOqgrY5dJ52Sx4WO4A66.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/oYiPf8oR2ZrjvGIVzGTw1BZihDP.jpg"
+  ],
+  "similar": [],
+  "views": 6235,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/apyl5xc"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 74633,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:39:17.735199"
+}
