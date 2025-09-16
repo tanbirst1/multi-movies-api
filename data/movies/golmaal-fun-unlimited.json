@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/golmaal-fun-unlimited/",
+  "meta": {
+    "title": "Golmaal \u2013 Fun Unlimited",
+    "poster": "https://image.tmdb.org/t/p/w500/3ubefqLk26Gy0lXCfGIu8hQrBak.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Jul. 14, 2006",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Four runaway crooks take shelter in a bungalow which is owned by a blind couple.",
+    "infoFields": {
+      "Original title": "\u0917\u094b\u0932\u092e\u093e\u0932",
+      "IMDb Rating": "7.4 17,967 votes",
+      "TMDb Rating": "6.595 95 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rohit Shetty",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rohit-shetty/",
+      "image": "https://image.tmdb.org/t/p/w92/ke8kvmtlSa67EYVo8a42US18ok2.jpg"
+    },
+    {
+      "name": "Ajay Devgn",
+      "role": "Gopal",
+      "url": "https://multimovies.city/cast/ajay-devgn/",
+      "image": "https://image.tmdb.org/t/p/w92/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg"
+    },
+    {
+      "name": "Tusshar Kapoor",
+      "role": "Lucky",
+      "url": "https://multimovies.city/cast/tusshar-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/5ApUsEt56R0SVQMu11fbmUSHCIi.jpg"
+    },
+    {
+      "name": "Arshad Warsi",
+      "role": "Mahadev",
+      "url": "https://multimovies.city/cast/arshad-warsi/",
+      "image": "https://image.tmdb.org/t/p/w92/1Hv35hhpfwNXNm0DqJxpfNJt1q.jpg"
+    },
+    {
+      "name": "Sharman Joshi",
+      "role": "Laxmi",
+      "url": "https://multimovies.city/cast/sharman-joshi/",
+      "image": "https://image.tmdb.org/t/p/w92/lzF6wCzRmveV0hbF1au7JwMiqYV.jpg"
+    },
+    {
+      "name": "Paresh Rawal",
+      "role": "Somnath",
+      "url": "https://multimovies.city/cast/paresh-rawal/",
+      "image": "https://image.tmdb.org/t/p/w92/vqqA4DVnqIfvmGtwdwHtHEzMvst.jpg"
+    },
+    {
+      "name": "Rimi Sen",
+      "role": "Nirali",
+      "url": "https://multimovies.city/cast/rimi-sen/",
+      "image": "https://image.tmdb.org/t/p/w92/zSVUxO2B75HgKnhOE5CsZ7ktABd.jpg"
+    },
+    {
+      "name": "Sushmita Mukherjee",
+      "role": "Dadiji",
+      "url": "https://multimovies.city/cast/sushmita-mukherjee/",
+      "image": "https://image.tmdb.org/t/p/w92/hFgWE0QLZHvdt0gJ3kR734H0ZBR.jpg"
+    },
+    {
+      "name": "Mukesh Tiwari",
+      "role": "Vasuli bhai",
+      "url": "https://multimovies.city/cast/mukesh-tiwari/",
+      "image": "https://image.tmdb.org/t/p/w92/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg"
+    },
+    {
+      "name": "Sanjay Mishra",
+      "role": "The Don",
+      "url": "https://multimovies.city/cast/sanjay-mishra/",
+      "image": "https://image.tmdb.org/t/p/w92/4MGKohKGU4v9SoXcQKCcC4e4Bpi.jpg"
+    },
+    {
+      "name": "Manoj Joshi",
+      "role": "College Dean",
+      "url": "https://multimovies.city/cast/manoj-joshi/",
+      "image": "https://image.tmdb.org/t/p/w92/6uCyRDLYx4INHvi4HyfarXEwWXL.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kmOwJaGsvpSQLdu4PqNvDRQXHxx.jpg"
+  ],
+  "similar": [],
+  "views": 1912,
+  "sources": [
+    "https://multimoviesshg.com/e/0rx4lxw7g63y"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5405,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:05:09.664797"
+}
