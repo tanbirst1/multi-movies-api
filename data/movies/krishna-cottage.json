@@ -1,0 +1,93 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/krishna-cottage/",
+  "meta": {
+    "title": "Krishna Cottage",
+    "poster": "https://image.tmdb.org/t/p/w500/2j7Y5CyO10HxZEzCij9XcxmVYSz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 30, 2004",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "A group of collegians are forced to take shelter in a mysterious Krishna Cottage for the night. Little do they know that the cottage is haunted by a spirit.",
+    "infoFields": {
+      "Original title": "\u0915\u0943\u0937\u094d\u0923\u093e \u0915\u0949\u091f\u0947\u091c",
+      "IMDb Rating": "5.3 1,549 votes",
+      "TMDb Rating": "4.8 16 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Santram Varma",
+      "role": "Director",
+      "url": "https://multimovies.city/director/santram-varma/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sohail Khan",
+      "role": "",
+      "url": "https://multimovies.city/cast/sohail-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/jn5iY5O6qWy0j7eDqGpvPfS9sXy.jpg"
+    },
+    {
+      "name": "Isha Koppikar",
+      "role": "",
+      "url": "https://multimovies.city/cast/isha-koppikar/",
+      "image": "https://image.tmdb.org/t/p/w92/yKxTrxQLc3acJdNG02YfFWXo36w.jpg"
+    },
+    {
+      "name": "Rati Agnihotri",
+      "role": "",
+      "url": "https://multimovies.city/cast/rati-agnihotri/",
+      "image": "https://image.tmdb.org/t/p/w92/a4E2eoMZAt8bxRwSzX208UXBza5.jpg"
+    },
+    {
+      "name": "Hiten Tejwani",
+      "role": "",
+      "url": "https://multimovies.city/cast/hiten-tejwani/",
+      "image": "https://image.tmdb.org/t/p/w92/gTuA3e6BXlT9ow83MWqRmQwAmyI.jpg"
+    },
+    {
+      "name": "Anita Hassanandani Reddy",
+      "role": "",
+      "url": "https://multimovies.city/cast/anita-hassanandani-reddy/",
+      "image": "https://image.tmdb.org/t/p/w92/jmLdF4TK6MJw09Nh2KOIVS6R65u.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/36ggRQ8JT2cKrKQaux5x6Ama30c.jpg"
+  ],
+  "similar": [],
+  "views": 1488,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/kplvlid"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11851,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:51:02.416799"
+}
