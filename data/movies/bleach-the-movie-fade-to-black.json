@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/bleach-the-movie-fade-to-black/",
+  "meta": {
+    "title": "Bleach the Movie: Fade to Black",
+    "poster": "https://image.tmdb.org/t/p/w500/IfR2DrWLb26AAdQFwGkhvPTflX.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime",
+        "url": "https://multimovies.city/genre/anime/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      }
+    ],
+    "firstAirDate": "Dec. 13, 2008",
+    "ratingValue": "9.7",
+    "ratingCount": "3",
+    "synopsis": "A mysterious reiatsu (spiritual particle) explosion occurs in the center of Seireitei in Soul Society, causing it to be destroyed. At the exact same time, a major change overwhelms Kuchiki Rukia, which leaves her losing something important inside. Urahara Kisuke sends Kurosaki Ichigo to Soul Society to investigate the disturbance. Upon reaching Seireitei, Ichigo is attacked by his ally shinigamis.",
+    "infoFields": {
+      "Original title": "\u5287\u5834\u7248 BLEACH Fade to Black \u541b\u306e\u540d\u3092\u547c\u3076",
+      "IMDb Rating": "7.1 2,433 votes",
+      "TMDb Rating": "7.107 140 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Noriyuki Abe",
+      "role": "Director",
+      "url": "https://multimovies.city/director/noriyuki-abe/",
+      "image": "https://image.tmdb.org/t/p/w92/6nzuwp18s7P0Rt78uBVkzlUzaCb.jpg"
+    },
+    {
+      "name": "Masakazu Morita",
+      "role": "Ichigo Kurosaki (voice)",
+      "url": "https://multimovies.city/cast/masakazu-morita/",
+      "image": "https://image.tmdb.org/t/p/w92/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+    },
+    {
+      "name": "Fumiko Orikasa",
+      "role": "Rukia Kuchiki (voice)",
+      "url": "https://multimovies.city/cast/fumiko-orikasa/",
+      "image": "https://image.tmdb.org/t/p/w92/e7yC3GzPli4uHO1flPUozlXXIue.jpg"
+    },
+    {
+      "name": "Kentaro Ito",
+      "role": "Renji Abarai (voice)",
+      "url": "https://multimovies.city/cast/kentaro-ito/",
+      "image": "https://image.tmdb.org/t/p/w92/sXafSaiG99lBVV8lpkNC2naHjdR.jpg"
+    },
+    {
+      "name": "Aya Hirano",
+      "role": "Homura (voice)",
+      "url": "https://multimovies.city/cast/aya-hirano/",
+      "image": "https://image.tmdb.org/t/p/w92/zaSJKfuKhw7e4VTnTKnlHBRzjQU.jpg"
+    },
+    {
+      "name": "Hiroshi Kamiya",
+      "role": "Shizuku (voice)",
+      "url": "https://multimovies.city/cast/hiroshi-kamiya/",
+      "image": "https://image.tmdb.org/t/p/w92/u2r0u8tOa0cyh7nawcEOPpcEZr1.jpg"
+    },
+    {
+      "name": "Mitsuaki Madono",
+      "role": "Kon (voice)",
+      "url": "https://multimovies.city/cast/mitsuaki-madono/",
+      "image": "https://image.tmdb.org/t/p/w92/j2zw5q1tqfFoMhEbolca6Sqrjbk.jpg"
+    },
+    {
+      "name": "Jun Fukuyama",
+      "role": "Yumichika Ayasegawa (voice)",
+      "url": "https://multimovies.city/cast/jun-fukuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/eT9eloyIaIkTvTqMmpcsAleP2hM.jpg"
+    },
+    {
+      "name": "Taro Yamaguchi",
+      "role": "Sasakibe Choujiro (voice)",
+      "url": "https://multimovies.city/cast/taro-yamaguchi/",
+      "image": "https://image.tmdb.org/t/p/w92/4fJMC6twt0WZdbj5dBDVPi8rdKh.jpg"
+    },
+    {
+      "name": "Takako Honda",
+      "role": "Jinta Hanakari (voice)",
+      "url": "https://multimovies.city/cast/takako-honda/",
+      "image": "https://image.tmdb.org/t/p/w92/LekbnCX6TcabG3EjSOKOgIGrvJ.jpg"
+    },
+    {
+      "name": "Katsuyuki Konishi",
+      "role": "Shuuhei Hisagi (voice)",
+      "url": "https://multimovies.city/cast/katsuyuki-konishi/",
+      "image": "https://image.tmdb.org/t/p/w92/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/xZYPpL6uYy5KUK85HgqA9PuXuID.jpg"
+  ],
+  "similar": [],
+  "views": 1954,
+  "sources": [
+    "https://www.youtube.com/embed/HVNLo3ciIpk?autoplay=0&autohide=1",
+    "https://multimovies.website/e/abr8zruxepnv.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1916,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1916,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:27:31.697631"
+}
