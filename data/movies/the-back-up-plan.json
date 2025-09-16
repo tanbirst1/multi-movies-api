@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-back-up-plan/",
+  "meta": {
+    "title": "The Back-Up Plan",
+    "poster": "https://image.tmdb.org/t/p/w500/fB6PxwdydGzdq5jSWrxwSMEqSFs.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Apr. 23, 2010",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "When Zoe tires of looking for Mr. Right, she decides to have a baby on her own. But on the day she\u2019s artificially inseminated, she meets Stan, who seems to be just who she\u2019s been searching for all her life. Now, Zoe has to figure out how to make her two life\u2019s dreams fit with each other.",
+    "infoFields": {
+      "Original title": "The Back-Up Plan",
+      "IMDb Rating": "5.3 52,003 votes",
+      "TMDb Rating": "6.122 1,340 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Alan Poul",
+      "role": "Director",
+      "url": "https://multimovies.city/director/alan-poul/",
+      "image": "https://image.tmdb.org/t/p/w92/wsZwsaJ20PPvndjIYnLiPYFRUEC.jpg"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "role": "Zoe",
+      "url": "https://multimovies.city/cast/jennifer-lopez/",
+      "image": "https://image.tmdb.org/t/p/w92/ySkojDGDJwkL7CIbukQxi4TeJfU.jpg"
+    },
+    {
+      "name": "Alex O'Loughlin",
+      "role": "Stan",
+      "url": "https://multimovies.city/cast/alex-oloughlin/",
+      "image": "https://image.tmdb.org/t/p/w92/l3Cd7jD3r3TLkqWaDijmK7GgWxo.jpg"
+    },
+    {
+      "name": "Michaela Watkins",
+      "role": "Mona",
+      "url": "https://multimovies.city/cast/michaela-watkins/",
+      "image": "https://image.tmdb.org/t/p/w92/qw8RqZ2fehR0ZlHWwyH9WFjc3Qh.jpg"
+    },
+    {
+      "name": "Eric Christian Olsen",
+      "role": "Clive",
+      "url": "https://multimovies.city/cast/eric-christian-olsen/",
+      "image": "https://image.tmdb.org/t/p/w92/v6r77LimgA49VxsRjKVFUYeVVRi.jpg"
+    },
+    {
+      "name": "Anthony Anderson",
+      "role": "Playground Dad",
+      "url": "https://multimovies.city/cast/anthony-anderson/",
+      "image": "https://image.tmdb.org/t/p/w92/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+    },
+    {
+      "name": "Noureen DeWulf",
+      "role": "Daphne",
+      "url": "https://multimovies.city/cast/noureen-dewulf/",
+      "image": "https://image.tmdb.org/t/p/w92/rYnQJDuIsyHUPhJh2AotMwAT7bx.jpg"
+    },
+    {
+      "name": "Melissa McCarthy",
+      "role": "Carol",
+      "url": "https://multimovies.city/cast/melissa-mccarthy/",
+      "image": "https://image.tmdb.org/t/p/w92/yl0qva0O4u92fvtItakdvKmKrW9.jpg"
+    },
+    {
+      "name": "Tom Bosley",
+      "role": "Arthur",
+      "url": "https://multimovies.city/cast/tom-bosley/",
+      "image": "https://image.tmdb.org/t/p/w92/n7UmaqDsA4MojlCePBfjNdmifbl.jpg"
+    },
+    {
+      "name": "Maribeth Monroe",
+      "role": "Lori",
+      "url": "https://multimovies.city/cast/maribeth-monroe/",
+      "image": "https://image.tmdb.org/t/p/w92/l3vMVl0vzOz599zX58jUCPxA8nV.jpg"
+    },
+    {
+      "name": "Danneel Ackles",
+      "role": "Olivia",
+      "url": "https://multimovies.city/cast/danneel-ackles/",
+      "image": "https://image.tmdb.org/t/p/w92/7W3CZ4xMJure0ZiqYLAqPVvkbWK.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7qCmWIOAb7HiV3ODJo61GuaIDae.jpg",
+    "https://image.tmdb.org/t/p/w300/fudUJZpEKRhFVzYz8iIIO7Wnvtw.jpg",
+    "https://image.tmdb.org/t/p/w300/aBj9a3LdBKL0kuh4TVlkleTJZh3.jpg",
+    "https://image.tmdb.org/t/p/w300/qAYIJ7N1l4LZWsdL9xsMOBnAEnO.jpg"
+  ],
+  "similar": [],
+  "views": 1026,
+  "sources": [
+    "https://www.youtube.com/embed/cut4IW0oz1w?autoplay=0&autohide=1",
+    "https://smoothpre.com/v/xahy5hrtmada"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 45171,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 45171,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:41:41.582935"
+}
