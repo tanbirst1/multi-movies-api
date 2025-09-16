@@ -1,0 +1,163 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/epic-movie/",
+  "meta": {
+    "title": "Epic Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/l0lGJiTzU2Ce6T31DIRWv7I0kaC.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jan. 25, 2007",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "When Edward, Peter, Lucy and Susan each follow their own path, they end up finding themselves at Willy\u2019s Chocolate factory. Walking through a wardrobe, they discover the world of Gnarnia, which is ruled by the White Bitch. Meeting up with characters such as Harry Potter and Captain Jack Swallows, the newly reunited family must team up with Aslo, a wise-but-horny lion to stop the white bitch\u2019s army.",
+    "infoFields": {
+      "Original title": "Epic Movie",
+      "IMDb Rating": "2.4 107,227 votes",
+      "TMDb Rating": "3.89 1,355 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jason Friedberg",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jason-friedberg/",
+      "image": "https://image.tmdb.org/t/p/w92/8ezGNR28kmkbBc4jYE1vNgSF70t.jpg"
+    },
+    {
+      "name": "Kal Penn",
+      "role": "Edward",
+      "url": "https://multimovies.city/cast/kal-penn/",
+      "image": "https://image.tmdb.org/t/p/w92/yICM1JcxKbEpaqTUreY0yFMIc8W.jpg"
+    },
+    {
+      "name": "Adam Campbell",
+      "role": "Peter",
+      "url": "https://multimovies.city/cast/adam-campbell/",
+      "image": "https://image.tmdb.org/t/p/w92/7Om0s5S8YFu9V3fg26nMdR31R1A.jpg"
+    },
+    {
+      "name": "Jennifer Coolidge",
+      "role": "White Bitch",
+      "url": "https://multimovies.city/cast/jennifer-coolidge/",
+      "image": "https://image.tmdb.org/t/p/w92/fU3MWqENdkD3Gkw59UtxB19cOD1.jpg"
+    },
+    {
+      "name": "Jayma Mays",
+      "role": "Lucy",
+      "url": "https://multimovies.city/cast/jayma-mays/",
+      "image": "https://image.tmdb.org/t/p/w92/n8tY5eVXje0vXTws66YAdEeHMy5.jpg"
+    },
+    {
+      "name": "Faune Chambers",
+      "role": "Susan",
+      "url": "https://multimovies.city/cast/faune-chambers/",
+      "image": "https://image.tmdb.org/t/p/w92/xospdHcKIWr9e5ytB7yq11YyPH8.jpg"
+    },
+    {
+      "name": "Crispin Glover",
+      "role": "Willy",
+      "url": "https://multimovies.city/cast/crispin-glover/",
+      "image": "https://image.tmdb.org/t/p/w92/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+    },
+    {
+      "name": "Tony Cox",
+      "role": "Bink",
+      "url": "https://multimovies.city/cast/tony-cox/",
+      "image": "https://image.tmdb.org/t/p/w92/sbZS0gxvRsAIgHxIEL8STINpn7u.jpg"
+    },
+    {
+      "name": "H\u00e9ctor Jim\u00e9nez",
+      "role": "Mr. Tumnus",
+      "url": "https://multimovies.city/cast/hector-jimenez/",
+      "image": "https://image.tmdb.org/t/p/w92/8eNizTOeHjpjMiTJziLgdlf09wO.jpg"
+    },
+    {
+      "name": "Darrell Hammond",
+      "role": "Captain Jack Swallows",
+      "url": "https://multimovies.city/cast/darrell-hammond/",
+      "image": "https://image.tmdb.org/t/p/w92/6yzLojcNxWcb2AYFYo2D0aXm6Ks.jpg"
+    },
+    {
+      "name": "Carmen Electra",
+      "role": "Mystique",
+      "url": "https://multimovies.city/cast/carmen-electra/",
+      "image": "https://image.tmdb.org/t/p/w92/oiNGbPpboR7uq9K7L2g63UZwyMq.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mSZog2CLzXBBItsWq3sPt6WH9rf.jpg",
+    "https://image.tmdb.org/t/p/w300/jk7zKQPvO4Qz1sl4EpcyRK9UxNs.jpg",
+    "https://image.tmdb.org/t/p/w300/eH16alA7Zj7BJSPDziVYyDgM2K3.jpg",
+    "https://image.tmdb.org/t/p/w300/4CZOF3niTBS0UfRRjRNol8IqLzr.jpg",
+    "https://image.tmdb.org/t/p/w300/2bAr2VJAspDvpoLNZvaaLF1pCJ.jpg",
+    "https://image.tmdb.org/t/p/w300/5y6WiX77zGCjta25Vz1EuYfmIO.jpg"
+  ],
+  "similar": [],
+  "views": 3006,
+  "sources": [
+    "https://www.youtube.com/embed/1ltiqNTYZbA?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ftrn5i0qj566",
+    "https://sbplay.org/embed-f0sz502srq66.html",
+    "https://dood.la/e/t1xqtztwtpdp",
+    "https://mixdrop.co/e/7rdg000phzw1rw",
+    "https://hydrax.net/watch?v=7yWhLfyd9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11557,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 11557,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 11557,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 11557,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 11557,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 11557,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:10:54.768119"
+}
