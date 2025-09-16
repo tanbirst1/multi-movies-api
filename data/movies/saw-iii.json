@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/saw-iii/",
+  "meta": {
+    "title": "Saw III",
+    "poster": "https://image.tmdb.org/t/p/w500/9wEGgXytb6Xy26MFtDq2rsiQBLs.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Oct. 26, 2006",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Jigsaw has disappeared. Along with his new apprentice Amanda, the puppet-master behind the cruel, intricate games that have terrified a community and baffled police has once again eluded capture and vanished. While city detective scrambles to locate him, Doctor Lynn Denlon and Jeff Reinhart are unaware that they are about to become the latest pawns on his vicious chessboard.",
+    "infoFields": {
+      "Original title": "Saw III",
+      "IMDb Rating": "6.2 204,152 votes",
+      "TMDb Rating": "6.4 4,018 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Darren Lynn Bousman",
+      "role": "Director",
+      "url": "https://multimovies.city/director/darren-lynn-bousman/",
+      "image": "https://image.tmdb.org/t/p/w92/7cphExMhm74Y5ELqKCq4lR3fGn8.jpg"
+    },
+    {
+      "name": "Tobin Bell",
+      "role": "John Kramer / Jigsaw",
+      "url": "https://multimovies.city/cast/tobin-bell/",
+      "image": "https://image.tmdb.org/t/p/w92/q21uuCtTioIVcGc3a1Q0DpdcNMO.jpg"
+    },
+    {
+      "name": "Shawnee Smith",
+      "role": "Amanda Young",
+      "url": "https://multimovies.city/cast/shawnee-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/s2Ouz4b7xqDH72aU48TSW5zS40v.jpg"
+    },
+    {
+      "name": "Angus Macfadyen",
+      "role": "Jeff Reinhart",
+      "url": "https://multimovies.city/cast/angus-macfadyen/",
+      "image": "https://image.tmdb.org/t/p/w92/yUuA7U3lw6yM0Eb6mD83qYeevH2.jpg"
+    },
+    {
+      "name": "Bahar Soomekh",
+      "role": "Lynn Denlon",
+      "url": "https://multimovies.city/cast/bahar-soomekh/",
+      "image": "https://image.tmdb.org/t/p/w92/pexK8WSgJFunUFizBlvGEz8ez9U.jpg"
+    },
+    {
+      "name": "Donnie Wahlberg",
+      "role": "Eric Matthews",
+      "url": "https://multimovies.city/cast/donnie-wahlberg/",
+      "image": "https://image.tmdb.org/t/p/w92/8OQTlgl7eGAFlKTF2o8rZZT0MoF.jpg"
+    },
+    {
+      "name": "Dina Meyer",
+      "role": "Kerry",
+      "url": "https://multimovies.city/cast/dina-meyer/",
+      "image": "https://image.tmdb.org/t/p/w92/bKte4cIXI1aQat8JLVNONZE4Y2.jpg"
+    },
+    {
+      "name": "Leigh Whannell",
+      "role": "Adam Stanheight",
+      "url": "https://multimovies.city/cast/leigh-whannell/",
+      "image": "https://image.tmdb.org/t/p/w92/wvoTbsROOHfCqJ3Voe9zpal429L.jpg"
+    },
+    {
+      "name": "Mpho Koaho",
+      "role": "Tim",
+      "url": "https://multimovies.city/cast/mpho-koaho/",
+      "image": "https://image.tmdb.org/t/p/w92/9KkpcpPwA4pcaRf9272LH2b7sDe.jpg"
+    },
+    {
+      "name": "Barry Flatman",
+      "role": "Judge Halden",
+      "url": "https://multimovies.city/cast/barry-flatman/",
+      "image": "https://image.tmdb.org/t/p/w92/jFilSZK7Th9qTQFQ3ZToU53ieAY.jpg"
+    },
+    {
+      "name": "Lyriq Bent",
+      "role": "Rigg",
+      "url": "https://multimovies.city/cast/lyriq-bent/",
+      "image": "https://image.tmdb.org/t/p/w92/qDd2q7C13sfeVDFPsMXRxHhGAvn.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qx8Pb3nVnHLBizI9792pbRN5nnm.jpg",
+    "https://image.tmdb.org/t/p/w300/7QpzvBxlyP2cVYFZQLa4HmxgN7N.jpg",
+    "https://image.tmdb.org/t/p/w300/kquJm3gXnMxKQyDTpoCrwWROzmI.jpg",
+    "https://image.tmdb.org/t/p/w300/AjlEYcb7mAs9aBxlClQVk1yOYhT.jpg",
+    "https://image.tmdb.org/t/p/w300/muEn1l6OTtyzF845QU56VAGkhZx.jpg",
+    "https://image.tmdb.org/t/p/w300/3s83roYpMVHX0SrZAgATcijJqWN.jpg",
+    "https://image.tmdb.org/t/p/w300/n3mTlkMUgmfqwNsSMdeyFuACy31.jpg",
+    "https://image.tmdb.org/t/p/w300/dHPecD1r1ryENixfltMWxmrkp2y.jpg",
+    "https://image.tmdb.org/t/p/w300/lQUN1I1o0BqIjGuvS1AxYDaQSEh.jpg"
+  ],
+  "similar": [],
+  "views": 2070,
+  "sources": [
+    "https://www.youtube.com/embed/zLLDDSknHaI?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/1pi8hex5kq09"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 32189,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 32189,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:07:38.941936"
+}
