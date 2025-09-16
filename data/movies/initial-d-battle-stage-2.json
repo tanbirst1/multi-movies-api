@@ -1,0 +1,59 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/initial-d-battle-stage-2/",
+  "meta": {
+    "title": "Initial D Battle Stage 2",
+    "poster": "https://image.tmdb.org/t/p/w500/fUlKUk0bClE6zNp0e3WKckEUZLo.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      }
+    ],
+    "firstAirDate": "May. 30, 2007",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Initial D Battle Stage 2 summarizes the major street races from the Initial D: Fourth Stage. Two races that were previously seen only in the manga were animated specially for this OVA. The first race is Takahashi Keisuke vs. Smiley Sakai, and the other is Keisuke vs. Kawai Atsuro.",
+    "infoFields": {
+      "Original title": "\u982d\u6587\u5b57D Battle Stage 2",
+      "IMDb Rating": "7.2 43 votes",
+      "TMDb Rating": "5.2 6 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tsuneo Tominaga",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tsuneo-tominaga/",
+      "image": "https://image.tmdb.org/t/p/w92/tTslWrNRyZvrCngW3Kya7u5BxKT.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kv6Iv5WUVgKEtP8XWCysITtReOW.jpg"
+  ],
+  "similar": [],
+  "views": 567,
+  "sources": [
+    "https://multimoviesshg.com/e/ygfwei4y55le"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 19214,
+      "nume": 1,
+      "title": "f"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:13:30.050086"
+}
