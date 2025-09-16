@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/no-country-for-old-men/",
+  "meta": {
+    "title": "No Country for Old Men",
+    "poster": "https://image.tmdb.org/t/p/w500/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 13, 2007",
+    "ratingValue": "10",
+    "ratingCount": "7",
+    "synopsis": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+    "infoFields": {
+      "Original title": "No Country for Old Men",
+      "IMDb Rating": "8.2 1,119,460 votes",
+      "TMDb Rating": "7.9 12,408 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Joel Coen",
+      "role": "Director",
+      "url": "https://multimovies.city/director/joel-coen/",
+      "image": "https://image.tmdb.org/t/p/w92/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg"
+    },
+    {
+      "name": "Javier Bardem",
+      "role": "Anton Chigurh",
+      "url": "https://multimovies.city/cast/javier-bardem/",
+      "image": "https://image.tmdb.org/t/p/w92/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "role": "Ed Tom Bell",
+      "url": "https://multimovies.city/cast/tommy-lee-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/kaJJkFHYLfM7zDNaenax00nhOkC.jpg"
+    },
+    {
+      "name": "Josh Brolin",
+      "role": "Llewelyn Moss",
+      "url": "https://multimovies.city/cast/josh-brolin/",
+      "image": "https://image.tmdb.org/t/p/w92/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "name": "Woody Harrelson",
+      "role": "Carson Wells",
+      "url": "https://multimovies.city/cast/woody-harrelson/",
+      "image": "https://image.tmdb.org/t/p/w92/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "name": "Kelly Macdonald",
+      "role": "Carla Jean Moss",
+      "url": "https://multimovies.city/cast/kelly-macdonald/",
+      "image": "https://image.tmdb.org/t/p/w92/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+    },
+    {
+      "name": "Garret Dillahunt",
+      "role": "Wendell",
+      "url": "https://multimovies.city/cast/garret-dillahunt/",
+      "image": "https://image.tmdb.org/t/p/w92/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
+    },
+    {
+      "name": "Tess Harper",
+      "role": "Loretta Bell",
+      "url": "https://multimovies.city/cast/tess-harper/",
+      "image": "https://image.tmdb.org/t/p/w92/8Z770Kk13MK1NP7skWmTxvRGx3V.jpg"
+    },
+    {
+      "name": "Barry Corbin",
+      "role": "Ellis",
+      "url": "https://multimovies.city/cast/barry-corbin/",
+      "image": "https://image.tmdb.org/t/p/w92/avNg0rmudSPg30f8Xt9BwkPDC17.jpg"
+    },
+    {
+      "name": "Stephen Root",
+      "role": "Man Who Hires Wells",
+      "url": "https://multimovies.city/cast/stephen-root/",
+      "image": "https://image.tmdb.org/t/p/w92/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "name": "Rodger Boyce",
+      "role": "El Paso Sheriff",
+      "url": "https://multimovies.city/cast/rodger-boyce/",
+      "image": "https://image.tmdb.org/t/p/w92/7ZgjcEJWDpQhtwLBg44uJPUlPvp.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mkXwF7FFWpf2dkOGCzQoeWX7M6R.jpg",
+    "https://image.tmdb.org/t/p/w300/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg",
+    "https://image.tmdb.org/t/p/w300/sGYqpLXCpqM0ryI5GX3MQVhKBiI.jpg",
+    "https://image.tmdb.org/t/p/w300/n7LXYfhGS89ZRMj8YaB9vRtQTpu.jpg",
+    "https://image.tmdb.org/t/p/w300/aFZZrbHkv5j0KxJ2sfRXv9AuyJ3.jpg",
+    "https://image.tmdb.org/t/p/w300/bQeuzbFtizthHztHpWW0Yw0ntHO.jpg",
+    "https://image.tmdb.org/t/p/w300/mXV8C6pXmYDMv94CrKGAhSBzXlN.jpg",
+    "https://image.tmdb.org/t/p/w300/l7pFt01sCWnfrTymEfbFghym5qu.jpg",
+    "https://image.tmdb.org/t/p/w300/ycyjQkBbpJcArPVLkOMqVy7fvig.jpg",
+    "https://image.tmdb.org/t/p/w300/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg"
+  ],
+  "similar": [],
+  "views": 1930,
+  "sources": [
+    "https://www.youtube.com/embed/NXDYCPI75Bo?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/woxpwqi"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 86512,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 86512,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:13:05.570603"
+}
