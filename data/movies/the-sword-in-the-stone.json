@@ -16,7 +16,7 @@
       }
     ],
     "firstAirDate": "Dec. 25, 1963",
-    "ratingValue": "6",
+    "ratingValue": "7",
     "ratingCount": "1",
     "synopsis": "Wart is a young boy who aspires to be a knight\u2019s squire. On a hunting trip he falls in on Merlin, a powerful but amnesiac wizard who has plans for him beyond mere squiredom. He starts by trying to give him an education, believing that once one has an education, one can go anywhere. Needless to say, it doesn\u2019t quite work out that way.",
     "infoFields": {
@@ -126,5 +126,6 @@
       "title": "v"
     }
   ],
-  "cache": false
+  "cache": false,
+  "last_update": "2025-09-16T17:02:14.144454"
 }
