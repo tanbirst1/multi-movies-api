@@ -1,0 +1,150 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/spawn/",
+  "meta": {
+    "title": "Spawn",
+    "poster": "https://image.tmdb.org/t/p/w500/3svvunKXkhRvEKByGDua1Qu0otq.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 31, 1997",
+    "ratingValue": "7",
+    "ratingCount": "3",
+    "synopsis": "After being murdered by corrupt colleagues in a covert government agency, Al Simmons makes a pact with the devil to be resurrected to see his beloved wife Wanda. In exchange for his return to Earth, Simmons agrees to lead Hell\u2019s Army in the destruction of mankind.",
+    "infoFields": {
+      "Original title": "Spawn",
+      "IMDb Rating": "5.2 73,707 votes",
+      "TMDb Rating": "5.419 1,347 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mark A.Z. Dipp\u00e9",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mark-a-z-dippe/",
+      "image": "https://image.tmdb.org/t/p/w92/AkBCnCgeOWlZM7Yg5qAyI4cQnwK.jpg"
+    },
+    {
+      "name": "Michael Jai White",
+      "role": "Al Simmons / Spawn",
+      "url": "https://multimovies.city/cast/michael-jai-white/",
+      "image": "https://image.tmdb.org/t/p/w92/YPoHYuzR37wFpPpwEXZYQlhLln.jpg"
+    },
+    {
+      "name": "Martin Sheen",
+      "role": "Jason Wynn",
+      "url": "https://multimovies.city/cast/martin-sheen/",
+      "image": "https://image.tmdb.org/t/p/w92/swaR9t7ftDn54Fxk7hbJ31W2thG.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "role": "Clown / Violator",
+      "url": "https://multimovies.city/cast/john-leguizamo/",
+      "image": "https://image.tmdb.org/t/p/w92/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "name": "Theresa Randle",
+      "role": "Wanda Blake",
+      "url": "https://multimovies.city/cast/theresa-randle/",
+      "image": "https://image.tmdb.org/t/p/w92/myBU9qG6wXHJfYF9cl07rvQmhUB.jpg"
+    },
+    {
+      "name": "Nicol Williamson",
+      "role": "Cogliostro",
+      "url": "https://multimovies.city/cast/nicol-williamson/",
+      "image": "https://image.tmdb.org/t/p/w92/hCGo3mIwSIE9VDOALwEfZUN7BGw.jpg"
+    },
+    {
+      "name": "D.B. Sweeney",
+      "role": "Terry Fitzgerald",
+      "url": "https://multimovies.city/cast/d-b-sweeney/",
+      "image": "https://image.tmdb.org/t/p/w92/enY28APVRWfyHjGAkh6VCkYCWOA.jpg"
+    },
+    {
+      "name": "Melinda Clarke",
+      "role": "Jessica Priest",
+      "url": "https://multimovies.city/cast/melinda-clarke/",
+      "image": "https://image.tmdb.org/t/p/w92/5yUofAZKl8Drw7DoRBecTbvKt89.jpg"
+    },
+    {
+      "name": "Miko Hughes",
+      "role": "Zack",
+      "url": "https://multimovies.city/cast/miko-hughes/",
+      "image": "https://image.tmdb.org/t/p/w92/apmHxkgtWe5bucTOrw92caoJftz.jpg"
+    },
+    {
+      "name": "Sydni Beaudoin",
+      "role": "Cyan",
+      "url": "https://multimovies.city/cast/sydni-beaudoin/",
+      "image": "https://image.tmdb.org/t/p/w92/t1pYYxS7KbXOjYIA2V0eCzKQktk.jpg"
+    },
+    {
+      "name": "Michael Papajohn",
+      "role": "Glen",
+      "url": "https://multimovies.city/cast/michael-papajohn/",
+      "image": "https://image.tmdb.org/t/p/w92/3daSNpAwPce3e57uxPKoeIHj5MK.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/41oen4uX7sy0aKSc5P1leJqvutE.jpg",
+    "https://image.tmdb.org/t/p/w300/bopRncEpFr0NmkF4mIgdEBTeNwc.jpg",
+    "https://image.tmdb.org/t/p/w300/3xyB65XLPyvgdwC2TAlcE36M90W.jpg",
+    "https://image.tmdb.org/t/p/w300/eSGNkNecPRhL8g9pDh16TKzeAUs.jpg",
+    "https://image.tmdb.org/t/p/w300/m3R8hkW5y7bFo3w3sIqP4W4itUe.jpg",
+    "https://image.tmdb.org/t/p/w300/fuUx5Ky4JBQCqp49vN9aUTc7WV1.jpg",
+    "https://image.tmdb.org/t/p/w300/sRVvwLWXx299LhYONdDER7sh3K2.jpg",
+    "https://image.tmdb.org/t/p/w300/eWsf1tRMCsE9c3VZ1FLA9JLUCQI.jpg",
+    "https://image.tmdb.org/t/p/w300/1OIF7YXxj8jAYO8PkfeiyhVOZy5.jpg",
+    "https://image.tmdb.org/t/p/w300/mRec1QtzJGq2SERNHAQeaM6GjEa.jpg"
+  ],
+  "similar": [],
+  "views": 3882,
+  "sources": [
+    "https://www.youtube.com/embed/AypOgfPJWDU?autoplay=0&autohide=1",
+    "https://player.videasy.net/movie/tt0120177"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 64344,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 64344,
+      "nume": 1,
+      "title": "vidsrc"
+    }
+  ],
+  "cache": false
+}
