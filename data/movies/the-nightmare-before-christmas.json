@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-nightmare-before-christmas/",
+  "meta": {
+    "title": "The Nightmare Before Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      }
+    ],
+    "firstAirDate": "Oct. 09, 1993",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack\u2019s rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+    "infoFields": {
+      "Original title": "The Nightmare Before Christmas",
+      "IMDb Rating": "7.9 377,828 votes",
+      "TMDb Rating": "7.837 9,178 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Henry Selick",
+      "role": "Director",
+      "url": "https://multimovies.city/director/henry-selick/",
+      "image": "https://image.tmdb.org/t/p/w92/2LvtcpV8njWrp2W9eXmTNjsAWev.jpg"
+    },
+    {
+      "name": "Danny Elfman",
+      "role": "Jack Skellington (singing) / Barrel / Clown with the Tear away Face (voice)",
+      "url": "https://multimovies.city/cast/danny-elfman/",
+      "image": "https://image.tmdb.org/t/p/w92/bcpur9bF56nLxzFzZowipA2wZhy.jpg"
+    },
+    {
+      "name": "Chris Sarandon",
+      "role": "Jack Skellington (voice)",
+      "url": "https://multimovies.city/cast/chris-sarandon/",
+      "image": "https://image.tmdb.org/t/p/w92/jP92Lq3JHl8mbdxzcZ6PyCQDwa5.jpg"
+    },
+    {
+      "name": "Catherine O'Hara",
+      "role": "Sally / Shock (voice)",
+      "url": "https://multimovies.city/cast/catherine-ohara/",
+      "image": "https://image.tmdb.org/t/p/w92/8Sf2dWSDXhFEaDBENlaLCdCTtm6.jpg"
+    },
+    {
+      "name": "William Hickey",
+      "role": "Dr. Finkelstein (voice)",
+      "url": "https://multimovies.city/cast/william-hickey/",
+      "image": "https://image.tmdb.org/t/p/w92/oPPyHJKJceliMLk8S8ldjuDg6V5.jpg"
+    },
+    {
+      "name": "Glenn Shadix",
+      "role": "Mayor (voice)",
+      "url": "https://multimovies.city/cast/glenn-shadix/",
+      "image": "https://image.tmdb.org/t/p/w92/zTu0Fh0ohLIvFnEXiRvhe91T3Wg.jpg"
+    },
+    {
+      "name": "Paul Reubens",
+      "role": "Lock (voice)",
+      "url": "https://multimovies.city/cast/paul-reubens/",
+      "image": "https://image.tmdb.org/t/p/w92/9xGL3pGNAiZDtzKTVDQY90Mkyqs.jpg"
+    },
+    {
+      "name": "Ken Page",
+      "role": "Oogie Boogie (voice)",
+      "url": "https://multimovies.city/cast/ken-page/",
+      "image": "https://image.tmdb.org/t/p/w92/pF2kpxQ9ycQyw3LvhmE5oJ4XQf1.jpg"
+    },
+    {
+      "name": "Edward Ivory",
+      "role": "Santa Claus (voice)",
+      "url": "https://multimovies.city/cast/edward-ivory/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Susan McBride",
+      "role": "Big Witch / WWD. (voice)",
+      "url": "https://multimovies.city/cast/susan-mcbride/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Debi Durst",
+      "role": "Corpse Kid / Corpse Mom / Small Witch (voice)",
+      "url": "https://multimovies.city/cast/debi-durst/",
+      "image": "https://image.tmdb.org/t/p/w92/eyciVzqLaB7qDxBJ20c0OaNBUSc.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+    "https://image.tmdb.org/t/p/w300/t9hzIXbK4PhNC9J6KGfPSaJD7vM.jpg",
+    "https://image.tmdb.org/t/p/w300/16lk65YfrDFIr6evkWRjSeOOSws.jpg",
+    "https://image.tmdb.org/t/p/w300/fcYu52ESKpvszWTCPuIJzPnmGL1.jpg",
+    "https://image.tmdb.org/t/p/w300/6KpVGfJW1fdGaYAnY8gtvkj4uIQ.jpg",
+    "https://image.tmdb.org/t/p/w300/neEX66q5eYH8vgZIG09pOuj462w.jpg",
+    "https://image.tmdb.org/t/p/w300/yjJlS0gxWJ7gDe9lX8iL3tMhXN8.jpg",
+    "https://image.tmdb.org/t/p/w300/3BOyU7H74AmoeGbsPhdZdrwW7By.jpg",
+    "https://image.tmdb.org/t/p/w300/va8pptilM7jU4E4Qr1XFfLFvnra.jpg",
+    "https://image.tmdb.org/t/p/w300/he1ZACJs6NdI1cNNlV43soxFdAn.jpg"
+  ],
+  "similar": [],
+  "views": 542,
+  "sources": [
+    "https://www.youtube.com/embed/PK0xIcWlz9Q?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/obbrlzz"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58542,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58542,
+      "nume": 1,
+      "title": "gdmirror"
+    }
+  ],
+  "cache": false
+}
