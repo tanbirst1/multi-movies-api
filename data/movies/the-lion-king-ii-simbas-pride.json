@@ -4,15 +4,136 @@
   "meta": {
     "title": "The Lion King II: Simba\u2019s Pride",
     "poster": "https://image.tmdb.org/t/p/w500/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg",
-    "synopsis": "The circle of life continues for Simba, now fully grown and in his rightful place as the king of Pride Rock. Simba and Nala have given birth to a daughter, Kiara who\u2019s as rebellious as her father was. But Kiara drives her parents to distraction when she catches the eye of Kovu, the son of the evil lioness, Zira. Will Kovu steal Kiara\u2019s heart?"
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Oct. 24, 1998",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "The circle of life continues for Simba, now fully grown and in his rightful place as the king of Pride Rock. Simba and Nala have given birth to a daughter, Kiara who\u2019s as rebellious as her father was. But Kiara drives her parents to distraction when she catches the eye of Kovu, the son of the evil lioness, Zira. Will Kovu steal Kiara\u2019s heart?",
+    "infoFields": {
+      "Original title": "The Lion King II: Simba's Pride",
+      "IMDb Rating": "6.4 70,990 votes",
+      "TMDb Rating": "6.943 4,020 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Darrell Rooney",
+      "role": "Director",
+      "url": "https://multimovies.city/director/darrell-rooney/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Matthew Broderick",
+      "role": "Simba (voice)",
+      "url": "https://multimovies.city/cast/matthew-broderick/",
+      "image": "https://image.tmdb.org/t/p/w92/2Pq8pwOX5ZFfT2p5pNLGfvUi9Pp.jpg"
+    },
+    {
+      "name": "Neve Campbell",
+      "role": "Kiara (voice)",
+      "url": "https://multimovies.city/cast/neve-campbell/",
+      "image": "https://image.tmdb.org/t/p/w92/9fDbXBbrM6L10YrzDJUJowDt8U.jpg"
+    },
+    {
+      "name": "Jason Marsden",
+      "role": "Kovu (voice)",
+      "url": "https://multimovies.city/cast/jason-marsden/",
+      "image": "https://image.tmdb.org/t/p/w92/53aVh2ka0b4ZyR8dO8hBTQxQ9hc.jpg"
+    },
+    {
+      "name": "Nathan Lane",
+      "role": "Timon (voice)",
+      "url": "https://multimovies.city/cast/nathan-lane/",
+      "image": "https://image.tmdb.org/t/p/w92/nEYS0KO1qVO3y0RAt8V8pFxnPb7.jpg"
+    },
+    {
+      "name": "Ernie Sabella",
+      "role": "Pumbaa (voice)",
+      "url": "https://multimovies.city/cast/ernie-sabella/",
+      "image": "https://image.tmdb.org/t/p/w92/dBit6gkZfxXqdxO0Ic8CsnLpxyQ.jpg"
+    },
+    {
+      "name": "Andy Dick",
+      "role": "Nuka (voice)",
+      "url": "https://multimovies.city/cast/andy-dick/",
+      "image": "https://image.tmdb.org/t/p/w92/n4WT4oYoYrzSGAanlWPsneCzBPk.jpg"
+    },
+    {
+      "name": "Robert Guillaume",
+      "role": "Rafiki (voice)",
+      "url": "https://multimovies.city/cast/robert-guillaume/",
+      "image": "https://image.tmdb.org/t/p/w92/prqxpeFeyyarRxxfaMHrqCKVyhV.jpg"
+    },
+    {
+      "name": "James Earl Jones",
+      "role": "Mufasa (voice)",
+      "url": "https://multimovies.city/cast/james-earl-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+    },
+    {
+      "name": "Moira Kelly",
+      "role": "Nala (voice)",
+      "url": "https://multimovies.city/cast/moira-kelly/",
+      "image": "https://image.tmdb.org/t/p/w92/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg"
+    },
+    {
+      "name": "Suzanne Pleshette",
+      "role": "Zira (voice)",
+      "url": "https://multimovies.city/cast/suzanne-pleshette/",
+      "image": "https://image.tmdb.org/t/p/w92/vSuO3CnNkoCefZVTpCARNfJPYhr.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vyOFlV1afDHb9MMwJVyON4qXbvC.jpg",
+    "https://image.tmdb.org/t/p/w300/9mBQu3cMwMc71HLzjB1xBaPs46R.jpg",
+    "https://image.tmdb.org/t/p/w300/8M3w9rrd7tsceWRGtdSxpzFZbxA.jpg",
+    "https://image.tmdb.org/t/p/w300/9eAgyiK38EijqISLQuwmN7MjkUc.jpg",
+    "https://image.tmdb.org/t/p/w300/1LCApjOy7HlZAB937Aiyae9eDRG.jpg",
+    "https://image.tmdb.org/t/p/w300/2OwhA7dEXFYw1BW79b3rCTZAhdJ.jpg",
+    "https://image.tmdb.org/t/p/w300/mlLM0fERcKZXWFH8vUPSdh4o749.jpg",
+    "https://image.tmdb.org/t/p/w300/s3mnN7QqOlEdvMbP2XAACZcssRr.jpg",
+    "https://image.tmdb.org/t/p/w300/28U8NK3kyMPcVKeg2E26nSoghGd.jpg",
+    "https://image.tmdb.org/t/p/w300/sLJodefXsdBcLepfjPAMws6xBRF.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 1961,
+  "sources": [
+    "https://www.youtube.com/embed/aylCi6thmHM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/lqdiy8ak83wh"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5832,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5832,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:20:44"
+  "last_update": "2025-09-16T17:23:46.014712"
 }
