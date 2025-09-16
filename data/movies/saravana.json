@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/saravana/",
+  "meta": {
+    "title": "Dangerous Khiladi 7 \u2013 Saravana",
+    "poster": "https://image.tmdb.org/t/p/w500/ngH32R3Fc730M1Tf2pjiDaY3MUC.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "South Indian",
+        "url": "https://multimovies.city/genre/south-indian/"
+      }
+    ],
+    "firstAirDate": "Feb. 01, 2006",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Saravana and Krishna are close buddies in college. Saravana sees a video tape of Krishna\u2019s sister Sadhana studying in London and falls in love with her. So to meet her, Saravana goes with Krishna to a village near Tirunelveli where he finds that there is a bloody war going on between two warring caste groups. Krishna\u2019s brother Soundarapandi his wife and Krishna are killed by the rival group of Dorai Singam. However Saravana saves Sadhana and takes her to Chennai. Initially Sadhana is not accepted by Saravana\u2019s large family but slowly when they come to know about her background they support and love her. The rest of the film is how Saravana tries to help Sadhana to go back to London, and in the process eliminates the entire gang of Dorai Singam single-handedly.",
+    "infoFields": {
+      "Original title": "\u0b9a\u0bb0\u0bb5\u0ba3\u0bbe",
+      "IMDb Rating": "5.1 759 votes",
+      "TMDb Rating": "4.7 3 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "K. S. Ravikumar",
+      "role": "Director",
+      "url": "https://multimovies.city/director/k-s-ravikumar/",
+      "image": "https://image.tmdb.org/t/p/w92/8dUdM3sFvL4aXnDtLJJCkDMNEbo.jpg"
+    },
+    {
+      "name": "Silambarasan",
+      "role": "Saravana",
+      "url": "https://multimovies.city/cast/silambarasan/",
+      "image": "https://image.tmdb.org/t/p/w92/1T35CiKVldfxElZfQqaoN6GhvuU.jpg"
+    },
+    {
+      "name": "Jyothika",
+      "role": "Sadhana",
+      "url": "https://multimovies.city/cast/jyothika/",
+      "image": "https://image.tmdb.org/t/p/w92/mW8qNBnHhTFlNPA6hj01pNK35UV.jpg"
+    },
+    {
+      "name": "Prakash Raj",
+      "role": "Soundarapandi",
+      "url": "https://multimovies.city/cast/prakash-raj/",
+      "image": "https://image.tmdb.org/t/p/w92/QbWfctGpZFmnZySUGYIq2sq5sj.jpg"
+    },
+    {
+      "name": "Vivek",
+      "role": "V C Damodaran (VCD)",
+      "url": "https://multimovies.city/cast/vivek/",
+      "image": "https://image.tmdb.org/t/p/w92/bewezDUvFZ3I4vUsHUyTTZl9e2D.jpg"
+    },
+    {
+      "name": "Meghna Naidu",
+      "role": "Saravana's cousin",
+      "url": "https://multimovies.city/cast/meghna-naidu/",
+      "image": "https://image.tmdb.org/t/p/w92/ooUPTUD5oiQlWNBpYnBRrvZjQz9.jpg"
+    },
+    {
+      "name": "Nagesh",
+      "role": "Saravana's grandfather",
+      "url": "https://multimovies.city/cast/nagesh/",
+      "image": "https://image.tmdb.org/t/p/w92/xdnTYaRUGrmk3lzsOiZUVbCKbsF.jpg"
+    },
+    {
+      "name": "Devadarshini",
+      "role": "Saravana's sister-in-law",
+      "url": "https://multimovies.city/cast/devadarshini/",
+      "image": "https://image.tmdb.org/t/p/w92/gSq4nM6z82LfI4yjL116P1RDkb0.jpg"
+    },
+    {
+      "name": "Radha Ravi",
+      "role": "Saravana's father",
+      "url": "https://multimovies.city/cast/radha-ravi/",
+      "image": "https://image.tmdb.org/t/p/w92/tyL3XTRkbJVqyVDIE6dHFmv7R4d.jpg"
+    },
+    {
+      "name": "Nizhalgal Ravi",
+      "role": "Saravana's uncle",
+      "url": "https://multimovies.city/cast/nizhalgal-ravi/",
+      "image": "https://image.tmdb.org/t/p/w92/g62k2PPCRcet0PhagJxS3rFTpdK.jpg"
+    },
+    {
+      "name": "Tharika",
+      "role": "Saravana's sister",
+      "url": "https://multimovies.city/cast/tharika/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 345,
+  "sources": [
+    "https://www.youtube.com/embed/zHMIwAcbKcs?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ya8y13abcooe"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 37540,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 37540,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:02:36.899153"
+}
