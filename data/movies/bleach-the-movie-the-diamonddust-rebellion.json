@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/bleach-the-movie-the-diamonddust-rebellion/",
+  "meta": {
+    "title": "Bleach the Movie: The DiamondDust Rebellion",
+    "poster": "https://image.tmdb.org/t/p/w500/1PV8OKvHSYvgmdVnU2wcuzQGthP.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime",
+        "url": "https://multimovies.city/genre/anime/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      }
+    ],
+    "firstAirDate": "Dec. 22, 2007",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "When an artifact known as the \u201cKing\u2019s Seal\u201d is stolen during transport from Soul Society, Hitsugaya Toushirou is assigned to retrieve it. Toushirou goes missing after a battle with the thieves, leading Seireitei to suspect him of treachery. They order his immediate capture and execution. Unwilling to believe him capable of such a crime, Ichigo, Rangiku, Rukia, and Renji set out to find Toushirou.",
+    "infoFields": {
+      "Original title": "\u5287\u5834\u7248 BLEACH The DiamondDust Rebellion \u3082\u3046\u4e00\u3064\u306e\u6c37\u8f2a\u4e38",
+      "IMDb Rating": "7 3,211 votes",
+      "TMDb Rating": "6.714 138 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Noriyuki Abe",
+      "role": "Director",
+      "url": "https://multimovies.city/director/noriyuki-abe/",
+      "image": "https://image.tmdb.org/t/p/w92/6nzuwp18s7P0Rt78uBVkzlUzaCb.jpg"
+    },
+    {
+      "name": "Masakazu Morita",
+      "role": "Ichigo Kurosaki (voice)",
+      "url": "https://multimovies.city/cast/masakazu-morita/",
+      "image": "https://image.tmdb.org/t/p/w92/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+    },
+    {
+      "name": "Romi Park",
+      "role": "Toushirou Hitsugaya (voice)",
+      "url": "https://multimovies.city/cast/romi-park/",
+      "image": "https://image.tmdb.org/t/p/w92/fl9vyA3HEkOyTiZBJBhAR3OSmrO.jpg"
+    },
+    {
+      "name": "Akira Ishida",
+      "role": "Soujirou Kusaka (voice)",
+      "url": "https://multimovies.city/cast/akira-ishida/",
+      "image": "https://image.tmdb.org/t/p/w92/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg"
+    },
+    {
+      "name": "Fumiko Orikasa",
+      "role": "Rukia Kuchiki (voice)",
+      "url": "https://multimovies.city/cast/fumiko-orikasa/",
+      "image": "https://image.tmdb.org/t/p/w92/e7yC3GzPli4uHO1flPUozlXXIue.jpg"
+    },
+    {
+      "name": "Kentaro Ito",
+      "role": "Renji Abarai (voice)",
+      "url": "https://multimovies.city/cast/kentaro-ito/",
+      "image": "https://image.tmdb.org/t/p/w92/sXafSaiG99lBVV8lpkNC2naHjdR.jpg"
+    },
+    {
+      "name": "Kaya Matsutani",
+      "role": "Rangiku Matsumoto (voice)",
+      "url": "https://multimovies.city/cast/kaya-matsutani/",
+      "image": "https://image.tmdb.org/t/p/w92/sIHjQlnp0cNbemJxPbJPQAgVzCP.jpg"
+    },
+    {
+      "name": "Masaaki Tsukada",
+      "role": "Shigekuni Genryusai Yamamoto (voice)",
+      "url": "https://multimovies.city/cast/masaaki-tsukada/",
+      "image": "https://image.tmdb.org/t/p/w92/A5QYt2SgAOqxQ7972gTG7nUG6eL.jpg"
+    },
+    {
+      "name": "Aya Hisakawa",
+      "role": "Ying / Retsu Unohana (voice)",
+      "url": "https://multimovies.city/cast/aya-hisakawa/",
+      "image": "https://image.tmdb.org/t/p/w92/12lHLihOdJm6AmAhRLNOLbeTfqn.jpg"
+    },
+    {
+      "name": "Yukana",
+      "role": "Yang / Isane Kotetsu (voice)",
+      "url": "https://multimovies.city/cast/yukana/",
+      "image": "https://image.tmdb.org/t/p/w92/viqcI41bd7v3ffcUBRW7OsUypZR.jpg"
+    },
+    {
+      "name": "Noriaki Sugiyama",
+      "role": "Uryu Ishida (voice)",
+      "url": "https://multimovies.city/cast/noriaki-sugiyama/",
+      "image": "https://image.tmdb.org/t/p/w92/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vTTTVK44UVpi2HtE1DbKkgiMpAk.jpg"
+  ],
+  "similar": [],
+  "views": 3677,
+  "sources": [
+    "https://www.youtube.com/embed/ZutJnBCn8tE?autoplay=0&autohide=1",
+    "https://multimovies.website/e/ulmkeik1brik.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1918,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1918,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:18:33.643102"
+}
