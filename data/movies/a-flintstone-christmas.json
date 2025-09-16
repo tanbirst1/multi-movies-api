@@ -1,0 +1,126 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/a-flintstone-christmas/",
+  "meta": {
+    "title": "A Flintstone Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/sr44PyHsoDdw55Ci1FzWFj7iKnS.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "TV Movie",
+        "url": "https://multimovies.city/genre/tv-movie/"
+      }
+    ],
+    "firstAirDate": "Dec. 07, 1977",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Santa has an accident at Fred\u2019s house on Christmas Eve, Fred and Barney have to continue his run for him.",
+    "infoFields": {
+      "Original title": "A Flintstone Christmas",
+      "IMDb Rating": "6.8 894 votes",
+      "TMDb Rating": "6.474 39 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Charles A. Nichols",
+      "role": "Director",
+      "url": "https://multimovies.city/director/charles-a-nichols/",
+      "image": "https://image.tmdb.org/t/p/w92/yMjwEUsG8jSHGiVIfHQP0pEipMB.jpg"
+    },
+    {
+      "name": "Henry Corden",
+      "role": "Fred Flintstone (voice)",
+      "url": "https://multimovies.city/cast/henry-corden/",
+      "image": "https://image.tmdb.org/t/p/w92/wTt3jkTCEYyej9vGYQjgHERYzgo.jpg"
+    },
+    {
+      "name": "Mel Blanc",
+      "role": "Barney Rubble / Dino (voice)",
+      "url": "https://multimovies.city/cast/mel-blanc/",
+      "image": "https://image.tmdb.org/t/p/w92/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+    },
+    {
+      "name": "Jean Vander Pyl",
+      "role": "Wilma Flintstone / Pebbles Flintstone (voice)",
+      "url": "https://multimovies.city/cast/jean-vander-pyl/",
+      "image": "https://image.tmdb.org/t/p/w92/pHJjddmRyn3f2TP2HmgcGhY0HMT.jpg"
+    },
+    {
+      "name": "Gay Autterson",
+      "role": "Betty Rubble (voice)",
+      "url": "https://multimovies.city/cast/gay-autterson/",
+      "image": "https://image.tmdb.org/t/p/w92/qZBNdlElPHkLuuxDAfCOZMdBjvb.jpg"
+    },
+    {
+      "name": "Lucille Bliss",
+      "role": "Bamm Bamm Rubble (voice)",
+      "url": "https://multimovies.city/cast/lucille-bliss/",
+      "image": "https://image.tmdb.org/t/p/w92/4PE7Fm9Jzl5Klcnfbm8qjfer1lo.jpg"
+    },
+    {
+      "name": "John Stephenson",
+      "role": "Mr. George Nate Slate (voice)",
+      "url": "https://multimovies.city/cast/john-stephenson/",
+      "image": "https://image.tmdb.org/t/p/w92/2WWZ5IAdGNlsCAcw8CefvsBeo9i.jpg"
+    },
+    {
+      "name": "Don Messick",
+      "role": "Ed the Foreman / Otis (voice)",
+      "url": "https://multimovies.city/cast/don-messick/",
+      "image": "https://image.tmdb.org/t/p/w92/iT3okvWCKy6RAdo6dbx09RP0I3p.jpg"
+    },
+    {
+      "name": "Virginia Gregg",
+      "role": "Mrs. Santa Claus (voice)",
+      "url": "https://multimovies.city/cast/virginia-gregg/",
+      "image": "https://image.tmdb.org/t/p/w92/AmNAKjlShaPxv7C3Z2xYC0vvSk5.jpg"
+    },
+    {
+      "name": "Hal Smith",
+      "role": "Santa Claus (voice)",
+      "url": "https://multimovies.city/cast/hal-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg"
+    },
+    {
+      "name": "Paul Berval",
+      "role": "Fred Caillou",
+      "url": "https://multimovies.city/cast/paul-berval/",
+      "image": "https://image.tmdb.org/t/p/w92/fB1yn6Ag8ksiDu2jIxzj8l2Za7R.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/f6CVFnfzcoC6u6c9srDZu7CXF3G.jpg"
+  ],
+  "similar": [],
+  "views": 609,
+  "sources": [
+    "https://multimoviesshg.com/e/r3xw1m4hv1y7"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18626,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
