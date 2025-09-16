@@ -1,0 +1,146 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-losers/",
+  "meta": {
+    "title": "The Losers",
+    "poster": "https://image.tmdb.org/t/p/w500/b9dVH0n7YnBqLmW2c5AzftxhhpH.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Apr. 23, 2010",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "On a mission deep in the Bolivian jungle, a team of elite commandos finds itself on the receiving end of a lethal betrayal. Now presumed dead, the men join forces with a mysterious operative named Aisha to hunt down their enemy and even the score.",
+    "infoFields": {
+      "Original title": "The Losers",
+      "IMDb Rating": "6.2 110,149 votes",
+      "TMDb Rating": "6.264 1,866 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sylvain White",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sylvain-white/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Jeffrey Dean Morgan",
+      "role": "Clay",
+      "url": "https://multimovies.city/cast/jeffrey-dean-morgan/",
+      "image": "https://image.tmdb.org/t/p/w92/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+    },
+    {
+      "name": "Zoe Salda\u00f1a",
+      "role": "Aisha",
+      "url": "https://multimovies.city/cast/zoe-saldana/",
+      "image": "https://image.tmdb.org/t/p/w92/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+    },
+    {
+      "name": "Chris Evans",
+      "role": "Jensen",
+      "url": "https://multimovies.city/cast/chris-evans/",
+      "image": "https://image.tmdb.org/t/p/w92/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "name": "Idris Elba",
+      "role": "Roque",
+      "url": "https://multimovies.city/cast/idris-elba/",
+      "image": "https://image.tmdb.org/t/p/w92/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "name": "Columbus Short",
+      "role": "Pooch",
+      "url": "https://multimovies.city/cast/columbus-short/",
+      "image": "https://image.tmdb.org/t/p/w92/rUHCNAvu9xOmBP7i9jAABR7j5cg.jpg"
+    },
+    {
+      "name": "\u00d3scar Jaenada",
+      "role": "Cougar",
+      "url": "https://multimovies.city/cast/oscar-jaenada/",
+      "image": "https://image.tmdb.org/t/p/w92/qwphNLIwMyQW2ZLA0g0l1zFiB3w.jpg"
+    },
+    {
+      "name": "Jason Patric",
+      "role": "Max",
+      "url": "https://multimovies.city/cast/jason-patric/",
+      "image": "https://image.tmdb.org/t/p/w92/iv21ZjE90f9QNiNONKF9Lp6ZD68.jpg"
+    },
+    {
+      "name": "Holt McCallany",
+      "role": "Wade",
+      "url": "https://multimovies.city/cast/holt-mccallany/",
+      "image": "https://image.tmdb.org/t/p/w92/nHZgHsBc8P69LFTGsDSrZYt2PmS.jpg"
+    },
+    {
+      "name": "Peter Macdissi",
+      "role": "Vikram",
+      "url": "https://multimovies.city/cast/peter-macdissi/",
+      "image": "https://image.tmdb.org/t/p/w92/r6ZrXP1FFeQCk82Ox6QNCgFcT0i.jpg"
+    },
+    {
+      "name": "Peter Francis James",
+      "role": "Fadhil",
+      "url": "https://multimovies.city/cast/peter-francis-james/",
+      "image": "https://image.tmdb.org/t/p/w92/5SoURAlFOANJ9ZnaGoVHtTjurbF.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hACMcim5NtMH3S62sQAWkdLVpIK.jpg",
+    "https://image.tmdb.org/t/p/w300/rfMpUe6lcIrxhbz8Yqes2oLVW1B.jpg",
+    "https://image.tmdb.org/t/p/w300/9yIJyuFzCIUfV6J1y7ZaymTzWKI.jpg",
+    "https://image.tmdb.org/t/p/w300/lOUCEvBPIrIoC9rLPdN0fF282wu.jpg",
+    "https://image.tmdb.org/t/p/w300/AoMb1se4NlKdSINCThp0ZQI20Wm.jpg",
+    "https://image.tmdb.org/t/p/w300/aCuJhT16ZMCbRZ5k6pRwTsAFLxp.jpg",
+    "https://image.tmdb.org/t/p/w300/hAq7ZMTWclYyfSPBpi2XMpTTI1C.jpg",
+    "https://image.tmdb.org/t/p/w300/cRVIct3VmRyvUlggOz3hQQXiw9P.jpg",
+    "https://image.tmdb.org/t/p/w300/tKoszRwDxZVdv3EyMWqXW7GUsL.jpg"
+  ],
+  "similar": [],
+  "views": 1251,
+  "sources": [
+    "https://www.youtube.com/embed/OmFTjvdrfyY?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/pn48y4h"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 100211,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 100211,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:41:35.345080"
+}
