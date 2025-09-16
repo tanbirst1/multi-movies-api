@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/paathshaala/",
+  "meta": {
+    "title": "Paathshaala",
+    "poster": "https://image.tmdb.org/t/p/w500/2MwfQpuOMCcN9D1vOnNNW1MgdTH.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Apr. 16, 2010",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A new English school teacher ends up leading both teachers and students to revolt against the school management.",
+    "infoFields": {
+      "Original title": "\u092a\u093e\u0920\u0936\u093e\u0933\u093e",
+      "IMDb Rating": "5 1,843 votes",
+      "TMDb Rating": "4.9 16 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Milind Ukey",
+      "role": "Director",
+      "url": "https://multimovies.city/director/milind-ukey/",
+      "image": "https://image.tmdb.org/t/p/w92/mTTxnjxGTSAl3loYLJdJ50VZs47.jpg"
+    },
+    {
+      "name": "Shahid Kapoor",
+      "role": "Rahul Prakash Udyavar",
+      "url": "https://multimovies.city/cast/shahid-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/q5jqLRioZgIVjXpKS8XHx27ScDQ.jpg"
+    },
+    {
+      "name": "Nana Patekar",
+      "role": "Aditya Sahay",
+      "url": "https://multimovies.city/cast/nana-patekar/",
+      "image": "https://image.tmdb.org/t/p/w92/gnhcslE2k2pgZK9xi1XFNZvZiEs.jpg"
+    },
+    {
+      "name": "Ayesha Takia",
+      "role": "Anjali Mathur",
+      "url": "https://multimovies.city/cast/ayesha-takia/",
+      "image": "https://image.tmdb.org/t/p/w92/nMwZp4tfg6W4BkkWpaXesUMUAxR.jpg"
+    },
+    {
+      "name": "Sushant Singh",
+      "role": "Vijendre Chauhan",
+      "url": "https://multimovies.city/cast/sushant-singh/",
+      "image": "https://image.tmdb.org/t/p/w92/cAXp9JphzW3E90OHhxyBB7JXyiO.jpg"
+    },
+    {
+      "name": "Saurabh Shukla",
+      "role": "Lallan Sharma",
+      "url": "https://multimovies.city/cast/saurabh-shukla/",
+      "image": "https://image.tmdb.org/t/p/w92/uFGVBmRIHLAQkYYSI2lSXOxMi4f.jpg"
+    },
+    {
+      "name": "Aanjjan Srivastav",
+      "role": "Waghmare",
+      "url": "https://multimovies.city/cast/aanjjan-srivastav/",
+      "image": "https://image.tmdb.org/t/p/w92/bF5vxtg7bc57bTunHq70dWwalRy.jpg"
+    },
+    {
+      "name": "Kurush Deboo",
+      "role": "Cyrus Hansotia",
+      "url": "https://multimovies.city/cast/kurush-deboo/",
+      "image": "https://image.tmdb.org/t/p/w92/lH8PVl0Ph9xebEwj7vnEsFs7tN4.jpg"
+    },
+    {
+      "name": "Sanatan Mody",
+      "role": "Farooque",
+      "url": "https://multimovies.city/cast/sanatan-mody/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Shraddha Arya",
+      "role": "Natasha",
+      "url": "https://multimovies.city/cast/shraddha-arya/",
+      "image": "https://image.tmdb.org/t/p/w92/98dJGprftDK5HY9fautt779gT3r.jpg"
+    },
+    {
+      "name": "Kainaz Motivala",
+      "role": "Shailey",
+      "url": "https://multimovies.city/cast/kainaz-motivala/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/jLDYuWxpmLfk3jl3QAxHu3HueSC.jpg"
+  ],
+  "similar": [],
+  "views": 643,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/voo2h7z"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18569,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:41:51.236273"
+}
