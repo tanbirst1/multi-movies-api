@@ -4,15 +4,168 @@
   "meta": {
     "title": "Lara Croft: Tomb Raider",
     "poster": "https://image.tmdb.org/t/p/w500/7WyMvoqPYJe5g1ENsbLTv40pUrX.jpg",
-    "synopsis": "English aristocrat Lara Croft is skilled in hand-to-hand combat and in the middle of a battle with a secret society. The shapely archaeologist moonlights as a tomb raider to recover lost antiquities and meets her match in the evil Powell, who\u2019s in search of a powerful relic."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 11, 2001",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "English aristocrat Lara Croft is skilled in hand-to-hand combat and in the middle of a battle with a secret society. The shapely archaeologist moonlights as a tomb raider to recover lost antiquities and meets her match in the evil Powell, who\u2019s in search of a powerful relic.",
+    "infoFields": {
+      "Original title": "Lara Croft: Tomb Raider",
+      "IMDb Rating": "5.7 213,137 votes",
+      "TMDb Rating": "5.87 5,555 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Simon West",
+      "role": "Director",
+      "url": "https://multimovies.city/director/simon-west/",
+      "image": "https://image.tmdb.org/t/p/w92/yQpwEIsszmeVCmEAp8yrPP8LtvS.jpg"
+    },
+    {
+      "name": "Angelina Jolie",
+      "role": "Lara Croft",
+      "url": "https://multimovies.city/cast/angelina-jolie/",
+      "image": "https://image.tmdb.org/t/p/w92/k3W1XXddDOH2zibPkNotIh5amHo.jpg"
+    },
+    {
+      "name": "Iain Glen",
+      "role": "Manfred Powell",
+      "url": "https://multimovies.city/cast/iain-glen/",
+      "image": "https://image.tmdb.org/t/p/w92/n9zXQhjtXQnc30kqF66hdX4i3PG.jpg"
+    },
+    {
+      "name": "Daniel Craig",
+      "role": "Alex West",
+      "url": "https://multimovies.city/cast/daniel-craig/",
+      "image": "https://image.tmdb.org/t/p/w92/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+    },
+    {
+      "name": "Noah Taylor",
+      "role": "Bryce",
+      "url": "https://multimovies.city/cast/noah-taylor/",
+      "image": "https://image.tmdb.org/t/p/w92/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
+    },
+    {
+      "name": "Chris Barrie",
+      "role": "Hillary",
+      "url": "https://multimovies.city/cast/chris-barrie/",
+      "image": "https://image.tmdb.org/t/p/w92/keLQKDT2DeGzmpCbUgLD3yJp31a.jpg"
+    },
+    {
+      "name": "Jon Voight",
+      "role": "Lord Richard Croft",
+      "url": "https://multimovies.city/cast/jon-voight/",
+      "image": "https://image.tmdb.org/t/p/w92/h5jKQHLRQqqgvsfCXgxxtywx7UQ.jpg"
+    },
+    {
+      "name": "Julian Rhind-Tutt",
+      "role": "Mr. Pimms",
+      "url": "https://multimovies.city/cast/julian-rhind-tutt/",
+      "image": "https://image.tmdb.org/t/p/w92/jvwtFc8XFpTb7NX1XRJX8TOfH5.jpg"
+    },
+    {
+      "name": "Leslie Phillips",
+      "role": "Wilson",
+      "url": "https://multimovies.city/cast/leslie-phillips/",
+      "image": "https://image.tmdb.org/t/p/w92/d3Zz0Nsww3xJhVkm6QVx6nTpv7v.jpg"
+    },
+    {
+      "name": "Richard Johnson",
+      "role": "Distinguished Gentleman",
+      "url": "https://multimovies.city/cast/richard-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/fWxg3ExwdJz6JgfsaoS2jfTDtLG.jpg"
+    },
+    {
+      "name": "Robert Phillips",
+      "role": "Assault Team Leader (Julius)",
+      "url": "https://multimovies.city/cast/robert-phillips/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ic50CVnRJY3yE9M8xzwlS7ikPga.jpg",
+    "https://image.tmdb.org/t/p/w300/7LBuclUvmdT5HjsJDQIp5dxMVMS.jpg",
+    "https://image.tmdb.org/t/p/w300/n1InWkZLUFBKg6cOpuBoIvpb1pk.jpg",
+    "https://image.tmdb.org/t/p/w300/658qzPSNB20Qh7GEiAzBFubVhg1.jpg",
+    "https://image.tmdb.org/t/p/w300/6a3tiuwoM0vyytHkQHNmMppijCe.jpg",
+    "https://image.tmdb.org/t/p/w300/ypOqTBIrz7XxSbP9B6W4lWqZe0T.jpg",
+    "https://image.tmdb.org/t/p/w300/qa0R8LCis5t8WCURDOmxC75WWRh.jpg",
+    "https://image.tmdb.org/t/p/w300/onBMNwh7OZ77L2Dw9rJTmXzO5pt.jpg",
+    "https://image.tmdb.org/t/p/w300/xblEKUktxzE53NKAPtgzeG0SvbE.jpg",
+    "https://image.tmdb.org/t/p/w300/boHKKRdKnv8huVxiakNPQGSmli2.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 2870,
+  "sources": [
+    "https://www.youtube.com/embed/1OIxpwWl98M?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/xkuok2joubr7",
+    "https://sbplay.org/embed-vmcwnqus5fzl.html",
+    "https://dood.la/e/ntsdeg2nx5rh",
+    "https://mixdrop.co/e/wnoxe046axmmlp",
+    "https://hydrax.net/watch?v=SuSvKjQiLR"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 14101,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 14101,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 14101,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 14101,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 14101,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 14101,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:29:30.630534"
 }
