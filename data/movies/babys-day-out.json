@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/babys-day-out/",
+  "meta": {
+    "title": "Baby\u2019s Day Out",
+    "poster": "https://image.tmdb.org/t/p/w500/21U2jwl36hoTHsXB3fDuIQkcchu.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jul. 01, 1994",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Baby Bink couldn\u2019t ask for more: he has adoring (if somewhat sickly-sweet) parents, lives in a huge mansion, and he\u2019s just about to appear in the social pages of the paper. Unfortunately, not everyone in the world is as nice as Baby Bink\u2019s parents\u2014especially the three enterprising kidnappers who pretend to be photographers from the newspaper. Successfully kidnapping Baby Bink, they have a harder time keeping hold of the rascal, who not only keeps one step ahead of them, but seems to be more than a little bit smarter than the three bumbling criminals.",
+    "infoFields": {
+      "Original title": "Baby's Day Out",
+      "TMDb Rating": "6.308 1,147 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Patrick Read Johnson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/patrick-read-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/oOapCW2aZTGnyJCezk6dlpBAf66.jpg"
+    },
+    {
+      "name": "Joe Mantegna",
+      "role": "Eddie",
+      "url": "https://multimovies.city/cast/joe-mantegna/",
+      "image": "https://image.tmdb.org/t/p/w92/hFE8VNAykfZnvZjRhatVwjVXkZv.jpg"
+    },
+    {
+      "name": "Lara Flynn Boyle",
+      "role": "Laraine",
+      "url": "https://multimovies.city/cast/lara-flynn-boyle/",
+      "image": "https://image.tmdb.org/t/p/w92/1eOd7t7acV4Rtk6Kj3EeceRJbLZ.jpg"
+    },
+    {
+      "name": "Joe Pantoliano",
+      "role": "Norby",
+      "url": "https://multimovies.city/cast/joe-pantoliano/",
+      "image": "https://image.tmdb.org/t/p/w92/cXMOad9KKVBK1lg8EjEbcNPn1OT.jpg"
+    },
+    {
+      "name": "Brian Haley",
+      "role": "Veeko",
+      "url": "https://multimovies.city/cast/brian-haley/",
+      "image": "https://image.tmdb.org/t/p/w92/KoD3GS7jOHRpJjCVJt4XM9Dh30.jpg"
+    },
+    {
+      "name": "Cynthia Nixon",
+      "role": "Gilbertine",
+      "url": "https://multimovies.city/cast/cynthia-nixon/",
+      "image": "https://image.tmdb.org/t/p/w92/a366FCtQYmT80vQnPMFZ4hsTwuU.jpg"
+    },
+    {
+      "name": "Fred Dalton Thompson",
+      "role": "FBI Agent Grissom",
+      "url": "https://multimovies.city/cast/fred-dalton-thompson/",
+      "image": "https://image.tmdb.org/t/p/w92/d3x9crhTbzHaVA2OEsRu1YxirBG.jpg"
+    },
+    {
+      "name": "John Neville",
+      "role": "Mr. Andrews",
+      "url": "https://multimovies.city/cast/john-neville/",
+      "image": "https://image.tmdb.org/t/p/w92/q9dqdcETh7fejWKYpIRz1tWnkN3.jpg"
+    },
+    {
+      "name": "Matthew Glave",
+      "role": "Bennington",
+      "url": "https://multimovies.city/cast/matthew-glave/",
+      "image": "https://image.tmdb.org/t/p/w92/lXtmDEZlLEF6Hvp8arN0lC96Wqe.jpg"
+    },
+    {
+      "name": "Adam Robert Worton",
+      "role": "Baby Bink",
+      "url": "https://multimovies.city/cast/adam-robert-worton/",
+      "image": "https://image.tmdb.org/t/p/w92/bapqnwqqRsf2I6DdxWyMEQYZ1dM.jpg"
+    },
+    {
+      "name": "Jacob Joseph Worton",
+      "role": "Baby Bink",
+      "url": "https://multimovies.city/cast/jacob-joseph-worton/",
+      "image": "https://image.tmdb.org/t/p/w92/i5Gbe5GSa3tyzXD8hOdyUFJDB9F.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hq8dZfJEem1SIBCElMAuaJIfl6Q.jpg",
+    "https://image.tmdb.org/t/p/w300/iLxvYnI954xML9Z3NSziUL277al.jpg",
+    "https://image.tmdb.org/t/p/w300/aXawZAuFqEiFTQhKScBiHCM0cWW.jpg",
+    "https://image.tmdb.org/t/p/w300/87AMF3V4L7teXGMtUcK8ExWeJI1.jpg",
+    "https://image.tmdb.org/t/p/w300/7bDfeFS4utVf2LNN5lr2pnVgRTb.jpg",
+    "https://image.tmdb.org/t/p/w300/gedkgVOPNMqrkCqHPSiearCouKh.jpg",
+    "https://image.tmdb.org/t/p/w300/fTyPIWojg3Vbc1IAqBhoRjWzvsY.jpg",
+    "https://image.tmdb.org/t/p/w300/raFs1RQCG93JzHpvFKeK6EI3g7H.jpg"
+  ],
+  "similar": [],
+  "views": 3061,
+  "sources": [
+    "https://www.youtube.com/embed/pzow5wUp7hY?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/1ugdhdlmp30t"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18608,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18608,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
