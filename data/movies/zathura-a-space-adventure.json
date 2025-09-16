@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/zathura-a-space-adventure/",
+  "meta": {
+    "title": "Zathura: A Space Adventure",
+    "poster": "https://image.tmdb.org/t/p/w500/shUtIadbOk8BAWk4FR0LinbBUmR.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Nov. 06, 2005",
+    "ratingValue": "9.8",
+    "ratingCount": "4",
+    "synopsis": "After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.",
+    "infoFields": {
+      "Original title": "Zathura: A Space Adventure",
+      "TMDb Rating": "6.425 3,361 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jon Favreau",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jon-favreau/",
+      "image": "https://image.tmdb.org/t/p/w92/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    },
+    {
+      "name": "Josh Hutcherson",
+      "role": "Walter Budwing",
+      "url": "https://multimovies.city/cast/josh-hutcherson/",
+      "image": "https://image.tmdb.org/t/p/w92/npowygg8rH7uJ4v7rAoDMsHBhNq.jpg"
+    },
+    {
+      "name": "Jonah Bobo",
+      "role": "Danny Budwing",
+      "url": "https://multimovies.city/cast/jonah-bobo/",
+      "image": "https://image.tmdb.org/t/p/w92/AnPqW5BW52X2nrAUcv9oQnK8xPu.jpg"
+    },
+    {
+      "name": "Dax Shepard",
+      "role": "Astronaut",
+      "url": "https://multimovies.city/cast/dax-shepard/",
+      "image": "https://image.tmdb.org/t/p/w92/aaUGRjfghjgysn5grVdm8kyYN4V.jpg"
+    },
+    {
+      "name": "Kristen Stewart",
+      "role": "Lisa Budwing",
+      "url": "https://multimovies.city/cast/kristen-stewart/",
+      "image": "https://image.tmdb.org/t/p/w92/rCU7XhHavFAKatkrC2yFWO4FCXX.jpg"
+    },
+    {
+      "name": "Tim Robbins",
+      "role": "Dad (Mr. Budwing)",
+      "url": "https://multimovies.city/cast/tim-robbins/",
+      "image": "https://image.tmdb.org/t/p/w92/9gQHkqIkvltnAogNSpaMpZsT4SA.jpg"
+    },
+    {
+      "name": "Frank Oz",
+      "role": "Robot (voice)",
+      "url": "https://multimovies.city/cast/frank-oz/",
+      "image": "https://image.tmdb.org/t/p/w92/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+    },
+    {
+      "name": "John Alexander",
+      "role": "Robot",
+      "url": "https://multimovies.city/cast/john-alexander/",
+      "image": "https://image.tmdb.org/t/p/w92/9YmbNIO0doeR9FoojgGia7VtpJF.jpg"
+    },
+    {
+      "name": "Derek Mears",
+      "role": "Lead Zorgon",
+      "url": "https://multimovies.city/cast/derek-mears/",
+      "image": "https://image.tmdb.org/t/p/w92/4oFf2xs07V9YbXzy4w74KcIfcbW.jpg"
+    },
+    {
+      "name": "Douglas Tait",
+      "role": "Zorgon",
+      "url": "https://multimovies.city/cast/douglas-tait/",
+      "image": "https://image.tmdb.org/t/p/w92/srV2pY6rPyTpHGW5saOhdbRfcrv.jpg"
+    },
+    {
+      "name": "Joe Bucaro III",
+      "role": "Zorgon",
+      "url": "https://multimovies.city/cast/joe-bucaro-iii/",
+      "image": "https://image.tmdb.org/t/p/w92/gvJs1YQZRrSbkiSGAiCAugaXyzl.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2DKpjWI0j6eRhF3lPUE4lc7wqP0.jpg",
+    "https://image.tmdb.org/t/p/w300/s9Bn7Mx4U9cWOR1WdFZjU1DTAkh.jpg",
+    "https://image.tmdb.org/t/p/w300/5By3iqZmbtmk2YI8Orb6sPxP16o.jpg",
+    "https://image.tmdb.org/t/p/w300/lP0H7x0ogIRpO5cLoUt5iBXFHnS.jpg",
+    "https://image.tmdb.org/t/p/w300/wSgGImOAh2uXHCOnZQs0aQW7IXd.jpg"
+  ],
+  "similar": [],
+  "views": 4341,
+  "sources": [
+    "https://www.youtube.com/embed/hxrF-X1yn6Q?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/jml3fms"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 12286,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 12286,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:58:05.173210"
+}
