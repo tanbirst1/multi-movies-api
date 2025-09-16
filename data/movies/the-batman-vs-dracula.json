@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-batman-vs-dracula/",
+  "meta": {
+    "title": "The Batman vs. Dracula",
+    "poster": "https://image.tmdb.org/t/p/w500/8uKIqZBXfxhflenI2LkNZIHUp7I.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Oct. 18, 2005",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Gotham City is terrorized not only by recent escapees Joker and Penguin, but by the original creature of the night, Dracula! Can Batman stop the ruthless vampire before he turns everyone in the city, including The Caped Crusader, Joker and Penguin, into his mindless minions?",
+    "infoFields": {
+      "Original title": "The Batman vs. Dracula",
+      "IMDb Rating": "6.6 11,150 votes",
+      "TMDb Rating": "6.9 318 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Michael Goguen",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-goguen/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Rino Romano",
+      "role": "Bruce Wayne / Batman (voice)",
+      "url": "https://multimovies.city/cast/rino-romano/",
+      "image": "https://image.tmdb.org/t/p/w92/rpyq7xdQ5zSCHYiwnlPvkx7gLrl.jpg"
+    },
+    {
+      "name": "Peter Stormare",
+      "role": "Dracula (voice)",
+      "url": "https://multimovies.city/cast/peter-stormare/",
+      "image": "https://image.tmdb.org/t/p/w92/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"
+    },
+    {
+      "name": "Tara Strong",
+      "role": "Vicky Vale (voice)",
+      "url": "https://multimovies.city/cast/tara-strong/",
+      "image": "https://image.tmdb.org/t/p/w92/8Z86FfWbnUJnyFTcLa9MpVVFhMh.jpg"
+    },
+    {
+      "name": "Alastair Duncan",
+      "role": "Alfred Pennyworth (voice)",
+      "url": "https://multimovies.city/cast/alastair-duncan/",
+      "image": "https://image.tmdb.org/t/p/w92/aS5VArZjMhPKHpqXQVeHop8zslU.jpg"
+    },
+    {
+      "name": "Tom Kenny",
+      "role": "Oswald Cobblepot / The Penguin (voice)",
+      "url": "https://multimovies.city/cast/tom-kenny/",
+      "image": "https://image.tmdb.org/t/p/w92/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+    },
+    {
+      "name": "Kevin Michael Richardson",
+      "role": "The Joker (voice)",
+      "url": "https://multimovies.city/cast/kevin-michael-richardson/",
+      "image": "https://image.tmdb.org/t/p/w92/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "name": "Jeff Bennett",
+      "role": "Arkham Asylum Inmate / Additional Voices (voice)",
+      "url": "https://multimovies.city/cast/jeff-bennett/",
+      "image": "https://image.tmdb.org/t/p/w92/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "name": "Richard Green",
+      "role": "Additional Voices (voice)",
+      "url": "https://multimovies.city/cast/richard-green/",
+      "image": "https://image.tmdb.org/t/p/w92/ecEKuhsWNPJ57Yx2jJSatPOjLQQ.jpg"
+    },
+    {
+      "name": "Neil Ross",
+      "role": "Additional Voices (voice)",
+      "url": "https://multimovies.city/cast/neil-ross/",
+      "image": "https://image.tmdb.org/t/p/w92/pNgkQKw5k6z9kscDnOAwstcmNnt.jpg"
+    },
+    {
+      "name": "James Sie",
+      "role": "Additional Voices (voice)",
+      "url": "https://multimovies.city/cast/james-sie/",
+      "image": "https://image.tmdb.org/t/p/w92/yZ8SFsJJNmhgtNizwcWfknyBoBt.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/8Or1XOnUMtg4NIpOCDmdDqRwU4k.jpg",
+    "https://image.tmdb.org/t/p/w300/83eJ2r9dIf87pN0YoVOQakDD2q3.jpg",
+    "https://image.tmdb.org/t/p/w300/hk3t507DfFWdyVDakrnYfM3HVJb.jpg",
+    "https://image.tmdb.org/t/p/w300/vBhH4utH7wDnZY1JyPzbDRFU70.jpg",
+    "https://image.tmdb.org/t/p/w300/7ROigngVQclwCDRvqYUpzg0Jaxh.jpg",
+    "https://image.tmdb.org/t/p/w300/w1wGhKJNWjVWzuDsuf1AGMHPRAr.jpg",
+    "https://image.tmdb.org/t/p/w300/j5eUlGDsk2TYiV1Gqrom4aRMLvS.jpg",
+    "https://image.tmdb.org/t/p/w300/gSiRHZtna5ZW4GJGmz84phP2uL0.jpg",
+    "https://image.tmdb.org/t/p/w300/2fVgNHVQLjw7jkwG7AxnQs0ykBW.jpg",
+    "https://image.tmdb.org/t/p/w300/hBF9RK58dVTkEnOprlqPfi4HHOM.jpg"
+  ],
+  "similar": [],
+  "views": 1322,
+  "sources": [
+    "https://www.youtube.com/embed/ok6Af3tI0hw?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/gwh90gpt30t1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 51025,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 51025,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:58:44.545883"
+}
