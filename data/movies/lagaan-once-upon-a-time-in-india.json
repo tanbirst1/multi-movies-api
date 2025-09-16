@@ -4,15 +4,125 @@
   "meta": {
     "title": "Lagaan: Once Upon a Time in India",
     "poster": "https://image.tmdb.org/t/p/w500/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg",
-    "synopsis": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 15, 2001",
+    "ratingValue": "8.8",
+    "ratingCount": "5",
+    "synopsis": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+    "infoFields": {
+      "Original title": "\u0932\u0917\u093e\u0928",
+      "IMDb Rating": "8.1 116,571 votes",
+      "TMDb Rating": "7.278 474 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Ashutosh Gowariker",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ashutosh-gowariker/",
+      "image": "https://image.tmdb.org/t/p/w92/haVd93iy3ilcs8j0hH3rJJ1cOFF.jpg"
+    },
+    {
+      "name": "Aamir Khan",
+      "role": "Bhuvan",
+      "url": "https://multimovies.city/cast/aamir-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/bI3yxh4FzKL2hHYS4nbzcDMWtZs.jpg"
+    },
+    {
+      "name": "Gracy Singh",
+      "role": "Gauri",
+      "url": "https://multimovies.city/cast/gracy-singh/",
+      "image": "https://image.tmdb.org/t/p/w92/nJRYXqpctHNuswpesaSm6GFsyX0.jpg"
+    },
+    {
+      "name": "Rachel Shelley",
+      "role": "Elizabeth Russell",
+      "url": "https://multimovies.city/cast/rachel-shelley/",
+      "image": "https://image.tmdb.org/t/p/w92/AoZAGf20aNUCqh2ujPxfyC1Sk5O.jpg"
+    },
+    {
+      "name": "Paul Blackthorne",
+      "role": "Captain Andrew Russell",
+      "url": "https://multimovies.city/cast/paul-blackthorne/",
+      "image": "https://image.tmdb.org/t/p/w92/3OC1M0rKJO8B3JpwAeavk5EAscl.jpg"
+    },
+    {
+      "name": "Kulbhushan Kharbanda",
+      "role": "Raja Puran Singh",
+      "url": "https://multimovies.city/cast/kulbhushan-kharbanda/",
+      "image": "https://image.tmdb.org/t/p/w92/iboGvJPKZ98kU8YKgomn9Jpk0XN.jpg"
+    },
+    {
+      "name": "Suhasini Mulay",
+      "role": "Yashodamai",
+      "url": "https://multimovies.city/cast/suhasini-mulay/",
+      "image": "https://image.tmdb.org/t/p/w92/9mD9ASIlw56LIRIEGSXHmIovu4D.jpg"
+    },
+    {
+      "name": "Yashpal Sharma",
+      "role": "Lakha",
+      "url": "https://multimovies.city/cast/yashpal-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/hYDZkMl6u3rM2cASabpHgrvA0mf.jpg"
+    },
+    {
+      "name": "Raj Zutshi",
+      "role": "Ismail",
+      "url": "https://multimovies.city/cast/raj-zutshi/",
+      "image": "https://image.tmdb.org/t/p/w92/aJmWL08uj2oVGd2cJmBuzNSO2LY.jpg"
+    },
+    {
+      "name": "Rajendra Gupta",
+      "role": "Mukhiya",
+      "url": "https://multimovies.city/cast/rajendra-gupta/",
+      "image": "https://image.tmdb.org/t/p/w92/AkfIGMNBv1dAwhha6Xh7krVjv5o.jpg"
+    },
+    {
+      "name": "Akhilendra Mishra",
+      "role": "Arjan",
+      "url": "https://multimovies.city/cast/akhilendra-mishra/",
+      "image": "https://image.tmdb.org/t/p/w92/98XU1EhlP6i6CqEvuYtyCzoTlf.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/u4YATs3X5PLcwCb4j4M6xJcgbty.jpg",
+    "https://image.tmdb.org/t/p/w300/76VwduxQMkVXOUktps85dE0lLeP.jpg",
+    "https://image.tmdb.org/t/p/w300/6jqyb596zWG83T2USo4IXu5blmA.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 5226,
+  "sources": [
+    "https://www.youtube.com/embed/AqVjWevMrAg?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/9qxl9nugt0r8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6957,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6957,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:29:26.630793"
 }
