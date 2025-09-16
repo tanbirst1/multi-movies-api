@@ -1,0 +1,167 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/superman-doomsday/",
+  "meta": {
+    "title": "Superman: Doomsday",
+    "poster": "https://image.tmdb.org/t/p/w500/itvuWm7DFWWzWgW0xgiaKzzWszP.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Sep. 18, 2007",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "When LexCorp accidentally unleashes a murderous creature, Superman meets his greatest challenge as a champion. Based on the \u201cThe Death of Superman\u201d storyline that appeared in DC Comics\u2019 publications in the 1990s.",
+    "infoFields": {
+      "Original title": "Superman: Doomsday",
+      "IMDb Rating": "6.9 22,877 votes",
+      "TMDb Rating": "6.743 548 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Lauren Montgomery",
+      "role": "Director",
+      "url": "https://multimovies.city/director/lauren-montgomery/",
+      "image": "https://image.tmdb.org/t/p/w92/vYgnYprzvl7sP6mcoxAhm66GneE.jpg"
+    },
+    {
+      "name": "Adam Baldwin",
+      "role": "Superman / Clark Kent / Dark Superman (voice)",
+      "url": "https://multimovies.city/cast/adam-baldwin/",
+      "image": "https://image.tmdb.org/t/p/w92/w5f3i7H8wMzHvzYfezIVN521N7Q.jpg"
+    },
+    {
+      "name": "Anne Heche",
+      "role": "Lois Lane (voice)",
+      "url": "https://multimovies.city/cast/anne-heche/",
+      "image": "https://image.tmdb.org/t/p/w92/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg"
+    },
+    {
+      "name": "James Marsters",
+      "role": "Lex Luthor (voice)",
+      "url": "https://multimovies.city/cast/james-marsters/",
+      "image": "https://image.tmdb.org/t/p/w92/oJnBB3g2IINnsLSr8B79bJ9ykkx.jpg"
+    },
+    {
+      "name": "John DiMaggio",
+      "role": "Toyman (voice)",
+      "url": "https://multimovies.city/cast/john-dimaggio/",
+      "image": "https://image.tmdb.org/t/p/w92/awmyFwU6ErFJbGFFzhBYZ9AQn8m.jpg"
+    },
+    {
+      "name": "Swoosie Kurtz",
+      "role": "Martha Kent (voice)",
+      "url": "https://multimovies.city/cast/swoosie-kurtz/",
+      "image": "https://image.tmdb.org/t/p/w92/uCHMttpxVITjDXtjs8FS6O7TQHx.jpg"
+    },
+    {
+      "name": "Tom Kenny",
+      "role": "Robot (voice)",
+      "url": "https://multimovies.city/cast/tom-kenny/",
+      "image": "https://image.tmdb.org/t/p/w92/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+    },
+    {
+      "name": "Ray Wise",
+      "role": "Perry White (voice)",
+      "url": "https://multimovies.city/cast/ray-wise/",
+      "image": "https://image.tmdb.org/t/p/w92/qUGDdBfPkDQYZR46wuNxMO1UM2K.jpg"
+    },
+    {
+      "name": "Cree Summer",
+      "role": "Mercy Graves (voice)",
+      "url": "https://multimovies.city/cast/cree-summer/",
+      "image": "https://image.tmdb.org/t/p/w92/7DRq0zPUUWu55pUbnc2roVnzOJ9.jpg"
+    },
+    {
+      "name": "Adam Wylie",
+      "role": "Jimmy Olsen (voice)",
+      "url": "https://multimovies.city/cast/adam-wylie/",
+      "image": "https://image.tmdb.org/t/p/w92/g59pfDt3xNnPmvYkOoYFXykXW5O.jpg"
+    },
+    {
+      "name": "Chris Cox",
+      "role": "Damon Swank (voice)",
+      "url": "https://multimovies.city/cast/chris-cox/",
+      "image": "https://image.tmdb.org/t/p/w92/sdLuGpLB0g5AtEr9VVnAqtIbZPt.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/oTPSjQyETTFYDehdbiG8yi2oDmL.jpg",
+    "https://image.tmdb.org/t/p/w300/59pzoUtnLDasnRh25iCVzmLTu6.jpg",
+    "https://image.tmdb.org/t/p/w300/A2KqRrQ0cVCFEl7Qf0YttMa3QkS.jpg",
+    "https://image.tmdb.org/t/p/w300/zwKM7bBT1sa2yJzr4o5DFguWObj.jpg",
+    "https://image.tmdb.org/t/p/w300/nCMx7rfdTOZOjemzNOT4MBdlET.jpg",
+    "https://image.tmdb.org/t/p/w300/dCXnkWzhRFHMytOaUs3GmCMih14.jpg",
+    "https://image.tmdb.org/t/p/w300/zAnPaA4cohOAUbCRXaq1ckPlU2Z.jpg",
+    "https://image.tmdb.org/t/p/w300/wyQdYoQpnw3xxTMlc0KUh6MZQmF.jpg",
+    "https://image.tmdb.org/t/p/w300/r4qvkx20Ur6onoaI52ZFqVX7ErN.jpg",
+    "https://image.tmdb.org/t/p/w300/8TJFxKtR0wnOK0nHJlU6SLdMzXH.jpg"
+  ],
+  "similar": [],
+  "views": 2021,
+  "sources": [
+    "https://www.youtube.com/embed/etcAXiSCwZM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/8gaif0jkm7kb",
+    "https://sbplay.org/embed-wsj8dx6i0v20.html",
+    "https://dood.la/e/m4altmf7bjua",
+    "https://mixdrop.co/e/7rdd0dk0td4qr1o",
+    "https://hydrax.net/watch?v=lsBiwcyWn0"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20776,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 20776,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 20776,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 20776,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 20776,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 20776,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:15:33.757527"
+}
