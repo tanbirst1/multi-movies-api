@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/teeth/",
+  "meta": {
+    "title": "Teeth",
+    "poster": "https://image.tmdb.org/t/p/w500/p7OIPkN2LOBprQxQx7EZBa6m6W4.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jan. 18, 2008",
+    "ratingValue": "1",
+    "ratingCount": "1",
+    "synopsis": "Dawn is an active member of her high-school chastity club but, when she meets Tobey, nature takes its course, and the pair answer the call. They suddenly learn she is a living example of the vagina dentata myth, when the encounter takes a grisly turn.",
+    "infoFields": {
+      "Original title": "Teeth",
+      "IMDb Rating": "5.4 47,763 votes",
+      "TMDb Rating": "5.4 733 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mitchell Lichtenstein",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mitchell-lichtenstein/",
+      "image": "https://image.tmdb.org/t/p/w92/zRBvjaF1fLop9dBqYloOsvtSZ1m.jpg"
+    },
+    {
+      "name": "Jess Weixler",
+      "role": "Dawn O'Keefe",
+      "url": "https://multimovies.city/cast/jess-weixler/",
+      "image": "https://image.tmdb.org/t/p/w92/2X0PjIXMLPjm7opUGEq8X5lvqjV.jpg"
+    },
+    {
+      "name": "John Hensley",
+      "role": "Brad",
+      "url": "https://multimovies.city/cast/john-hensley/",
+      "image": "https://image.tmdb.org/t/p/w92/9iKjAq8aTnHxW4LBPAUnRtwBurY.jpg"
+    },
+    {
+      "name": "Josh Pais",
+      "role": "Dr. Godfrey",
+      "url": "https://multimovies.city/cast/josh-pais/",
+      "image": "https://image.tmdb.org/t/p/w92/uH90fGfLLzYCX02yOW3kH4LMO7n.jpg"
+    },
+    {
+      "name": "Hale Appleman",
+      "role": "Tobey",
+      "url": "https://multimovies.city/cast/hale-appleman/",
+      "image": "https://image.tmdb.org/t/p/w92/yVoVmU3WpeXuIBcXrLxkKslFa71.jpg"
+    },
+    {
+      "name": "Lenny Von Dohlen",
+      "role": "Bill",
+      "url": "https://multimovies.city/cast/lenny-von-dohlen/",
+      "image": "https://image.tmdb.org/t/p/w92/yZfisRYu3aEDRa0AaEIjMhkmW8w.jpg"
+    },
+    {
+      "name": "Vivienne Benesch",
+      "role": "Kim",
+      "url": "https://multimovies.city/cast/vivienne-benesch/",
+      "image": "https://image.tmdb.org/t/p/w92/cQz7FYKZieMUBhQBSGmHWzJ05gO.jpg"
+    },
+    {
+      "name": "Ashley Springer",
+      "role": "Ryan",
+      "url": "https://multimovies.city/cast/ashley-springer/",
+      "image": "https://image.tmdb.org/t/p/w92/hRlNfqCRmoK8ZZfEHD1AM9ovNCp.jpg"
+    },
+    {
+      "name": "Nicole Swahn",
+      "role": "Melanie",
+      "url": "https://multimovies.city/cast/nicole-swahn/",
+      "image": "https://image.tmdb.org/t/p/w92/vZONvRUdIr0XTf7qlKijpUFhsFJ.jpg"
+    },
+    {
+      "name": "Laila Liliana Garro",
+      "role": "Gwen",
+      "url": "https://multimovies.city/cast/laila-liliana-garro/",
+      "image": "https://image.tmdb.org/t/p/w92/sytkTHmsXSbr7qa8WV0ixykSIRc.jpg"
+    },
+    {
+      "name": "Adam Wagner",
+      "role": "Phil",
+      "url": "https://multimovies.city/cast/adam-wagner/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3ScUr2Ng8uvuEw7TWi2XwnIy2o4.jpg",
+    "https://image.tmdb.org/t/p/w300/s3yNu3N1wMdyuvnhVt5kaWdkDdz.jpg",
+    "https://image.tmdb.org/t/p/w300/uinM5Uv9to3Ncp0tyrP6ieLR5pN.jpg",
+    "https://image.tmdb.org/t/p/w300/jj7d3iJF67aKJjS11pjCICsRDS2.jpg",
+    "https://image.tmdb.org/t/p/w300/37FIkkajIdxR6fDpedLnP4XSU85.jpg"
+  ],
+  "similar": [],
+  "views": 2123,
+  "sources": [
+    "https://www.youtube.com/embed/NV3_O50BJK0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/p4xwpfj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 74640,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 74640,
+      "nume": 1,
+      "title": "fs"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:18:21.412363"
+}
