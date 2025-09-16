@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dr-dolittle-3/",
+  "meta": {
+    "title": "Doctor Dolittle 3",
+    "poster": "https://image.tmdb.org/t/p/w500/mODEH6RuoL8s9ptF1Mbrq1Z6aYz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Apr. 25, 2006",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Lisa Dolittle sends her daughter to \u2018Durango\u2019, a Dude Ranch, to find herself. While there, she uses her talent to talk to the animals in order to save Durango from being taken over by a neighboring Ranch.",
+    "infoFields": {
+      "Original title": "Dr. Dolittle 3",
+      "IMDb Rating": "4 7,547 votes",
+      "TMDb Rating": "5.127 432 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rich Thorne",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rich-thorne/",
+      "image": "https://image.tmdb.org/t/p/w92/vrCTwuJc77BXQRwuEZtkgcS5yzS.jpg"
+    },
+    {
+      "name": "Kyla Pratt",
+      "role": "Maya Dolittle",
+      "url": "https://multimovies.city/cast/kyla-pratt/",
+      "image": "https://image.tmdb.org/t/p/w92/y02hmYVndLlJbOYkNDu3Ksdsiib.jpg"
+    },
+    {
+      "name": "Kristen Wilson",
+      "role": "Lisa Dolittle",
+      "url": "https://multimovies.city/cast/kristen-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/ld2W1mIvaS0yAd3pHW2wyeacg8v.jpg"
+    },
+    {
+      "name": "Walker Howard",
+      "role": "Bo Jones",
+      "url": "https://multimovies.city/cast/walker-howard/",
+      "image": "https://image.tmdb.org/t/p/w92/nRm6ctdguG15zjwGw15L4fdNlaH.jpg"
+    },
+    {
+      "name": "John Amos",
+      "role": "Jud",
+      "url": "https://multimovies.city/cast/john-amos/",
+      "image": "https://image.tmdb.org/t/p/w92/b2zYGkMG28wYDHC9CunfYAeoeMQ.jpg"
+    },
+    {
+      "name": "Luciana Carro",
+      "role": "Brooklyn Webster",
+      "url": "https://multimovies.city/cast/luciana-carro/",
+      "image": "https://image.tmdb.org/t/p/w92/jnVe4JidqtMygfTvIQkioNLJvh1.jpg"
+    },
+    {
+      "name": "Tommy Snider",
+      "role": "Clayton",
+      "url": "https://multimovies.city/cast/tommy-snider/",
+      "image": "https://image.tmdb.org/t/p/w92/cN8SBWVx8NGTlAYFkusR2MzBW1m.jpg"
+    },
+    {
+      "name": "Calum Worthy",
+      "role": "Tyler",
+      "url": "https://multimovies.city/cast/calum-worthy/",
+      "image": "https://image.tmdb.org/t/p/w92/vci8ZGN3kPUL73FlSeBHJ6Ekbw9.jpg"
+    },
+    {
+      "name": "Ryan McDonell",
+      "role": "Skip",
+      "url": "https://multimovies.city/cast/ryan-mcdonell/",
+      "image": "https://image.tmdb.org/t/p/w92/yvNhKlZWbPacLDERIavLGyRiw22.jpg"
+    },
+    {
+      "name": "Chenier Hundal",
+      "role": "Chip",
+      "url": "https://multimovies.city/cast/chenier-hundal/",
+      "image": "https://image.tmdb.org/t/p/w92/w9Npi75aMFSXs3v2aHqufGuHGMP.jpg"
+    },
+    {
+      "name": "Tara Wilson",
+      "role": "Kiki",
+      "url": "https://multimovies.city/cast/tara-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/jPoyGs7D9z4vR5bn19X0tCMReRB.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qf7fKQbdrwnQPPdLTTahUF2ETcC.jpg",
+    "https://image.tmdb.org/t/p/w300/uufDRHSX2k9KIS1qX973fswx5d7.jpg",
+    "https://image.tmdb.org/t/p/w300/wjB0Fj68q2vufWcRPHeVxjsIT7M.jpg",
+    "https://image.tmdb.org/t/p/w300/htRJESrPgCga0XC6vQkYq3CBuxz.jpg"
+  ],
+  "similar": [],
+  "views": 805,
+  "sources": [
+    "https://www.youtube.com/embed/3Gv_CY7iylw?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/1gilsbfji74l"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 53110,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 53110,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:01:02.641774"
+}
