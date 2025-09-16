@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/scott-pilgrim-vs-the-world/",
+  "meta": {
+    "title": "Scott Pilgrim vs. the World",
+    "poster": "https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Aug. 12, 2010",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.",
+    "infoFields": {
+      "Original title": "Scott Pilgrim vs. the World",
+      "IMDb Rating": "7.5 439,391 votes",
+      "TMDb Rating": "7.461 6,917 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Edgar Wright",
+      "role": "Director",
+      "url": "https://multimovies.city/director/edgar-wright/",
+      "image": "https://image.tmdb.org/t/p/w92/dQzv5Ml2SkelS33hgl7E2oh0a9S.jpg"
+    },
+    {
+      "name": "Michael Cera",
+      "role": "Scott Pilgrim",
+      "url": "https://multimovies.city/cast/michael-cera/",
+      "image": "https://image.tmdb.org/t/p/w92/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+    },
+    {
+      "name": "Mary Elizabeth Winstead",
+      "role": "Ramona Flowers",
+      "url": "https://multimovies.city/cast/mary-elizabeth-winstead/",
+      "image": "https://image.tmdb.org/t/p/w92/cBMtncBcUrKMTB8CifDG23THuCE.jpg"
+    },
+    {
+      "name": "Ellen Wong",
+      "role": "Knives Chau",
+      "url": "https://multimovies.city/cast/ellen-wong/",
+      "image": "https://image.tmdb.org/t/p/w92/aJcsSflzYnGXiOaD7XkjPtnIPYz.jpg"
+    },
+    {
+      "name": "Kieran Culkin",
+      "role": "Wallace Wells",
+      "url": "https://multimovies.city/cast/kieran-culkin/",
+      "image": "https://image.tmdb.org/t/p/w92/zfnZ41oxeWnXHlpFU62IR64h8w7.jpg"
+    },
+    {
+      "name": "Alison Pill",
+      "role": "Kim Pine",
+      "url": "https://multimovies.city/cast/alison-pill/",
+      "image": "https://image.tmdb.org/t/p/w92/qQm7UR0G8Kcxn7SKTNl6fdSfcTm.jpg"
+    },
+    {
+      "name": "Mark Webber",
+      "role": "Stephen Stills",
+      "url": "https://multimovies.city/cast/mark-webber/",
+      "image": "https://image.tmdb.org/t/p/w92/kCpXM6Bmj5pZPVeu7MmQxQWYry7.jpg"
+    },
+    {
+      "name": "Johnny Simmons",
+      "role": "Young Neil",
+      "url": "https://multimovies.city/cast/johnny-simmons/",
+      "image": "https://image.tmdb.org/t/p/w92/51LZiAAI3ZW4vabNOQnd3weYgUm.jpg"
+    },
+    {
+      "name": "Jason Schwartzman",
+      "role": "Gideon Graves",
+      "url": "https://multimovies.city/cast/jason-schwartzman/",
+      "image": "https://image.tmdb.org/t/p/w92/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+    },
+    {
+      "name": "Anna Kendrick",
+      "role": "Stacey Pilgrim",
+      "url": "https://multimovies.city/cast/anna-kendrick/",
+      "image": "https://image.tmdb.org/t/p/w92/cyGjHMJO7C6kQTq36n9hkLThY4G.jpg"
+    },
+    {
+      "name": "Aubrey Plaza",
+      "role": "Julie Powers",
+      "url": "https://multimovies.city/cast/aubrey-plaza/",
+      "image": "https://image.tmdb.org/t/p/w92/2arI3oBAJhV1PX6X6MeaBtBcdHI.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7zwngyl6Cg4NeD4AIOfpXgrcDv6.jpg",
+    "https://image.tmdb.org/t/p/w300/yliP8l65xLk3hnvM3BEFB2OH9Mz.jpg",
+    "https://image.tmdb.org/t/p/w300/rl6TA8Hhvc3f5LR59WiCBo9QxSa.jpg",
+    "https://image.tmdb.org/t/p/w300/rUAZnGMgISkZYJU8o7kuSNj3mPl.jpg",
+    "https://image.tmdb.org/t/p/w300/A0xxZhihmbOvzSBFauvaxnm9zAZ.jpg",
+    "https://image.tmdb.org/t/p/w300/ycyqwYnKNtaUqymzHdLRMCeiBDO.jpg",
+    "https://image.tmdb.org/t/p/w300/7W9xm2YTq54rfLFimIniMrywShv.jpg",
+    "https://image.tmdb.org/t/p/w300/ya6cvngkreQwF4NWblVhvHWrgxb.jpg",
+    "https://image.tmdb.org/t/p/w300/diez2D7whF0VgxQ7klyYQqn9Fr9.jpg",
+    "https://image.tmdb.org/t/p/w300/mjGm5fWigS9qyKw1Pzlx107mMPH.jpg"
+  ],
+  "similar": [],
+  "views": 998,
+  "sources": [
+    "https://www.youtube.com/embed/7wd5KEaOtm4?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/p5qjhcb5rve1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6734,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6734,
+      "nume": 1,
+      "title": "2ru"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:43:28.834094"
+}
