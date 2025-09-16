@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/wrong-turn-at-tahoe/",
+  "meta": {
+    "title": "Wrong Turn at Tahoe",
+    "poster": "https://image.tmdb.org/t/p/w500/h0n2vU0Apv4xpDJMVVDbmADl5Lh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      },
+      {
+        "name": "Wrong Turn",
+        "url": "https://multimovies.city/genre/wrong-turn/"
+      }
+    ],
+    "firstAirDate": "Nov. 16, 2009",
+    "ratingValue": "7",
+    "ratingCount": "4",
+    "synopsis": "A small-time crime boss kills a drug dealer without realizing that the drug dealer works for the biggest crime boss in the country.",
+    "infoFields": {
+      "Original title": "Wrong Turn at Tahoe",
+      "IMDb Rating": "6 4,474 votes",
+      "TMDb Rating": "5.8 86 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Franck Khalfoun",
+      "role": "Director",
+      "url": "https://multimovies.city/director/franck-khalfoun/",
+      "image": "https://image.tmdb.org/t/p/w92/nzXKV3T7fHMBzRWzfYozVl8ZfwQ.jpg"
+    },
+    {
+      "name": "Cuba Gooding Jr.",
+      "role": "Joshua",
+      "url": "https://multimovies.city/cast/cuba-gooding-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/j4gPj92SP3Rj5xxSUe1CIkFCXhB.jpg"
+    },
+    {
+      "name": "Harvey Keitel",
+      "role": "Nino",
+      "url": "https://multimovies.city/cast/harvey-keitel/",
+      "image": "https://image.tmdb.org/t/p/w92/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "name": "Alex Meneses",
+      "role": "Marisa",
+      "url": "https://multimovies.city/cast/alex-meneses/",
+      "image": "https://image.tmdb.org/t/p/w92/4g0n46vw1ejBgxvg8kCBqPYCfzd.jpg"
+    },
+    {
+      "name": "Miguel Ferrer",
+      "role": "Vincent",
+      "url": "https://multimovies.city/cast/miguel-ferrer/",
+      "image": "https://image.tmdb.org/t/p/w92/n6VZ8OQmozHmnJQRwR55gBH8Tl0.jpg"
+    },
+    {
+      "name": "Louis Mandylor",
+      "role": "Steven",
+      "url": "https://multimovies.city/cast/louis-mandylor/",
+      "image": "https://image.tmdb.org/t/p/w92/tnNxkjimfJQ6rY87Ryr5R72KMRH.jpg"
+    },
+    {
+      "name": "Genevieve Alexandra",
+      "role": "Tiff",
+      "url": "https://multimovies.city/cast/genevieve-alexandra/",
+      "image": "https://image.tmdb.org/t/p/w92/xllyZ6BVtbx4a9WpQ7C87OS7kN2.jpg"
+    },
+    {
+      "name": "Leonor Varela",
+      "role": "Anna",
+      "url": "https://multimovies.city/cast/leonor-varela/",
+      "image": "https://image.tmdb.org/t/p/w92/ooZQvMganzssNGoTKaIgFXM38U7.jpg"
+    },
+    {
+      "name": "Michael Sean Tighe",
+      "role": "Jeff",
+      "url": "https://multimovies.city/cast/michael-sean-tighe/",
+      "image": "https://image.tmdb.org/t/p/w92/nmkjis90TlWIzxoB1ORz14C05tN.jpg"
+    },
+    {
+      "name": "Noel Gugliemi",
+      "role": "Frankie Tahoe",
+      "url": "https://multimovies.city/cast/noel-gugliemi/",
+      "image": "https://image.tmdb.org/t/p/w92/ndm0GtwFegozqIDb5qd376OJU3J.jpg"
+    },
+    {
+      "name": "Johnny Messner",
+      "role": "Mickey",
+      "url": "https://multimovies.city/cast/johnny-messner/",
+      "image": "https://image.tmdb.org/t/p/w92/1TL83UaGFeBg0Se3h9r066VcHjo.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/jjtFp052pwhphXbgOQlVKhonkjl.jpg"
+  ],
+  "similar": [],
+  "views": 8078,
+  "sources": [
+    "https://www.youtube.com/embed/XfvOCJO72wY?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/wv9uggm2npkk"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 860,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 860,
+      "nume": 1,
+      "title": "V"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:34:31.380869"
+}
