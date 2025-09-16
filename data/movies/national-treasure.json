@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/national-treasure/",
+  "meta": {
+    "title": "National Treasure",
+    "poster": "https://image.tmdb.org/t/p/w500/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Nov. 19, 2004",
+    "ratingValue": "2",
+    "ratingCount": "1",
+    "synopsis": "Modern treasure hunters, led by archaeologist Ben Gates, search for a chest of riches rumored to have been stashed away by George Washington, Thomas Jefferson and Benjamin Franklin during the Revolutionary War. The chest\u2019s whereabouts may lie in secret clues embedded in the Constitution and the Declaration of Independence, and Gates is in a race to find the gold before his enemies do.",
+    "infoFields": {
+      "Original title": "National Treasure",
+      "IMDb Rating": "6.9 362,942 votes",
+      "TMDb Rating": "6.637 6,301 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jon Turteltaub",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jon-turteltaub/",
+      "image": "https://image.tmdb.org/t/p/w92/embHCkQj1fs1PaISQSQQbi9TjHj.jpg"
+    },
+    {
+      "name": "Nicolas Cage",
+      "role": "Benjamin Franklin Gates",
+      "url": "https://multimovies.city/cast/nicolas-cage/",
+      "image": "https://image.tmdb.org/t/p/w92/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "name": "Diane Kruger",
+      "role": "Abigail Chase",
+      "url": "https://multimovies.city/cast/diane-kruger/",
+      "image": "https://image.tmdb.org/t/p/w92/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
+    },
+    {
+      "name": "Justin Bartha",
+      "role": "Riley Poole",
+      "url": "https://multimovies.city/cast/justin-bartha/",
+      "image": "https://image.tmdb.org/t/p/w92/asadRXqdxLTDWuuBAH9P2O02fJK.jpg"
+    },
+    {
+      "name": "Sean Bean",
+      "role": "Ian Howe",
+      "url": "https://multimovies.city/cast/sean-bean/",
+      "image": "https://image.tmdb.org/t/p/w92/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+    },
+    {
+      "name": "Jon Voight",
+      "role": "Patrick Gates",
+      "url": "https://multimovies.city/cast/jon-voight/",
+      "image": "https://image.tmdb.org/t/p/w92/g3jSSM8xqbRRJmvHM1GTZx8jmup.jpg"
+    },
+    {
+      "name": "Harvey Keitel",
+      "role": "Peter Sadusky",
+      "url": "https://multimovies.city/cast/harvey-keitel/",
+      "image": "https://image.tmdb.org/t/p/w92/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "name": "Christopher Plummer",
+      "role": "John Adams Gates",
+      "url": "https://multimovies.city/cast/christopher-plummer/",
+      "image": "https://image.tmdb.org/t/p/w92/iZh3s9Vy9vYD4DYnAda6C1kdeco.jpg"
+    },
+    {
+      "name": "David Dayan Fisher",
+      "role": "Shaw",
+      "url": "https://multimovies.city/cast/david-dayan-fisher/",
+      "image": "https://image.tmdb.org/t/p/w92/eqbDAvp4i237Nz0ljnlafE9ldVG.jpg"
+    },
+    {
+      "name": "Stewart Finlay-McLennan",
+      "role": "Powell",
+      "url": "https://multimovies.city/cast/stewart-finlay-mclennan/",
+      "image": "https://image.tmdb.org/t/p/w92/oyyzvpAJbnaP4otJYkD302VyBFE.jpg"
+    },
+    {
+      "name": "Oleg Taktarov",
+      "role": "Shippen",
+      "url": "https://multimovies.city/cast/oleg-taktarov/",
+      "image": "https://image.tmdb.org/t/p/w92/zYcB7R9K9xvh30n3gb1Gi4c2McY.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/q6GJrPVWy6ydJXwjmKxp1kzohoJ.jpg",
+    "https://image.tmdb.org/t/p/w300/kHjuTG3oHK2e9SlMQ0WI2zTN6sR.jpg",
+    "https://image.tmdb.org/t/p/w300/dPKYTTGZ3ypMD8YlShmnvfN8lwf.jpg",
+    "https://image.tmdb.org/t/p/w300/tpYIGw5VYuxNr7i6Y28sd5rDHGe.jpg",
+    "https://image.tmdb.org/t/p/w300/yaN6FTXlaPWXM8WHqcYCFIRSVFY.jpg",
+    "https://image.tmdb.org/t/p/w300/xXWT0je8dTFFNBq6P2CeTZkPUu2.jpg",
+    "https://image.tmdb.org/t/p/w300/9EnZD3ZWjpJy4IPoQkqTzxvZrso.jpg",
+    "https://image.tmdb.org/t/p/w300/2kOgnTByORg6gvEWWy8ynyJpCXa.jpg",
+    "https://image.tmdb.org/t/p/w300/2U5qfNbqT2xVSKoLjp0YXU2zJBC.jpg",
+    "https://image.tmdb.org/t/p/w300/l2AoGxTrI8sye0iAfg577cqkHZx.jpg"
+  ],
+  "similar": [],
+  "views": 2183,
+  "sources": [
+    "https://www.youtube.com/embed/I0u9-5lPP4Q?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/jt488ww"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 71188,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 71188,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:54:02.655502"
+}
