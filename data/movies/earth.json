@@ -4,15 +4,112 @@
   "meta": {
     "title": "Earth",
     "poster": "https://image.tmdb.org/t/p/w500/hQtvQYlxfEHl45TR41lNSywrq4K.jpg",
-    "synopsis": "It\u2019s 1947 and the borderlines between India and Pakistan are being drawn. A young girl bears witnesses to tragedy as her ayah is caught between the love of two men and the rising tide of political and religious violence."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Sep. 16, 1998",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "It\u2019s 1947 and the borderlines between India and Pakistan are being drawn. A young girl bears witnesses to tragedy as her ayah is caught between the love of two men and the rising tide of political and religious violence.",
+    "infoFields": {
+      "Original title": "1947: Earth",
+      "IMDb Rating": "7.6 7,977 votes",
+      "TMDb Rating": "6.5 33 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Deepa Mehta",
+      "role": "Director",
+      "url": "https://multimovies.city/director/deepa-mehta/",
+      "image": "https://image.tmdb.org/t/p/w92/d4EDC75axLzRLvwlSz7xMIrqQbv.jpg"
+    },
+    {
+      "name": "Aamir Khan",
+      "role": "Dil Navaz",
+      "url": "https://multimovies.city/cast/aamir-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/bI3yxh4FzKL2hHYS4nbzcDMWtZs.jpg"
+    },
+    {
+      "name": "Nandita Das",
+      "role": "Shanta",
+      "url": "https://multimovies.city/cast/nandita-das/",
+      "image": "https://image.tmdb.org/t/p/w92/8MiMH0am4MwJS0OZNXcGNB6sMRt.jpg"
+    },
+    {
+      "name": "Rahul Khanna",
+      "role": "Hassan",
+      "url": "https://multimovies.city/cast/rahul-khanna/",
+      "image": "https://image.tmdb.org/t/p/w92/eXRnf2aCfpb7gItoWtuIHz4lOEo.jpg"
+    },
+    {
+      "name": "Maia Sethna",
+      "role": "Lenny Sethna",
+      "url": "https://multimovies.city/cast/maia-sethna/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kitu Gidwani",
+      "role": "Bunty Sethna",
+      "url": "https://multimovies.city/cast/kitu-gidwani/",
+      "image": "https://image.tmdb.org/t/p/w92/sEQ1TrUwCsYuy0IpDY7XAoj9Skd.jpg"
+    },
+    {
+      "name": "Arif Zakaria",
+      "role": "Rustom Sethna",
+      "url": "https://multimovies.city/cast/arif-zakaria/",
+      "image": "https://image.tmdb.org/t/p/w92/fQx14DwQV2Z2p25t4bogVn9A2c.jpg"
+    },
+    {
+      "name": "Eric Peterson",
+      "role": "Mr. Rogers",
+      "url": "https://multimovies.city/cast/eric-peterson/",
+      "image": "https://image.tmdb.org/t/p/w92/yDSXor1RJzjkfJ6sd7z3bqXMyZP.jpg"
+    },
+    {
+      "name": "Kulbhushan Kharbanda",
+      "role": "Imam Din",
+      "url": "https://multimovies.city/cast/kulbhushan-kharbanda/",
+      "image": "https://image.tmdb.org/t/p/w92/iboGvJPKZ98kU8YKgomn9Jpk0XN.jpg"
+    },
+    {
+      "name": "Pavan Malhotra",
+      "role": "Butcher",
+      "url": "https://multimovies.city/cast/pavan-malhotra/",
+      "image": "https://image.tmdb.org/t/p/w92/aqTzRvGsujDgxoLbVEvVEZVTyNr.jpg"
+    },
+    {
+      "name": "Sunil Mehra",
+      "role": "Toto Ramji",
+      "url": "https://multimovies.city/cast/sunil-mehra/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ygTBp6GDxpXNtur57iOmTFQXMe8.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 866,
+  "sources": [
+    "https://multimoviesshg.com/e/ofa3wo9bxb7d"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5178,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:20:44"
+  "last_update": "2025-09-16T17:24:10.243022"
 }
