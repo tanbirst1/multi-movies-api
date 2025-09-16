@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ice-age-the-meltdown/",
+  "meta": {
+    "title": "Ice Age: The Meltdown",
+    "poster": "https://image.tmdb.org/t/p/w500/vdluBXie4qDvh0dFX2Fpq8v16it.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Mar. 29, 2006",
+    "ratingValue": "8.5",
+    "ratingCount": "6",
+    "synopsis": "Diego, Manny and Sid return in this sequel to the hit animated movie Ice Age. This time around, the deep freeze is over, and the ice-covered earth is starting to melt, which will destroy the trio\u2019s cherished valley. The impending disaster prompts them to reunite and warn all the other beasts about the desperate situation.",
+    "infoFields": {
+      "Original title": "Ice Age: The Meltdown",
+      "IMDb Rating": "6.8 288,812 votes",
+      "TMDb Rating": "6.687 9,007 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Carlos Saldanha",
+      "role": "Director",
+      "url": "https://multimovies.city/director/carlos-saldanha/",
+      "image": "https://image.tmdb.org/t/p/w92/oxUlCSgxKaoCRYFyS65PC2fZWrk.jpg"
+    },
+    {
+      "name": "Ray Romano",
+      "role": "Manny (voice)",
+      "url": "https://multimovies.city/cast/ray-romano/",
+      "image": "https://image.tmdb.org/t/p/w92/x1c08NKCRiKwf4HhB38ZRKWXa9K.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "role": "Sid (voice)",
+      "url": "https://multimovies.city/cast/john-leguizamo/",
+      "image": "https://image.tmdb.org/t/p/w92/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "name": "Denis Leary",
+      "role": "Diego (voice)",
+      "url": "https://multimovies.city/cast/denis-leary/",
+      "image": "https://image.tmdb.org/t/p/w92/nAqHuIw8z1QodcXdaJQShKogVFa.jpg"
+    },
+    {
+      "name": "Queen Latifah",
+      "role": "Ellie (voice)",
+      "url": "https://multimovies.city/cast/queen-latifah/",
+      "image": "https://image.tmdb.org/t/p/w92/AeNoPcSWTsl1mOxiyXAKjVnzrwl.jpg"
+    },
+    {
+      "name": "Seann William Scott",
+      "role": "Crash (voice)",
+      "url": "https://multimovies.city/cast/seann-william-scott/",
+      "image": "https://image.tmdb.org/t/p/w92/mKc2YXdh8d4U2jYDwpLWaOY6Jwg.jpg"
+    },
+    {
+      "name": "Josh Peck",
+      "role": "Eddie (voice)",
+      "url": "https://multimovies.city/cast/josh-peck/",
+      "image": "https://image.tmdb.org/t/p/w92/qoapD8slSdb550o1JEoepv1SvT0.jpg"
+    },
+    {
+      "name": "Jay Leno",
+      "role": "Fast Tony (voice)",
+      "url": "https://multimovies.city/cast/jay-leno/",
+      "image": "https://image.tmdb.org/t/p/w92/cplpY6q2VFtR7c1gMHM50wPzdU3.jpg"
+    },
+    {
+      "name": "Will Arnett",
+      "role": "Lone Gunslinger Vulture (voice)",
+      "url": "https://multimovies.city/cast/will-arnett/",
+      "image": "https://image.tmdb.org/t/p/w92/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+    },
+    {
+      "name": "Chris Wedge",
+      "role": "Scrat (voice)",
+      "url": "https://multimovies.city/cast/chris-wedge/",
+      "image": "https://image.tmdb.org/t/p/w92/bYiy2vcXgJq5XZdZ15uIhBhnBF8.jpg"
+    },
+    {
+      "name": "Peter Ackerman",
+      "role": "Dung Beetle Dad (voice)",
+      "url": "https://multimovies.city/cast/peter-ackerman/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wRTZaxAiDP0ZEeQsO0HiiSqYCSp.jpg",
+    "https://image.tmdb.org/t/p/w300/wh9BZ2a4Oav7Zf7ReHACSD1GTH2.jpg",
+    "https://image.tmdb.org/t/p/w300/tyhQnRDhAuGQoaA7pxCbfmhYpeZ.jpg",
+    "https://image.tmdb.org/t/p/w300/r9ytkz3CQ6SYKVWnKOJJznM7HVd.jpg",
+    "https://image.tmdb.org/t/p/w300/5oZK7HyK5jXA5XEq3tjZsjOMHNd.jpg",
+    "https://image.tmdb.org/t/p/w300/geKp17rEoImTIZp5nlzk1vpPrqP.jpg",
+    "https://image.tmdb.org/t/p/w300/tvxW7kXsZkI2DrZKExhzaNkkHTz.jpg",
+    "https://image.tmdb.org/t/p/w300/xmtt7ybmOfA9fGwvSV8XBfTeCTN.jpg",
+    "https://image.tmdb.org/t/p/w300/trJxb96FXUvzMIQ5KSM4ICHXUko.jpg",
+    "https://image.tmdb.org/t/p/w300/tg1sK8W4jsTRk8X9evnY5C5Qo18.jpg"
+  ],
+  "similar": [],
+  "views": 5792,
+  "sources": [
+    "https://www.youtube.com/embed/kDP8ERAUnZc?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/xlc6bg3"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 28512,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 28512,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:01:32.382937"
+}
