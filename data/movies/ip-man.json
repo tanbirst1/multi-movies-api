@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ip-man/",
+  "meta": {
+    "title": "Ip Man",
+    "poster": "https://image.tmdb.org/t/p/w500/ggTTUXZg7trvAhsVj3eyd65bAnh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "History",
+        "url": "https://multimovies.city/genre/history/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 12, 2008",
+    "ratingValue": "9.7",
+    "ratingCount": "3",
+    "synopsis": "A semi-biographical account of Yip Man, the first martial arts master to teach the Chinese martial art of Wing Chun. The film focuses on events surrounding Ip that took place in the city of Foshan between the 1930s to 1940s during the Second Sino-Japanese War. Directed by Wilson Yip, the film stars Donnie Yen in the lead role, and features fight choreography by Sammo Hung.",
+    "infoFields": {
+      "Original title": "\u8449\u554f",
+      "IMDb Rating": "8 227,692 votes",
+      "TMDb Rating": "7.745 3,298 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sammo Hung",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sammo-hung/",
+      "image": "https://image.tmdb.org/t/p/w92/AsB9uRDQWdIbFGnkICEl8I2gDWn.jpg"
+    },
+    {
+      "name": "Donnie Yen",
+      "role": "Yip Man",
+      "url": "https://multimovies.city/cast/donnie-yen/",
+      "image": "https://image.tmdb.org/t/p/w92/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+    },
+    {
+      "name": "Simon Yam",
+      "role": "Zhou Qing Quan",
+      "url": "https://multimovies.city/cast/simon-yam/",
+      "image": "https://image.tmdb.org/t/p/w92/uuLDU1eebQ2eBFtzUrk1mWvNB2m.jpg"
+    },
+    {
+      "name": "Lynn Hung",
+      "role": "Zhang Yong Cheng",
+      "url": "https://multimovies.city/cast/lynn-hung/",
+      "image": "https://image.tmdb.org/t/p/w92/jSLg8PqxdwDWfCChU2RG0B6HmCX.jpg"
+    },
+    {
+      "name": "Hiroyuki Ikeuchi",
+      "role": "General Miura",
+      "url": "https://multimovies.city/cast/hiroyuki-ikeuchi/",
+      "image": "https://image.tmdb.org/t/p/w92/m2uHh24jBPHlRO8cc4gyCCghT5c.jpg"
+    },
+    {
+      "name": "Gordon Lam",
+      "role": "Captain Li Zhao",
+      "url": "https://multimovies.city/cast/gordon-lam/",
+      "image": "https://image.tmdb.org/t/p/w92/61gQoVwgpd4qzovOaZjzJpdm47K.jpg"
+    },
+    {
+      "name": "Fan Siu-wong",
+      "role": "Jin Shan Zhao",
+      "url": "https://multimovies.city/cast/fan-siu-wong/",
+      "image": "https://image.tmdb.org/t/p/w92/jBuu1y50Qeq27tJyikx6KHGcyJE.jpg"
+    },
+    {
+      "name": "Xing Yu",
+      "role": "Master Zealot Lin / Crazy Lin",
+      "url": "https://multimovies.city/cast/xing-yu/",
+      "image": "https://image.tmdb.org/t/p/w92/tsbmvldckYiFPeDfFSvgzNrJsUK.jpg"
+    },
+    {
+      "name": "Wong Yau-Nam",
+      "role": "Shao Dan Yuan",
+      "url": "https://multimovies.city/cast/wong-yau-nam/",
+      "image": "https://image.tmdb.org/t/p/w92/8eyhjDQlEwViAN0qfye53pRcBOJ.jpg"
+    },
+    {
+      "name": "Dennis To Yue-Hong",
+      "role": "Hu Wei",
+      "url": "https://multimovies.city/cast/dennis-to-yue-hong/",
+      "image": "https://image.tmdb.org/t/p/w92/xQ4wrXt4L5u9A9yfkN4s8RzPuOJ.jpg"
+    },
+    {
+      "name": "Calvin Cheng Ka-Sing",
+      "role": "Zhou Guang Yao",
+      "url": "https://multimovies.city/cast/calvin-cheng-ka-sing/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1MXgIE5wLCUynW6PGmM0rLDJAaP.jpg",
+    "https://image.tmdb.org/t/p/w300/69QJSMkm5Hh0x9fLElZ8hjv5N4P.jpg",
+    "https://image.tmdb.org/t/p/w300/dxpjudu5LrT2YpPgBVFPHlW3L9.jpg",
+    "https://image.tmdb.org/t/p/w300/jdjwobDLROCznJhYESFB1UAfDqH.jpg",
+    "https://image.tmdb.org/t/p/w300/7njbrNWDT8YXPUDcXTxhdY4r5JL.jpg",
+    "https://image.tmdb.org/t/p/w300/keAPS6x1BrsqqCd8DxPN8ynRKZJ.jpg",
+    "https://image.tmdb.org/t/p/w300/jJuRUbgfYS1P2iU9cNRqiTxiPDC.jpg"
+  ],
+  "similar": [],
+  "views": 2772,
+  "sources": [
+    "https://www.youtube.com/embed/3IUR6P5VwGo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/0tbpkr2qnkpm"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 9661,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 9661,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:27:35.653324"
+}
