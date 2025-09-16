@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/xxx/",
+  "meta": {
+    "title": "xXx",
+    "poster": "https://image.tmdb.org/t/p/w500/86BnliVDBo2TjKmrgQTJIPHxAKd.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Aug. 09, 2002",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \u201crecruits\u201d him to go on a mission, he\u2019s not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+    "infoFields": {
+      "Original title": "xXx",
+      "IMDb Rating": "5.8 182,310 votes",
+      "TMDb Rating": "5.911 3,744 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "M. James Arnett",
+      "role": "Director",
+      "url": "https://multimovies.city/director/m-james-arnett/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Vin Diesel",
+      "role": "Xander Cage",
+      "url": "https://multimovies.city/cast/vin-diesel/",
+      "image": "https://image.tmdb.org/t/p/w92/7rwSXluNWZAluYMOEWBxkPmckES.jpg"
+    },
+    {
+      "name": "Asia Argento",
+      "role": "Yelena",
+      "url": "https://multimovies.city/cast/asia-argento/",
+      "image": "https://image.tmdb.org/t/p/w92/dYbYNxMnqhNyAJyrPU7e2C9jcRz.jpg"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "role": "Agent Augustus Gibbons",
+      "url": "https://multimovies.city/cast/samuel-l-jackson/",
+      "image": "https://image.tmdb.org/t/p/w92/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg"
+    },
+    {
+      "name": "Leila Arcieri",
+      "role": "Jordan King",
+      "url": "https://multimovies.city/cast/leila-arcieri/",
+      "image": "https://image.tmdb.org/t/p/w92/ly1UGt7QuRSUIM0o68w1L500qji.jpg"
+    },
+    {
+      "name": "Marton Csokas",
+      "role": "Yorgi",
+      "url": "https://multimovies.city/cast/marton-csokas/",
+      "image": "https://image.tmdb.org/t/p/w92/jKtjjwf8MHnUsQ3YA56LH9pJjee.jpg"
+    },
+    {
+      "name": "Eve Jeffers Cooper",
+      "role": "J.J.",
+      "url": "https://multimovies.city/cast/eve-jeffers-cooper/",
+      "image": "https://image.tmdb.org/t/p/w92/jlCLt0tZGL4kX8Q2HFKyibCyICw.jpg"
+    },
+    {
+      "name": "Jan Filipensk\u00fd",
+      "role": "Viktor",
+      "url": "https://multimovies.city/cast/jan-filipensky/",
+      "image": "https://image.tmdb.org/t/p/w92/lQtE0gsFf6T7QXFnq3InuIG9WE9.jpg"
+    },
+    {
+      "name": "Michael Roof",
+      "role": "Agent Toby Lee Shavers",
+      "url": "https://multimovies.city/cast/michael-roof/",
+      "image": "https://image.tmdb.org/t/p/w92/qhP35tsTTuAPUFcKYMGOxaw1s4j.jpg"
+    },
+    {
+      "name": "Danny Trejo",
+      "role": "El Jefe",
+      "url": "https://multimovies.city/cast/danny-trejo/",
+      "image": "https://image.tmdb.org/t/p/w92/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+    },
+    {
+      "name": "Richy M\u00fcller",
+      "role": "Milan Sova",
+      "url": "https://multimovies.city/cast/richy-muller/",
+      "image": "https://image.tmdb.org/t/p/w92/69W9VO478asbTZJrhqOfHddyunF.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+    "https://image.tmdb.org/t/p/w300/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
+    "https://image.tmdb.org/t/p/w300/x78Z2plnm3cb8GxAVLL18GMNmOv.jpg",
+    "https://image.tmdb.org/t/p/w300/a6bItEVaxgphpMswho1wVRerv4r.jpg",
+    "https://image.tmdb.org/t/p/w300/eyQmrgvbitQMmCnntUhNiBoIDab.jpg"
+  ],
+  "similar": [],
+  "views": 7300,
+  "sources": [
+    "https://www.youtube.com/embed/NgPdDDzVhkA?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/nqjf6ucx6pla"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 858,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 858,
+      "nume": 1,
+      "title": "V"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:36:39.993302"
+}
