@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-island/",
+  "meta": {
+    "title": "The Island",
+    "poster": "https://image.tmdb.org/t/p/w500/n4HyHxnKCJG8SbqeLEK1nU5JbIR.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 21, 2005",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "In 2019, Lincoln Six-Echo is a resident of a seemingly \u201cUtopian\u201d but contained facility. Like all of the inhabitants of this carefully-controlled environment, Lincoln hopes to be chosen to go to The Island \u2014 reportedly the last uncontaminated location on the planet. But Lincoln soon discovers that everything about his existence is a lie.",
+    "infoFields": {
+      "Original title": "The Island",
+      "IMDb Rating": "6.8 320,444 votes",
+      "TMDb Rating": "6.656 4,838 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Michael Bay",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-bay/",
+      "image": "https://image.tmdb.org/t/p/w92/8I9H9IKROECFEn7usvyChbRMhbI.jpg"
+    },
+    {
+      "name": "Ewan McGregor",
+      "role": "Lincoln Six Echo / Tom Lincoln",
+      "url": "https://multimovies.city/cast/ewan-mcgregor/",
+      "image": "https://image.tmdb.org/t/p/w92/qYRGu6NIqkUYIO7ftso110WNQ6P.jpg"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "role": "Jordan Two Delta / Sarah Jordan",
+      "url": "https://multimovies.city/cast/scarlett-johansson/",
+      "image": "https://image.tmdb.org/t/p/w92/9TC1fyJXX3UEcKJ2erFuyMERxdf.jpg"
+    },
+    {
+      "name": "Djimon Hounsou",
+      "role": "Albert Laurent",
+      "url": "https://multimovies.city/cast/djimon-hounsou/",
+      "image": "https://image.tmdb.org/t/p/w92/x5T4KWDapuroMdEHhVY7uhXrRlQ.jpg"
+    },
+    {
+      "name": "Sean Bean",
+      "role": "Dr. Bernard Merrick",
+      "url": "https://multimovies.city/cast/sean-bean/",
+      "image": "https://image.tmdb.org/t/p/w92/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+    },
+    {
+      "name": "Steve Buscemi",
+      "role": "James 'Mac' McCord",
+      "url": "https://multimovies.city/cast/steve-buscemi/",
+      "image": "https://image.tmdb.org/t/p/w92/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg"
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "role": "Starkweather Two Delta / Jamal Starkweather",
+      "url": "https://multimovies.city/cast/michael-clarke-duncan/",
+      "image": "https://image.tmdb.org/t/p/w92/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg"
+    },
+    {
+      "name": "Ethan Phillips",
+      "role": "Jones Three Echo",
+      "url": "https://multimovies.city/cast/ethan-phillips/",
+      "image": "https://image.tmdb.org/t/p/w92/npr6XzOaGJauOBV1ydaqmX6T5hl.jpg"
+    },
+    {
+      "name": "Brian Stepanek",
+      "role": "Gandu Three Echo",
+      "url": "https://multimovies.city/cast/brian-stepanek/",
+      "image": "https://image.tmdb.org/t/p/w92/oxBgwkiEZtoHE4Uqi7GMwM3sK9x.jpg"
+    },
+    {
+      "name": "Noa Tishby",
+      "role": "Community Announcer",
+      "url": "https://multimovies.city/cast/noa-tishby/",
+      "image": "https://image.tmdb.org/t/p/w92/riyNHksrjVeyJtyFWjAQ4b1SED0.jpg"
+    },
+    {
+      "name": "Siobhan Flynn",
+      "role": "Lima One Alpha",
+      "url": "https://multimovies.city/cast/siobhan-flynn/",
+      "image": "https://image.tmdb.org/t/p/w92/zNUfrjVBeHt1P4km53AzxSZRWIJ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zZZ1FDl5FPClZ9OnMrlaPA4Iuxv.jpg",
+    "https://image.tmdb.org/t/p/w300/qG8DVNviuk9YqYzSg73cb5120lY.jpg",
+    "https://image.tmdb.org/t/p/w300/cyp45HT5GgMJxeiDOdnJZqbO3h7.jpg",
+    "https://image.tmdb.org/t/p/w300/kgk7W74ihXJnMFw3Pt7lMloy3cB.jpg",
+    "https://image.tmdb.org/t/p/w300/aWH40PAWbSzKdK5IXBOjHXHE1vu.jpg",
+    "https://image.tmdb.org/t/p/w300/hG9A5pmvvokmHns5Sg6AxLoTuzA.jpg",
+    "https://image.tmdb.org/t/p/w300/92lq0YFaSigasgKDWVFiozsoxsf.jpg",
+    "https://image.tmdb.org/t/p/w300/svlK40VkVvDqM2ZkFuFBQiScjFs.jpg",
+    "https://image.tmdb.org/t/p/w300/wgcFJh0ufgDe83j91xzGZfHWKNr.jpg",
+    "https://image.tmdb.org/t/p/w300/7e87rjX56aAYkACEzODX3swesjB.jpg"
+  ],
+  "similar": [],
+  "views": 2282,
+  "sources": [
+    "https://www.youtube.com/embed/91SMVT1RiPA?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/g45sytvp1qip"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5373,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5373,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:55:09.203660"
+}
