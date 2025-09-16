@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/terminator-2-judgment-day/",
+  "meta": {
+    "title": "Terminator 2: Judgment Day",
+    "poster": "https://image.tmdb.org/t/p/w500/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 03, 1991",
+    "ratingValue": "9.8",
+    "ratingCount": "5",
+    "synopsis": "Nearly 10 years have passed since Sarah Connor was targeted for termination by a cyborg from the future. Now her son, John, the future leader of the resistance, is the target for a newer, more deadly terminator. Once again, the resistance has managed to send a protector back to attempt to save John and his mother Sarah.",
+    "infoFields": {
+      "Original title": "Terminator 2: Judgment Day",
+      "IMDb Rating": "8.6 1,172,123 votes",
+      "TMDb Rating": "8.112 12,294 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "James Cameron",
+      "role": "Director",
+      "url": "https://multimovies.city/director/james-cameron/",
+      "image": "https://image.tmdb.org/t/p/w92/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "role": "The Terminator",
+      "url": "https://multimovies.city/cast/arnold-schwarzenegger/",
+      "image": "https://image.tmdb.org/t/p/w92/zEMhugsgXIpnQqO31GpAJYMUZZ1.jpg"
+    },
+    {
+      "name": "Linda Hamilton",
+      "role": "Sarah Connor",
+      "url": "https://multimovies.city/cast/linda-hamilton/",
+      "image": "https://image.tmdb.org/t/p/w92/7FNn9Z5xkRS9EFbGL2tpmpph9xV.jpg"
+    },
+    {
+      "name": "Edward Furlong",
+      "role": "John Connor",
+      "url": "https://multimovies.city/cast/edward-furlong/",
+      "image": "https://image.tmdb.org/t/p/w92/e221dMIBgb6Lk092GIkHB9ohQF1.jpg"
+    },
+    {
+      "name": "Robert Patrick",
+      "role": "T-1000",
+      "url": "https://multimovies.city/cast/robert-patrick/",
+      "image": "https://image.tmdb.org/t/p/w92/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+    },
+    {
+      "name": "Joe Morton",
+      "role": "Dr. Miles Bennett Dyson",
+      "url": "https://multimovies.city/cast/joe-morton/",
+      "image": "https://image.tmdb.org/t/p/w92/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+    },
+    {
+      "name": "Earl Boen",
+      "role": "Dr. Peter Silberman",
+      "url": "https://multimovies.city/cast/earl-boen/",
+      "image": "https://image.tmdb.org/t/p/w92/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
+    },
+    {
+      "name": "S. Epatha Merkerson",
+      "role": "Tarissa Dyson",
+      "url": "https://multimovies.city/cast/s-epatha-merkerson/",
+      "image": "https://image.tmdb.org/t/p/w92/pXCmHxrWzlv1kPZSxJXFM45QgOP.jpg"
+    },
+    {
+      "name": "Castulo Guerra",
+      "role": "Enrique Salceda",
+      "url": "https://multimovies.city/cast/castulo-guerra/",
+      "image": "https://image.tmdb.org/t/p/w92/nYZihE7w1baKehLmDQb0eKEqYqF.jpg"
+    },
+    {
+      "name": "Danny Cooksey",
+      "role": "Tim",
+      "url": "https://multimovies.city/cast/danny-cooksey/",
+      "image": "https://image.tmdb.org/t/p/w92/1diDYWnss7hsYzRru9nfPCyg6Yb.jpg"
+    },
+    {
+      "name": "Jenette Goldstein",
+      "role": "Janelle Voight",
+      "url": "https://multimovies.city/cast/jenette-goldstein/",
+      "image": "https://image.tmdb.org/t/p/w92/aRBTIuKcygVu6UM9OLvFmodmG1O.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+    "https://image.tmdb.org/t/p/w300/ztBeLd2UCbUATJ1cXwwHev3G3xX.jpg",
+    "https://image.tmdb.org/t/p/w300/3kCmpjL4cYCuN95RtQBOmUh71Ri.jpg",
+    "https://image.tmdb.org/t/p/w300/ss35BgzhbjNdxFF34e2VtUVlAyF.jpg",
+    "https://image.tmdb.org/t/p/w300/i5megxGRBadEZEUeej5ADFnYLlB.jpg",
+    "https://image.tmdb.org/t/p/w300/umaoScaCsfl9g2dyrXrvMPp59Q7.jpg",
+    "https://image.tmdb.org/t/p/w300/Ab3RoWOdcSkStytU9bRFvle1ezD.jpg",
+    "https://image.tmdb.org/t/p/w300/meVyiMCXZtqWC7kYNSgSbwwMDsF.jpg",
+    "https://image.tmdb.org/t/p/w300/wJSf9miZqgmFWHf55HJdLwMMjfS.jpg",
+    "https://image.tmdb.org/t/p/w300/pC9vQ5miLgdHSPIsgfU5A9pcTpF.jpg"
+  ],
+  "similar": [],
+  "views": 5674,
+  "sources": [
+    "https://www.youtube.com/embed/lwSysg9o7wE?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/0s4tbtqnxgtv"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 3001,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 3001,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
