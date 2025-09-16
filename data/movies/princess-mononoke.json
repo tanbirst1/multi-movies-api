@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/princess-mononoke/",
+  "meta": {
+    "title": "Princess Mononoke",
+    "poster": "https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hindi Dub Anime",
+        "url": "https://multimovies.city/genre/anime-hindi/"
+      }
+    ],
+    "firstAirDate": "Jul. 12, 1997",
+    "ratingValue": "10",
+    "ratingCount": "4",
+    "synopsis": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+    "infoFields": {
+      "Original title": "\u3082\u306e\u306e\u3051\u59eb",
+      "IMDb Rating": "8.3 403,341 votes",
+      "TMDb Rating": "8.34 6,889 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hayao-miyazaki/",
+      "image": "https://image.tmdb.org/t/p/w92/mG3cfxtA5jqDc7fpKgyzZMKoXDh.jpg"
+    },
+    {
+      "name": "Youji Matsuda",
+      "role": "Ashitaka (voice)",
+      "url": "https://multimovies.city/cast/youji-matsuda/",
+      "image": "https://image.tmdb.org/t/p/w92/42WeHwCymsgJh3mLAyknCdRcef8.jpg"
+    },
+    {
+      "name": "Yuriko Ishida",
+      "role": "San (voice)",
+      "url": "https://multimovies.city/cast/yuriko-ishida/",
+      "image": "https://image.tmdb.org/t/p/w92/cADoBCi603Chz2IaxcwWT2mNwCf.jpg"
+    },
+    {
+      "name": "Y\u016bko Tanaka",
+      "role": "Eboshi Gozen (voice)",
+      "url": "https://multimovies.city/cast/yuko-tanaka/",
+      "image": "https://image.tmdb.org/t/p/w92/xXek6ZKG9iH5ughIneW3yv9slyY.jpg"
+    },
+    {
+      "name": "Kaoru Kobayashi",
+      "role": "Jikobo (voice)",
+      "url": "https://multimovies.city/cast/kaoru-kobayashi/",
+      "image": "https://image.tmdb.org/t/p/w92/pJSt6nRgcIsli0hw2aOCzc2l622.jpg"
+    },
+    {
+      "name": "Masahiko Nishimura",
+      "role": "Kouroku (voice)",
+      "url": "https://multimovies.city/cast/masahiko-nishimura/",
+      "image": "https://image.tmdb.org/t/p/w92/2fXvxAI4KySYgp9KZMzkK4q2TkY.jpg"
+    },
+    {
+      "name": "Tsunehiko Kamij\u00f4",
+      "role": "Gonza (voice)",
+      "url": "https://multimovies.city/cast/tsunehiko-kamijo/",
+      "image": "https://image.tmdb.org/t/p/w92/v2poQi0qYEWdTaMf2pVTWmcdwZp.jpg"
+    },
+    {
+      "name": "Sumi Shimamoto",
+      "role": "Toki (voice)",
+      "url": "https://multimovies.city/cast/sumi-shimamoto/",
+      "image": "https://image.tmdb.org/t/p/w92/bBA5xY4wrOUIpGnY6QPPQ9vNJB1.jpg"
+    },
+    {
+      "name": "Tetsu Watanabe",
+      "role": "Wild Dog (voice)",
+      "url": "https://multimovies.city/cast/tetsu-watanabe/",
+      "image": "https://image.tmdb.org/t/p/w92/it0WL3g31uIE7ZntjVVOwFzfn0R.jpg"
+    },
+    {
+      "name": "Makoto Sat\u014d",
+      "role": "Tatari God (voice)",
+      "url": "https://multimovies.city/cast/makoto-sato/",
+      "image": "https://image.tmdb.org/t/p/w92/d6Wakh9IfxYGf8BZ76EqMXL7EFm.jpg"
+    },
+    {
+      "name": "Akira Nagoya",
+      "role": "Cowherd (voice)",
+      "url": "https://multimovies.city/cast/akira-nagoya/",
+      "image": "https://image.tmdb.org/t/p/w92/tFn8HLnjE4CM6ygTPpTK2GJOoX4.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg",
+    "https://image.tmdb.org/t/p/w300/49eTYtwKusXvQ2cerLIeiQSr2s9.jpg",
+    "https://image.tmdb.org/t/p/w300/qgmLwmCD5wHaroLwuOJRqYeEslX.jpg",
+    "https://image.tmdb.org/t/p/w300/c0Jq3hyVg63tDYFLnqoi2RHUfEr.jpg",
+    "https://image.tmdb.org/t/p/w300/crn3nZHTQ7s1dT7MibMgI7AWhS4.jpg",
+    "https://image.tmdb.org/t/p/w300/zKYs6iZPjJi31k5SRvlnGOtx5tj.jpg",
+    "https://image.tmdb.org/t/p/w300/nSKO4jV1M2XySYWRmDez3hkFYJ5.jpg",
+    "https://image.tmdb.org/t/p/w300/yoIybVuiUWtDf2X8dCt4vZgfC3q.jpg",
+    "https://image.tmdb.org/t/p/w300/qFWHqygVVJ8kbFgJ7qclkWFN71i.jpg",
+    "https://image.tmdb.org/t/p/w300/sXV0NVLtyEsOdaEXnMcRGwUhIi0.jpg"
+  ],
+  "similar": [],
+  "views": 3025,
+  "sources": [
+    "https://www.youtube.com/embed/4OiMOHRDs14?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ofyuwpf4cou8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1708,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1708,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
