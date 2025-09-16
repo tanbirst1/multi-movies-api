@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/punisher-war-zone/",
+  "meta": {
+    "title": "Punisher \u2013 War Zone",
+    "poster": "https://image.tmdb.org/t/p/w500/oOvKJgYUIpfswGHAdW6159bPbvM.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 05, 2008",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Waging his one-man war on the world of organized crime, ruthless vigilante-hero Frank Castle sets his sights on overeager mob boss Billy Russoti. After Russoti is left horribly disfigured by Castle, he sets out for vengeance under his new alias: Jigsaw. With the \u201cPunisher Task Force\u201d hot on his trail and the FBI unable to take Jigsaw in, Frank must stand up to the formidable army that Jigsaw has recruited before more of his evil deeds go unpunished.",
+    "infoFields": {
+      "Original title": "Punisher: War Zone",
+      "IMDb Rating": "5.9 69,553 votes",
+      "TMDb Rating": "5.8 1,197 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Lexi Alexander",
+      "role": "Director",
+      "url": "https://multimovies.city/director/lexi-alexander/",
+      "image": "https://image.tmdb.org/t/p/w92/zQLF59u4v4nAu71FgcbuS2LNAzk.jpg"
+    },
+    {
+      "name": "Ray Stevenson",
+      "role": "Frank Castle",
+      "url": "https://multimovies.city/cast/ray-stevenson/",
+      "image": "https://image.tmdb.org/t/p/w92/msafbswGI6uisRuNvQ8a1wMF5Ca.jpg"
+    },
+    {
+      "name": "Dominic West",
+      "role": "Billy / Jigsaw",
+      "url": "https://multimovies.city/cast/dominic-west/",
+      "image": "https://image.tmdb.org/t/p/w92/6y2M3EWslBPwPlugEFg8XDHfSJ0.jpg"
+    },
+    {
+      "name": "Julie Benz",
+      "role": "Angela",
+      "url": "https://multimovies.city/cast/julie-benz/",
+      "image": "https://image.tmdb.org/t/p/w92/avcCYkQjRM7qgE0MZ5VXcK3XcKz.jpg"
+    },
+    {
+      "name": "Colin Salmon",
+      "role": "Paul Budiansky",
+      "url": "https://multimovies.city/cast/colin-salmon/",
+      "image": "https://image.tmdb.org/t/p/w92/mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg"
+    },
+    {
+      "name": "Doug Hutchison",
+      "role": "Loony Bin Jim",
+      "url": "https://multimovies.city/cast/doug-hutchison/",
+      "image": "https://image.tmdb.org/t/p/w92/afAENhxoHikCAKFaILFdSwVdkCw.jpg"
+    },
+    {
+      "name": "Dash Mihok",
+      "role": "Martin Soap",
+      "url": "https://multimovies.city/cast/dash-mihok/",
+      "image": "https://image.tmdb.org/t/p/w92/jnruNUJv57nNtO66SR3oJ5tQuM5.jpg"
+    },
+    {
+      "name": "Wayne Knight",
+      "role": "Micro",
+      "url": "https://multimovies.city/cast/wayne-knight/",
+      "image": "https://image.tmdb.org/t/p/w92/l5nD2XV6boxUk7bftceRUIi0ulW.jpg"
+    },
+    {
+      "name": "Stephanie Janusauskas",
+      "role": "Grace",
+      "url": "https://multimovies.city/cast/stephanie-janusauskas/",
+      "image": "https://image.tmdb.org/t/p/w92/7rlDXMmSLXEsSxen74venfs5Bz8.jpg"
+    },
+    {
+      "name": "Mark Camacho",
+      "role": "Pittsy",
+      "url": "https://multimovies.city/cast/mark-camacho/",
+      "image": "https://image.tmdb.org/t/p/w92/AruZfSgqYW23yTMlIdt0pu6iBf8.jpg"
+    },
+    {
+      "name": "Romano Orzari",
+      "role": "Nicky",
+      "url": "https://multimovies.city/cast/romano-orzari/",
+      "image": "https://image.tmdb.org/t/p/w92/uXgDFJLWXIehw4Ea304QClle2Ai.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/sPDIOvqyVzPo1Xu46BAB6aSGvSF.jpg",
+    "https://image.tmdb.org/t/p/w300/dqPZpQy6PJINOJtld17NgIERusH.jpg",
+    "https://image.tmdb.org/t/p/w300/zmnSIyqMB9jG0QqTDJbJxUDgROt.jpg",
+    "https://image.tmdb.org/t/p/w300/bpanpGm2owc3vJpkzViLKj8VpBx.jpg",
+    "https://image.tmdb.org/t/p/w300/lx8SzVE62vZcPSvabdzWIMQijce.jpg",
+    "https://image.tmdb.org/t/p/w300/rjDlta1hy3g4ksKVuUIfYcJtYf6.jpg",
+    "https://image.tmdb.org/t/p/w300/rKIC84Uopg4DE2yWSKcPoriN1nS.jpg",
+    "https://image.tmdb.org/t/p/w300/48ribxzPEShz1CUhN9eAjRkdh76.jpg",
+    "https://image.tmdb.org/t/p/w300/8Yh89pgqsX3mrbjztSBwurIHKtB.jpg",
+    "https://image.tmdb.org/t/p/w300/vOikNdGYFgTAl0NFJpLmCxp69Hx.jpg"
+  ],
+  "similar": [],
+  "views": 686,
+  "sources": [
+    "https://www.youtube.com/embed/liABMxEvPAc?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/rcqt0n8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 93407,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 93407,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:28:05.700518"
+}
