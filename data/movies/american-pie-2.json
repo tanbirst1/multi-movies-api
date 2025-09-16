@@ -4,15 +4,159 @@
   "meta": {
     "title": "American Pie 2",
     "poster": "https://image.tmdb.org/t/p/w500/854ZZxXdeabAs90mrV72NqShJqR.jpg",
-    "synopsis": "After a year apart \u2013 attending different schools, meeting different people \u2013 the guys rent a beach house and vow to make this the best summer ever. As it turns out, whether that will happen or not has a lot to do with the girls. Between the wild parties, outrageous revelations and yes, a trip to band camp, they discover that times change and people change, but in the end, it\u2019s all about sticking together."
+    "networks": [],
+    "genres": [
+      {
+        "name": "American Pie 18+",
+        "url": "https://multimovies.city/genre/american-pie/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Aug. 10, 2001",
+    "ratingValue": "7",
+    "ratingCount": "3",
+    "synopsis": "After a year apart \u2013 attending different schools, meeting different people \u2013 the guys rent a beach house and vow to make this the best summer ever. As it turns out, whether that will happen or not has a lot to do with the girls. Between the wild parties, outrageous revelations and yes, a trip to band camp, they discover that times change and people change, but in the end, it\u2019s all about sticking together.",
+    "infoFields": {
+      "Original title": "American Pie 2",
+      "IMDb Rating": "6.4 261,593 votes",
+      "TMDb Rating": "6.213 4,413 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "J.B. Rogers",
+      "role": "Director",
+      "url": "https://multimovies.city/director/j-b-rogers/",
+      "image": "https://image.tmdb.org/t/p/w92/3XO63aCsKGwKpXB9aeyPquWmSWi.jpg"
+    },
+    {
+      "name": "Jason Biggs",
+      "role": "Jim Levenstein",
+      "url": "https://multimovies.city/cast/jason-biggs/",
+      "image": "https://image.tmdb.org/t/p/w92/3nRgOQylYbNuDiddtNoh8uWTz5P.jpg"
+    },
+    {
+      "name": "Thomas Ian Nicholas",
+      "role": "Kevin Myers",
+      "url": "https://multimovies.city/cast/thomas-ian-nicholas/",
+      "image": "https://image.tmdb.org/t/p/w92/hQo2P9vwjJW6A1b327nl71a2JEW.jpg"
+    },
+    {
+      "name": "Chris Klein",
+      "role": "Chris 'Oz' Ostreicher",
+      "url": "https://multimovies.city/cast/chris-klein/",
+      "image": "https://image.tmdb.org/t/p/w92/56kCtPVfvjm5IRPa2GyaQHTPIOy.jpg"
+    },
+    {
+      "name": "Seann William Scott",
+      "role": "Steve Stifler",
+      "url": "https://multimovies.city/cast/seann-william-scott/",
+      "image": "https://image.tmdb.org/t/p/w92/mKc2YXdh8d4U2jYDwpLWaOY6Jwg.jpg"
+    },
+    {
+      "name": "Eddie Kaye Thomas",
+      "role": "Paul Finch",
+      "url": "https://multimovies.city/cast/eddie-kaye-thomas/",
+      "image": "https://image.tmdb.org/t/p/w92/glUDeCvXfoLXgE0JJ5CboDpFW4R.jpg"
+    },
+    {
+      "name": "Alyson Hannigan",
+      "role": "Michelle Flaherty",
+      "url": "https://multimovies.city/cast/alyson-hannigan/",
+      "image": "https://image.tmdb.org/t/p/w92/bO16z8rAzZWdjCga8dcbJ2AFAh2.jpg"
+    },
+    {
+      "name": "Shannon Elizabeth",
+      "role": "Nadia",
+      "url": "https://multimovies.city/cast/shannon-elizabeth/",
+      "image": "https://image.tmdb.org/t/p/w92/NttGD7i2OgoMBZPDmpaSfoUUAm.jpg"
+    },
+    {
+      "name": "Tara Reid",
+      "role": "Victoria 'Vicky' Lathum",
+      "url": "https://multimovies.city/cast/tara-reid/",
+      "image": "https://image.tmdb.org/t/p/w92/s7BRT4eypYGJxV4qeO1iMYFrnCq.jpg"
+    },
+    {
+      "name": "Mena Suvari",
+      "role": "Heather",
+      "url": "https://multimovies.city/cast/mena-suvari/",
+      "image": "https://image.tmdb.org/t/p/w92/1FXZuuugYI4ZUUMVQPn7zZxloe7.jpg"
+    },
+    {
+      "name": "Natasha Lyonne",
+      "role": "Jessica",
+      "url": "https://multimovies.city/cast/natasha-lyonne/",
+      "image": "https://image.tmdb.org/t/p/w92/Ao3Tao5nCrJGvNiFyFrzZs0Iyzg.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/uKiMpSGhKHDfZ7TwNfVFDLwvNRR.jpg",
+    "https://image.tmdb.org/t/p/w300/u0SmVYQi6GiD2DdkTZXnalef0Yt.jpg",
+    "https://image.tmdb.org/t/p/w300/rByQImSA9jL7mmUPEvoVz8d0BYV.jpg",
+    "https://image.tmdb.org/t/p/w300/sgU7YubDFMosoJQLtcrBCcEG1sq.jpg",
+    "https://image.tmdb.org/t/p/w300/zoRWvvZEoYvnESG30ubQ9fWhrdk.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 16917,
+  "sources": [
+    "https://www.youtube.com/embed/ntxIBzJ0tU8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/cl67moy",
+    "https://sbplay.org/embed-vkw6xudvy3y6.html",
+    "https://dood.la/e/x6uyq8b151mt",
+    "https://mixdrop.co/e/1vn4pov9fkekv4p",
+    "https://hydrax.net/watch?v=QZYO3zC6HR"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 15005,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 15005,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 15005,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 15005,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 15005,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 15005,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:32:33.963384"
 }
