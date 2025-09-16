@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/anacondas-the-hunt-for-the-blood-orchid/",
+  "meta": {
+    "title": "Anaconda 2 The Hunt For The Blood Orchid",
+    "poster": "https://image.tmdb.org/t/p/w500/ceMVASYCqV8dcdh20AcWf0lrJ8g.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Aug. 25, 2004",
+    "ratingValue": "6.5",
+    "ratingCount": "2",
+    "synopsis": "The blood orchid \u2013 a rare flower that could hold the secret of eternal life and be worth a fortune to the company that finds it first. Led by a pharmaceutical research team, a scientific expedition sets out to go and explore deep into the jungles of Borneo to locate and bring back samples of the legendary plant. Battling through rainstorms to make their way upriver, the group encounters poisonous insects and a ferocious crocodile, only to discover they\u2019re being stalked by an even greater danger: a gathering of giant anacondas. Heat-sensing, fifty-foot-long flesh eaters that will go after anyone that crosses in their path.",
+    "infoFields": {
+      "Original title": "Anacondas: The Hunt for the Blood Orchid",
+      "IMDb Rating": "4.7 35,436 votes",
+      "TMDb Rating": "5.482 1,005 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Dwight H. Little",
+      "role": "Director",
+      "url": "https://multimovies.city/director/dwight-h-little/",
+      "image": "https://image.tmdb.org/t/p/w92/97B9GmdhDF301Q27QSSn2kjUyIL.jpg"
+    },
+    {
+      "name": "KaDee Strickland",
+      "role": "Sam Rogers",
+      "url": "https://multimovies.city/cast/kadee-strickland/",
+      "image": "https://image.tmdb.org/t/p/w92/6lp7vlPn6e6EviqF0157VxAfuwf.jpg"
+    },
+    {
+      "name": "Johnny Messner",
+      "role": "Bill Johnson",
+      "url": "https://multimovies.city/cast/johnny-messner/",
+      "image": "https://image.tmdb.org/t/p/w92/1TL83UaGFeBg0Se3h9r066VcHjo.jpg"
+    },
+    {
+      "name": "Nicholas Hope",
+      "role": "Christian Van Dyke",
+      "url": "https://multimovies.city/cast/nicholas-hope/",
+      "image": "https://image.tmdb.org/t/p/w92/jwl6mahxUgnLvaCfmKiQLN9M2f6.jpg"
+    },
+    {
+      "name": "Morris Chestnut",
+      "role": "Gordon Mitchell",
+      "url": "https://multimovies.city/cast/morris-chestnut/",
+      "image": "https://image.tmdb.org/t/p/w92/fw1WnVORNEgYEsaPVfJv9oy3bNa.jpg"
+    },
+    {
+      "name": "Matthew Marsden",
+      "role": "Dr. Jack Byron",
+      "url": "https://multimovies.city/cast/matthew-marsden/",
+      "image": "https://image.tmdb.org/t/p/w92/qejtyAt9dQdOS9AbXxSOwbw82E.jpg"
+    },
+    {
+      "name": "Karl Yune",
+      "role": "Tran",
+      "url": "https://multimovies.city/cast/karl-yune/",
+      "image": "https://image.tmdb.org/t/p/w92/4GI4p5aPfW0vI20IdJOcxD5BEqr.jpg"
+    },
+    {
+      "name": "Salli Richardson-Whitfield",
+      "role": "Gail Stern",
+      "url": "https://multimovies.city/cast/salli-richardson-whitfield/",
+      "image": "https://image.tmdb.org/t/p/w92/izc60nn1aTlSGHyVFxBpzU2Kskf.jpg"
+    },
+    {
+      "name": "Eugene Byrd",
+      "role": "Cole Burris",
+      "url": "https://multimovies.city/cast/eugene-byrd/",
+      "image": "https://image.tmdb.org/t/p/w92/4Vs64bmZC4MgOnwIhGEeZWUw7q1.jpg"
+    },
+    {
+      "name": "Nicholas Gonzalez",
+      "role": "Dr. Ben Douglas",
+      "url": "https://multimovies.city/cast/nicholas-gonzalez/",
+      "image": "https://image.tmdb.org/t/p/w92/hh3LN9KjRm8EcVbsUKyJtd2zFL8.jpg"
+    },
+    {
+      "name": "Denis Arndt",
+      "role": "CEO",
+      "url": "https://multimovies.city/cast/denis-arndt/",
+      "image": "https://image.tmdb.org/t/p/w92/sNE3BkuIyueLgekEVxpyQgbbWTN.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2zg3nm55gMUi5lFzCdXMjnYJjS9.jpg",
+    "https://image.tmdb.org/t/p/w300/k1XtfdHiBfdkf0p3olGIljGpA0w.jpg",
+    "https://image.tmdb.org/t/p/w300/kfoV2SouW0cTYGwQA1QgWjiuxKU.jpg",
+    "https://image.tmdb.org/t/p/w300/kP0UruBOUlXPrmciYvG7HmeBRVW.jpg",
+    "https://image.tmdb.org/t/p/w300/pKJrEvImZ9j9C9gFJ5YfHe0DP5F.jpg"
+  ],
+  "similar": [],
+  "views": 5214,
+  "sources": [
+    "https://www.youtube.com/embed/hVo9Gw9rJiE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ng7gvzz"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 55809,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 55809,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:50:23.394194"
+}
