@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/big-stan/",
+  "meta": {
+    "title": "Big Stan",
+    "poster": "https://image.tmdb.org/t/p/w500/zS1uUwKEFcd8ak0NTXxw97DlbAa.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 03, 2007",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "A weak con man panics when he learns he\u2019s going to prison for fraud. He hires a mysterious martial arts guru who helps transform him into a martial arts expert who can fight off inmates who want to hurt or love him.",
+    "infoFields": {
+      "Original title": "Big Stan",
+      "IMDb Rating": "6.1 47,936 votes",
+      "TMDb Rating": "6.572 878 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rob Schneider",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rob-schneider/",
+      "image": "https://image.tmdb.org/t/p/w92/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "name": "Rob Schneider",
+      "role": "Big Stan",
+      "url": "https://multimovies.city/cast/rob-schneider/",
+      "image": "https://image.tmdb.org/t/p/w92/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "name": "David Carradine",
+      "role": "The Master",
+      "url": "https://multimovies.city/cast/david-carradine/",
+      "image": "https://image.tmdb.org/t/p/w92/1X2GlkMKS9FIG1kGou7o6LRqAjz.jpg"
+    },
+    {
+      "name": "Sally Kirkland",
+      "role": "Madame Foreman",
+      "url": "https://multimovies.city/cast/sally-kirkland/",
+      "image": "https://image.tmdb.org/t/p/w92/lHTewZ3kzzXe49W8d2vRs7tbCPh.jpg"
+    },
+    {
+      "name": "Jennifer Morrison",
+      "role": "Mindy",
+      "url": "https://multimovies.city/cast/jennifer-morrison/",
+      "image": "https://image.tmdb.org/t/p/w92/i6dkHIME0BOPhbcPESHZND3vmtk.jpg"
+    },
+    {
+      "name": "Scott Wilson",
+      "role": "Warden Gasque",
+      "url": "https://multimovies.city/cast/scott-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/ynH2YOLn0A7iIlmMiiWAGtC76Hx.jpg"
+    },
+    {
+      "name": "Richard Kind",
+      "role": "Mal",
+      "url": "https://multimovies.city/cast/richard-kind/",
+      "image": "https://image.tmdb.org/t/p/w92/yWmuVQeQUzb5OSMVDoWkR0IylCK.jpg"
+    },
+    {
+      "name": "M. Emmet Walsh",
+      "role": "Lew Popper",
+      "url": "https://multimovies.city/cast/m-emmet-walsh/",
+      "image": "https://image.tmdb.org/t/p/w92/7qhQ8VZ8cFHV5c5y1GQ9ISTxwQZ.jpg"
+    },
+    {
+      "name": "Henry Gibson",
+      "role": "Shorts",
+      "url": "https://multimovies.city/cast/henry-gibson/",
+      "image": "https://image.tmdb.org/t/p/w92/2Py2ZzFfTobPIHEKRYuWHhxRDqF.jpg"
+    },
+    {
+      "name": "Richard Riehle",
+      "role": "Judge Perry",
+      "url": "https://multimovies.city/cast/richard-riehle/",
+      "image": "https://image.tmdb.org/t/p/w92/wgjBsgpzRvardVXZhNGixSw63g2.jpg"
+    },
+    {
+      "name": "Marcia Wallace",
+      "role": "Alma",
+      "url": "https://multimovies.city/cast/marcia-wallace/",
+      "image": "https://image.tmdb.org/t/p/w92/bDCnZlPdUOyeQN0ewvoEjadBr9V.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zdxWO47KatCZhQRGaNMDXfz6DPO.jpg",
+    "https://image.tmdb.org/t/p/w300/nfJNAEwApdE4E21a4qyp8C60BFu.jpg",
+    "https://image.tmdb.org/t/p/w300/ucTDCd5A3wmRSTQyMyRcv3w16WR.jpg",
+    "https://image.tmdb.org/t/p/w300/4HMG0LXqfouHeyjAXWqWaQIkOxx.jpg"
+  ],
+  "similar": [],
+  "views": 1437,
+  "sources": [
+    "https://www.youtube.com/embed/kCdtAFar0XM?autoplay=0&autohide=1",
+    "https://player.videasy.net/movie/tt0490086"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 61084,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 61084,
+      "nume": 1,
+      "title": "vidsrc"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:14:04.777728"
+}
