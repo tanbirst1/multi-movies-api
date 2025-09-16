@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tujhe-meri-kasam/",
+  "meta": {
+    "title": "Tujhe Meri Kasam",
+    "poster": "https://image.tmdb.org/t/p/w500/lfk11oYjcDj2qC7meSN1rK34tPg.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jan. 03, 2003",
+    "ratingValue": "8.3",
+    "ratingCount": "3",
+    "synopsis": "Rishi and Anju, childhood best friends, realize their deeper feelings when Akash, a singer, proposes to Anju. Rishi hides his love for her, fearing it would ruin their friendship, but Anju becomes unsure about marrying Akash when she realizes it means leaving Rishi behind. When Anju discovers Rishi\u2019s hidden feelings, she decides to call off the marriage, but Rishi insists on going through with it out of respect for their parents. As the engagement nears, tension grows between Anju and Akash due to her bond with Rishi, leaving her torn between her loyalty to Rishi and her commitment to Akash. Rishi, struggling with his emotions, chooses to distance himself, believing it\u2019s best for everyone. Will they follow through with the marriage, or will they finally acknowledge their true feelings for each other before it\u2019s too late?",
+    "infoFields": {
+      "Original title": "Tujhe Meri Kasam",
+      "IMDb Rating": "6.2 569 votes",
+      "TMDb Rating": "6 4 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "K. Vijaya Bhaskar",
+      "role": "Director",
+      "url": "https://multimovies.city/director/k-vijaya-bhaskar/",
+      "image": "https://image.tmdb.org/t/p/w92/u5SvpAo34fqCTPFw4xfsD7mHQtO.jpg"
+    },
+    {
+      "name": "Ritesh Deshmukh",
+      "role": "Rishikesh \"Rishi\" Bhosle",
+      "url": "https://multimovies.city/cast/ritesh-deshmukh/",
+      "image": "https://image.tmdb.org/t/p/w92/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg"
+    },
+    {
+      "name": "Genelia D'Souza",
+      "role": "Anjali \"Anju\" Khanna",
+      "url": "https://multimovies.city/cast/genelia-dsouza/",
+      "image": "https://image.tmdb.org/t/p/w92/q4g6maGv227VuxGQdtNfyJ1SKXR.jpg"
+    },
+    {
+      "name": "Raja Bherwani",
+      "role": "Akash Dixit",
+      "url": "https://multimovies.city/cast/raja-bherwani/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Shakti Kapoor",
+      "role": "Dr. Kailash Bhosle",
+      "url": "https://multimovies.city/cast/shakti-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/fhVKy38jwGJyp82ptGPo0Y5Ca3k.jpg"
+    },
+    {
+      "name": "Satish Shah",
+      "role": "Satish Khanna",
+      "url": "https://multimovies.city/cast/satish-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/AaXbQI0fAoTW4Qjg4dAtC5xkK1G.jpg"
+    },
+    {
+      "name": "Tiku Talsania",
+      "role": "",
+      "url": "https://multimovies.city/cast/tiku-talsania/",
+      "image": "https://image.tmdb.org/t/p/w92/pcEzSYDTRrnvA5pcbxhrfGOVTuM.jpg"
+    },
+    {
+      "name": "Supriya Karnik",
+      "role": "Dr. Rohini Bhosle",
+      "url": "https://multimovies.city/cast/supriya-karnik/",
+      "image": "https://image.tmdb.org/t/p/w92/9R2eVBFbuDp0F4ciVlDbhwsC4sQ.jpg"
+    },
+    {
+      "name": "Jaspal Bhatti",
+      "role": "Sardarji",
+      "url": "https://multimovies.city/cast/jaspal-bhatti/",
+      "image": "https://image.tmdb.org/t/p/w92/obZtIR5ncTmxARseSqW669TicEU.jpg"
+    },
+    {
+      "name": "Shriya Saran",
+      "role": "Girija",
+      "url": "https://multimovies.city/cast/shriya-saran/",
+      "image": "https://image.tmdb.org/t/p/w92/ioOgKBSCJhOdKoZpg86ld7zANbf.jpg"
+    },
+    {
+      "name": "Govardhan Asrani",
+      "role": "Principal",
+      "url": "https://multimovies.city/cast/govardhan-asrani/",
+      "image": "https://image.tmdb.org/t/p/w92/zoZRnIHNkCRq4gKZGaQhbtPrIDj.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/k58EVqLrWe8uNJPoeF4u57cAQlK.jpg"
+  ],
+  "similar": [],
+  "views": 1403,
+  "sources": [
+    "https://www.youtube.com/embed/lEBrdWV3SEA?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/kwekif5"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 82149,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 82149,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:40:21.742954"
+}
