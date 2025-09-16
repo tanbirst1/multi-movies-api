@@ -1,0 +1,121 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/deewane-huye-paagal/",
+  "meta": {
+    "title": "Deewane Huye Paagal",
+    "poster": "https://image.tmdb.org/t/p/w500/rLb1IncCARJWbioGxYNDY5NUxb0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Nov. 25, 2005",
+    "ratingValue": "7",
+    "ratingCount": "2",
+    "synopsis": "A man embarks on journey to find his love in Dubai, only to learn she has different suitors and admirers.",
+    "infoFields": {
+      "Original title": "\u0926\u0940\u0935\u093e\u0928\u0947 \u0939\u0941\u090f \u092a\u093e\u0917\u0932",
+      "IMDb Rating": "5.5 5,597 votes",
+      "TMDb Rating": "4.77 37 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Vikram Bhatt",
+      "role": "Director",
+      "url": "https://multimovies.city/director/vikram-bhatt/",
+      "image": "https://image.tmdb.org/t/p/w92/xK23RuAHLaXx8lU6h9VMRYjVWho.jpg"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Rocky Hiranandani",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/gaINfJtR19rNTIsI2cF3KFjyAB7.jpg"
+    },
+    {
+      "name": "Shahid Kapoor",
+      "role": "Karan",
+      "url": "https://multimovies.city/cast/shahid-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/q5jqLRioZgIVjXpKS8XHx27ScDQ.jpg"
+    },
+    {
+      "name": "Rimi Sen",
+      "role": "Tanya Mulchandani / Natasha",
+      "url": "https://multimovies.city/cast/rimi-sen/",
+      "image": "https://image.tmdb.org/t/p/w92/zSVUxO2B75HgKnhOE5CsZ7ktABd.jpg"
+    },
+    {
+      "name": "Suniel Shetty",
+      "role": "Sanjay Malvani",
+      "url": "https://multimovies.city/cast/suniel-shetty/",
+      "image": "https://image.tmdb.org/t/p/w92/8zdduuPcsoUtBbCA8rl17X44jwe.jpg"
+    },
+    {
+      "name": "Paresh Rawal",
+      "role": "Tommy",
+      "url": "https://multimovies.city/cast/paresh-rawal/",
+      "image": "https://image.tmdb.org/t/p/w92/vqqA4DVnqIfvmGtwdwHtHEzMvst.jpg"
+    },
+    {
+      "name": "Johny Lever",
+      "role": "Murugan",
+      "url": "https://multimovies.city/cast/johny-lever/",
+      "image": "https://image.tmdb.org/t/p/w92/29PTgDWlNbctgddAC8V9C3Gf8B.jpg"
+    },
+    {
+      "name": "Om Puri",
+      "role": "Scientist Khurana / Mehboob",
+      "url": "https://multimovies.city/cast/om-puri/",
+      "image": "https://image.tmdb.org/t/p/w92/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+    },
+    {
+      "name": "Vijay Raaz",
+      "role": "Babloo",
+      "url": "https://multimovies.city/cast/vijay-raaz/",
+      "image": "https://image.tmdb.org/t/p/w92/bLSjiy51UPjVnTYRDmgRUy1VOwD.jpg"
+    },
+    {
+      "name": "Suresh Menon",
+      "role": "Veerappan 'Sunny' Khurana",
+      "url": "https://multimovies.city/cast/suresh-menon/",
+      "image": "https://image.tmdb.org/t/p/w92/qlNtDoPjcqJTuzER6MWW4pZrRVw.jpg"
+    },
+    {
+      "name": "Supriya Pilgaonkar",
+      "role": "Sweety Aunty",
+      "url": "https://multimovies.city/cast/supriya-pilgaonkar/",
+      "image": "https://image.tmdb.org/t/p/w92/zCAqu5hpjvjpC9J1Y9Xs7Di0hUC.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 1201,
+  "sources": [
+    "https://multimoviesshg.com/e/v7mkzwd4trg1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 39900,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:57:56.841550"
+}
