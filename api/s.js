@@ -5,7 +5,8 @@ const GITHUB_BRANCH = "main";
 // --- In-memory caches ---
 let indexCache = { data: null, expiry: 0 };
 let hotCache = new Map(); // query -> results
-let popularity = {}; // track query frequency
+let dailyCache = { data: {}, expiry: 0 }; // popular/random cache reset every 24h
+let popularity = {}; // query frequency
 
 function normalizeText(str) {
   if (!str) return "";
@@ -31,20 +32,36 @@ export default async function handler(req, res) {
       return res.status(400).json({ error: "Missing ?q=searchTerm" });
     }
 
+    const now = Date.now();
+
+    // ✅ Reset daily cache every 24h
+    if (!dailyCache.expiry || dailyCache.expiry < now) {
+      dailyCache = { data: {}, expiry: now + 24 * 60 * 60 * 1000 };
+      popularity = {}; // reset counters too
+    }
+
     // ✅ Popularity tracking
     popularity[query] = (popularity[query] || 0) + 1;
+
+    // ✅ Daily cache check
+    if (dailyCache.data[query]) {
+      return res.status(200).json({
+        query,
+        cached: "daily",
+        total: dailyCache.data[query].length,
+        results: dailyCache.data[query],
+      });
+    }
 
     // ✅ Hot cache check
     if (hotCache.has(query)) {
       return res.status(200).json({
         query,
-        cached: true,
+        cached: "hot",
         total: hotCache.get(query).length,
         results: hotCache.get(query),
       });
     }
-
-    const now = Date.now();
 
     // --- 1. Build/load index.json (cached 5 mins)
     if (!indexCache.data || indexCache.expiry < now) {
@@ -103,8 +120,28 @@ export default async function handler(req, res) {
 
     const results = [];
     if (quickHits.length > 0) {
+      // return at least filenames instantly (for live search)
+      const instant = quickHits.map((f) => ({
+        title: f.file.replace(/\.json$/i, ""),
+        link: null,
+        type: f.type,
+        ratings: { info: "loading" },
+        original_image: null,
+      }));
+
+      // fire async JSON fetches (not blocking live search)
       const fetched = await Promise.all(quickHits.map(fetchAndFormat));
       results.push(...fetched.filter(Boolean));
+
+      // Save fallback instant response for live search
+      if (results.length === 0) {
+        return res.status(200).json({
+          query,
+          cached: "instant",
+          total: instant.length,
+          results: instant,
+        });
+      }
     }
 
     // --- 4. Fallback: deep scan if no hits
@@ -125,11 +162,29 @@ export default async function handler(req, res) {
       }
     }
 
-    // --- 5. Cache hot queries (top results only)
-    hotCache.set(query, results);
-    if (hotCache.size > 50) {
-      // keep cache small
-      hotCache.delete(hotCache.keys().next().value);
+    // --- 5. Save in caches
+    if (results.length > 0) {
+      hotCache.set(query, results);
+      dailyCache.data[query] = results;
+
+      if (hotCache.size > 50) {
+        hotCache.delete(hotCache.keys().next().value); // keep small
+      }
+    }
+
+    // --- 6. Fallback suggestion slot (popular/random)
+    if (results.length === 0) {
+      const randomFile = index[Math.floor(Math.random() * index.length)];
+      const suggestion = randomFile
+        ? [{ title: randomFile.file.replace(/\.json$/i, ""), type: randomFile.type, link: null }]
+        : [];
+      return res.status(200).json({
+        query,
+        total: 0,
+        results: [],
+        suggestion,
+        message: "No exact match, showing suggestion",
+      });
     }
 
     res.status(200).json({
