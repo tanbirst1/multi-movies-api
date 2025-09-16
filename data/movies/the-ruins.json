@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-ruins/",
+  "meta": {
+    "title": "The Ruins",
+    "poster": "https://image.tmdb.org/t/p/w500/6HpicbiT7xmlMjQXOSCeNoLZGpf.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Apr. 02, 2008",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Americans Amy, Stacy, Jeff and Eric look for fun during a sunny holiday in Mexico, but they get much more than that after visiting an archaeological dig in the jungle.",
+    "infoFields": {
+      "Original title": "The Ruins",
+      "IMDb Rating": "5.9 77,507 votes",
+      "TMDb Rating": "5.928 1,008 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Carter Smith",
+      "role": "Director",
+      "url": "https://multimovies.city/director/carter-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/uyUyQsKrBhnk6zPiU54crc1xHyd.jpg"
+    },
+    {
+      "name": "Jonathan Tucker",
+      "role": "Jeff McIntire",
+      "url": "https://multimovies.city/cast/jonathan-tucker/",
+      "image": "https://image.tmdb.org/t/p/w92/9rHZEb3Xfb8PkpVAQc5v8lz3PKh.jpg"
+    },
+    {
+      "name": "Jena Malone",
+      "role": "Amy",
+      "url": "https://multimovies.city/cast/jena-malone/",
+      "image": "https://image.tmdb.org/t/p/w92/1qmkanVCFr3ZaXcxSXVDO8andb0.jpg"
+    },
+    {
+      "name": "Shawn Ashmore",
+      "role": "Eric",
+      "url": "https://multimovies.city/cast/shawn-ashmore/",
+      "image": "https://image.tmdb.org/t/p/w92/tXA1gFtsp9HWnzlQsaZSoZC8L4r.jpg"
+    },
+    {
+      "name": "Laura Ramsey",
+      "role": "Stacy",
+      "url": "https://multimovies.city/cast/laura-ramsey/",
+      "image": "https://image.tmdb.org/t/p/w92/BtgZKo1hTRUHBBGoSQrtC6nnZI.jpg"
+    },
+    {
+      "name": "Joe Anderson",
+      "role": "Mathias",
+      "url": "https://multimovies.city/cast/joe-anderson/",
+      "image": "https://image.tmdb.org/t/p/w92/x0Fz2mIMU4Prk7I43pn87Fyno40.jpg"
+    },
+    {
+      "name": "Sergio Calder\u00f3n",
+      "role": "Lead Mayan",
+      "url": "https://multimovies.city/cast/sergio-calderon/",
+      "image": "https://image.tmdb.org/t/p/w92/nzzxespfHZQbXcE733Dy88SIkKF.jpg"
+    },
+    {
+      "name": "Luis Antonio Ramos",
+      "role": "Mayan Rifleman",
+      "url": "https://multimovies.city/cast/luis-antonio-ramos/",
+      "image": "https://image.tmdb.org/t/p/w92/AgRQTwDiw5a3bELMIMjUCaMlk5T.jpg"
+    },
+    {
+      "name": "Dimitri Baveas",
+      "role": "Dimitri",
+      "url": "https://multimovies.city/cast/dimitri-baveas/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Bar Paly",
+      "role": "Archeologist",
+      "url": "https://multimovies.city/cast/bar-paly/",
+      "image": "https://image.tmdb.org/t/p/w92/u0ObQI94EUdcIt0eHhEBUrA4gGW.jpg"
+    },
+    {
+      "name": "Patricio Almeida Rodriguez",
+      "role": "Taxi Driver",
+      "url": "https://multimovies.city/cast/patricio-almeida-rodriguez/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5JVJ1DautDoWLYnuSi0IJnfUHv1.jpg",
+    "https://image.tmdb.org/t/p/w300/rUpMnhguIU2lfDUCKfXAbQDaWD7.jpg",
+    "https://image.tmdb.org/t/p/w300/tMvTci7NUMunwLt3JZvLTLcSsKo.jpg",
+    "https://image.tmdb.org/t/p/w300/rYqjPTWtgswEh7gTMbponxsy0tR.jpg",
+    "https://image.tmdb.org/t/p/w300/hpSz4WwyJQUY9NuENCJ6OfhvojE.jpg",
+    "https://image.tmdb.org/t/p/w300/lM72pB8tjIoNWv6FnQLDcDFW26B.jpg",
+    "https://image.tmdb.org/t/p/w300/pKakBRmtGBDInnL4n2iXB6fMz6P.jpg",
+    "https://image.tmdb.org/t/p/w300/eUvuyCHpWWszq8UTj68A7tBxUkf.jpg",
+    "https://image.tmdb.org/t/p/w300/lUFvwWPdv1APvbdiJkpHzxJNLi2.jpg",
+    "https://image.tmdb.org/t/p/w300/1zkTecIFViH5ngxBT7yrURcmWPw.jpg"
+  ],
+  "similar": [],
+  "views": 2339,
+  "sources": [
+    "https://www.youtube.com/embed/cyglpQU5sJ0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/f6f8855ew8au",
+    "https://sbplay.org/embed-ps7qbgfskyr8.html",
+    "https://dood.la/e/hn3zb6c9uwdy",
+    "https://mixdrop.co/e/j9m3ww00h763xex",
+    "https://embedsito.com/v/5d0w1cdy2l6jm2w?sub_en=https://sub.movstream.net/sub/the-ruins-lwv/the-ruins-lwv.vtt&default=sub_en#caption=https://sub.movstream.net/sub/the-ruins-lwv/the-ruins-lwv.vtt",
+    "https://hydrax.net/watch?v=zcrAJ7Go7"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7014,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7014,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 7014,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 7014,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 7014,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 7014,
+      "nume": 5,
+      "title": "Server 05"
+    },
+    {
+      "type": "movie",
+      "post": 7014,
+      "nume": 6,
+      "title": "Server 06"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:16:50.883099"
+}
