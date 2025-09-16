@@ -1,0 +1,140 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tropic-thunder/",
+  "meta": {
+    "title": "Tropic Thunder",
+    "poster": "https://image.tmdb.org/t/p/w500/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "War",
+        "url": "https://multimovies.city/genre/war/"
+      }
+    ],
+    "firstAirDate": "Aug. 09, 2008",
+    "ratingValue": "7.4",
+    "ratingCount": "5",
+    "synopsis": "Ben Stiller, Jack Black and Robert Downey Jr. lead an ensemble cast in \u2018Tropic Thunder,\u2019 an action comedy about a group of self-absorbed actors who set out to make the most expensive war film. After ballooning costs force the studio to cancel the movie, the frustrated director refuses to stop shooting, leading his cast into the jungles of Southeast Asia, where they encounter real bad guys.",
+    "infoFields": {
+      "Original title": "Tropic Thunder",
+      "IMDb Rating": "7.1 474,895 votes",
+      "TMDb Rating": "6.695 6,516 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ben Stiller",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ben-stiller/",
+      "image": "https://image.tmdb.org/t/p/w92/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "name": "Ben Stiller",
+      "role": "Tugg Speedman",
+      "url": "https://multimovies.city/cast/ben-stiller/",
+      "image": "https://image.tmdb.org/t/p/w92/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "name": "Jack Black",
+      "role": "Jeff Portnoy",
+      "url": "https://multimovies.city/cast/jack-black/",
+      "image": "https://image.tmdb.org/t/p/w92/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Kirk Lazarus",
+      "url": "https://multimovies.city/cast/robert-downey-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/im9SAqJPZKEbVZGmjXuLI4O7RvM.jpg"
+    },
+    {
+      "name": "Tom Cruise",
+      "role": "Les Grossmann",
+      "url": "https://multimovies.city/cast/tom-cruise/",
+      "image": "https://image.tmdb.org/t/p/w92/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"
+    },
+    {
+      "name": "Nick Nolte",
+      "role": "Four Leaf Tayback",
+      "url": "https://multimovies.city/cast/nick-nolte/",
+      "image": "https://image.tmdb.org/t/p/w92/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "name": "Jay Baruchel",
+      "role": "Kevin Sandusky",
+      "url": "https://multimovies.city/cast/jay-baruchel/",
+      "image": "https://image.tmdb.org/t/p/w92/aDfqAMsPzIZvvj1ymivsKjRAfyv.jpg"
+    },
+    {
+      "name": "Brandon T. Jackson",
+      "role": "Alpa Chino",
+      "url": "https://multimovies.city/cast/brandon-t-jackson/",
+      "image": "https://image.tmdb.org/t/p/w92/r7Wfn6Vum2SZPyY3QQtw6Q6MBCq.jpg"
+    },
+    {
+      "name": "Steve Coogan",
+      "role": "Damien Cockburn",
+      "url": "https://multimovies.city/cast/steve-coogan/",
+      "image": "https://image.tmdb.org/t/p/w92/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+      "name": "Matthew McConaughey",
+      "role": "Rick Peck",
+      "url": "https://multimovies.city/cast/matthew-mcconaughey/",
+      "image": "https://image.tmdb.org/t/p/w92/sY2mwpafcwqyYS1sOySu1MENDse.jpg"
+    },
+    {
+      "name": "Danny McBride",
+      "role": "Cody",
+      "url": "https://multimovies.city/cast/danny-mcbride/",
+      "image": "https://image.tmdb.org/t/p/w92/sVFPzl2t5QlGudQKWAszIWZCXZv.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/a7DCwfYAiIN15qfmFmrLcHh751E.jpg",
+    "https://image.tmdb.org/t/p/w300/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+    "https://image.tmdb.org/t/p/w300/jt0uwrHgKNFTzEtZtrVYCMAOPwL.jpg",
+    "https://image.tmdb.org/t/p/w300/1riTqK5ouEgjTs69MVm0F8dXilZ.jpg",
+    "https://image.tmdb.org/t/p/w300/uPAGXjVud2WeKMqLms04mmz1Djr.jpg",
+    "https://image.tmdb.org/t/p/w300/AvTXLJFpE62fzxo0tCbK4GiDZbu.jpg",
+    "https://image.tmdb.org/t/p/w300/fZSZ3HYsN2DKOkBxDSKUXJtAdf.jpg"
+  ],
+  "similar": [],
+  "views": 4650,
+  "sources": [
+    "https://www.youtube.com/embed/VsEdmjAudSI?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/mwvlqq9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 4268,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 4268,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:24:52.974325"
+}
