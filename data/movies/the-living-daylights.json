@@ -1,0 +1,170 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-living-daylights/",
+  "meta": {
+    "title": "James Bond Part 16 : The Living Daylights",
+    "poster": "https://image.tmdb.org/t/p/w500/jcP0sarQXmx7XgwNoxJtqbllNyM.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "James Bond",
+        "url": "https://multimovies.city/genre/james-bond/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 29, 1987",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "After a defecting Russian general reveals a plot to assassinate foreign spies, James Bond is assigned a secret mission to dispatch the new head of the KGB to prevent an escalation of tensions between the Soviet Union and the West.",
+    "infoFields": {
+      "Original title": "The Living Daylights",
+      "IMDb Rating": "6.7 102,116 votes",
+      "TMDb Rating": "6.492 1,520 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John Glen",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-glen/",
+      "image": "https://image.tmdb.org/t/p/w92/vrpJmSdjh7inNVZ4mSIlC54IeK6.jpg"
+    },
+    {
+      "name": "Timothy Dalton",
+      "role": "James Bond",
+      "url": "https://multimovies.city/cast/timothy-dalton/",
+      "image": "https://image.tmdb.org/t/p/w92/rKYQd6ihqWiOaCHEDrvgV2VPtAo.jpg"
+    },
+    {
+      "name": "Maryam d'Abo",
+      "role": "Kara Milovy",
+      "url": "https://multimovies.city/cast/maryam-dabo/",
+      "image": "https://image.tmdb.org/t/p/w92/AwcD84CIlQ0HaLRX3AqlmunYzgE.jpg"
+    },
+    {
+      "name": "Joe Don Baker",
+      "role": "Brad Whitaker",
+      "url": "https://multimovies.city/cast/joe-don-baker/",
+      "image": "https://image.tmdb.org/t/p/w92/dTMLwCbjB4Q4WbSyI5JWnCpFrSW.jpg"
+    },
+    {
+      "name": "Art Malik",
+      "role": "Kamran Shah",
+      "url": "https://multimovies.city/cast/art-malik/",
+      "image": "https://image.tmdb.org/t/p/w92/hZmb9wWsteP21QA29PHEk6NlOh3.jpg"
+    },
+    {
+      "name": "John Rhys-Davies",
+      "role": "General Leonid Pushkin",
+      "url": "https://multimovies.city/cast/john-rhys-davies/",
+      "image": "https://image.tmdb.org/t/p/w92/dvT1NPY8CXIVQh0O1h6rpfYOgKz.jpg"
+    },
+    {
+      "name": "Jeroen Krabb\u00e9",
+      "role": "General Georgi Koskov",
+      "url": "https://multimovies.city/cast/jeroen-krabbe/",
+      "image": "https://image.tmdb.org/t/p/w92/r26lZKUeLIaUt8DMotm4mdc4EaY.jpg"
+    },
+    {
+      "name": "Andreas Wisniewski",
+      "role": "Necros",
+      "url": "https://multimovies.city/cast/andreas-wisniewski/",
+      "image": "https://image.tmdb.org/t/p/w92/sTI9mDwajw4j6HX3Ze4qoK3lhE7.jpg"
+    },
+    {
+      "name": "Thomas Wheatley",
+      "role": "Saunders",
+      "url": "https://multimovies.city/cast/thomas-wheatley/",
+      "image": "https://image.tmdb.org/t/p/w92/jODBnLVhBZsTCDIwmHPwTMiVOY2.jpg"
+    },
+    {
+      "name": "Desmond Llewelyn",
+      "role": "Q",
+      "url": "https://multimovies.city/cast/desmond-llewelyn/",
+      "image": "https://image.tmdb.org/t/p/w92/7tf1w6bGhpBwCHwYPRcphh5vUc8.jpg"
+    },
+    {
+      "name": "Robert Brown",
+      "role": "M",
+      "url": "https://multimovies.city/cast/robert-brown/",
+      "image": "https://image.tmdb.org/t/p/w92/oJ8gAHNETOFwh1vgi7YiSjX05Cu.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ebaq0ecL1Tu39rIExfHwE4ToFl2.jpg",
+    "https://image.tmdb.org/t/p/w300/hZwFWGM3Clpvenxb137C82eODOg.jpg",
+    "https://image.tmdb.org/t/p/w300/nbIFCIY1X7T9pSBwwrN6qVRvSkK.jpg",
+    "https://image.tmdb.org/t/p/w300/8TPStgzHahi6Cx3wimpipAV8BnN.jpg",
+    "https://image.tmdb.org/t/p/w300/7rYJDsgIeMaySCyFGCLdvDahceC.jpg",
+    "https://image.tmdb.org/t/p/w300/qlGPFliP2Kl9B7nBQtLsiEwN7V7.jpg",
+    "https://image.tmdb.org/t/p/w300/yWsv0bobA7wtHCK5hY8hh827siA.jpg",
+    "https://image.tmdb.org/t/p/w300/vfRrQwd0t4zplbf24vwZ5M1bILW.jpg",
+    "https://image.tmdb.org/t/p/w300/rJv9h3Q9FvgwHgED6MdRUSWiqR4.jpg",
+    "https://image.tmdb.org/t/p/w300/2i7HIagOtrSHuWZ5WJ7OFPamEMg.jpg"
+  ],
+  "similar": [],
+  "views": 2587,
+  "sources": [
+    "https://www.youtube.com/embed/l_zEmb7SGXk?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/5zalh0c6et5d",
+    "https://sbplay.org/embed-q3wn7kidxf83.html",
+    "https://dood.la/e/d4mvkdcidb3l",
+    "https://mixdrop.co/e/vn346r91cp08oq",
+    "https://hydrax.net/watch?v=0wDv4Tshtj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 21139,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 21139,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 21139,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 21139,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 21139,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 21139,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
