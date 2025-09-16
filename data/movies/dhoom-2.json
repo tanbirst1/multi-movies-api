@@ -1,0 +1,104 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dhoom-2/",
+  "meta": {
+    "title": "Dhoom 2",
+    "poster": "https://image.tmdb.org/t/p/w500/3zJLnrP9g9LSMpX5C1wau49gGUv.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Nov. 24, 2006",
+    "ratingValue": "8.5",
+    "ratingCount": "14",
+    "synopsis": "Jai and Ali return, this time on the trail of an international thief who steals priceless artifacts and has chosen Mumbai as his next target.",
+    "infoFields": {
+      "Original title": "\u0927\u0942\u092e \u0968",
+      "IMDb Rating": "6.6 31,714 votes",
+      "TMDb Rating": "6.577 253 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sanjay Gadhvi",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sanjay-gadhvi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Hrithik Roshan",
+      "role": "Aryan / Mr. A",
+      "url": "https://multimovies.city/cast/hrithik-roshan/",
+      "image": "https://image.tmdb.org/t/p/w92/upKrdABAMK7jZevWAoPYI24iKlR.jpg"
+    },
+    {
+      "name": "Abhishek Bachchan",
+      "role": "Jai Dixit",
+      "url": "https://multimovies.city/cast/abhishek-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/o2hWC004VnRyGLOgg8OjiP1Ch5A.jpg"
+    },
+    {
+      "name": "Aishwarya Rai Bachchan",
+      "role": "Sunehri",
+      "url": "https://multimovies.city/cast/aishwarya-rai-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/cfZ05qqCNoSUYmBwsb4cVzKM0YB.jpg"
+    },
+    {
+      "name": "Uday Chopra",
+      "role": "Ali Khan",
+      "url": "https://multimovies.city/cast/uday-chopra/",
+      "image": "https://image.tmdb.org/t/p/w92/bHmH00vJNavpf5BgSuBeUSPB9bj.jpg"
+    },
+    {
+      "name": "Bipasha Basu",
+      "role": "Sonali Bose / Monali Bose",
+      "url": "https://multimovies.city/cast/bipasha-basu/",
+      "image": "https://image.tmdb.org/t/p/w92/j4p0NOHUNvOCBcfaZiCoyxdJJou.jpg"
+    },
+    {
+      "name": "Rimi Sen",
+      "role": "Sweety Dixit (Cameo)",
+      "url": "https://multimovies.city/cast/rimi-sen/",
+      "image": "https://image.tmdb.org/t/p/w92/zSVUxO2B75HgKnhOE5CsZ7ktABd.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5vWEcjru7dUIuTgMbwOVfuGMU60.jpg",
+    "https://image.tmdb.org/t/p/w300/1HYCHXwingCDWcPbE9NIi5keHqD.jpg"
+  ],
+  "similar": [],
+  "views": 21923,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/q2g2lu9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 4912,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:06:45.438537"
+}
