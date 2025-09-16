@@ -4,8 +4,148 @@
   "meta": {
     "title": "The Big Hit",
     "poster": "https://image.tmdb.org/t/p/w500/aYDC6E9wi6vUmqnJtHsYJfMhFo2.jpg",
-    "synopsis": "Affable hit man Melvin Smiley is constantly being scammed by his cutthroat colleagues in the life-ending business. So, when he and his fellow assassins kidnap the daughter of an electronics mogul, it\u2019s naturally Melvin who takes the fall when their prime score turns sour. That\u2019s because the girl is the goddaughter of the gang\u2019s ruthless crime boss. But, even while dodging bullets, Melvin has to keep his real job secret from his unsuspecting fianc\u00e9e, Pam."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Apr. 24, 1998",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Affable hit man Melvin Smiley is constantly being scammed by his cutthroat colleagues in the life-ending business. So, when he and his fellow assassins kidnap the daughter of an electronics mogul, it\u2019s naturally Melvin who takes the fall when their prime score turns sour. That\u2019s because the girl is the goddaughter of the gang\u2019s ruthless crime boss. But, even while dodging bullets, Melvin has to keep his real job secret from his unsuspecting fianc\u00e9e, Pam.",
+    "infoFields": {
+      "Original title": "The Big Hit",
+      "IMDb Rating": "6.1 31,777 votes",
+      "TMDb Rating": "5.906 409 votes"
+    }
   },
   "seasons": [],
-  "cache": false
+  "cast": [
+    {
+      "name": "Kirk Wong Chi-Keung",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kirk-wong-chi-keung/",
+      "image": "https://image.tmdb.org/t/p/w92/wrKLSjzJyy8ykhyGfViCUJVyMgb.jpg"
+    },
+    {
+      "name": "Mark Wahlberg",
+      "role": "Melvin Smiley",
+      "url": "https://multimovies.city/cast/mark-wahlberg/",
+      "image": "https://image.tmdb.org/t/p/w92/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+    },
+    {
+      "name": "Lou Diamond Phillips",
+      "role": "Cisco",
+      "url": "https://multimovies.city/cast/lou-diamond-phillips/",
+      "image": "https://image.tmdb.org/t/p/w92/yqGZwaGe8XgoxfO7zmx7weGBaXZ.jpg"
+    },
+    {
+      "name": "Christina Applegate",
+      "role": "Pam Shulman",
+      "url": "https://multimovies.city/cast/christina-applegate/",
+      "image": "https://image.tmdb.org/t/p/w92/dNLVRcmXAqFje98Wc2X8CNFGvKh.jpg"
+    },
+    {
+      "name": "China Chow",
+      "role": "Keiko Nishi",
+      "url": "https://multimovies.city/cast/china-chow/",
+      "image": "https://image.tmdb.org/t/p/w92/zHc4Ooc7HV6RjnW0FTR0oQje6d7.jpg"
+    },
+    {
+      "name": "Avery Brooks",
+      "role": "Paris",
+      "url": "https://multimovies.city/cast/avery-brooks/",
+      "image": "https://image.tmdb.org/t/p/w92/86G3ePzkKiFhGnVNiZLPd058P0d.jpg"
+    },
+    {
+      "name": "Antonio Sab\u00e0to",
+      "role": "Jr.",
+      "url": "https://multimovies.city/cast/antonio-sabato/",
+      "image": "https://image.tmdb.org/t/p/w92/yv5BxwJQA3rLB9HdTtJ3Np2On22.jpg"
+    },
+    {
+      "name": "Bokeem Woodbine",
+      "role": "Crunch",
+      "url": "https://multimovies.city/cast/bokeem-woodbine/",
+      "image": "https://image.tmdb.org/t/p/w92/pgFJ6hDPK5zwpbdO1EKhu2FBvDv.jpg"
+    },
+    {
+      "name": "Elliott Gould",
+      "role": "Morton Shulman",
+      "url": "https://multimovies.city/cast/elliott-gould/",
+      "image": "https://image.tmdb.org/t/p/w92/ismZMvs8QxRR33OAVp9AKr3TokP.jpg"
+    },
+    {
+      "name": "Lainie Kazan",
+      "role": "Jeanne Shulman",
+      "url": "https://multimovies.city/cast/lainie-kazan/",
+      "image": "https://image.tmdb.org/t/p/w92/6BpG5cRYtT2Trtaq6IshpLY9jgf.jpg"
+    },
+    {
+      "name": "Robin Dunne",
+      "role": "Gump",
+      "url": "https://multimovies.city/cast/robin-dunne/",
+      "image": "https://image.tmdb.org/t/p/w92/4TW7bd7yyRB1hjQdn0Ej3XAKVnu.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/yB5n2EfRkQfTFpYL2yCX7eJLAUk.jpg",
+    "https://image.tmdb.org/t/p/w300/as1NA7hA1GwUN4Bq3ZQiVQST1xU.jpg",
+    "https://image.tmdb.org/t/p/w300/h4ddf0Nt4aPyl7USX52DAPdpFzD.jpg",
+    "https://image.tmdb.org/t/p/w300/e36UZcjvNaQ0LrNIaEvQLWHExTV.jpg",
+    "https://image.tmdb.org/t/p/w300/gSyrqf95SseGFYAmx0NDPdnYMrS.jpg",
+    "https://image.tmdb.org/t/p/w300/73vqkzZFhX0FL1y1sXxa8JiEDWu.jpg",
+    "https://image.tmdb.org/t/p/w300/fyxzLgB2gi8siFMEhPhyLXdSHhW.jpg",
+    "https://image.tmdb.org/t/p/w300/iBAdmqJf37pTBLuEMvPIRGuwlpn.jpg",
+    "https://image.tmdb.org/t/p/w300/4LmjBmbW9QhkEvwLioUpUjc6v6E.jpg",
+    "https://image.tmdb.org/t/p/w300/pGBLu25Pg9C7gRVKq0HOvaJzLyg.jpg"
+  ],
+  "similar": [],
+  "views": 284,
+  "sources": [
+    "https://www.youtube.com/embed/ge4RlzTujq8?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/4m9g5agg5int"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58224,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58224,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:21:08.265364"
 }
