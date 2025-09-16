@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/yamadonga/",
+  "meta": {
+    "title": "Yamadonga",
+    "poster": "https://image.tmdb.org/t/p/w500/3CcAZYYkG0dralHCyOmouS6dNPh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "South Indian",
+        "url": "https://multimovies.city/genre/south-indian/"
+      }
+    ],
+    "firstAirDate": "Aug. 15, 2007",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Raja, an orphaned thief, dies while helping a gang in kidnapping a wealthy heiress, Mahi, in exchange of money. He then lands in Yamlok and fights with Yama, the god of death, to get his life back.",
+    "infoFields": {
+      "Original title": "\u0c2f\u0c2e\u0c26\u0c4a\u0c02\u0c17",
+      "IMDb Rating": "7.2 4,267 votes",
+      "TMDb Rating": "5.563 16 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "S. S. Rajamouli",
+      "role": "Director",
+      "url": "https://multimovies.city/director/s-s-rajamouli/",
+      "image": "https://image.tmdb.org/t/p/w92/g7jXGAVT8T5vq81fO5JWDleDc75.jpg"
+    },
+    {
+      "name": "N. T. Rama Rao Jr.",
+      "role": "Raja",
+      "url": "https://multimovies.city/cast/n-t-rama-rao-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/kMz1SZFt7ynfL8kxs7mZZHkSzkc.jpg"
+    },
+    {
+      "name": "Mohan Babu",
+      "role": "Yama Dharma Raja",
+      "url": "https://multimovies.city/cast/mohan-babu/",
+      "image": "https://image.tmdb.org/t/p/w92/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg"
+    },
+    {
+      "name": "Priyamani",
+      "role": "Maheshwari",
+      "url": "https://multimovies.city/cast/priyamani/",
+      "image": "https://image.tmdb.org/t/p/w92/z5RdQjQOb3dK0HCPwz3orWfuDhD.jpg"
+    },
+    {
+      "name": "Mamta Mohandas",
+      "role": "Dhanalakshmi",
+      "url": "https://multimovies.city/cast/mamta-mohandas/",
+      "image": "https://image.tmdb.org/t/p/w92/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+      "name": "Brahmanandam",
+      "role": "Chitragupta",
+      "url": "https://multimovies.city/cast/brahmanandam/",
+      "image": "https://image.tmdb.org/t/p/w92/zh6nWEIy3l1dsZA9EDuDezq867b.jpg"
+    },
+    {
+      "name": "Ali Basha",
+      "role": "Sathi",
+      "url": "https://multimovies.city/cast/ali-basha/",
+      "image": "https://image.tmdb.org/t/p/w92/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg"
+    },
+    {
+      "name": "Jayaprakash Reddy",
+      "role": "Maheshwari's Father-In-Law 1",
+      "url": "https://multimovies.city/cast/jayaprakash-reddy/",
+      "image": "https://image.tmdb.org/t/p/w92/m0djrw7flYPrE77uV5ufOmywTnb.jpg"
+    },
+    {
+      "name": "Raghu Babu",
+      "role": "Maheshwari's Father-In-Law 2",
+      "url": "https://multimovies.city/cast/raghu-babu/",
+      "image": "https://image.tmdb.org/t/p/w92/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg"
+    },
+    {
+      "name": "Khushboo",
+      "role": "Yama's Wife",
+      "url": "https://multimovies.city/cast/khushboo/",
+      "image": "https://image.tmdb.org/t/p/w92/roi9WikS5o5bhzV3KwUOCFGa2y7.jpg"
+    },
+    {
+      "name": "Naresh",
+      "role": "Narada",
+      "url": "https://multimovies.city/cast/naresh/",
+      "image": "https://image.tmdb.org/t/p/w92/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/lxK7KzZEk6aIQsOt5GryKQpxa8P.jpg",
+    "https://image.tmdb.org/t/p/w300/g0WpXtkTNbCxdPPwsWB37yMmBjk.jpg",
+    "https://image.tmdb.org/t/p/w300/8jEigdQI76ExnuYpZEniKxjBGNX.jpg",
+    "https://image.tmdb.org/t/p/w300/u8cxXH3VLbIozPLY3Jdg1MW8Q4c.jpg",
+    "https://image.tmdb.org/t/p/w300/53xjkyJGTH5fVmyYaQHjWpXEpPZ.jpg",
+    "https://image.tmdb.org/t/p/w300/ftn4vyXHuMjp4rGmyaFRP3nOQY4.jpg"
+  ],
+  "similar": [],
+  "views": 1146,
+  "sources": [
+    "https://www.youtube.com/embed/KRcibCmRPts?autoplay=0&autohide=1",
+    "https://multimovies.website/e/02coj9v9b99p.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 852,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 852,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:11:32.403210"
+}
