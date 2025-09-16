@@ -1,0 +1,120 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/sunday/",
+  "meta": {
+    "title": "Sunday",
+    "poster": "https://image.tmdb.org/t/p/w500/rEFD2MOV4XrjVTmNwPP7p2Sm7hp.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jan. 25, 2008",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "A dead body found floating in a lake\u2026 Unexplained scratch marks on her neck\u2026 Supari killers out to kill her\u2026 A taxi driver who yells \u2018bhoot, bhoot\u2019 every time he sees her\u2026",
+    "infoFields": {
+      "Original title": "\u0938\u0902\u0921\u0947",
+      "TMDb Rating": "4.9 21 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rohit Shetty",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rohit-shetty/",
+      "image": "https://image.tmdb.org/t/p/w92/9ZRyKwijT7OAMjIEEPATeTZ2ZQn.jpg"
+    },
+    {
+      "name": "Ajay Devgn",
+      "role": "A C P Rajveer Randhawa",
+      "url": "https://multimovies.city/cast/ajay-devgn/",
+      "image": "https://image.tmdb.org/t/p/w92/83jDgHAPf4hPCFoF1OTF08xkhd6.jpg"
+    },
+    {
+      "name": "Arshad Warsi",
+      "role": "Ballu",
+      "url": "https://multimovies.city/cast/arshad-warsi/",
+      "image": "https://image.tmdb.org/t/p/w92/iXSA1C7B5mtoUrfDZ2sULE28bww.jpg"
+    },
+    {
+      "name": "Ayesha Takia",
+      "role": "Sehar",
+      "url": "https://multimovies.city/cast/ayesha-takia/",
+      "image": "https://image.tmdb.org/t/p/w92/nMwZp4tfg6W4BkkWpaXesUMUAxR.jpg"
+    },
+    {
+      "name": "Irrfan Khan",
+      "role": "Kumar Mangat",
+      "url": "https://multimovies.city/cast/irrfan-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+    },
+    {
+      "name": "Anjana Sukhani",
+      "role": "Ritu",
+      "url": "https://multimovies.city/cast/anjana-sukhani/",
+      "image": "https://image.tmdb.org/t/p/w92/dAflBouhR7ygcJFkufCv9g8Bk5L.jpg"
+    },
+    {
+      "name": "Mukesh Tiwari",
+      "role": "Anwar",
+      "url": "https://multimovies.city/cast/mukesh-tiwari/",
+      "image": "https://image.tmdb.org/t/p/w92/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg"
+    },
+    {
+      "name": "Tusshar Kapoor",
+      "role": "special appearance in an item song",
+      "url": "https://multimovies.city/cast/tusshar-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/5ApUsEt56R0SVQMu11fbmUSHCIi.jpg"
+    },
+    {
+      "name": "Esha Deol",
+      "role": "special appearance in an item song",
+      "url": "https://multimovies.city/cast/esha-deol/",
+      "image": "https://image.tmdb.org/t/p/w92/kf61c4lNSAjExCHQh03x5f0tQWL.jpg"
+    },
+    {
+      "name": "Robin Bhatt",
+      "role": "Dr. Robin Bhatt",
+      "url": "https://multimovies.city/cast/robin-bhatt/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wmZqlsmnEirYLEo4jFJkmi5qFpM.jpg",
+    "https://image.tmdb.org/t/p/w300/4SQUk6oYmeVNNDtCAzqjlSQi23y.jpg"
+  ],
+  "similar": [],
+  "views": 536,
+  "sources": [
+    "https://www.youtube.com/embed/RTlZKNNIPMI?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/a6yrrnp"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 91828,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 91828,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:18:07.619277"
+}
