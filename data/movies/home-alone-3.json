@@ -4,8 +4,129 @@
   "meta": {
     "title": "Home Alone 3",
     "poster": "https://image.tmdb.org/t/p/w500/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg",
-    "synopsis": "9-year-old Alex Pruitt is home alone with the chicken pox. Turns out, due to a mix-up among nefarious spies, Alex was given a toy car concealing a top-secret microchip. Now Alex must fend off the spies as they try to break into his house to get it back."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 12, 1997",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "9-year-old Alex Pruitt is home alone with the chicken pox. Turns out, due to a mix-up among nefarious spies, Alex was given a toy car concealing a top-secret microchip. Now Alex must fend off the spies as they try to break into his house to get it back.",
+    "infoFields": {
+      "Original title": "Home Alone 3",
+      "IMDb Rating": "4.5 121,535 votes",
+      "TMDb Rating": "5.267 2,702 votes"
+    }
   },
   "seasons": [],
-  "cache": false
+  "cast": [
+    {
+      "name": "Raja Gosnell",
+      "role": "Director",
+      "url": "https://multimovies.city/director/raja-gosnell/",
+      "image": "https://image.tmdb.org/t/p/w92/dIovlHUjOfBEhqrUENBaRmGIAc0.jpg"
+    },
+    {
+      "name": "Alex D. Linz",
+      "role": "Alex Pruitt",
+      "url": "https://multimovies.city/cast/alex-d-linz/",
+      "image": "https://image.tmdb.org/t/p/w92/pem026eNKMUMnCEVXZf5T5yjH64.jpg"
+    },
+    {
+      "name": "Olek Krupa",
+      "role": "Peter Beaupre",
+      "url": "https://multimovies.city/cast/olek-krupa/",
+      "image": "https://image.tmdb.org/t/p/w92/jTVCCZCm16aZeUCXnoSd4EldfyN.jpg"
+    },
+    {
+      "name": "Rya Kihlstedt",
+      "role": "Alice Ribbons",
+      "url": "https://multimovies.city/cast/rya-kihlstedt/",
+      "image": "https://image.tmdb.org/t/p/w92/86ysgxNPkckt8jp715X79CdopB7.jpg"
+    },
+    {
+      "name": "Lenny Von Dohlen",
+      "role": "Burton Jernigan",
+      "url": "https://multimovies.city/cast/lenny-von-dohlen/",
+      "image": "https://image.tmdb.org/t/p/w92/yZfisRYu3aEDRa0AaEIjMhkmW8w.jpg"
+    },
+    {
+      "name": "David Thornton",
+      "role": "Earl Unger",
+      "url": "https://multimovies.city/cast/david-thornton/",
+      "image": "https://image.tmdb.org/t/p/w92/jKlG3icyzBrpOqPoimRmENf3tPf.jpg"
+    },
+    {
+      "name": "Haviland Morris",
+      "role": "Karen Pruitt",
+      "url": "https://multimovies.city/cast/haviland-morris/",
+      "image": "https://image.tmdb.org/t/p/w92/aSGNafHM8QP1DrKzW5gXnjl4CdG.jpg"
+    },
+    {
+      "name": "Kevin Kilner",
+      "role": "Jack Pruitt",
+      "url": "https://multimovies.city/cast/kevin-kilner/",
+      "image": "https://image.tmdb.org/t/p/w92/pG91obnUC7MSmvWTpWexbUEv6Wb.jpg"
+    },
+    {
+      "name": "Marian Seldes",
+      "role": "Mrs. Hess",
+      "url": "https://multimovies.city/cast/marian-seldes/",
+      "image": "https://image.tmdb.org/t/p/w92/farpPf0NJrZfdYJNnAmDlmhTURn.jpg"
+    },
+    {
+      "name": "Seth Smith",
+      "role": "Stan Pruitt",
+      "url": "https://multimovies.city/cast/seth-smith/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "role": "Molly Pruitt",
+      "url": "https://multimovies.city/cast/scarlett-johansson/",
+      "image": "https://image.tmdb.org/t/p/w92/zmvK1jJ6UZpAAeMMgdEOWir0kQN.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zG8CP8iRhLo7BNBsma6GfP6gkRF.jpg",
+    "https://image.tmdb.org/t/p/w300/oHsiqHajO9v8YTuonvcMCkxtpSq.jpg",
+    "https://image.tmdb.org/t/p/w300/bGsZvJMsx3gjM8mp1Biwp0NHHVy.jpg",
+    "https://image.tmdb.org/t/p/w300/158SGhvFmITygMbBiVLUfAWwlLK.jpg",
+    "https://image.tmdb.org/t/p/w300/gNaAgmeuSUkxb2FFCHw8fvIqHlS.jpg",
+    "https://image.tmdb.org/t/p/w300/w30XggFsRQhVuRHIggDEjaAz8lX.jpg",
+    "https://image.tmdb.org/t/p/w300/mcnXO4W3VbgR7XuxMKfuIRWD9uF.jpg"
+  ],
+  "similar": [],
+  "views": 1881,
+  "sources": [
+    "https://www.youtube.com/embed/5SpGd4ogKDs?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/q0md967rp3l4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 23514,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 23514,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:21:41.235809"
 }
