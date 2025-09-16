@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/lake-placid-2/",
+  "meta": {
+    "title": "Lake Placid 2",
+    "poster": "https://image.tmdb.org/t/p/w500/6ju8eLIai0hux6DSkIwRUozbX7K.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Apr. 28, 2007",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Man-eating crocodiles return to the lake as two males and one aggressive female crocodile, which is protecting her nest, wreak havoc on the locals.",
+    "infoFields": {
+      "Original title": "Lake Placid 2",
+      "IMDb Rating": "3.2 7,742 votes",
+      "TMDb Rating": "4.8 233 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Flores",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-flores/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "John Schneider",
+      "role": "Sheriff James Riley",
+      "url": "https://multimovies.city/cast/john-schneider/",
+      "image": "https://image.tmdb.org/t/p/w92/c3cM4MuGSfDFQScZsYyWzVkD0pp.jpg"
+    },
+    {
+      "name": "Sam McMurray",
+      "role": "Struthers",
+      "url": "https://multimovies.city/cast/sam-mcmurray/",
+      "image": "https://image.tmdb.org/t/p/w92/pbZSG0hprUcRkUF3q4NUUzvQX3E.jpg"
+    },
+    {
+      "name": "Sarah Lafleur",
+      "role": "Emily",
+      "url": "https://multimovies.city/cast/sarah-lafleur/",
+      "image": "https://image.tmdb.org/t/p/w92/qbjf4OBVJWlJY4JCJbbJIxqh361.jpg"
+    },
+    {
+      "name": "Chad Michael Collins",
+      "role": "Scott",
+      "url": "https://multimovies.city/cast/chad-michael-collins/",
+      "image": "https://image.tmdb.org/t/p/w92/9lcEpAYRBCylYIVMZYXHqfmRzfP.jpg"
+    },
+    {
+      "name": "Alicia Ziegler",
+      "role": "Kerri",
+      "url": "https://multimovies.city/cast/alicia-ziegler/",
+      "image": "https://image.tmdb.org/t/p/w92/19TEkT9bKZwIGWefP8ud4b8gWbH.jpg"
+    },
+    {
+      "name": "Joe Holt",
+      "role": "Ahmed",
+      "url": "https://multimovies.city/cast/joe-holt/",
+      "image": "https://image.tmdb.org/t/p/w92/38YjSfMMr06b1fEdkS8UFXubPzT.jpg"
+    },
+    {
+      "name": "Ian Reed Kesler",
+      "role": "Thad",
+      "url": "https://multimovies.city/cast/ian-reed-kesler/",
+      "image": "https://image.tmdb.org/t/p/w92/7LXeACXi9fz1DlwefkWfeM6ohPR.jpg"
+    },
+    {
+      "name": "Justin Urich",
+      "role": "Larry",
+      "url": "https://multimovies.city/cast/justin-urich/",
+      "image": "https://image.tmdb.org/t/p/w92/k09VgUVJ8dLIXIs7itW62MLIklB.jpg"
+    },
+    {
+      "name": "Cloris Leachman",
+      "role": "Sadie",
+      "url": "https://multimovies.city/cast/cloris-leachman/",
+      "image": "https://image.tmdb.org/t/p/w92/o8pnV9urjuHZDAR2u4UjPy2CR1u.jpg"
+    },
+    {
+      "name": "VJ Kewl",
+      "role": "Rachel",
+      "url": "https://multimovies.city/cast/vj-kewl/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/oW9uoxt039o4RiaDlP9ewk5uzaP.jpg",
+    "https://image.tmdb.org/t/p/w300/qAjrfmUUfdr5yKPy7JNLwf3qW3Z.jpg",
+    "https://image.tmdb.org/t/p/w300/qNmAXeAdE7YjY4gBHmoVhCCGIWf.jpg",
+    "https://image.tmdb.org/t/p/w300/oN6gXrLiFhSVJEIWdrOHAv6CtvB.jpg",
+    "https://image.tmdb.org/t/p/w300/8p4sLK8Oppn6urHq1sgF0VcADL6.jpg"
+  ],
+  "similar": [],
+  "views": 448,
+  "sources": [
+    "https://www.youtube.com/embed/cUaNgKfOZls?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/oxy3d9h"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 86457,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 86457,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:09:05.999441"
+}
