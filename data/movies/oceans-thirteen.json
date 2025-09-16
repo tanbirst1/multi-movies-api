@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/oceans-thirteen/",
+  "meta": {
+    "title": "Ocean\u2019s Thirteen",
+    "poster": "https://image.tmdb.org/t/p/w500/5Hjp3pOvvO4DBAId3dxUsuIpfEm.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 06, 2007",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Danny Ocean\u2019s team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he\u2019s got. Even if it means asking for help from an enemy.",
+    "infoFields": {
+      "Original title": "Ocean's Thirteen",
+      "IMDb Rating": "6.9 358,755 votes",
+      "TMDb Rating": "6.716 5,808 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Steven Soderbergh",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steven-soderbergh/",
+      "image": "https://image.tmdb.org/t/p/w92/2eJL4Eb9hyLwlgHX9IHRf5peIDm.jpg"
+    },
+    {
+      "name": "George Clooney",
+      "role": "Danny Ocean",
+      "url": "https://multimovies.city/cast/george-clooney/",
+      "image": "https://image.tmdb.org/t/p/w92/4s3wI0bqOP7K3hhcmKqV6m3GYiQ.jpg"
+    },
+    {
+      "name": "Brad Pitt",
+      "role": "Rusty Ryan",
+      "url": "https://multimovies.city/cast/brad-pitt/",
+      "image": "https://image.tmdb.org/t/p/w92/1k9MVNS9M3Y4KejBHusNdbGJwRw.jpg"
+    },
+    {
+      "name": "Matt Damon",
+      "role": "Linus Caldwell",
+      "url": "https://multimovies.city/cast/matt-damon/",
+      "image": "https://image.tmdb.org/t/p/w92/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+    },
+    {
+      "name": "Andy Garc\u00eda",
+      "role": "Terry Benedict",
+      "url": "https://multimovies.city/cast/andy-garcia/",
+      "image": "https://image.tmdb.org/t/p/w92/aRooE4lECWf0YXd2NefeM4Wu4rn.jpg"
+    },
+    {
+      "name": "Don Cheadle",
+      "role": "Basher Tarr",
+      "url": "https://multimovies.city/cast/don-cheadle/",
+      "image": "https://image.tmdb.org/t/p/w92/b1EVJWdFn7a75qVYJgwO87W2TJU.jpg"
+    },
+    {
+      "name": "Bernie Mac",
+      "role": "Frank Catton",
+      "url": "https://multimovies.city/cast/bernie-mac/",
+      "image": "https://image.tmdb.org/t/p/w92/bwMmpeu3whjhhaxt1UTCk7S5jmv.jpg"
+    },
+    {
+      "name": "Ellen Barkin",
+      "role": "Abigail Sponder",
+      "url": "https://multimovies.city/cast/ellen-barkin/",
+      "image": "https://image.tmdb.org/t/p/w92/k8L89k5xEk7hN3TUKkEFUcPzSxh.jpg"
+    },
+    {
+      "name": "Al Pacino",
+      "role": "Willy Bank",
+      "url": "https://multimovies.city/cast/al-pacino/",
+      "image": "https://image.tmdb.org/t/p/w92/fMDFeVf0pjopTJbyRSLFwNDm8Wr.jpg"
+    },
+    {
+      "name": "Casey Affleck",
+      "role": "Virgil Malloy",
+      "url": "https://multimovies.city/cast/casey-affleck/",
+      "image": "https://image.tmdb.org/t/p/w92/lzRsKNAo5LuqvcroaD2FuOmk0T3.jpg"
+    },
+    {
+      "name": "Scott Caan",
+      "role": "Turk Malloy",
+      "url": "https://multimovies.city/cast/scott-caan/",
+      "image": "https://image.tmdb.org/t/p/w92/67V8YrMglGzvuTOZGpqygDhNK1z.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nu9nyVoyHecM6Zj6nTeTRgv54mb.jpg",
+    "https://image.tmdb.org/t/p/w300/jZApcMwD0hPXpf64uEw0asHIYLn.jpg",
+    "https://image.tmdb.org/t/p/w300/rBuhUIHnDKRDpnyVwgr5eS2alw0.jpg",
+    "https://image.tmdb.org/t/p/w300/z4vqdSEMXK4uijv1uOLlrmsj7H7.jpg",
+    "https://image.tmdb.org/t/p/w300/f4WzxA4jiYaSKO2Zw07JEYmYFVo.jpg",
+    "https://image.tmdb.org/t/p/w300/5ExqrHbEArqHAMAplGt95ttq5ps.jpg",
+    "https://image.tmdb.org/t/p/w300/v1y26TFiaJAkE49HTuOYnNxr1ES.jpg",
+    "https://image.tmdb.org/t/p/w300/wKL4FeVwDGZBx145hao2cKZWWXu.jpg",
+    "https://image.tmdb.org/t/p/w300/6AILqzsEldV2Px46Guz45Sya1Hm.jpg",
+    "https://image.tmdb.org/t/p/w300/19WJAM60tlTXcpVLH8d2uLakaHI.jpg"
+  ],
+  "similar": [],
+  "views": 1681,
+  "sources": [
+    "https://www.youtube.com/embed/YsqZosCj-qw?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/7lrxur103rzn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 28825,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 28825,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:13:21.158534"
+}
