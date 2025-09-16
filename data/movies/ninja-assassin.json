@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ninja-assassin/",
+  "meta": {
+    "title": "Ninja Assassin",
+    "poster": "https://image.tmdb.org/t/p/w500/5twFaR5A1Y9C3KAt6uy6iq332m0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 29, 2009",
+    "ratingValue": "8",
+    "ratingCount": "4",
+    "synopsis": "Ninja Assassin follows Raizo, one of the deadliest assassins in the world. Taken from the streets as a child, he was transformed into a trained killer by the Ozunu Clan, a secret society whose very existence is considered a myth. But haunted by the merciless execution of his friend by the Clan, Raizo breaks free from them and vanishes. Now he waits, preparing to exact his revenge.",
+    "infoFields": {
+      "Original title": "Ninja Assassin",
+      "IMDb Rating": "6.3 74,760 votes",
+      "TMDb Rating": "6.584 1,403 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "James McTeigue",
+      "role": "Director",
+      "url": "https://multimovies.city/director/james-mcteigue/",
+      "image": "https://image.tmdb.org/t/p/w92/8aUklN9PpswTG8DnhVAY92koRMC.jpg"
+    },
+    {
+      "name": "Rain",
+      "role": "Raizo",
+      "url": "https://multimovies.city/cast/rain/",
+      "image": "https://image.tmdb.org/t/p/w92/aXOjIBUxu7fmBOxTJcgYmtTKD1D.jpg"
+    },
+    {
+      "name": "Naomie Harris",
+      "role": "Mika Coretti",
+      "url": "https://multimovies.city/cast/naomie-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
+    },
+    {
+      "name": "Sung Kang",
+      "role": "Hollywood",
+      "url": "https://multimovies.city/cast/sung-kang/",
+      "image": "https://image.tmdb.org/t/p/w92/ox4ti0WmpJoN19n3iYJ2T2vHP5f.jpg"
+    },
+    {
+      "name": "Randall Duk Kim",
+      "role": "Tattoo Master",
+      "url": "https://multimovies.city/cast/randall-duk-kim/",
+      "image": "https://image.tmdb.org/t/p/w92/uPRoCyVJyQ2Py2gBUK8JbxTOuL1.jpg"
+    },
+    {
+      "name": "Rick Yune",
+      "role": "Takeshi",
+      "url": "https://multimovies.city/cast/rick-yune/",
+      "image": "https://image.tmdb.org/t/p/w92/7m5r6pUvRiva6ybimn1XqxY4J85.jpg"
+    },
+    {
+      "name": "Yuki Iwamoto",
+      "role": "Yakuza Couch",
+      "url": "https://multimovies.city/cast/yuki-iwamoto/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sho Kosugi",
+      "role": "Ozunu",
+      "url": "https://multimovies.city/cast/sho-kosugi/",
+      "image": "https://image.tmdb.org/t/p/w92/cdoP2qnJILJlWT4xvYDxg2doaf6.jpg"
+    },
+    {
+      "name": "Ben Miles",
+      "role": "Maslow",
+      "url": "https://multimovies.city/cast/ben-miles/",
+      "image": "https://image.tmdb.org/t/p/w92/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg"
+    },
+    {
+      "name": "Linh-Dan Pham",
+      "role": "Pretty Ninja",
+      "url": "https://multimovies.city/cast/linh-dan-pham/",
+      "image": "https://image.tmdb.org/t/p/w92/y9EYVSaEgjBZLchxShXa45FTszf.jpg"
+    },
+    {
+      "name": "Lee Joon",
+      "role": "Teenage Raizo",
+      "url": "https://multimovies.city/cast/lee-joon/",
+      "image": "https://image.tmdb.org/t/p/w92/bF3Zg2vzl4wUnFgcPhcS1J3Csxe.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/xdIsccWAECo0YF9aTrPoMFUZiJo.jpg",
+    "https://image.tmdb.org/t/p/w300/54B1mcdhZ0fbZKSKj1Gh7OeePu9.jpg",
+    "https://image.tmdb.org/t/p/w300/oxsA66CUIKEItnR6tR3i6waXzsm.jpg",
+    "https://image.tmdb.org/t/p/w300/hLDV0RuEtQfJHSHSvYNYghNOhBj.jpg",
+    "https://image.tmdb.org/t/p/w300/WS6SQQrnHkFmcjvRavpW0apuzb.jpg",
+    "https://image.tmdb.org/t/p/w300/oIjpOadDat2z1fG9gT27nCYnLtM.jpg",
+    "https://image.tmdb.org/t/p/w300/3FuO2jC2Fe9qsuwf25xHDtO2bbW.jpg",
+    "https://image.tmdb.org/t/p/w300/gv6OoyM6BFzmltvyE0t7tiLNpxU.jpg",
+    "https://image.tmdb.org/t/p/w300/cX5ni5GQVoWGNwIC8C0vbfuiXVV.jpg",
+    "https://image.tmdb.org/t/p/w300/jH40nq5EBMgm3Qy97s21CqdwoyA.jpg"
+  ],
+  "similar": [],
+  "views": 12674,
+  "sources": [
+    "https://www.youtube.com/embed/H6tg0YwLJQQ?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/59gloevadckg"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 35452,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 35452,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:36:31.935066"
+}
