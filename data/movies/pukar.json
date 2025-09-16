@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/pukar/",
+  "meta": {
+    "title": "Pukar",
+    "poster": "https://image.tmdb.org/t/p/w500/vMQLv1fQfPrLBilk8EEv9TrbVjA.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Nov. 18, 1983",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Although India obtained freedom from the British in 1947, Goa and it\u2019s territories are still ruled by the Portuguese. A group of revolutionaries want a free Goa and are thus wanted by the Portuguese administration. Amongst them are Purandare, Narvekar, and Dinanath, and when Dinanath\u2019s whereabouts are known to the police, he escapes with his young son, Ramdas, and goes to their hideout. With the assistance of Purandare they do manage to escape but are shot. A horrified Ramdas watches as his dad is shot dead by Purandare. This is how Ramdas starts hating revolutionaries. Ramdas changes his name to Ronnie, befriends a girl named Julie, and grows up taking to crime as his career. Written by rAjOo ([email\u00a0protected])",
+    "infoFields": {
+      "Original title": "Pukar",
+      "TMDb Rating": "4.9 4 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ramesh Behl",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ramesh-behl/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Ramdas / Ronnie",
+      "url": "https://multimovies.city/cast/amitabh-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/u69PvpWqGkywSm0YjFiw77j9eqS.jpg"
+    },
+    {
+      "name": "Zeenat Aman",
+      "role": "Julie",
+      "url": "https://multimovies.city/cast/zeenat-aman/",
+      "image": "https://image.tmdb.org/t/p/w92/44wkiANzRe01AcelcYcXMQS0K8F.jpg"
+    },
+    {
+      "name": "Randhir Kapoor",
+      "role": "Shekhar",
+      "url": "https://multimovies.city/cast/randhir-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/92PWRkXqGP6hkIY5eeOnaS1WAcm.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kbw54NBg55ce4an7CJJpKUa7BKS.jpg"
+  ],
+  "similar": [],
+  "views": 203,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/uxhoqrx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 91822,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
