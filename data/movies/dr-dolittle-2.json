@@ -4,15 +4,133 @@
   "meta": {
     "title": "Dr. Dolittle 2",
     "poster": "https://image.tmdb.org/t/p/w500/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg",
-    "synopsis": "A group of beavers ask Dr. Dolittle to save their habitat from loggers. The only hope is to get the forest preserved because it\u2019s the home of a protected bear, but there\u2019s a problem: the bear\u2019s the only bear in the forest, so she can\u2019t reproduce. Undaunted, Dolittle persuades a circus bear to help out, but he has to teach him not just the ways of the wild, but the wiles of lady bears too."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 22, 2001",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "A group of beavers ask Dr. Dolittle to save their habitat from loggers. The only hope is to get the forest preserved because it\u2019s the home of a protected bear, but there\u2019s a problem: the bear\u2019s the only bear in the forest, so she can\u2019t reproduce. Undaunted, Dolittle persuades a circus bear to help out, but he has to teach him not just the ways of the wild, but the wiles of lady bears too.",
+    "infoFields": {
+      "Original title": "Dr. Dolittle 2",
+      "TMDb Rating": "5.293 1,606 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Steve Carr",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steve-carr/",
+      "image": "https://image.tmdb.org/t/p/w92/zf3tcqGz6pijSCpvkLXCC33ncEJ.jpg"
+    },
+    {
+      "name": "Eddie Murphy",
+      "role": "Dr. John Dolittle",
+      "url": "https://multimovies.city/cast/eddie-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "name": "Kristen Wilson",
+      "role": "Lisa Dolittle",
+      "url": "https://multimovies.city/cast/kristen-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/ld2W1mIvaS0yAd3pHW2wyeacg8v.jpg"
+    },
+    {
+      "name": "Kyla Pratt",
+      "role": "Maya Dolittle",
+      "url": "https://multimovies.city/cast/kyla-pratt/",
+      "image": "https://image.tmdb.org/t/p/w92/y02hmYVndLlJbOYkNDu3Ksdsiib.jpg"
+    },
+    {
+      "name": "Raven-Symon\u00e9",
+      "role": "Charisse Dolittle",
+      "url": "https://multimovies.city/cast/raven-symone/",
+      "image": "https://image.tmdb.org/t/p/w92/iyz6AbVgumSMsgZeSfsWpr4vewB.jpg"
+    },
+    {
+      "name": "Steve Zahn",
+      "role": "Archie (voice)",
+      "url": "https://multimovies.city/cast/steve-zahn/",
+      "image": "https://image.tmdb.org/t/p/w92/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+      "name": "Lisa Kudrow",
+      "role": "Ava (voice)",
+      "url": "https://multimovies.city/cast/lisa-kudrow/",
+      "image": "https://image.tmdb.org/t/p/w92/ziatnwJRiBJIcc8jlk6xoClhfOy.jpg"
+    },
+    {
+      "name": "James Avery",
+      "role": "Eldon",
+      "url": "https://multimovies.city/cast/james-avery/",
+      "image": "https://image.tmdb.org/t/p/w92/7d2x7HXgbC41bHe7J8z2jmm71xT.jpg"
+    },
+    {
+      "name": "Andy Richter",
+      "role": "Eugene Wilson",
+      "url": "https://multimovies.city/cast/andy-richter/",
+      "image": "https://image.tmdb.org/t/p/w92/qazhLkyKOsPmdOQSaUWWbbUjs9q.jpg"
+    },
+    {
+      "name": "Lil' Zane",
+      "role": "Eric",
+      "url": "https://multimovies.city/cast/lil-zane/",
+      "image": "https://image.tmdb.org/t/p/w92/rPYpPV1ylSqxxjLppMFQB4ggA3C.jpg"
+    },
+    {
+      "name": "Denise Dowse",
+      "role": "Secretary",
+      "url": "https://multimovies.city/cast/denise-dowse/",
+      "image": "https://image.tmdb.org/t/p/w92/7Ap7nK94rFEjaQcduKBsLhetmPy.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/VtFa6Ph0xCO6QJ86ihCrpsDBIO.jpg",
+    "https://image.tmdb.org/t/p/w300/7YrVeXsQ8njE1o8h9i7ws6ki23W.jpg",
+    "https://image.tmdb.org/t/p/w300/eWW5Qq6YZvUqfF6kjUv61OuRpg3.jpg",
+    "https://image.tmdb.org/t/p/w300/sd5qnooyKPdvEeBiecqgQokv6Vi.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 3401,
+  "sources": [
+    "https://www.youtube.com/embed/EXpnizX4kMA?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/bld92milzar5"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 53054,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 53054,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:29:18.770508"
 }
