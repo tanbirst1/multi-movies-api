@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/for-a-few-dollars-more/",
+  "meta": {
+    "title": "For a Few Dollars More",
+    "poster": "https://image.tmdb.org/t/p/w500/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Western",
+        "url": "https://multimovies.city/genre/western/"
+      }
+    ],
+    "firstAirDate": "Dec. 18, 1965",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Two bounty hunters both pursue the brutal and sadistic bandit, El Indio, who has a large bounty on his head.",
+    "infoFields": {
+      "Original title": "Per qualche dollaro in pi\u00f9",
+      "IMDb Rating": "8.2 291,836 votes",
+      "TMDb Rating": "8.02 4,192 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sergio Leone",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sergio-leone/",
+      "image": "https://image.tmdb.org/t/p/w92/2576qoW8l9Z1nKGM10ar60aIwUu.jpg"
+    },
+    {
+      "name": "Clint Eastwood",
+      "role": "Manco",
+      "url": "https://multimovies.city/cast/clint-eastwood/",
+      "image": "https://image.tmdb.org/t/p/w92/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
+    },
+    {
+      "name": "Lee Van Cleef",
+      "role": "Col. Douglas Mortimer",
+      "url": "https://multimovies.city/cast/lee-van-cleef/",
+      "image": "https://image.tmdb.org/t/p/w92/yQc5wjNCdRZzPp5E2wRPRYsEq9a.jpg"
+    },
+    {
+      "name": "Gian Maria Volont\u00e9",
+      "role": "El Indio",
+      "url": "https://multimovies.city/cast/gian-maria-volonte/",
+      "image": "https://image.tmdb.org/t/p/w92/xPwxiUgSnvqMvPTm2TlqTUskOJ.jpg"
+    },
+    {
+      "name": "Luigi Pistilli",
+      "role": "Groggy",
+      "url": "https://multimovies.city/cast/luigi-pistilli/",
+      "image": "https://image.tmdb.org/t/p/w92/bH5vmD2CMBHzJyBe0P0bL6iTUNL.jpg"
+    },
+    {
+      "name": "Klaus Kinski",
+      "role": "Juan Wild - The Hunchback",
+      "url": "https://multimovies.city/cast/klaus-kinski/",
+      "image": "https://image.tmdb.org/t/p/w92/wq2HZ7Opw3OEloOH6brA17uopA2.jpg"
+    },
+    {
+      "name": "Joseph Egger",
+      "role": "Old Prophet",
+      "url": "https://multimovies.city/cast/joseph-egger/",
+      "image": "https://image.tmdb.org/t/p/w92/qbYagO1s87kPadJLBCYTuihO2CV.jpg"
+    },
+    {
+      "name": "Panos Papadopulos",
+      "role": "Sancho Perez",
+      "url": "https://multimovies.city/cast/panos-papadopulos/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Mara Krupp",
+      "role": "Mary",
+      "url": "https://multimovies.city/cast/mara-krupp/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Benito Stefanelli",
+      "role": "Luke 'Hughie'",
+      "url": "https://multimovies.city/cast/benito-stefanelli/",
+      "image": "https://image.tmdb.org/t/p/w92/g8wrcKWLuxq3Rmtp3LXItaGVLoQ.jpg"
+    },
+    {
+      "name": "Roberto Camardiel",
+      "role": "Tucumcari Station Clerk",
+      "url": "https://multimovies.city/cast/roberto-camardiel/",
+      "image": "https://image.tmdb.org/t/p/w92/xV0Uje4GQvYCzK3ZbpQGTShydgd.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/x0bQvdpr88xVhMrVM93tEIKSM2q.jpg",
+    "https://image.tmdb.org/t/p/w300/hs6OPto38fF589ScpGhl7uSU4MI.jpg",
+    "https://image.tmdb.org/t/p/w300/f61COvOzOOIwx7whPl5Yj78s9gY.jpg",
+    "https://image.tmdb.org/t/p/w300/noIo2F7WtvMohwqAxIyofczBZkD.jpg",
+    "https://image.tmdb.org/t/p/w300/da9UtPu25OJTVG5BdRlPwcVcUzM.jpg",
+    "https://image.tmdb.org/t/p/w300/viAEGTVmmJvcAr1vs6UW4Ve7dp7.jpg",
+    "https://image.tmdb.org/t/p/w300/bbhhpxAuLa0THu06g9HiBIk7Hr7.jpg",
+    "https://image.tmdb.org/t/p/w300/evXj4dOXzOZ2CIOewGW2mJ0kGzE.jpg",
+    "https://image.tmdb.org/t/p/w300/mlX3wLmM2OChER293c3lI397KxU.jpg",
+    "https://image.tmdb.org/t/p/w300/eqtjeaibPnjN0hjQdPFIngFnkK7.jpg"
+  ],
+  "similar": [],
+  "views": 117,
+  "sources": [
+    "https://www.youtube.com/embed/cs1-y5E4UIE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/yg05xbw"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 97455,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 97455,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false
+}
