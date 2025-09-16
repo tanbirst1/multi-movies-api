@@ -1,0 +1,93 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tumsa-nahin-dekha-a-love-story/",
+  "meta": {
+    "title": "Tumsa Nahin Dekha: A Love Story",
+    "poster": "https://image.tmdb.org/t/p/w500/sUUVw0m04K7x3iuzY15cwwELDC8.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Music",
+        "url": "https://multimovies.city/genre/music/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Sep. 23, 2004",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Charming and continually drunk millionaire sees a woman on the street and falls madly in love with her, she works as a striptease dancer and has a mentally handicapped brother. They fall in love, but he unfortunately has to marry someone else.",
+    "infoFields": {
+      "Original title": "Tumsa Nahin Dekha: A Love Story",
+      "IMDb Rating": "4.7 913 votes",
+      "TMDb Rating": "6.7 6 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Anurag Basu",
+      "role": "Director",
+      "url": "https://multimovies.city/director/anurag-basu/",
+      "image": "https://image.tmdb.org/t/p/w92/o1hGaRlxLaPrJ0CIhm6fMtmrudb.jpg"
+    },
+    {
+      "name": "Emraan Hashmi",
+      "role": "Daksh Mittal",
+      "url": "https://multimovies.city/cast/emraan-hashmi/",
+      "image": "https://image.tmdb.org/t/p/w92/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+      "name": "Dia Mirza",
+      "role": "Jiya Khan",
+      "url": "https://multimovies.city/cast/dia-mirza/",
+      "image": "https://image.tmdb.org/t/p/w92/oJSZlMkIGC1Yr8QxdBLliUjPRSd.jpg"
+    },
+    {
+      "name": "Anupam Kher",
+      "role": "John Uncle",
+      "url": "https://multimovies.city/cast/anupam-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg"
+    },
+    {
+      "name": "Sharat Saxena",
+      "role": "Madhvani",
+      "url": "https://multimovies.city/cast/sharat-saxena/",
+      "image": "https://image.tmdb.org/t/p/w92/ArW6nQ23bjVfbcFmNVl4W9zpd7X.jpg"
+    },
+    {
+      "name": "Surekha Sikri",
+      "role": "Daksh's Grandmother",
+      "url": "https://multimovies.city/cast/surekha-sikri/",
+      "image": "https://image.tmdb.org/t/p/w92/ocqxFmHr4TKTgTgrZrVXxshT5jy.jpg"
+    },
+    {
+      "name": "Atul Parchure",
+      "role": "Nikki (Jiya's Brother)",
+      "url": "https://multimovies.city/cast/atul-parchure/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 779,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/qdsti5w"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 98263,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:49:46.670018"
+}
