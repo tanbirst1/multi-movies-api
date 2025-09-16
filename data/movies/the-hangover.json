@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-hangover/",
+  "meta": {
+    "title": "The Hangover",
+    "poster": "https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 02, 2009",
+    "ratingValue": "9.6",
+    "ratingCount": "20",
+    "synopsis": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can\u2019t seem to locate their best friend, Doug \u2013 who\u2019s supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+    "infoFields": {
+      "Original title": "The Hangover",
+      "IMDb Rating": "7.7 803,814 votes",
+      "TMDb Rating": "7.311 15,378 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Todd Phillips",
+      "role": "Director",
+      "url": "https://multimovies.city/director/todd-phillips/",
+      "image": "https://image.tmdb.org/t/p/w92/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+    },
+    {
+      "name": "Bradley Cooper",
+      "role": "Phil Wenneck",
+      "url": "https://multimovies.city/cast/bradley-cooper/",
+      "image": "https://image.tmdb.org/t/p/w92/DPnessSsWqVXRbKm93PtMjB4Us.jpg"
+    },
+    {
+      "name": "Ed Helms",
+      "role": "Stu Price",
+      "url": "https://multimovies.city/cast/ed-helms/",
+      "image": "https://image.tmdb.org/t/p/w92/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+      "name": "Zach Galifianakis",
+      "role": "Alan Garner",
+      "url": "https://multimovies.city/cast/zach-galifianakis/",
+      "image": "https://image.tmdb.org/t/p/w92/hghR9AhS8OKsO4ziq5Yf7w2ZguB.jpg"
+    },
+    {
+      "name": "Justin Bartha",
+      "role": "Doug Billings",
+      "url": "https://multimovies.city/cast/justin-bartha/",
+      "image": "https://image.tmdb.org/t/p/w92/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
+    },
+    {
+      "name": "Heather Graham",
+      "role": "Jade",
+      "url": "https://multimovies.city/cast/heather-graham/",
+      "image": "https://image.tmdb.org/t/p/w92/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    },
+    {
+      "name": "Sasha Barrese",
+      "role": "Tracy Garner",
+      "url": "https://multimovies.city/cast/sasha-barrese/",
+      "image": "https://image.tmdb.org/t/p/w92/4SGcSiC46h86mdChDj0taF5eHSl.jpg"
+    },
+    {
+      "name": "Jeffrey Tambor",
+      "role": "Sid Garner",
+      "url": "https://multimovies.city/cast/jeffrey-tambor/",
+      "image": "https://image.tmdb.org/t/p/w92/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    },
+    {
+      "name": "Ken Jeong",
+      "role": "Mr. Chow",
+      "url": "https://multimovies.city/cast/ken-jeong/",
+      "image": "https://image.tmdb.org/t/p/w92/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    },
+    {
+      "name": "Rachael Harris",
+      "role": "Melissa",
+      "url": "https://multimovies.city/cast/rachael-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/hG2kUSUzEnHxfpEkxogHLCsLLqw.jpg"
+    },
+    {
+      "name": "Mike Tyson",
+      "role": "Himself",
+      "url": "https://multimovies.city/cast/mike-tyson/",
+      "image": "https://image.tmdb.org/t/p/w92/pFbI6qiqb7GJLj6nedE7h8b3X6y.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2o0PKGmnSgCGkzoSePNAqse8Ure.jpg",
+    "https://image.tmdb.org/t/p/w300/sV49hOlUky6AhVYl4K0d3rergTA.jpg",
+    "https://image.tmdb.org/t/p/w300/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+    "https://image.tmdb.org/t/p/w300/ubiu5Y7nP187ZFWUzjPj7Hgw6Go.jpg",
+    "https://image.tmdb.org/t/p/w300/qaStvnv2VdNxITnHoN85fCM67el.jpg",
+    "https://image.tmdb.org/t/p/w300/nug1RF3CgYtY21Hy326jiFEPt6U.jpg",
+    "https://image.tmdb.org/t/p/w300/fJTDXdfFw6chsPXCluu6Elg0nMd.jpg",
+    "https://image.tmdb.org/t/p/w300/hSYhNEF7vZQQb804pnTuogxPgLQ.jpg"
+  ],
+  "similar": [],
+  "views": 18762,
+  "sources": [
+    "https://www.youtube.com/embed/jj6wcUes1no?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/e478paoxiufi"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5475,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5475,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:29:55.797298"
+}
