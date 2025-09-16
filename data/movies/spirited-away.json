@@ -4,15 +4,140 @@
   "meta": {
     "title": "Spirited Away",
     "poster": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-    "synopsis": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hindi Dub Anime",
+        "url": "https://multimovies.city/genre/anime-hindi/"
+      }
+    ],
+    "firstAirDate": "Apr. 18, 2001",
+    "ratingValue": "8",
+    "ratingCount": "9",
+    "synopsis": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "infoFields": {
+      "Original title": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057",
+      "IMDb Rating": "8.6 861,272 votes",
+      "TMDb Rating": "8.537 16,133 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hayao-miyazaki/",
+      "image": "https://image.tmdb.org/t/p/w92/mG3cfxtA5jqDc7fpKgyzZMKoXDh.jpg"
+    },
+    {
+      "name": "Rumi Hiiragi",
+      "role": "Chihiro Ogino / Sen (voice)",
+      "url": "https://multimovies.city/cast/rumi-hiiragi/",
+      "image": "https://image.tmdb.org/t/p/w92/zITaVtFyc4xSM3mxSoPRWHbqgJI.jpg"
+    },
+    {
+      "name": "Miyu Irino",
+      "role": "Haku (voice)",
+      "url": "https://multimovies.city/cast/miyu-irino/",
+      "image": "https://image.tmdb.org/t/p/w92/dcZ4IJX8CBcJzxy8hhKFXv59LDE.jpg"
+    },
+    {
+      "name": "Mari Natsuki",
+      "role": "Yubaba / Zeniba (voice)",
+      "url": "https://multimovies.city/cast/mari-natsuki/",
+      "image": "https://image.tmdb.org/t/p/w92/aJkTgws5aClLyTDWxdb1bI0htn1.jpg"
+    },
+    {
+      "name": "Bunta Sugawara",
+      "role": "Kamaji (voice)",
+      "url": "https://multimovies.city/cast/bunta-sugawara/",
+      "image": "https://image.tmdb.org/t/p/w92/lHPLlP8zNwGMmcUI8rGks5vp8Vn.jpg"
+    },
+    {
+      "name": "Akio Nakamura",
+      "role": "Kaonashi (voice)",
+      "url": "https://multimovies.city/cast/akio-nakamura/",
+      "image": "https://image.tmdb.org/t/p/w92/z7GzSvEkb3vhA77FFS6JnkpEEbv.jpg"
+    },
+    {
+      "name": "Yumi Tamai",
+      "role": "Rin (voice)",
+      "url": "https://multimovies.city/cast/yumi-tamai/",
+      "image": "https://image.tmdb.org/t/p/w92/x9Td7e5F21cK9S1FCkobfqiJZ1c.jpg"
+    },
+    {
+      "name": "Ryunosuke Kamiki",
+      "role": "Boh (voice)",
+      "url": "https://multimovies.city/cast/ryunosuke-kamiki/",
+      "image": "https://image.tmdb.org/t/p/w92/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+    },
+    {
+      "name": "Takashi Naito",
+      "role": "Akio Ogino (voice)",
+      "url": "https://multimovies.city/cast/takashi-naito/",
+      "image": "https://image.tmdb.org/t/p/w92/zfs63NZKNG3Uy6WqqXSQWYMQXKZ.jpg"
+    },
+    {
+      "name": "Yasuko Sawaguchi",
+      "role": "Yuko Ogino (voice)",
+      "url": "https://multimovies.city/cast/yasuko-sawaguchi/",
+      "image": "https://image.tmdb.org/t/p/w92/rWspusb13VeJowmctnniXYYTcqq.jpg"
+    },
+    {
+      "name": "Tsunehiko Kamij\u00f4",
+      "role": "Chichiyaku (voice)",
+      "url": "https://multimovies.city/cast/tsunehiko-kamijo/",
+      "image": "https://image.tmdb.org/t/p/w92/v2poQi0qYEWdTaMf2pVTWmcdwZp.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "https://image.tmdb.org/t/p/w300/mSDsSDwaP3E7dEfUPWy4J0djt4O.jpg",
+    "https://image.tmdb.org/t/p/w300/zSWkLXXj26IQ3pFDH1rnXDQZxAu.jpg",
+    "https://image.tmdb.org/t/p/w300/hZth9NCeXvvO7Xi98d8q34e1Ier.jpg",
+    "https://image.tmdb.org/t/p/w300/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+    "https://image.tmdb.org/t/p/w300/bf9shWfUKyEB5oB7awJeKIoCehl.jpg",
+    "https://image.tmdb.org/t/p/w300/hXd2cgvvVh1EzSxuyNysiLErjVM.jpg",
+    "https://image.tmdb.org/t/p/w300/yRY25Q7Iz932VQrW3a3Go2h4sLP.jpg",
+    "https://image.tmdb.org/t/p/w300/bVggfCvAPnFalIctxgpaCRTF97z.jpg",
+    "https://image.tmdb.org/t/p/w300/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 9179,
+  "sources": [
+    "https://www.youtube.com/embed/ByXuk9QqQkk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/lto40w0"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1712,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1712,
+      "nume": 1,
+      "title": "gdmirror"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:32:53.895521"
 }
