@@ -4,15 +4,136 @@
   "meta": {
     "title": "Antz",
     "poster": "https://image.tmdb.org/t/p/w500/pvpJfkzcqENTSlBKCSImi05WlXK.jpg",
-    "synopsis": "A neurotic worker ant in love with a rebellious princess rises to unlikely stardom when he switches places with a soldier. Signing up to march in a parade, he ends up under the command of a bloodthirsty general. But he\u2019s actually been enlisted to fight against a termite army."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Oct. 02, 1998",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A neurotic worker ant in love with a rebellious princess rises to unlikely stardom when he switches places with a soldier. Signing up to march in a parade, he ends up under the command of a bloodthirsty general. But he\u2019s actually been enlisted to fight against a termite army.",
+    "infoFields": {
+      "Original title": "Antz",
+      "IMDb Rating": "6.5 168,525 votes",
+      "TMDb Rating": "6.168 4,560 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Eric Darnell",
+      "role": "Director",
+      "url": "https://multimovies.city/director/eric-darnell/",
+      "image": "https://image.tmdb.org/t/p/w92/l3yiLuFKqpPlDGWH0kKA0X1jZKM.jpg"
+    },
+    {
+      "name": "Woody Allen",
+      "role": "Z-4195 \u201cZ\u201d (voice)",
+      "url": "https://multimovies.city/cast/woody-allen/",
+      "image": "https://image.tmdb.org/t/p/w92/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg"
+    },
+    {
+      "name": "Sharon Stone",
+      "role": "Princess Bala (voice)",
+      "url": "https://multimovies.city/cast/sharon-stone/",
+      "image": "https://image.tmdb.org/t/p/w92/eg8DKQGLJrIA1Yjee0y7K5K6QWq.jpg"
+    },
+    {
+      "name": "Dan Aykroyd",
+      "role": "Chip (voice)",
+      "url": "https://multimovies.city/cast/dan-aykroyd/",
+      "image": "https://image.tmdb.org/t/p/w92/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+    },
+    {
+      "name": "Anne Bancroft",
+      "role": "Queen (voice)",
+      "url": "https://multimovies.city/cast/anne-bancroft/",
+      "image": "https://image.tmdb.org/t/p/w92/ydabiabIsMBe2HsNmx43gBpqzxx.jpg"
+    },
+    {
+      "name": "Danny Glover",
+      "role": "Barbatus (voice)",
+      "url": "https://multimovies.city/cast/danny-glover/",
+      "image": "https://image.tmdb.org/t/p/w92/7ZyztVlG7OpqD0EhzG8iwYNcd1s.jpg"
+    },
+    {
+      "name": "Gene Hackman",
+      "role": "General Mandible (voice)",
+      "url": "https://multimovies.city/cast/gene-hackman/",
+      "image": "https://image.tmdb.org/t/p/w92/xPmETCv0APDoIK5CvIIJwbTcjPA.jpg"
+    },
+    {
+      "name": "Jane Curtin",
+      "role": "Muffy (voice)",
+      "url": "https://multimovies.city/cast/jane-curtin/",
+      "image": "https://image.tmdb.org/t/p/w92/wJVLls0zifqXZTVd89N0nIpuDP1.jpg"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "Weaver (voice)",
+      "url": "https://multimovies.city/cast/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "role": "Azteca (voice)",
+      "url": "https://multimovies.city/cast/jennifer-lopez/",
+      "image": "https://image.tmdb.org/t/p/w92/icNEXl1ziSvOKsnhtydi8BZppsY.jpg"
+    },
+    {
+      "name": "Christopher Walken",
+      "role": "Colonel Cutter (voice)",
+      "url": "https://multimovies.city/cast/christopher-walken/",
+      "image": "https://image.tmdb.org/t/p/w92/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/i4NvcHeYeAdLEFiLxEVvUA3BT0.jpg",
+    "https://image.tmdb.org/t/p/w300/6eleaikeuXNtPh3llb0LK2Iy2r4.jpg",
+    "https://image.tmdb.org/t/p/w300/1zFXHQZplqVwygMhwTzub2CwRDr.jpg",
+    "https://image.tmdb.org/t/p/w300/buCjtkskJp6eHrTVpQhE0NzDS0w.jpg",
+    "https://image.tmdb.org/t/p/w300/oKysXkfuueycyngpChiTRqauGrz.jpg",
+    "https://image.tmdb.org/t/p/w300/8QhTlPaIoNIRClWNTVccchKx0PD.jpg",
+    "https://image.tmdb.org/t/p/w300/jLosCbIbF5GJArUu9V80Peddv7H.jpg",
+    "https://image.tmdb.org/t/p/w300/k5rU0zXoInJ1t47sLMvFOmj4xbq.jpg",
+    "https://image.tmdb.org/t/p/w300/b8vmrmbI74HO9Yc5lfvFgNGS6q8.jpg",
+    "https://image.tmdb.org/t/p/w300/yHgvtsUJH8PXUbdUe9zX4t8Uley.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 259,
+  "sources": [
+    "https://www.youtube.com/embed/6kqGO1c70ak?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/jyvl9rj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 96276,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 96276,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:20:44"
+  "last_update": "2025-09-16T17:23:58.114837"
 }
