@@ -1,0 +1,158 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rocky-ii/",
+  "meta": {
+    "title": "Rocky II",
+    "poster": "https://image.tmdb.org/t/p/w500/t2WuqQ0Jbyaql1WXNFx9dr6Ldpt.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 15, 1979",
+    "ratingValue": "10",
+    "ratingCount": "3",
+    "synopsis": "After Rocky goes the distance with champ Apollo Creed, both try to put the fight behind them and move on. Rocky settles down with Adrian but can\u2019t put his life together outside the ring, while Creed seeks a rematch to restore his reputation. Soon enough, the \u201cMaster of Disaster\u201d and the \u201cItalian Stallion\u201d are set on a collision course for a climactic battle that is brutal and unforgettable.",
+    "infoFields": {
+      "Original title": "Rocky II",
+      "IMDb Rating": "7.3 219,616 votes",
+      "TMDb Rating": "7.251 3,794 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jerry Ziesmer",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jerry-ziesmer/",
+      "image": "https://image.tmdb.org/t/p/w92/oDPuZvvA02xSjQQCiWEmIBmNTOv.jpg"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "Robert \"Rocky\" Balboa",
+      "url": "https://multimovies.city/cast/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/pOpbPofjwpynRkWPZZZkyGds6rx.jpg"
+    },
+    {
+      "name": "Talia Shire",
+      "role": "Adrianna \"Adrian\" Balboa",
+      "url": "https://multimovies.city/cast/talia-shire/",
+      "image": "https://image.tmdb.org/t/p/w92/due9MtmbvCMDd1aNveuMyjsaZ8W.jpg"
+    },
+    {
+      "name": "Burt Young",
+      "role": "Paulie Pennino",
+      "url": "https://multimovies.city/cast/burt-young/",
+      "image": "https://image.tmdb.org/t/p/w92/po3D7HKkMhoNkBMcIKpxjWzjoF.jpg"
+    },
+    {
+      "name": "Carl Weathers",
+      "role": "Apollo Creed",
+      "url": "https://multimovies.city/cast/carl-weathers/",
+      "image": "https://image.tmdb.org/t/p/w92/9Tot1ywxTQA3vFCcAjyK6h9Dao3.jpg"
+    },
+    {
+      "name": "Burgess Meredith",
+      "role": "Mickey Goldmill",
+      "url": "https://multimovies.city/cast/burgess-meredith/",
+      "image": "https://image.tmdb.org/t/p/w92/4jvcLYYb4dhgrtEJOJQnYY2zt8G.jpg"
+    },
+    {
+      "name": "Tony Burton",
+      "role": "Tony \"Duke\" Evers",
+      "url": "https://multimovies.city/cast/tony-burton/",
+      "image": "https://image.tmdb.org/t/p/w92/iG51d1Ck1doZNGseRMqGTnNC8t8.jpg"
+    },
+    {
+      "name": "Joe Spinell",
+      "role": "Tony Gazzo",
+      "url": "https://multimovies.city/cast/joe-spinell/",
+      "image": "https://image.tmdb.org/t/p/w92/jiok99ZvHDOj51BBgio2qvum0Mb.jpg"
+    },
+    {
+      "name": "Leonard Gaines",
+      "role": "Agent",
+      "url": "https://multimovies.city/cast/leonard-gaines/",
+      "image": "https://image.tmdb.org/t/p/w92/wchcwg5Y1ayEpPJ1ZbqepTNf9eS.jpg"
+    },
+    {
+      "name": "Sylvia Meals",
+      "role": "Mary Anne Creed",
+      "url": "https://multimovies.city/cast/sylvia-meals/",
+      "image": "https://image.tmdb.org/t/p/w92/slmFHjEPzUVJeupo2Eaf8jZOGco.jpg"
+    },
+    {
+      "name": "Frank McRae",
+      "role": "Meat Foreman (uncredited)",
+      "url": "https://multimovies.city/cast/frank-mcrae/",
+      "image": "https://image.tmdb.org/t/p/w92/tkEt3ACC46Zjm8pmPVBXva0p84Q.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5tLusfAXiRrpaWL6mxHV9BJTzVZ.jpg",
+    "https://image.tmdb.org/t/p/w300/fme9tbOuSv5JjfrAD9JVkXFBsNd.jpg",
+    "https://image.tmdb.org/t/p/w300/qjE0PJZ8NdBnd9ZSKnE2cQLpmqS.jpg",
+    "https://image.tmdb.org/t/p/w300/hIfe7FBKGO19weOV5Vgf9CaX6t6.jpg",
+    "https://image.tmdb.org/t/p/w300/78jvhi792WFjk1zSwqpfDOudO78.jpg",
+    "https://image.tmdb.org/t/p/w300/f3G01JveAGmWrnvF9rT8YXNJuiX.jpg",
+    "https://image.tmdb.org/t/p/w300/cKAHw46PFtgUfH3guHslgd4rsbx.jpg",
+    "https://image.tmdb.org/t/p/w300/ot6wScFeQCiksuKpIeVjlfeKZW.jpg",
+    "https://image.tmdb.org/t/p/w300/kjp56YFFB5W7udrrzjpMDFRGqcF.jpg",
+    "https://image.tmdb.org/t/p/w300/qv0hgxdOjLLxkjeU9x1CGtfpHSZ.jpg"
+  ],
+  "similar": [],
+  "views": 2336,
+  "sources": [
+    "https://www.youtube.com/embed/A2P9ATb9Qx8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/tbiblzw84r86",
+    "https://sbplay.org/embed-ezsxg3a4k80d.html",
+    "https://dood.la/e/32k3cq1snsxh",
+    "https://mixdrop.co/e/3n1rnjdvuqrl3v",
+    "https://hydrax.net/watch?v=B7r5sM0KZbu"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7077,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7077,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 7077,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 7077,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 7077,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 7077,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
