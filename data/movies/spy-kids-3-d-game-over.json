@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/spy-kids-3-d-game-over/",
+  "meta": {
+    "title": "Spy Kids 3-D: Game Over",
+    "poster": "https://image.tmdb.org/t/p/w500/oP53PyexPlQd1xDt8kkvX5LdQdT.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jul. 25, 2003",
+    "ratingValue": "7.5",
+    "ratingCount": "2",
+    "synopsis": "Carmen\u2019s caught in a virtual reality game designed by the Kids\u2019 new nemesis, the Toymaker. It\u2019s up to Juni to save his sister, and ultimately the world.",
+    "infoFields": {
+      "Original title": "Spy Kids 3-D: Game Over",
+      "IMDb Rating": "4.3 62,682 votes",
+      "TMDb Rating": "5.078 1,953 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Robert Rodriguez",
+      "role": "Director",
+      "url": "https://multimovies.city/director/robert-rodriguez/",
+      "image": "https://image.tmdb.org/t/p/w92/bPqRdLWWwpOT8sBdj9PWOzNgwou.jpg"
+    },
+    {
+      "name": "Antonio Banderas",
+      "role": "Gregorio Cortez",
+      "url": "https://multimovies.city/cast/antonio-banderas/",
+      "image": "https://image.tmdb.org/t/p/w92/n8YlGookYzgD3cmpMP45BYRNIoh.jpg"
+    },
+    {
+      "name": "Holland Taylor",
+      "role": "Grandmother",
+      "url": "https://multimovies.city/cast/holland-taylor/",
+      "image": "https://image.tmdb.org/t/p/w92/jt9yFB3nLfZQ0c1DcnvvcfA11gB.jpg"
+    },
+    {
+      "name": "Carla Gugino",
+      "role": "Ingrid Cortez",
+      "url": "https://multimovies.city/cast/carla-gugino/",
+      "image": "https://image.tmdb.org/t/p/w92/7lSH5LOexOHwvt9lOTsLTbXdU1G.jpg"
+    },
+    {
+      "name": "Alexa PenaVega",
+      "role": "Carmen Cortez",
+      "url": "https://multimovies.city/cast/alexa-penavega/",
+      "image": "https://image.tmdb.org/t/p/w92/11m8ff0YwS64Z04DJhupNQpwmCZ.jpg"
+    },
+    {
+      "name": "Daryl Sabara",
+      "role": "Juni Cortez",
+      "url": "https://multimovies.city/cast/daryl-sabara/",
+      "image": "https://image.tmdb.org/t/p/w92/q4TZWwSVoBE2Vau1YVrH7HFQB7N.jpg"
+    },
+    {
+      "name": "Ricardo Montalban",
+      "role": "Grandfather",
+      "url": "https://multimovies.city/cast/ricardo-montalban/",
+      "image": "https://image.tmdb.org/t/p/w92/lL4I7U0j6Jc31XNohM86FN6D23I.jpg"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "Toymaker",
+      "url": "https://multimovies.city/cast/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/pOpbPofjwpynRkWPZZZkyGds6rx.jpg"
+    },
+    {
+      "name": "Mike Judge",
+      "role": "Donnagon Giggles",
+      "url": "https://multimovies.city/cast/mike-judge/",
+      "image": "https://image.tmdb.org/t/p/w92/8jEumAVtJ23rE4XZ0YrvVKAUKjk.jpg"
+    },
+    {
+      "name": "Salma Hayek",
+      "role": "Cesca Giggles",
+      "url": "https://multimovies.city/cast/salma-hayek/",
+      "image": "https://image.tmdb.org/t/p/w92/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
+    },
+    {
+      "name": "Matt O'Leary",
+      "role": "Gary Giggles",
+      "url": "https://multimovies.city/cast/matt-oleary/",
+      "image": "https://image.tmdb.org/t/p/w92/xTjZWML92P7dMrlFTdyHIfaDgTv.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bmuTrxbPcr1nKCsV5YWWJi73PGR.jpg",
+    "https://image.tmdb.org/t/p/w300/3nfpctj3B2AQyx7rOIDPUwroPT2.jpg"
+  ],
+  "similar": [],
+  "views": 1134,
+  "sources": [
+    "https://www.youtube.com/embed/mx0lo-xCljA?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/rj4tpx6acsil"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6565,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6565,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:41:41.457480"
+}
