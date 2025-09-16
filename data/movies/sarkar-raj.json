@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/sarkar-raj/",
+  "meta": {
+    "title": "Sarkar Raj",
+    "poster": "https://image.tmdb.org/t/p/w500/1ptl9Dq51jXpUNotg6CwHWZxoaK.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Jun. 06, 2008",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "When Anita Raja, CEO of Sheppard power plant, brings a power plant proposal to set up in rural Mahrashtra before the Nagres, insightful Shankar is quick to realise the benefits the power plant can bring to the people.",
+    "infoFields": {
+      "Original title": "\u0938\u0930\u094d\u0915\u093e\u0930 \u0930\u093e\u091c",
+      "IMDb Rating": "6.7 7,780 votes",
+      "TMDb Rating": "6.6 35 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ram Gopal Varma",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ram-gopal-varma/",
+      "image": "https://image.tmdb.org/t/p/w92/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Subhash Nagare 'Sarkar'",
+      "url": "https://multimovies.city/cast/amitabh-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/yAvq3EG5W5WaegZHB7gNdlM2KED.jpg"
+    },
+    {
+      "name": "Abhishek Bachchan",
+      "role": "Shankar Nagare",
+      "url": "https://multimovies.city/cast/abhishek-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/o2hWC004VnRyGLOgg8OjiP1Ch5A.jpg"
+    },
+    {
+      "name": "Aishwarya Rai Bachchan",
+      "role": "Anita Rajan",
+      "url": "https://multimovies.city/cast/aishwarya-rai-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/cfZ05qqCNoSUYmBwsb4cVzKM0YB.jpg"
+    },
+    {
+      "name": "Govind Namdev",
+      "role": "Hassan Qazi",
+      "url": "https://multimovies.city/cast/govind-namdev/",
+      "image": "https://image.tmdb.org/t/p/w92/4PYvzEHjEXScVjYuiQxVpNpvQ18.jpg"
+    },
+    {
+      "name": "Tanishaa Mukerji",
+      "role": "Avantika",
+      "url": "https://multimovies.city/cast/tanishaa-mukerji/",
+      "image": "https://image.tmdb.org/t/p/w92/en1oVsYNPXGuXdxsv30wVEmE8lL.jpg"
+    },
+    {
+      "name": "Victor Banerjee",
+      "role": "Mike Rajan",
+      "url": "https://multimovies.city/cast/victor-banerjee/",
+      "image": "https://image.tmdb.org/t/p/w92/zEWL9MRIkV2eL2Wd09vmoQWlVwY.jpg"
+    },
+    {
+      "name": "Supriya Pathak",
+      "role": "Pushpa Nagre",
+      "url": "https://multimovies.city/cast/supriya-pathak/",
+      "image": "https://image.tmdb.org/t/p/w92/cDvNa9XL425kBiyT4xqRGM8kK4H.jpg"
+    },
+    {
+      "name": "Sayaji Shinde",
+      "role": "Karunesh Kaanga",
+      "url": "https://multimovies.city/cast/sayaji-shinde/",
+      "image": "https://image.tmdb.org/t/p/w92/r4VBYop4XktGuSZ0wozRqJbEzMH.jpg"
+    },
+    {
+      "name": "Dilip Prabhavalkar",
+      "role": "Rao Saab",
+      "url": "https://multimovies.city/cast/dilip-prabhavalkar/",
+      "image": "https://image.tmdb.org/t/p/w92/gZOWcPPF1zwA0SMbKa40zp9LRgB.jpg"
+    },
+    {
+      "name": "Sumeet Nijhawan",
+      "role": "Bala",
+      "url": "https://multimovies.city/cast/sumeet-nijhawan/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 979,
+  "sources": [
+    "https://www.youtube.com/embed/KFvBUjCTjBM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/vnpyev91mn65"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 33920,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 33920,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:20:49.800511"
+}
