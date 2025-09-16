@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/an-education/",
+  "meta": {
+    "title": "An Education",
+    "poster": "https://image.tmdb.org/t/p/w500/29kSosB0jW2ThaJmX6ZY1UQ1pHA.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Oct. 29, 2009",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Despite her sheltered upbringing, Jenny is a teen with a bright future; she\u2019s smart, pretty, and has aspirations of attending Oxford University. When David, a charming but much older suitor, motors into her life in a shiny automobile, Jenny gets a taste of adult life that she won\u2019t soon forget.",
+    "infoFields": {
+      "Original title": "An Education",
+      "IMDb Rating": "7.2 140,197 votes",
+      "TMDb Rating": "6.945 1,348 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Lone Scherfig",
+      "role": "Director",
+      "url": "https://multimovies.city/director/lone-scherfig/",
+      "image": "https://image.tmdb.org/t/p/w92/oYkh2tQyqQaZQl1cOZFdEo3ikEN.jpg"
+    },
+    {
+      "name": "Carey Mulligan",
+      "role": "Jenny Mellor",
+      "url": "https://multimovies.city/cast/carey-mulligan/",
+      "image": "https://image.tmdb.org/t/p/w92/iwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg"
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "role": "David Goldman",
+      "url": "https://multimovies.city/cast/peter-sarsgaard/",
+      "image": "https://image.tmdb.org/t/p/w92/jOc4VjxPaOkWOqnLCxd8BJy9g5i.jpg"
+    },
+    {
+      "name": "Dominic Cooper",
+      "role": "Danny",
+      "url": "https://multimovies.city/cast/dominic-cooper/",
+      "image": "https://image.tmdb.org/t/p/w92/wFPdARerxpaAaHucYGTSNqViWpn.jpg"
+    },
+    {
+      "name": "Rosamund Pike",
+      "role": "Helen",
+      "url": "https://multimovies.city/cast/rosamund-pike/",
+      "image": "https://image.tmdb.org/t/p/w92/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg"
+    },
+    {
+      "name": "Olivia Williams",
+      "role": "Miss Stubbs",
+      "url": "https://multimovies.city/cast/olivia-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/u7JWwpkbZFPoXR80YPpgiggIFRI.jpg"
+    },
+    {
+      "name": "Alfred Molina",
+      "role": "Jack Mellor",
+      "url": "https://multimovies.city/cast/alfred-molina/",
+      "image": "https://image.tmdb.org/t/p/w92/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "name": "Cara Seymour",
+      "role": "Majorie",
+      "url": "https://multimovies.city/cast/cara-seymour/",
+      "image": "https://image.tmdb.org/t/p/w92/dYzhA0tw1OPU50vtXsfgSGKSwpf.jpg"
+    },
+    {
+      "name": "Sally Hawkins",
+      "role": "Sarah Goldman",
+      "url": "https://multimovies.city/cast/sally-hawkins/",
+      "image": "https://image.tmdb.org/t/p/w92/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg"
+    },
+    {
+      "name": "Emma Thompson",
+      "role": "Headmistress",
+      "url": "https://multimovies.city/cast/emma-thompson/",
+      "image": "https://image.tmdb.org/t/p/w92/xr8Ki3CIqweWWqS5q0kUYdiK6oQ.jpg"
+    },
+    {
+      "name": "James Norton",
+      "role": "Student",
+      "url": "https://multimovies.city/cast/james-norton/",
+      "image": "https://image.tmdb.org/t/p/w92/jQElUV2w7pMNEPX44qFMmr4zDDC.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9Cw5fOWLfHwFHjg88dC5oBZEmL4.jpg",
+    "https://image.tmdb.org/t/p/w300/4PD0Kc4BGYrYrziCwUPHnESSabZ.jpg",
+    "https://image.tmdb.org/t/p/w300/zJV0JUmLX0PQPwfdhD1BqphAM4n.jpg",
+    "https://image.tmdb.org/t/p/w300/9jvYSDZzf6hKNM0yyWHQa7CowUm.jpg",
+    "https://image.tmdb.org/t/p/w300/hl7lYgVreQbotvNrvXU5YNbG9Cw.jpg",
+    "https://image.tmdb.org/t/p/w300/yJ3YNGoEulhQKw2WoYD3JIyjSpC.jpg",
+    "https://image.tmdb.org/t/p/w300/j1yn1wK8xem7wPEXlSYgWWjael.jpg",
+    "https://image.tmdb.org/t/p/w300/c80FAp2Cva7DPOGhix9eeyVAa79.jpg",
+    "https://image.tmdb.org/t/p/w300/sLmZYp3P9S8Czgv14hUMoYg5jri.jpg",
+    "https://image.tmdb.org/t/p/w300/tEo5tSd4wFhkbxXIpgSY4pfVFOF.jpg"
+  ],
+  "similar": [],
+  "views": 519,
+  "sources": [
+    "https://www.youtube.com/embed/eRbp-dd1QvM?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/rqg50hx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 99855,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 99855,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:35:03.806028"
+}
