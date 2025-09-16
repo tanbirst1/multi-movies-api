@@ -4,15 +4,153 @@
   "meta": {
     "title": "Kabhi Khushi Kabhie Gham",
     "poster": "https://image.tmdb.org/t/p/w500/lRl7wrJmkOzMTDVYFSIpUcsIjPQ.jpg",
-    "synopsis": "Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Dec. 14, 2001",
+    "ratingValue": "9.3",
+    "ratingCount": "8",
+    "synopsis": "Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family.",
+    "infoFields": {
+      "Original title": "\u0915\u092d\u0940 \u0916\u093c\u0941\u0936\u0940 \u0915\u092d\u0940 \u0917\u093c\u092e",
+      "IMDb Rating": "7.4 52,041 votes",
+      "TMDb Rating": "7.791 464 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Nikkhil Advani",
+      "role": "Director",
+      "url": "https://multimovies.city/director/nikkhil-advani/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Rahul Raichand",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Yashvardhan \u201cYash\u201d Raichand",
+      "url": "https://multimovies.city/cast/amitabh-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/yAvq3EG5W5WaegZHB7gNdlM2KED.jpg"
+    },
+    {
+      "name": "Jaya Bachchan",
+      "role": "Nandini Chandran Raichand",
+      "url": "https://multimovies.city/cast/jaya-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/gXmIdkOhJN7pa8XDR7KQJXgtXni.jpg"
+    },
+    {
+      "name": "Kajol",
+      "role": "Anjali Sharma Raichand",
+      "url": "https://multimovies.city/cast/kajol/",
+      "image": "https://image.tmdb.org/t/p/w92/h4m0TkDuEMCUNaPrQxMRyFb2AQ7.jpg"
+    },
+    {
+      "name": "Hrithik Roshan",
+      "role": "Rohan Raichand",
+      "url": "https://multimovies.city/cast/hrithik-roshan/",
+      "image": "https://image.tmdb.org/t/p/w92/upKrdABAMK7jZevWAoPYI24iKlR.jpg"
+    },
+    {
+      "name": "Kareena Kapoor Khan",
+      "role": "Pooja \u201cPoo\u201d Sharma Raichand",
+      "url": "https://multimovies.city/cast/kareena-kapoor-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/pJZJJ93NwJq3kb3RWtaZBYVga1x.jpg"
+    },
+    {
+      "name": "Kavesh Majmudar",
+      "role": "Young Rohan",
+      "url": "https://multimovies.city/cast/kavesh-majmudar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Rani Mukerji",
+      "role": "Naina Kapoor",
+      "url": "https://multimovies.city/cast/rani-mukerji/",
+      "image": "https://image.tmdb.org/t/p/w92/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg"
+    },
+    {
+      "name": "Farida Jalal",
+      "role": "Sayeeda \u201cDaijaan / DJ\u201d Naaz",
+      "url": "https://multimovies.city/cast/farida-jalal/",
+      "image": "https://image.tmdb.org/t/p/w92/qLlAHvTwQw6A91G2CLptlcUMYQZ.jpg"
+    },
+    {
+      "name": "Alok Nath",
+      "role": "Omendra \"Om\" Sharma",
+      "url": "https://multimovies.city/cast/alok-nath/",
+      "image": "https://image.tmdb.org/t/p/w92/fMtqIj07e2HD0i5YbV91kgjrZzm.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/42vFebJ0VRnwdemaUOIr7c6Tjo1.jpg",
+    "https://image.tmdb.org/t/p/w300/fBfKjZ3xPQ9dgpd8XOcVtOLt17s.jpg",
+    "https://image.tmdb.org/t/p/w300/sgDzryFVud6jn3veSlzGAzv4TsF.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 10600,
+  "sources": [
+    "https://www.youtube.com/embed/7uY1JbWZKPA?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/20ecndarhgq0",
+    "https://sbplay.org/embed-aox3p6lnelyu.html",
+    "https://dood.la/e/f12ckm2erijh",
+    "https://mixdrop.co/e/dq04jzk0tokdmp",
+    "https://hydrax.net/watch?v=1dtLh5fSVy"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6896,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6896,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 6896,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 6896,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 6896,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 6896,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:31:27.737168"
 }
