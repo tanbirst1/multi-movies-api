@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hitch/",
+  "meta": {
+    "title": "Hitch",
+    "poster": "https://image.tmdb.org/t/p/w500/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Feb. 11, 2005",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Dating coach Alex \u2018Hitch\u2019 Hitchens mentors a bumbling client, Albert, who hopes to win the heart of the glamorous Allegra Cole. While Albert makes progress, Hitch faces his own romantic setbacks when proven techniques fail to work on Sara Melas, a tabloid reporter digging for dirt on Allegra Cole\u2019s love life. When Sara discovers Hitch\u2019s connection to Albert \u2013 now Allegra\u2019s boyfriend \u2013 it threatens to destroy both relationships.",
+    "infoFields": {
+      "Original title": "Hitch",
+      "IMDb Rating": "6.6 341,537 votes",
+      "TMDb Rating": "6.564 5,858 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Andy Tennant",
+      "role": "Director",
+      "url": "https://multimovies.city/director/andy-tennant/",
+      "image": "https://image.tmdb.org/t/p/w92/bvHhEFoAlPbbtioxrWZaOFNAu71.jpg"
+    },
+    {
+      "name": "Will Smith",
+      "role": "Alex 'Hitch' Hitchens",
+      "url": "https://multimovies.city/cast/will-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+    },
+    {
+      "name": "Eva Mendes",
+      "role": "Sara Melas",
+      "url": "https://multimovies.city/cast/eva-mendes/",
+      "image": "https://image.tmdb.org/t/p/w92/uj6IaUDEUB7swj46dPjHAi3TEk4.jpg"
+    },
+    {
+      "name": "Kevin James",
+      "role": "Albert Brennaman",
+      "url": "https://multimovies.city/cast/kevin-james/",
+      "image": "https://image.tmdb.org/t/p/w92/dqyUARUWykoMT3eRDgy7vmQY5PG.jpg"
+    },
+    {
+      "name": "Amber Valletta",
+      "role": "Allegra Cole",
+      "url": "https://multimovies.city/cast/amber-valletta/",
+      "image": "https://image.tmdb.org/t/p/w92/oi5iNd0bYhcyK7f9TUqYOZkdZXj.jpg"
+    },
+    {
+      "name": "Julie Ann Emery",
+      "role": "Casey Sedgewick",
+      "url": "https://multimovies.city/cast/julie-ann-emery/",
+      "image": "https://image.tmdb.org/t/p/w92/jT9UTuImUuSq1pgZDzyIHepFGMX.jpg"
+    },
+    {
+      "name": "Adam Arkin",
+      "role": "Max",
+      "url": "https://multimovies.city/cast/adam-arkin/",
+      "image": "https://image.tmdb.org/t/p/w92/66CugPTyelfdtYe0IV0U0LQP1sA.jpg"
+    },
+    {
+      "name": "Robinne Lee",
+      "role": "Cressida Baylor",
+      "url": "https://multimovies.city/cast/robinne-lee/",
+      "image": "https://image.tmdb.org/t/p/w92/eU2woLB9nUMiqeKHfML05EV54Ec.jpg"
+    },
+    {
+      "name": "Nathan Lee Graham",
+      "role": "Geoff",
+      "url": "https://multimovies.city/cast/nathan-lee-graham/",
+      "image": "https://image.tmdb.org/t/p/w92/zy42PvwpzgzYTN6sJBiftyynzmR.jpg"
+    },
+    {
+      "name": "Michael Rapaport",
+      "role": "Ben",
+      "url": "https://multimovies.city/cast/michael-rapaport/",
+      "image": "https://image.tmdb.org/t/p/w92/nWD2kufgy6lPyFVCPr9A3e7FMMn.jpg"
+    },
+    {
+      "name": "Jeffrey Donovan",
+      "role": "Vance Munson",
+      "url": "https://multimovies.city/cast/jeffrey-donovan/",
+      "image": "https://image.tmdb.org/t/p/w92/wlDXfXpu6Uz32LUmbFzU8QPDoQH.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/a6tIX4fGgp60w2d9pqYRbFM91ne.jpg",
+    "https://image.tmdb.org/t/p/w300/wPfi6nAWgHlRzGBIwEueLUzsJW1.jpg",
+    "https://image.tmdb.org/t/p/w300/ykvFwJhk2m6nYDBcUarpL2H9n1m.jpg",
+    "https://image.tmdb.org/t/p/w300/fmDYTtZZQHLBAvvqgdXItqMXBNG.jpg",
+    "https://image.tmdb.org/t/p/w300/wm5wyyCCAsokuEpKKwEQXYruo6g.jpg",
+    "https://image.tmdb.org/t/p/w300/RSpW2apP9peloBjgPTkBpaxWPt.jpg",
+    "https://image.tmdb.org/t/p/w300/AhGyHwGwqpBD7PfhyN7OtB9ryk0.jpg",
+    "https://image.tmdb.org/t/p/w300/1ukHkR5AOL8fqlIKj4fA1xwaJKR.jpg",
+    "https://image.tmdb.org/t/p/w300/sMNFREVa7h7iCBQgsuadvdJz5FT.jpg"
+  ],
+  "similar": [],
+  "views": 1284,
+  "sources": [
+    "https://www.youtube.com/embed/xcemo3vJTus?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/xpmf5xn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 50789,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 50789,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:52:32.843440"
+}
