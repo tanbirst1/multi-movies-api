@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/cloudy-with-a-chance-of-meatballs/",
+  "meta": {
+    "title": "Cloudy with a Chance of Meatballs",
+    "poster": "https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Sep. 17, 2009",
+    "ratingValue": "7.8",
+    "ratingCount": "5",
+    "synopsis": "Inventor Flint Lockwood creates a machine that makes clouds rain food, enabling the down-and-out citizens of Chewandswallow to feed themselves. But when the falling food reaches gargantuan proportions, Flint must scramble to avert disaster. Can he regain control of the machine and put an end to the wild weather before the town is destroyed?",
+    "infoFields": {
+      "Original title": "Cloudy with a Chance of Meatballs",
+      "IMDb Rating": "6.9 258,261 votes",
+      "TMDb Rating": "6.6 5,706 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Phil Lord",
+      "role": "Director",
+      "url": "https://multimovies.city/director/phil-lord/",
+      "image": "https://image.tmdb.org/t/p/w92/yGLAUCnWwB0cQM0Ivb5FKzv3tr4.jpg"
+    },
+    {
+      "name": "Bill Hader",
+      "role": "Flint Lockwood / FLDSMDFR (voice)",
+      "url": "https://multimovies.city/cast/bill-hader/",
+      "image": "https://image.tmdb.org/t/p/w92/bKSllPdMOK2b3duHXKQZtQC5m8c.jpg"
+    },
+    {
+      "name": "Anna Faris",
+      "role": "Sam Sparks (voice)",
+      "url": "https://multimovies.city/cast/anna-faris/",
+      "image": "https://image.tmdb.org/t/p/w92/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg"
+    },
+    {
+      "name": "James Caan",
+      "role": "Tim Lockwood (voice)",
+      "url": "https://multimovies.city/cast/james-caan/",
+      "image": "https://image.tmdb.org/t/p/w92/v3flJtQEyczxENi29yJyvnN6LVt.jpg"
+    },
+    {
+      "name": "Neil Patrick Harris",
+      "role": "Steve the Monkey (voice)",
+      "url": "https://multimovies.city/cast/neil-patrick-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/lZpyUk4savnwZylvrCPM0MvMXiY.jpg"
+    },
+    {
+      "name": "Andy Samberg",
+      "role": "Brent McHale (voice)",
+      "url": "https://multimovies.city/cast/andy-samberg/",
+      "image": "https://image.tmdb.org/t/p/w92/uDHHDEoySchljXtIMxjha0Odyfj.jpg"
+    },
+    {
+      "name": "Mr. T",
+      "role": "Officer Earl Devereaux (voice)",
+      "url": "https://multimovies.city/cast/mr-t/",
+      "image": "https://image.tmdb.org/t/p/w92/6j5DkJuKwxZklLJWFJciUbh31jL.jpg"
+    },
+    {
+      "name": "Bruce Campbell",
+      "role": "Mayor Shelbourne (voice)",
+      "url": "https://multimovies.city/cast/bruce-campbell/",
+      "image": "https://image.tmdb.org/t/p/w92/p9335ljr7luOWsfwZSOlsIzFJKE.jpg"
+    },
+    {
+      "name": "Bobb'e J. Thompson",
+      "role": "Calvin \"Cal\" Devereaux (voice)",
+      "url": "https://multimovies.city/cast/bobbe-j-thompson/",
+      "image": "https://image.tmdb.org/t/p/w92/otRWlY9G3cUlQN3fAN4uuRfBAS6.jpg"
+    },
+    {
+      "name": "Benjamin Bratt",
+      "role": "Manny (voice)",
+      "url": "https://multimovies.city/cast/benjamin-bratt/",
+      "image": "https://image.tmdb.org/t/p/w92/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+    },
+    {
+      "name": "Max Neuwirth",
+      "role": "Young Flint (voice)",
+      "url": "https://multimovies.city/cast/max-neuwirth/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iIvtWOkRgzprh6PRPEdnEcwGyM0.jpg",
+    "https://image.tmdb.org/t/p/w300/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
+    "https://image.tmdb.org/t/p/w300/hX1hhnFz8J2fLYDCWlPNDVZ0Mtk.jpg",
+    "https://image.tmdb.org/t/p/w300/qXXe1OynUfEf9GGLzRQrjxLrDwj.jpg",
+    "https://image.tmdb.org/t/p/w300/z8OJOBiOEQQSUKDQaa8ZvkrqHMG.jpg",
+    "https://image.tmdb.org/t/p/w300/sJ8syllC1J1yOqOjolpgoJmSEMe.jpg",
+    "https://image.tmdb.org/t/p/w300/uabJtYXJ7MrljGwLhwinolF115t.jpg",
+    "https://image.tmdb.org/t/p/w300/nFulIahF35o7fBxcqiDiSWGboE0.jpg",
+    "https://image.tmdb.org/t/p/w300/mVKdaARGTnwfmS1yAgg6Dvr8WnI.jpg",
+    "https://image.tmdb.org/t/p/w300/qWZQ2hqjrYBiyJ26NJQo8g0kilm.jpg"
+  ],
+  "similar": [],
+  "views": 2554,
+  "sources": [
+    "https://www.youtube.com/embed/5lsG2kp8Ifw?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/vjnhq64c30my"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1219,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1219,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:31:41.943265"
+}
