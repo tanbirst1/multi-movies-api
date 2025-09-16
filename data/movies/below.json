@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/below/",
+  "meta": {
+    "title": "Below",
+    "poster": "https://image.tmdb.org/t/p/w500/hpEqhozk3PAExlQrQliX4GC15XS.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Aug. 11, 2002",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "In the dark silence of the sea during World War II, the submarine USS Tiger Shark prowls on what should be a routine rescue mission. But for the shell-shocked crew, trapped together in the sub\u2019s narrow corridors and constricted spaces, this is about to become a journey into the sensory delusions, mental deceptions and runaway fears that lurk just below the surface of the ocean.",
+    "infoFields": {
+      "Original title": "Below",
+      "IMDb Rating": "6.1 25,229 votes",
+      "TMDb Rating": "6.041 467 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Twohy",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-twohy/",
+      "image": "https://image.tmdb.org/t/p/w92/gQm0cwAk4bsWgA7wF2PTFb8X37Z.jpg"
+    },
+    {
+      "name": "Matthew Davis",
+      "role": "Odell",
+      "url": "https://multimovies.city/cast/matthew-davis/",
+      "image": "https://image.tmdb.org/t/p/w92/9QsCJBQ45iR5R36F0LAuzvY1zuO.jpg"
+    },
+    {
+      "name": "Bruce Greenwood",
+      "role": "Brice",
+      "url": "https://multimovies.city/cast/bruce-greenwood/",
+      "image": "https://image.tmdb.org/t/p/w92/AmfylDaijUHq8cHMq002xfkW7Vk.jpg"
+    },
+    {
+      "name": "Olivia Williams",
+      "role": "Claire",
+      "url": "https://multimovies.city/cast/olivia-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/u7JWwpkbZFPoXR80YPpgiggIFRI.jpg"
+    },
+    {
+      "name": "Zach Galifianakis",
+      "role": "Weird Wally",
+      "url": "https://multimovies.city/cast/zach-galifianakis/",
+      "image": "https://image.tmdb.org/t/p/w92/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
+    },
+    {
+      "name": "Scott Foley",
+      "role": "Coors",
+      "url": "https://multimovies.city/cast/scott-foley/",
+      "image": "https://image.tmdb.org/t/p/w92/91jhs4Biigdhwvco0UdlpobnUaL.jpg"
+    },
+    {
+      "name": "Holt McCallany",
+      "role": "Loomis",
+      "url": "https://multimovies.city/cast/holt-mccallany/",
+      "image": "https://image.tmdb.org/t/p/w92/tnXVshv7CD9b53BRjYrLjVJvnDS.jpg"
+    },
+    {
+      "name": "Nick Chinlund",
+      "role": "Chief",
+      "url": "https://multimovies.city/cast/nick-chinlund/",
+      "image": "https://image.tmdb.org/t/p/w92/lRmgWDIXqBTneGbKlJNSFyiis1e.jpg"
+    },
+    {
+      "name": "Jason Flemyng",
+      "role": "Stumbo",
+      "url": "https://multimovies.city/cast/jason-flemyng/",
+      "image": "https://image.tmdb.org/t/p/w92/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+    },
+    {
+      "name": "Dexter Fletcher",
+      "role": "Kingsley",
+      "url": "https://multimovies.city/cast/dexter-fletcher/",
+      "image": "https://image.tmdb.org/t/p/w92/yRI8MDB5sg8b8EZkzFz5cCBrnKL.jpg"
+    },
+    {
+      "name": "Andrew Howard",
+      "role": "Hoag",
+      "url": "https://multimovies.city/cast/andrew-howard/",
+      "image": "https://image.tmdb.org/t/p/w92/kba1JeCUYHufjB933G5xPRhO8lV.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/eWqzwDKlN0JZY6JPow2ebWq79hE.jpg",
+    "https://image.tmdb.org/t/p/w300/4MF9pKO06xmyJO4I6ra0ekNK8Hd.jpg",
+    "https://image.tmdb.org/t/p/w300/rpQDlC5cf4CfQl512D9qT4VQP5p.jpg",
+    "https://image.tmdb.org/t/p/w300/3Hg11YsBpUK9jIpGsA8yDqeAGrE.jpg"
+  ],
+  "similar": [],
+  "views": 516,
+  "sources": [
+    "https://www.youtube.com/embed/SR5YQbHZJfw?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/z8cifua"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 84710,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 84710,
+      "nume": 1,
+      "title": "GD"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:36:35.892048"
+}
