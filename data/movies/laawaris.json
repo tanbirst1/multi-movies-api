@@ -1,0 +1,121 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/laawaris/",
+  "meta": {
+    "title": "Laawaris",
+    "poster": "https://image.tmdb.org/t/p/w500/aTHKe9PQFcdmtazz7wWrVleS9oa.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "May. 22, 1981",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Left in the care of an alcoholic Gangu Ganpat, young Heera, who named himself after a stray dog, wrestles with life in his young age. Years later, now a young man , he works for Mahendar Singh and is in love with Mohini, who will not have anything to do with him due to his lack of ancestry. Heera is now determined to find out who his parents are, and the only one who can help him is the elusive, alcohol-induced and incoherent Gangu Ganpat.",
+    "infoFields": {
+      "Original title": "Laawaris",
+      "IMDb Rating": "7 2,506 votes",
+      "TMDb Rating": "6.5 15 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Prakash Mehra",
+      "role": "Director",
+      "url": "https://multimovies.city/director/prakash-mehra/",
+      "image": "https://image.tmdb.org/t/p/w92/ynQMruwv2ymLkaetuXRGXWY5sVI.jpg"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Heera",
+      "url": "https://multimovies.city/cast/amitabh-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/yAvq3EG5W5WaegZHB7gNdlM2KED.jpg"
+    },
+    {
+      "name": "Zeenat Aman",
+      "role": "Mohini",
+      "url": "https://multimovies.city/cast/zeenat-aman/",
+      "image": "https://image.tmdb.org/t/p/w92/44wkiANzRe01AcelcYcXMQS0K8F.jpg"
+    },
+    {
+      "name": "Amjad Khan",
+      "role": "Ranvir Singh",
+      "url": "https://multimovies.city/cast/amjad-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/52s7Cbukn505Bo0JzLdurF8RXb.jpg"
+    },
+    {
+      "name": "Rakhee Gulzar",
+      "role": "Vidya",
+      "url": "https://multimovies.city/cast/rakhee-gulzar/",
+      "image": "https://image.tmdb.org/t/p/w92/xJ7D1qDTFfZzDNP6yoRRkqsN0UX.jpg"
+    },
+    {
+      "name": "Ranjeet Bedi",
+      "role": "Mahendra Singh",
+      "url": "https://multimovies.city/cast/ranjeet-bedi/",
+      "image": "https://image.tmdb.org/t/p/w92/fEMTpkUtx29RYBOVTEoXo8BRElC.jpg"
+    },
+    {
+      "name": "Bindu Desai",
+      "role": "Kamini",
+      "url": "https://multimovies.city/cast/bindu-desai/",
+      "image": "https://image.tmdb.org/t/p/w92/zD1ZSbQOIcs9k0KdKMsE1iJOpz6.jpg"
+    },
+    {
+      "name": "Shreeram Lagoo",
+      "role": "Gangu Ganpat",
+      "url": "https://multimovies.city/cast/shreeram-lagoo/",
+      "image": "https://image.tmdb.org/t/p/w92/6tVwvit8BUsz39ddEBnDP6Hivo7.jpg"
+    },
+    {
+      "name": "Suresh Oberoi",
+      "role": "Ram Singh",
+      "url": "https://multimovies.city/cast/suresh-oberoi/",
+      "image": "https://image.tmdb.org/t/p/w92/eU19xoD28bzCImBXNpOQCIbhUZG.jpg"
+    },
+    {
+      "name": "Goga Kapoor",
+      "role": "Phuga",
+      "url": "https://multimovies.city/cast/goga-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/il7Csz0XZxdcaH4fyPTD0PLReYr.jpg"
+    },
+    {
+      "name": "Padmini Kapila",
+      "role": "Padma",
+      "url": "https://multimovies.city/cast/padmini-kapila/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1IgviiTU97WCweA3mP2CtWd8DFF.jpg",
+    "https://image.tmdb.org/t/p/w300/2PeFKsI9X5jQF3EYVQcy0dgnisL.jpg",
+    "https://image.tmdb.org/t/p/w300/w4IUxtbEi0IBwZxPyslp0PrvCVB.jpg",
+    "https://image.tmdb.org/t/p/w300/x3pIIoxQKk1jRFdlLEARB0yQs5F.jpg"
+  ],
+  "similar": [],
+  "views": 612,
+  "sources": [
+    "https://smoothpre.com/embed/8en6fqnyr1wu"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 55931,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
