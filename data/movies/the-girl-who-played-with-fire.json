@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-girl-who-played-with-fire/",
+  "meta": {
+    "title": "The Girl Who Played with Fire",
+    "poster": "https://image.tmdb.org/t/p/w500/A8UjhPjINIBgmoH37aqt40u53PQ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 18, 2009",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Mikael Blomkvist, publisher of Millennium magazine, has made his living exposing the crooked and corrupt practices of establishment Swedish figures. So when a young journalist approaches him with a meticulously researched thesis about sex trafficking in Sweden and those in high office who abuse underage girls, Blomkvist immediately throws himself into the investigation.",
+    "infoFields": {
+      "Original title": "Flickan som lekte med elden",
+      "TMDb Rating": "7 1,488 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Daniel Alfredson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/daniel-alfredson/",
+      "image": "https://image.tmdb.org/t/p/w92/bqHaJq7pqDIgOAptCfJEsiaAIlN.jpg"
+    },
+    {
+      "name": "Michael Nyqvist",
+      "role": "Mikael Blomkvist",
+      "url": "https://multimovies.city/cast/michael-nyqvist/",
+      "image": "https://image.tmdb.org/t/p/w92/8vhKIpohiL1wpwDjitjYisFXWLS.jpg"
+    },
+    {
+      "name": "Noomi Rapace",
+      "role": "Lisbeth Salander",
+      "url": "https://multimovies.city/cast/noomi-rapace/",
+      "image": "https://image.tmdb.org/t/p/w92/vdlUULsiwxEgxTwxn3vVQqmolcx.jpg"
+    },
+    {
+      "name": "Lena Endre",
+      "role": "Erika Berger",
+      "url": "https://multimovies.city/cast/lena-endre/",
+      "image": "https://image.tmdb.org/t/p/w92/hWrqTNGRnXNhAIuVkOyxIhyCW1I.jpg"
+    },
+    {
+      "name": "Peter Andersson",
+      "role": "Nils Bjurman",
+      "url": "https://multimovies.city/cast/peter-andersson/",
+      "image": "https://image.tmdb.org/t/p/w92/3QrCFAESqlCgwg10KLv1Wre0sKL.jpg"
+    },
+    {
+      "name": "Annika Hallin",
+      "role": "Annika Giannini",
+      "url": "https://multimovies.city/cast/annika-hallin/",
+      "image": "https://image.tmdb.org/t/p/w92/w0xkKmLS2AeXKB6HqrUqeq5LzRC.jpg"
+    },
+    {
+      "name": "Per Oscarsson",
+      "role": "Holger Palmgren",
+      "url": "https://multimovies.city/cast/per-oscarsson/",
+      "image": "https://image.tmdb.org/t/p/w92/cH6s5bCDNjFrUBoyDds9DS3kQZy.jpg"
+    },
+    {
+      "name": "Sofia Ledarp",
+      "role": "Malin Erikson",
+      "url": "https://multimovies.city/cast/sofia-ledarp/",
+      "image": "https://image.tmdb.org/t/p/w92/rvUygwmSbc2K8Gv4x6PnCaJWUE0.jpg"
+    },
+    {
+      "name": "Micke Spreitz",
+      "role": "Ronald Niedermann",
+      "url": "https://multimovies.city/cast/micke-spreitz/",
+      "image": "https://image.tmdb.org/t/p/w92/vasKc6dnUcZo7JLHEH7g7CEvtzC.jpg"
+    },
+    {
+      "name": "Georgi Staykov",
+      "role": "Alexander Zalachenko",
+      "url": "https://multimovies.city/cast/georgi-staykov/",
+      "image": "https://image.tmdb.org/t/p/w92/yfuP7Xfa0W0GxwZ9H9dlWHjF2c1.jpg"
+    },
+    {
+      "name": "Paolo Roberto",
+      "role": "Himself",
+      "url": "https://multimovies.city/cast/paolo-roberto/",
+      "image": "https://image.tmdb.org/t/p/w92/AlfguXp3bl12FQgeuH8KV3RB0Qw.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/rQ5IqaZ1MAJiVnrGttqEoaZTMth.jpg",
+    "https://image.tmdb.org/t/p/w300/nra78PoXu2lQhdgFKJ8y8zL7HGN.jpg",
+    "https://image.tmdb.org/t/p/w300/uAeboY1WAuxRbJExkYCKnImrVOx.jpg"
+  ],
+  "similar": [],
+  "views": 906,
+  "sources": [
+    "https://www.youtube.com/embed/oSsodK7KFXQ?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/n1irkhb8p5zq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 22865,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 22865,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:31:31.338373"
+}
