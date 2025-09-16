@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/50-first-dates/",
+  "meta": {
+    "title": "50 First Dates",
+    "poster": "https://image.tmdb.org/t/p/w500/lzUI2Cg7OMfcUNv3f7MywYNBjs6.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Feb. 13, 2004",
+    "ratingValue": "6.5",
+    "ratingCount": "2",
+    "synopsis": "Henry is a player skilled at seducing women. But when this veterinarian meets Lucy, a girl with a quirky problem when it comes to total recall, he realizes it\u2019s possible to fall in love all over again\u2026and again, and again. That\u2019s because the delightful Lucy has no short-term memory, so Henry must woo her day after day until he finally sweeps her off her feet.",
+    "infoFields": {
+      "Original title": "50 First Dates",
+      "IMDb Rating": "6.8 386,640 votes",
+      "TMDb Rating": "6.861 7,041 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Peter Segal",
+      "role": "Director",
+      "url": "https://multimovies.city/director/peter-segal/",
+      "image": "https://image.tmdb.org/t/p/w92/x0nAuktiPai0OovveeegPAi0dRF.jpg"
+    },
+    {
+      "name": "Adam Sandler",
+      "role": "Henry Roth",
+      "url": "https://multimovies.city/cast/adam-sandler/",
+      "image": "https://image.tmdb.org/t/p/w92/dFgy0kGwjKzTYxEntxzM4EN1Wm8.jpg"
+    },
+    {
+      "name": "Drew Barrymore",
+      "role": "Lucy Whitmore",
+      "url": "https://multimovies.city/cast/drew-barrymore/",
+      "image": "https://image.tmdb.org/t/p/w92/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg"
+    },
+    {
+      "name": "Rob Schneider",
+      "role": "Ula",
+      "url": "https://multimovies.city/cast/rob-schneider/",
+      "image": "https://image.tmdb.org/t/p/w92/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "name": "Sean Astin",
+      "role": "Doug Whitmore",
+      "url": "https://multimovies.city/cast/sean-astin/",
+      "image": "https://image.tmdb.org/t/p/w92/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg"
+    },
+    {
+      "name": "Lusia Strus",
+      "role": "Alexa",
+      "url": "https://multimovies.city/cast/lusia-strus/",
+      "image": "https://image.tmdb.org/t/p/w92/egCUIOKltvYpJEB7rdeLIyBDv57.jpg"
+    },
+    {
+      "name": "Dan Aykroyd",
+      "role": "Dr. Keats",
+      "url": "https://multimovies.city/cast/dan-aykroyd/",
+      "image": "https://image.tmdb.org/t/p/w92/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+    },
+    {
+      "name": "Amy Hill",
+      "role": "Sue",
+      "url": "https://multimovies.city/cast/amy-hill/",
+      "image": "https://image.tmdb.org/t/p/w92/x5vR2MXZiWGHkppRXlXYj7y7611.jpg"
+    },
+    {
+      "name": "Allen Covert",
+      "role": "Ten Second Tom",
+      "url": "https://multimovies.city/cast/allen-covert/",
+      "image": "https://image.tmdb.org/t/p/w92/7n3euonyxM0wOGfk0T50pgHo06v.jpg"
+    },
+    {
+      "name": "Blake Clark",
+      "role": "Marlin Whitmore",
+      "url": "https://multimovies.city/cast/blake-clark/",
+      "image": "https://image.tmdb.org/t/p/w92/8v05xKh9RcsW4d0DoVuqoVKYW0z.jpg"
+    },
+    {
+      "name": "Maya Rudolph",
+      "role": "Stacy",
+      "url": "https://multimovies.city/cast/maya-rudolph/",
+      "image": "https://image.tmdb.org/t/p/w92/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/v8lPo8UWKyP2tIXD8N64HfNP4Pw.jpg",
+    "https://image.tmdb.org/t/p/w300/7qciJF7sQaCSYFVpxykEwyStKOl.jpg",
+    "https://image.tmdb.org/t/p/w300/vUuMauTTlsp7LB9dN9phXA0i9Nd.jpg",
+    "https://image.tmdb.org/t/p/w300/z6eMgnSt6VA0Gf9dirjpkBPu0uS.jpg",
+    "https://image.tmdb.org/t/p/w300/lwgI787F1s5mzsOKL4bd4dZgnmy.jpg",
+    "https://image.tmdb.org/t/p/w300/737XnQdKsRw7D7e05EtYOshNChy.jpg",
+    "https://image.tmdb.org/t/p/w300/dNkGQu4EQiXZwbM5IrrUqXUUiCl.jpg",
+    "https://image.tmdb.org/t/p/w300/IJzWPTYhC7DhN6e1CoGUIpg3mz.jpg",
+    "https://image.tmdb.org/t/p/w300/1F1Dc6URx3r9jZ8rRqsL7pgpD1G.jpg",
+    "https://image.tmdb.org/t/p/w300/7Pyp3U5dzGk9Xvclm4mtaHMmHIE.jpg"
+  ],
+  "similar": [],
+  "views": 2070,
+  "sources": [
+    "https://www.youtube.com/embed/17KJk3ErIx0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/jdy19jy"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 60656,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 60656,
+      "nume": 1,
+      "title": "gdmirror"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:44:34.123747"
+}
