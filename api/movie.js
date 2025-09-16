@@ -4,6 +4,9 @@ const GITHUB_BRANCH = "main";
 const NETLIFY_BASE = "https://stellular-dango-34f9ba.netlify.app/data/movies/";
 const DEFAULT_FIRST_AIR = "2015-08-26T00:00:00Z"; // safe ISO fallback
 
+// --- Simple in-memory cache ---
+let cache = { data: null, expiry: 0 };
+
 function safeIsoDate(input) {
   const d = new Date(input || DEFAULT_FIRST_AIR);
   if (isNaN(d.getTime())) return new Date(DEFAULT_FIRST_AIR).toISOString();
@@ -22,6 +25,14 @@ export default async function handler(req, res) {
   }
 
   try {
+    const forceRefresh = "rs" in req.query;
+    const now = Date.now();
+
+    // ✅ Serve from cache if valid
+    if (!forceRefresh && cache.data && cache.expiry > now) {
+      return res.status(200).json(cache.data);
+    }
+
     // ✅ 1. Get file list from GitHub
     const ghUrl = `https://api.github.com/repos/${GITHUB_REPO}/contents/data/movies?ref=${GITHUB_BRANCH}`;
     const ghResp = await fetchFn(ghUrl, {
@@ -48,7 +59,7 @@ export default async function handler(req, res) {
       return res.status(200).json({ "Recently added": [], total: 0, total_pages: 0, page: 1 });
     }
 
-    // ✅ 2. Get last commit date for each file (GitHub commits API)
+    // ✅ 2. Get last commit date
     async function getLastCommitDate(file) {
       const commitsUrl = `https://api.github.com/repos/${GITHUB_REPO}/commits?path=data/movies/${file}&sha=${GITHUB_BRANCH}&per_page=1`;
       try {
@@ -65,7 +76,7 @@ export default async function handler(req, res) {
       return DEFAULT_FIRST_AIR;
     }
 
-    // ✅ 3. Fetch movie JSON (Netlify → fallback to raw GitHub)
+    // ✅ 3. Fetch JSON (Netlify → GitHub raw)
     async function fetchMovieJson(file) {
       const netlifyUrl = `${NETLIFY_BASE}${encodeURIComponent(file)}`;
       try {
@@ -86,8 +97,8 @@ export default async function handler(req, res) {
       const [commitDate, data] = await Promise.all([getLastCommitDate(file), fetchMovieJson(file)]);
       if (!data) continue;
 
-      const title = data.title || data.name || "Unknown";
-      const link = data.link || "#";
+      const title = data.title || data.name || file.replace(/\.json$/i, "");
+      const link = data.scrapedFrom || data.link || "#";
       const date_or_year = data.meta?.firstAirDate || data.year || "Unknown";
       const rating = data.meta?.rating || data.rating || "0";
       const original_image = data.meta?.poster || data.poster || null;
@@ -102,7 +113,7 @@ export default async function handler(req, res) {
       });
     }
 
-    // ✅ 5. Sort by commit date
+    // ✅ 5. Sort by last commit date
     const sortedMovies = moviesData.sort(
       (a, b) => new Date(b.last_updated).getTime() - new Date(a.last_updated).getTime()
     );
@@ -117,14 +128,18 @@ export default async function handler(req, res) {
     const end = start + perPage;
     const paginated = sortedMovies.slice(start, end);
 
-    // ✅ 7. Response
-    res.status(200).json({
+    const responseData = {
       total,
       total_pages: totalPages,
       page,
       per_page: perPage,
       "Recently added": paginated,
-    });
+    };
+
+    // ✅ Save to cache for 5 minutes
+    cache = { data: responseData, expiry: now + 5 * 60 * 1000 };
+
+    res.status(200).json(responseData);
   } catch (err) {
     console.error("Handler error:", err);
     res.status(500).json({ error: err.message || String(err) });
