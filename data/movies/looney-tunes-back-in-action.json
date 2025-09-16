@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/looney-tunes-back-in-action/",
+  "meta": {
+    "title": "Looney Tunes: Back in Action",
+    "poster": "https://image.tmdb.org/t/p/w500/q0kntpdsHA0QdYjpQdNBqrVTdQq.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Nov. 14, 2003",
+    "ratingValue": "9.5",
+    "ratingCount": "2",
+    "synopsis": "Fed up with all the attention going to Bugs Bunny, Daffy Duck quits Hollywood, teams up with recently-fired stuntman Damien Drake Jr. and embarks on a round-the-world adventure, along with Bugs and The VP of Warner Bros. Their mission? Find Damien\u2019s father, and the missing blue diamond\u2026 and stay one step ahead of The Acme Corp., who wants the diamond for their own purposes.",
+    "infoFields": {
+      "Original title": "Looney Tunes: Back in Action",
+      "IMDb Rating": "5.8 38,981 votes",
+      "TMDb Rating": "6.389 1,355 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Joe Dante",
+      "role": "Director",
+      "url": "https://multimovies.city/director/joe-dante/",
+      "image": "https://image.tmdb.org/t/p/w92/AghJPGRamlgJCPJYgX92Utehcak.jpg"
+    },
+    {
+      "name": "Brendan Fraser",
+      "role": "DJ Drake / Tasmanian Devil (voice) / She-Devil (voice) / Himself",
+      "url": "https://multimovies.city/cast/brendan-fraser/",
+      "image": "https://image.tmdb.org/t/p/w92/xyO4PoiwY4Is5c0Qk4wKkcV909I.jpg"
+    },
+    {
+      "name": "Jenna Elfman",
+      "role": "Kate",
+      "url": "https://multimovies.city/cast/jenna-elfman/",
+      "image": "https://image.tmdb.org/t/p/w92/AsXlf2XtVF3tyx0GrUPRq72NLIa.jpg"
+    },
+    {
+      "name": "Steve Martin",
+      "role": "Mr. Chairman",
+      "url": "https://multimovies.city/cast/steve-martin/",
+      "image": "https://image.tmdb.org/t/p/w92/d0KthX8hVWU9BxTCG1QUO8FURRm.jpg"
+    },
+    {
+      "name": "Timothy Dalton",
+      "role": "Damien Drake",
+      "url": "https://multimovies.city/cast/timothy-dalton/",
+      "image": "https://image.tmdb.org/t/p/w92/rKYQd6ihqWiOaCHEDrvgV2VPtAo.jpg"
+    },
+    {
+      "name": "Heather Locklear",
+      "role": "Dusty Tails",
+      "url": "https://multimovies.city/cast/heather-locklear/",
+      "image": "https://image.tmdb.org/t/p/w92/qDyoFs0GzYIIp3kxg0znfqEq5Vp.jpg"
+    },
+    {
+      "name": "Joan Cusack",
+      "role": "Mother",
+      "url": "https://multimovies.city/cast/joan-cusack/",
+      "image": "https://image.tmdb.org/t/p/w92/69cfjfZFjVxfu2QbngnXOkipcyn.jpg"
+    },
+    {
+      "name": "Bill Goldberg",
+      "role": "Mr. Smith",
+      "url": "https://multimovies.city/cast/bill-goldberg/",
+      "image": "https://image.tmdb.org/t/p/w92/Aqh2luDxGap5hoVXw8uj9eEN6Oe.jpg"
+    },
+    {
+      "name": "Don Stanton",
+      "role": "Mr. Warner",
+      "url": "https://multimovies.city/cast/don-stanton/",
+      "image": "https://image.tmdb.org/t/p/w92/xt4bp0hfYDtDwRcTejOxEbMD7ig.jpg"
+    },
+    {
+      "name": "Dan Stanton",
+      "role": "Mr. Warner's Brother",
+      "url": "https://multimovies.city/cast/dan-stanton/",
+      "image": "https://image.tmdb.org/t/p/w92/rpWrNQr2DypzP0SBbsHkBj7HYA3.jpg"
+    },
+    {
+      "name": "Dick Miller",
+      "role": "Security Guard",
+      "url": "https://multimovies.city/cast/dick-miller/",
+      "image": "https://image.tmdb.org/t/p/w92/zyQXh8BkLg0DDo23pxJN2dy6Bqj.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iZiYzix7sMS0NEWsHURSzHF1wxt.jpg",
+    "https://image.tmdb.org/t/p/w300/bE6SwIJrDuDchsXXoE2njVFu795.jpg",
+    "https://image.tmdb.org/t/p/w300/wfgTZzQwZ3hhcggYpUAFrJhBhLk.jpg",
+    "https://image.tmdb.org/t/p/w300/mFeRSX1drG63Wy0UUWNPVq7n9Z1.jpg",
+    "https://image.tmdb.org/t/p/w300/54ZO8ffDq3dWh1pIHglwBDws5gE.jpg",
+    "https://image.tmdb.org/t/p/w300/Ah1g04XLS5zqyn6UwyFs37EnOb3.jpg",
+    "https://image.tmdb.org/t/p/w300/JygH5n1yfI3fL2jbfcBbAExfTR.jpg",
+    "https://image.tmdb.org/t/p/w300/uWuwQElfqWbWIPHCjlLHGKxIOeF.jpg",
+    "https://image.tmdb.org/t/p/w300/anaGYGxts9nq7nrQor7vOzZ8Jxc.jpg",
+    "https://image.tmdb.org/t/p/w300/eCkIZ5Uo5tqqjzMvxU6xPHNmGmC.jpg"
+  ],
+  "similar": [],
+  "views": 1243,
+  "sources": [
+    "https://www.youtube.com/embed/Wjvc6VYwe0I?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/nu3meecmtxqm"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18599,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18599,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:46:01.513332"
+}
