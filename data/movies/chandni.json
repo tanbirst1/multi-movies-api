@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/chandni/",
+  "meta": {
+    "title": "Chandni",
+    "poster": "https://image.tmdb.org/t/p/w500/4CDmZFSPddbsXUt2lhjxQbxjNcQ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Sep. 14, 1989",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Fate leaves Chandni shattered as her love Rohit disappears from her life. She meets Lalit and they befriend each other until Rohit knocks on her door.",
+    "infoFields": {
+      "Original title": "\u091a\u093e\u0901\u0926\u0928\u0940",
+      "IMDb Rating": "6.7 2,038 votes",
+      "TMDb Rating": "6.5 12 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Yash Chopra",
+      "role": "Director",
+      "url": "https://multimovies.city/director/yash-chopra/",
+      "image": "https://image.tmdb.org/t/p/w92/uDthb94NlawtgRT8BKufFkZdJR5.jpg"
+    },
+    {
+      "name": "Rishi Kapoor",
+      "role": "Rohit Gupta",
+      "url": "https://multimovies.city/cast/rishi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/w2SSVvLhTo1maMEbUgKYF6pIkFm.jpg"
+    },
+    {
+      "name": "Sridevi",
+      "role": "Chandni Mathur",
+      "url": "https://multimovies.city/cast/sridevi/",
+      "image": "https://image.tmdb.org/t/p/w92/6wxquADm0CMYMon04uEI48ZiBBf.jpg"
+    },
+    {
+      "name": "Vinod Khanna",
+      "role": "Lalit Khanna",
+      "url": "https://multimovies.city/cast/vinod-khanna/",
+      "image": "https://image.tmdb.org/t/p/w92/pwrChfSmvPX4HndI7j3fnAzPvaw.jpg"
+    },
+    {
+      "name": "Waheeda Rehman",
+      "role": "",
+      "url": "https://multimovies.city/cast/waheeda-rehman/",
+      "image": "https://image.tmdb.org/t/p/w92/o2GvpNWpArOZU5C9FBqo7WwnMYx.jpg"
+    },
+    {
+      "name": "Sushma Seth",
+      "role": "",
+      "url": "https://multimovies.city/cast/sushma-seth/",
+      "image": "https://image.tmdb.org/t/p/w92/1UqCt8kfYWfkrWNfcWp4nO8XWcz.jpg"
+    },
+    {
+      "name": "Mita Vasisht",
+      "role": "",
+      "url": "https://multimovies.city/cast/mita-vasisht/",
+      "image": "https://image.tmdb.org/t/p/w92/mcnaQTCmuz3lXNotFFdkwCO7FTY.jpg"
+    },
+    {
+      "name": "Achala Sachdev",
+      "role": "",
+      "url": "https://multimovies.city/cast/achala-sachdev/",
+      "image": "https://image.tmdb.org/t/p/w92/6kgq6Mnmd01HZzvbsEDQAFBurog.jpg"
+    },
+    {
+      "name": "Beena Banerjee",
+      "role": "Pooja",
+      "url": "https://multimovies.city/cast/beena-banerjee/",
+      "image": "https://image.tmdb.org/t/p/w92/bpz1mRlbVEYtIgRVoGHC5oGZ9Lt.jpg"
+    },
+    {
+      "name": "Manohar Singh",
+      "role": "",
+      "url": "https://multimovies.city/cast/manohar-singh/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ram Gopal Bajaj",
+      "role": "Shiv Prasad Mathur",
+      "url": "https://multimovies.city/cast/ram-gopal-bajaj/",
+      "image": "https://image.tmdb.org/t/p/w92/ilYs1QIQ1VypTaK1MucvOVQI1jS.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wfJJkqw9z44W5olmLlt4IhieXZK.jpg"
+  ],
+  "similar": [],
+  "views": 2127,
+  "sources": [
+    "https://www.youtube.com/embed/gtMwC6DP0D0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/5s6l8sqa082w"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 31731,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 31731,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
