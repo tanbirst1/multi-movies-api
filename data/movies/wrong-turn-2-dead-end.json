@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/wrong-turn-2-dead-end/",
+  "meta": {
+    "title": "Wrong Turn 2: Dead End",
+    "poster": "https://image.tmdb.org/t/p/w500/n5Re2ywnpqwAXTin8W5j3lqSwc7.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      },
+      {
+        "name": "Wrong Turn",
+        "url": "https://multimovies.city/genre/wrong-turn/"
+      }
+    ],
+    "firstAirDate": "Aug. 25, 2007",
+    "ratingValue": "7.4",
+    "ratingCount": "10",
+    "synopsis": "Retired military commander Colonel Dale Murphy hosts the simulated post-apocalyptic reality show where participants are challenged to survive a remote West Virginia wasteland. But the show turns into a nightmarish showdown when each realizes they are being hunted by an inbred family of cannibals determined to make them all dinner!",
+    "infoFields": {
+      "Original title": "Wrong Turn 2: Dead End",
+      "IMDb Rating": "5.5 47,809 votes",
+      "TMDb Rating": "6.114 1,419 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Joe Lynch",
+      "role": "Director",
+      "url": "https://multimovies.city/director/joe-lynch/",
+      "image": "https://image.tmdb.org/t/p/w92/maeIOyMqToTT0XuWxO0Fy40lNzR.jpg"
+    },
+    {
+      "name": "Erica Leerhsen",
+      "role": "Nina Papas",
+      "url": "https://multimovies.city/cast/erica-leerhsen/",
+      "image": "https://image.tmdb.org/t/p/w92/1YZkzcZD5kDmxBxBHWWr3z0l3FA.jpg"
+    },
+    {
+      "name": "Henry Rollins",
+      "role": "Dale Murphy",
+      "url": "https://multimovies.city/cast/henry-rollins/",
+      "image": "https://image.tmdb.org/t/p/w92/2E0cZdoJsdt1Lv4waG3s6fsfJeU.jpg"
+    },
+    {
+      "name": "Aleksa Palladino",
+      "role": "Mara",
+      "url": "https://multimovies.city/cast/aleksa-palladino/",
+      "image": "https://image.tmdb.org/t/p/w92/dJCeWrRBNKy8tEUQBlrZDvynwcd.jpg"
+    },
+    {
+      "name": "Crystal Lowe",
+      "role": "Elena",
+      "url": "https://multimovies.city/cast/crystal-lowe/",
+      "image": "https://image.tmdb.org/t/p/w92/9M9FbnKMTTqgJmWrsKqviewLrmj.jpg"
+    },
+    {
+      "name": "Rorelee Tio",
+      "role": "Sister",
+      "url": "https://multimovies.city/cast/rorelee-tio/",
+      "image": "https://image.tmdb.org/t/p/w92/xuLynMK55lTQ6XHHAzyEBGHPsm.jpg"
+    },
+    {
+      "name": "Kimberly Caldwell",
+      "role": "Kimberly",
+      "url": "https://multimovies.city/cast/kimberly-caldwell/",
+      "image": "https://image.tmdb.org/t/p/w92/bBNje9hwrlM8WdWjG6OmJYZy3yy.jpg"
+    },
+    {
+      "name": "Daniella Alonso",
+      "role": "Amber",
+      "url": "https://multimovies.city/cast/daniella-alonso/",
+      "image": "https://image.tmdb.org/t/p/w92/ipFtnG5kvkMY1HcLOSFONDIEXqn.jpg"
+    },
+    {
+      "name": "Texas Battle",
+      "role": "Jake Washington",
+      "url": "https://multimovies.city/cast/texas-battle/",
+      "image": "https://image.tmdb.org/t/p/w92/zPzagAtKxbHKrQLAQ69KSYLZxjA.jpg"
+    },
+    {
+      "name": "Steve Braun",
+      "role": "Jonesy",
+      "url": "https://multimovies.city/cast/steve-braun/",
+      "image": "https://image.tmdb.org/t/p/w92/gSUxpCsSpjjTEWbNGCnxGhNKVw7.jpg"
+    },
+    {
+      "name": "Ken Kirzinger",
+      "role": "Pa",
+      "url": "https://multimovies.city/cast/ken-kirzinger/",
+      "image": "https://image.tmdb.org/t/p/w92/h9PfH9SP4gO7H7RPEpLvQWLY3zW.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/o2SeAw8ARPB1D8oudCRJcxW3w60.jpg"
+  ],
+  "similar": [],
+  "views": 17101,
+  "sources": [
+    "https://www.youtube.com/embed/VanCRj8eI9o?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/t5qr0ot"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 850,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 850,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:11:16.754019"
+}
