@@ -4,15 +4,136 @@
   "meta": {
     "title": "Spider-Man",
     "poster": "https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
-    "synopsis": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Marvel Collection",
+        "url": "https://multimovies.city/genre/marvel-collection/"
+      }
+    ],
+    "firstAirDate": "May. 01, 2002",
+    "ratingValue": "9",
+    "ratingCount": "29",
+    "synopsis": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+    "infoFields": {
+      "Original title": "Spider-Man",
+      "IMDb Rating": "7.4 906,434 votes",
+      "TMDb Rating": "7.312 19,658 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Sam Raimi",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sam-raimi/",
+      "image": "https://image.tmdb.org/t/p/w92/zdYHQts9iZK0MiNT5unUR0l8v6n.jpg"
+    },
+    {
+      "name": "Tobey Maguire",
+      "role": "Spider-Man / Peter Parker",
+      "url": "https://multimovies.city/cast/tobey-maguire/",
+      "image": "https://image.tmdb.org/t/p/w92/kOJelnLSb89SeivbOCt1l94Hz2d.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+      "role": "Green Goblin / Norman Osborn",
+      "url": "https://multimovies.city/cast/willem-dafoe/",
+      "image": "https://image.tmdb.org/t/p/w92/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "role": "Mary Jane Watson",
+      "url": "https://multimovies.city/cast/kirsten-dunst/",
+      "image": "https://image.tmdb.org/t/p/w92/sFYHUU1gWd57pttD8732tkBsXV5.jpg"
+    },
+    {
+      "name": "James Franco",
+      "role": "Harry Osborn",
+      "url": "https://multimovies.city/cast/james-franco/",
+      "image": "https://image.tmdb.org/t/p/w92/rShzuvrQJJQJ6lXDn3IQX4o0iCE.jpg"
+    },
+    {
+      "name": "Cliff Robertson",
+      "role": "Ben Parker",
+      "url": "https://multimovies.city/cast/cliff-robertson/",
+      "image": "https://image.tmdb.org/t/p/w92/8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg"
+    },
+    {
+      "name": "Rosemary Harris",
+      "role": "May Parker",
+      "url": "https://multimovies.city/cast/rosemary-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/rpSsXg0tB7wWQMffvvMqLzrvZAj.jpg"
+    },
+    {
+      "name": "J.K. Simmons",
+      "role": "J. Jonah Jameson",
+      "url": "https://multimovies.city/cast/j-k-simmons/",
+      "image": "https://image.tmdb.org/t/p/w92/jPoNW5fugs5h8AbcE7H5OBm04Tm.jpg"
+    },
+    {
+      "name": "Joe Manganiello",
+      "role": "Flash Thompson",
+      "url": "https://multimovies.city/cast/joe-manganiello/",
+      "image": "https://image.tmdb.org/t/p/w92/mTdACmitdrwor0Nrv5sr0u123vZ.jpg"
+    },
+    {
+      "name": "Gerry Becker",
+      "role": "Maximilian Fargas",
+      "url": "https://multimovies.city/cast/gerry-becker/",
+      "image": "https://image.tmdb.org/t/p/w92/il1r1Iym5WFJyo8SQon60aqu4nC.jpg"
+    },
+    {
+      "name": "Bill Nunn",
+      "role": "Joseph 'Robbie' Robertson",
+      "url": "https://multimovies.city/cast/bill-nunn/",
+      "image": "https://image.tmdb.org/t/p/w92/5dphDw0EDkKvxrolhvOFv6v91yj.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+    "https://image.tmdb.org/t/p/w300/sWvxBXNtCOaGdtpKNLiOqmwb10N.jpg",
+    "https://image.tmdb.org/t/p/w300/nyBtN2QqimXKZwYc7iTJlt18CfY.jpg",
+    "https://image.tmdb.org/t/p/w300/jHxCeXnSchAuwHnmVatTgqMYdX8.jpg",
+    "https://image.tmdb.org/t/p/w300/muth4OYamXf41G2evdrLEg8d3om.jpg",
+    "https://image.tmdb.org/t/p/w300/gkINAPOuwUFo2Qphs3OUUbjUKUZ.jpg",
+    "https://image.tmdb.org/t/p/w300/uIrA2NGv0H1VhsdTyOui5WC6piM.jpg",
+    "https://image.tmdb.org/t/p/w300/kMYf9vAuAF0RK5NkPP3bXE8MHdk.jpg",
+    "https://image.tmdb.org/t/p/w300/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg",
+    "https://image.tmdb.org/t/p/w300/gUATaiYFjlIYWLmVsPcuThGTFnU.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 25602,
+  "sources": [
+    "https://www.youtube.com/embed/mozKYgMsCzE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/rikgfwj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 2919,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 2919,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:31:25"
+  "last_update": "2025-09-16T17:33:36.968709"
 }
