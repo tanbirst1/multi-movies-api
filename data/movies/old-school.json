@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/old-school/",
+  "meta": {
+    "title": "Old School",
+    "poster": "https://image.tmdb.org/t/p/w500/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 21, 2003",
+    "ratingValue": "9.5",
+    "ratingCount": "2",
+    "synopsis": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.",
+    "infoFields": {
+      "Original title": "Old School",
+      "IMDb Rating": "7 242,705 votes",
+      "TMDb Rating": "6.597 1,715 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Todd Phillips",
+      "role": "Director",
+      "url": "https://multimovies.city/director/todd-phillips/",
+      "image": "https://image.tmdb.org/t/p/w92/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+    },
+    {
+      "name": "Luke Wilson",
+      "role": "Mitch",
+      "url": "https://multimovies.city/cast/luke-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/GTx8OEQoj0GWVwSjxRCgWtzP6n.jpg"
+    },
+    {
+      "name": "Will Ferrell",
+      "role": "Frank",
+      "url": "https://multimovies.city/cast/will-ferrell/",
+      "image": "https://image.tmdb.org/t/p/w92/uudKe6ggGLnjQI29ZX59MFgzmut.jpg"
+    },
+    {
+      "name": "Vince Vaughn",
+      "role": "Beanie",
+      "url": "https://multimovies.city/cast/vince-vaughn/",
+      "image": "https://image.tmdb.org/t/p/w92/A9fJ88dfXZGpgFTnQIK0bOtjMrj.jpg"
+    },
+    {
+      "name": "Jeremy Piven",
+      "role": "Pritchard",
+      "url": "https://multimovies.city/cast/jeremy-piven/",
+      "image": "https://image.tmdb.org/t/p/w92/pqdR8zqAWF87chGYlbdYr0YfC7g.jpg"
+    },
+    {
+      "name": "Ellen Pompeo",
+      "role": "Nicole",
+      "url": "https://multimovies.city/cast/ellen-pompeo/",
+      "image": "https://image.tmdb.org/t/p/w92/yPd4G2RcjXQPNWkKUPbWh5v1flC.jpg"
+    },
+    {
+      "name": "Juliette Lewis",
+      "role": "Heidi",
+      "url": "https://multimovies.city/cast/juliette-lewis/",
+      "image": "https://image.tmdb.org/t/p/w92/vvitS2sZSM9RupCf5B0sZYNS6wT.jpg"
+    },
+    {
+      "name": "Leah Remini",
+      "role": "Lara",
+      "url": "https://multimovies.city/cast/leah-remini/",
+      "image": "https://image.tmdb.org/t/p/w92/5tiOfc5IGgzXodMD475aY85ZdSf.jpg"
+    },
+    {
+      "name": "Perrey Reeves",
+      "role": "Marissa",
+      "url": "https://multimovies.city/cast/perrey-reeves/",
+      "image": "https://image.tmdb.org/t/p/w92/xgsCxH6GbrAj4JGrVk89hH7aOdW.jpg"
+    },
+    {
+      "name": "Craig Kilborn",
+      "role": "Mark",
+      "url": "https://multimovies.city/cast/craig-kilborn/",
+      "image": "https://image.tmdb.org/t/p/w92/moLwDdbSqE82kSlYFzX4WJM8LOQ.jpg"
+    },
+    {
+      "name": "Elisha Cuthbert",
+      "role": "Darcie",
+      "url": "https://multimovies.city/cast/elisha-cuthbert/",
+      "image": "https://image.tmdb.org/t/p/w92/ym30LsFVLBFYkZ2eQvcraajSYCE.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mgOxWQtPq8F0ljSzQ8CFvgyJ7ac.jpg",
+    "https://image.tmdb.org/t/p/w300/eYZs3KTU3qfzB6VFb950VgQdLf5.jpg",
+    "https://image.tmdb.org/t/p/w300/uqmsY0AWZqIHUWbVG8ifSmSygzR.jpg",
+    "https://image.tmdb.org/t/p/w300/bAjzQsJKFXRnNE6JHA7DUSjbbcO.jpg",
+    "https://image.tmdb.org/t/p/w300/qCVXhb2UGLV0kNQF2Uxojq5JN7b.jpg",
+    "https://image.tmdb.org/t/p/w300/rTkleDab2WHKxUXdSdtPGLMfMOX.jpg"
+  ],
+  "similar": [],
+  "views": 4385,
+  "sources": [
+    "https://www.youtube.com/embed/VqtymOtKr48?autoplay=0&autohide=1",
+    "https://smoothpre.com/v/iba87apr2yef"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 23018,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 23018,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:39:37.151302"
+}
