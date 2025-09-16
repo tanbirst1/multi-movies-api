@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/naruto-shippuden-the-movie/",
+  "meta": {
+    "title": "Naruto Shippuden the Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/vDkct38sSFSWJIATlfJw0l3QOIR.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime",
+        "url": "https://multimovies.city/genre/anime/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Naruto Movies",
+        "url": "https://multimovies.city/genre/naruto-movies/"
+      }
+    ],
+    "firstAirDate": "Aug. 04, 2007",
+    "ratingValue": "8.2",
+    "ratingCount": "13",
+    "synopsis": "Demons that once almost destroyed the world, are revived by someone. To prevent the world from being destroyed, the demon has to be sealed and the only one who can do it is the shrine maiden Shion from the country of demons, who has two powers; one is sealing demons and the other is predicting the deaths of humans. This time Naruto\u2019s mission is to guard Shion, but she predicts Naruto\u2019s death. The only way to escape it, is to get away from Shion, which would leave her unguarded, then the demon, whose only goal is to kill Shion will do so, thus meaning the end of the world. Naruto decides to challenge this \u201cprediction of death.\u201d",
+    "infoFields": {
+      "Original title": "\u5287\u5834\u7248 NARUTO -\u30ca\u30eb\u30c8- \u75be\u98a8\u4f1d",
+      "IMDb Rating": "6.7 4,352 votes",
+      "TMDb Rating": "7.175 651 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hajime Kamegaki",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hajime-kamegaki/",
+      "image": "https://image.tmdb.org/t/p/w92/cpi1xEwGqCyOVM4eicfUIWJ8PMz.jpg"
+    },
+    {
+      "name": "Junko Takeuchi",
+      "role": "Naruto Uzumaki (voice)",
+      "url": "https://multimovies.city/cast/junko-takeuchi/",
+      "image": "https://image.tmdb.org/t/p/w92/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+    },
+    {
+      "name": "Chie Nakamura",
+      "role": "Sakura Haruno (voice)",
+      "url": "https://multimovies.city/cast/chie-nakamura/",
+      "image": "https://image.tmdb.org/t/p/w92/evB6vKUbm0CKgBcgikPeFXdwd29.jpg"
+    },
+    {
+      "name": "Y\u014dichi Masukawa",
+      "role": "Rock Lee (voice)",
+      "url": "https://multimovies.city/cast/yoichi-masukawa/",
+      "image": "https://image.tmdb.org/t/p/w92/sE664CcqM1pvoWsYsca7szlIzl5.jpg"
+    },
+    {
+      "name": "Koichi Tochika",
+      "role": "Neji Hy\u00fbga (voice)",
+      "url": "https://multimovies.city/cast/koichi-tochika/",
+      "image": "https://image.tmdb.org/t/p/w92/wZYe5RmOLYIhpesKEaFIxz7YN7G.jpg"
+    },
+    {
+      "name": "Ayumi Fujimura",
+      "role": "Shion (voice)",
+      "url": "https://multimovies.city/cast/ayumi-fujimura/",
+      "image": "https://image.tmdb.org/t/p/w92/yHBSiZ7UtRIj8GihSad45WpqLqb.jpg"
+    },
+    {
+      "name": "Yoshinori Fujita",
+      "role": "Taruho (voice)",
+      "url": "https://multimovies.city/cast/yoshinori-fujita/",
+      "image": "https://image.tmdb.org/t/p/w92/dYpG4BJRta6vAXfDXaNQxVqIZ5K.jpg"
+    },
+    {
+      "name": "Daisuke Kishio",
+      "role": "Susuki (voice)",
+      "url": "https://multimovies.city/cast/daisuke-kishio/",
+      "image": "https://image.tmdb.org/t/p/w92/uXBSUBXWO87Kp3Dp4ILr2dp0nlU.jpg"
+    },
+    {
+      "name": "Fumiko Orikasa",
+      "role": "Miroku (voice)",
+      "url": "https://multimovies.city/cast/fumiko-orikasa/",
+      "image": "https://image.tmdb.org/t/p/w92/e7yC3GzPli4uHO1flPUozlXXIue.jpg"
+    },
+    {
+      "name": "Miyuki Sawashiro",
+      "role": "Shizuku (voice)",
+      "url": "https://multimovies.city/cast/miyuki-sawashiro/",
+      "image": "https://image.tmdb.org/t/p/w92/3l2HIkVifapvSPPGYZO4oI5snXk.jpg"
+    },
+    {
+      "name": "Katsuyuki Konishi",
+      "role": "Setsuna (voice)",
+      "url": "https://multimovies.city/cast/katsuyuki-konishi/",
+      "image": "https://image.tmdb.org/t/p/w92/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mUC2BS04DlszdqJQ9vz9MFuPiDd.jpg",
+    "https://image.tmdb.org/t/p/w300/y3XMIea7mwTzxt3NFFXi5YJKeFJ.jpg"
+  ],
+  "similar": [],
+  "views": 13221,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/qa7uxe9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1852,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:11:54.803847"
+}
