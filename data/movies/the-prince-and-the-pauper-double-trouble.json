@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-prince-and-the-pauper-double-trouble/",
+  "meta": {
+    "title": "The Prince and the Pauper: Double Trouble",
+    "poster": "https://image.tmdb.org/t/p/w500/sM0N0B0DvFQqrteJwnOvumvAOwN.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jul. 31, 2007",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Mistaken identities make for a remarkable adventure as Tom Canty, a poor beggar boy swaps places with Prince Edwared, the heir to the throne, in this new animated version of this beloved story. With its brilliant CGI animation, all-animal cast of characters and brand-new original songs and music, it\u2019s double the fun for audiences of all ages!",
+    "infoFields": {
+      "Original title": "The Prince and the Pauper: Double Trouble",
+      "IMDb Rating": "7.3 7 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ric Machin",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ric-machin/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 275,
+  "sources": [
+    "https://multimovies.website/e/uxbl19xvfzta.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 4997,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:12:10.191360"
+}
