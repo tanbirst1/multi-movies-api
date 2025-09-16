@@ -4,15 +4,127 @@
   "meta": {
     "title": "Shaolin Soccer",
     "poster": "https://image.tmdb.org/t/p/w500/kVpq68NxChzynK7otaymRSaWR8p.jpg",
-    "synopsis": "A young Shaolin follower reunites with his discouraged brothers to form a soccer team using their martial art skills to their advantage."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jul. 05, 2001",
+    "ratingValue": "9.1",
+    "ratingCount": "9",
+    "synopsis": "A young Shaolin follower reunites with his discouraged brothers to form a soccer team using their martial art skills to their advantage.",
+    "infoFields": {
+      "Original title": "\u5c11\u6797\u8db3\u7403",
+      "IMDb Rating": "7.3 83,689 votes",
+      "TMDb Rating": "7.072 1,882 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Tony Ching Siu-Tung",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tony-ching-siu-tung/",
+      "image": "https://image.tmdb.org/t/p/w92/iqw8vUPyZ5TMbk9G2XPYHTTyxZN.jpg"
+    },
+    {
+      "name": "Stephen Chow",
+      "role": "Sing",
+      "url": "https://multimovies.city/cast/stephen-chow/",
+      "image": "https://image.tmdb.org/t/p/w92/qPGmIuQ3DKzzpZy5Y12WeoOUijV.jpg"
+    },
+    {
+      "name": "Zhao Wei",
+      "role": "Mui",
+      "url": "https://multimovies.city/cast/zhao-wei/",
+      "image": "https://image.tmdb.org/t/p/w92/hFFwVOTdXX5SHHDqP3UxmGzHO8p.jpg"
+    },
+    {
+      "name": "Ng Man-tat",
+      "role": "Fung",
+      "url": "https://multimovies.city/cast/ng-man-tat/",
+      "image": "https://image.tmdb.org/t/p/w92/l0v7Fn5qPizk7Mt2WGNHiMF8hx5.jpg"
+    },
+    {
+      "name": "Patrick Tse Yin",
+      "role": "Hung",
+      "url": "https://multimovies.city/cast/patrick-tse-yin/",
+      "image": "https://image.tmdb.org/t/p/w92/5neIbXmuvtdQIygHu6D2wighYwW.jpg"
+    },
+    {
+      "name": "Karen Mok",
+      "role": "Dragon Twin",
+      "url": "https://multimovies.city/cast/karen-mok/",
+      "image": "https://image.tmdb.org/t/p/w92/8iLaXFGSbc54Oyn75ERt5BbPmkU.jpg"
+    },
+    {
+      "name": "Cecilia Cheung",
+      "role": "Dragon Twin",
+      "url": "https://multimovies.city/cast/cecilia-cheung/",
+      "image": "https://image.tmdb.org/t/p/w92/3vaMtd9Xh54v31qrFAo3gZQ8hkh.jpg"
+    },
+    {
+      "name": "Vincent Kok",
+      "role": "Team Puma Leader",
+      "url": "https://multimovies.city/cast/vincent-kok/",
+      "image": "https://image.tmdb.org/t/p/w92/foYVecYCYkAuwyPXNy3jSJYaVub.jpg"
+    },
+    {
+      "name": "Wong Yat-fei",
+      "role": "Iron Head",
+      "url": "https://multimovies.city/cast/wong-yat-fei/",
+      "image": "https://image.tmdb.org/t/p/w92/eMpNYfWMxmIPWvDd1npajeDweI7.jpg"
+    },
+    {
+      "name": "Mo Mei-Lin",
+      "role": "Hooking Leg",
+      "url": "https://multimovies.city/cast/mo-mei-lin/",
+      "image": "https://image.tmdb.org/t/p/w92/crRoDs3ZSlloamCciJNBfvwj3rU.jpg"
+    },
+    {
+      "name": "Tenky Tin Kai-Man",
+      "role": "Iron Shirt",
+      "url": "https://multimovies.city/cast/tenky-tin-kai-man/",
+      "image": "https://image.tmdb.org/t/p/w92/jR3CpvD0uDu7GKchgUC5bFjfYTX.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/tkxYmE3HzHy7E39zY3VvQ0k0VLU.jpg",
+    "https://image.tmdb.org/t/p/w300/qXvlmxhhjJjAe2sLwcwnWtPBl3W.jpg",
+    "https://image.tmdb.org/t/p/w300/orjYuozLmwO7aQ6ffskahhbSiCH.jpg",
+    "https://image.tmdb.org/t/p/w300/yGWHfaJzqsseusNm0nbPWwkbmlR.jpg",
+    "https://image.tmdb.org/t/p/w300/A9FPHyjZneA2IYbnkvRwJOMeN1p.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 11986,
+  "sources": [
+    "https://www.youtube.com/embed/bREfcVPssiE?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/q2e7reftjtfw"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6710,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6710,
+      "nume": 1,
+      "title": "2ru"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:29:02.822503"
 }
