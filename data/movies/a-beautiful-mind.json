@@ -4,15 +4,132 @@
   "meta": {
     "title": "A Beautiful Mind",
     "poster": "https://image.tmdb.org/t/p/w500/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
-    "synopsis": "In a decades-spanning biopic, brilliant mathematician John Forbes Nash Jr. makes history in his field as schizophrenia sets in."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Dec. 14, 2001",
+    "ratingValue": "8.5",
+    "ratingCount": "4",
+    "synopsis": "In a decades-spanning biopic, brilliant mathematician John Forbes Nash Jr. makes history in his field as schizophrenia sets in.",
+    "infoFields": {
+      "Original title": "A Beautiful Mind",
+      "IMDb Rating": "8.2 987,712 votes",
+      "TMDb Rating": "7.858 9,878 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Ron Howard",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ron-howard/",
+      "image": "https://image.tmdb.org/t/p/w92/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+    },
+    {
+      "name": "Russell Crowe",
+      "role": "John Nash",
+      "url": "https://multimovies.city/cast/russell-crowe/",
+      "image": "https://image.tmdb.org/t/p/w92/cqMiQtOrdBC82oPCHIZcMNUI80C.jpg"
+    },
+    {
+      "name": "Jennifer Connelly",
+      "role": "Alicia Nash",
+      "url": "https://multimovies.city/cast/jennifer-connelly/",
+      "image": "https://image.tmdb.org/t/p/w92/bpILtSl6z5xc6YOAiPnDBlXDYMJ.jpg"
+    },
+    {
+      "name": "Ed Harris",
+      "role": "William Parcher",
+      "url": "https://multimovies.city/cast/ed-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/aAu9lJ02jlg0GAvv2vVnpJSDV1Y.jpg"
+    },
+    {
+      "name": "Paul Bettany",
+      "role": "Charles Herman",
+      "url": "https://multimovies.city/cast/paul-bettany/",
+      "image": "https://image.tmdb.org/t/p/w92/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+    },
+    {
+      "name": "Christopher Plummer",
+      "role": "Dr. Rosen",
+      "url": "https://multimovies.city/cast/christopher-plummer/",
+      "image": "https://image.tmdb.org/t/p/w92/s5Zd3jqWfiLNGy0wQ1bDurUqN7c.jpg"
+    },
+    {
+      "name": "Josh Lucas",
+      "role": "Martin Hansen",
+      "url": "https://multimovies.city/cast/josh-lucas/",
+      "image": "https://image.tmdb.org/t/p/w92/fNCvgTrXHG07cPcY7wPz4KtqSfW.jpg"
+    },
+    {
+      "name": "Adam Goldberg",
+      "role": "Richard Sol",
+      "url": "https://multimovies.city/cast/adam-goldberg/",
+      "image": "https://image.tmdb.org/t/p/w92/xEbqDqTWlSSCi4v8FI3S9YSEPJz.jpg"
+    },
+    {
+      "name": "Anthony Rapp",
+      "role": "Bender",
+      "url": "https://multimovies.city/cast/anthony-rapp/",
+      "image": "https://image.tmdb.org/t/p/w92/1Y2z2yrnauPxwXj1yqDboYKbErz.jpg"
+    },
+    {
+      "name": "Judd Hirsch",
+      "role": "Helinger",
+      "url": "https://multimovies.city/cast/judd-hirsch/",
+      "image": "https://image.tmdb.org/t/p/w92/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+    },
+    {
+      "name": "Jason Gray-Stanford",
+      "role": "Ainsley Neilson",
+      "url": "https://multimovies.city/cast/jason-gray-stanford/",
+      "image": "https://image.tmdb.org/t/p/w92/6kHaZ4dTuOdi65QsQPCw5lP1fpM.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zbpZOYrRCxEF8lFT5JC8XodEggC.jpg",
+    "https://image.tmdb.org/t/p/w300/vVBcIN68kFq681b4lObiNJhEVro.jpg",
+    "https://image.tmdb.org/t/p/w300/pRBBy46A54eiayd8zPbGOz2yKcH.jpg",
+    "https://image.tmdb.org/t/p/w300/uSvBDOtyxeVIC06xVGtiI4MwkFy.jpg",
+    "https://image.tmdb.org/t/p/w300/jl6fuM8twuNcWa3lKMrTKQ8u0Z5.jpg",
+    "https://image.tmdb.org/t/p/w300/5SUhfSPTQ2CMo4hkWbH9xlLv2x7.jpg",
+    "https://image.tmdb.org/t/p/w300/SQgp6zgJ8r0xKvOe8A83ENpvpG.jpg",
+    "https://image.tmdb.org/t/p/w300/9PwUQZDHGPKsgbnoBl1Ah9zXWjk.jpg",
+    "https://image.tmdb.org/t/p/w300/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+    "https://image.tmdb.org/t/p/w300/obJ4bpJ4E9qcoAbR2l3tlWrM9uz.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 3575,
+  "sources": [
+    "https://www.youtube.com/embed/WFJgUm7iOKw?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/q2htqr6io2mw"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 50614,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 50614,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:31:23.541665"
 }
