@@ -4,15 +4,128 @@
   "meta": {
     "title": "Remember the Titans",
     "poster": "https://image.tmdb.org/t/p/w500/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
-    "synopsis": "After leading his football team to 15 winning seasons, coach Bill Yoast is demoted and replaced by Herman Boone \u2013 tough, opinionated and as different from the beloved Yoast as he could be. The two men learn to overcome their differences and turn a group of hostile young men into champions."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Sep. 29, 2000",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "After leading his football team to 15 winning seasons, coach Bill Yoast is demoted and replaced by Herman Boone \u2013 tough, opinionated and as different from the beloved Yoast as he could be. The two men learn to overcome their differences and turn a group of hostile young men into champions.",
+    "infoFields": {
+      "Original title": "Remember the Titans",
+      "IMDb Rating": "7.8 240,623 votes",
+      "TMDb Rating": "7.64 2,750 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Boaz Yakin",
+      "role": "Director",
+      "url": "https://multimovies.city/director/boaz-yakin/",
+      "image": "https://image.tmdb.org/t/p/w92/fBMZdwXjIilRm4tWHs24fPnsVeq.jpg"
+    },
+    {
+      "name": "Denzel Washington",
+      "role": "Coach Herman Boone",
+      "url": "https://multimovies.city/cast/denzel-washington/",
+      "image": "https://image.tmdb.org/t/p/w92/9Iyt3wbsla5bM6IzbICDVnBhkER.jpg"
+    },
+    {
+      "name": "Will Patton",
+      "role": "Coach Bill Yoast",
+      "url": "https://multimovies.city/cast/will-patton/",
+      "image": "https://image.tmdb.org/t/p/w92/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+    },
+    {
+      "name": "Wood Harris",
+      "role": "Julius Campbell",
+      "url": "https://multimovies.city/cast/wood-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/v3puIl2KncqUd6amDyD1Y0crzkF.jpg"
+    },
+    {
+      "name": "Ryan Hurst",
+      "role": "Gerry Bertier",
+      "url": "https://multimovies.city/cast/ryan-hurst/",
+      "image": "https://image.tmdb.org/t/p/w92/467wpYYeeDyF4MeoDMuNp4bwgzH.jpg"
+    },
+    {
+      "name": "Donald Faison",
+      "role": "Petey Jones",
+      "url": "https://multimovies.city/cast/donald-faison/",
+      "image": "https://image.tmdb.org/t/p/w92/gNwWP1CHob9Y8fjY69w7EwGxMoz.jpg"
+    },
+    {
+      "name": "Craig Kirkwood",
+      "role": "Jerry 'Rev' Harris",
+      "url": "https://multimovies.city/cast/craig-kirkwood/",
+      "image": "https://image.tmdb.org/t/p/w92/mjZXTknIlvqy21ypa2LHSY0erhA.jpg"
+    },
+    {
+      "name": "Ethan Suplee",
+      "role": "Louie Lastik",
+      "url": "https://multimovies.city/cast/ethan-suplee/",
+      "image": "https://image.tmdb.org/t/p/w92/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
+    },
+    {
+      "name": "Kip Pardue",
+      "role": "Ronnie 'Sunshine' Bass",
+      "url": "https://multimovies.city/cast/kip-pardue/",
+      "image": "https://image.tmdb.org/t/p/w92/zWLkC7AodrsZ2jooVMwwBWkAQsB.jpg"
+    },
+    {
+      "name": "Hayden Panettiere",
+      "role": "Sheryl Yoast",
+      "url": "https://multimovies.city/cast/hayden-panettiere/",
+      "image": "https://image.tmdb.org/t/p/w92/48VbU12uGcQAczOlXzazwMZcwsx.jpg"
+    },
+    {
+      "name": "Nicole Ari Parker",
+      "role": "Carol Boone",
+      "url": "https://multimovies.city/cast/nicole-ari-parker/",
+      "image": "https://image.tmdb.org/t/p/w92/uy630vFQOKWpuEDFF2DuCQ1Oiez.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/cMUReq46MSz6WWsdW1Gu8oecJlc.jpg",
+    "https://image.tmdb.org/t/p/w300/7lwo8VLHD8Va49DKuszabpm41V9.jpg",
+    "https://image.tmdb.org/t/p/w300/u4x3I7l3wwBY2bz1rQLPqAZCw5o.jpg",
+    "https://image.tmdb.org/t/p/w300/beoh9rjElzgin0VFTDZL0RHCp9I.jpg",
+    "https://image.tmdb.org/t/p/w300/o2H2u5itFbLnoObSf5Fb4nDws9F.jpg",
+    "https://image.tmdb.org/t/p/w300/a2mihyPXFoUgtYdSIOaJtk8SU6u.jpg",
+    "https://image.tmdb.org/t/p/w300/czoQ98p3f9y2xGD7w6fU8nCjvt2.jpg",
+    "https://image.tmdb.org/t/p/w300/q0ZWFzrC98VooZqJKKY7LYyumba.jpg",
+    "https://image.tmdb.org/t/p/w300/hq5cTTRhIDVa6rYXbIJ3XGDcaWR.jpg",
+    "https://image.tmdb.org/t/p/w300/hzAwd8F3zLTpN7yrnQoi2bAc01S.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 334,
+  "sources": [
+    "https://www.youtube.com/embed/nPhu9XsRl4M?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/xeqlkgg"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 88658,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 88658,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:27:30.990550"
 }
