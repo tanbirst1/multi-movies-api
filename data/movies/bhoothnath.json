@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/bhoothnath/",
+  "meta": {
+    "title": "Bhoothnath",
+    "poster": "https://image.tmdb.org/t/p/w500/2Tvwmsu4ihzDiltXxPWI4RwTF3W.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "May. 09, 2008",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Banku, his mother, Anjali Sharma and father move in to their new house \u2014 the Nath villa, unaware of the fact that the house is inhabited by a ghost. It is learnt the ghost is not too happy with his new housemates. But what the ghost is not prepared for is his unlikely friendship with Banku. Now Banku must uncover the reason why his ghostly friend is stuck and help him to attain salvation.",
+    "infoFields": {
+      "Original title": "\u092d\u0942\u0924\u0928\u093e\u0925",
+      "IMDb Rating": "6.3 10,263 votes",
+      "TMDb Rating": "6.132 87 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Vivek Sharma",
+      "role": "Director",
+      "url": "https://multimovies.city/director/vivek-sharma/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Bhootnath (Kailash Nath)",
+      "url": "https://multimovies.city/cast/amitabh-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/yAvq3EG5W5WaegZHB7gNdlM2KED.jpg"
+    },
+    {
+      "name": "Juhi Chawla",
+      "role": "Anjali Sharma",
+      "url": "https://multimovies.city/cast/juhi-chawla/",
+      "image": "https://image.tmdb.org/t/p/w92/gyZLscSW3dYYe3N5K2YcYtRnbq5.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Aditya Sharma",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Rajpal Yadav",
+      "role": "Anthony",
+      "url": "https://multimovies.city/cast/rajpal-yadav/",
+      "image": "https://image.tmdb.org/t/p/w92/zhzfI91YuODuC3ZY2ABytw68C37.jpg"
+    },
+    {
+      "name": "Aman Siddiqui",
+      "role": "Aman \"Banku\" Sharma",
+      "url": "https://multimovies.city/cast/aman-siddiqui/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Priyanshu Chatterjee",
+      "role": "Vijay Nath",
+      "url": "https://multimovies.city/cast/priyanshu-chatterjee/",
+      "image": "https://image.tmdb.org/t/p/w92/fPAIAZcdGD2UBMwBluqiYi5pXHb.jpg"
+    },
+    {
+      "name": "Satish Shah",
+      "role": "Principal Irani",
+      "url": "https://multimovies.city/cast/satish-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/yLZtBHVkWUIPWcrsWHeVsRG7BwH.jpg"
+    },
+    {
+      "name": "Nina Kulkarni",
+      "role": "Nirmala",
+      "url": "https://multimovies.city/cast/nina-kulkarni/",
+      "image": "https://image.tmdb.org/t/p/w92/m3UAaFNz2RjzEpdZVXEUUk6RdzQ.jpg"
+    },
+    {
+      "name": "Delnaaz Irani",
+      "role": "Jojo's Mother",
+      "url": "https://multimovies.city/cast/delnaaz-irani/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Aashish Chaudhary",
+      "role": "Rohan",
+      "url": "https://multimovies.city/cast/aashish-chaudhary/",
+      "image": "https://image.tmdb.org/t/p/w92/qnKKDaOVOocCDbYGsIdF9z1HLwu.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kozAnxdmJLgAux008LztplzhHy1.jpg"
+  ],
+  "similar": [],
+  "views": 670,
+  "sources": [
+    "https://multimoviesshg.com/e/p0d64ecvdzcl"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 12771,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:21:27.054304"
+}
