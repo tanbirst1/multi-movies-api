@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-basketball-diaries/",
+  "meta": {
+    "title": "The Basketball Diaries",
+    "poster": "https://image.tmdb.org/t/p/w500/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Apr. 21, 1995",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A high school basketball player\u2019s life turns upside down after free-falling into the harrowing world of drug addiction.",
+    "infoFields": {
+      "Original title": "The Basketball Diaries",
+      "IMDb Rating": "7.3 127,306 votes",
+      "TMDb Rating": "7.4 2,053 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Scott Kalvert",
+      "role": "Director",
+      "url": "https://multimovies.city/director/scott-kalvert/",
+      "image": "https://image.tmdb.org/t/p/w92/ed85VI797zqwHT1zkeh49X9Dec4.jpg"
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "role": "Jim Carroll",
+      "url": "https://multimovies.city/cast/leonardo-dicaprio/",
+      "image": "https://image.tmdb.org/t/p/w92/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "name": "Mark Wahlberg",
+      "role": "Mickey",
+      "url": "https://multimovies.city/cast/mark-wahlberg/",
+      "image": "https://image.tmdb.org/t/p/w92/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+    },
+    {
+      "name": "James Madio",
+      "role": "Pedro",
+      "url": "https://multimovies.city/cast/james-madio/",
+      "image": "https://image.tmdb.org/t/p/w92/v17uyHhMLooVWKjMRS4NoGeTPyB.jpg"
+    },
+    {
+      "name": "Lorraine Bracco",
+      "role": "Mrs. Carroll",
+      "url": "https://multimovies.city/cast/lorraine-bracco/",
+      "image": "https://image.tmdb.org/t/p/w92/cmVcc09jfmoOqGLY595aBQu3IsP.jpg"
+    },
+    {
+      "name": "Patrick McGaw",
+      "role": "Neutron",
+      "url": "https://multimovies.city/cast/patrick-mcgaw/",
+      "image": "https://image.tmdb.org/t/p/w92/bx30MtnwXGgcH1MTJaFeSHNIZg1.jpg"
+    },
+    {
+      "name": "Ernie Hudson",
+      "role": "Reggie",
+      "url": "https://multimovies.city/cast/ernie-hudson/",
+      "image": "https://image.tmdb.org/t/p/w92/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+    },
+    {
+      "name": "Bruno Kirby",
+      "role": "Swifty",
+      "url": "https://multimovies.city/cast/bruno-kirby/",
+      "image": "https://image.tmdb.org/t/p/w92/qFvS4YHzZeIc77Gom56XkTn5wxA.jpg"
+    },
+    {
+      "name": "Michael Imperioli",
+      "role": "Bobby",
+      "url": "https://multimovies.city/cast/michael-imperioli/",
+      "image": "https://image.tmdb.org/t/p/w92/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "name": "Juliette Lewis",
+      "role": "Diane Moody",
+      "url": "https://multimovies.city/cast/juliette-lewis/",
+      "image": "https://image.tmdb.org/t/p/w92/oErIsGmtxeluwtzRoWI3dx2pYGQ.jpg"
+    },
+    {
+      "name": "Manny Alfaro",
+      "role": "Manny",
+      "url": "https://multimovies.city/cast/manny-alfaro/",
+      "image": "https://image.tmdb.org/t/p/w92/uDwLeHYpCRD9RGLaDRfUDQnquSU.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/oDdRrwTCgaDzAshScrFO09qWqPB.jpg",
+    "https://image.tmdb.org/t/p/w300/gsJsFlnNrjjfVHjRW9sSpVDpwIx.jpg",
+    "https://image.tmdb.org/t/p/w300/nb8pMW3o85jATvhz7y6clAFlL1u.jpg",
+    "https://image.tmdb.org/t/p/w300/kPxvR5vUm5oCZEpsfL3CQsjbEKP.jpg",
+    "https://image.tmdb.org/t/p/w300/eaAIv2D2x4jPz62p1GKfO5vO89v.jpg",
+    "https://image.tmdb.org/t/p/w300/n6AvyZXcApmneoSUgzpfXqMSOYm.jpg",
+    "https://image.tmdb.org/t/p/w300/nbD4Fn38Oqpw6WKBV9X7JmhgOyW.jpg",
+    "https://image.tmdb.org/t/p/w300/iWSDEAeHpETAd42wEiisFjM6xXP.jpg",
+    "https://image.tmdb.org/t/p/w300/kAkB5EEEz4Th6xVo9dlxFhb5Owe.jpg",
+    "https://image.tmdb.org/t/p/w300/3uZBTYkX1PCxKvCleTleQfNesew.jpg"
+  ],
+  "similar": [],
+  "views": 1171,
+  "sources": [
+    "https://www.youtube.com/embed/W5eVnwe6Pxs?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/t7qruij"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 83492,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 83492,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
