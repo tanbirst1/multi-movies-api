@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/knowing/",
+  "meta": {
+    "title": "Knowing",
+    "poster": "https://image.tmdb.org/t/p/w500/nO9gTGDNdYnPr9ILKNQmk6EVTVR.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 19, 2009",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "A teacher opens a time capsule that has been dug up at his son\u2019s elementary school; in it are some chilling predictions \u2014 some that have already occurred and others that are about to \u2014 that lead him to believe his family plays a role in the events that are about to unfold.",
+    "infoFields": {
+      "Original title": "Knowing",
+      "IMDb Rating": "6.2 241,434 votes",
+      "TMDb Rating": "6.174 4,809 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Steve E. Andrews",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steve-e-andrews/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Nicolas Cage",
+      "role": "John Koestler",
+      "url": "https://multimovies.city/cast/nicolas-cage/",
+      "image": "https://image.tmdb.org/t/p/w92/ar33qcWbEgREn07ZpXv5Pbj8hbM.jpg"
+    },
+    {
+      "name": "Rose Byrne",
+      "role": "Diana Wayland",
+      "url": "https://multimovies.city/cast/rose-byrne/",
+      "image": "https://image.tmdb.org/t/p/w92/4oQWCLK7gd6RNKF0WJipJo7TyFP.jpg"
+    },
+    {
+      "name": "Chandler Canterbury",
+      "role": "Caleb Koestler",
+      "url": "https://multimovies.city/cast/chandler-canterbury/",
+      "image": "https://image.tmdb.org/t/p/w92/flfh9tLEiERwZFQPlcShejI1TS8.jpg"
+    },
+    {
+      "name": "Ben Mendelsohn",
+      "role": "Phil Bergman",
+      "url": "https://multimovies.city/cast/ben-mendelsohn/",
+      "image": "https://image.tmdb.org/t/p/w92/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg"
+    },
+    {
+      "name": "Nadia Townsend",
+      "role": "Grace Koestler",
+      "url": "https://multimovies.city/cast/nadia-townsend/",
+      "image": "https://image.tmdb.org/t/p/w92/38HQL7ILGNo7SbhqrVtF3Yvg7Gb.jpg"
+    },
+    {
+      "name": "Terry Camilleri",
+      "role": "Cashier",
+      "url": "https://multimovies.city/cast/terry-camilleri/",
+      "image": "https://image.tmdb.org/t/p/w92/7snba5wE56wgHLUrASQxZySSm8C.jpg"
+    },
+    {
+      "name": "Lara Robinson",
+      "role": "Lucinda Embry / Abby Wayland",
+      "url": "https://multimovies.city/cast/lara-robinson/",
+      "image": "https://image.tmdb.org/t/p/w92/cv4oQY0PSCEmPL82Ez5E4LTq6aA.jpg"
+    },
+    {
+      "name": "Adrienne Pickering",
+      "role": "Allison",
+      "url": "https://multimovies.city/cast/adrienne-pickering/",
+      "image": "https://image.tmdb.org/t/p/w92/pvbVipsUBAGy9S6gJx0CL5KDqYl.jpg"
+    },
+    {
+      "name": "Danielle Carter",
+      "role": "Miss Taylor (1959)",
+      "url": "https://multimovies.city/cast/danielle-carter/",
+      "image": "https://image.tmdb.org/t/p/w92/5zZDYQs3pIs4XjSztjIjhDloLlv.jpg"
+    },
+    {
+      "name": "Alethea McGrath",
+      "role": "Miss Taylor (2009)",
+      "url": "https://multimovies.city/cast/alethea-mcgrath/",
+      "image": "https://image.tmdb.org/t/p/w92/9tMGrOn4AcGxlnrsO9NxQeY9JYy.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/tuYGaYW33H9qfmNRvyTXPXKtgeJ.jpg",
+    "https://image.tmdb.org/t/p/w300/imShLLSB9rCzgJJRfVWY3J6JSY3.jpg",
+    "https://image.tmdb.org/t/p/w300/s6h8MemlWFshLmPfd08syBpaTTK.jpg",
+    "https://image.tmdb.org/t/p/w300/hPd1Ji4hxU1xVjM4RGrHx9L0fDz.jpg",
+    "https://image.tmdb.org/t/p/w300/oZqounvawm4hDxpDGDHLmVBGJBr.jpg"
+  ],
+  "similar": [],
+  "views": 3933,
+  "sources": [
+    "https://www.youtube.com/embed/A2oDiEVXuDo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/kzfyudgc2rxp"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26225,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 26225,
+      "nume": 1,
+      "title": "g"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:31:10.953229"
+}
