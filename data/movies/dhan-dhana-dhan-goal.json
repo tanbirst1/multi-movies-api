@@ -1,0 +1,108 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dhan-dhana-dhan-goal/",
+  "meta": {
+    "title": "Dhan Dhana Dhan Goal",
+    "poster": "https://image.tmdb.org/t/p/w500/blecQPVoYDTNKPMYlOm2WNHuSYw.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Nov. 23, 2007",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "A bankrupt soccer team must win the championship or break apart.",
+    "infoFields": {
+      "Original title": "\u0927\u0928 \u0927\u0928\u093e \u0927\u0928 \u0917\u094b\u092f\u0932",
+      "IMDb Rating": "5.1 2,742 votes",
+      "TMDb Rating": "5.12 25 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Vivek Agnihotri",
+      "role": "Director",
+      "url": "https://multimovies.city/director/vivek-agnihotri/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "John Abraham",
+      "role": "Sunny Bhasin",
+      "url": "https://multimovies.city/cast/john-abraham/",
+      "image": "https://image.tmdb.org/t/p/w92/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg"
+    },
+    {
+      "name": "Bipasha Basu",
+      "role": "Rumana",
+      "url": "https://multimovies.city/cast/bipasha-basu/",
+      "image": "https://image.tmdb.org/t/p/w92/j4p0NOHUNvOCBcfaZiCoyxdJJou.jpg"
+    },
+    {
+      "name": "Arshad Warsi",
+      "role": "Shaan Ali Khan",
+      "url": "https://multimovies.city/cast/arshad-warsi/",
+      "image": "https://image.tmdb.org/t/p/w92/1Hv35hhpfwNXNm0DqJxpfNJt1q.jpg"
+    },
+    {
+      "name": "Boman Irani",
+      "role": "Tony Singh",
+      "url": "https://multimovies.city/cast/boman-irani/",
+      "image": "https://image.tmdb.org/t/p/w92/u71heG3Xw9IAwNpuufoelfjyYLG.jpg"
+    },
+    {
+      "name": "Dalip Tahil",
+      "role": "Johny Bakshi",
+      "url": "https://multimovies.city/cast/dalip-tahil/",
+      "image": "https://image.tmdb.org/t/p/w92/4kgTd5aKh3IRxrJ7uG5h9mojb57.jpg"
+    },
+    {
+      "name": "Raj Zutshi",
+      "role": "Monty Singh",
+      "url": "https://multimovies.city/cast/raj-zutshi/",
+      "image": "https://image.tmdb.org/t/p/w92/aJmWL08uj2oVGd2cJmBuzNSO2LY.jpg"
+    },
+    {
+      "name": "Naveen Bawa",
+      "role": "Hanif",
+      "url": "https://multimovies.city/cast/naveen-bawa/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sana Khaan",
+      "role": "(Special appearance)",
+      "url": "https://multimovies.city/cast/sana-khaan/",
+      "image": "https://image.tmdb.org/t/p/w92/nYcVFYzA1Tv3kbrGri34YO8sbMg.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 1149,
+  "sources": [
+    "https://www.youtube.com/embed/Qniw6e8iUOw?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/71q6jwxtdcat"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 12291,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 12291,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:13:45.407934"
+}
