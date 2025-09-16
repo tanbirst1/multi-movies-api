@@ -1,0 +1,117 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/chandni-chowk-to-china/",
+  "meta": {
+    "title": "Chandni Chowk to China",
+    "poster": "https://image.tmdb.org/t/p/w500/tGUVeDAsNArrogQBoV7jVhjkqHh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      }
+    ],
+    "firstAirDate": "Jan. 16, 2009",
+    "ratingValue": "6.9",
+    "ratingCount": "13",
+    "synopsis": "Based in Delhi\u2019s Chandni Chowk, orphaned Sidhu is adopted by the owner of Bajrang Bali Parathas, known simply as Dada. Years later Sidhu has grown up and is an expert at slicing vegetables.",
+    "infoFields": {
+      "Original title": "\u091a\u093e\u0902\u0926\u0928\u0940 \u091a\u094c\u0915 \u091f\u0942 \u091a\u093e\u0907\u0928\u093e",
+      "IMDb Rating": "4.2 8,867 votes",
+      "TMDb Rating": "4.623 57 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Nikkhil Advani",
+      "role": "Director",
+      "url": "https://multimovies.city/director/nikkhil-advani/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Sidhu Sharma / Liu Sheng",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/gaINfJtR19rNTIsI2cF3KFjyAB7.jpg"
+    },
+    {
+      "name": "Mithun Chakraborty",
+      "role": "Dada (Extended Appearance)",
+      "url": "https://multimovies.city/cast/mithun-chakraborty/",
+      "image": "https://image.tmdb.org/t/p/w92/4z8c5YAe0TCkEZNHXWlKxNTD8sV.jpg"
+    },
+    {
+      "name": "Deepika Padukone",
+      "role": "Sakhi (Ms.TSM) / Suzy (Meow Meow)",
+      "url": "https://multimovies.city/cast/deepika-padukone/",
+      "image": "https://image.tmdb.org/t/p/w92/kBGmOExBHwbVZDmGegGx3qZWw89.jpg"
+    },
+    {
+      "name": "Gordon Liu Chia-hui",
+      "role": "Hojo",
+      "url": "https://multimovies.city/cast/gordon-liu-chia-hui/",
+      "image": "https://image.tmdb.org/t/p/w92/hLLDmQbIi8EO0hsBbgLAswqaOrq.jpg"
+    },
+    {
+      "name": "Ranvir Shorey",
+      "role": "Chopstick",
+      "url": "https://multimovies.city/cast/ranvir-shorey/",
+      "image": "https://image.tmdb.org/t/p/w92/8W7sdv239O57UWXqn82dMOma746.jpg"
+    },
+    {
+      "name": "Roger Yuan",
+      "role": "Chiang Kohung",
+      "url": "https://multimovies.city/cast/roger-yuan/",
+      "image": "https://image.tmdb.org/t/p/w92/A1iQKcfFvo1OXBkyuHYAgXB5ctb.jpg"
+    },
+    {
+      "name": "Kiran Juneja",
+      "role": "Mrs. Kohung",
+      "url": "https://multimovies.city/cast/kiran-juneja/",
+      "image": "https://image.tmdb.org/t/p/w92/hJfM1saaHa0FggxA89RZhDMGXgU.jpg"
+    },
+    {
+      "name": "Tiffany Lau Yuk-Ting",
+      "role": "",
+      "url": "https://multimovies.city/cast/tiffany-lau-yuk-ting/",
+      "image": "https://image.tmdb.org/t/p/w92/zi7jiT5rpqnhwJRjx8TMnyV0zA7.jpg"
+    },
+    {
+      "name": "Conan Stevens",
+      "role": "Joey",
+      "url": "https://multimovies.city/cast/conan-stevens/",
+      "image": "https://image.tmdb.org/t/p/w92/t0yJVjekKzNhM6p7UjEuXA10tgJ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mFD22HgbZYhGeMkEviF7IqHUsc6.jpg",
+    "https://image.tmdb.org/t/p/w300/yf6l6dMeR7eAtoNE9VpkO2HcZsy.jpg",
+    "https://image.tmdb.org/t/p/w300/mV3ECLr4o06G4eeN4EpleDDOnC5.jpg",
+    "https://image.tmdb.org/t/p/w300/n5yzghHzGVebbCrP7mNwTGoPd12.jpg",
+    "https://image.tmdb.org/t/p/w300/gEmHHaiveZbwplPNrCaXznJBkkH.jpg"
+  ],
+  "similar": [],
+  "views": 31423,
+  "sources": [
+    "https://multimoviesshg.com/e/ihkk0o4ec8we"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 4863,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:26:37.477489"
+}
