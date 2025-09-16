@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/munna-bhai-m-b-b-s/",
+  "meta": {
+    "title": "Munna Bhai M.B.B.S.",
+    "poster": "https://image.tmdb.org/t/p/w500/nZNUTxGsSB4nLEC9Bpa2xfu81qV.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Dec. 19, 2003",
+    "ratingValue": "9.3",
+    "ratingCount": "12",
+    "synopsis": "A gangster sets out to fulfill his father\u2019s dream of becoming a doctor.",
+    "infoFields": {
+      "Original title": "\u092e\u0941\u0928\u094d\u0928\u093e \u092d\u093e\u0908 \u090f\u092e \u092c\u0940 \u092c\u0940 \u090f\u0938",
+      "IMDb Rating": "8.1 84,189 votes",
+      "TMDb Rating": "7.16 243 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rajkumar Hirani",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rajkumar-hirani/",
+      "image": "https://image.tmdb.org/t/p/w92/xwpN5swbmjmlaN0B8Eac5jyN4JQ.jpg"
+    },
+    {
+      "name": "Sanjay Dutt",
+      "role": "Murli Prasad Sharma aka Munna Bhai",
+      "url": "https://multimovies.city/cast/sanjay-dutt/",
+      "image": "https://image.tmdb.org/t/p/w92/zhYAdzlDMbhWr8ZBVDK02nrwnOJ.jpg"
+    },
+    {
+      "name": "Arshad Warsi",
+      "role": "Sankeshwar aka Circuit",
+      "url": "https://multimovies.city/cast/arshad-warsi/",
+      "image": "https://image.tmdb.org/t/p/w92/1Hv35hhpfwNXNm0DqJxpfNJt1q.jpg"
+    },
+    {
+      "name": "Sunil Dutt",
+      "role": "Shri Hari Prasad Sharma (Munna's father)",
+      "url": "https://multimovies.city/cast/sunil-dutt/",
+      "image": "https://image.tmdb.org/t/p/w92/t7S8wplP3dPYPC8IvETVcLFBv4p.jpg"
+    },
+    {
+      "name": "Gracy Singh",
+      "role": "Dr. Suman Asthana (Chinki)",
+      "url": "https://multimovies.city/cast/gracy-singh/",
+      "image": "https://image.tmdb.org/t/p/w92/nJRYXqpctHNuswpesaSm6GFsyX0.jpg"
+    },
+    {
+      "name": "Rohini Hattangadi",
+      "role": "Parvati Sharma (Munna's mother)",
+      "url": "https://multimovies.city/cast/rohini-hattangadi/",
+      "image": "https://image.tmdb.org/t/p/w92/tJFxSFomGgnujCXFBPpyJGkwo8c.jpg"
+    },
+    {
+      "name": "Boman Irani",
+      "role": "Dr. J. C. Asthana",
+      "url": "https://multimovies.city/cast/boman-irani/",
+      "image": "https://image.tmdb.org/t/p/w92/u71heG3Xw9IAwNpuufoelfjyYLG.jpg"
+    },
+    {
+      "name": "Jimmy Shergill",
+      "role": "Zaheer",
+      "url": "https://multimovies.city/cast/jimmy-shergill/",
+      "image": "https://image.tmdb.org/t/p/w92/A3fJrhIgM7Q5TGwbQYxYBjNsV37.jpg"
+    },
+    {
+      "name": "Kurush Deboo",
+      "role": "Dr. Rustam Pavri",
+      "url": "https://multimovies.city/cast/kurush-deboo/",
+      "image": "https://image.tmdb.org/t/p/w92/lH8PVl0Ph9xebEwj7vnEsFs7tN4.jpg"
+    },
+    {
+      "name": "Yatin Karyekar",
+      "role": "Anand Banerjee",
+      "url": "https://multimovies.city/cast/yatin-karyekar/",
+      "image": "https://image.tmdb.org/t/p/w92/ugntR3EIb0SWV1HhBK7wUtPCB1h.jpg"
+    },
+    {
+      "name": "Mumaith Khan",
+      "role": "Reena",
+      "url": "https://multimovies.city/cast/mumaith-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/nacJyCi8jJzlUlOSGAU1mUyQsHm.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/smaFFzbd1flJKUqDI2ylljQ8Pki.jpg",
+    "https://image.tmdb.org/t/p/w300/dvrd68zxGVlyCBj6a3mQdivf5IO.jpg",
+    "https://image.tmdb.org/t/p/w300/f6cj0BBqc2Nt8Iak4wiJXmCtGnv.jpg",
+    "https://image.tmdb.org/t/p/w300/zTKy4v6ZqGc6yaL1Vm3NaOfKkTE.jpg",
+    "https://image.tmdb.org/t/p/w300/gpqDlb9GoWOtsGTc3nNacHbwmrR.jpg"
+  ],
+  "similar": [],
+  "views": 14499,
+  "sources": [
+    "https://www.youtube.com/embed/6lCGvu-hwX4?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ftn7zt1t1h6g"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7912,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7912,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:45:31.692306"
+}
