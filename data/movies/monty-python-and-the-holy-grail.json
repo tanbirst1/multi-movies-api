@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/monty-python-and-the-holy-grail/",
+  "meta": {
+    "title": "Monty Python and the Holy Grail",
+    "poster": "https://image.tmdb.org/t/p/w500/xZ0rC0kuIsjk6RncpNK73kwstEP.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "May. 25, 1975",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not to enter, as \u201cit is a silly place\u201d.",
+    "infoFields": {
+      "Original title": "Monty Python and the Holy Grail",
+      "IMDb Rating": "8.2 549,699 votes",
+      "TMDb Rating": "7.804 5,076 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Terry Gilliam",
+      "role": "Director",
+      "url": "https://multimovies.city/director/terry-gilliam/",
+      "image": "https://image.tmdb.org/t/p/w92/kODccJVnrt4ioPbJVEnkkKPHbG7.jpg"
+    },
+    {
+      "name": "Graham Chapman",
+      "role": "King Arthur / Voice of God / Middle Head / Hiccoughing Guard",
+      "url": "https://multimovies.city/cast/graham-chapman/",
+      "image": "https://image.tmdb.org/t/p/w92/qmTXDGNxuuwQ4IGNHwxmCdjuTGk.jpg"
+    },
+    {
+      "name": "John Cleese",
+      "role": "Second Swallow-Savvy Guard / The Black Knight / Peasant 3 / Sir Launcelot the Brave / Taunting French Guard / Tim the Enchanter",
+      "url": "https://multimovies.city/cast/john-cleese/",
+      "image": "https://image.tmdb.org/t/p/w92/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+    },
+    {
+      "name": "Eric Idle",
+      "role": "Dead Collector / Peasant 1 / Sir Robin the Not-Quite-So-Brave-as-Sir Launcelot / First Swamp Castle Guard / Concorde / Roger the Shrubber / Brother Maynard",
+      "url": "https://multimovies.city/cast/eric-idle/",
+      "image": "https://image.tmdb.org/t/p/w92/fXPCAvoXW3gbpqWhzjePXSZ4VPi.jpg"
+    },
+    {
+      "name": "Terry Gilliam",
+      "role": "Patsy / Green Knight / Old Man from Scene 24 (Bridgekeeper) / Sir Bors / Animator / Gorilla Hand",
+      "url": "https://multimovies.city/cast/terry-gilliam/",
+      "image": "https://image.tmdb.org/t/p/w92/kODccJVnrt4ioPbJVEnkkKPHbG7.jpg"
+    },
+    {
+      "name": "Terry Jones",
+      "role": "Dennis's Mother / Sir Bedevere / Left Head / Prince Herbert / Voice of Cartoon Scribe",
+      "url": "https://multimovies.city/cast/terry-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/keJpqxK8gykrrK2W6yeSeDUbYDK.jpg"
+    },
+    {
+      "name": "Michael Palin",
+      "role": "First Swallow-Savvy Guard / Dennis / Peasant 2 / Right Head / Sir Galahad the Pure / Narrator / King of Swamp Castle / Brother Maynard's Brother / Leader of The Knights Who Say NI!",
+      "url": "https://multimovies.city/cast/michael-palin/",
+      "image": "https://image.tmdb.org/t/p/w92/7qCp6M2NxMWpUmO2t6IqHGNlBjz.jpg"
+    },
+    {
+      "name": "Connie Booth",
+      "role": "The Witch",
+      "url": "https://multimovies.city/cast/connie-booth/",
+      "image": "https://image.tmdb.org/t/p/w92/wbqzdZDC0WjS1nYrfJxxKmB9Fzn.jpg"
+    },
+    {
+      "name": "Carol Cleveland",
+      "role": "Zoot / Dingo",
+      "url": "https://multimovies.city/cast/carol-cleveland/",
+      "image": "https://image.tmdb.org/t/p/w92/woaXQdK0DZpWSxvRBCpmWZn7ZAn.jpg"
+    },
+    {
+      "name": "Neil Innes",
+      "role": "First Monk / Singing Minstrel / Page Crushed by the Rabbit / Peasant #4",
+      "url": "https://multimovies.city/cast/neil-innes/",
+      "image": "https://image.tmdb.org/t/p/w92/xKAs77iIppfUMfW6HhGT6YVfon4.jpg"
+    },
+    {
+      "name": "Bee Duffell",
+      "role": "Old Crone",
+      "url": "https://multimovies.city/cast/bee-duffell/",
+      "image": "https://image.tmdb.org/t/p/w92/aChjOl9ijbOd8NvQnevFcZR7HoU.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nWkxOXpctN2NuToGzwCSdFdiht0.jpg",
+    "https://image.tmdb.org/t/p/w300/f3EfYaQCLIVKURufYN5DFk8hAKm.jpg",
+    "https://image.tmdb.org/t/p/w300/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+    "https://image.tmdb.org/t/p/w300/2AUvfoZlOwlQgMyNxAXAqUbTfwi.jpg",
+    "https://image.tmdb.org/t/p/w300/3NDoDo5Ofxh1iWQUIwTgAwO5Xe6.jpg",
+    "https://image.tmdb.org/t/p/w300/z7jmrpIUdaecsww7GeVwSI8GH7n.jpg",
+    "https://image.tmdb.org/t/p/w300/7qOpWe1Fk58MFEmcsGs2nrbv7Ow.jpg",
+    "https://image.tmdb.org/t/p/w300/8apZe1cW55VTLvegseIpuEwAVZq.jpg",
+    "https://image.tmdb.org/t/p/w300/lW93sqIZ0tYaJfEh9YOpkZn7DOy.jpg",
+    "https://image.tmdb.org/t/p/w300/9rSeoG2xQDt290WXja7rOsZjiCH.jpg"
+  ],
+  "similar": [],
+  "views": 1043,
+  "sources": [
+    "https://www.youtube.com/embed/qk4k0brx1P0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/zh7gaglb3j26",
+    "https://sbplay.org/embed-eb5cc3qcgx6h.html",
+    "https://dood.la/e/gewe4juag26w",
+    "https://mixdrop.co/e/n099m700bz04o7",
+    "https://hydrax.net/watch?v=NIX3hZxd_"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8107,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 8107,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 8107,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 8107,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 8107,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 8107,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
