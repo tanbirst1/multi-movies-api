@@ -4,15 +4,125 @@
   "meta": {
     "title": "Scooby-Doo! and the Cyber Chase",
     "poster": "https://image.tmdb.org/t/p/w500/mKmFscYvGLMnZ5TslwxCge5oELO.jpg",
-    "synopsis": "When Scooby and the gang get trapped in a video game created for the gang, they must fight against the \u2018Phantom Virus.\u2019 To escape the game they must go level by level and defeat the game once and for all."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      }
+    ],
+    "firstAirDate": "Oct. 09, 2001",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "When Scooby and the gang get trapped in a video game created for the gang, they must fight against the \u2018Phantom Virus.\u2019 To escape the game they must go level by level and defeat the game once and for all.",
+    "infoFields": {
+      "Original title": "Scooby-Doo! and the Cyber Chase",
+      "IMDb Rating": "7.1 10,297 votes",
+      "TMDb Rating": "7.3 515 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Jim Stenstrum",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jim-stenstrum/",
+      "image": "https://image.tmdb.org/t/p/w92/s3NzbcuFDOMMC0mZsGY7RWK2LYO.jpg"
+    },
+    {
+      "name": "Scott Innes",
+      "role": "Scooby-Doo / Shaggy Rogers (voice)",
+      "url": "https://multimovies.city/cast/scott-innes/",
+      "image": "https://image.tmdb.org/t/p/w92/9edJ7Gqa9RIRUusG2ZCvEcwYTDx.jpg"
+    },
+    {
+      "name": "Frank Welker",
+      "role": "Fred Jones (voice)",
+      "url": "https://multimovies.city/cast/frank-welker/",
+      "image": "https://image.tmdb.org/t/p/w92/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "name": "Grey DeLisle",
+      "role": "Daphne Blake (voice)",
+      "url": "https://multimovies.city/cast/grey-delisle/",
+      "image": "https://image.tmdb.org/t/p/w92/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "name": "B.J. Ward",
+      "role": "Velma Dinkley (voice)",
+      "url": "https://multimovies.city/cast/b-j-ward/",
+      "image": "https://image.tmdb.org/t/p/w92/yAhCijxDiron64XjbIXAAECgVj0.jpg"
+    },
+    {
+      "name": "Mikey Kelley",
+      "role": "Bill McLemore (voice)",
+      "url": "https://multimovies.city/cast/mikey-kelley/",
+      "image": "https://image.tmdb.org/t/p/w92/pXxi5KjwpYacmaKAXYfTiOkAlTF.jpg"
+    },
+    {
+      "name": "Tom Kane",
+      "role": "Professor Robert Kaufman (voice)",
+      "url": "https://multimovies.city/cast/tom-kane/",
+      "image": "https://image.tmdb.org/t/p/w92/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+    },
+    {
+      "name": "Bob Bergen",
+      "role": "Eric Staufer (voice)",
+      "url": "https://multimovies.city/cast/bob-bergen/",
+      "image": "https://image.tmdb.org/t/p/w92/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+    },
+    {
+      "name": "Joe Alaskey",
+      "role": "Officer Wembley (voice)",
+      "url": "https://multimovies.city/cast/joe-alaskey/",
+      "image": "https://image.tmdb.org/t/p/w92/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg"
+    },
+    {
+      "name": "Gary Anthony Sturgis",
+      "role": "Phantom Virus (voice)",
+      "url": "https://multimovies.city/cast/gary-anthony-sturgis/",
+      "image": "https://image.tmdb.org/t/p/w92/tvVVSJWIOHD4FrkV71j222qMEJD.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ydh8aqZcqQym5p8q9XZ4nDf2x68.jpg",
+    "https://image.tmdb.org/t/p/w300/6EQsAKhlDDcfchYUPiGh0wypfJY.jpg",
+    "https://image.tmdb.org/t/p/w300/e0uzl9Z0Sp06yn0EyxH7UWUzRnJ.jpg",
+    "https://image.tmdb.org/t/p/w300/33pkTC5faFObPLY5tJXjMVOws6Z.jpg",
+    "https://image.tmdb.org/t/p/w300/8Pge6J8gxbKbly6kCCG1nx08ZVD.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 522,
+  "sources": [
+    "https://www.youtube.com/embed/5o_gSne0BPg?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/gnhjphm"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 71054,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 71054,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:32:05.205944"
 }
