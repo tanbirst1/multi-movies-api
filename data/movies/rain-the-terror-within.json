@@ -1,0 +1,86 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rain-the-terror-within/",
+  "meta": {
+    "title": "Rain: The Terror Within\u2026",
+    "poster": "https://image.tmdb.org/t/p/w500/z8ev2wjbPOinWv22yCu6NHuzMVC.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 30, 2005",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Born blind, Sandhya Bhatnagar lives a middle-class lifestyle in India along with her father and mother. Her father passes away, and her mother re-marries a cruel alcoholic man who abuses \u2026",
+    "infoFields": {
+      "Original title": "Rain: The Terror Within...",
+      "TMDb Rating": "3 1 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Amol Shetge",
+      "role": "Director",
+      "url": "https://multimovies.city/director/amol-shetge/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Himanshu Malik",
+      "role": "",
+      "url": "https://multimovies.city/cast/himanshu-malik/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Meghna Naidu",
+      "role": "",
+      "url": "https://multimovies.city/cast/meghna-naidu/",
+      "image": "https://image.tmdb.org/t/p/w92/ooUPTUD5oiQlWNBpYnBRrvZjQz9.jpg"
+    },
+    {
+      "name": "Panne Chatterjee",
+      "role": "",
+      "url": "https://multimovies.city/cast/panne-chatterjee/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Rajdev Jamdade",
+      "role": "",
+      "url": "https://multimovies.city/cast/rajdev-jamdade/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6U9mjzGiNA1G5K4lP9oYCO1a6a9.jpg"
+  ],
+  "similar": [],
+  "views": 884,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/fk87y5r"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 93034,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:59:06.317469"
+}
