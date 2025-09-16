@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/over-the-hedge/",
+  "meta": {
+    "title": "Over the Hedge",
+    "poster": "https://image.tmdb.org/t/p/w500/jtZnymorbnHY7mOiBXR14ZDJseM.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "May. 17, 2006",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "A scheming raccoon fools a mismatched family of forest creatures into helping him repay a debt of food, by invading the new suburban sprawl that popped up while they were hibernating \u2013 and learns a lesson about family himself.",
+    "infoFields": {
+      "Original title": "Over the Hedge",
+      "IMDb Rating": "6.7 197,714 votes",
+      "TMDb Rating": "6.574 4,603 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Karey Kirkpatrick",
+      "role": "Director",
+      "url": "https://multimovies.city/director/karey-kirkpatrick/",
+      "image": "https://image.tmdb.org/t/p/w92/utLqiULVNKOeLC0P3drJ6xMyj5C.jpg"
+    },
+    {
+      "name": "Bruce Willis",
+      "role": "RJ (voice)",
+      "url": "https://multimovies.city/cast/bruce-willis/",
+      "image": "https://image.tmdb.org/t/p/w92/caX3KtMU42EP3VLRFFBwqIIrch5.jpg"
+    },
+    {
+      "name": "Garry Shandling",
+      "role": "Verne (voice)",
+      "url": "https://multimovies.city/cast/garry-shandling/",
+      "image": "https://image.tmdb.org/t/p/w92/zGjPMqSqtZtP3npd5fhm7MYqxIU.jpg"
+    },
+    {
+      "name": "Steve Carell",
+      "role": "Hammy (voice)",
+      "url": "https://multimovies.city/cast/steve-carell/",
+      "image": "https://image.tmdb.org/t/p/w92/dzJtsLspH5Bf8Tvw7OQC47ETNfJ.jpg"
+    },
+    {
+      "name": "Wanda Sykes",
+      "role": "Stella (voice)",
+      "url": "https://multimovies.city/cast/wanda-sykes/",
+      "image": "https://image.tmdb.org/t/p/w92/ddMGHykrPp3PQ11WVRGNcDmvh0c.jpg"
+    },
+    {
+      "name": "William Shatner",
+      "role": "Ozzie (voice)",
+      "url": "https://multimovies.city/cast/william-shatner/",
+      "image": "https://image.tmdb.org/t/p/w92/7lsjbNFMGj3kYYWoMk1LNnl4p5P.jpg"
+    },
+    {
+      "name": "Nick Nolte",
+      "role": "Vincent (voice)",
+      "url": "https://multimovies.city/cast/nick-nolte/",
+      "image": "https://image.tmdb.org/t/p/w92/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "name": "Thomas Haden Church",
+      "role": "Dwayne (voice)",
+      "url": "https://multimovies.city/cast/thomas-haden-church/",
+      "image": "https://image.tmdb.org/t/p/w92/VP6VDYL0OEDwSbTRysiJ0kAGxI.jpg"
+    },
+    {
+      "name": "Allison Janney",
+      "role": "Gladys (voice)",
+      "url": "https://multimovies.city/cast/allison-janney/",
+      "image": "https://image.tmdb.org/t/p/w92/cDcB8mKP1GiIeoM3Qe7GIucs0iv.jpg"
+    },
+    {
+      "name": "Eugene Levy",
+      "role": "Lou (voice)",
+      "url": "https://multimovies.city/cast/eugene-levy/",
+      "image": "https://image.tmdb.org/t/p/w92/y4CexxKSI6qR5A6PDaD8mSrEhYC.jpg"
+    },
+    {
+      "name": "Catherine O'Hara",
+      "role": "Penny (voice)",
+      "url": "https://multimovies.city/cast/catherine-ohara/",
+      "image": "https://image.tmdb.org/t/p/w92/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ohDtIpcfP2NXtvAANsQFsh76BO0.jpg",
+    "https://image.tmdb.org/t/p/w300/4BmZXt8Yty7F2He4KE05jqGidEz.jpg",
+    "https://image.tmdb.org/t/p/w300/reK7SgAFlyxg3s9R7neh6M970kh.jpg",
+    "https://image.tmdb.org/t/p/w300/ptJSKl823FmuxH3vyceWTvGREpF.jpg",
+    "https://image.tmdb.org/t/p/w300/kmkmZIYAK1m2Q9ez03NJH6y7oNB.jpg",
+    "https://image.tmdb.org/t/p/w300/qVo0fkiqmWm6XGMMNxmfWlWzWfr.jpg",
+    "https://image.tmdb.org/t/p/w300/akXl8aJ97JztDkTSWb9eiYwk7Jk.jpg",
+    "https://image.tmdb.org/t/p/w300/iqhhBmjTst3xi273amEcOl9a0yb.jpg",
+    "https://image.tmdb.org/t/p/w300/y5CqBspyP6mWg0KyYaNtql4Tlg2.jpg",
+    "https://image.tmdb.org/t/p/w300/fbg1ivYfaSYtWqGynC5eAMO3JaF.jpg"
+  ],
+  "similar": [],
+  "views": 1359,
+  "sources": [
+    "https://www.youtube.com/embed/BE77igZczlI?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/kib13h2"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 35463,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 35463,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:00:40.059318"
+}
