@@ -4,8 +4,125 @@
   "meta": {
     "title": "The Replacement Killers",
     "poster": "https://image.tmdb.org/t/p/w500/5JAVd0lYhkB2dsDtt84Qt6grNIn.jpg",
-    "synopsis": "Hired assassin John Lee is asked by Chinatown crime boss Terence Wei to murder the young son of policeman Stan Zedkov. Lee has the boy in his sights, but his conscience gets the better of him, and he spares the child\u2019s life. Afraid that Wei will take revenge on his family in China, Lee seeks out expert forger Meg Coburn to obtain the passport he needs to get out of the country, but a band of replacement killers is soon on his trail."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Feb. 06, 1998",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Hired assassin John Lee is asked by Chinatown crime boss Terence Wei to murder the young son of policeman Stan Zedkov. Lee has the boy in his sights, but his conscience gets the better of him, and he spares the child\u2019s life. Afraid that Wei will take revenge on his family in China, Lee seeks out expert forger Meg Coburn to obtain the passport he needs to get out of the country, but a band of replacement killers is soon on his trail.",
+    "infoFields": {
+      "Original title": "The Replacement Killers",
+      "IMDb Rating": "6.1 31,488 votes",
+      "TMDb Rating": "6.235 539 votes"
+    }
   },
   "seasons": [],
-  "cache": false
+  "cast": [
+    {
+      "name": "Antoine Fuqua",
+      "role": "Director",
+      "url": "https://multimovies.city/director/antoine-fuqua/",
+      "image": "https://image.tmdb.org/t/p/w92/rPqqpDp0quYlmBiiMndzq2VdFgJ.jpg"
+    },
+    {
+      "name": "Chow Yun-Fat",
+      "role": "John Lee",
+      "url": "https://multimovies.city/cast/chow-yun-fat/",
+      "image": "https://image.tmdb.org/t/p/w92/ulog0Jfgd2T84UHxgxoh6KBdEp9.jpg"
+    },
+    {
+      "name": "Mira Sorvino",
+      "role": "Meg Coburn",
+      "url": "https://multimovies.city/cast/mira-sorvino/",
+      "image": "https://image.tmdb.org/t/p/w92/11raFiNo7QfisH44v3NIfpVvIz5.jpg"
+    },
+    {
+      "name": "Michael Rooker",
+      "role": "Stan 'Zeedo' Zedkov",
+      "url": "https://multimovies.city/cast/michael-rooker/",
+      "image": "https://image.tmdb.org/t/p/w92/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+    },
+    {
+      "name": "Kenneth Tsang",
+      "role": "Terence Wei",
+      "url": "https://multimovies.city/cast/kenneth-tsang/",
+      "image": "https://image.tmdb.org/t/p/w92/nqlO9OTaqPA38fEmWont8n6spms.jpg"
+    },
+    {
+      "name": "J\u00fcrgen Prochnow",
+      "role": "Michael Kogan",
+      "url": "https://multimovies.city/cast/jurgen-prochnow/",
+      "image": "https://image.tmdb.org/t/p/w92/45gcCuTcZdqpVISh5C8q1N9HyEz.jpg"
+    },
+    {
+      "name": "Til Schweiger",
+      "role": "Ryker",
+      "url": "https://multimovies.city/cast/til-schweiger/",
+      "image": "https://image.tmdb.org/t/p/w92/3Jk7y4sKgckrN9RzAAt0drlR0QG.jpg"
+    },
+    {
+      "name": "Danny Trejo",
+      "role": "Collins",
+      "url": "https://multimovies.city/cast/danny-trejo/",
+      "image": "https://image.tmdb.org/t/p/w92/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+    },
+    {
+      "name": "Clifton Collins Jr.",
+      "role": "Loco",
+      "url": "https://multimovies.city/cast/clifton-collins-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/qG3doVXFax1EmYR1EqMvLbx5wwz.jpg"
+    },
+    {
+      "name": "Carlos G\u00f3mez",
+      "role": "Hunt",
+      "url": "https://multimovies.city/cast/carlos-gomez/",
+      "image": "https://image.tmdb.org/t/p/w92/4uCM3Y4QS2uaRJBYf7Yi67VvPHl.jpg"
+    },
+    {
+      "name": "Frank Medrano",
+      "role": "Rawlins",
+      "url": "https://multimovies.city/cast/frank-medrano/",
+      "image": "https://image.tmdb.org/t/p/w92/ps427z5PMzVcwxipZptxLxx2Hbe.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vdS2yLH7QPXiZElQev31ROr8IOa.jpg",
+    "https://image.tmdb.org/t/p/w300/5jHH6njiSXvQuQU7T3va5I6bPMW.jpg",
+    "https://image.tmdb.org/t/p/w300/yYY0eWwfbvb1OTUx5cMNvHogDvs.jpg",
+    "https://image.tmdb.org/t/p/w300/a7K4AvrQkLxRDymZJC8o73BJObX.jpg",
+    "https://image.tmdb.org/t/p/w300/2rhlACk0JzNC7LdutFWah3SFyWG.jpg",
+    "https://image.tmdb.org/t/p/w300/3f7SvxTcRnaJQa8CmgwZMj5Imcg.jpg"
+  ],
+  "similar": [],
+  "views": 400,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/or9782t"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 99623,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:21:24.728345"
 }
