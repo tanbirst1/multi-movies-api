@@ -4,15 +4,131 @@
   "meta": {
     "title": "40 Days and 40 Nights",
     "poster": "https://image.tmdb.org/t/p/w500/5a60NuJToRAc0gijjI5IRSVGKL3.jpg",
-    "synopsis": "Matt Sullivan\u2019s last big relationship ended in disaster and ever since his heart\u2019s been aching and his commitment\u2019s been lacking. Then came Lent, that time of year when everybody gives something up. That\u2019s when Matt decides to go where no man\u2019s gone before and make a vow: No sex. Whatsoever. For 40 straight days. At first he has everything under control. That is until the woman of his dreams, Erica, walks into his life."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Mar. 01, 2002",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Matt Sullivan\u2019s last big relationship ended in disaster and ever since his heart\u2019s been aching and his commitment\u2019s been lacking. Then came Lent, that time of year when everybody gives something up. That\u2019s when Matt decides to go where no man\u2019s gone before and make a vow: No sex. Whatsoever. For 40 straight days. At first he has everything under control. That is until the woman of his dreams, Erica, walks into his life.",
+    "infoFields": {
+      "Original title": "40 Days and 40 Nights",
+      "IMDb Rating": "5.6 77,179 votes",
+      "TMDb Rating": "5.5 1,132 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Michael Lehmann",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-lehmann/",
+      "image": "https://image.tmdb.org/t/p/w92/jDu6ZiKtVGkhupi6wXv1f4Tpgro.jpg"
+    },
+    {
+      "name": "Josh Hartnett",
+      "role": "Matt Sulivan",
+      "url": "https://multimovies.city/cast/josh-hartnett/",
+      "image": "https://image.tmdb.org/t/p/w92/8nTEioiir92fGHcASarPxkjF6kG.jpg"
+    },
+    {
+      "name": "Shannyn Sossamon",
+      "role": "Erica Sutton",
+      "url": "https://multimovies.city/cast/shannyn-sossamon/",
+      "image": "https://image.tmdb.org/t/p/w92/wb8IqhUm3j5epCiw6UwIV3nfNQR.jpg"
+    },
+    {
+      "name": "Paulo Costanzo",
+      "role": "Ryan",
+      "url": "https://multimovies.city/cast/paulo-costanzo/",
+      "image": "https://image.tmdb.org/t/p/w92/cmZ1PnKsqdycxb3FnlpzNWzV4wy.jpg"
+    },
+    {
+      "name": "Vinessa Shaw",
+      "role": "Nicole",
+      "url": "https://multimovies.city/cast/vinessa-shaw/",
+      "image": "https://image.tmdb.org/t/p/w92/qqSpAMH1lYMNxnHkDHB1JpNa086.jpg"
+    },
+    {
+      "name": "Maggie Gyllenhaal",
+      "role": "Sam",
+      "url": "https://multimovies.city/cast/maggie-gyllenhaal/",
+      "image": "https://image.tmdb.org/t/p/w92/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+    },
+    {
+      "name": "Adam Trese",
+      "role": "John Sullivan",
+      "url": "https://multimovies.city/cast/adam-trese/",
+      "image": "https://image.tmdb.org/t/p/w92/kNCjIozZRvbntkRsuRq1xJSppYI.jpg"
+    },
+    {
+      "name": "Griffin Dunne",
+      "role": "Jerry Anderson",
+      "url": "https://multimovies.city/cast/griffin-dunne/",
+      "image": "https://image.tmdb.org/t/p/w92/3wg8VsC3K9D2iUyCa9fVWW35qcm.jpg"
+    },
+    {
+      "name": "Emmanuelle Vaugier",
+      "role": "Susie",
+      "url": "https://multimovies.city/cast/emmanuelle-vaugier/",
+      "image": "https://image.tmdb.org/t/p/w92/3wGefsb5WrQPPXVM6egqIKOwfIq.jpg"
+    },
+    {
+      "name": "Lorin Heath",
+      "role": "Diana",
+      "url": "https://multimovies.city/cast/lorin-heath/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Aaron Trainor",
+      "role": "Walter",
+      "url": "https://multimovies.city/cast/aaron-trainor/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/AfOVcMQUQAsfiAUrOeUlw1UasMe.jpg",
+    "https://image.tmdb.org/t/p/w300/cNKwwzI0KkeBgeDmGELkO14ovle.jpg",
+    "https://image.tmdb.org/t/p/w300/yffyMavLTwBgVvCKMQProlKMzL3.jpg",
+    "https://image.tmdb.org/t/p/w300/6r0P1FR09JALEwuSnrRzo1YdpK5.jpg",
+    "https://image.tmdb.org/t/p/w300/d3rMGu7hqbgHrblboiiZmJigTUe.jpg",
+    "https://image.tmdb.org/t/p/w300/6SV6O0vgX9VBGZEFJkyao1dU9Xg.jpg",
+    "https://image.tmdb.org/t/p/w300/cDEqwshVFUjXz9viluUA6O5szLn.jpg",
+    "https://image.tmdb.org/t/p/w300/wh9uWZAuo18eXHGpekGMmBSl7q0.jpg",
+    "https://image.tmdb.org/t/p/w300/fg5FvUhKVqpj7av9aSHmKosSNLI.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 2315,
+  "sources": [
+    "https://www.youtube.com/embed/Asl625hZzoM?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ldv13jn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 84385,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 84385,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:31:25"
+  "last_update": "2025-09-16T17:34:43.008558"
 }
