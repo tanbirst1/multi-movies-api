@@ -1,0 +1,117 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/sandwich/",
+  "meta": {
+    "title": "Sandwich",
+    "poster": "https://image.tmdb.org/t/p/w500/zRsZEpmMiBcX3NBXRP1xH0xpLJk.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jul. 31, 2006",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Shekar has moved to Mumbai from his home in Punjab and has fallen in love with Nisha. However, he is called back to his home to hear that his disabled sister is to marry a young man named Harpreet, but on the condition that Shekar marry Harpreet\u2019s sister. Unable to refuse, Shekar must lead a double life until matters come to a head many years later.",
+    "infoFields": {
+      "Original title": "Sandwich",
+      "IMDb Rating": "5.5 939 votes",
+      "TMDb Rating": "5.769 13 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Anees Bazmee",
+      "role": "Director",
+      "url": "https://multimovies.city/director/anees-bazmee/",
+      "image": "https://image.tmdb.org/t/p/w92/5ZapTXeavaYyMhhurei7qzHgd7D.jpg"
+    },
+    {
+      "name": "Govinda",
+      "role": "Sher Singh/Shekhar",
+      "url": "https://multimovies.city/cast/govinda/",
+      "image": "https://image.tmdb.org/t/p/w92/jIOlXP0RxA2EQwn5hZxsujjMpCv.jpg"
+    },
+    {
+      "name": "Raveena Tandon",
+      "role": "Nisha S. Singh",
+      "url": "https://multimovies.city/cast/raveena-tandon/",
+      "image": "https://image.tmdb.org/t/p/w92/hZlFf8EvVWAz4qAM52J38k1TNs2.jpg"
+    },
+    {
+      "name": "Mahima Chaudhry",
+      "role": "Sweety S. Singh",
+      "url": "https://multimovies.city/cast/mahima-chaudhry/",
+      "image": "https://image.tmdb.org/t/p/w92/pgqztcCYYCdOfQgnqR0lRUlPfKZ.jpg"
+    },
+    {
+      "name": "Mohnish Behl",
+      "role": "Inspector Pangey",
+      "url": "https://multimovies.city/cast/mohnish-behl/",
+      "image": "https://image.tmdb.org/t/p/w92/iiDceTPiwHY4y91gdP3OsEHOo7r.jpg"
+    },
+    {
+      "name": "Anang Desai",
+      "role": "Plastic Surgeon",
+      "url": "https://multimovies.city/cast/anang-desai/",
+      "image": "https://image.tmdb.org/t/p/w92/c5QbV2LHo1AFtavHO6owAObONBC.jpg"
+    },
+    {
+      "name": "Shammi Kapoor",
+      "role": "Swami Trilokanand",
+      "url": "https://multimovies.city/cast/shammi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/qMv1oc2ZH6GKZ9b7BPtLfP6Y1KA.jpg"
+    },
+    {
+      "name": "Mushtaq Khan",
+      "role": "Popatlal",
+      "url": "https://multimovies.city/cast/mushtaq-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg"
+    },
+    {
+      "name": "Kiran Kumar",
+      "role": "Balbir Singh",
+      "url": "https://multimovies.city/cast/kiran-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/vnpgMjRmNXl9r6LE2N5RJ1F5gD6.jpg"
+    },
+    {
+      "name": "Reema Lagoo",
+      "role": "Mrs. Singh",
+      "url": "https://multimovies.city/cast/reema-lagoo/",
+      "image": "https://image.tmdb.org/t/p/w92/hQ5r2pPD8T94Dli5oNP6IlwEf1c.jpg"
+    },
+    {
+      "name": "Shweta Menon",
+      "role": "Maggie",
+      "url": "https://multimovies.city/cast/shweta-menon/",
+      "image": "https://image.tmdb.org/t/p/w92/31RBamV8AyHSmkrbp9FGYJCehiP.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 790,
+  "sources": [
+    "https://multimoviesshg.com/e/er0ifj9mnl1r"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10995,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:04:41.623606"
+}
