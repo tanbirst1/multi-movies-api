@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/evangelion-2-0-you-can-not-advance/",
+  "meta": {
+    "title": "Evangelion: 2.0 You Can (Not) Advance",
+    "poster": "https://image.tmdb.org/t/p/w500/7VLYN2CfJpB6PrcuzDKKqdGSUi6.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hindi Dub Anime",
+        "url": "https://multimovies.city/genre/anime-hindi/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jun. 26, 2009",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Under constant attack by monstrous creatures called Angels that seek to eradicate humankind, U.N. Special Agency NERV introduces two new EVA pilots to help defend the city of Tokyo-3: the mysterious Makinami Mari Illustrous and the intense Asuka Langley Shikinami. Meanwhile, Gendo Ikari and SEELE proceed with a secret project that involves both Rei and Shinji.",
+    "infoFields": {
+      "Original title": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248\uff1a\u7834",
+      "IMDb Rating": "7.9 22,974 votes",
+      "TMDb Rating": "7.844 718 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hideaki Anno",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hideaki-anno/",
+      "image": "https://image.tmdb.org/t/p/w92/AfV9h1RW6uALpx751APdUoX8ONc.jpg"
+    },
+    {
+      "name": "Megumi Ogata",
+      "role": "Shinji Ikari (voice)",
+      "url": "https://multimovies.city/cast/megumi-ogata/",
+      "image": "https://image.tmdb.org/t/p/w92/eNdfMUyZgG5P4TNIZpbTAu8gBs9.jpg"
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "role": "Rei Ayanami / Yui Ikari (voice)",
+      "url": "https://multimovies.city/cast/megumi-hayashibara/",
+      "image": "https://image.tmdb.org/t/p/w92/wqwCa9PNUBXPuN9MpSnYq2dz740.jpg"
+    },
+    {
+      "name": "Yuko Miyamura",
+      "role": "Asuka Shikinami Langley (voice)",
+      "url": "https://multimovies.city/cast/yuko-miyamura/",
+      "image": "https://image.tmdb.org/t/p/w92/dVfbS1oiGuzXk5IZLNSsfoLNjUR.jpg"
+    },
+    {
+      "name": "Maaya Sakamoto",
+      "role": "Mari Illustrious Makinami (voice)",
+      "url": "https://multimovies.city/cast/maaya-sakamoto/",
+      "image": "https://image.tmdb.org/t/p/w92/u4Wx3OH8GWn0bbDVV7fe8ncmniA.jpg"
+    },
+    {
+      "name": "Kotono Mitsuishi",
+      "role": "Misato Katsuragi (voice)",
+      "url": "https://multimovies.city/cast/kotono-mitsuishi/",
+      "image": "https://image.tmdb.org/t/p/w92/u20izfS5a3AwnWb3u07QXaY48hv.jpg"
+    },
+    {
+      "name": "Yuriko Yamaguchi",
+      "role": "Ritsuko Akagi (voice)",
+      "url": "https://multimovies.city/cast/yuriko-yamaguchi/",
+      "image": "https://image.tmdb.org/t/p/w92/7e3BXCPv0X2pqwfdfW52n7VDFmI.jpg"
+    },
+    {
+      "name": "Koichi Yamadera",
+      "role": "Ryoji Kaji (voice)",
+      "url": "https://multimovies.city/cast/koichi-yamadera/",
+      "image": "https://image.tmdb.org/t/p/w92/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+    },
+    {
+      "name": "Fumihiko Tachiki",
+      "role": "Gendo Ikari (voice)",
+      "url": "https://multimovies.city/cast/fumihiko-tachiki/",
+      "image": "https://image.tmdb.org/t/p/w92/khEt9uae6dLIrvtkAKkFR1IJPJ5.jpg"
+    },
+    {
+      "name": "Motomu Kiyokawa",
+      "role": "Kozo Fuyutsuki (voice)",
+      "url": "https://multimovies.city/cast/motomu-kiyokawa/",
+      "image": "https://image.tmdb.org/t/p/w92/uD3KFs95z5zuQrv9p5Q5UjUQBxw.jpg"
+    },
+    {
+      "name": "Miki Nagasawa",
+      "role": "Maya Ibuki (voice)",
+      "url": "https://multimovies.city/cast/miki-nagasawa/",
+      "image": "https://image.tmdb.org/t/p/w92/1vVjtyFj32wY5FbwvYw5srujaVT.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/l7zvYpzBHgUYcAMZRNIkJS8ZkDC.jpg",
+    "https://image.tmdb.org/t/p/w300/y7L6LQKiZPlPZYSXqFkxqfB1Te0.jpg",
+    "https://image.tmdb.org/t/p/w300/lzFQByl893mKuiyPMzan8uiqW36.jpg",
+    "https://image.tmdb.org/t/p/w300/pzsVGcufDdBLmvagKyLFKaeA4O5.jpg",
+    "https://image.tmdb.org/t/p/w300/xaRfD3QuGlt9PAPVTRWeCRHnUJz.jpg",
+    "https://image.tmdb.org/t/p/w300/yWU7rZNZsgG2kgr38aqPnOvlZS6.jpg",
+    "https://image.tmdb.org/t/p/w300/nUj8tIvFq4wqWLPEMeGGPsM4eY9.jpg",
+    "https://image.tmdb.org/t/p/w300/v1yJRPgEbqG4pvWeTwow9dh8Qmr.jpg",
+    "https://image.tmdb.org/t/p/w300/ebP0lrr1D9YIy6moliRcoHZpTut.jpg",
+    "https://image.tmdb.org/t/p/w300/bvqZJoMaW7hREM1ziMD23s558a7.jpg"
+  ],
+  "similar": [],
+  "views": 3034,
+  "sources": [
+    "https://www.youtube.com/embed/CUCOMe2qx0k?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/wznzi6t49yvp"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 17083,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 17083,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:29:05.439050"
+}
