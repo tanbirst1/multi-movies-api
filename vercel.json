@@ -1,9 +1,13 @@
 {
-  "routes": [
-    { "src": "/api/health", "dest": "/api/health.js" },
-    { "src": "/api/scrape", "dest": "/api/scrape.js" }
-  ],
+  "version": 2,
   "builds": [
     { "src": "api/**/*.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/api/health", "dest": "/api/health.js" },
+    { "src": "/api/scrape", "dest": "/api/scrape.js" },
+    { "src": "/api/tv", "dest": "/api/tv.js" },
+    { "src": "/api/page", "dest": "/api/page.js" },
+    { "src": "/api/(.*)", "dest": "/api/$1.js" }
   ]
 }
