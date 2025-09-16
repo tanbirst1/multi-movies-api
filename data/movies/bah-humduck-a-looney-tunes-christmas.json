@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/bah-humduck-a-looney-tunes-christmas/",
+  "meta": {
+    "title": "Bah, Humduck!: A Looney Tunes Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/56luSbBA4o6otfyIyFtuV29AAYy.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Nov. 14, 2006",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "In this adaptation of Charles Dickens\u2019 A Christmas Carol, Daffy Duck is the greedy proprietor of the Lucky Duck Mega-Mart and all he can think about is the money to be made during the holiday season.",
+    "infoFields": {
+      "Original title": "Bah, Humduck!: A Looney Tunes Christmas",
+      "TMDb Rating": "7.325 106 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Charles Visser",
+      "role": "Director",
+      "url": "https://multimovies.city/director/charles-visser/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Joe Alaskey",
+      "role": "Daffy Duck / Sylvester / Marvin / Pepe / Foghorn (voice)",
+      "url": "https://multimovies.city/cast/joe-alaskey/",
+      "image": "https://image.tmdb.org/t/p/w92/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg"
+    },
+    {
+      "name": "Bob Bergen",
+      "role": "Porky Pig / Speedy Gonzales / Tweety Bird (voice)",
+      "url": "https://multimovies.city/cast/bob-bergen/",
+      "image": "https://image.tmdb.org/t/p/w92/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+    },
+    {
+      "name": "Billy West",
+      "role": "Bugs Bunny / Elmer Fudd (voice)",
+      "url": "https://multimovies.city/cast/billy-west/",
+      "image": "https://image.tmdb.org/t/p/w92/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+    },
+    {
+      "name": "June Foray",
+      "role": "Granny (voice)",
+      "url": "https://multimovies.city/cast/june-foray/",
+      "image": "https://image.tmdb.org/t/p/w92/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg"
+    },
+    {
+      "name": "Maurice LaMarche",
+      "role": "Yosemite Sam (voice)",
+      "url": "https://multimovies.city/cast/maurice-lamarche/",
+      "image": "https://image.tmdb.org/t/p/w92/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+    },
+    {
+      "name": "Jim Cummings",
+      "role": "Tasmanian Devil / Gossamer (voice)",
+      "url": "https://multimovies.city/cast/jim-cummings/",
+      "image": "https://image.tmdb.org/t/p/w92/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "name": "Tara Strong",
+      "role": "Priscilla Pig / House Mother (voice)",
+      "url": "https://multimovies.city/cast/tara-strong/",
+      "image": "https://image.tmdb.org/t/p/w92/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mZbGLiSscsF2ipFt7su7gmSLn8l.jpg",
+    "https://image.tmdb.org/t/p/w300/lFNFTj5GjOqxGqZlnAaT6IQH7si.jpg"
+  ],
+  "similar": [],
+  "views": 480,
+  "sources": [
+    "https://www.youtube.com/embed/WQwE6r7fWU0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/pje2vgk6zeym"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18604,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18604,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:07:15.681240"
+}
