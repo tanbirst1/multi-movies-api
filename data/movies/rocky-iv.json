@@ -1,0 +1,157 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rocky-iv/",
+  "meta": {
+    "title": "Rocky IV",
+    "poster": "https://image.tmdb.org/t/p/w500/jmvpwgW5M2kduR9zB0q8qGFC4zM.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 21, 1985",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.",
+    "infoFields": {
+      "Original title": "Rocky IV",
+      "IMDb Rating": "6.9 215,141 votes",
+      "TMDb Rating": "7.075 3,837 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Duncan Henderson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/duncan-henderson/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "Robert \"Rocky\" Balboa",
+      "url": "https://multimovies.city/cast/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/pOpbPofjwpynRkWPZZZkyGds6rx.jpg"
+    },
+    {
+      "name": "Talia Shire",
+      "role": "Adrianna \"Adrian\" Balboa",
+      "url": "https://multimovies.city/cast/talia-shire/",
+      "image": "https://image.tmdb.org/t/p/w92/due9MtmbvCMDd1aNveuMyjsaZ8W.jpg"
+    },
+    {
+      "name": "Burt Young",
+      "role": "Paulie Pennino",
+      "url": "https://multimovies.city/cast/burt-young/",
+      "image": "https://image.tmdb.org/t/p/w92/po3D7HKkMhoNkBMcIKpxjWzjoF.jpg"
+    },
+    {
+      "name": "Carl Weathers",
+      "role": "Apollo Creed",
+      "url": "https://multimovies.city/cast/carl-weathers/",
+      "image": "https://image.tmdb.org/t/p/w92/9Tot1ywxTQA3vFCcAjyK6h9Dao3.jpg"
+    },
+    {
+      "name": "Dolph Lundgren",
+      "role": "Ivan Drago",
+      "url": "https://multimovies.city/cast/dolph-lundgren/",
+      "image": "https://image.tmdb.org/t/p/w92/fisJpm05tw6GCJ4v62TKBCoWuZM.jpg"
+    },
+    {
+      "name": "Brigitte Nielsen",
+      "role": "Ludmilla Vobet Drago",
+      "url": "https://multimovies.city/cast/brigitte-nielsen/",
+      "image": "https://image.tmdb.org/t/p/w92/svkVYs5baeEs0m6YmhJwfoLl4aD.jpg"
+    },
+    {
+      "name": "Tony Burton",
+      "role": "Tony \"Duke\" Evers",
+      "url": "https://multimovies.city/cast/tony-burton/",
+      "image": "https://image.tmdb.org/t/p/w92/iG51d1Ck1doZNGseRMqGTnNC8t8.jpg"
+    },
+    {
+      "name": "Michael Pataki",
+      "role": "Nicoli Koloff",
+      "url": "https://multimovies.city/cast/michael-pataki/",
+      "image": "https://image.tmdb.org/t/p/w92/sBhGgVS3o8oWiD85lmh4W3n15OK.jpg"
+    },
+    {
+      "name": "Stu Nahan",
+      "role": "Commentator #1",
+      "url": "https://multimovies.city/cast/stu-nahan/",
+      "image": "https://image.tmdb.org/t/p/w92/zqk4y3uuI27WYstzXPgxEeGliAG.jpg"
+    },
+    {
+      "name": "Al Bandiero",
+      "role": "American Commentator #2",
+      "url": "https://multimovies.city/cast/al-bandiero/",
+      "image": "https://image.tmdb.org/t/p/w92/zawWujVDuWBrPfjp46ypNiZl0BW.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ufUdEHvs31M8yw3HMFjhTaVJIVp.jpg",
+    "https://image.tmdb.org/t/p/w300/lw6WvP24w15iRvIGaDD4NeVQW9G.jpg",
+    "https://image.tmdb.org/t/p/w300/uiUb4KJ6tadldqlJme49TW1r3jA.jpg",
+    "https://image.tmdb.org/t/p/w300/uI9YwSYfO6CuXJCdYfUW0CPI7TU.jpg",
+    "https://image.tmdb.org/t/p/w300/8i1Wt9vGTeAJKVoY3yfwHz1Mf8F.jpg",
+    "https://image.tmdb.org/t/p/w300/6nAQpZgCcIw8eGoh7UHJPe0q7dz.jpg",
+    "https://image.tmdb.org/t/p/w300/eJHdaW7AEeSph4WqI7ObcGhWLH2.jpg",
+    "https://image.tmdb.org/t/p/w300/7NqkbOMBKaYtwEintVTORJ4jgDM.jpg",
+    "https://image.tmdb.org/t/p/w300/q2Mb0LoObjV3UDaejMtqp5u0RJO.jpg"
+  ],
+  "similar": [],
+  "views": 1911,
+  "sources": [
+    "https://www.youtube.com/embed/mIE5HYkzvV0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/kc2vumclcokx",
+    "https://sbplay.org/embed-q3zpuspv4qf4.html",
+    "https://dood.la/e/b3ntr63v8pdm",
+    "https://mixdrop.co/e/0v8qkn6xa0748o",
+    "https://hydrax.net/watch?v=uAj7p8ITMp"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7098,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7098,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 7098,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 7098,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 7098,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 7098,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
