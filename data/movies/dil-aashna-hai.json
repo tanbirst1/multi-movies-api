@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dil-aashna-hai/",
+  "meta": {
+    "title": "Dil Aashna Hai",
+    "poster": "https://image.tmdb.org/t/p/w500/2bpjZlqqTyvNJP0Z62wfSdKGgAd.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Dec. 25, 1992",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "A cabaret dancer who was raised in a brothel sets out to find her biological mother.",
+    "infoFields": {
+      "Original title": "\u0926\u093f\u0932 \u0906\u0936\u0928\u093e \u0939\u0948",
+      "IMDb Rating": "4.9 1,723 votes",
+      "TMDb Rating": "6.9 10 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hema Malini",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hema-malini/",
+      "image": "https://image.tmdb.org/t/p/w92/lngiYXzpT6UvRTeRCQncJPJz4UH.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Karan D. Singh",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Divya Bharti",
+      "role": "Laila / Sitara",
+      "url": "https://multimovies.city/cast/divya-bharti/",
+      "image": "https://image.tmdb.org/t/p/w92/gTbsHRxIBMNuJhJOtiWvYkPQJAR.jpg"
+    },
+    {
+      "name": "Jeetendra",
+      "role": "Prince Arjun Singh",
+      "url": "https://multimovies.city/cast/jeetendra/",
+      "image": "https://image.tmdb.org/t/p/w92/i1D38TUK4JynQHq0hgihFkD61ba.jpg"
+    },
+    {
+      "name": "Mithun Chakraborty",
+      "role": "Sunil (Barkha's boyfriend)",
+      "url": "https://multimovies.city/cast/mithun-chakraborty/",
+      "image": "https://image.tmdb.org/t/p/w92/4z8c5YAe0TCkEZNHXWlKxNTD8sV.jpg"
+    },
+    {
+      "name": "Dimple Kapadia",
+      "role": "Barkha",
+      "url": "https://multimovies.city/cast/dimple-kapadia/",
+      "image": "https://image.tmdb.org/t/p/w92/rrISOX9TnetEAiZ5zCosTkmFdh2.jpg"
+    },
+    {
+      "name": "Amrita Singh",
+      "role": "Rajlaxmi A. Singh",
+      "url": "https://multimovies.city/cast/amrita-singh/",
+      "image": "https://image.tmdb.org/t/p/w92/yzGYLwPUvn5ksdisC0L4bQiLTNj.jpg"
+    },
+    {
+      "name": "Sonu Walia",
+      "role": "Salma A. Baig",
+      "url": "https://multimovies.city/cast/sonu-walia/",
+      "image": "https://image.tmdb.org/t/p/w92/ed1DLhhGQoXHJ8g6GCZQMiz1xkj.jpg"
+    },
+    {
+      "name": "Kabir Bedi",
+      "role": "Rai Bahadur Digvijay Singh",
+      "url": "https://multimovies.city/cast/kabir-bedi/",
+      "image": "https://image.tmdb.org/t/p/w92/69kagqAmZuKE9vwuUwBER9TNbpv.jpg"
+    },
+    {
+      "name": "Raza Murad",
+      "role": "Goverdhan Das",
+      "url": "https://multimovies.city/cast/raza-murad/",
+      "image": "https://image.tmdb.org/t/p/w92/gMyvs7yl3woLOiBgFGB3V08utBc.jpg"
+    },
+    {
+      "name": "Satyendra Kapoor",
+      "role": "Rajlaxmi's dad",
+      "url": "https://multimovies.city/cast/satyendra-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/bUCaTNUuNkueIb1zAEiunqLfK5.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 853,
+  "sources": [
+    "https://multimoviesshg.com/e/9l9apabr1jvo"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 96,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
