@@ -4,15 +4,132 @@
   "meta": {
     "title": "Insomnia",
     "poster": "https://image.tmdb.org/t/p/w500/riVXh3EimGO0y5dgQxEWPRy5Itg.jpg",
-    "synopsis": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn\u2019t set to investigate the methodical murder of a local teen."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 24, 2002",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn\u2019t set to investigate the methodical murder of a local teen.",
+    "infoFields": {
+      "Original title": "Insomnia",
+      "IMDb Rating": "7.2 327,974 votes",
+      "TMDb Rating": "6.9 4,815 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Kelly Moon",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kelly-moon/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Al Pacino",
+      "role": "Will Dormer",
+      "url": "https://multimovies.city/cast/al-pacino/",
+      "image": "https://image.tmdb.org/t/p/w92/fMDFeVf0pjopTJbyRSLFwNDm8Wr.jpg"
+    },
+    {
+      "name": "Robin Williams",
+      "role": "Walter Finch",
+      "url": "https://multimovies.city/cast/robin-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "name": "Hilary Swank",
+      "role": "Ellie Burr",
+      "url": "https://multimovies.city/cast/hilary-swank/",
+      "image": "https://image.tmdb.org/t/p/w92/uin6aAehUGpPCiJCaSjZG8B7M7d.jpg"
+    },
+    {
+      "name": "Martin Donovan",
+      "role": "Hap Eckhart",
+      "url": "https://multimovies.city/cast/martin-donovan/",
+      "image": "https://image.tmdb.org/t/p/w92/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg"
+    },
+    {
+      "name": "Nicky Katt",
+      "role": "Fred Duggar",
+      "url": "https://multimovies.city/cast/nicky-katt/",
+      "image": "https://image.tmdb.org/t/p/w92/9OY1D1WXJsqC7OnrKErc3mFfly5.jpg"
+    },
+    {
+      "name": "Maura Tierney",
+      "role": "Rachel Clement",
+      "url": "https://multimovies.city/cast/maura-tierney/",
+      "image": "https://image.tmdb.org/t/p/w92/4BCrwdHdC4iRSDimvkoYaXg2qki.jpg"
+    },
+    {
+      "name": "Paul Dooley",
+      "role": "Chief Nyback",
+      "url": "https://multimovies.city/cast/paul-dooley/",
+      "image": "https://image.tmdb.org/t/p/w92/7nTdbpU4wIsSDZ8WCPXNJOG9KPI.jpg"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "role": "Randy Stetz",
+      "url": "https://multimovies.city/cast/jonathan-jackson/",
+      "image": "https://image.tmdb.org/t/p/w92/qOfrqsoIOXuPpdh3aW0uif8UfcJ.jpg"
+    },
+    {
+      "name": "Katharine Isabelle",
+      "role": "Tanya Francke",
+      "url": "https://multimovies.city/cast/katharine-isabelle/",
+      "image": "https://image.tmdb.org/t/p/w92/hX6i25ieoEJEZ1jV81qob2Na0su.jpg"
+    },
+    {
+      "name": "Larry Holden",
+      "role": "Farrell",
+      "url": "https://multimovies.city/cast/larry-holden/",
+      "image": "https://image.tmdb.org/t/p/w92/1ZYJUFYu97gM0MaCX5EI6oJZu89.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2tsmTWJsR81cwwZHLE85vPxSCoR.jpg",
+    "https://image.tmdb.org/t/p/w300/jU8MC5uSgBkZXyZYGtZgMsMsfeN.jpg",
+    "https://image.tmdb.org/t/p/w300/4WaslsPRogdlWHRc6Y2d9PF4ihK.jpg",
+    "https://image.tmdb.org/t/p/w300/wGfw8Na64GhSIij3Ldm2d2O8eEY.jpg",
+    "https://image.tmdb.org/t/p/w300/3GWWtC1nAPbREe0G7eZooZaEgy5.jpg",
+    "https://image.tmdb.org/t/p/w300/qkb8drHBXRrFdgyXlO0M9KtofCv.jpg",
+    "https://image.tmdb.org/t/p/w300/7EHwmRBjIifjTJPYIPT6r2A1jnF.jpg",
+    "https://image.tmdb.org/t/p/w300/wzRJFQ9FrTS83P8nLjyODFMVBAC.jpg",
+    "https://image.tmdb.org/t/p/w300/jSKm0zOCtIMmBuAsamHUmytrSDn.jpg",
+    "https://image.tmdb.org/t/p/w300/8yI5wiFemH52x7LOp1YOUw2HUCE.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 1743,
+  "sources": [
+    "https://www.youtube.com/embed/emIHzg4VH8A?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/iw49ncf"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 80499,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 80499,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:31:25"
+  "last_update": "2025-09-16T17:33:05.024773"
 }
