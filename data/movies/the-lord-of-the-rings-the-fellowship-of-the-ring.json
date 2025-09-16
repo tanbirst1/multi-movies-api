@@ -4,15 +4,136 @@
   "meta": {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
-    "synopsis": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 18, 2001",
+    "ratingValue": "9.2",
+    "ratingCount": "12",
+    "synopsis": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "infoFields": {
+      "Original title": "The Lord of the Rings: The Fellowship of the Ring",
+      "IMDb Rating": "8.8 1,908,007 votes",
+      "TMDb Rating": "8.423 26,065 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Peter Jackson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/peter-jackson/",
+      "image": "https://image.tmdb.org/t/p/w92/bNc908d59Ba8VDNr4eCcm4G1cR.jpg"
+    },
+    {
+      "name": "Elijah Wood",
+      "role": "Frodo",
+      "url": "https://multimovies.city/cast/elijah-wood/",
+      "image": "https://image.tmdb.org/t/p/w92/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+      "name": "Ian McKellen",
+      "role": "Gandalf",
+      "url": "https://multimovies.city/cast/ian-mckellen/",
+      "image": "https://image.tmdb.org/t/p/w92/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "name": "Liv Tyler",
+      "role": "Arwen",
+      "url": "https://multimovies.city/cast/liv-tyler/",
+      "image": "https://image.tmdb.org/t/p/w92/jrOj6t9pH8TqO65pnsRuvRNhwqx.jpg"
+    },
+    {
+      "name": "Viggo Mortensen",
+      "role": "Aragorn",
+      "url": "https://multimovies.city/cast/viggo-mortensen/",
+      "image": "https://image.tmdb.org/t/p/w92/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "name": "Sean Astin",
+      "role": "Sam",
+      "url": "https://multimovies.city/cast/sean-astin/",
+      "image": "https://image.tmdb.org/t/p/w92/5oJzy6Ra0tuMEV7mfxjtqye5qUX.jpg"
+    },
+    {
+      "name": "Cate Blanchett",
+      "role": "Galadriel",
+      "url": "https://multimovies.city/cast/cate-blanchett/",
+      "image": "https://image.tmdb.org/t/p/w92/vq4vuAVhYngfzVNn8SbnG0JEy15.jpg"
+    },
+    {
+      "name": "John Rhys-Davies",
+      "role": "Gimli",
+      "url": "https://multimovies.city/cast/john-rhys-davies/",
+      "image": "https://image.tmdb.org/t/p/w92/dvT1NPY8CXIVQh0O1h6rpfYOgKz.jpg"
+    },
+    {
+      "name": "Billy Boyd",
+      "role": "Pippin",
+      "url": "https://multimovies.city/cast/billy-boyd/",
+      "image": "https://image.tmdb.org/t/p/w92/uiWlsIOakNnUgda21PJF9wswzEJ.jpg"
+    },
+    {
+      "name": "Dominic Monaghan",
+      "role": "Merry",
+      "url": "https://multimovies.city/cast/dominic-monaghan/",
+      "image": "https://image.tmdb.org/t/p/w92/lOWmAvBu6evsj9MCcIHqy7Sg3iZ.jpg"
+    },
+    {
+      "name": "Orlando Bloom",
+      "role": "Legolas",
+      "url": "https://multimovies.city/cast/orlando-bloom/",
+      "image": "https://image.tmdb.org/t/p/w92/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/dUVbWINfRMGojGZRcO6GF1Z2nV8.jpg",
+    "https://image.tmdb.org/t/p/w300/ua5EHfleb44L5hfHPs2BPqRAove.jpg",
+    "https://image.tmdb.org/t/p/w300/vRQnzOn4HjIMX4LBq9nHhFXbsSu.jpg",
+    "https://image.tmdb.org/t/p/w300/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
+    "https://image.tmdb.org/t/p/w300/skVTWsoQvFGLUnOo1Wv3coAsARw.jpg",
+    "https://image.tmdb.org/t/p/w300/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+    "https://image.tmdb.org/t/p/w300/mWDdRXTivGE7aaY2vo1Ie0PfCX5.jpg",
+    "https://image.tmdb.org/t/p/w300/tqj7NKj11keFuLzPsBDMUq2dOUO.jpg",
+    "https://image.tmdb.org/t/p/w300/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+    "https://image.tmdb.org/t/p/w300/tdmlSbLl84hfHx635AqHLB8Qh8M.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 21955,
+  "sources": [
+    "https://www.youtube.com/embed/7HbDcTw7E2g?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/kgtggsc"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8756,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 8756,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:31:15.386135"
 }
