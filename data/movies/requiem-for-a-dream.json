@@ -4,15 +4,132 @@
   "meta": {
     "title": "Requiem for a Dream",
     "poster": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
-    "synopsis": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Oct. 06, 2000",
+    "ratingValue": "9.3",
+    "ratingCount": "3",
+    "synopsis": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+    "infoFields": {
+      "Original title": "Requiem for a Dream",
+      "IMDb Rating": "8.3 938,024 votes",
+      "TMDb Rating": "8.016 10,260 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Darren Aronofsky",
+      "role": "Director",
+      "url": "https://multimovies.city/director/darren-aronofsky/",
+      "image": "https://image.tmdb.org/t/p/w92/tOjz8mVI2HeQBvU6KNjIExMBsXL.jpg"
+    },
+    {
+      "name": "Ellen Burstyn",
+      "role": "Sara Goldfarb",
+      "url": "https://multimovies.city/cast/ellen-burstyn/",
+      "image": "https://image.tmdb.org/t/p/w92/wjxo9Yw8ZoKewcRlHShfTIZGVQF.jpg"
+    },
+    {
+      "name": "Jared Leto",
+      "role": "Harry Goldfarb",
+      "url": "https://multimovies.city/cast/jared-leto/",
+      "image": "https://image.tmdb.org/t/p/w92/aNUvy7cpa78NRjCvHi5vYuNJRtj.jpg"
+    },
+    {
+      "name": "Jennifer Connelly",
+      "role": "Marion Silver",
+      "url": "https://multimovies.city/cast/jennifer-connelly/",
+      "image": "https://image.tmdb.org/t/p/w92/bpILtSl6z5xc6YOAiPnDBlXDYMJ.jpg"
+    },
+    {
+      "name": "Marlon Wayans",
+      "role": "Tyrone C. Love",
+      "url": "https://multimovies.city/cast/marlon-wayans/",
+      "image": "https://image.tmdb.org/t/p/w92/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg"
+    },
+    {
+      "name": "Christopher McDonald",
+      "role": "Tappy Tibbons",
+      "url": "https://multimovies.city/cast/christopher-mcdonald/",
+      "image": "https://image.tmdb.org/t/p/w92/bOKl8EPOKe0oWD15HxUKH1ugesg.jpg"
+    },
+    {
+      "name": "Louise Lasser",
+      "role": "Ada",
+      "url": "https://multimovies.city/cast/louise-lasser/",
+      "image": "https://image.tmdb.org/t/p/w92/smrLNcvGJgR60iAwHnov1a7EwYa.jpg"
+    },
+    {
+      "name": "Marcia Jean Kurtz",
+      "role": "Rae",
+      "url": "https://multimovies.city/cast/marcia-jean-kurtz/",
+      "image": "https://image.tmdb.org/t/p/w92/qRZMvp6EllY83RRpKzcBdKklgoU.jpg"
+    },
+    {
+      "name": "Janet Sarno",
+      "role": "Mrs. Pearlman",
+      "url": "https://multimovies.city/cast/janet-sarno/",
+      "image": "https://image.tmdb.org/t/p/w92/7xrkhwOm5sqC5IPTce7GY1PyKUj.jpg"
+    },
+    {
+      "name": "Suzanne Shepherd",
+      "role": "Mrs. Scarlini",
+      "url": "https://multimovies.city/cast/suzanne-shepherd/",
+      "image": "https://image.tmdb.org/t/p/w92/7trwhBrNHhH2STDxMrDeqUqZf42.jpg"
+    },
+    {
+      "name": "Joanne Gordon",
+      "role": "Mrs. Ovadia",
+      "url": "https://multimovies.city/cast/joanne-gordon/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9Gk3h004bow0jflh09iU4nPig48.jpg",
+    "https://image.tmdb.org/t/p/w300/s5R6kTMfOxkGit96A8lqcDL4uVk.jpg",
+    "https://image.tmdb.org/t/p/w300/hGtmFJI7q1S0UN1FeLSM9pwkWks.jpg",
+    "https://image.tmdb.org/t/p/w300/jRxxp0ZOBt9pgfFHMViKYCL0Ken.jpg",
+    "https://image.tmdb.org/t/p/w300/t2WvRNffybtcGrycpqpbFFUhTNk.jpg",
+    "https://image.tmdb.org/t/p/w300/fmcxVkgyvFsqFgTvwpHE3HYuEjy.jpg",
+    "https://image.tmdb.org/t/p/w300/1giA38lZtzkfGE4NpAk0fZyVqRT.jpg",
+    "https://image.tmdb.org/t/p/w300/AbIbkLgXnpgKv8y7GdYVnuctTdW.jpg",
+    "https://image.tmdb.org/t/p/w300/1nlsY3Eawg9wLOqHNYPLoJum473.jpg",
+    "https://image.tmdb.org/t/p/w300/7tZt3PA948fvSTFx0699YF44Tdt.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 3483,
+  "sources": [
+    "https://www.youtube.com/embed/j3kHnwal4KY?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/v9ak79a"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 59690,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 59690,
+      "nume": 1,
+      "title": "vidsrc"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:27:22.927910"
 }
