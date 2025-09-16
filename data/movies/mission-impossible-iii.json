@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/mission-impossible-iii/",
+  "meta": {
+    "title": "Mission: Impossible 3",
+    "poster": "https://image.tmdb.org/t/p/w500/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mission Impossible",
+        "url": "https://multimovies.city/genre/mission-impossible-collection/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Apr. 25, 2006",
+    "ratingValue": "10",
+    "ratingCount": "7",
+    "synopsis": "Retired from active duty to train new IMF agents, Ethan Hunt is called back into action to confront sadistic arms dealer, Owen Davian. Hunt must try to protect his girlfriend while working with his new team to complete the mission.",
+    "infoFields": {
+      "Original title": "Mission: Impossible III",
+      "IMDb Rating": "6.9 364,889 votes",
+      "TMDb Rating": "6.738 6,920 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "J.J. Abrams",
+      "role": "Director",
+      "url": "https://multimovies.city/director/j-j-abrams/",
+      "image": "https://image.tmdb.org/t/p/w92/k4IWd2RV5kY1kAL2VgKQwFvnCLP.jpg"
+    },
+    {
+      "name": "Tom Cruise",
+      "role": "Ethan Hunt",
+      "url": "https://multimovies.city/cast/tom-cruise/",
+      "image": "https://image.tmdb.org/t/p/w92/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "role": "Owen Davian",
+      "url": "https://multimovies.city/cast/philip-seymour-hoffman/",
+      "image": "https://image.tmdb.org/t/p/w92/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+    },
+    {
+      "name": "Ving Rhames",
+      "role": "Luther Stickell",
+      "url": "https://multimovies.city/cast/ving-rhames/",
+      "image": "https://image.tmdb.org/t/p/w92/4gpLVNKPZlVucc4fT2fSZ7DksTK.jpg"
+    },
+    {
+      "name": "Billy Crudup",
+      "role": "John Musgrave",
+      "url": "https://multimovies.city/cast/billy-crudup/",
+      "image": "https://image.tmdb.org/t/p/w92/pYblSarjmmIUggmOafanD2yk0Zj.jpg"
+    },
+    {
+      "name": "Michelle Monaghan",
+      "role": "Julia Meade",
+      "url": "https://multimovies.city/cast/michelle-monaghan/",
+      "image": "https://image.tmdb.org/t/p/w92/jB47BoGdudHELszn9ZAZqnnUy8N.jpg"
+    },
+    {
+      "name": "Jonathan Rhys Meyers",
+      "role": "Declan Gormley",
+      "url": "https://multimovies.city/cast/jonathan-rhys-meyers/",
+      "image": "https://image.tmdb.org/t/p/w92/RsrGA98aMmyjTTxTLhAaOqnfLz.jpg"
+    },
+    {
+      "name": "Keri Russell",
+      "role": "Lindsey Farris",
+      "url": "https://multimovies.city/cast/keri-russell/",
+      "image": "https://image.tmdb.org/t/p/w92/u81mC6vZwliDRfnX1DpdGmmex61.jpg"
+    },
+    {
+      "name": "Maggie Q",
+      "role": "Zhen Lei",
+      "url": "https://multimovies.city/cast/maggie-q/",
+      "image": "https://image.tmdb.org/t/p/w92/w2yOInG7UIRrAxj0mVLnr5yfLYq.jpg"
+    },
+    {
+      "name": "Laurence Fishburne",
+      "role": "Theodore Brassel",
+      "url": "https://multimovies.city/cast/laurence-fishburne/",
+      "image": "https://image.tmdb.org/t/p/w92/8suOhUmPbfKqDQ17jQ1Gy0mI3P4.jpg"
+    },
+    {
+      "name": "Simon Pegg",
+      "role": "Benjamin 'Benji' Dunn",
+      "url": "https://multimovies.city/cast/simon-pegg/",
+      "image": "https://image.tmdb.org/t/p/w92/nOWKXxgADG98RjKyfQ7oSDfns6J.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/sjcPWJ5TXgFglsoixNxyZRyEUq3.jpg",
+    "https://image.tmdb.org/t/p/w300/bYKeB9uUcPmvikjouEEQ86uvPw9.jpg",
+    "https://image.tmdb.org/t/p/w300/mOyF7rHVLF6uLbyb18FWTmcrjJe.jpg",
+    "https://image.tmdb.org/t/p/w300/lwWpr46UghFdFGBOZ5ieTvi9KN5.jpg",
+    "https://image.tmdb.org/t/p/w300/oZaovOU7ODohMkNsl8Tf2q0FxUR.jpg",
+    "https://image.tmdb.org/t/p/w300/3rfqBNBwvH1CvCZ9tTD3uCEAeLN.jpg",
+    "https://image.tmdb.org/t/p/w300/5hizq0BiBHPAV9iD2qbp5RwStdT.jpg",
+    "https://image.tmdb.org/t/p/w300/m7zarCnfUJcFsmhgcK6onB5Bruz.jpg",
+    "https://image.tmdb.org/t/p/w300/sOqflXlZ1eIXoi337Np8yZHoA5U.jpg",
+    "https://image.tmdb.org/t/p/w300/do55zY5qCAnzKSY0CNomhPkosDK.jpg"
+  ],
+  "similar": [],
+  "views": 12015,
+  "sources": [
+    "https://www.youtube.com/embed/ssWbGKTgXFc?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/o63csjw"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8149,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 8149,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:01:07.883914"
+}
