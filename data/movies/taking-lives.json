@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/taking-lives/",
+  "meta": {
+    "title": "Taking Lives",
+    "poster": "https://image.tmdb.org/t/p/w500/1JEt0qtEaYrJZuPeTArR691V256.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 19, 2004",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Recruited to assist Montreal police in their desperate search for a serial killer who assumes the identities of his victims, FBI profiler Illeana Scott knows it\u2019s only a matter of time before the killer strikes again. Her most promising lead is a museum employee who might be the killer\u2019s only eyewitness.",
+    "infoFields": {
+      "Original title": "Taking Lives",
+      "IMDb Rating": "6.2 99,008 votes",
+      "TMDb Rating": "6.4 1,641 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "D.J. Caruso",
+      "role": "Director",
+      "url": "https://multimovies.city/director/d-j-caruso/",
+      "image": "https://image.tmdb.org/t/p/w92/f1SZVhhjvzVot596JYVJdf60dWY.jpg"
+    },
+    {
+      "name": "Angelina Jolie",
+      "role": "Illeana Scott",
+      "url": "https://multimovies.city/cast/angelina-jolie/",
+      "image": "https://image.tmdb.org/t/p/w92/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
+    },
+    {
+      "name": "Ethan Hawke",
+      "role": "James Costa",
+      "url": "https://multimovies.city/cast/ethan-hawke/",
+      "image": "https://image.tmdb.org/t/p/w92/slO6aoxA5Pwiy42yt8Fxz5bm1kH.jpg"
+    },
+    {
+      "name": "Kiefer Sutherland",
+      "role": "Christopher Hart",
+      "url": "https://multimovies.city/cast/kiefer-sutherland/",
+      "image": "https://image.tmdb.org/t/p/w92/tK5zjdvao2NELns3bqT7PPqPeJI.jpg"
+    },
+    {
+      "name": "Gena Rowlands",
+      "role": "Mrs. Rebecca Asher",
+      "url": "https://multimovies.city/cast/gena-rowlands/",
+      "image": "https://image.tmdb.org/t/p/w92/7Hda4UFbmpufKnk48KpBuH7j05j.jpg"
+    },
+    {
+      "name": "Olivier Martinez",
+      "role": "Paquette",
+      "url": "https://multimovies.city/cast/olivier-martinez/",
+      "image": "https://image.tmdb.org/t/p/w92/rS1pHEsXrLWqpkmzItnAqnBEpZQ.jpg"
+    },
+    {
+      "name": "Tch\u00e9ky Karyo",
+      "role": "Leclair",
+      "url": "https://multimovies.city/cast/tcheky-karyo/",
+      "image": "https://image.tmdb.org/t/p/w92/jrtGiLYaALwDZgF39Hlgb8O1XZ1.jpg"
+    },
+    {
+      "name": "Jean-Hugues Anglade",
+      "role": "Duval",
+      "url": "https://multimovies.city/cast/jean-hugues-anglade/",
+      "image": "https://image.tmdb.org/t/p/w92/vidk0fZfz56flOBuUzZHDkwsGdb.jpg"
+    },
+    {
+      "name": "Paul Dano",
+      "role": "Young Asher",
+      "url": "https://multimovies.city/cast/paul-dano/",
+      "image": "https://image.tmdb.org/t/p/w92/zEJJsm0z07EPNl2Pi1h67xuCmcA.jpg"
+    },
+    {
+      "name": "Justin Chatwin",
+      "role": "Matt Soulsby",
+      "url": "https://multimovies.city/cast/justin-chatwin/",
+      "image": "https://image.tmdb.org/t/p/w92/nEHYlooGSwRzkhze1rQ7DOpJXLD.jpg"
+    },
+    {
+      "name": "Andr\u00e9 Lacoste",
+      "role": "Cashier",
+      "url": "https://multimovies.city/cast/andre-lacoste/",
+      "image": "https://image.tmdb.org/t/p/w92/hPTiuCqPCblcUikCvHZyx1EdxfZ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7IciAaJltRsOohcz2JlkupIF1s9.jpg",
+    "https://image.tmdb.org/t/p/w300/6q6PmRRKXStFmBqoCLv1toHB9AJ.jpg",
+    "https://image.tmdb.org/t/p/w300/90QrfoG5nEhUDR8SgAFazqmtdk5.jpg",
+    "https://image.tmdb.org/t/p/w300/Aqsdj1HS2NVczhiC1HN3qNWuB1v.jpg",
+    "https://image.tmdb.org/t/p/w300/2mcpRjgBRMxSgrWHRsNY7msSIie.jpg",
+    "https://image.tmdb.org/t/p/w300/89uHT4IDcYdz0JXPoxYPWZKKvl6.jpg",
+    "https://image.tmdb.org/t/p/w300/fPOrRhYSeDu8WOIGX9R3LhuoOPw.jpg",
+    "https://image.tmdb.org/t/p/w300/9d6DuYua3XVVFEynGMhPmQTazSb.jpg"
+  ],
+  "similar": [],
+  "views": 1774,
+  "sources": [
+    "https://www.youtube.com/embed/Uj85gr6R1as?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/nncpvb4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 89209,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 89209,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:49:25.987689"
+}
