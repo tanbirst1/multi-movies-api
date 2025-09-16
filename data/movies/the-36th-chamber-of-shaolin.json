@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-36th-chamber-of-shaolin/",
+  "meta": {
+    "title": "The 36th Chamber of Shaolin",
+    "poster": "https://image.tmdb.org/t/p/w500/6j1ZnapQPGD9aUcqQWqFYPhWd3B.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 02, 1978",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "The anti-Ching patriots, under the guidance of Ho Kuang-han, have secretly set up their base in Canton, disguised as school masters. During a brutal Manchu attack, Lui manages to escape, and devotes himself to learning the martial arts in order to seek revenge.",
+    "infoFields": {
+      "Original title": "\u5c11\u6797\u4e09\u5341\u516d\u623f",
+      "IMDb Rating": "7.6 19,429 votes",
+      "TMDb Rating": "7.497 448 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Lau Kar-Leung",
+      "role": "Director",
+      "url": "https://multimovies.city/director/lau-kar-leung/",
+      "image": "https://image.tmdb.org/t/p/w92/1cKWtvMp0onUAn4OfuclM1693gn.jpg"
+    },
+    {
+      "name": "Gordon Liu Chia-Hui",
+      "role": "Liu Yu-de / Monk San Ta",
+      "url": "https://multimovies.city/cast/gordon-liu-chia-hui/",
+      "image": "https://image.tmdb.org/t/p/w92/hLLDmQbIi8EO0hsBbgLAswqaOrq.jpg"
+    },
+    {
+      "name": "Lo Lieh",
+      "role": "General Tien Ta",
+      "url": "https://multimovies.city/cast/lo-lieh/",
+      "image": "https://image.tmdb.org/t/p/w92/cUZZlI9m1JnxmCvOWDtDu5hqO3p.jpg"
+    },
+    {
+      "name": "John Cheung Ng-Long",
+      "role": "Lord Cheng",
+      "url": "https://multimovies.city/cast/john-cheung-ng-long/",
+      "image": "https://image.tmdb.org/t/p/w92/uX9YzOctyeBxA5PbuUeXghPxhdi.jpg"
+    },
+    {
+      "name": "Wilson Tong",
+      "role": "Lord Tang San-yao",
+      "url": "https://multimovies.city/cast/wilson-tong/",
+      "image": "https://image.tmdb.org/t/p/w92/2U90rjQCbIHPkWw6dez7PLeHtIA.jpg"
+    },
+    {
+      "name": "Wa Lun",
+      "role": "Liu Yu-de's Classmate",
+      "url": "https://multimovies.city/cast/wa-lun/",
+      "image": "https://image.tmdb.org/t/p/w92/abHon0nRWe5K25t4iRsLRIDmRam.jpg"
+    },
+    {
+      "name": "Hon Kwok-Choi",
+      "role": "Lin Zhen",
+      "url": "https://multimovies.city/cast/hon-kwok-choi/",
+      "image": "https://image.tmdb.org/t/p/w92/yyDXxl4tEPWF4MsK7utL4oVyX4y.jpg"
+    },
+    {
+      "name": "Lau Kar-Wing",
+      "role": "General Yin",
+      "url": "https://multimovies.city/cast/lau-kar-wing/",
+      "image": "https://image.tmdb.org/t/p/w92/ldxip5KcrTi3bkZLa9XMv93j2Nr.jpg"
+    },
+    {
+      "name": "Wai Wang",
+      "role": "Teacher Ho",
+      "url": "https://multimovies.city/cast/wai-wang/",
+      "image": "https://image.tmdb.org/t/p/w92/wTjeOchYnJCmSU7NYy40zi4qs4G.jpg"
+    },
+    {
+      "name": "Chen Szu-Chia",
+      "role": "Yien Pin",
+      "url": "https://multimovies.city/cast/chen-szu-chia/",
+      "image": "https://image.tmdb.org/t/p/w92/znKW12XIoPTsFRC3GhT3XLlfqbf.jpg"
+    },
+    {
+      "name": "Wong Ching-Ho",
+      "role": "Liu Yu-de's Father",
+      "url": "https://multimovies.city/cast/wong-ching-ho/",
+      "image": "https://image.tmdb.org/t/p/w92/sVkRZLdHiaGZeGE7cA3jPGy1XQU.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/4hRQylOUK1pUMtvalpJJsnxZffy.jpg",
+    "https://image.tmdb.org/t/p/w300/7LjGL04PpDzAb3XYHmjyL38rUde.jpg",
+    "https://image.tmdb.org/t/p/w300/jW8cPBb6vRws0VXjxjdD3EIl6VQ.jpg",
+    "https://image.tmdb.org/t/p/w300/5sdmjCMrei3JCXLX1g3iGHHvrDr.jpg",
+    "https://image.tmdb.org/t/p/w300/fqoW8cpus0YBVNLAZNs6CEjas5N.jpg",
+    "https://image.tmdb.org/t/p/w300/Hn10dZqkUfr18pQZYMKzCFPPCP.jpg",
+    "https://image.tmdb.org/t/p/w300/pgnGpZOHOaISAXST0zTx05kc3th.jpg",
+    "https://image.tmdb.org/t/p/w300/fLX0OSqJMtYM7m4yolzUjeBdEMT.jpg",
+    "https://image.tmdb.org/t/p/w300/e1XNy2fVIwzRikCUGZklE3jZxZH.jpg",
+    "https://image.tmdb.org/t/p/w300/iPuGGAlzjCTxLEzoOdU7C5Uzgt5.jpg"
+  ],
+  "similar": [],
+  "views": 1639,
+  "sources": [
+    "https://www.youtube.com/embed/FOGTTm6dIR4?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/b6rlkrd"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 90571,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 90571,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
