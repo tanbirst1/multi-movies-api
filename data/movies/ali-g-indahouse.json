@@ -4,15 +4,125 @@
   "meta": {
     "title": "Ali G Indahouse",
     "poster": "https://image.tmdb.org/t/p/w500/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg",
-    "synopsis": "Ali G unwittingly becomes a pawn in the evil Chancellor\u2019s plot to overthrow the Prime Minister of Great Britain. However, instead of bringing the Prime Minister down, Ali is embraced by the nation as the voice of youth and \u2018realness\u2019, making the Prime Minister and his government more popular than ever."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Mar. 21, 2002",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Ali G unwittingly becomes a pawn in the evil Chancellor\u2019s plot to overthrow the Prime Minister of Great Britain. However, instead of bringing the Prime Minister down, Ali is embraced by the nation as the voice of youth and \u2018realness\u2019, making the Prime Minister and his government more popular than ever.",
+    "infoFields": {
+      "Original title": "Ali G Indahouse",
+      "IMDb Rating": "6.2 98,432 votes",
+      "TMDb Rating": "6.065 1,413 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Mark Mylod",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mark-mylod/",
+      "image": "https://image.tmdb.org/t/p/w92/6Nwg31BrgPkCjZ054Pso3ctg3Ov.jpg"
+    },
+    {
+      "name": "Sacha Baron Cohen",
+      "role": "Alistair Leslie \"Ali G\" Graham / Borat Sagdiyev",
+      "url": "https://multimovies.city/cast/sacha-baron-cohen/",
+      "image": "https://image.tmdb.org/t/p/w92/irirhgOX0siCyqvMrt2hoJpXfOG.jpg"
+    },
+    {
+      "name": "Michael Gambon",
+      "role": "Prime Minister",
+      "url": "https://multimovies.city/cast/michael-gambon/",
+      "image": "https://image.tmdb.org/t/p/w92/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "name": "Charles Dance",
+      "role": "Deputy Prime Minister David Carlton",
+      "url": "https://multimovies.city/cast/charles-dance/",
+      "image": "https://image.tmdb.org/t/p/w92/3xHwq5lchAI6mfW0aGQOEijexv6.jpg"
+    },
+    {
+      "name": "Kellie Bright",
+      "role": "Julie",
+      "url": "https://multimovies.city/cast/kellie-bright/",
+      "image": "https://image.tmdb.org/t/p/w92/eOdY1cbuzfdPmZ7AIQWOvnBs69s.jpg"
+    },
+    {
+      "name": "Martin Freeman",
+      "role": "Richard \"Ricky C\" Cunningham",
+      "url": "https://multimovies.city/cast/martin-freeman/",
+      "image": "https://image.tmdb.org/t/p/w92/pLG7mmxBXXTVAgzXvQl0ap3qlJU.jpg"
+    },
+    {
+      "name": "Paul Clayton",
+      "role": "Alan Swan",
+      "url": "https://multimovies.city/cast/paul-clayton/",
+      "image": "https://image.tmdb.org/t/p/w92/v991vcdrQodIm2zdb59odfWWG1D.jpg"
+    },
+    {
+      "name": "Rhona Mitra",
+      "role": "Kate Hedges",
+      "url": "https://multimovies.city/cast/rhona-mitra/",
+      "image": "https://image.tmdb.org/t/p/w92/180mi1x7qLyyl32oAs82fC9R7vV.jpg"
+    },
+    {
+      "name": "Tony Way",
+      "role": "Dave",
+      "url": "https://multimovies.city/cast/tony-way/",
+      "image": "https://image.tmdb.org/t/p/w92/u48ePSGsP1ww2VmPgNXgog3IM83.jpg"
+    },
+    {
+      "name": "Graham McTavish",
+      "role": "Duke",
+      "url": "https://multimovies.city/cast/graham-mctavish/",
+      "image": "https://image.tmdb.org/t/p/w92/9IjPwv7Vb4QygA1cPSX179oqjsT.jpg"
+    },
+    {
+      "name": "Barbara New",
+      "role": "Nan",
+      "url": "https://multimovies.city/cast/barbara-new/",
+      "image": "https://image.tmdb.org/t/p/w92/7a4GKVmzSCGWZciWzmzeObdN9uZ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ll5ktqAG3EOlCS8bpyoC0kYSSe9.jpg",
+    "https://image.tmdb.org/t/p/w300/8AxPKHXtIfccKyspw3Z87ZGsRcH.jpg",
+    "https://image.tmdb.org/t/p/w300/4rQEXhLjPXTtz06Bg6wayPofkGU.jpg",
+    "https://image.tmdb.org/t/p/w300/cSVFz8BbfON5tNDsevh9akNDC9e.jpg",
+    "https://image.tmdb.org/t/p/w300/uJlhxE6yBpGLvgH9e00zqYHfzwR.jpg",
+    "https://image.tmdb.org/t/p/w300/iHNUoMYue8HGDYX5iORFbf18B00.jpg",
+    "https://image.tmdb.org/t/p/w300/bWqnrRmWmXJcBx2oCzdN7EGKFqA.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 478,
+  "sources": [
+    "https://www.youtube.com/embed/SIZDns0DU6I?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/cr27eeu"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 98038,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 98038,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:31:25"
+  "last_update": "2025-09-16T17:34:18.935764"
 }
