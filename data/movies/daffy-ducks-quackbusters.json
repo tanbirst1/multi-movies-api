@@ -1,0 +1,88 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/daffy-ducks-quackbusters/",
+  "meta": {
+    "title": "Daffy Duck\u2019s Quackbusters",
+    "poster": "https://image.tmdb.org/t/p/w500/3qZF2KvosVuyx0FRbm5rteBGrnF.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Sep. 24, 1988",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "In this feature-length film combining footage from classic Warner Brothers cartoon shorts with newly animated bridging sequences, Daffy Duck, after having induced laughter in an ailing millionaire and forestalled the millionaire\u2019s death for a time (as chronicled in Daffy Dilly (1948), is the beneficiary for the deceased millionaire\u2019s assets. But the millionaire\u2019s will clearly stipulates that Daffy must use the money for the common good, by providing a service, and should Daffy think of pursuing selfish aims, the millionaire\u2019s ghost will \u201crepossess\u201d his millions by making them disappear from Earthly existence. Under the pretense of community service, Daffy opens an exorcism agency and employs Porky Pig, Sylvester Cat, and Bugs Bunny to track and eliminate ghosts, ghouls, and other monsters, while Daffy secretly schemes to use his learned \u201cghost-busting\u201d talents to rid himself of the millionaire\u2019s nagging spirit.",
+    "infoFields": {
+      "Original title": "Daffy Duck's Quackbusters",
+      "IMDb Rating": "7 2,537 votes",
+      "TMDb Rating": "6.686 110 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Chuck Jones",
+      "role": "Director",
+      "url": "https://multimovies.city/director/chuck-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/akHjjvb13odwWsEBdbAcaYCF7uI.jpg"
+    },
+    {
+      "name": "Mel Blanc",
+      "role": "Daffy Duck/Bugs Bunny/Porky Pig/Sylvester",
+      "url": "https://multimovies.city/cast/mel-blanc/",
+      "image": "https://image.tmdb.org/t/p/w92/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zcelH1QmItPseCXJrmos5ekee84.jpg",
+    "https://image.tmdb.org/t/p/w300/i5xu4ulcB1VIsgnSMnBZkAQ0t33.jpg",
+    "https://image.tmdb.org/t/p/w300/johna4IMdH9YuIHE6kcS1zKNqvp.jpg",
+    "https://image.tmdb.org/t/p/w300/j5EVR2CvHIDkoHPSJJ1Vt8FPQ1I.jpg",
+    "https://image.tmdb.org/t/p/w300/3jTw1SaUc8HEad88r9tLsdogEEp.jpg",
+    "https://image.tmdb.org/t/p/w300/s27S4paRgNYeB1eql3hI1ggeRNv.jpg"
+  ],
+  "similar": [],
+  "views": 745,
+  "sources": [
+    "https://www.youtube.com/embed/HPh67iR9_IE?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ujuh2bl6lt7u"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18595,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18595,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
