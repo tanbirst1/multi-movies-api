@@ -4,15 +4,128 @@
   "meta": {
     "title": "Patch Adams",
     "poster": "https://image.tmdb.org/t/p/w500/xN1aKur5ddWQSXTqvzDPJD2TCxe.jpg",
-    "synopsis": "The true story of Dr. Hunter \u201cPatch\u201d Adams, who in the 1970s found that humor is the best medicine, and was willing to do just anything to make his patients laugh\u2014even if it meant risking his own career."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 25, 1998",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "The true story of Dr. Hunter \u201cPatch\u201d Adams, who in the 1970s found that humor is the best medicine, and was willing to do just anything to make his patients laugh\u2014even if it meant risking his own career.",
+    "infoFields": {
+      "Original title": "Patch Adams",
+      "IMDb Rating": "6.8 125,681 votes",
+      "TMDb Rating": "7.3 3,242 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Tom Shadyac",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tom-shadyac/",
+      "image": "https://image.tmdb.org/t/p/w92/kuliB1DrKSbdn2jxESncPbWxGrD.jpg"
+    },
+    {
+      "name": "Robin Williams",
+      "role": "Hunter 'Patch' Adams",
+      "url": "https://multimovies.city/cast/robin-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "name": "Monica Potter",
+      "role": "Carin Fisher",
+      "url": "https://multimovies.city/cast/monica-potter/",
+      "image": "https://image.tmdb.org/t/p/w92/jCFOlFAjNPMkX9pJF2Au0cquZ6v.jpg"
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "role": "Mitch Roman",
+      "url": "https://multimovies.city/cast/philip-seymour-hoffman/",
+      "image": "https://image.tmdb.org/t/p/w92/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+    },
+    {
+      "name": "Daniel London",
+      "role": "Truman Schiff",
+      "url": "https://multimovies.city/cast/daniel-london/",
+      "image": "https://image.tmdb.org/t/p/w92/feRkUWfs2LpVzULMdkpBHN5JYdM.jpg"
+    },
+    {
+      "name": "Bob Gunton",
+      "role": "Dean Walcott",
+      "url": "https://multimovies.city/cast/bob-gunton/",
+      "image": "https://image.tmdb.org/t/p/w92/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+    },
+    {
+      "name": "Harve Presnell",
+      "role": "Dean Anderson",
+      "url": "https://multimovies.city/cast/harve-presnell/",
+      "image": "https://image.tmdb.org/t/p/w92/rQ59i2F9xMLp5MzuxmNN91iKzcV.jpg"
+    },
+    {
+      "name": "Peter Coyote",
+      "role": "Bill Davis",
+      "url": "https://multimovies.city/cast/peter-coyote/",
+      "image": "https://image.tmdb.org/t/p/w92/ld3xLYTcZWjAc0bE33DONT7n9o8.jpg"
+    },
+    {
+      "name": "Michael Jeter",
+      "role": "Rudy",
+      "url": "https://multimovies.city/cast/michael-jeter/",
+      "image": "https://image.tmdb.org/t/p/w92/9QUh9fO8A5Dt6AIl9jCd4ZIQxTp.jpg"
+    },
+    {
+      "name": "Josef Sommer",
+      "role": "Dr. Eaton",
+      "url": "https://multimovies.city/cast/josef-sommer/",
+      "image": "https://image.tmdb.org/t/p/w92/eY3tCB4j7nWhsZX1enU6BYpaZl.jpg"
+    },
+    {
+      "name": "Irma P. Hall",
+      "role": "Joletta",
+      "url": "https://multimovies.city/cast/irma-p-hall/",
+      "image": "https://image.tmdb.org/t/p/w92/kKLDJvpAE1uKLeTw5jUmBwPgqOd.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+    "https://image.tmdb.org/t/p/w300/w5KgTa5LEokp1ki1zq4pyS3fkYy.jpg",
+    "https://image.tmdb.org/t/p/w300/uglfxIpBrjoZaFLo6VRfuOou8Gk.jpg",
+    "https://image.tmdb.org/t/p/w300/nMGFBqx0ZHqiEj6RZphnA8vIz8q.jpg",
+    "https://image.tmdb.org/t/p/w300/3AsO0Nmj1zeMC5Zuef8U8MG6iM.jpg",
+    "https://image.tmdb.org/t/p/w300/32FtGc8wj0UvOwJ7sTf4GiLJp1K.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 300,
+  "sources": [
+    "https://www.youtube.com/embed/lZqGA1ldvYE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/a78q26f"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 81957,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 81957,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:20:44"
+  "last_update": "2025-09-16T17:23:29.944043"
 }
