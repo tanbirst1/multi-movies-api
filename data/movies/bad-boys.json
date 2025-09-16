@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/bad-boys/",
+  "meta": {
+    "title": "Bad Boys",
+    "poster": "https://image.tmdb.org/t/p/w500/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Apr. 07, 1995",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Marcus Burnett is a henpecked family man. Mike Lowry is a footloose and fancy free ladies\u2019 man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station\u2019s nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.",
+    "infoFields": {
+      "Original title": "Bad Boys",
+      "IMDb Rating": "6.8 290,020 votes",
+      "TMDb Rating": "6.798 6,042 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Michael Bay",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-bay/",
+      "image": "https://image.tmdb.org/t/p/w92/8I9H9IKROECFEn7usvyChbRMhbI.jpg"
+    },
+    {
+      "name": "Martin Lawrence",
+      "role": "Marcus Burnett",
+      "url": "https://multimovies.city/cast/martin-lawrence/",
+      "image": "https://image.tmdb.org/t/p/w92/kE78jD0UC3PvJvPlqbbHLuUUVr5.jpg"
+    },
+    {
+      "name": "Will Smith",
+      "role": "Mike Lowrey",
+      "url": "https://multimovies.city/cast/will-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+    },
+    {
+      "name": "T\u00e9a Leoni",
+      "role": "Julie Mott",
+      "url": "https://multimovies.city/cast/tea-leoni/",
+      "image": "https://image.tmdb.org/t/p/w92/1Jb6J8Q6zW8IAWMjrCd3c0NIlKL.jpg"
+    },
+    {
+      "name": "Tch\u00e9ky Karyo",
+      "role": "Fouchet",
+      "url": "https://multimovies.city/cast/tcheky-karyo/",
+      "image": "https://image.tmdb.org/t/p/w92/jrtGiLYaALwDZgF39Hlgb8O1XZ1.jpg"
+    },
+    {
+      "name": "Joe Pantoliano",
+      "role": "Captain Howard",
+      "url": "https://multimovies.city/cast/joe-pantoliano/",
+      "image": "https://image.tmdb.org/t/p/w92/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+    },
+    {
+      "name": "Theresa Randle",
+      "role": "Theresa Burnett",
+      "url": "https://multimovies.city/cast/theresa-randle/",
+      "image": "https://image.tmdb.org/t/p/w92/myBU9qG6wXHJfYF9cl07rvQmhUB.jpg"
+    },
+    {
+      "name": "Marg Helgenberger",
+      "role": "Alison Sinclair",
+      "url": "https://multimovies.city/cast/marg-helgenberger/",
+      "image": "https://image.tmdb.org/t/p/w92/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
+    },
+    {
+      "name": "Nestor Serrano",
+      "role": "Detective Sanchez",
+      "url": "https://multimovies.city/cast/nestor-serrano/",
+      "image": "https://image.tmdb.org/t/p/w92/eHc35FzO1EfoyqYa1YQ67snfEnR.jpg"
+    },
+    {
+      "name": "Julio Oscar Mechoso",
+      "role": "Detective Ruiz",
+      "url": "https://multimovies.city/cast/julio-oscar-mechoso/",
+      "image": "https://image.tmdb.org/t/p/w92/2m1vtlRlSxozMOoHeobCY2pbrPi.jpg"
+    },
+    {
+      "name": "Saverio Guerra",
+      "role": "Chet The Doorman",
+      "url": "https://multimovies.city/cast/saverio-guerra/",
+      "image": "https://image.tmdb.org/t/p/w92/liaGk1K3ZdJFkXUUvGEkMdDhz3n.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/r4TxCaZvQ2bLFoXRLHGfii6b3tJ.jpg",
+    "https://image.tmdb.org/t/p/w300/fgKEdhRw9IgI9KGjLe4w5ghIjA3.jpg",
+    "https://image.tmdb.org/t/p/w300/wOLTJxfv98miIQcn0oNXq9fIgXM.jpg",
+    "https://image.tmdb.org/t/p/w300/x5ALlgbSQoK5NMiHWxgy3sOKrGU.jpg",
+    "https://image.tmdb.org/t/p/w300/azc8Wx2Z7KxNM8ogJ0qhcyuVOCp.jpg",
+    "https://image.tmdb.org/t/p/w300/l6LJpKczCTckovTSvTyAPVoeSSX.jpg",
+    "https://image.tmdb.org/t/p/w300/yXD95dGjEUX7WCdOKUlTvutz2A1.jpg",
+    "https://image.tmdb.org/t/p/w300/wQW7d19J87u1Ktt8AGqFXd5H8E.jpg",
+    "https://image.tmdb.org/t/p/w300/AkisNzddKMn9KDLYUqR570dcZMT.jpg",
+    "https://image.tmdb.org/t/p/w300/uz7oOew2hKbOhyxDA9bWp0sXezT.jpg"
+  ],
+  "similar": [],
+  "views": 2743,
+  "sources": [
+    "https://www.youtube.com/embed/6T6p56VVRY0?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/iyimcyxscq2g"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 53326,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 53326,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
