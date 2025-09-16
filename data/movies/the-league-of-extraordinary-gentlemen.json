@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-league-of-extraordinary-gentlemen/",
+  "meta": {
+    "title": "The League of Extraordinary Gentlemen",
+    "poster": "https://image.tmdb.org/t/p/w500/kdAuVFP63XXxnb983ry2pLCKd9S.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 11, 2003",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "To prevent a world war from breaking out, famous characters from Victorian literature band together to do battle against a cunning villain.",
+    "infoFields": {
+      "Original title": "The League of Extraordinary Gentlemen",
+      "IMDb Rating": "5.8 183,292 votes",
+      "TMDb Rating": "5.953 3,810 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Vic Armstrong",
+      "role": "Director",
+      "url": "https://multimovies.city/director/vic-armstrong/",
+      "image": "https://image.tmdb.org/t/p/w92/n5QucsPxuYcsvq9Te00lkWhsYUx.jpg"
+    },
+    {
+      "name": "Sean Connery",
+      "role": "Allan Quatermain",
+      "url": "https://multimovies.city/cast/sean-connery/",
+      "image": "https://image.tmdb.org/t/p/w92/hbB676mW62gjsh0f51ICYE11niG.jpg"
+    },
+    {
+      "name": "Naseeruddin Shah",
+      "role": "Captain Nemo",
+      "url": "https://multimovies.city/cast/naseeruddin-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/lFvGfKypi5NNyUjrsT8Y7ebWc7G.jpg"
+    },
+    {
+      "name": "Shane West",
+      "role": "Tom Sawyer",
+      "url": "https://multimovies.city/cast/shane-west/",
+      "image": "https://image.tmdb.org/t/p/w92/1tkAg5kgq7Nv3r0nYO7cDHGfYyr.jpg"
+    },
+    {
+      "name": "Peta Wilson",
+      "role": "Mina Harker",
+      "url": "https://multimovies.city/cast/peta-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/eFmvcjqjPiaF4YzwBkI5WIwwE1h.jpg"
+    },
+    {
+      "name": "Stuart Townsend",
+      "role": "Dorian Gray",
+      "url": "https://multimovies.city/cast/stuart-townsend/",
+      "image": "https://image.tmdb.org/t/p/w92/8jc2nlrAkinMjyVPvYxa9goL5QZ.jpg"
+    },
+    {
+      "name": "Jason Flemyng",
+      "role": "Dr. Henry Jekyll / Edward Hyde",
+      "url": "https://multimovies.city/cast/jason-flemyng/",
+      "image": "https://image.tmdb.org/t/p/w92/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+    },
+    {
+      "name": "Tony Curran",
+      "role": "Rodney Skinner / The Invisible Man",
+      "url": "https://multimovies.city/cast/tony-curran/",
+      "image": "https://image.tmdb.org/t/p/w92/3jDsskeIzbCNKuqu2WIxmtmv8mG.jpg"
+    },
+    {
+      "name": "Richard Roxburgh",
+      "role": "M",
+      "url": "https://multimovies.city/cast/richard-roxburgh/",
+      "image": "https://image.tmdb.org/t/p/w92/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg"
+    },
+    {
+      "name": "Max Ryan",
+      "role": "Dante",
+      "url": "https://multimovies.city/cast/max-ryan/",
+      "image": "https://image.tmdb.org/t/p/w92/q21XcN0YzA7lDHuFbwGAV9O6N9J.jpg"
+    },
+    {
+      "name": "Tom Goodman-Hill",
+      "role": "Sanderson Reed",
+      "url": "https://multimovies.city/cast/tom-goodman-hill/",
+      "image": "https://image.tmdb.org/t/p/w92/2rC1qhYmJiuk3iY15Ms7VLau6XD.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/tsUlDhS8jeaK6x65ZrEtvrkPVx4.jpg",
+    "https://image.tmdb.org/t/p/w300/n3VpgjdOB1DkHSUe1DbFzV8ncpJ.jpg",
+    "https://image.tmdb.org/t/p/w300/9ix0gimV6tFP5M2NMFp4XjBukIT.jpg",
+    "https://image.tmdb.org/t/p/w300/hPkXohVUR7KnWbAaWdX7HO3kU4K.jpg",
+    "https://image.tmdb.org/t/p/w300/pUgcKgy5MMPcKcfrYUCFrpcCLUr.jpg",
+    "https://image.tmdb.org/t/p/w300/9x2bmVDXR9fnG2YducyT8RIPXuF.jpg",
+    "https://image.tmdb.org/t/p/w300/cRooSp9FigHaq9WTWG6GM2Sgszt.jpg",
+    "https://image.tmdb.org/t/p/w300/n3mjWRMO09PhQMsYMRdBU1L7rmo.jpg",
+    "https://image.tmdb.org/t/p/w300/cdyf3jH2V1K4N7ZXZlx3SDcM9ga.jpg",
+    "https://image.tmdb.org/t/p/w300/hZ6oT7ODhAltit1FQaq8YMroY6v.jpg"
+  ],
+  "similar": [],
+  "views": 1150,
+  "sources": [
+    "https://www.youtube.com/embed/vKI2of69xfA?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/6qh9o0x0qsnh"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 44072,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 44072,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:42:01.386979"
+}
