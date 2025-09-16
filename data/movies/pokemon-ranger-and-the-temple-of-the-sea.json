@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/pokemon-ranger-and-the-temple-of-the-sea/",
+  "meta": {
+    "title": "Pok\u00e9mon Movie 9: Pok\u00e9mon Ranger and the Temple of the Sea",
+    "poster": "https://image.tmdb.org/t/p/w500/fj9aVJP9bZGkB7NResSauAAImr0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jul. 15, 2006",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "On their way through the Battle Frontier, Ash and friends meet up with a Pok\u00e9mon Ranger who\u2019s mission is to deliever the egg of Manaphy to a temple on the ocean\u2019s floor. However, a greedy pirate wants the power of Manaphy to himself.",
+    "infoFields": {
+      "Original title": "\u5287\u5834\u7248\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u30a2\u30c9\u30d0\u30f3\u30b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3 \u30dd\u30b1\u30e2\u30f3\u30ec\u30f3\u30b8\u30e3\u30fc\u3068\u84bc\u6d77\u306e\u738b\u5b50 \u30de\u30ca\u30d5\u30a3",
+      "IMDb Rating": "5.9 2,824 votes",
+      "TMDb Rating": "6.546 183 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kunihiko Yuyama",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kunihiko-yuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/m9TuHUsVZXwacadFyDIZ7BKFkrM.jpg"
+    },
+    {
+      "name": "Rica Matsumoto",
+      "role": "Satoshi (voice)",
+      "url": "https://multimovies.city/cast/rica-matsumoto/",
+      "image": "https://image.tmdb.org/t/p/w92/ykm6ZpLcX5wblCNp7rOAoZpCh3L.jpg"
+    },
+    {
+      "name": "Ikue Otani",
+      "role": "Pikachu (voice)",
+      "url": "https://multimovies.city/cast/ikue-otani/",
+      "image": "https://image.tmdb.org/t/p/w92/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "name": "Yuji Ueda",
+      "role": "Takeshi / Sonans (voice)",
+      "url": "https://multimovies.city/cast/yuji-ueda/",
+      "image": "https://image.tmdb.org/t/p/w92/nwJBK4WwsUCcBcX425GD2BroJDr.jpg"
+    },
+    {
+      "name": "KAORI",
+      "role": "Haruka (voice)",
+      "url": "https://multimovies.city/cast/kaori/",
+      "image": "https://image.tmdb.org/t/p/w92/dC2BZG5c3GoACZmXFV2qo6YtVNk.jpg"
+    },
+    {
+      "name": "Fushigi Yamada",
+      "role": "Masato (voice)",
+      "url": "https://multimovies.city/cast/fushigi-yamada/",
+      "image": "https://image.tmdb.org/t/p/w92/uoodrznII4dGQhRSjb3ogqooX8D.jpg"
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "role": "Musashi (voice)",
+      "url": "https://multimovies.city/cast/megumi-hayashibara/",
+      "image": "https://image.tmdb.org/t/p/w92/wqwCa9PNUBXPuN9MpSnYq2dz740.jpg"
+    },
+    {
+      "name": "Shin-ichiro Miki",
+      "role": "Kojiro (voice)",
+      "url": "https://multimovies.city/cast/shin-ichiro-miki/",
+      "image": "https://image.tmdb.org/t/p/w92/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
+    },
+    {
+      "name": "Inuko Inuyama",
+      "role": "Nyarth (voice)",
+      "url": "https://multimovies.city/cast/inuko-inuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/bA6BQgafhEyRFMh4EbZQJqvIVWY.jpg"
+    },
+    {
+      "name": "Yuri Shiratori",
+      "role": "Manaphy (voice)",
+      "url": "https://multimovies.city/cast/yuri-shiratori/",
+      "image": "https://image.tmdb.org/t/p/w92/lEyxHlmcywDZmqYVA9mDbZMcCGp.jpg"
+    },
+    {
+      "name": "Tomomichi Nishimura",
+      "role": "Shep (voice)",
+      "url": "https://multimovies.city/cast/tomomichi-nishimura/",
+      "image": "https://image.tmdb.org/t/p/w92/nDy0ANhUPUGkpSprwuiCbq4Hrwn.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/yLJeOFvP0DidEqkoSSrQFQh8J47.jpg"
+  ],
+  "similar": [],
+  "views": 1743,
+  "sources": [
+    "https://www.youtube.com/embed/jt1Ui72oBlc?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/mntyo3p0z1gl"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 29247,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 29247,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:05:03.154946"
+}
