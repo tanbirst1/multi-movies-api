@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/interview-with-the-vampire/",
+  "meta": {
+    "title": "Interview with the Vampire",
+    "poster": "https://image.tmdb.org/t/p/w500/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Nov. 11, 1994",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+    "infoFields": {
+      "Original title": "Interview with the Vampire",
+      "IMDb Rating": "7.5 361,677 votes",
+      "TMDb Rating": "7.382 6,031 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Neil Jordan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/neil-jordan/",
+      "image": "https://image.tmdb.org/t/p/w92/uZ7CvCLTKb9qxjU4VsTNeyMRucd.jpg"
+    },
+    {
+      "name": "Tom Cruise",
+      "role": "Lestat",
+      "url": "https://multimovies.city/cast/tom-cruise/",
+      "image": "https://image.tmdb.org/t/p/w92/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
+    },
+    {
+      "name": "Brad Pitt",
+      "role": "Louis",
+      "url": "https://multimovies.city/cast/brad-pitt/",
+      "image": "https://image.tmdb.org/t/p/w92/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "name": "Antonio Banderas",
+      "role": "Armand",
+      "url": "https://multimovies.city/cast/antonio-banderas/",
+      "image": "https://image.tmdb.org/t/p/w92/5BmWgSeW8Rg6hkisEeqLM5P0OBZ.jpg"
+    },
+    {
+      "name": "Christian Slater",
+      "role": "Malloy",
+      "url": "https://multimovies.city/cast/christian-slater/",
+      "image": "https://image.tmdb.org/t/p/w92/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+    },
+    {
+      "name": "Stephen Rea",
+      "role": "Santiago",
+      "url": "https://multimovies.city/cast/stephen-rea/",
+      "image": "https://image.tmdb.org/t/p/w92/17ZSGqvJqdvInuw1TlQlkf39yfi.jpg"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "role": "Claudia",
+      "url": "https://multimovies.city/cast/kirsten-dunst/",
+      "image": "https://image.tmdb.org/t/p/w92/5dI5s8Oq2Ook5PFzTWMW6DCXVjm.jpg"
+    },
+    {
+      "name": "Domiziana Giordano",
+      "role": "Madeleine",
+      "url": "https://multimovies.city/cast/domiziana-giordano/",
+      "image": "https://image.tmdb.org/t/p/w92/w99tdRPvDUw0rlbDWn6RWnM9Rq.jpg"
+    },
+    {
+      "name": "Thandiwe Newton",
+      "role": "Yvette",
+      "url": "https://multimovies.city/cast/thandiwe-newton/",
+      "image": "https://image.tmdb.org/t/p/w92/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+      "name": "Laure Marsac",
+      "role": "Mortal Woman on Stage",
+      "url": "https://multimovies.city/cast/laure-marsac/",
+      "image": "https://image.tmdb.org/t/p/w92/sCz2f69Q2ummSuKDOD6XURsfiG1.jpg"
+    },
+    {
+      "name": "John McConnell",
+      "role": "Gambler",
+      "url": "https://multimovies.city/cast/john-mcconnell/",
+      "image": "https://image.tmdb.org/t/p/w92/gAHxNx9PhT2xVqct6ac61tKFabT.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+    "https://image.tmdb.org/t/p/w300/gmCqIGV0xcK7G47lj6OyVPcRelk.jpg",
+    "https://image.tmdb.org/t/p/w300/leLqEL9ME1o2Ck47k2WubgOvaRh.jpg",
+    "https://image.tmdb.org/t/p/w300/6cwkM6dkWU4F9YM0JCIqLDK2Aue.jpg",
+    "https://image.tmdb.org/t/p/w300/ajXoLFOA2CNGPyKMZJEQNSIl5Af.jpg",
+    "https://image.tmdb.org/t/p/w300/5qLZnRvBU2oUn0vUFAFm8Tzgjfj.jpg",
+    "https://image.tmdb.org/t/p/w300/e7P2SOAo6aYYw9l9w45a5Vw1qkb.jpg",
+    "https://image.tmdb.org/t/p/w300/4GESKqjdxW32VxESn0Iu7JvTcqV.jpg",
+    "https://image.tmdb.org/t/p/w300/ytNDdoDcm3lC3WbobeFnCW0Plt5.jpg",
+    "https://image.tmdb.org/t/p/w300/uOgNl8pofHwqlVVdGPGVnt7OmmN.jpg"
+  ],
+  "similar": [],
+  "views": 985,
+  "sources": [
+    "https://www.youtube.com/embed/qsJ6BdQuUxo?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/rz88ju4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 84712,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 84712,
+      "nume": 1,
+      "title": "GD"
+    }
+  ],
+  "cache": false
+}
