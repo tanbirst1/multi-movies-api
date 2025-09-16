@@ -4,9 +4,124 @@
   "meta": {
     "title": "Ishq",
     "poster": "https://image.tmdb.org/t/p/w500/38xVYSuVXIJS1iyEaRm8wtjotZB.jpg",
-    "synopsis": "Harbans Rai and Ranjit Rai are two wealthy businessmen who absolutely *loathe* poverty and poor people . As fate would have it , Harbans Rai\u2019s daughter Madhu falls for a poor mechanic Raja while Ranjit Rai\u2019s son Ajay romances a poor girl Kajal . When Harbans and Ranjit come to know of it they try various ways to separate the lovers."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Nov. 28, 1997",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Harbans Rai and Ranjit Rai are two wealthy businessmen who absolutely *loathe* poverty and poor people . As fate would have it , Harbans Rai\u2019s daughter Madhu falls for a poor mechanic Raja while Ranjit Rai\u2019s son Ajay romances a poor girl Kajal . When Harbans and Ranjit come to know of it they try various ways to separate the lovers.",
+    "infoFields": {
+      "Original title": "Ishq",
+      "IMDb Rating": "6.8 11,157 votes",
+      "TMDb Rating": "6.48 49 votes"
+    }
   },
   "seasons": [],
+  "cast": [
+    {
+      "name": "Indra Kumar",
+      "role": "Director",
+      "url": "https://multimovies.city/director/indra-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/zE7yyzOnyBkcvqKSTn9oHQ6DCSF.jpg"
+    },
+    {
+      "name": "Aamir Khan",
+      "role": "Raja",
+      "url": "https://multimovies.city/cast/aamir-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/bI3yxh4FzKL2hHYS4nbzcDMWtZs.jpg"
+    },
+    {
+      "name": "Ajay Devgn",
+      "role": "Ajay Rai",
+      "url": "https://multimovies.city/cast/ajay-devgn/",
+      "image": "https://image.tmdb.org/t/p/w92/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg"
+    },
+    {
+      "name": "Juhi Chawla",
+      "role": "Madhu",
+      "url": "https://multimovies.city/cast/juhi-chawla/",
+      "image": "https://image.tmdb.org/t/p/w92/gyZLscSW3dYYe3N5K2YcYtRnbq5.jpg"
+    },
+    {
+      "name": "Kajol",
+      "role": "Kajal",
+      "url": "https://multimovies.city/cast/kajol/",
+      "image": "https://image.tmdb.org/t/p/w92/h4m0TkDuEMCUNaPrQxMRyFb2AQ7.jpg"
+    },
+    {
+      "name": "Dalip Tahil",
+      "role": "Harbans Lal",
+      "url": "https://multimovies.city/cast/dalip-tahil/",
+      "image": "https://image.tmdb.org/t/p/w92/4kgTd5aKh3IRxrJ7uG5h9mojb57.jpg"
+    },
+    {
+      "name": "Johnny Lever",
+      "role": "Johny",
+      "url": "https://multimovies.city/cast/johnny-lever/",
+      "image": "https://image.tmdb.org/t/p/w92/29PTgDWlNbctgddAC8V9C3Gf8B.jpg"
+    },
+    {
+      "name": "Mohan Joshi",
+      "role": "Kajol's Uncle",
+      "url": "https://multimovies.city/cast/mohan-joshi/",
+      "image": "https://image.tmdb.org/t/p/w92/hTZ61kTsGlxGebxjWmFDWmkgnjq.jpg"
+    },
+    {
+      "name": "Deven Verma",
+      "role": "Behram",
+      "url": "https://multimovies.city/cast/deven-verma/",
+      "image": "https://image.tmdb.org/t/p/w92/6Mf7cg9TVaVNA4i7zZP3jf7kp4d.jpg"
+    },
+    {
+      "name": "Deepak Shirke",
+      "role": "Damliya",
+      "url": "https://multimovies.city/cast/deepak-shirke/",
+      "image": "https://image.tmdb.org/t/p/w92/eiPMYKXPjWEhOVzQ0KyNiEDkAes.jpg"
+    },
+    {
+      "name": "Sadashiv Amrapurkar",
+      "role": "Ranjit Rai",
+      "url": "https://multimovies.city/cast/sadashiv-amrapurkar/",
+      "image": "https://image.tmdb.org/t/p/w92/5ppazNZPQjlR1IRM0DyN3Kf3hfd.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/35pwaNC2LwZuSS59jCENO7Cvr6M.jpg"
+  ],
+  "similar": [],
+  "views": 1066,
+  "sources": [
+    "https://multimoviesshg.com/e/0afnqjadtzs8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 17493,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 15:50:58"
+  "last_update": "2025-09-16T17:21:57.307525"
 }
