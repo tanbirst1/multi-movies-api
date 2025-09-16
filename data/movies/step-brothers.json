@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/step-brothers/",
+  "meta": {
+    "title": "Step Brothers",
+    "poster": "https://image.tmdb.org/t/p/w500/jV0eDViuTRf9cmj4H0JNvbvaNbR.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jul. 25, 2008",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Brennan Huff and Dale Doback might be grown men. But that doesn\u2019t stop them from living at home and turning into jealous, competitive stepbrothers when their single parents marry. Brennan\u2019s constant competition with Dale strains his mom\u2019s marriage to Dale\u2019s dad, leaving everyone to wonder whether they\u2019ll ever see eye to eye.",
+    "infoFields": {
+      "Original title": "Step Brothers",
+      "IMDb Rating": "6.9 303,745 votes",
+      "TMDb Rating": "6.557 2,740 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Adam McKay",
+      "role": "Director",
+      "url": "https://multimovies.city/director/adam-mckay/",
+      "image": "https://image.tmdb.org/t/p/w92/vOyZXNJq7Oo01LPtSD5AZHjctgH.jpg"
+    },
+    {
+      "name": "Will Ferrell",
+      "role": "Brennan Huff",
+      "url": "https://multimovies.city/cast/will-ferrell/",
+      "image": "https://image.tmdb.org/t/p/w92/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
+    },
+    {
+      "name": "John C. Reilly",
+      "role": "Dale Doback",
+      "url": "https://multimovies.city/cast/john-c-reilly/",
+      "image": "https://image.tmdb.org/t/p/w92/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+    },
+    {
+      "name": "Mary Steenburgen",
+      "role": "Nancy Huff",
+      "url": "https://multimovies.city/cast/mary-steenburgen/",
+      "image": "https://image.tmdb.org/t/p/w92/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+    },
+    {
+      "name": "Richard Jenkins",
+      "role": "Dr. Robert Doback",
+      "url": "https://multimovies.city/cast/richard-jenkins/",
+      "image": "https://image.tmdb.org/t/p/w92/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+    },
+    {
+      "name": "Adam Scott",
+      "role": "Derek",
+      "url": "https://multimovies.city/cast/adam-scott/",
+      "image": "https://image.tmdb.org/t/p/w92/6vLiih0N5s7JOYyRgclxbnOMzI9.jpg"
+    },
+    {
+      "name": "Kathryn Hahn",
+      "role": "Alice",
+      "url": "https://multimovies.city/cast/kathryn-hahn/",
+      "image": "https://image.tmdb.org/t/p/w92/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+    },
+    {
+      "name": "Andrea Savage",
+      "role": "Denise",
+      "url": "https://multimovies.city/cast/andrea-savage/",
+      "image": "https://image.tmdb.org/t/p/w92/dh2prcwPU9U1PBdCNu5SSd4Of9j.jpg"
+    },
+    {
+      "name": "Lurie Poston",
+      "role": "Tommy",
+      "url": "https://multimovies.city/cast/lurie-poston/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Elizabeth Yozamp",
+      "role": "Tiffany",
+      "url": "https://multimovies.city/cast/elizabeth-yozamp/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Logan Manus",
+      "role": "Chris Gardoki",
+      "url": "https://multimovies.city/cast/logan-manus/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/n53EPBWZiz69sYzNDZmamYHdo6Q.jpg",
+    "https://image.tmdb.org/t/p/w300/e3msiPOj74UVgrLAmxROCtV22sx.jpg",
+    "https://image.tmdb.org/t/p/w300/247H2jS9Te9TTmKDcAMg3LN5gmI.jpg",
+    "https://image.tmdb.org/t/p/w300/4UTw31f71f9x3LVSgc3R1rjBNIQ.jpg",
+    "https://image.tmdb.org/t/p/w300/bHX7zEchynPY3ay2t2tOo4ljdPk.jpg",
+    "https://image.tmdb.org/t/p/w300/54gzpfc4LSdyho4UkiAF6w2mUhk.jpg",
+    "https://image.tmdb.org/t/p/w300/pCIl7o34C3xcGqz7FFqx8NNoQag.jpg",
+    "https://image.tmdb.org/t/p/w300/fQJYgMC87fp3O7l3fihcffBwOrf.jpg",
+    "https://image.tmdb.org/t/p/w300/l60x0WOg5XcmDZTVNG6TFHAntwP.jpg",
+    "https://image.tmdb.org/t/p/w300/rCxZ8J2HDhA6BYAvjzrxFPBVUgR.jpg"
+  ],
+  "similar": [],
+  "views": 1376,
+  "sources": [
+    "https://www.youtube.com/embed/CewglxElBK0?autoplay=0&autohide=1",
+    "https://multimovies.website/e/eq2khfgaly0v.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6563,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6563,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:19:31.510309"
+}
