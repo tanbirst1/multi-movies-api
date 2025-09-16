@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-girl-with-the-dragon-tattoo/",
+  "meta": {
+    "title": "The Girl with the Dragon Tattoo",
+    "poster": "https://image.tmdb.org/t/p/w500/r2pFUXKK20KD9RE3yybpQsNynRE.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Feb. 27, 2009",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Swedish thriller based on Stieg Larsson\u2019s novel about a male journalist and a young female hacker. In the opening of the movie, Mikael Blomkvist, a middle-aged publisher for the magazine Millennium, loses a libel case brought by corrupt Swedish industrialist Hans-Erik Wennerstr\u00f6m. Nevertheless, he is hired by Henrik Vanger in order to solve a cold case, the disappearance of Vanger\u2019s niece",
+    "infoFields": {
+      "Original title": "M\u00e4n som hatar kvinnor",
+      "IMDb Rating": "7.8 219,229 votes",
+      "TMDb Rating": "7.521 2,634 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Niels Arden Oplev",
+      "role": "Director",
+      "url": "https://multimovies.city/director/niels-arden-oplev/",
+      "image": "https://image.tmdb.org/t/p/w92/yGdxpPjMhIaeGaJL8TsVSpDuEbh.jpg"
+    },
+    {
+      "name": "Michael Nyqvist",
+      "role": "Mikael Blomkvist",
+      "url": "https://multimovies.city/cast/michael-nyqvist/",
+      "image": "https://image.tmdb.org/t/p/w92/8vhKIpohiL1wpwDjitjYisFXWLS.jpg"
+    },
+    {
+      "name": "Noomi Rapace",
+      "role": "Lisbeth Salander",
+      "url": "https://multimovies.city/cast/noomi-rapace/",
+      "image": "https://image.tmdb.org/t/p/w92/vdlUULsiwxEgxTwxn3vVQqmolcx.jpg"
+    },
+    {
+      "name": "Lena Endre",
+      "role": "Erika Berger",
+      "url": "https://multimovies.city/cast/lena-endre/",
+      "image": "https://image.tmdb.org/t/p/w92/hWrqTNGRnXNhAIuVkOyxIhyCW1I.jpg"
+    },
+    {
+      "name": "Sven-Bertil Taube",
+      "role": "Henrik Vanger",
+      "url": "https://multimovies.city/cast/sven-bertil-taube/",
+      "image": "https://image.tmdb.org/t/p/w92/lSRHpbj6B1ctuovgrXwnje7gcYm.jpg"
+    },
+    {
+      "name": "Peter Haber",
+      "role": "Martin Vanger",
+      "url": "https://multimovies.city/cast/peter-haber/",
+      "image": "https://image.tmdb.org/t/p/w92/wrDb3Xmqr7N6OYGkKJMGcghieor.jpg"
+    },
+    {
+      "name": "Peter Andersson",
+      "role": "Nils Bjurman",
+      "url": "https://multimovies.city/cast/peter-andersson/",
+      "image": "https://image.tmdb.org/t/p/w92/3QrCFAESqlCgwg10KLv1Wre0sKL.jpg"
+    },
+    {
+      "name": "Marika Lagercrantz",
+      "role": "Cecilia Vanger",
+      "url": "https://multimovies.city/cast/marika-lagercrantz/",
+      "image": "https://image.tmdb.org/t/p/w92/ya50fGUyUD1PfCopwgwr79O1O9w.jpg"
+    },
+    {
+      "name": "Ingvar Hirdwall",
+      "role": "Dirch Frode",
+      "url": "https://multimovies.city/cast/ingvar-hirdwall/",
+      "image": "https://image.tmdb.org/t/p/w92/fcoLF3kEQJ5nDuYaFESiyRGTL8U.jpg"
+    },
+    {
+      "name": "Bj\u00f6rn Granath",
+      "role": "Gustav Morell",
+      "url": "https://multimovies.city/cast/bjorn-granath/",
+      "image": "https://image.tmdb.org/t/p/w92/x6H9cCe7yModCopeskGdcOKnONX.jpg"
+    },
+    {
+      "name": "Ewa Fr\u00f6ling",
+      "role": "Harriet Vanger",
+      "url": "https://multimovies.city/cast/ewa-froling/",
+      "image": "https://image.tmdb.org/t/p/w92/ktzsmlevSuDcbU6wnqM0PGFIrBw.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/dPE25PbaeE6fCR2SQb4H4MeBmml.jpg",
+    "https://image.tmdb.org/t/p/w300/4LRemkftqYK7OmmP88rJLTvGYHu.jpg",
+    "https://image.tmdb.org/t/p/w300/j2Lz5QRfkFAwVXZnAhoFe0YfXXF.jpg",
+    "https://image.tmdb.org/t/p/w300/p4FiEQxSDJAk1N7qAejAycAQ3pA.jpg",
+    "https://image.tmdb.org/t/p/w300/2I8OM0vqpbqfFGylHSEnxpiB245.jpg"
+  ],
+  "similar": [],
+  "views": 2879,
+  "sources": [
+    "https://www.youtube.com/embed/JlF-hk3IJQE?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/9nwfyj7l85wr"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5483,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5483,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:26:09.742795"
+}
