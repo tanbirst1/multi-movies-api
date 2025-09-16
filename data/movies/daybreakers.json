@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/daybreakers/",
+  "meta": {
+    "title": "Daybreakers",
+    "poster": "https://image.tmdb.org/t/p/w500/xFZH2l9UOyIclk2ZFWNHQ38B2RP.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jan. 06, 2010",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "In the year 2019, a plague has transformed almost every human into a vampire. Faced with a dwindling blood supply, the fractured dominant race plots their survival; meanwhile, a researcher works with a covert band of vampires on a way to save humankind.",
+    "infoFields": {
+      "Original title": "Daybreakers",
+      "IMDb Rating": "6.4 134,411 votes",
+      "TMDb Rating": "6.275 1,846 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Michael Spierig",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-spierig/",
+      "image": "https://image.tmdb.org/t/p/w92/hDj7wXT937jZZjU7lJ8aTuKoBg5.jpg"
+    },
+    {
+      "name": "Ethan Hawke",
+      "role": "Edward Dalton",
+      "url": "https://multimovies.city/cast/ethan-hawke/",
+      "image": "https://image.tmdb.org/t/p/w92/a7rgJl8TYUWAfJuM4fxbLHgD7BL.jpg"
+    },
+    {
+      "name": "Sam Neill",
+      "role": "Charles Bromley",
+      "url": "https://multimovies.city/cast/sam-neill/",
+      "image": "https://image.tmdb.org/t/p/w92/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+      "role": "Lionel 'Elvis' Cormac",
+      "url": "https://multimovies.city/cast/willem-dafoe/",
+      "image": "https://image.tmdb.org/t/p/w92/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "name": "Claudia Karvan",
+      "role": "Audrey Bennett",
+      "url": "https://multimovies.city/cast/claudia-karvan/",
+      "image": "https://image.tmdb.org/t/p/w92/zT4CSbrJwHAtqyyJtACOcosg3qZ.jpg"
+    },
+    {
+      "name": "Isabel Lucas",
+      "role": "Alison Bromley",
+      "url": "https://multimovies.city/cast/isabel-lucas/",
+      "image": "https://image.tmdb.org/t/p/w92/dxIZvymamZaeJ46HDJ0ldaJmG2v.jpg"
+    },
+    {
+      "name": "Vince Colosimo",
+      "role": "Christopher Caruso",
+      "url": "https://multimovies.city/cast/vince-colosimo/",
+      "image": "https://image.tmdb.org/t/p/w92/cqj9XfAPN1mUndMIpkiTO1GUrKX.jpg"
+    },
+    {
+      "name": "Jay Laga'aia",
+      "role": "Senator Turner",
+      "url": "https://multimovies.city/cast/jay-lagaaia/",
+      "image": "https://image.tmdb.org/t/p/w92/qVe5pz15VIypXZoI7tMvzXZrMPI.jpg"
+    },
+    {
+      "name": "Michael Dorman",
+      "role": "Frankie Dalton",
+      "url": "https://multimovies.city/cast/michael-dorman/",
+      "image": "https://image.tmdb.org/t/p/w92/624CKam4fVBcHATuOfsOEvPzCCh.jpg"
+    },
+    {
+      "name": "Harriet Minto-Day",
+      "role": "Lisa Barrett",
+      "url": "https://multimovies.city/cast/harriet-minto-day/",
+      "image": "https://image.tmdb.org/t/p/w92/ooKgMEg0UGYnxpAfroRm3msCJSK.jpg"
+    },
+    {
+      "name": "Tiffany Lamb",
+      "role": "News Reader",
+      "url": "https://multimovies.city/cast/tiffany-lamb/",
+      "image": "https://image.tmdb.org/t/p/w92/3HuBqKHfis5me8StNKGvljQfWLK.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/rNzLD5dTUoISDeo10qJDiUdwVNh.jpg",
+    "https://image.tmdb.org/t/p/w300/xmq9OaOBISXVfRWg99JADNBP8ii.jpg",
+    "https://image.tmdb.org/t/p/w300/7wogMKSyqdPp1VKVvjoyxxM0dfP.jpg",
+    "https://image.tmdb.org/t/p/w300/2sLtdqRrL9uJyB6ywuDrkLTfIVk.jpg",
+    "https://image.tmdb.org/t/p/w300/zV71hBfxElJRRNW1MMJJ1rzWK5e.jpg",
+    "https://image.tmdb.org/t/p/w300/tt02c9m7Seu25zg3OhJk4u8MA1W.jpg",
+    "https://image.tmdb.org/t/p/w300/5ycep5dbEMs7NFLmAWOqSbg7W7B.jpg",
+    "https://image.tmdb.org/t/p/w300/b2Hsu2UEXJEAjKLDD9SS5bLXBHv.jpg",
+    "https://image.tmdb.org/t/p/w300/610hPjDVkUFZ9zt2hKkyWNl8whL.jpg",
+    "https://image.tmdb.org/t/p/w300/hfSJaBTvqCYVr4KNTs02Q4RpRqN.jpg"
+  ],
+  "similar": [],
+  "views": 1478,
+  "sources": [
+    "https://www.youtube.com/embed/7ORxxsdc764?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/rz9ri2uvbebh"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 41432,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 41432,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:38:43.571011"
+}
