@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/scooby-doo/",
+  "meta": {
+    "title": "Scooby-Doo",
+    "poster": "https://image.tmdb.org/t/p/w500/3B9dxR5hE34W8ALLbP6SGdTgBRc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Jun. 14, 2002",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Join the Mystery Inc. gang as they take on their biggest challenge yet! When they\u2019re invited to Spooky Island, a popular amusement park, they soon discover that the attractions aren\u2019t the only things that are spooky. Strange things are happening, and it\u2019s up to Scooby, Shaggy, Fred, Daphne, and Velma to uncover the truth behind the mysterious happenings.",
+    "infoFields": {
+      "Original title": "Scooby-Doo",
+      "IMDb Rating": "5.2 118,160 votes",
+      "TMDb Rating": "6.05 3,930 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Raja Gosnell",
+      "role": "Director",
+      "url": "https://multimovies.city/director/raja-gosnell/",
+      "image": "https://image.tmdb.org/t/p/w92/dIovlHUjOfBEhqrUENBaRmGIAc0.jpg"
+    },
+    {
+      "name": "Freddie Prinze Jr.",
+      "role": "Fred Jones",
+      "url": "https://multimovies.city/cast/freddie-prinze-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/8V9yNBjCNRBKROyjCLKLJGcCBdG.jpg"
+    },
+    {
+      "name": "Sarah Michelle Gellar",
+      "role": "Daphne Blake",
+      "url": "https://multimovies.city/cast/sarah-michelle-gellar/",
+      "image": "https://image.tmdb.org/t/p/w92/lQD0YNIfpoFlUnn5ThTNFXvp6tH.jpg"
+    },
+    {
+      "name": "Matthew Lillard",
+      "role": "Shaggy Rogers",
+      "url": "https://multimovies.city/cast/matthew-lillard/",
+      "image": "https://image.tmdb.org/t/p/w92/51v6jsvzuAXYirIzdqcjLBp46d6.jpg"
+    },
+    {
+      "name": "Linda Cardellini",
+      "role": "Velma Dinkley",
+      "url": "https://multimovies.city/cast/linda-cardellini/",
+      "image": "https://image.tmdb.org/t/p/w92/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+    },
+    {
+      "name": "Rowan Atkinson",
+      "role": "Emile Mondavarious",
+      "url": "https://multimovies.city/cast/rowan-atkinson/",
+      "image": "https://image.tmdb.org/t/p/w92/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+    },
+    {
+      "name": "Miguel A. N\u00fa\u00f1ez",
+      "role": "Jr.",
+      "url": "https://multimovies.city/cast/miguel-a-nunez/",
+      "image": "https://image.tmdb.org/t/p/w92/96N3fiIDGfu4yDArkVGfT7rLRvH.jpg"
+    },
+    {
+      "name": "Isla Fisher",
+      "role": "Mary Jane",
+      "url": "https://multimovies.city/cast/isla-fisher/",
+      "image": "https://image.tmdb.org/t/p/w92/zNKTzzuyMYaCGEZKhwhqV1K8ffo.jpg"
+    },
+    {
+      "name": "Steven Grives",
+      "role": "N' Goo Tuana",
+      "url": "https://multimovies.city/cast/steven-grives/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Charles Stan Frazier",
+      "role": "Sugar Ray",
+      "url": "https://multimovies.city/cast/charles-stan-frazier/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Craig Bullock",
+      "role": "Sugar Ray",
+      "url": "https://multimovies.city/cast/craig-bullock/",
+      "image": "https://image.tmdb.org/t/p/w92/dI2XaMfnBEa3ub2BrqoSv0yim47.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6aPq50Uk7EbgQwgdC5ol7yKs2l6.jpg",
+    "https://image.tmdb.org/t/p/w300/1RAxtBxslR4OZCZC1vxIRUxjR7a.jpg",
+    "https://image.tmdb.org/t/p/w300/70Y5eqstTp93sF2ivb3mkEqLCEi.jpg",
+    "https://image.tmdb.org/t/p/w300/sM8YXswwrE9W8zIu7rQQnqHKAM6.jpg",
+    "https://image.tmdb.org/t/p/w300/p2nvVxhybHkaKaIT8U0RLRgwvDg.jpg",
+    "https://image.tmdb.org/t/p/w300/pFWVv2xGuXdys7Oe61k8WCd28QC.jpg",
+    "https://image.tmdb.org/t/p/w300/eRFz29kqLMvBhrdb0GYEIHhrDIu.jpg",
+    "https://image.tmdb.org/t/p/w300/mJg5CimGaxaQ59BBOS15tpompCH.jpg",
+    "https://image.tmdb.org/t/p/w300/wBFuZ2yKULBQP9Eu0rTv4mx4ZvZ.jpg",
+    "https://image.tmdb.org/t/p/w300/ylIjfMWA98N8jDiph4i5rr56RAv.jpg"
+  ],
+  "similar": [],
+  "views": 1665,
+  "sources": [
+    "https://www.youtube.com/embed/Bzz4EQ2NmpQ?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/60qw8xtd71gx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6730,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6730,
+      "nume": 1,
+      "title": "2ru"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:37:48.823363"
+}
