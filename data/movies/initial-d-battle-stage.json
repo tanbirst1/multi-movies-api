@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/initial-d-battle-stage/",
+  "meta": {
+    "title": "Initial D Battle Stage",
+    "poster": "https://image.tmdb.org/t/p/w500/uCtcPHSZKx0vUEbkVJh5OjaKldC.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      }
+    ],
+    "firstAirDate": "Dec. 28, 2003",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Initial D Battle Stage (special) will summarize the major street races from the two TV series. Rather than simply using clips from the TV series, the new special will entirely re-animate all of the original CG car and background footage with new state-of-the-art computer graphics rendering. The special will also feature entirely new Super Eurobeat music and guest commentary from legendary \u201cdrift racer\u201d Keiichi Tsuchiya.",
+    "infoFields": {
+      "Original title": "\u982d\u6587\u5b57D Battle Stage",
+      "IMDb Rating": "7.3 92 votes",
+      "TMDb Rating": "6.2 5 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tsuneo Tominaga",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tsuneo-tominaga/",
+      "image": "https://image.tmdb.org/t/p/w92/tTslWrNRyZvrCngW3Kya7u5BxKT.jpg"
+    },
+    {
+      "name": "Shin-ichiro Miki",
+      "role": "Takumi Fujiwara",
+      "url": "https://multimovies.city/cast/shin-ichiro-miki/",
+      "image": "https://image.tmdb.org/t/p/w92/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
+    },
+    {
+      "name": "Takehito Koyasu",
+      "role": "Ryosuke Takahashi",
+      "url": "https://multimovies.city/cast/takehito-koyasu/",
+      "image": "https://image.tmdb.org/t/p/w92/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
+    },
+    {
+      "name": "Kousuke Okano",
+      "role": "Kenta Nakamura",
+      "url": "https://multimovies.city/cast/kousuke-okano/",
+      "image": "https://image.tmdb.org/t/p/w92/pvu36juJjrNhWkexEE22C453fOJ.jpg"
+    },
+    {
+      "name": "Nobuyuki Hiyama",
+      "role": "Takeshi Nakazato",
+      "url": "https://multimovies.city/cast/nobuyuki-hiyama/",
+      "image": "https://image.tmdb.org/t/p/w92/mZp2JyaHnFGmyqpzFj5sMiIVulb.jpg"
+    },
+    {
+      "name": "Keiji Fujiwara",
+      "role": "Shingo Sh\u014dji",
+      "url": "https://multimovies.city/cast/keiji-fujiwara/",
+      "image": "https://image.tmdb.org/t/p/w92/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+    },
+    {
+      "name": "Michiko Neya",
+      "role": "Mako Sat\u014d",
+      "url": "https://multimovies.city/cast/michiko-neya/",
+      "image": "https://image.tmdb.org/t/p/w92/A1mqjatShQZJSTXFdm4fTkQXv83.jpg"
+    },
+    {
+      "name": "Masahiko Tanaka",
+      "role": "Kyoichi Sud\u014d",
+      "url": "https://multimovies.city/cast/masahiko-tanaka/",
+      "image": "https://image.tmdb.org/t/p/w92/lfjY767THPSwXHyjrKiyfLH4W4g.jpg"
+    },
+    {
+      "name": "Yasunori Matsumoto",
+      "role": "Wataru Akiyama",
+      "url": "https://multimovies.city/cast/yasunori-matsumoto/",
+      "image": "https://image.tmdb.org/t/p/w92/jom50gJuqXWERzPtnRMRMlNe81W.jpg"
+    },
+    {
+      "name": "Nobutoshi Kanna",
+      "role": "Kai Kogashiwa",
+      "url": "https://multimovies.city/cast/nobutoshi-kanna/",
+      "image": "https://image.tmdb.org/t/p/w92/yLINDMZX2oQm4up0QyoCZ5odqvy.jpg"
+    },
+    {
+      "name": "Tomokazu Seki",
+      "role": "Keisuke Takahashi",
+      "url": "https://multimovies.city/cast/tomokazu-seki/",
+      "image": "https://image.tmdb.org/t/p/w92/4N6i4cgtbeUj5AJd8kiBZ2BxxEJ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kv6Iv5WUVgKEtP8XWCysITtReOW.jpg"
+  ],
+  "similar": [],
+  "views": 1151,
+  "sources": [
+    "https://multimoviesshg.com/e/o35ppe1es6o3"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 19212,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:45:16.515051"
+}
