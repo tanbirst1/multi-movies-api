@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-twilight-saga-new-moon/",
+  "meta": {
+    "title": "The Twilight Saga: New Moon",
+    "poster": "https://image.tmdb.org/t/p/w500/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Twilight",
+        "url": "https://multimovies.city/genre/twilight/"
+      }
+    ],
+    "firstAirDate": "Nov. 18, 2009",
+    "ratingValue": "9.5",
+    "ratingCount": "10",
+    "synopsis": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she\u2019s thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks.",
+    "infoFields": {
+      "Original title": "The Twilight Saga: New Moon",
+      "IMDb Rating": "4.8 303,028 votes",
+      "TMDb Rating": "5.995 9,040 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Chris Weitz",
+      "role": "Director",
+      "url": "https://multimovies.city/director/chris-weitz/",
+      "image": "https://image.tmdb.org/t/p/w92/4HONbwCefKNKBXafRRjXZN00wJE.jpg"
+    },
+    {
+      "name": "Kristen Stewart",
+      "role": "Bella Swan",
+      "url": "https://multimovies.city/cast/kristen-stewart/",
+      "image": "https://image.tmdb.org/t/p/w92/rCU7XhHavFAKatkrC2yFWO4FCXX.jpg"
+    },
+    {
+      "name": "Robert Pattinson",
+      "role": "Edward Cullen",
+      "url": "https://multimovies.city/cast/robert-pattinson/",
+      "image": "https://image.tmdb.org/t/p/w92/6RVxNlNmc0DIfZzaJKCJM43If3M.jpg"
+    },
+    {
+      "name": "Taylor Lautner",
+      "role": "Jacob Black",
+      "url": "https://multimovies.city/cast/taylor-lautner/",
+      "image": "https://image.tmdb.org/t/p/w92/Abkz13gHDBDpqrPl2P51zUheVeE.jpg"
+    },
+    {
+      "name": "Dakota Fanning",
+      "role": "Jane",
+      "url": "https://multimovies.city/cast/dakota-fanning/",
+      "image": "https://image.tmdb.org/t/p/w92/6bNiiHnZZfA7YYIxO5FszvNFBlI.jpg"
+    },
+    {
+      "name": "Michael Sheen",
+      "role": "Aro",
+      "url": "https://multimovies.city/cast/michael-sheen/",
+      "image": "https://image.tmdb.org/t/p/w92/iKHKWahPQYuxJSjXf8ZEmEZD9wZ.jpg"
+    },
+    {
+      "name": "Ashley Greene",
+      "role": "Alice Cullen",
+      "url": "https://multimovies.city/cast/ashley-greene/",
+      "image": "https://image.tmdb.org/t/p/w92/7crsfr0klw5iaYvZ3n9ps6RCIhp.jpg"
+    },
+    {
+      "name": "Rachelle Lefevre",
+      "role": "Victoria Sutherland",
+      "url": "https://multimovies.city/cast/rachelle-lefevre/",
+      "image": "https://image.tmdb.org/t/p/w92/myqVUwa0YjUAFRPeJHH5ag9NhS1.jpg"
+    },
+    {
+      "name": "Billy Burke",
+      "role": "Charlie Swan",
+      "url": "https://multimovies.city/cast/billy-burke/",
+      "image": "https://image.tmdb.org/t/p/w92/cpr1dS5eiKChNNlQbNiaHGo4Dks.jpg"
+    },
+    {
+      "name": "Peter Facinelli",
+      "role": "Dr. Carlisle Cullen",
+      "url": "https://multimovies.city/cast/peter-facinelli/",
+      "image": "https://image.tmdb.org/t/p/w92/dedS4MpictN0kjQsPjjZSQwZoee.jpg"
+    },
+    {
+      "name": "Elizabeth Reaser",
+      "role": "Esme Cullen",
+      "url": "https://multimovies.city/cast/elizabeth-reaser/",
+      "image": "https://image.tmdb.org/t/p/w92/tx2shpuofbAmmIoUXpXxqQ9exZM.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/sDAavcrOSbFnFt4zpjNqzaoNr3w.jpg",
+    "https://image.tmdb.org/t/p/w300/1E7kqUJghDRSgYkxDXAyoaVqQ96.jpg",
+    "https://image.tmdb.org/t/p/w300/cRi00WJMHcwJDXdmVyRS1joUzDD.jpg",
+    "https://image.tmdb.org/t/p/w300/dP9waVlERwKst5RR7xvhpMqwCrg.jpg",
+    "https://image.tmdb.org/t/p/w300/cAXhgLpqfwyF2sYMsIoG93rG99O.jpg",
+    "https://image.tmdb.org/t/p/w300/fzVQ7CmSqJr4EK85yi4ZNkDnuE9.jpg",
+    "https://image.tmdb.org/t/p/w300/dtuVwkO1ILF4k65PwFlLhKBpeb9.jpg",
+    "https://image.tmdb.org/t/p/w300/oJr5ogoTbh1VLZHqCVnYWnV6roU.jpg",
+    "https://image.tmdb.org/t/p/w300/Ad7FBebVcSMfcSiW405vZxJYKY2.jpg",
+    "https://image.tmdb.org/t/p/w300/tiTzrcn9GCwgtQv6BXxyKfHqMvL.jpg"
+  ],
+  "similar": [],
+  "views": 12851,
+  "sources": [
+    "https://www.youtube.com/embed/BNi-ebCWXos?autoplay=0&autohide=1",
+    "https://deaddrive.shop/embed/4fb7c"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 4254,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 4254,
+      "nume": 1,
+      "title": "dd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:34:25.376360"
+}
