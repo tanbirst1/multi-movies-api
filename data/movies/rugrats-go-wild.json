@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rugrats-go-wild/",
+  "meta": {
+    "title": "Rugrats Go Wild",
+    "poster": "https://image.tmdb.org/t/p/w500/hpVpXRNY2IsU0xvfXtYOxu0QDwc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Jun. 13, 2003",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "When the Rugrats find themselves stranded on a deserted island, they meet the Thornberrys, a family who agrees to help them escape.",
+    "infoFields": {
+      "Original title": "Rugrats Go Wild",
+      "IMDb Rating": "5.6 8,989 votes",
+      "TMDb Rating": "6.2 282 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Norton Virgien",
+      "role": "Director",
+      "url": "https://multimovies.city/director/norton-virgien/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Elizabeth Daily",
+      "role": "Tommy Pickles (voice)",
+      "url": "https://multimovies.city/cast/elizabeth-daily/",
+      "image": "https://image.tmdb.org/t/p/w92/sWLXj0yvpMEsZTIsS1ReVQzGnwO.jpg"
+    },
+    {
+      "name": "Nancy Cartwright",
+      "role": "Chuckie Finster (voice)",
+      "url": "https://multimovies.city/cast/nancy-cartwright/",
+      "image": "https://image.tmdb.org/t/p/w92/40qNhyYJhSE2Yiy4pnXSZhdufO6.jpg"
+    },
+    {
+      "name": "Kath Soucie",
+      "role": "Phil DeVille / Lil DeVille / Betty DeVille (voice)",
+      "url": "https://multimovies.city/cast/kath-soucie/",
+      "image": "https://image.tmdb.org/t/p/w92/62hvT4USvGa9OAsMP9guIBtJqkf.jpg"
+    },
+    {
+      "name": "Dionne Quan",
+      "role": "Kimi Watanabe-Finster (voice)",
+      "url": "https://multimovies.city/cast/dionne-quan/",
+      "image": "https://image.tmdb.org/t/p/w92/zQUMY63hXiu2CR9lJEQEt3RExPg.jpg"
+    },
+    {
+      "name": "Tim Curry",
+      "role": "Nigel Thornberry (voice)",
+      "url": "https://multimovies.city/cast/tim-curry/",
+      "image": "https://image.tmdb.org/t/p/w92/aWGnGa7scPeGCP5DRhHosTrYdfA.jpg"
+    },
+    {
+      "name": "Joe Alaskey",
+      "role": "Lou Pickles (voice)",
+      "url": "https://multimovies.city/cast/joe-alaskey/",
+      "image": "https://image.tmdb.org/t/p/w92/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg"
+    },
+    {
+      "name": "Tress MacNeille",
+      "role": "Charlotte Pickles (voice)",
+      "url": "https://multimovies.city/cast/tress-macneille/",
+      "image": "https://image.tmdb.org/t/p/w92/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+    },
+    {
+      "name": "Michael Bell",
+      "role": "Drew Pickles / Charles 'Chaz' Finster",
+      "url": "https://multimovies.city/cast/michael-bell/",
+      "image": "https://image.tmdb.org/t/p/w92/qZrtEHcKOFCbxtSedcdTU8f2uyW.jpg"
+    },
+    {
+      "name": "Julia Kato",
+      "role": "Kira Watanabe-Finster (voice)",
+      "url": "https://multimovies.city/cast/julia-kato/",
+      "image": "https://image.tmdb.org/t/p/w92/eSRuH7MnVeputspF4KZoX345wJG.jpg"
+    },
+    {
+      "name": "Phil Proctor",
+      "role": "Howard DeVille (voice)",
+      "url": "https://multimovies.city/cast/phil-proctor/",
+      "image": "https://image.tmdb.org/t/p/w92/iLTvGROn3XvT0MPPspF2e3OsFCs.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/doPPODsoTbrMXQWvOAIcRYsD3Yg.jpg",
+    "https://image.tmdb.org/t/p/w300/7jhCBakn96BcRpjQfFyMZdnrKEY.jpg",
+    "https://image.tmdb.org/t/p/w300/twVY8tvJwN8gqj5gvLh0eaZNxMG.jpg",
+    "https://image.tmdb.org/t/p/w300/zH9DJvNJQvoJPlNcwOCA3xnWgaV.jpg",
+    "https://image.tmdb.org/t/p/w300/y4eBcOhnB5ErZ8PF89wL3vK6dwL.jpg"
+  ],
+  "similar": [],
+  "views": 123,
+  "sources": [
+    "https://www.youtube.com/embed/Pb8FpdXuU8U?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/wblnvsw3hxke"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 46528,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 46528,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:43:16.927777"
+}
