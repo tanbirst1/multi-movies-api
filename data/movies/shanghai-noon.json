@@ -4,15 +4,137 @@
   "meta": {
     "title": "Shanghai Noon",
     "poster": "https://image.tmdb.org/t/p/w500/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg",
-    "synopsis": "Chon Wang, a clumsy imperial guard trails Princess Pei Pei when she is kidnapped from the Forbidden City and transported to America. Wang follows her captors to Nevada, where he teams up with an unlikely partner, outcast outlaw Roy O\u2019Bannon, and tries to spring the princess from her imprisonment."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Western",
+        "url": "https://multimovies.city/genre/western/"
+      }
+    ],
+    "firstAirDate": "May. 26, 2000",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Chon Wang, a clumsy imperial guard trails Princess Pei Pei when she is kidnapped from the Forbidden City and transported to America. Wang follows her captors to Nevada, where he teams up with an unlikely partner, outcast outlaw Roy O\u2019Bannon, and tries to spring the princess from her imprisonment.",
+    "infoFields": {
+      "Original title": "Shanghai Noon",
+      "IMDb Rating": "6.6 131,475 votes",
+      "TMDb Rating": "6.4 2,244 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Bruce Moriarty",
+      "role": "Director",
+      "url": "https://multimovies.city/director/bruce-moriarty/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Jackie Chan",
+      "role": "Chon Wang",
+      "url": "https://multimovies.city/cast/jackie-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "name": "Owen Wilson",
+      "role": "Roy O'Bannon",
+      "url": "https://multimovies.city/cast/owen-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+    },
+    {
+      "name": "Lucy Liu",
+      "role": "Princess Pei Pei",
+      "url": "https://multimovies.city/cast/lucy-liu/",
+      "image": "https://image.tmdb.org/t/p/w92/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+    },
+    {
+      "name": "Xander Berkeley",
+      "role": "Nathan Van Cleef",
+      "url": "https://multimovies.city/cast/xander-berkeley/",
+      "image": "https://image.tmdb.org/t/p/w92/oBoKGfngGGZmSVGFslphYjc23WO.jpg"
+    },
+    {
+      "name": "Roger Yuan",
+      "role": "Lo Fong",
+      "url": "https://multimovies.city/cast/roger-yuan/",
+      "image": "https://image.tmdb.org/t/p/w92/A1iQKcfFvo1OXBkyuHYAgXB5ctb.jpg"
+    },
+    {
+      "name": "Yu Rongguang",
+      "role": "Imperial Guard",
+      "url": "https://multimovies.city/cast/yu-rongguang/",
+      "image": "https://image.tmdb.org/t/p/w92/fMPufRYhRezUJbzl1NcVnJC6eVn.jpg"
+    },
+    {
+      "name": "Walton Goggins",
+      "role": "Wallace",
+      "url": "https://multimovies.city/cast/walton-goggins/",
+      "image": "https://image.tmdb.org/t/p/w92/9rJDYofiJVc9zps6S4BJrzS0FKS.jpg"
+    },
+    {
+      "name": "Brandon Merrill",
+      "role": "Indian Wife",
+      "url": "https://multimovies.city/cast/brandon-merrill/",
+      "image": "https://image.tmdb.org/t/p/w92/90lqw3lMk4cznk3Cge4ORdsah02.jpg"
+    },
+    {
+      "name": "Jason Connery",
+      "role": "Andrews",
+      "url": "https://multimovies.city/cast/jason-connery/",
+      "image": "https://image.tmdb.org/t/p/w92/ljOWec5wX91bdfgPEualYHpTfLe.jpg"
+    },
+    {
+      "name": "Adrien Dorval",
+      "role": "Blue",
+      "url": "https://multimovies.city/cast/adrien-dorval/",
+      "image": "https://image.tmdb.org/t/p/w92/toyI2xbgYYRLD4P0Uoudn59oW8G.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/82ZXnrTOcNOm1NjWAWrSROQMULc.jpg",
+    "https://image.tmdb.org/t/p/w300/xuwPmDMHslcx71T7zHc9YqF2Ny3.jpg",
+    "https://image.tmdb.org/t/p/w300/301KcFm1GL3yaTGOO25I0MeAy0W.jpg",
+    "https://image.tmdb.org/t/p/w300/oxHMAZyNB4aSv8f78S3pcDbyusT.jpg",
+    "https://image.tmdb.org/t/p/w300/z2ZyRHg7YJRLkVnPwPWg8BR7zDd.jpg",
+    "https://image.tmdb.org/t/p/w300/iPNSIKbCVpZXPqx96KNRxk2Sy2P.jpg",
+    "https://image.tmdb.org/t/p/w300/1UoHb1Abk1HezHRFL2lNPgL5cNl.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 918,
+  "sources": [
+    "https://www.youtube.com/embed/FqHg5fc_0_U?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/sudrddiq8hnu"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 22982,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 22982,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:28:19.203762"
 }
