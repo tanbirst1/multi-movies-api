@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hannah-montana-the-movie/",
+  "meta": {
+    "title": "Hannah Montana: The Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/kytL0AIWjvxsEQ2YgIZHvmIm24k.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/genre/disney-channel/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Music",
+        "url": "https://multimovies.city/genre/music/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Apr. 10, 2009",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "When Miley Stewart (aka pop-star Hannah Montana) gets too caught up in the superstar celebrity lifestyle, her dad decides it\u2019s time for a total change of scenery. But sweet niblets! Miley must trade in all the glitz and glamour of Hollywood for some ol\u2019 blue jeans on the family farm in Tennessee, and question if she can be both Miley Stewart and Hannah Montana.",
+    "infoFields": {
+      "Original title": "Hannah Montana: The Movie",
+      "IMDb Rating": "4.7 47,224 votes",
+      "TMDb Rating": "6.584 2,024 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Peter Chelsom",
+      "role": "Director",
+      "url": "https://multimovies.city/director/peter-chelsom/",
+      "image": "https://image.tmdb.org/t/p/w92/afuVtGcuVC157yar0xt1W15zmoD.jpg"
+    },
+    {
+      "name": "Miley Cyrus",
+      "role": "Miley Stewart / Hannah Montana",
+      "url": "https://multimovies.city/cast/miley-cyrus/",
+      "image": "https://image.tmdb.org/t/p/w92/vqMsU83KMqKH64fNp668hMlNlmm.jpg"
+    },
+    {
+      "name": "Billy Ray Cyrus",
+      "role": "Robby Stewart",
+      "url": "https://multimovies.city/cast/billy-ray-cyrus/",
+      "image": "https://image.tmdb.org/t/p/w92/weENTCw45mTCLjPbXBE3msYFZW4.jpg"
+    },
+    {
+      "name": "Emily Osment",
+      "role": "Lilly Truscott",
+      "url": "https://multimovies.city/cast/emily-osment/",
+      "image": "https://image.tmdb.org/t/p/w92/dRIesWlHpmeTMZcZXEgWD64EifU.jpg"
+    },
+    {
+      "name": "Lucas Till",
+      "role": "Travis Brody",
+      "url": "https://multimovies.city/cast/lucas-till/",
+      "image": "https://image.tmdb.org/t/p/w92/5m8xgsOgT3FgCBo2AsMn7dewe57.jpg"
+    },
+    {
+      "name": "Jason Earles",
+      "role": "Jackson Stewart",
+      "url": "https://multimovies.city/cast/jason-earles/",
+      "image": "https://image.tmdb.org/t/p/w92/98kgD3jp4DmwwL1SmViN5cRE5NI.jpg"
+    },
+    {
+      "name": "Margo Martindale",
+      "role": "Ruby",
+      "url": "https://multimovies.city/cast/margo-martindale/",
+      "image": "https://image.tmdb.org/t/p/w92/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+    },
+    {
+      "name": "Melora Hardin",
+      "role": "Lorelai",
+      "url": "https://multimovies.city/cast/melora-hardin/",
+      "image": "https://image.tmdb.org/t/p/w92/w8yg5ZPXelD47sfDRQFvGHD7jP0.jpg"
+    },
+    {
+      "name": "Mitchel Musso",
+      "role": "Oliver Oken",
+      "url": "https://multimovies.city/cast/mitchel-musso/",
+      "image": "https://image.tmdb.org/t/p/w92/4jEUc7CxKj5URwl6lRGFVCS8MDW.jpg"
+    },
+    {
+      "name": "Mois\u00e9s Arias",
+      "role": "Rico Suave",
+      "url": "https://multimovies.city/cast/moises-arias/",
+      "image": "https://image.tmdb.org/t/p/w92/fc7krDmEA4VkIY4KOJjpMXGdsfg.jpg"
+    },
+    {
+      "name": "Taylor Swift",
+      "role": "Taylor Swift",
+      "url": "https://multimovies.city/cast/taylor-swift/",
+      "image": "https://image.tmdb.org/t/p/w92/6HbcifqJhqw6JhhuAFXpcBavxjA.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bAczza4WsWbQxjouMbwxl9Jkile.jpg",
+    "https://image.tmdb.org/t/p/w300/1WpQuoJFVykuv69hTEdOEyAy60X.jpg",
+    "https://image.tmdb.org/t/p/w300/rGou22bisrddq6IT89Zkr21OexE.jpg",
+    "https://image.tmdb.org/t/p/w300/1wJgm2aFdgNEvv0U7TL58geweWD.jpg",
+    "https://image.tmdb.org/t/p/w300/kz6rQtDJfequvXZQzR7AxJn2wFu.jpg",
+    "https://image.tmdb.org/t/p/w300/mIpUeNOg3ab9tEtu2gL4ePkwkHq.jpg",
+    "https://image.tmdb.org/t/p/w300/sGqepjVCkXeG7IDPNnvpT8G3AyW.jpg",
+    "https://image.tmdb.org/t/p/w300/8eY2V5mRM2XiKqGFlFf5YC31kV9.jpg",
+    "https://image.tmdb.org/t/p/w300/tImfZtRQDBoducACMZ2GELtjGYl.jpg",
+    "https://image.tmdb.org/t/p/w300/d0QbahJn7B8XfYXVGtCsYBXkNSu.jpg"
+  ],
+  "similar": [],
+  "views": 1406,
+  "sources": [
+    "https://www.youtube.com/embed/KwOcs1E97_w?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/mbdb232"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 28534,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 28534,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:30:34.599744"
+}
