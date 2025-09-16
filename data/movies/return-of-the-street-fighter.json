@@ -1,0 +1,122 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/return-of-the-street-fighter/",
+  "meta": {
+    "title": "Return of the Street Fighter",
+    "poster": "https://image.tmdb.org/t/p/w500/7JnWHCgLmpKEkdCdAZZQnLS2CjE.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Apr. 27, 1974",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Martial artist Takuma Tsurugi returns to take on a Yakuza family that may be embezzling money from charities to finance their own operations. Both the police and the Yakuza find themselves battling Tsurugi, but Tsurugi\u2019s fight ultimately is with the mob, and he concentrates on them.",
+    "infoFields": {
+      "Original title": "\u6bba\u4eba\u62f3\uff12",
+      "IMDb Rating": "6.3 2,073 votes",
+      "TMDb Rating": "6 50 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Shigehiro Ozawa",
+      "role": "Director",
+      "url": "https://multimovies.city/director/shigehiro-ozawa/",
+      "image": "https://image.tmdb.org/t/p/w92/7nreIUhJ0pwscxxYhb4bsjWXldm.jpg"
+    },
+    {
+      "name": "Shin'ichi Chiba",
+      "role": "Takuma Tsurugi",
+      "url": "https://multimovies.city/cast/shinichi-chiba/",
+      "image": "https://image.tmdb.org/t/p/w92/iB8qxT3SYcEf4d40F2eNpa3AsV1.jpg"
+    },
+    {
+      "name": "Y\u014dko Ichiji",
+      "role": "Pin Boke",
+      "url": "https://multimovies.city/cast/yoko-ichiji/",
+      "image": "https://image.tmdb.org/t/p/w92/z7mZCxryHMt29o7tbtYinVq9vL4.jpg"
+    },
+    {
+      "name": "Hiroshi Tanaka",
+      "role": "Isamu Otaguro",
+      "url": "https://multimovies.city/cast/hiroshi-tanaka/",
+      "image": "https://image.tmdb.org/t/p/w92/syy1wzPDojswjSMznKNwGLV2x91.jpg"
+    },
+    {
+      "name": "Masashi Ishibashi",
+      "role": "Tateki Shikenbaru",
+      "url": "https://multimovies.city/cast/masashi-ishibashi/",
+      "image": "https://image.tmdb.org/t/p/w92/27CjLX4HYhUU1yf43Jecw1nv1Ij.jpg"
+    },
+    {
+      "name": "Claude Gagnon",
+      "role": "Don Costello",
+      "url": "https://multimovies.city/cast/claude-gagnon/",
+      "image": "https://image.tmdb.org/t/p/w92/1gn32bW2lyfRJnn4XphxYpG81ui.jpg"
+    },
+    {
+      "name": "Kazuyuki Saito",
+      "role": "",
+      "url": "https://multimovies.city/cast/kazuyuki-saito/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Keisuke Handa",
+      "role": "Takutoshi",
+      "url": "https://multimovies.city/cast/keisuke-handa/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ryoichi Koike",
+      "role": "",
+      "url": "https://multimovies.city/cast/ryoichi-koike/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Michiyo Band\u00f4",
+      "role": "",
+      "url": "https://multimovies.city/cast/michiyo-bando/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Shingo Yamashiro",
+      "role": "",
+      "url": "https://multimovies.city/cast/shingo-yamashiro/",
+      "image": "https://image.tmdb.org/t/p/w92/6WklzwRHUwV0ByFsSxIH0KWqvLI.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/m6AmZAVV21GFpkGigRkyEbeIhYU.jpg",
+    "https://image.tmdb.org/t/p/w300/6FaBF6cnLLCUgs84J0TINl2uuVY.jpg"
+  ],
+  "similar": [],
+  "views": 389,
+  "sources": [
+    "https://www.youtube.com/embed/xo6WJYSnYFw?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/pzn003p4wzum"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 24580,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 24580,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
