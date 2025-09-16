@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-bourne-supremacy/",
+  "meta": {
+    "title": "The Bourne Supremacy",
+    "poster": "https://image.tmdb.org/t/p/w500/g09UIYfShY8uWGMGP3HkvWp8L8n.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 23, 2004",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "When a CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
+    "infoFields": {
+      "Original title": "The Bourne Supremacy",
+      "IMDb Rating": "7.7 470,824 votes",
+      "TMDb Rating": "7.308 6,720 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Dan Bradley",
+      "role": "Director",
+      "url": "https://multimovies.city/director/dan-bradley/",
+      "image": "https://image.tmdb.org/t/p/w92/hrnm0T93g6yd5WBiZ59Aoff0c2F.jpg"
+    },
+    {
+      "name": "Matt Damon",
+      "role": "Jason Bourne",
+      "url": "https://multimovies.city/cast/matt-damon/",
+      "image": "https://image.tmdb.org/t/p/w92/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+    },
+    {
+      "name": "Franka Potente",
+      "role": "Marie Helene Kreutz",
+      "url": "https://multimovies.city/cast/franka-potente/",
+      "image": "https://image.tmdb.org/t/p/w92/vA2puXpGOd53jKhpwlMbrqmTZqZ.jpg"
+    },
+    {
+      "name": "Brian Cox",
+      "role": "Ward Abbott",
+      "url": "https://multimovies.city/cast/brian-cox/",
+      "image": "https://image.tmdb.org/t/p/w92/yvoAgJTOvuNSPSKegcIcD62ySY9.jpg"
+    },
+    {
+      "name": "Julia Stiles",
+      "role": "Nicky Parsons",
+      "url": "https://multimovies.city/cast/julia-stiles/",
+      "image": "https://image.tmdb.org/t/p/w92/9PJ6G5begxnZkkwvqZqMs0Iwn5o.jpg"
+    },
+    {
+      "name": "Karl Urban",
+      "role": "Kirill",
+      "url": "https://multimovies.city/cast/karl-urban/",
+      "image": "https://image.tmdb.org/t/p/w92/bsAnEFgVm5kn8DbBZKfnlLNll89.jpg"
+    },
+    {
+      "name": "Gabriel Mann",
+      "role": "Danny Zorn",
+      "url": "https://multimovies.city/cast/gabriel-mann/",
+      "image": "https://image.tmdb.org/t/p/w92/mrqiMfwoQnLBGGP3zvfHrwPKHJW.jpg"
+    },
+    {
+      "name": "Joan Allen",
+      "role": "Pamela Landy",
+      "url": "https://multimovies.city/cast/joan-allen/",
+      "image": "https://image.tmdb.org/t/p/w92/2w40UhN3WoW9G9EkLzhDcfF3t9W.jpg"
+    },
+    {
+      "name": "Marton Csokas",
+      "role": "Jarda",
+      "url": "https://multimovies.city/cast/marton-csokas/",
+      "image": "https://image.tmdb.org/t/p/w92/jKtjjwf8MHnUsQ3YA56LH9pJjee.jpg"
+    },
+    {
+      "name": "Tom Gallop",
+      "role": "Tom Cronin",
+      "url": "https://multimovies.city/cast/tom-gallop/",
+      "image": "https://image.tmdb.org/t/p/w92/jqbrDxorFinlo6Ae39SL17AvKaf.jpg"
+    },
+    {
+      "name": "John Bedford Lloyd",
+      "role": "Teddy",
+      "url": "https://multimovies.city/cast/john-bedford-lloyd/",
+      "image": "https://image.tmdb.org/t/p/w92/tyNDFeQgf2dyjBZtRAskz1lZG1I.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/fE7RqvVHbGHjBC9NjIjlLh2t4zK.jpg",
+    "https://image.tmdb.org/t/p/w300/j8yJjyma7C9edkOCCKztGlPHEuV.jpg",
+    "https://image.tmdb.org/t/p/w300/fBc3qMNOAZO06i9rCHrLQvko5tv.jpg",
+    "https://image.tmdb.org/t/p/w300/5InnzvhAsL9W1fmaoo0lgUnnHf7.jpg",
+    "https://image.tmdb.org/t/p/w300/3L6LKl6v6Dhhkc0oDuytOmjV6FC.jpg",
+    "https://image.tmdb.org/t/p/w300/xH2EcnuEJuhF3GShzh2opFtq5SE.jpg",
+    "https://image.tmdb.org/t/p/w300/ajYgo7rbf9kEJlvhnMeGEYKv8Uk.jpg",
+    "https://image.tmdb.org/t/p/w300/gU2z7rgsg0w9LG2kDpbIyLrgB9V.jpg",
+    "https://image.tmdb.org/t/p/w300/unmI2cUB0RvlpXj7AfSgphzDsUt.jpg",
+    "https://image.tmdb.org/t/p/w300/jVEsuOGB5sRjQhJqQMMNdReV5C6.jpg"
+  ],
+  "similar": [],
+  "views": 1252,
+  "sources": [
+    "https://www.youtube.com/embed/ofMkaGkyAPw?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/vzq2qzl7qybq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 4458,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 4458,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:51:09.229693"
+}
