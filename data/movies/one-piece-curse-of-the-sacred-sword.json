@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/one-piece-curse-of-the-sacred-sword/",
+  "meta": {
+    "title": "One Piece: Curse of the Sacred Sword",
+    "poster": "https://image.tmdb.org/t/p/w500/kws2MxZftYTmQjt6MIfaqF5psbw.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime",
+        "url": "https://multimovies.city/genre/anime/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      }
+    ],
+    "firstAirDate": "Mar. 06, 2004",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "The Straw Hat Pirates landed at Asuka Island, home of the most valuable sword in the world: The Seven Star Sword. Which was said to curse anyone who takes it in possession. When they got back to the Going Merry, they discovered that Zoro is missing from his guard duty. Before they could plan out a search party to relocate him. Luffy and friends escape from the port as Marines were on their tail. They found a new place to dock, which is near a village. Whose job is to keep the Seven Star Sword sealed. Soon it was attacked by the Marines, and among them is Zoro. Luffy and the others don\u2019t know why he\u2019s helping out the Marines. But it all comes to conclusion when Luffy encounters Saga: Zoro\u2019s childhood friend from Swordsman training.",
+    "infoFields": {
+      "Original title": "ONE PIECE \u546a\u308f\u308c\u305f\u8056\u5263",
+      "IMDb Rating": "6.6 1,974 votes",
+      "TMDb Rating": "7 172 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kazuhisa Takenouchi",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kazuhisa-takenouchi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Mayumi Tanaka",
+      "role": "Monkey D. Luffy",
+      "url": "https://multimovies.city/cast/mayumi-tanaka/",
+      "image": "https://image.tmdb.org/t/p/w92/dWh2Y3bQkSjPv3c7kyy5P6M3PLS.jpg"
+    },
+    {
+      "name": "Kazuya Nakai",
+      "role": "Roronoa Zoro",
+      "url": "https://multimovies.city/cast/kazuya-nakai/",
+      "image": "https://image.tmdb.org/t/p/w92/78PKViY7brjF3AJI8h3tXyUyYT7.jpg"
+    },
+    {
+      "name": "Akemi Okamura",
+      "role": "Nami",
+      "url": "https://multimovies.city/cast/akemi-okamura/",
+      "image": "https://image.tmdb.org/t/p/w92/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
+    },
+    {
+      "name": "Kappei Yamaguchi",
+      "role": "Usopp",
+      "url": "https://multimovies.city/cast/kappei-yamaguchi/",
+      "image": "https://image.tmdb.org/t/p/w92/sbeWiK7FuUvPqF4yG6XR5CkPAqF.jpg"
+    },
+    {
+      "name": "Hiroaki Hirata",
+      "role": "Sanji",
+      "url": "https://multimovies.city/cast/hiroaki-hirata/",
+      "image": "https://image.tmdb.org/t/p/w92/mMWEdlssJm3TVuXW4Wb7pQeX20Z.jpg"
+    },
+    {
+      "name": "Ikue Otani",
+      "role": "Tony Tony Chopper",
+      "url": "https://multimovies.city/cast/ikue-otani/",
+      "image": "https://image.tmdb.org/t/p/w92/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "name": "Yuriko Yamaguchi",
+      "role": "Nico Robin",
+      "url": "https://multimovies.city/cast/yuriko-yamaguchi/",
+      "image": "https://image.tmdb.org/t/p/w92/7e3BXCPv0X2pqwfdfW52n7VDFmI.jpg"
+    },
+    {
+      "name": "Ryoka Yuzuki",
+      "role": "Maya",
+      "url": "https://multimovies.city/cast/ryoka-yuzuki/",
+      "image": "https://image.tmdb.org/t/p/w92/rizvCqUDzg6ArDBXt6Dv1eS9tIG.jpg"
+    },
+    {
+      "name": "Shid\u00f4 Nakamura",
+      "role": "Saga",
+      "url": "https://multimovies.city/cast/shido-nakamura/",
+      "image": "https://image.tmdb.org/t/p/w92/5cKT5ZDLyfEuZycVu7kLRDuMRPE.jpg"
+    },
+    {
+      "name": "Hiroki Uchi",
+      "role": "Toma",
+      "url": "https://multimovies.city/cast/hiroki-uchi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/sL92Cyf8oeIGm76FEsRZMj7FtzT.jpg",
+    "https://image.tmdb.org/t/p/w300/68zIgzQWSvoecEQuHzRHAHk1k8h.jpg",
+    "https://image.tmdb.org/t/p/w300/yJJCs9ZUYrYo3owqjNUCHIwYqwk.jpg"
+  ],
+  "similar": [],
+  "views": 1366,
+  "sources": [
+    "https://multimoviesshg.com/e/12f21zepvzrn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1802,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:44:22.103346"
+}
