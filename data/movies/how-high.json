@@ -4,15 +4,150 @@
   "meta": {
     "title": "How High",
     "poster": "https://image.tmdb.org/t/p/w500/x6NMlhvk3fgfXhHLz19h0I9Hl0q.jpg",
-    "synopsis": "Multi-platinum rap superstars Redman and Method Man star as Jamal and Silas, two regular guys who smoke something magical, ace their college entrance exams and wind up at Harvard. Ivy League ways are strange but Silas and Jamal take it in a stride \u2014 until their supply of supernatural smoke runs dry. That\u2019s when they have to start living by their wits and rely on their natural resources to make the grade."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 21, 2001",
+    "ratingValue": "8.5",
+    "ratingCount": "8",
+    "synopsis": "Multi-platinum rap superstars Redman and Method Man star as Jamal and Silas, two regular guys who smoke something magical, ace their college entrance exams and wind up at Harvard. Ivy League ways are strange but Silas and Jamal take it in a stride \u2014 until their supply of supernatural smoke runs dry. That\u2019s when they have to start living by their wits and rely on their natural resources to make the grade.",
+    "infoFields": {
+      "Original title": "How High",
+      "IMDb Rating": "6.2 59,830 votes",
+      "TMDb Rating": "6.31 829 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Jesse Dylan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jesse-dylan/",
+      "image": "https://image.tmdb.org/t/p/w92/iKtSezKKjWHMqd1VDtuJNUEj1xl.jpg"
+    },
+    {
+      "name": "Method Man",
+      "role": "Silas P. Silas",
+      "url": "https://multimovies.city/cast/method-man/",
+      "image": "https://image.tmdb.org/t/p/w92/mYJFxOcrda410rS5JHPf0nPuimZ.jpg"
+    },
+    {
+      "name": "Redman",
+      "role": "Jamal King",
+      "url": "https://multimovies.city/cast/redman/",
+      "image": "https://image.tmdb.org/t/p/w92/kdHkOC3ebLZDSecOrQF9XsXTNjb.jpg"
+    },
+    {
+      "name": "Obba Babatund\u00e9",
+      "role": "Dean Carl Cain",
+      "url": "https://multimovies.city/cast/obba-babatunde/",
+      "image": "https://image.tmdb.org/t/p/w92/jkvxfhETmwR877VluO5kfbxxNER.jpg"
+    },
+    {
+      "name": "Mike Epps",
+      "role": "Baby Powder",
+      "url": "https://multimovies.city/cast/mike-epps/",
+      "image": "https://image.tmdb.org/t/p/w92/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg"
+    },
+    {
+      "name": "Anna Maria Horsford",
+      "role": "Mamma King",
+      "url": "https://multimovies.city/cast/anna-maria-horsford/",
+      "image": "https://image.tmdb.org/t/p/w92/17uU3AETKjxHMRHzEmKPrdnkEoj.jpg"
+    },
+    {
+      "name": "Fred Willard",
+      "role": "Philip Huntley",
+      "url": "https://multimovies.city/cast/fred-willard/",
+      "image": "https://image.tmdb.org/t/p/w92/sHgg2W09DEdXB9W7bVYNGpHdLNE.jpg"
+    },
+    {
+      "name": "Jeffrey Jones",
+      "role": "Vice President",
+      "url": "https://multimovies.city/cast/jeffrey-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/zLodpqWUb9OzQLpK1ZY9im1Lh0p.jpg"
+    },
+    {
+      "name": "Hector Elizondo",
+      "role": "Bill the Crew Coach",
+      "url": "https://multimovies.city/cast/hector-elizondo/",
+      "image": "https://image.tmdb.org/t/p/w92/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg"
+    },
+    {
+      "name": "Lark Voorhies",
+      "role": "Lauren",
+      "url": "https://multimovies.city/cast/lark-voorhies/",
+      "image": "https://image.tmdb.org/t/p/w92/thcmrSp3A52yPpIPZzZ7CAZZdhr.jpg"
+    },
+    {
+      "name": "Essence Atkins",
+      "role": "Jamie",
+      "url": "https://multimovies.city/cast/essence-atkins/",
+      "image": "https://image.tmdb.org/t/p/w92/5cBdIVRJmy7IntOk3E3yyqGk2fJ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/b8xOsXvJWIx1Tc0UD5o61lWhTod.jpg",
+    "https://image.tmdb.org/t/p/w300/vyEKOq8FjhMfd7vb3BewCLFh6HA.jpg",
+    "https://image.tmdb.org/t/p/w300/2Kzsw8h2b5q5zT1Qq7tsgdlXOH3.jpg",
+    "https://image.tmdb.org/t/p/w300/uEgfa0YwZBn9vyFq80tDK3ZHKFp.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 7407,
+  "sources": [
+    "https://www.youtube.com/embed/wN9MScUbMng?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/yklychbo5yll",
+    "https://sbplay.org/embed-5u5dg5x4ugwi.html",
+    "https://dood.la/e/94dg0q4np1ah",
+    "https://mixdrop.co/e/knxglxw8smzq7p",
+    "https://hydrax.net/watch?v=Yguet6NVX"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 9804,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 9804,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 9804,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 9804,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 9804,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 9804,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:31:11.246588"
 }
