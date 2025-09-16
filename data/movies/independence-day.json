@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/independence-day/",
+  "meta": {
+    "title": "Independence Day",
+    "poster": "https://image.tmdb.org/t/p/w500/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jun. 25, 1996",
+    "ratingValue": "8",
+    "ratingCount": "3",
+    "synopsis": "On July 2, a giant alien mothership enters orbit around Earth and deploys several dozen saucer-shaped \u2018destroyer\u2019 spacecraft that quickly lay waste to major cities around the planet. On July 3, the United States conducts a coordinated counterattack that fails. On July 4, a plan is devised to gain access to the interior of the alien mothership in space, in order to plant a nuclear missile.",
+    "infoFields": {
+      "Original title": "Independence Day",
+      "IMDb Rating": "7 600,494 votes",
+      "TMDb Rating": "6.873 9,071 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Roland Emmerich",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roland-emmerich/",
+      "image": "https://image.tmdb.org/t/p/w92/mN8x74uv9yQ7dJl8nh2q26mkY8v.jpg"
+    },
+    {
+      "name": "Will Smith",
+      "role": "Capt. Steven Hiller",
+      "url": "https://multimovies.city/cast/will-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+    },
+    {
+      "name": "Bill Pullman",
+      "role": "President Thomas J. Whitmore",
+      "url": "https://multimovies.city/cast/bill-pullman/",
+      "image": "https://image.tmdb.org/t/p/w92/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+    },
+    {
+      "name": "Jeff Goldblum",
+      "role": "David Levinson",
+      "url": "https://multimovies.city/cast/jeff-goldblum/",
+      "image": "https://image.tmdb.org/t/p/w92/g3yaQSRPg9Rk6IvbIizoowmXKHJ.jpg"
+    },
+    {
+      "name": "Mary McDonnell",
+      "role": "Marilyn Whitmore",
+      "url": "https://multimovies.city/cast/mary-mcdonnell/",
+      "image": "https://image.tmdb.org/t/p/w92/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg"
+    },
+    {
+      "name": "Judd Hirsch",
+      "role": "Julius Levinson",
+      "url": "https://multimovies.city/cast/judd-hirsch/",
+      "image": "https://image.tmdb.org/t/p/w92/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+    },
+    {
+      "name": "Robert Loggia",
+      "role": "General William Grey",
+      "url": "https://multimovies.city/cast/robert-loggia/",
+      "image": "https://image.tmdb.org/t/p/w92/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
+    },
+    {
+      "name": "Randy Quaid",
+      "role": "Russell Casse",
+      "url": "https://multimovies.city/cast/randy-quaid/",
+      "image": "https://image.tmdb.org/t/p/w92/pWtakF85K2fHSTiXiMR3elLuTOn.jpg"
+    },
+    {
+      "name": "Margaret Colin",
+      "role": "Constance Spano",
+      "url": "https://multimovies.city/cast/margaret-colin/",
+      "image": "https://image.tmdb.org/t/p/w92/tsg9bGtD1mY1FLKIeIFUNeD5jpm.jpg"
+    },
+    {
+      "name": "James Rebhorn",
+      "role": "Albert Nimzicki",
+      "url": "https://multimovies.city/cast/james-rebhorn/",
+      "image": "https://image.tmdb.org/t/p/w92/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+    },
+    {
+      "name": "Harvey Fierstein",
+      "role": "Marty Gilbert",
+      "url": "https://multimovies.city/cast/harvey-fierstein/",
+      "image": "https://image.tmdb.org/t/p/w92/4th4mr9iR23DdjFjVGhrtCnJRNq.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg",
+    "https://image.tmdb.org/t/p/w300/kFI1oF6KVnLEbUT7yLIbKXeyvu.jpg",
+    "https://image.tmdb.org/t/p/w300/qJlsmdFZ1X6Tn872h8g5vTvRMvj.jpg",
+    "https://image.tmdb.org/t/p/w300/f29b5wk95MKfDABBcY9BiNVqDhs.jpg",
+    "https://image.tmdb.org/t/p/w300/9zf66m93AhY1YSnTCXMNIougaVt.jpg",
+    "https://image.tmdb.org/t/p/w300/8KdbfROdYx1jAufXdXRciS9wjsT.jpg",
+    "https://image.tmdb.org/t/p/w300/jmoPVhS2yKDKY7tV716YV8sc5b6.jpg",
+    "https://image.tmdb.org/t/p/w300/odpGkc73KRHeqGqy6lqh5T1xevi.jpg",
+    "https://image.tmdb.org/t/p/w300/cZesAmahTaiVmA8K4gwiwgKLggx.jpg",
+    "https://image.tmdb.org/t/p/w300/bSt6iSoqgILdIsHeqiifdGYZ1B3.jpg"
+  ],
+  "similar": [],
+  "views": 3104,
+  "sources": [
+    "https://www.youtube.com/embed/B1E7h3SeMDk?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/73glieu5jcmm"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 39113,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 39113,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
