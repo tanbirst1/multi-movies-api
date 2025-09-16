@@ -1,0 +1,78 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/radio/",
+  "meta": {
+    "title": "Radio Love On Air",
+    "poster": "https://image.tmdb.org/t/p/w500/whHPB7QsMbKVqyJwEKTMRiVKQXg.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Music",
+        "url": "https://multimovies.city/genre/music/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Dec. 03, 2009",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Recently divorced from his wife, Pooja Talwar, Gujarat-born Vivan Shah, who works as a Jockey with Mumbai\u2019s Radio Mirchi, dramatically meets with Shanaya Dhingra \u2013 whose mother is Parsi and father a Punjabi. Circumstances force him to gate-crash her wedding ceremony and spend a night in a prison cell by her enraged DCP father. Subsequently, a friendship develops between the two and she even assists him with his job \u2013 and lands one herself. The duo gets so popular that their employer decides that they perform a live show on TV while the Dhingras believe the duo are in love.",
+    "infoFields": {
+      "Original title": "Radio",
+      "TMDb Rating": "6 1 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Himesh Reshammiya",
+      "role": "RJ Vivan Malhotra",
+      "url": "https://multimovies.city/cast/himesh-reshammiya/",
+      "image": "https://image.tmdb.org/t/p/w92/klaNPMWG9caEA0BG33LdAzn3Cwn.jpg"
+    },
+    {
+      "name": "Shenaz Treasury",
+      "role": "Shanaya Dhingra",
+      "url": "https://multimovies.city/cast/shenaz-treasury/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sonal Sehgal",
+      "role": "Puja Talwar",
+      "url": "https://multimovies.city/cast/sonal-sehgal/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Paresh Rawal",
+      "role": "Special Appearance",
+      "url": "https://multimovies.city/cast/paresh-rawal/",
+      "image": "https://image.tmdb.org/t/p/w92/haRliZNMm04QXItBGScbFh4bHSJ.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 86,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/dthx5d2"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 93032,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:39:36.966092"
+}
