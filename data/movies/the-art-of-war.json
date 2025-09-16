@@ -4,15 +4,131 @@
   "meta": {
     "title": "The Art of War",
     "poster": "https://image.tmdb.org/t/p/w500/m3DsrJC3qzm1GPzjDeb5dRXN6AF.jpg",
-    "synopsis": "When ruthless terrorists threaten to bring down the United Nations, they frame the one man they believe can stop them: an international security expert named Shaw. Now he must run from his own allies and become a solitary force for good, as he tries to stop what could become World War III."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Aug. 25, 2000",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "When ruthless terrorists threaten to bring down the United Nations, they frame the one man they believe can stop them: an international security expert named Shaw. Now he must run from his own allies and become a solitary force for good, as he tries to stop what could become World War III.",
+    "infoFields": {
+      "Original title": "The Art of War",
+      "IMDb Rating": "5.7 30,347 votes",
+      "TMDb Rating": "5.745 424 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Christian Duguay",
+      "role": "Director",
+      "url": "https://multimovies.city/director/christian-duguay/",
+      "image": "https://image.tmdb.org/t/p/w92/2v1gj3tJC6btabF8xp0N4p0nlSz.jpg"
+    },
+    {
+      "name": "Wesley Snipes",
+      "role": "Neil Shaw",
+      "url": "https://multimovies.city/cast/wesley-snipes/",
+      "image": "https://image.tmdb.org/t/p/w92/81D6oJ81kiQ5xnEHhaHrY29ntdO.jpg"
+    },
+    {
+      "name": "Donald Sutherland",
+      "role": "Douglas Thomas",
+      "url": "https://multimovies.city/cast/donald-sutherland/",
+      "image": "https://image.tmdb.org/t/p/w92/kO8rtLr9cCPSR55tDLakmEoCZRP.jpg"
+    },
+    {
+      "name": "Maury Chaykin",
+      "role": "Frank Capella",
+      "url": "https://multimovies.city/cast/maury-chaykin/",
+      "image": "https://image.tmdb.org/t/p/w92/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg"
+    },
+    {
+      "name": "Anne Archer",
+      "role": "Eleanor Hooks",
+      "url": "https://multimovies.city/cast/anne-archer/",
+      "image": "https://image.tmdb.org/t/p/w92/yIHIdnoZ9iEoOdedheF1KUe4gcD.jpg"
+    },
+    {
+      "name": "Michael Biehn",
+      "role": "Robert Bly",
+      "url": "https://multimovies.city/cast/michael-biehn/",
+      "image": "https://image.tmdb.org/t/p/w92/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+      "name": "Cary-Hiroyuki Tagawa",
+      "role": "David Chan",
+      "url": "https://multimovies.city/cast/cary-hiroyuki-tagawa/",
+      "image": "https://image.tmdb.org/t/p/w92/zxKQN4pDpqgVyhJ0td6WqY4mGsv.jpg"
+    },
+    {
+      "name": "Marie Matiko",
+      "role": "Julia Fang",
+      "url": "https://multimovies.city/cast/marie-matiko/",
+      "image": "https://image.tmdb.org/t/p/w92/reI9c00M37RCJRWKnyvytYmZtR0.jpg"
+    },
+    {
+      "name": "James Hong",
+      "role": "Ambassador Wu",
+      "url": "https://multimovies.city/cast/james-hong/",
+      "image": "https://image.tmdb.org/t/p/w92/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+    },
+    {
+      "name": "Liliana Komorowska",
+      "role": "Jenna Novak",
+      "url": "https://multimovies.city/cast/liliana-komorowska/",
+      "image": "https://image.tmdb.org/t/p/w92/12Bx8nq3A72ZlpkrHdIUnZdUVS5.jpg"
+    },
+    {
+      "name": "Ron Yuan",
+      "role": "Ming",
+      "url": "https://multimovies.city/cast/ron-yuan/",
+      "image": "https://image.tmdb.org/t/p/w92/7Co2MdR8T5zlXTrdZ9Z3qjlmKdV.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/pBcDFaPnjWONiIqicu1xXfSKvBI.jpg",
+    "https://image.tmdb.org/t/p/w300/qXy57OCZhMJyOSmiHR5tF3j4FX8.jpg",
+    "https://image.tmdb.org/t/p/w300/dE6xTBdthy3d9GYIIbbndFr4AOD.jpg",
+    "https://image.tmdb.org/t/p/w300/pU7l0HGEdYXLGS0Zzpn8EpJIhAD.jpg",
+    "https://image.tmdb.org/t/p/w300/4SEI3sZuJW7jyKaQgCDpm4jAZvp.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 503,
+  "sources": [
+    "https://www.youtube.com/embed/q8xEQdWQCho?autoplay=0&autohide=1",
+    "https://multimovies.website/e/2f0tuge0o385.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6089,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6089,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:27:42.908073"
 }
