@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/my-name-is-khan/",
+  "meta": {
+    "title": "My Name Is Khan",
+    "poster": "https://image.tmdb.org/t/p/w500/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Feb. 10, 2010",
+    "ratingValue": "8",
+    "ratingCount": "20",
+    "synopsis": "Rizwan Khan, a Muslim from the Borivali section of Mumbai, has Asperger\u2019s syndrome. He marries a Hindu single mother, Mandira, in San Francisco. After 9/11, Rizwan is detained by authorities at LAX who treat him as a terrorist because of his condition and his race.",
+    "infoFields": {
+      "Original title": "My Name Is Khan",
+      "IMDb Rating": "7.9 117,075 votes",
+      "TMDb Rating": "8.039 1,271 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Karan Johar",
+      "role": "Director",
+      "url": "https://multimovies.city/director/karan-johar/",
+      "image": "https://image.tmdb.org/t/p/w92/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Rizwan Khan",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Kajol",
+      "role": "Mandira",
+      "url": "https://multimovies.city/cast/kajol/",
+      "image": "https://image.tmdb.org/t/p/w92/h4m0TkDuEMCUNaPrQxMRyFb2AQ7.jpg"
+    },
+    {
+      "name": "Jimmy Shergill",
+      "role": "Rizwan's brother",
+      "url": "https://multimovies.city/cast/jimmy-shergill/",
+      "image": "https://image.tmdb.org/t/p/w92/A3fJrhIgM7Q5TGwbQYxYBjNsV37.jpg"
+    },
+    {
+      "name": "Zarina Wahab",
+      "role": "Rizwan's mother",
+      "url": "https://multimovies.city/cast/zarina-wahab/",
+      "image": "https://image.tmdb.org/t/p/w92/nY28L0JFjTlpIWdwt9qxO1p2HNn.jpg"
+    },
+    {
+      "name": "Adarsh Gourav",
+      "role": "Rizwan (15 years old)",
+      "url": "https://multimovies.city/cast/adarsh-gourav/",
+      "image": "https://image.tmdb.org/t/p/w92/kuJ2ukWmuHnCSTOOvUMqiES5G2C.jpg"
+    },
+    {
+      "name": "Tanay Chheda",
+      "role": "Rizwan Khan (Child)",
+      "url": "https://multimovies.city/cast/tanay-chheda/",
+      "image": "https://image.tmdb.org/t/p/w92/lZ0tjKg0FQ869tP80eBHobb3ouH.jpg"
+    },
+    {
+      "name": "Sheetal Menon",
+      "role": "Radha",
+      "url": "https://multimovies.city/cast/sheetal-menon/",
+      "image": "https://image.tmdb.org/t/p/w92/i52wtUOwDcMr0U4BG5H2YpMuPwl.jpg"
+    },
+    {
+      "name": "Arif Zakaria",
+      "role": "Faisal Rahman",
+      "url": "https://multimovies.city/cast/arif-zakaria/",
+      "image": "https://image.tmdb.org/t/p/w92/fQx14DwQV2Z2p25t4bogVn9A2c.jpg"
+    },
+    {
+      "name": "Arjun Mathur",
+      "role": "Raj",
+      "url": "https://multimovies.city/cast/arjun-mathur/",
+      "image": "https://image.tmdb.org/t/p/w92/t40XQvdCY2jBLmfqAHZBc4aAkRW.jpg"
+    },
+    {
+      "name": "Christopher B. Duncan",
+      "role": "Barack Obama",
+      "url": "https://multimovies.city/cast/christopher-b-duncan/",
+      "image": "https://image.tmdb.org/t/p/w92/6fC0HJ5DpqEKfvjnG1bDYyccw2R.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/fpgSkuEG2eV9nOHAYzqfOg1R8t2.jpg",
+    "https://image.tmdb.org/t/p/w300/xuqgovav0bbzwxzSg9K0RcEzLPj.jpg"
+  ],
+  "similar": [],
+  "views": 16206,
+  "sources": [
+    "https://www.youtube.com/embed/JJ5r5Z6G2Zo?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/lt1ul2s1mpfd"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8461,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 8461,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:37:51.658574"
+}
