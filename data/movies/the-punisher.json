@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-punisher/",
+  "meta": {
+    "title": "The Punisher",
+    "poster": "https://image.tmdb.org/t/p/w500/7rmA1HwYp2GKM85BL0cVwCaosGr.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Apr. 15, 2004",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "When undercover FBI agent Frank Castle\u2019s wife and son are slaughtered, he becomes \u2018the Punisher\u2019 \u2014 a ruthless vigilante willing to go to any length to avenge his family.",
+    "infoFields": {
+      "Original title": "The Punisher",
+      "IMDb Rating": "6.4 176,812 votes",
+      "TMDb Rating": "6.4 2,945 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jonathan Hensleigh",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jonathan-hensleigh/",
+      "image": "https://image.tmdb.org/t/p/w92/5TAo4TG1kqXWFhOf3ahhkQSfdOj.jpg"
+    },
+    {
+      "name": "Thomas Jane",
+      "role": "Frank Castle / The Punisher",
+      "url": "https://multimovies.city/cast/thomas-jane/",
+      "image": "https://image.tmdb.org/t/p/w92/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+    },
+    {
+      "name": "John Travolta",
+      "role": "Howard Saint",
+      "url": "https://multimovies.city/cast/john-travolta/",
+      "image": "https://image.tmdb.org/t/p/w92/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+    },
+    {
+      "name": "Will Patton",
+      "role": "Quentin Glass",
+      "url": "https://multimovies.city/cast/will-patton/",
+      "image": "https://image.tmdb.org/t/p/w92/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+    },
+    {
+      "name": "Roy Scheider",
+      "role": "Frank Castle",
+      "url": "https://multimovies.city/cast/roy-scheider/",
+      "image": "https://image.tmdb.org/t/p/w92/y0MTwkCm5fIKjM1xH90tZbjAHql.jpg"
+    },
+    {
+      "name": "Laura Harring",
+      "role": "Livia Saint",
+      "url": "https://multimovies.city/cast/laura-harring/",
+      "image": "https://image.tmdb.org/t/p/w92/vLWR0TdaXxPgIt95zu7ovkBzE0K.jpg"
+    },
+    {
+      "name": "Ben Foster",
+      "role": "Specker Dave",
+      "url": "https://multimovies.city/cast/ben-foster/",
+      "image": "https://image.tmdb.org/t/p/w92/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg"
+    },
+    {
+      "name": "Samantha Mathis",
+      "role": "Maria Castle",
+      "url": "https://multimovies.city/cast/samantha-mathis/",
+      "image": "https://image.tmdb.org/t/p/w92/7J7gvH1uRqfPAPlg7b35rrxSbLB.jpg"
+    },
+    {
+      "name": "James Carpinello",
+      "role": "Bobby Saint/ John Saint",
+      "url": "https://multimovies.city/cast/james-carpinello/",
+      "image": "https://image.tmdb.org/t/p/w92/18b4AHQ5P21I4tM7vN8jYvpJv6j.jpg"
+    },
+    {
+      "name": "A. Russell Andrews",
+      "role": "Jimmy Weeks",
+      "url": "https://multimovies.city/cast/a-russell-andrews/",
+      "image": "https://image.tmdb.org/t/p/w92/t78R2krL2pfV0un2j2DafjcXa7x.jpg"
+    },
+    {
+      "name": "Eddie Jemison",
+      "role": "Mickey Duka",
+      "url": "https://multimovies.city/cast/eddie-jemison/",
+      "image": "https://image.tmdb.org/t/p/w92/zGnEYsiIm4FUrujbDvMfQEivvnj.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wkjM3jCaZPUYNeibL9rNzgOIjkm.jpg",
+    "https://image.tmdb.org/t/p/w300/9j9qKlz9GvmSD3np6UEwWe6uSb.jpg",
+    "https://image.tmdb.org/t/p/w300/bqEmxL8e6jlH3ZNECuaEZHiOvsX.jpg",
+    "https://image.tmdb.org/t/p/w300/x7ctDZhEiNmtV0VniTlWeCbQMkM.jpg",
+    "https://image.tmdb.org/t/p/w300/4iypY05iUKFh3luIiVAGUofvsCb.jpg",
+    "https://image.tmdb.org/t/p/w300/Ao7mTUqaF84o4w2prRmjNgOXjIs.jpg",
+    "https://image.tmdb.org/t/p/w300/ziexSS07RmowuyqAdJMh1sGxjHg.jpg",
+    "https://image.tmdb.org/t/p/w300/r8ylVdJwUxu9AnO2CzKzxfqx5hh.jpg",
+    "https://image.tmdb.org/t/p/w300/ryhdEpjaJhvDVWzRQGOPxUYC0Cw.jpg",
+    "https://image.tmdb.org/t/p/w300/A5ASlZMqJf9h7UQkYuOgi2g27W5.jpg"
+  ],
+  "similar": [],
+  "views": 834,
+  "sources": [
+    "https://www.youtube.com/embed/jNT92z4NGSQ?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/yfqqsej"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 93361,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 93361,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:48:44.472968"
+}
