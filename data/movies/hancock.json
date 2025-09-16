@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hancock/",
+  "meta": {
+    "title": "Hancock",
+    "poster": "https://image.tmdb.org/t/p/w500/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jul. 01, 2008",
+    "ratingValue": "10",
+    "ratingCount": "4",
+    "synopsis": "Hancock is a down-and-out superhero who\u2019s forced to employ a PR expert to help repair his image when the public grows weary of all the damage he\u2019s inflicted during his lifesaving heroics. The agent\u2019s idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?",
+    "infoFields": {
+      "Original title": "Hancock",
+      "IMDb Rating": "6.4 521,764 votes",
+      "TMDb Rating": "6.348 9,540 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Peter Berg",
+      "role": "Director",
+      "url": "https://multimovies.city/director/peter-berg/",
+      "image": "https://image.tmdb.org/t/p/w92/1pR16H0zqRG49ns8cYykYpodgGF.jpg"
+    },
+    {
+      "name": "Will Smith",
+      "role": "John Hancock",
+      "url": "https://multimovies.city/cast/will-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/6a6cl4ZNufJzrx5HZKWPU1BjjRF.jpg"
+    },
+    {
+      "name": "Charlize Theron",
+      "role": "Mary Embrey",
+      "url": "https://multimovies.city/cast/charlize-theron/",
+      "image": "https://image.tmdb.org/t/p/w92/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+    },
+    {
+      "name": "Jason Bateman",
+      "role": "Ray Embrey",
+      "url": "https://multimovies.city/cast/jason-bateman/",
+      "image": "https://image.tmdb.org/t/p/w92/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg"
+    },
+    {
+      "name": "Jae Head",
+      "role": "Aaron Embrey",
+      "url": "https://multimovies.city/cast/jae-head/",
+      "image": "https://image.tmdb.org/t/p/w92/nNh2DiYXZneyeiYDitKT6s1AwEy.jpg"
+    },
+    {
+      "name": "Eddie Marsan",
+      "role": "Red",
+      "url": "https://multimovies.city/cast/eddie-marsan/",
+      "image": "https://image.tmdb.org/t/p/w92/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+    },
+    {
+      "name": "David Mattey",
+      "role": "Man Mountain",
+      "url": "https://multimovies.city/cast/david-mattey/",
+      "image": "https://image.tmdb.org/t/p/w92/elz9J0KJEiKj1F3d106628m4wc8.jpg"
+    },
+    {
+      "name": "Maetrix Fitten",
+      "role": "Matrix",
+      "url": "https://multimovies.city/cast/maetrix-fitten/",
+      "image": "https://image.tmdb.org/t/p/w92/yTe5coMkP9b0GObdCYkZIWQaQK.jpg"
+    },
+    {
+      "name": "Thomas Lennon",
+      "role": "Mike",
+      "url": "https://multimovies.city/cast/thomas-lennon/",
+      "image": "https://image.tmdb.org/t/p/w92/s8pw7BfuMxN7P0p5XJ9POfod7zW.jpg"
+    },
+    {
+      "name": "Johnny Galecki",
+      "role": "Jeremy",
+      "url": "https://multimovies.city/cast/johnny-galecki/",
+      "image": "https://image.tmdb.org/t/p/w92/kwMOVJvWDkiXEuKiyNJMaoFnhkj.jpg"
+    },
+    {
+      "name": "Hayley Marie Norman",
+      "role": "Hottie",
+      "url": "https://multimovies.city/cast/hayley-marie-norman/",
+      "image": "https://image.tmdb.org/t/p/w92/hhXJjwXseRmFzXcPjlkxxYNqvuK.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/xh0ZRdnL4pSqfW73HBf97xiNEFP.jpg",
+    "https://image.tmdb.org/t/p/w300/qndvrOXGyoOxkhc12SqfLi9Hr31.jpg",
+    "https://image.tmdb.org/t/p/w300/o0YtDNgeabRViiLLHOWa0HlRg7r.jpg",
+    "https://image.tmdb.org/t/p/w300/7LU7ILWg6g1a5MQdukBZSHyiLv7.jpg",
+    "https://image.tmdb.org/t/p/w300/y2Cx4tSM399HtPe9QgdgkuuWds0.jpg",
+    "https://image.tmdb.org/t/p/w300/qYPLOe4TRNHqfXSUoalmDEaUMmP.jpg",
+    "https://image.tmdb.org/t/p/w300/u51i7dn53QjfGOWsgch2H4aevKD.jpg",
+    "https://image.tmdb.org/t/p/w300/exrnqsdVpvoMU42HJaI6tnF1m1t.jpg",
+    "https://image.tmdb.org/t/p/w300/rPrnw538OSdMP6K28rSNDCv4L5F.jpg",
+    "https://image.tmdb.org/t/p/w300/dVEefUmSomZLm3opiG0CfhtjiAa.jpg"
+  ],
+  "similar": [],
+  "views": 6035,
+  "sources": [
+    "https://www.youtube.com/embed/7H9jrnOu0rQ?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/teepz8i"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10467,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 10467,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:20:10.427580"
+}
