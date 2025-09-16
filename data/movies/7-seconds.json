@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/7-seconds/",
+  "meta": {
+    "title": "7 Seconds",
+    "poster": "https://image.tmdb.org/t/p/w500/VMEpy6MrnTN8rPeIQkyOxebmlW.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 28, 2005",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "When an experienced thief accidentally makes off with a Van Gogh, his partner is kidnapped by gangsters in pursuit of the painting, forcing the criminal to hatch a rescue plan.",
+    "infoFields": {
+      "Original title": "7 Seconds",
+      "IMDb Rating": "4.8 7,639 votes",
+      "TMDb Rating": "5.491 226 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Simon Fellows",
+      "role": "Director",
+      "url": "https://multimovies.city/director/simon-fellows/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Wesley Snipes",
+      "role": "Jack Tuliver",
+      "url": "https://multimovies.city/cast/wesley-snipes/",
+      "image": "https://image.tmdb.org/t/p/w92/81D6oJ81kiQ5xnEHhaHrY29ntdO.jpg"
+    },
+    {
+      "name": "Tamzin Outhwaite",
+      "role": "Sgt. Kelly Anders",
+      "url": "https://multimovies.city/cast/tamzin-outhwaite/",
+      "image": "https://image.tmdb.org/t/p/w92/re0l5ue1jNqgHyo2TbspMrraVcp.jpg"
+    },
+    {
+      "name": "Deobia Oparei",
+      "role": "Spanky",
+      "url": "https://multimovies.city/cast/deobia-oparei/",
+      "image": "https://image.tmdb.org/t/p/w92/kcw8vNMlYgK8peuN80zhX6TqeNk.jpg"
+    },
+    {
+      "name": "Georgina Rylance",
+      "role": "Suza",
+      "url": "https://multimovies.city/cast/georgina-rylance/",
+      "image": "https://image.tmdb.org/t/p/w92/coDjSsjfY3c8uKeNJajtBEeaCOr.jpg"
+    },
+    {
+      "name": "Pete Lee-Wilson",
+      "role": "Alexsie Kutchinov",
+      "url": "https://multimovies.city/cast/pete-lee-wilson/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Adrian Lukis",
+      "role": "Vanderbrink",
+      "url": "https://multimovies.city/cast/adrian-lukis/",
+      "image": "https://image.tmdb.org/t/p/w92/3xCLt8hkVGxSQypBCW4Wqk3AnUl.jpg"
+    },
+    {
+      "name": "Stephen Boxer",
+      "role": "Underhill",
+      "url": "https://multimovies.city/cast/stephen-boxer/",
+      "image": "https://image.tmdb.org/t/p/w92/urPOwT7ibO58AsjWgR03JDK9PU1.jpg"
+    },
+    {
+      "name": "Adrian Pintea",
+      "role": "Grapini",
+      "url": "https://multimovies.city/cast/adrian-pintea/",
+      "image": "https://image.tmdb.org/t/p/w92/eQgY1yc4cMalXScPVp54TlmytpG.jpg"
+    },
+    {
+      "name": "Corey Johnson",
+      "role": "Tool",
+      "url": "https://multimovies.city/cast/corey-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg"
+    },
+    {
+      "name": "George Anton",
+      "role": "Banner",
+      "url": "https://multimovies.city/cast/george-anton/",
+      "image": "https://image.tmdb.org/t/p/w92/oYawmx9so3iPhGQcnhSOwRQZTvU.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/omwomAq52PJ7tTyZqqgqnM5juuq.jpg",
+    "https://image.tmdb.org/t/p/w300/t2zZTmrIaCHPYZd5bwqII6OFS95.jpg"
+  ],
+  "similar": [],
+  "views": 333,
+  "sources": [
+    "https://www.youtube.com/embed/6a8qU7Kfu-w?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/2rkrj7lcgc9j"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 53366,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 53366,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:55:53.371716"
+}
