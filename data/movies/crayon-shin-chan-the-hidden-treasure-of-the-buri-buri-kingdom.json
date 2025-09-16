@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/crayon-shin-chan-the-hidden-treasure-of-the-buri-buri-kingdom/",
+  "meta": {
+    "title": "ShinChan in Treasures of the Buri Buri Kingdom",
+    "poster": "https://image.tmdb.org/t/p/w500/pKAKgrrz4jyl7HlQETu8grWR3t4.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Shinchan Movies",
+        "url": "https://multimovies.city/genre/shinchan-movies/"
+      }
+    ],
+    "firstAirDate": "Apr. 23, 1994",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "The Noharas win a vacation to the Kingdom of Buri Buri \u2014 but the whole thing was just a clever ploy by an evil organization to kidnap Shin-chan!",
+    "infoFields": {
+      "Original title": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093 \u30d6\u30ea\u30d6\u30ea\u738b\u56fd\u306e\u79d8\u5b9d",
+      "IMDb Rating": "6.5 534 votes",
+      "TMDb Rating": "6.878 45 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Keiichi Hara",
+      "role": "Director",
+      "url": "https://multimovies.city/director/keiichi-hara/",
+      "image": "https://image.tmdb.org/t/p/w92/8ormRfEq9wIpxVOGNrbPWw9DD81.jpg"
+    },
+    {
+      "name": "Akiko Yajima",
+      "role": "Shinnosuke Nohara (voice)",
+      "url": "https://multimovies.city/cast/akiko-yajima/",
+      "image": "https://image.tmdb.org/t/p/w92/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
+    },
+    {
+      "name": "Miki Narahashi",
+      "role": "Misae Nohara (voice)",
+      "url": "https://multimovies.city/cast/miki-narahashi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Keiji Fujiwara",
+      "role": "Hiroshi Nohara (voice)",
+      "url": "https://multimovies.city/cast/keiji-fujiwara/",
+      "image": "https://image.tmdb.org/t/p/w92/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+    },
+    {
+      "name": "K\u00f4sei Tomita",
+      "role": "Anaconda (voice)",
+      "url": "https://multimovies.city/cast/kosei-tomita/",
+      "image": "https://image.tmdb.org/t/p/w92/nSGbAVJaUsrvcGujlByBjNH6dje.jpg"
+    },
+    {
+      "name": "K\u00f4ji Nakata",
+      "role": "Mr. Habu (voice)",
+      "url": "https://multimovies.city/cast/koji-nakata/",
+      "image": "https://image.tmdb.org/t/p/w92/sMuttQI7joCZ6ciPYqtIzgXGek3.jpg"
+    },
+    {
+      "name": "Seiz\u014d Kat\u014d",
+      "role": "BuriBuri Majin (voice)",
+      "url": "https://multimovies.city/cast/seizo-kato/",
+      "image": "https://image.tmdb.org/t/p/w92/zM45YWPQp5HCXSt9nzcdu5c9s9.jpg"
+    },
+    {
+      "name": "Rokuro Naya",
+      "role": "Kuro Majin (voice)",
+      "url": "https://multimovies.city/cast/rokuro-naya/",
+      "image": "https://image.tmdb.org/t/p/w92/8mRUsy6nPOPEkbqfZ0HsaCj9U7N.jpg"
+    },
+    {
+      "name": "Sayuri",
+      "role": "Ruru Ru Ruru (voice)",
+      "url": "https://multimovies.city/cast/sayuri/",
+      "image": "https://image.tmdb.org/t/p/w92/rNg2gmarYlhvXQOP1WiebDANQYh.jpg"
+    },
+    {
+      "name": "Taeko Kawata",
+      "role": "Prince Sunnokeshi (voice)",
+      "url": "https://multimovies.city/cast/taeko-kawata/",
+      "image": "https://image.tmdb.org/t/p/w92/hybfXejNg9dDo3yswYj68h0YVCy.jpg"
+    },
+    {
+      "name": "Chie Sato",
+      "role": "Bo-chan (voice)",
+      "url": "https://multimovies.city/cast/chie-sato/",
+      "image": "https://image.tmdb.org/t/p/w92/x6A6uWJUI8HnhaYVXVZJKT2EA0r.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/gU6PGO7u5BWYrsaZQ6UuTNG4xuj.jpg",
+    "https://image.tmdb.org/t/p/w300/i4Fk2ALmETUlCrzQpPi0NlfrFzA.jpg"
+  ],
+  "similar": [],
+  "views": 4833,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/h2p1xeg"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11088,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
