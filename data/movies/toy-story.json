@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/toy-story/",
+  "meta": {
+    "title": "Toy Story",
+    "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Nov. 22, 1995",
+    "ratingValue": "7.9",
+    "ratingCount": "7",
+    "synopsis": "Led by Woody, Andy\u2019s toys live happily in his room until Andy\u2019s birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy\u2019s heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "infoFields": {
+      "Original title": "Toy Story",
+      "IMDb Rating": "8.3 1,129,957 votes",
+      "TMDb Rating": "7.97 18,944 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John Lasseter",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-lasseter/",
+      "image": "https://image.tmdb.org/t/p/w92/gAVAZZHBa1v3gTcsWcBUwiHcyA0.jpg"
+    },
+    {
+      "name": "Tom Hanks",
+      "role": "Woody (voice)",
+      "url": "https://multimovies.city/cast/tom-hanks/",
+      "image": "https://image.tmdb.org/t/p/w92/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+    },
+    {
+      "name": "Tim Allen",
+      "role": "Buzz Lightyear (voice)",
+      "url": "https://multimovies.city/cast/tim-allen/",
+      "image": "https://image.tmdb.org/t/p/w92/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "name": "Don Rickles",
+      "role": "Mr. Potato Head (voice)",
+      "url": "https://multimovies.city/cast/don-rickles/",
+      "image": "https://image.tmdb.org/t/p/w92/iJLQV4dcbTUgxlWJakjDldzlMXS.jpg"
+    },
+    {
+      "name": "Jim Varney",
+      "role": "Slinky Dog (voice)",
+      "url": "https://multimovies.city/cast/jim-varney/",
+      "image": "https://image.tmdb.org/t/p/w92/yrhgPWGOc36GN0P9kuJ48sU4fVa.jpg"
+    },
+    {
+      "name": "Wallace Shawn",
+      "role": "Rex (voice)",
+      "url": "https://multimovies.city/cast/wallace-shawn/",
+      "image": "https://image.tmdb.org/t/p/w92/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "name": "John Ratzenberger",
+      "role": "Hamm (voice)",
+      "url": "https://multimovies.city/cast/john-ratzenberger/",
+      "image": "https://image.tmdb.org/t/p/w92/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "name": "Annie Potts",
+      "role": "Bo Peep (voice)",
+      "url": "https://multimovies.city/cast/annie-potts/",
+      "image": "https://image.tmdb.org/t/p/w92/wci5yNwwQvvRtHybDG36wZqhC1t.jpg"
+    },
+    {
+      "name": "John Morris",
+      "role": "Andy (voice)",
+      "url": "https://multimovies.city/cast/john-morris/",
+      "image": "https://image.tmdb.org/t/p/w92/lSdNMhN3DoXEQJ37IeOD5mTMUQK.jpg"
+    },
+    {
+      "name": "Erik von Detten",
+      "role": "Sid (voice)",
+      "url": "https://multimovies.city/cast/erik-von-detten/",
+      "image": "https://image.tmdb.org/t/p/w92/7fHjKnLKmqzR0kmvRPLxpQE7BsK.jpg"
+    },
+    {
+      "name": "Laurie Metcalf",
+      "role": "Mrs. Davis (voice)",
+      "url": "https://multimovies.city/cast/laurie-metcalf/",
+      "image": "https://image.tmdb.org/t/p/w92/ypAppMZ1Q99cBjtX4BAnZmWjVXe.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "https://image.tmdb.org/t/p/w300/lxD5ak7BOoinRNehOCA85CQ8ubr.jpg",
+    "https://image.tmdb.org/t/p/w300/XLwjO1NSCIaLznh58OQtmSFl0N.jpg",
+    "https://image.tmdb.org/t/p/w300/fAfOiNG0t0Sn1wCGLcHOj62AZWU.jpg",
+    "https://image.tmdb.org/t/p/w300/e6bG3pp3cpImIDObC62bxmsarto.jpg",
+    "https://image.tmdb.org/t/p/w300/w620zb5fZW0QBQlM8pZwftzBaJj.jpg",
+    "https://image.tmdb.org/t/p/w300/wXTMod0lcLMtQy6Tz9yBP2wF4F1.jpg",
+    "https://image.tmdb.org/t/p/w300/2lhpf6ymXxDHSPQ3TlcQFQrTDgK.jpg",
+    "https://image.tmdb.org/t/p/w300/bIqPTQUj82JhAwWC6e71dqc8ZQ0.jpg",
+    "https://image.tmdb.org/t/p/w300/npzChb0QUK16uMWTZk5wiNUyxOs.jpg"
+  ],
+  "similar": [],
+  "views": 5156,
+  "sources": [
+    "https://www.youtube.com/embed/u9y2tXnjP_E?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/lss77i5"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20723,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 20723,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false
+}
