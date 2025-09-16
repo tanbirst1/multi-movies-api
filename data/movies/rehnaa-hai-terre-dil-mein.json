@@ -4,15 +4,117 @@
   "meta": {
     "title": "Rehnaa Hai Terre Dil Mein",
     "poster": "https://image.tmdb.org/t/p/w500/fRWjtotRdR8OXrp6jHHL4OUWMqh.jpg",
-    "synopsis": "Cupid\u2019s arrow and a lot more strike at Madhav Shastri\u2019s when he first has a glimpse of beautiful Reena Malhotra. Thereafter he meets her again and finds out that she the bethrothed of one Rajiv, and so he impersonates Rajiv and enters Reena\u2019s life. And they both fall in love\u2026"
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Oct. 19, 2001",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Cupid\u2019s arrow and a lot more strike at Madhav Shastri\u2019s when he first has a glimpse of beautiful Reena Malhotra. Thereafter he meets her again and finds out that she the bethrothed of one Rajiv, and so he impersonates Rajiv and enters Reena\u2019s life. And they both fall in love\u2026",
+    "infoFields": {
+      "Original title": "\u0930\u0939\u0928\u093e \u0939\u0948 \u0924\u0947\u0930\u0947 \u0926\u093f\u0932 \u092e\u0947\u0902",
+      "IMDb Rating": "7.6 8,661 votes",
+      "TMDb Rating": "6.058 26 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Gautham Vasudev Menon",
+      "role": "Director",
+      "url": "https://multimovies.city/director/gautham-vasudev-menon/",
+      "image": "https://image.tmdb.org/t/p/w92/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+      "name": "R. Madhavan",
+      "role": "Madhav Shastri (Maddy)",
+      "url": "https://multimovies.city/cast/r-madhavan/",
+      "image": "https://image.tmdb.org/t/p/w92/gaDrAdXxIrbBRCd9cX8YvJDEuLb.jpg"
+    },
+    {
+      "name": "Dia Mirza",
+      "role": "Reena Malhotra",
+      "url": "https://multimovies.city/cast/dia-mirza/",
+      "image": "https://image.tmdb.org/t/p/w92/oJSZlMkIGC1Yr8QxdBLliUjPRSd.jpg"
+    },
+    {
+      "name": "Saif Ali Khan",
+      "role": "Rajiv Shyamrao",
+      "url": "https://multimovies.city/cast/saif-ali-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    },
+    {
+      "name": "Anupam Kher",
+      "role": "Deen Dayal",
+      "url": "https://multimovies.city/cast/anupam-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/f7hWJ4tvzR7uXmYoTiB41TpQ2NZ.jpg"
+    },
+    {
+      "name": "Tanaaz Currim Irani",
+      "role": "Shruti",
+      "url": "https://multimovies.city/cast/tanaaz-currim-irani/",
+      "image": "https://image.tmdb.org/t/p/w92/zKUiHDyMLOaeBNR58Un0NoeMhAV.jpg"
+    },
+    {
+      "name": "Vrajesh Hirjee",
+      "role": "Vicky",
+      "url": "https://multimovies.city/cast/vrajesh-hirjee/",
+      "image": "https://image.tmdb.org/t/p/w92/sXqkMv81GLOh3HMRcRCJOTgJUET.jpg"
+    },
+    {
+      "name": "Hemant Pandey",
+      "role": "Lorry driver",
+      "url": "https://multimovies.city/cast/hemant-pandey/",
+      "image": "https://image.tmdb.org/t/p/w92/wARUtSrR7lVk9AUy78sXhWt2xUK.jpg"
+    },
+    {
+      "name": "Smita Jaykar",
+      "role": "Mrs. Malhotra",
+      "url": "https://multimovies.city/cast/smita-jaykar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kabir Sadanand",
+      "role": "Maddy's friend",
+      "url": "https://multimovies.city/cast/kabir-sadanand/",
+      "image": "https://image.tmdb.org/t/p/w92/b0hNSsXhO7MczBH7ZutxnpLOZ0O.jpg"
+    },
+    {
+      "name": "Navin Nischol",
+      "role": "Mr. Malhotra",
+      "url": "https://multimovies.city/cast/navin-nischol/",
+      "image": "https://image.tmdb.org/t/p/w92/zgVz8kN8q6r2sHfHFOr8AZ4nosa.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hgt5Op2vVJ0RjaT5FHjHkDs84cn.jpg",
+    "https://image.tmdb.org/t/p/w300/pIJX16GHgliArATHH7l43j7xD2e.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 4672,
+  "sources": [
+    "https://multimoviesshg.com/e/4cu3l2jsrfkb"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8564,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:32:01.227164"
 }
