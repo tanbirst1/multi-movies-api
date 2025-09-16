@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/wrong-turn/",
+  "meta": {
+    "title": "Wrong Turn",
+    "poster": "https://image.tmdb.org/t/p/w500/7lyxwOg7SdGff79yKCQmJ3AKWSf.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      },
+      {
+        "name": "Wrong Turn",
+        "url": "https://multimovies.city/genre/wrong-turn/"
+      }
+    ],
+    "firstAirDate": "May. 30, 2003",
+    "ratingValue": "9.7",
+    "ratingCount": "6",
+    "synopsis": "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u2019re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+    "infoFields": {
+      "Original title": "Wrong Turn",
+      "IMDb Rating": "6.1 138,935 votes",
+      "TMDb Rating": "6.365 2,768 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rob Schmidt",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rob-schmidt/",
+      "image": "https://image.tmdb.org/t/p/w92/cOZEh8p41XTs7ACSreS3UGWUGnR.jpg"
+    },
+    {
+      "name": "Eliza Dushku",
+      "role": "Jessie Burlingame",
+      "url": "https://multimovies.city/cast/eliza-dushku/",
+      "image": "https://image.tmdb.org/t/p/w92/qHURPtvXi6ckjvUW8DKIWr9Sd6G.jpg"
+    },
+    {
+      "name": "Emmanuelle Chriqui",
+      "role": "Carly",
+      "url": "https://multimovies.city/cast/emmanuelle-chriqui/",
+      "image": "https://image.tmdb.org/t/p/w92/tFnpUJLzbIoMj4F3fLAe3oqkexG.jpg"
+    },
+    {
+      "name": "Lindy Booth",
+      "role": "Francine",
+      "url": "https://multimovies.city/cast/lindy-booth/",
+      "image": "https://image.tmdb.org/t/p/w92/5vT2mIIGTM7XQx4utAyRjW1aRPW.jpg"
+    },
+    {
+      "name": "Desmond Harrington",
+      "role": "Chris Flynn",
+      "url": "https://multimovies.city/cast/desmond-harrington/",
+      "image": "https://image.tmdb.org/t/p/w92/hylBgwz1akNoX03glhMnqNxLCqm.jpg"
+    },
+    {
+      "name": "James Downing",
+      "role": "Trucker",
+      "url": "https://multimovies.city/cast/james-downing/",
+      "image": "https://image.tmdb.org/t/p/w92/zwMaHqLzkcAwSxPWMoAzG0BFls5.jpg"
+    },
+    {
+      "name": "Julian Richings",
+      "role": "Three Finger",
+      "url": "https://multimovies.city/cast/julian-richings/",
+      "image": "https://image.tmdb.org/t/p/w92/ia2Xo99pxLX3sxZ0jVcj7eai56l.jpg"
+    },
+    {
+      "name": "Jeremy Sisto",
+      "role": "Scott",
+      "url": "https://multimovies.city/cast/jeremy-sisto/",
+      "image": "https://image.tmdb.org/t/p/w92/1XfuASLjBhGOhJ4os7juRJot2we.jpg"
+    },
+    {
+      "name": "Wayne Robson",
+      "role": "Old Man",
+      "url": "https://multimovies.city/cast/wayne-robson/",
+      "image": "https://image.tmdb.org/t/p/w92/idYHGiGyWcUUrVFm9THGLzTgWHF.jpg"
+    },
+    {
+      "name": "David Huband",
+      "role": "Trooper",
+      "url": "https://multimovies.city/cast/david-huband/",
+      "image": "https://image.tmdb.org/t/p/w92/ArFPUIHyPibOCBjqZXMZvrEX6ZF.jpg"
+    },
+    {
+      "name": "Kevin Zegers",
+      "role": "Evan",
+      "url": "https://multimovies.city/cast/kevin-zegers/",
+      "image": "https://image.tmdb.org/t/p/w92/zRjasG4NXxKbe6e1c4enivAvfcH.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qjdInV140rRUqcuEIBUmjylHaZ9.jpg",
+    "https://image.tmdb.org/t/p/w300/qHHlBPTpKyh9iTjx1cNMU8sXBnj.jpg",
+    "https://image.tmdb.org/t/p/w300/8LSiNJeEyvoJT2OdsaZ68D6LNCU.jpg",
+    "https://image.tmdb.org/t/p/w300/btthxLXSkh7nbANQPbXOHhlIUyO.jpg"
+  ],
+  "similar": [],
+  "views": 21030,
+  "sources": [
+    "https://www.youtube.com/embed/naUUyD-_oPc?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/v5myskx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 854,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 854,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:43:40.788161"
+}
