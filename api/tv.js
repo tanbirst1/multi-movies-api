@@ -1,8 +1,8 @@
-// No external dependencies version (pure regex & DOM parsing)
 const fs = require("fs");
 const path = require("path");
+const cheerio = require("cheerio");
 
-// ------- In-memory Cache -------
+// ------- Simple In-memory Cache -------
 const cacheStore = new Map(); // key: target URL, value: { data, expiry }
 
 // ------- Helpers -------
@@ -17,7 +17,17 @@ function readBaseURL() {
       if (/^https?:\/\//i.test(txt)) return txt.replace(/\/+$/, "");
     }
   } catch (_) {}
-  return "https://multimovies.lol/"; // fallback default
+  return "https://multimovies.lol/"; // sane default
+}
+
+function getImgSrc($el) {
+  return (
+    $el.attr("data-src") ||
+    $el.attr("data-lazy-src") ||
+    $el.attr("data-lazyloaded-src") ||
+    $el.attr("src") ||
+    ""
+  ).trim();
 }
 
 function toAbs(base, href) {
@@ -58,7 +68,8 @@ async function fetchHTML(target, timeoutMs = 20000) {
     const resp = await fetch(target, {
       method: "GET",
       headers: {
-        "user-agent": "Mozilla/5.0 (Scraper/3.0; +https://vercel.com/)",
+        "user-agent":
+          "Mozilla/5.0 (compatible; Scraper/2.0; +https://vercel.com/)",
         accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
       },
       signal: ac.signal,
@@ -72,51 +83,60 @@ async function fetchHTML(target, timeoutMs = 20000) {
   }
 }
 
-// ---- Extract Show Page (regex scraping) ----
+async function fetchSourcesFromVideo(url) {
+  try {
+    const apiUrl = `https://multi-movies-api.vercel.app/api/video.js?url=${encodeURIComponent(url)}`;
+    const resp = await fetch(apiUrl, {
+      headers: { "user-agent": "Mozilla/5.0 (VideoFetcher/1.0)" },
+    });
+    if (!resp.ok) return null;
+    const json = await resp.json();
+    if (!json || !Array.isArray(json.sources)) return null;
+
+    return json.sources.map((s) => ({
+      server: s.server || "Unknown",
+      url: s.file || s.url || "",
+    }));
+  } catch {
+    return null;
+  }
+}
+
+// ---- Parse Show Page ----
 function parsePage(html, pageUrl, siteRoot) {
-  const getText = (re) => {
-    const m = html.match(re);
-    return m ? m[1].trim() : "";
-  };
+  const $ = cheerio.load(html);
 
   const title =
-    getText(/<h1[^>]*>(.*?)<\/h1>/i) ||
-    getText(/<meta[^>]+itemprop=["']name["'][^>]+content=["']([^"']+)["']/i);
+    $("#single .sheader .data h1").first().text().trim() ||
+    $('meta[itemprop="name"]').attr("content") ||
+    "";
 
-  let poster = getText(/<div class="poster">\s*<img[^>]+src=["']([^"']+)["']/i);
-  if (!poster) {
-    const m = html.match(/<img[^>]+class=["'][^"']*poster[^"']*["'][^>]+src=["']([^"']+)["']/i);
-    poster = m ? m[1] : "";
-  }
+  let poster = getImgSrc($("#single .sheader .poster img").first());
   poster = normalizeImageURL(toAbs(siteRoot, poster));
 
-  const synopsis = getText(/<div id="info"[^>]*>\s*<div class="wp-content">(.*?)<\/div>/is);
+  const synopsis = $("#info .wp-content").text().replace(/\s+\n/g, "\n").trim();
 
   const seasons = [];
-  const seasonBlocks = html.split('<div class="se-c"');
-  seasonBlocks.shift(); // remove preamble
-
-  for (const block of seasonBlocks) {
-    const seasonNumberText = (block.match(/<span class="se-t">\s*(\d+)/i) || [])[1] || "";
+  $("#seasons .se-c").each((_, se) => {
+    const $se = $(se);
+    const seasonNumberText = $se.find(".se-q .se-t").first().text().trim();
     const seasonNumber = seasonNumberText ? parseInt(seasonNumberText, 10) : null;
-    const seasonTitle = (block.match(/<span class="title">\s*([^<]+)/i) || [])[1] || "";
+    const seasonTitle = $se.find(".se-q .title").first().text().trim();
 
     const episodes = [];
-    const epMatches = block.split("<li");
-    epMatches.shift();
-
-    for (const li of epMatches) {
-      const numerando = (li.match(/<span class="numerando">\s*([^<]+)/i) || [])[1] || "";
+    $se.find(".se-a ul.episodios > li").each((__, li) => {
+      const $li = $(li);
+      const numerando = $li.find(".numerando").text().trim();
       const eMatch = numerando.match(/(\d+)\s*-\s*(\d+)/);
       const seasonNo = eMatch ? parseInt(eMatch[1], 10) : null;
       const episodeNo = eMatch ? parseInt(eMatch[2], 10) : null;
 
-      const epTitle = (li.match(/<div class="episodiotitle">\s*<a[^>]*>([^<]+)/i) || [])[1] || "";
-      const epUrl = toAbs(siteRoot, (li.match(/<a[^>]+href=["']([^"']+)["']/i) || [])[1] || "");
-      const airDate = (li.match(/<span class="date">\s*([^<]+)/i) || [])[1] || "";
-
-      let thumb = (li.match(/<img[^>]+src=["']([^"']+)["']/i) || [])[1] || "";
-      thumb = normalizeImageURL(toAbs(siteRoot, thumb));
+      const $a = $li.find(".episodiotitle a").first();
+      const epTitle = $a.text().trim();
+      const epUrl = toAbs(siteRoot, $a.attr("href"));
+      const airDate = $li.find(".episodiotitle .date").first().text().trim();
+      const thumbRaw = getImgSrc($li.find(".imagen img").first());
+      const thumb = normalizeImageURL(toAbs(siteRoot, thumbRaw));
 
       episodes.push({
         seasonNo,
@@ -127,12 +147,12 @@ function parsePage(html, pageUrl, siteRoot) {
         thumbnail: thumb,
         sources: [], // preload step will fill this
       });
-    }
+    });
 
     if (seasonNumber !== null || episodes.length) {
       seasons.push({ seasonNumber, seasonTitle, episodes });
     }
-  }
+  });
 
   return {
     ok: true,
@@ -142,19 +162,13 @@ function parsePage(html, pageUrl, siteRoot) {
   };
 }
 
-// ---- Preload video sources (calls ./video.js) ----
+// ---- Preloader: fetch episode sources one by one ----
 async function preloadEpisodeSources(seasons, delay = 1000) {
   for (const season of seasons) {
     for (const ep of season.episodes) {
-      try {
-        const apiUrl = `https://${process.env.VERCEL_URL || "localhost:3000"}/api/video?url=${encodeURIComponent(ep.url)}`;
-        const resp = await fetch(apiUrl);
-        if (resp.ok) {
-          const json = await resp.json();
-          ep.sources = json.sources || [];
-        }
-      } catch (_) {}
-      await new Promise((r) => setTimeout(r, delay));
+      const srcs = await fetchSourcesFromVideo(ep.url);
+      ep.sources = srcs || [];
+      await new Promise((r) => setTimeout(r, delay)); // prevent crash
     }
   }
   return seasons;
@@ -168,24 +182,26 @@ module.exports = async function handler(req, res) {
 
     let target = (q.url && String(q.url).trim()) || "";
 
-    if (!target && q.slug) {
-      const slug = slugifyTitle(String(q.slug));
-      const section = (q.section && String(q.section)) || "tvshows";
-      target = `${base.replace(/\/+$/, "")}/${section}/${slug}/`;
-    }
-
     if (!target) {
-      res.status(400).json({ ok: false, error: "Missing ?url= or ?slug=" });
-      return;
+      const slugParam = q.slug ? String(q.slug) : "";
+      if (!base) {
+        res.status(400).json({ ok: false, error: "Missing base or url" });
+        return;
+      }
+      const origin = base.replace(/\/+$/, "");
+      if (slugParam) {
+        const slug = slugifyTitle(slugParam);
+        const section = (q.section && String(q.section)) || "tvshows";
+        target = `${origin}/${section.replace(/^\/|\/$/g, "")}/${slug}/`;
+      } else {
+        target = `${origin}/tvshows/example-show/`;
+      }
     }
 
-    const siteRoot = (() => {
-      try {
-        return new URL(base || target).origin;
-      } catch {
-        return base || target;
-      }
-    })();
+    let siteRoot = "";
+    try {
+      siteRoot = new URL(base || target).origin;
+    } catch {}
 
     // --- Cache ---
     const now = Date.now();
@@ -198,10 +214,10 @@ module.exports = async function handler(req, res) {
 
     // --- Fetch + Parse ---
     const html = await fetchHTML(target);
-    let data = parsePage(html, target, siteRoot);
+    let data = parsePage(html, target, siteRoot || target);
 
-    // Preload video sources
-    data.seasons = await preloadEpisodeSources(data.seasons);
+    // Preload sources with delay to avoid crash
+    data.seasons = await preloadEpisodeSources(data.seasons, 1200);
 
     cacheStore.set(target, { data, expiry: now + 500 * 1000 });
 
@@ -211,7 +227,7 @@ module.exports = async function handler(req, res) {
     const dev = process.env.NODE_ENV !== "production";
     res.status(500).json({
       ok: false,
-      error: err.message || String(err),
+      error: err && err.message ? err.message : String(err),
       stack: dev ? err.stack : undefined,
     });
   }
