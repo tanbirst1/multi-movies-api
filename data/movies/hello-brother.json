@@ -4,15 +4,78 @@
   "meta": {
     "title": "Hello Brother",
     "poster": "https://image.tmdb.org/t/p/w500/edwYmD9YUs6gMPEkNOA78f28pwM.jpg",
-    "synopsis": "A ghost seeking revenge for his death haunts the man who received his heart in a transplant."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Aug. 26, 1999",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "A ghost seeking revenge for his death haunts the man who received his heart in a transplant.",
+    "infoFields": {
+      "Original title": "Hello Brother",
+      "IMDb Rating": "4.6 4,421 votes",
+      "TMDb Rating": "5.683 41 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
+  "cast": [
+    {
+      "name": "Sohail Khan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sohail-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/jn5iY5O6qWy0j7eDqGpvPfS9sXy.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Hero",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/gxKwCCcs777HzsXRpdGsBV87pXn.jpg"
+    },
+    {
+      "name": "Rani Mukerji",
+      "role": "Rani",
+      "url": "https://multimovies.city/cast/rani-mukerji/",
+      "image": "https://image.tmdb.org/t/p/w92/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg"
+    },
+    {
+      "name": "Arbaaz Khan",
+      "role": "Inspector Vishal",
+      "url": "https://multimovies.city/cast/arbaaz-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/n5iBuvIjx5zuR4DzCfXGtXyv55s.jpg"
+    },
+    {
+      "name": "Shakti Kapoor",
+      "role": "Khanna",
+      "url": "https://multimovies.city/cast/shakti-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/a7LjjoGOhUXXXLsVZlSjjAx8BoW.jpg"
+    }
+  ],
   "gallery": [],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 574,
+  "sources": [
+    "https://multimoviesshg.com/e/jvf1cspmls8j"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5413,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:22:44"
+  "last_update": "2025-09-16T17:26:15.081674"
 }
