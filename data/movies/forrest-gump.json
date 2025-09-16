@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/forrest-gump/",
+  "meta": {
+    "title": "Forrest Gump",
+    "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 23, 1994",
+    "ratingValue": "9.4",
+    "ratingCount": "5",
+    "synopsis": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "infoFields": {
+      "Original title": "Forrest Gump",
+      "IMDb Rating": "8.8 2,282,421 votes",
+      "TMDb Rating": "8.475 26,900 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Robert Zemeckis",
+      "role": "Director",
+      "url": "https://multimovies.city/director/robert-zemeckis/",
+      "image": "https://image.tmdb.org/t/p/w92/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg"
+    },
+    {
+      "name": "Tom Hanks",
+      "role": "Forrest Gump",
+      "url": "https://multimovies.city/cast/tom-hanks/",
+      "image": "https://image.tmdb.org/t/p/w92/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+    },
+    {
+      "name": "Robin Wright",
+      "role": "Jenny Curran",
+      "url": "https://multimovies.city/cast/robin-wright/",
+      "image": "https://image.tmdb.org/t/p/w92/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+      "name": "Gary Sinise",
+      "role": "Lieutenant Dan Taylor",
+      "url": "https://multimovies.city/cast/gary-sinise/",
+      "image": "https://image.tmdb.org/t/p/w92/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+    },
+    {
+      "name": "Sally Field",
+      "role": "Mrs. Gump",
+      "url": "https://multimovies.city/cast/sally-field/",
+      "image": "https://image.tmdb.org/t/p/w92/5fBK36MdmdwQQMuP0W70rXADXih.jpg"
+    },
+    {
+      "name": "Mykelti Williamson",
+      "role": "Bubba Blue",
+      "url": "https://multimovies.city/cast/mykelti-williamson/",
+      "image": "https://image.tmdb.org/t/p/w92/e5f7XCZAUEQ55rVhdphqzdMMI8b.jpg"
+    },
+    {
+      "name": "Michael Conner Humphreys",
+      "role": "Young Forrest Gump",
+      "url": "https://multimovies.city/cast/michael-conner-humphreys/",
+      "image": "https://image.tmdb.org/t/p/w92/irYRs3COggVHg91jL3CrlCIWmnx.jpg"
+    },
+    {
+      "name": "Hanna Hall",
+      "role": "Young Jenny Curran",
+      "url": "https://multimovies.city/cast/hanna-hall/",
+      "image": "https://image.tmdb.org/t/p/w92/xkZ2Hwz1QLXvQCgGlWgVgx00Rtd.jpg"
+    },
+    {
+      "name": "Haley Joel Osment",
+      "role": "Forrest Junior",
+      "url": "https://multimovies.city/cast/haley-joel-osment/",
+      "image": "https://image.tmdb.org/t/p/w92/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+    },
+    {
+      "name": "Siobhan Fallon Hogan",
+      "role": "School Bus Driver",
+      "url": "https://multimovies.city/cast/siobhan-fallon-hogan/",
+      "image": "https://image.tmdb.org/t/p/w92/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+    },
+    {
+      "name": "Rebecca Williams",
+      "role": "Nurse at Park Bench",
+      "url": "https://multimovies.city/cast/rebecca-williams/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ghgfzbEV7kbpbi1O8eIILKVXEA8.jpg",
+    "https://image.tmdb.org/t/p/w300/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+    "https://image.tmdb.org/t/p/w300/rgz51ESlPANtfy1PUsYItTi1HaB.jpg",
+    "https://image.tmdb.org/t/p/w300/esIkb7Wkfk016ZNpqX24w0gbgkb.jpg",
+    "https://image.tmdb.org/t/p/w300/tlEFuIlaxRPXIYVHXbOSAMCfWqk.jpg",
+    "https://image.tmdb.org/t/p/w300/8uWbSjUky6NiJnD3Typz6ZN0f9w.jpg",
+    "https://image.tmdb.org/t/p/w300/oJmBWLUCKbgra8D9ZrLE1nBic5v.jpg",
+    "https://image.tmdb.org/t/p/w300/2GOPTsECSHkJUHWrEFugoGItUDG.jpg",
+    "https://image.tmdb.org/t/p/w300/7c9UVPPiTPltouxRVY6N9uugaVA.jpg",
+    "https://image.tmdb.org/t/p/w300/p2SUCM0aETWpiXultaoH9C9uL1r.jpg"
+  ],
+  "similar": [],
+  "views": 3193,
+  "sources": [
+    "https://www.youtube.com/embed/VVN82P8dN7I?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/xx8slsismfgd"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58522,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58522,
+      "nume": 1,
+      "title": "gdmirror"
+    }
+  ],
+  "cache": false
+}
