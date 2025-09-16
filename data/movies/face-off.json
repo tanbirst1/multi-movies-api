@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/face-off/",
+  "meta": {
+    "title": "Face/Off",
+    "poster": "https://image.tmdb.org/t/p/w500/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jun. 27, 1997",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge.",
+    "infoFields": {
+      "Original title": "Face/Off",
+      "IMDb Rating": "7.3 401,738 votes",
+      "TMDb Rating": "7.03 5,087 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John Woo",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-woo/",
+      "image": "https://image.tmdb.org/t/p/w92/s7sDmQq8cegHnsTmD0u2eZ4ArYZ.jpg"
+    },
+    {
+      "name": "John Travolta",
+      "role": "Sean Archer",
+      "url": "https://multimovies.city/cast/john-travolta/",
+      "image": "https://image.tmdb.org/t/p/w92/zkAX8YV692YVDQgRBh5JPUddPMQ.jpg"
+    },
+    {
+      "name": "Nicolas Cage",
+      "role": "Castor Troy",
+      "url": "https://multimovies.city/cast/nicolas-cage/",
+      "image": "https://image.tmdb.org/t/p/w92/ar33qcWbEgREn07ZpXv5Pbj8hbM.jpg"
+    },
+    {
+      "name": "Joan Allen",
+      "role": "Eve Archer",
+      "url": "https://multimovies.city/cast/joan-allen/",
+      "image": "https://image.tmdb.org/t/p/w92/2w40UhN3WoW9G9EkLzhDcfF3t9W.jpg"
+    },
+    {
+      "name": "Alessandro Nivola",
+      "role": "Pollux Troy",
+      "url": "https://multimovies.city/cast/alessandro-nivola/",
+      "image": "https://image.tmdb.org/t/p/w92/6simAB2dFVjjaNqx2qhSBRQpfmA.jpg"
+    },
+    {
+      "name": "Gina Gershon",
+      "role": "Sasha Hassler",
+      "url": "https://multimovies.city/cast/gina-gershon/",
+      "image": "https://image.tmdb.org/t/p/w92/c9PpXfQ5XN5IYISUTexXMF19cax.jpg"
+    },
+    {
+      "name": "Dominique Swain",
+      "role": "Jamie Archer",
+      "url": "https://multimovies.city/cast/dominique-swain/",
+      "image": "https://image.tmdb.org/t/p/w92/aIj6HKeFk9hWlkMaO4tQN28TxBk.jpg"
+    },
+    {
+      "name": "Nick Cassavetes",
+      "role": "Dietrich Hassler",
+      "url": "https://multimovies.city/cast/nick-cassavetes/",
+      "image": "https://image.tmdb.org/t/p/w92/kFGQOcOyBvQSW4k6m5LR8lnbu8n.jpg"
+    },
+    {
+      "name": "Harve Presnell",
+      "role": "Victor Lazarro",
+      "url": "https://multimovies.city/cast/harve-presnell/",
+      "image": "https://image.tmdb.org/t/p/w92/rQ59i2F9xMLp5MzuxmNN91iKzcV.jpg"
+    },
+    {
+      "name": "Colm Feore",
+      "role": "Dr. Malcolm Walsh",
+      "url": "https://multimovies.city/cast/colm-feore/",
+      "image": "https://image.tmdb.org/t/p/w92/oOxcf1qB1IvVZrBEE1PdrfMiyBK.jpg"
+    },
+    {
+      "name": "John Carroll Lynch",
+      "role": "Prison Guard Walton",
+      "url": "https://multimovies.city/cast/john-carroll-lynch/",
+      "image": "https://image.tmdb.org/t/p/w92/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/yeIpgoZWzbNqkeSYPwhNZQ5xCRX.jpg",
+    "https://image.tmdb.org/t/p/w300/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
+    "https://image.tmdb.org/t/p/w300/aWj4gpItMKCSf01Frb6NMdkPX0j.jpg",
+    "https://image.tmdb.org/t/p/w300/mtaqzndq6KJpWBdgLmnYR3Ap2rk.jpg",
+    "https://image.tmdb.org/t/p/w300/tfUchgHWvENqgQUKatXLIz1lzXY.jpg",
+    "https://image.tmdb.org/t/p/w300/mTFwg5IMAVvDSd43YobcPPl2P5z.jpg",
+    "https://image.tmdb.org/t/p/w300/xPpuLTo6YoZoImzYiQZ3NIj9E3o.jpg",
+    "https://image.tmdb.org/t/p/w300/5ipfDoeJTWMPwjeorklNmzNNdD.jpg",
+    "https://image.tmdb.org/t/p/w300/5ZNLcWXgQraG1V3FdJjCh7Ot7Z7.jpg",
+    "https://image.tmdb.org/t/p/w300/wkLeIf9NqwPI4O7lsqKdUxW4jdt.jpg"
+  ],
+  "similar": [],
+  "views": 412,
+  "sources": [
+    "https://www.youtube.com/embed/3zebJ_NoduE?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/o3os0kem034b"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 52214,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 52214,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
