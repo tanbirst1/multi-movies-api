@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/de-dana-dan/",
+  "meta": {
+    "title": "De Dana Dan",
+    "poster": "https://image.tmdb.org/t/p/w500/htOpALyz5x1Ee7YuZpaRCPEwEuX.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      }
+    ],
+    "firstAirDate": "Nov. 27, 2009",
+    "ratingValue": "7.7",
+    "ratingCount": "10",
+    "synopsis": "Two down on their luck men tries to kidnap a wealthy businesswoman\u2019s dog to demand a hefty ransom from her. But things go haywire when the dog goes missing.",
+    "infoFields": {
+      "Original title": "De Dana Dan",
+      "IMDb Rating": "5.7 9,399 votes",
+      "TMDb Rating": "5.639 61 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Priyadarshan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/priyadarshan/",
+      "image": "https://image.tmdb.org/t/p/w92/gBaSTf0XL0mKj0iYZcYix4OTMyG.jpg"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Nitin Bankar",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/gaINfJtR19rNTIsI2cF3KFjyAB7.jpg"
+    },
+    {
+      "name": "Katrina Kaif",
+      "role": "Anjali Kakkad",
+      "url": "https://multimovies.city/cast/katrina-kaif/",
+      "image": "https://image.tmdb.org/t/p/w92/sGxjQQ2ymrrplbRqFjwiJiUdc5w.jpg"
+    },
+    {
+      "name": "Suniel Shetty",
+      "role": "Ram Mishra",
+      "url": "https://multimovies.city/cast/suniel-shetty/",
+      "image": "https://image.tmdb.org/t/p/w92/8zdduuPcsoUtBbCA8rl17X44jwe.jpg"
+    },
+    {
+      "name": "Paresh Rawal",
+      "role": "Harbans Chadda",
+      "url": "https://multimovies.city/cast/paresh-rawal/",
+      "image": "https://image.tmdb.org/t/p/w92/vqqA4DVnqIfvmGtwdwHtHEzMvst.jpg"
+    },
+    {
+      "name": "Sameera Reddy",
+      "role": "Manpreet Oberoi",
+      "url": "https://multimovies.city/cast/sameera-reddy/",
+      "image": "https://image.tmdb.org/t/p/w92/egzWn7xxmKZxnynYuFlD93z3GMf.jpg"
+    },
+    {
+      "name": "Johnny Lever",
+      "role": "Kaala Krishna Murari",
+      "url": "https://multimovies.city/cast/johnny-lever/",
+      "image": "https://image.tmdb.org/t/p/w92/29PTgDWlNbctgddAC8V9C3Gf8B.jpg"
+    },
+    {
+      "name": "Rajpal Yadav",
+      "role": "Dagdu",
+      "url": "https://multimovies.city/cast/rajpal-yadav/",
+      "image": "https://image.tmdb.org/t/p/w92/zhzfI91YuODuC3ZY2ABytw68C37.jpg"
+    },
+    {
+      "name": "Tinnu Anand",
+      "role": "Kakkad",
+      "url": "https://multimovies.city/cast/tinnu-anand/",
+      "image": "https://image.tmdb.org/t/p/w92/IlSEsmGArQAZNvTBW02s4ato4d.jpg"
+    },
+    {
+      "name": "Aditi Gowitrikar",
+      "role": "Pammi H. Chaddha",
+      "url": "https://multimovies.city/cast/aditi-gowitrikar/",
+      "image": "https://image.tmdb.org/t/p/w92/5oAtD2qlmdmv2Ikc0QgqimIwOkt.jpg"
+    },
+    {
+      "name": "Chunky Pandey",
+      "role": "Nonni H. Chaddha",
+      "url": "https://multimovies.city/cast/chunky-pandey/",
+      "image": "https://image.tmdb.org/t/p/w92/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/dls6A6u6v2ao0LejNB9dVrlEwDF.jpg"
+  ],
+  "similar": [],
+  "views": 16557,
+  "sources": [
+    "https://www.youtube.com/embed/oBMW4EticlQ?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/6qn5ujavriaw"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 4895,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 4895,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:34:01.339026"
+}
