@@ -4,15 +4,124 @@
   "meta": {
     "title": "Zoolander",
     "poster": "https://image.tmdb.org/t/p/w500/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg",
-    "synopsis": "Clear the runway for Derek Zoolander, VH1\u2019s three-time male model of the year. His face falls when hippie-chic Hansel scooters in to steal this year\u2019s award. The evil fashion guru Mugatu seizes the opportunity to turn Derek into a killing machine. It\u2019s a well-designed conspiracy and only with the help of Hansel and a few well-chosen accessories like Matilda can Derek make the world safe for male models everywhere."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Sep. 28, 2001",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Clear the runway for Derek Zoolander, VH1\u2019s three-time male model of the year. His face falls when hippie-chic Hansel scooters in to steal this year\u2019s award. The evil fashion guru Mugatu seizes the opportunity to turn Derek into a killing machine. It\u2019s a well-designed conspiracy and only with the help of Hansel and a few well-chosen accessories like Matilda can Derek make the world safe for male models everywhere.",
+    "infoFields": {
+      "Original title": "Zoolander",
+      "IMDb Rating": "6.5 291,296 votes",
+      "TMDb Rating": "6.204 4,251 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Ben Stiller",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ben-stiller/",
+      "image": "https://image.tmdb.org/t/p/w92/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "name": "Ben Stiller",
+      "role": "Derek Zoolander",
+      "url": "https://multimovies.city/cast/ben-stiller/",
+      "image": "https://image.tmdb.org/t/p/w92/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "name": "Owen Wilson",
+      "role": "Hansel McDonald",
+      "url": "https://multimovies.city/cast/owen-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/ptiUjN2YcXbvCr6xawMFX9lYezk.jpg"
+    },
+    {
+      "name": "Christine Taylor",
+      "role": "Matilda Jeffries",
+      "url": "https://multimovies.city/cast/christine-taylor/",
+      "image": "https://image.tmdb.org/t/p/w92/81jveproLhJzWHpCuJh7hN65zRl.jpg"
+    },
+    {
+      "name": "Will Ferrell",
+      "role": "Jacobim Mugatu",
+      "url": "https://multimovies.city/cast/will-ferrell/",
+      "image": "https://image.tmdb.org/t/p/w92/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
+    },
+    {
+      "name": "Milla Jovovich",
+      "role": "Katinka Ingabogovinanana",
+      "url": "https://multimovies.city/cast/milla-jovovich/",
+      "image": "https://image.tmdb.org/t/p/w92/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+      "name": "Jerry Stiller",
+      "role": "Maury Ballstein",
+      "url": "https://multimovies.city/cast/jerry-stiller/",
+      "image": "https://image.tmdb.org/t/p/w92/eGymLHTpIyxKyBjACsNTpEof6y4.jpg"
+    },
+    {
+      "name": "David Duchovny",
+      "role": "J.P. Prewitt",
+      "url": "https://multimovies.city/cast/david-duchovny/",
+      "image": "https://image.tmdb.org/t/p/w92/rZ2pEvu9IYsnHx3ElWUy4KgK3ia.jpg"
+    },
+    {
+      "name": "Jon Voight",
+      "role": "Larry Zoolander",
+      "url": "https://multimovies.city/cast/jon-voight/",
+      "image": "https://image.tmdb.org/t/p/w92/h5jKQHLRQqqgvsfCXgxxtywx7UQ.jpg"
+    },
+    {
+      "name": "Judah Friedlander",
+      "role": "Scrappy Zoolander",
+      "url": "https://multimovies.city/cast/judah-friedlander/",
+      "image": "https://image.tmdb.org/t/p/w92/i4YQ8LGIlSNLCdpKURpRnuucgSr.jpg"
+    },
+    {
+      "name": "Nathan Lee Graham",
+      "role": "Todd",
+      "url": "https://multimovies.city/cast/nathan-lee-graham/",
+      "image": "https://image.tmdb.org/t/p/w92/5EJM7bYaT8vTZHRnGzEJANkbYZy.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/n7EH9nyYzQfAD4j6599fFWuQxDG.jpg",
+    "https://image.tmdb.org/t/p/w300/hP8tvJ4oKxH3c6QDj99hHZpA85.jpg",
+    "https://image.tmdb.org/t/p/w300/oMqAclK9lSn48GbpWo3mFxCy8XR.jpg",
+    "https://image.tmdb.org/t/p/w300/yLgzuWLnIRiuNgFj5HSJcdCcdfw.jpg",
+    "https://image.tmdb.org/t/p/w300/nJ1vO4SEoB0jvMU8NQggcA77uP.jpg",
+    "https://image.tmdb.org/t/p/w300/xTXcmhgKxMiI7vzjgkUHhZu4oKD.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 946,
+  "sources": [
+    "https://www.youtube.com/embed/YtQq0T3ExLs?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/qeyv0x8vkx3b"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 836,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 836,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:32:17.416690"
 }
