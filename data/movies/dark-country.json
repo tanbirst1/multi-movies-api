@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dark-country/",
+  "meta": {
+    "title": "Dark Country",
+    "poster": "https://image.tmdb.org/t/p/w500/w3DE4rxX5vY4ybq08zxQWrmbFaU.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Oct. 05, 2009",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Two honeymooners rescue a mysterious car crash survivor in the Las Vegas desert. But their decision to save the man becomes increasingly regrettable when he turns on them, forcing the newlyweds to do the unthinkable.",
+    "infoFields": {
+      "Original title": "Dark Country",
+      "IMDb Rating": "5.3 4,885 votes",
+      "TMDb Rating": "5.4 103 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Thomas Jane",
+      "role": "Director",
+      "url": "https://multimovies.city/director/thomas-jane/",
+      "image": "https://image.tmdb.org/t/p/w92/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+    },
+    {
+      "name": "Thomas Jane",
+      "role": "Dick",
+      "url": "https://multimovies.city/cast/thomas-jane/",
+      "image": "https://image.tmdb.org/t/p/w92/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+    },
+    {
+      "name": "Lauren German",
+      "role": "Gina",
+      "url": "https://multimovies.city/cast/lauren-german/",
+      "image": "https://image.tmdb.org/t/p/w92/wlfew4J9O6fOhizjjQtqUeT36Jb.jpg"
+    },
+    {
+      "name": "Ron Perlman",
+      "role": "Sheriff",
+      "url": "https://multimovies.city/cast/ron-perlman/",
+      "image": "https://image.tmdb.org/t/p/w92/9riPBfsWpzEzh2y9ucxTW22iakI.jpg"
+    },
+    {
+      "name": "Chris Browning",
+      "role": "Stranger",
+      "url": "https://multimovies.city/cast/chris-browning/",
+      "image": "https://image.tmdb.org/t/p/w92/jKsUctww9FbZXlY04kyzIM0tBse.jpg"
+    },
+    {
+      "name": "Con Schell",
+      "role": "Bloodyface",
+      "url": "https://multimovies.city/cast/con-schell/",
+      "image": "https://image.tmdb.org/t/p/w92/fCa06mvRzS5MiNlVjS3TMfwiIb8.jpg"
+    },
+    {
+      "name": "Rene Mousseux",
+      "role": "Crime Scene Trooper",
+      "url": "https://multimovies.city/cast/rene-mousseux/",
+      "image": "https://image.tmdb.org/t/p/w92/rlJeyY5IbWbudi0Ri2f1s9hG3uw.jpg"
+    },
+    {
+      "name": "Aynn Kirby",
+      "role": "Coroner",
+      "url": "https://multimovies.city/cast/aynn-kirby/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Nikki Kelly",
+      "role": "Alternate Woman",
+      "url": "https://multimovies.city/cast/nikki-kelly/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Jonathan Lund",
+      "role": "Crime Scene Paramedic",
+      "url": "https://multimovies.city/cast/jonathan-lund/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7vEIJNKjOwKoMYYQjJGwju7y6ul.jpg",
+    "https://image.tmdb.org/t/p/w300/d89Psb9PVb1Vei0eQFTtP0u9Vte.jpg"
+  ],
+  "similar": [],
+  "views": 674,
+  "sources": [
+    "https://www.youtube.com/embed/oHtyKiC-jx8?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/lcj7e5s4rti2"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 56005,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 56005,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:36:13.104578"
+}
