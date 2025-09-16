@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/summer-wars/",
+  "meta": {
+    "title": "Summer Wars",
+    "poster": "https://image.tmdb.org/t/p/w500/yHy8TrRLnuBZ4t2C0l0pSpRXVHO.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      }
+    ],
+    "firstAirDate": "Aug. 01, 2009",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "A student tries to fix a problem he accidentally caused in OZ, a digital world, while pretending to be the fianc\u00e9 of his friend at her grandmother\u2019s 90th birthday.",
+    "infoFields": {
+      "Original title": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba",
+      "IMDb Rating": "7.4 30,408 votes",
+      "TMDb Rating": "7.541 788 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mamoru Hosoda",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mamoru-hosoda/",
+      "image": "https://image.tmdb.org/t/p/w92/5QIWSzXHioDMHk2UMOqz2wbaWMr.jpg"
+    },
+    {
+      "name": "Ryunosuke Kamiki",
+      "role": "Kenji Koiso (voice)",
+      "url": "https://multimovies.city/cast/ryunosuke-kamiki/",
+      "image": "https://image.tmdb.org/t/p/w92/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+    },
+    {
+      "name": "Nanami Sakuraba",
+      "role": "Natsuki Shinohara (voice)",
+      "url": "https://multimovies.city/cast/nanami-sakuraba/",
+      "image": "https://image.tmdb.org/t/p/w92/urkh0E7oJCyaAWOTdmfonRbSeqe.jpg"
+    },
+    {
+      "name": "Mitsuki Tanimura",
+      "role": "Kazuma Ikezawa (voice)",
+      "url": "https://multimovies.city/cast/mitsuki-tanimura/",
+      "image": "https://image.tmdb.org/t/p/w92/xV9UrP8kZdxOiTI2efDFhp3t4iA.jpg"
+    },
+    {
+      "name": "Sumiko Fuji",
+      "role": "Sakae Jinnouchi (voice)",
+      "url": "https://multimovies.city/cast/sumiko-fuji/",
+      "image": "https://image.tmdb.org/t/p/w92/earLCH2wxBTx2IoK7pJcsHUBGBe.jpg"
+    },
+    {
+      "name": "Ayumu Saito",
+      "role": "Wabisuke Jinnouchi (voice)",
+      "url": "https://multimovies.city/cast/ayumu-saito/",
+      "image": "https://image.tmdb.org/t/p/w92/x0FyJsorebPuqqBVkLfZoIWFHTP.jpg"
+    },
+    {
+      "name": "Takahiro Yokokawa",
+      "role": "Takashi Sakuma (voice)",
+      "url": "https://multimovies.city/cast/takahiro-yokokawa/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kiyomi Tanigawa",
+      "role": "Yukiko Shinohara (voice)",
+      "url": "https://multimovies.city/cast/kiyomi-tanigawa/",
+      "image": "https://image.tmdb.org/t/p/w92/ivX7ebjkDRnrsavPNIqAmxcwIbz.jpg"
+    },
+    {
+      "name": "Mutsumi Sasaki",
+      "role": "Kazuo Shinohara (voice)",
+      "url": "https://multimovies.city/cast/mutsumi-sasaki/",
+      "image": "https://image.tmdb.org/t/p/w92/vfWeOCWPMONdhcm4B35B0vVhgbj.jpg"
+    },
+    {
+      "name": "Mieko Nobusawa",
+      "role": "Mariko Jinnouchi (voice)",
+      "url": "https://multimovies.city/cast/mieko-nobusawa/",
+      "image": "https://image.tmdb.org/t/p/w92/4Fj2jUZcLS9xbpHq0RMaoqdZUln.jpg"
+    },
+    {
+      "name": "Takuya Kirimoto",
+      "role": "Riichi Jinnouchi (voice)",
+      "url": "https://multimovies.city/cast/takuya-kirimoto/",
+      "image": "https://image.tmdb.org/t/p/w92/tDtATZ0RzxPiEzs4X2wJU7rSlkq.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/v0AVNgZ0qy3cdzxpOfL1eukqARn.jpg",
+    "https://image.tmdb.org/t/p/w300/wSFAoevZuVBo4L9f8NgYSD1o9cQ.jpg",
+    "https://image.tmdb.org/t/p/w300/laWosEOIzqSmMzJrDc9S8NTzRvd.jpg",
+    "https://image.tmdb.org/t/p/w300/6I2QPWCZnTaUS9fuN3IDJPrkdg.jpg",
+    "https://image.tmdb.org/t/p/w300/sle590EkpwG8O26aJE73pT5iT2q.jpg",
+    "https://image.tmdb.org/t/p/w300/bfDOha6K7YLtR2HPOXdgU0P0irD.jpg",
+    "https://image.tmdb.org/t/p/w300/eeQ4v5Ewu5PF71hXiq6yqQEJAcN.jpg",
+    "https://image.tmdb.org/t/p/w300/6q7kS4ZphlgHkfmxz27KMTGnnCs.jpg",
+    "https://image.tmdb.org/t/p/w300/aVc5KnD1oiXykhJgSS7MyPXqWQ7.jpg",
+    "https://image.tmdb.org/t/p/w300/t434t56h4jnDcmzFZvjYQKBdVwj.jpg"
+  ],
+  "similar": [],
+  "views": 733,
+  "sources": [
+    "https://www.youtube.com/embed/UbmdYasVDDg?autoplay=0&autohide=1",
+    "https://multimovies.website/e/hf63u1qrks24.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1542,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1542,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:33:25.866383"
+}
