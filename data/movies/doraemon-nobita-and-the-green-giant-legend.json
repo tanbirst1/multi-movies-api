@@ -1,0 +1,113 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/doraemon-nobita-and-the-green-giant-legend/",
+  "meta": {
+    "title": "Doraemon The Movie Nobita in Hara Hara Planet",
+    "poster": "https://image.tmdb.org/t/p/w500/azUzcP7L29Pf9Owh6GBmutJJRm9.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/genre/disney-channel/"
+      },
+      {
+        "name": "Doraemon Movies",
+        "url": "https://multimovies.city/genre/doraemon/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      }
+    ],
+    "firstAirDate": "Mar. 08, 2008",
+    "ratingValue": "8.8",
+    "ratingCount": "9",
+    "synopsis": "Nobita\u2019s troubled about what to do with his zero test marks once again. A gust of wind scatters his test papers and he falls into a garbage dump trying to gather them together again. There he finds a young withered tree that caught one of his papers and he decides to take it home. He tries to plant it in his garden but gets caught by his mother who doesn\u2019t allow him to grow it.",
+    "infoFields": {
+      "Original title": "\u6620\u753b\u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u3068\u7dd1\u306e\u5de8\u4eba\u4f1d",
+      "IMDb Rating": "6.5 784 votes",
+      "TMDb Rating": "6.556 27 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ayumu Watanabe",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ayumu-watanabe/",
+      "image": "https://image.tmdb.org/t/p/w92/oUBPBMfOv5siTLP2ullOjI3jllq.jpg"
+    },
+    {
+      "name": "Wasabi Mizuta",
+      "role": "\u54c6\u5566A\u5922",
+      "url": "https://multimovies.city/cast/wasabi-mizuta/",
+      "image": "https://image.tmdb.org/t/p/w92/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+    },
+    {
+      "name": "Megumi Oohara",
+      "role": "\u5927\u96c4",
+      "url": "https://multimovies.city/cast/megumi-oohara/",
+      "image": "https://image.tmdb.org/t/p/w92/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+    },
+    {
+      "name": "Yumi Kakazu",
+      "role": "\u975c\u9999",
+      "url": "https://multimovies.city/cast/yumi-kakazu/",
+      "image": "https://image.tmdb.org/t/p/w92/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+    },
+    {
+      "name": "Tomokazu Seki",
+      "role": "\u5c0f\u592b",
+      "url": "https://multimovies.city/cast/tomokazu-seki/",
+      "image": "https://image.tmdb.org/t/p/w92/4N6i4cgtbeUj5AJd8kiBZ2BxxEJ.jpg"
+    },
+    {
+      "name": "Subaru Kimura",
+      "role": "\u80d6\u864e",
+      "url": "https://multimovies.city/cast/subaru-kimura/",
+      "image": "https://image.tmdb.org/t/p/w92/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+    },
+    {
+      "name": "takuya yoshikoshi",
+      "role": "\u6a39\u5bf6",
+      "url": "https://multimovies.city/cast/takuya-yoshikoshi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Maki Horikita",
+      "role": "\u8389\u857e\u516c\u4e3b",
+      "url": "https://multimovies.city/cast/maki-horikita/",
+      "image": "https://image.tmdb.org/t/p/w92/lqzxzOqQgg4sjpY4aTetfr06sz6.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9kRAyJHknHsNUnavRAFC29OSy7C.jpg"
+  ],
+  "similar": [],
+  "views": 6003,
+  "sources": [
+    "https://multimoviesshg.com/e/jkoydhrs9btr"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11041,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:17:14.179436"
+}
