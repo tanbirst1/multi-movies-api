@@ -1,0 +1,163 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/shaun-of-the-dead/",
+  "meta": {
+    "title": "Shaun of the Dead",
+    "poster": "https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Apr. 09, 2004",
+    "ratingValue": "4.6",
+    "ratingCount": "5",
+    "synopsis": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
+    "infoFields": {
+      "Original title": "Shaun of the Dead",
+      "IMDb Rating": "7.9 568,877 votes",
+      "TMDb Rating": "7.536 7,462 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Edgar Wright",
+      "role": "Director",
+      "url": "https://multimovies.city/director/edgar-wright/",
+      "image": "https://image.tmdb.org/t/p/w92/dQzv5Ml2SkelS33hgl7E2oh0a9S.jpg"
+    },
+    {
+      "name": "Simon Pegg",
+      "role": "Shaun",
+      "url": "https://multimovies.city/cast/simon-pegg/",
+      "image": "https://image.tmdb.org/t/p/w92/nOWKXxgADG98RjKyfQ7oSDfns6J.jpg"
+    },
+    {
+      "name": "Nick Frost",
+      "role": "Ed",
+      "url": "https://multimovies.city/cast/nick-frost/",
+      "image": "https://image.tmdb.org/t/p/w92/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
+    },
+    {
+      "name": "Kate Ashfield",
+      "role": "Liz",
+      "url": "https://multimovies.city/cast/kate-ashfield/",
+      "image": "https://image.tmdb.org/t/p/w92/vqYDC94BXLsSPcLifZ3ax0gFS4z.jpg"
+    },
+    {
+      "name": "Lucy Davis",
+      "role": "Dianne",
+      "url": "https://multimovies.city/cast/lucy-davis/",
+      "image": "https://image.tmdb.org/t/p/w92/A1ymILbxQA5w5TduCNaU0xD9C5a.jpg"
+    },
+    {
+      "name": "Dylan Moran",
+      "role": "David",
+      "url": "https://multimovies.city/cast/dylan-moran/",
+      "image": "https://image.tmdb.org/t/p/w92/aDi9ctw4YD7g2szLNzBt96cJbVO.jpg"
+    },
+    {
+      "name": "Penelope Wilton",
+      "role": "Barbara",
+      "url": "https://multimovies.city/cast/penelope-wilton/",
+      "image": "https://image.tmdb.org/t/p/w92/7sXOk96XiaeqI5ARr8tnBQHQGCf.jpg"
+    },
+    {
+      "name": "Bill Nighy",
+      "role": "Phillip",
+      "url": "https://multimovies.city/cast/bill-nighy/",
+      "image": "https://image.tmdb.org/t/p/w92/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "name": "Peter Serafinowicz",
+      "role": "Pete",
+      "url": "https://multimovies.city/cast/peter-serafinowicz/",
+      "image": "https://image.tmdb.org/t/p/w92/2tDC9kEQ8QKANUKSF0v5LTujGdG.jpg"
+    },
+    {
+      "name": "Jessica Hynes",
+      "role": "Yvonne",
+      "url": "https://multimovies.city/cast/jessica-hynes/",
+      "image": "https://image.tmdb.org/t/p/w92/eyJ9aC1FXyPAI5xose0HqA26bnm.jpg"
+    },
+    {
+      "name": "Rafe Spall",
+      "role": "Noel",
+      "url": "https://multimovies.city/cast/rafe-spall/",
+      "image": "https://image.tmdb.org/t/p/w92/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ysUbm8qcKLaUiMf0H82mE5ujvVQ.jpg",
+    "https://image.tmdb.org/t/p/w300/xFcrqBOqCJOLQUCumHDJdDSMZYd.jpg",
+    "https://image.tmdb.org/t/p/w300/asoDCKpnYLrnQlroigvDXXFcTfJ.jpg",
+    "https://image.tmdb.org/t/p/w300/ggw4bPO0IZfTltOVJXQkVOZdmuL.jpg",
+    "https://image.tmdb.org/t/p/w300/dCShRbkis2ftkW9cUhQ117ew2JW.jpg",
+    "https://image.tmdb.org/t/p/w300/pnsLbdNsKyoCSIaWWK6fPzUTvrD.jpg",
+    "https://image.tmdb.org/t/p/w300/ertK7HgCKRfzG8JBCFaXgXJUTVJ.jpg",
+    "https://image.tmdb.org/t/p/w300/72ZkHR8cJp2jafMpHHfLEaSNyXZ.jpg",
+    "https://image.tmdb.org/t/p/w300/p6qned3QyVoqYKjnIm8t7AID1Be.jpg",
+    "https://image.tmdb.org/t/p/w300/6V2W5124wPFY9tFKY04iITLuy1O.jpg"
+  ],
+  "similar": [],
+  "views": 3260,
+  "sources": [
+    "https://www.youtube.com/embed/CfBewQPFdKE?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/iuv21yyv1o3r",
+    "https://sbplay.org/embed-bhuwtmxx6t9u.html",
+    "https://dood.la/e/0na33p4rqi7b",
+    "https://mixdrop.co/e/xoodzlrmujkj3m",
+    "https://hydrax.net/watch?v=iZmRswXwQQl"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 13892,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 13892,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 13892,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 13892,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 13892,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 13892,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:48:52.508747"
+}
