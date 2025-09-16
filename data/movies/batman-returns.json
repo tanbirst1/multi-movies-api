@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/batman-returns/",
+  "meta": {
+    "title": "Batman Returns",
+    "poster": "https://image.tmdb.org/t/p/w500/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "DC Universe",
+        "url": "https://multimovies.city/genre/dc-universe/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 19, 1992",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "While Batman deals with a deformed man calling himself the Penguin, an employee of a corrupt businessman transforms into the Catwoman.",
+    "infoFields": {
+      "Original title": "Batman Returns",
+      "IMDb Rating": "7.1 312,630 votes",
+      "TMDb Rating": "6.903 5,768 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tim Burton",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tim-burton/",
+      "image": "https://image.tmdb.org/t/p/w92/oWZDgLRr4zgRiJEsOAtgntPd5bI.jpg"
+    },
+    {
+      "name": "Michael Keaton",
+      "role": "Bruce Wayne / Batman",
+      "url": "https://multimovies.city/cast/michael-keaton/",
+      "image": "https://image.tmdb.org/t/p/w92/82rxrGxOqQW2NjKsIiNbDYHFfmb.jpg"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "role": "Selina Kyle / Catwoman",
+      "url": "https://multimovies.city/cast/michelle-pfeiffer/",
+      "image": "https://image.tmdb.org/t/p/w92/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+    },
+    {
+      "name": "Danny DeVito",
+      "role": "Oswald Cobblepot / The Penguin",
+      "url": "https://multimovies.city/cast/danny-devito/",
+      "image": "https://image.tmdb.org/t/p/w92/gNHF2SNXFFCRqwIQ2Xv6r6aV6UD.jpg"
+    },
+    {
+      "name": "Christopher Walken",
+      "role": "Max Shreck",
+      "url": "https://multimovies.city/cast/christopher-walken/",
+      "image": "https://image.tmdb.org/t/p/w92/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "name": "Michael Gough",
+      "role": "Alfred Pennyworth",
+      "url": "https://multimovies.city/cast/michael-gough/",
+      "image": "https://image.tmdb.org/t/p/w92/owcwnV6dymBd9YIQKDPzVA5EtZX.jpg"
+    },
+    {
+      "name": "Pat Hingle",
+      "role": "Commissioner James Gordon",
+      "url": "https://multimovies.city/cast/pat-hingle/",
+      "image": "https://image.tmdb.org/t/p/w92/QBAxFVZQ0Hu6rxlFavhwUq0zug.jpg"
+    },
+    {
+      "name": "Michael Murphy",
+      "role": "Mayor",
+      "url": "https://multimovies.city/cast/michael-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/3quWjoqh8vKoSXE9Ll3AC7pgsRh.jpg"
+    },
+    {
+      "name": "Cristi Conaway",
+      "role": "Ice Princess",
+      "url": "https://multimovies.city/cast/cristi-conaway/",
+      "image": "https://image.tmdb.org/t/p/w92/wxBtTzVzrzm1ybkNMF9OWWXs6KO.jpg"
+    },
+    {
+      "name": "Andrew Bryniarski",
+      "role": "Charles 'Chip' Shreck",
+      "url": "https://multimovies.city/cast/andrew-bryniarski/",
+      "image": "https://image.tmdb.org/t/p/w92/7WecTlVEkck19VMXTcBfSkmshYL.jpg"
+    },
+    {
+      "name": "Vincent Schiavelli",
+      "role": "Organ Grinder",
+      "url": "https://multimovies.city/cast/vincent-schiavelli/",
+      "image": "https://image.tmdb.org/t/p/w92/8wq2WF9ohUUZZjfVxEEiUGxLHzp.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3WP0RObZ2t7ShHfqQpKPljF9B22.jpg",
+    "https://image.tmdb.org/t/p/w300/hYS7pAMTbTdBP8f80f9YLN2Z0B4.jpg",
+    "https://image.tmdb.org/t/p/w300/7x4SNxO5HWArighxxFeet5sn3il.jpg",
+    "https://image.tmdb.org/t/p/w300/moYfd709S8xnb8Od2yeG5VBt9Bp.jpg",
+    "https://image.tmdb.org/t/p/w300/fsJgRuXzNnnXk5IVwVbBPdavaNX.jpg",
+    "https://image.tmdb.org/t/p/w300/dVXN17zybUj7wisUmMUQnBShRoF.jpg",
+    "https://image.tmdb.org/t/p/w300/y6sHea89btD6bhgDmcXXiWNAXp2.jpg",
+    "https://image.tmdb.org/t/p/w300/2KLp3rp76k0h4f0S6yy0CRIgASi.jpg",
+    "https://image.tmdb.org/t/p/w300/bkl2EXe1ILOn03anF42ZVdWQLwH.jpg",
+    "https://image.tmdb.org/t/p/w300/dlnqLQwtK0CgSf7QDVfTAkNDf1y.jpg"
+  ],
+  "similar": [],
+  "views": 2500,
+  "sources": [
+    "https://www.youtube.com/embed/TlbtLfWvFbo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/mr7j1rq3k40p",
+    "https://sbplay.org/embed-zp1lbmrdseh9.html",
+    "https://dood.la/e/0hct6zz06ths",
+    "https://mixdrop.co/e/j9m37gv6sggoj6",
+    "https://hydrax.net/watch?v=9glW6Wdou"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18714,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18714,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 18714,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 18714,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 18714,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 18714,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
