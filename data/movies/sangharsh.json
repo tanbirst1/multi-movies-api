@@ -4,15 +4,93 @@
   "meta": {
     "title": "Sangharsh",
     "poster": "https://image.tmdb.org/t/p/w500/kFwreKZPhTSQ9zcVsavZ5JuUgfL.jpg",
-    "synopsis": "A rookie CBI officer must enlist the help of an incarcerated criminal in order to catch a serial child killer, who has recently escaped police custody."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 03, 1999",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "A rookie CBI officer must enlist the help of an incarcerated criminal in order to catch a serial child killer, who has recently escaped police custody.",
+    "infoFields": {
+      "Original title": "\u0938\u0902\u0918\u0930\u094d\u0937",
+      "TMDb Rating": "4.87 24 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Tanuja Chandra",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tanuja-chandra/",
+      "image": "https://image.tmdb.org/t/p/w92/yJjEP4JM2sADsF7wW15nKvGT9xd.jpg"
+    },
+    {
+      "name": "Ashutosh Rana",
+      "role": "Lajja Shankar Pandey",
+      "url": "https://multimovies.city/cast/ashutosh-rana/",
+      "image": "https://image.tmdb.org/t/p/w92/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+      "name": "Preity Zinta",
+      "role": "Reet Oberoi",
+      "url": "https://multimovies.city/cast/preity-zinta/",
+      "image": "https://image.tmdb.org/t/p/w92/uaY2M3goYsp0QpNenharmIqnMvy.jpg"
+    },
+    {
+      "name": "Vishwajeet Pradhan",
+      "role": "CBI Head",
+      "url": "https://multimovies.city/cast/vishwajeet-pradhan/",
+      "image": "https://image.tmdb.org/t/p/w92/fk5mBFnclEBE8AtgUfoa1i79oqt.jpg"
+    },
+    {
+      "name": "Aman Verma",
+      "role": "Amit",
+      "url": "https://multimovies.city/cast/aman-verma/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Alia Bhatt",
+      "role": "Young Reet (Special Appearance)",
+      "url": "https://multimovies.city/cast/alia-bhatt/",
+      "image": "https://image.tmdb.org/t/p/w92/RBnTJPegPFLBS4VPsNLbf6iAoD.jpg"
+    },
+    {
+      "name": "Madan Jain",
+      "role": "Police Officer",
+      "url": "https://multimovies.city/cast/madan-jain/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wgOginYyu6YVx09HAPJbOtxFAut.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 838,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/pcl9b0r"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 92657,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:22:44"
+  "last_update": "2025-09-16T17:26:07.061489"
 }
