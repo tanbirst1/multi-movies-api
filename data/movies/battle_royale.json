@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/battle-royale/",
+  "meta": {
+    "title": "Battle Royale",
+    "poster": "https://image.tmdb.org/t/p/w500/gFX7NuBUeKysOB9nEzRqVpHNT32.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Dec. 16, 2000",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "In the future, the Japanese government captures a class of ninth-grade students and forces them to kill each other under the revolutionary \u201cBattle Royale\u201d act.",
+    "infoFields": {
+      "Original title": "\u30d0\u30c8\u30eb\u30fb\u30ed\u30ef\u30a4\u30a2\u30eb",
+      "IMDb Rating": "7.5 197,984 votes",
+      "TMDb Rating": "7.3 3,385 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kinji Fukasaku",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kinji-fukasaku/",
+      "image": "https://image.tmdb.org/t/p/w92/mrDEkUwgZOQz8ES5oMwTBfN4n7q.jpg"
+    },
+    {
+      "name": "Tatsuya Fujiwara",
+      "role": "Shuya Nanahara (Boy #15)",
+      "url": "https://multimovies.city/cast/tatsuya-fujiwara/",
+      "image": "https://image.tmdb.org/t/p/w92/1nR5cYgh9SaA7fGdQAXznyqObPv.jpg"
+    },
+    {
+      "name": "Aki Maeda",
+      "role": "Noriko Nakagawa (Girl #15)",
+      "url": "https://multimovies.city/cast/aki-maeda/",
+      "image": "https://image.tmdb.org/t/p/w92/WLSYOzH7WxyVmW0gx3qJ9fndAu.jpg"
+    },
+    {
+      "name": "Takeshi Kitano",
+      "role": "Kitano",
+      "url": "https://multimovies.city/cast/takeshi-kitano/",
+      "image": "https://image.tmdb.org/t/p/w92/9fyYreFJT8CPe8Ok2y1LE0btNYS.jpg"
+    },
+    {
+      "name": "Taro Yamamoto",
+      "role": "Shogo Kawada (Boy #5)",
+      "url": "https://multimovies.city/cast/taro-yamamoto/",
+      "image": "https://image.tmdb.org/t/p/w92/1cxXOgY8Z12La1jf0b9BVKgMCjM.jpg"
+    },
+    {
+      "name": "Masanobu Ando",
+      "role": "Kazuo Kiriyama (Boy #6)",
+      "url": "https://multimovies.city/cast/masanobu-ando/",
+      "image": "https://image.tmdb.org/t/p/w92/aJxv1DPKH0QoFecX1bkPnj1Nl0x.jpg"
+    },
+    {
+      "name": "Ko Shibasaki",
+      "role": "Mitsuko Souma (Girl #11)",
+      "url": "https://multimovies.city/cast/ko-shibasaki/",
+      "image": "https://image.tmdb.org/t/p/w92/gcuJz8dbYjtgsL8CAWMjVd5R7B9.jpg"
+    },
+    {
+      "name": "Chiaki Kuriyama",
+      "role": "Takako Chigusa (Girl #13)",
+      "url": "https://multimovies.city/cast/chiaki-kuriyama/",
+      "image": "https://image.tmdb.org/t/p/w92/2lGs2rzx9VovrtBFsKM5Fy1Uja5.jpg"
+    },
+    {
+      "name": "Takashi Tsukamoto",
+      "role": "Shinji Mimura (Boy #19)",
+      "url": "https://multimovies.city/cast/takashi-tsukamoto/",
+      "image": "https://image.tmdb.org/t/p/w92/vgjhFQ3cixrl0VbChoB8V29ozlc.jpg"
+    },
+    {
+      "name": "Sousuke Takaoka",
+      "role": "Hiroki Sugimura (Boy #11)",
+      "url": "https://multimovies.city/cast/sousuke-takaoka/",
+      "image": "https://image.tmdb.org/t/p/w92/8r4AfRelhldJNf6UWs30edegtHg.jpg"
+    },
+    {
+      "name": "Yukihiro Kotani",
+      "role": "Y\u00f4shitoki Kuninobu (Boy #7)",
+      "url": "https://multimovies.city/cast/yukihiro-kotani/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/amBvmIshdsSkOtvVIgxl7YSQ9Dg.jpg",
+    "https://image.tmdb.org/t/p/w300/gtYmm8HeM6CneomZ98flixAGsBe.jpg",
+    "https://image.tmdb.org/t/p/w300/yGxyjzdhvi1borvfWV3DB4z2OFm.jpg",
+    "https://image.tmdb.org/t/p/w300/zwu5B32M7FyB6nYwtQN6g9MPXho.jpg",
+    "https://image.tmdb.org/t/p/w300/tXHgyJQ26p6FsqeK0a8Ava8imEb.jpg",
+    "https://image.tmdb.org/t/p/w300/fUOtxCuDU86JRWxVRqXOyyj386n.jpg",
+    "https://image.tmdb.org/t/p/w300/d1bZynWdZ5UojhCjPtI7VIp4sCi.jpg",
+    "https://image.tmdb.org/t/p/w300/1FsOnQgI7qLGu8h5vn5gbCb8vRW.jpg",
+    "https://image.tmdb.org/t/p/w300/hqk30AApZzVdo3AvGTh08wF4wef.jpg",
+    "https://image.tmdb.org/t/p/w300/6XsGRZcetENM4yIFZfeDnLIiM8z.jpg"
+  ],
+  "similar": [],
+  "views": 1351,
+  "sources": [
+    "https://www.youtube.com/embed/oKCN6hzD5J4?autoplay=0&autohide=1",
+    "https://player.videasy.net/movie/3176"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 71764,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 71764,
+      "nume": 1,
+      "title": "vd"
+    }
+  ],
+  "cache": false
+}
