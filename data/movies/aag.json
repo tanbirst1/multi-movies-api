@@ -1,0 +1,122 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/aag/",
+  "meta": {
+    "title": "Aag",
+    "poster": "https://image.tmdb.org/t/p/w500/c4z6SwWjrcSM7WwP7WdaOMQRl9H.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Jul. 27, 1994",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Birju is the mysterious guardian of a remote village. One day, a beautiful young woman arrives and disrupts the order. This disruption forces Birju into conflict with the village aristocracy and reveals his shocking past.",
+    "infoFields": {
+      "Original title": "Aag",
+      "IMDb Rating": "4.6 259 votes",
+      "TMDb Rating": "4 6 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "K. Ravi Shankar",
+      "role": "Director",
+      "url": "https://multimovies.city/director/k-ravi-shankar/",
+      "image": "https://image.tmdb.org/t/p/w92/bBCm6NiT653JULCd8RRLLjbz6ej.jpg"
+    },
+    {
+      "name": "Govinda",
+      "role": "Birju/Raju",
+      "url": "https://multimovies.city/cast/govinda/",
+      "image": "https://image.tmdb.org/t/p/w92/jIOlXP0RxA2EQwn5hZxsujjMpCv.jpg"
+    },
+    {
+      "name": "Shilpa Shetty Kundra",
+      "role": "Bijli/Inspector Barkha Sharma",
+      "url": "https://multimovies.city/cast/shilpa-shetty-kundra/",
+      "image": "https://image.tmdb.org/t/p/w92/qEU2hFsnKYdjPp4LNYvqmfRFNeP.jpg"
+    },
+    {
+      "name": "Sadashiv Amrapurkar",
+      "role": "Bholaram",
+      "url": "https://multimovies.city/cast/sadashiv-amrapurkar/",
+      "image": "https://image.tmdb.org/t/p/w92/5ppazNZPQjlR1IRM0DyN3Kf3hfd.jpg"
+    },
+    {
+      "name": "Vikas Anand",
+      "role": "Police Commissioner",
+      "url": "https://multimovies.city/cast/vikas-anand/",
+      "image": "https://image.tmdb.org/t/p/w92/ATVSGbquL5PvbuOZIfvd6AuruK.jpg"
+    },
+    {
+      "name": "Mohnish Behl",
+      "role": "Bobby",
+      "url": "https://multimovies.city/cast/mohnish-behl/",
+      "image": "https://image.tmdb.org/t/p/w92/iiDceTPiwHY4y91gdP3OsEHOo7r.jpg"
+    },
+    {
+      "name": "Sonali Bendre",
+      "role": "Parul",
+      "url": "https://multimovies.city/cast/sonali-bendre/",
+      "image": "https://image.tmdb.org/t/p/w92/4xvVvT9RyLvOa2hQjecIhYuSPjx.jpg"
+    },
+    {
+      "name": "Suresh Chatwal",
+      "role": "Lala",
+      "url": "https://multimovies.city/cast/suresh-chatwal/",
+      "image": "https://image.tmdb.org/t/p/w92/tDRon2oBkiHSq7jPjU7W4fX9K58.jpg"
+    },
+    {
+      "name": "Avtar Gill",
+      "role": "Jagpal",
+      "url": "https://multimovies.city/cast/avtar-gill/",
+      "image": "https://image.tmdb.org/t/p/w92/7KW5VrxETpM3FMMXOxBXu2ppflr.jpg"
+    },
+    {
+      "name": "Gulshan Grover",
+      "role": "Chhote Thakur Madhav Singh",
+      "url": "https://multimovies.city/cast/gulshan-grover/",
+      "image": "https://image.tmdb.org/t/p/w92/hmGFOgCnYVUpeY1gTc0gx4QUCOF.jpg"
+    },
+    {
+      "name": "Dinesh Hingoo",
+      "role": "Muthukrishnan Swami Pillam Pillai",
+      "url": "https://multimovies.city/cast/dinesh-hingoo/",
+      "image": "https://image.tmdb.org/t/p/w92/6kFqFn1k0Tg6GPKIeatZFA1Tdff.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nTKU3zEqmLRv7LihXKAtMqjbVKV.jpg"
+  ],
+  "similar": [],
+  "views": 546,
+  "sources": [
+    "https://multimoviesshg.com/e/1ybee7e47m00"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 3452,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
