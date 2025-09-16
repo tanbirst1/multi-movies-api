@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/brokeback-mountain/",
+  "meta": {
+    "title": "Brokeback Mountain",
+    "poster": "https://image.tmdb.org/t/p/w500/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Oct. 22, 2005",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Rodeo cowboy Jack and ranch hand Ennis are hired as sheepherders in 1963 Wyoming. One night on Brokeback Mountain, they spark a physical relationship. Though Ennis marries his longtime sweetheart and Jack marries a fellow rodeo rider, they keep up their tortured, sporadic love affair for 20 years.",
+    "infoFields": {
+      "Original title": "Brokeback Mountain",
+      "IMDb Rating": "7.7 393,748 votes",
+      "TMDb Rating": "7.797 6,934 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ang Lee",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ang-lee/",
+      "image": "https://image.tmdb.org/t/p/w92/lwhIzt4PVNrsfOXuZcKXhtPE83P.jpg"
+    },
+    {
+      "name": "Heath Ledger",
+      "role": "Ennis Del Mar",
+      "url": "https://multimovies.city/cast/heath-ledger/",
+      "image": "https://image.tmdb.org/t/p/w92/5Y9HnYYa9jF4NunY9lSgJGjSe8E.jpg"
+    },
+    {
+      "name": "Jake Gyllenhaal",
+      "role": "Jack Twist",
+      "url": "https://multimovies.city/cast/jake-gyllenhaal/",
+      "image": "https://image.tmdb.org/t/p/w92/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg"
+    },
+    {
+      "name": "Michelle Williams",
+      "role": "Alma Beers",
+      "url": "https://multimovies.city/cast/michelle-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+    },
+    {
+      "name": "Anne Hathaway",
+      "role": "Lureen Newsome",
+      "url": "https://multimovies.city/cast/anne-hathaway/",
+      "image": "https://image.tmdb.org/t/p/w92/6LfFC0tb69CMR4pfInJyh9l80mc.jpg"
+    },
+    {
+      "name": "Randy Quaid",
+      "role": "Joe Aguirre",
+      "url": "https://multimovies.city/cast/randy-quaid/",
+      "image": "https://image.tmdb.org/t/p/w92/cvooWcP6WUPzupwq7AUKnoNUInW.jpg"
+    },
+    {
+      "name": "Linda Cardellini",
+      "role": "Cassie Cartwright",
+      "url": "https://multimovies.city/cast/linda-cardellini/",
+      "image": "https://image.tmdb.org/t/p/w92/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+    },
+    {
+      "name": "Anna Faris",
+      "role": "Lashawn Malone",
+      "url": "https://multimovies.city/cast/anna-faris/",
+      "image": "https://image.tmdb.org/t/p/w92/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg"
+    },
+    {
+      "name": "David Harbour",
+      "role": "Randall Malone",
+      "url": "https://multimovies.city/cast/david-harbour/",
+      "image": "https://image.tmdb.org/t/p/w92/chPekukMF5SNnW6b22NbYPqAStr.jpg"
+    },
+    {
+      "name": "Roberta Maxwell",
+      "role": "Mrs. Twist",
+      "url": "https://multimovies.city/cast/roberta-maxwell/",
+      "image": "https://image.tmdb.org/t/p/w92/ejMmpGmtr2FbLWdSZqhMzXKJ0bG.jpg"
+    },
+    {
+      "name": "Kate Mara",
+      "role": "Alma Del Mar Jr. (age 19)",
+      "url": "https://multimovies.city/cast/kate-mara/",
+      "image": "https://image.tmdb.org/t/p/w92/t8a9iWAZrkdKjRG8jmtT27bJf0W.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3KyAxlakmcyHWqlcxgIxMQnSilk.jpg",
+    "https://image.tmdb.org/t/p/w300/gp9H4nb7F8BsawAlGw6PIgedidk.jpg",
+    "https://image.tmdb.org/t/p/w300/15RW3hOJGHHVkryMNLXDGqNWlEq.jpg",
+    "https://image.tmdb.org/t/p/w300/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+    "https://image.tmdb.org/t/p/w300/AtGUHtxyQ60F22JYrblJwzNeHmv.jpg",
+    "https://image.tmdb.org/t/p/w300/wbKAPK8348GG5OjgJK0ZOPp0fwN.jpg",
+    "https://image.tmdb.org/t/p/w300/onXNw62bfvtbE8rNw0HQfcjAI19.jpg",
+    "https://image.tmdb.org/t/p/w300/slxWiloXORDxvXHqtcZlAXbRKpe.jpg",
+    "https://image.tmdb.org/t/p/w300/G9VBy4RYDmKkZ0tdnpSuiazeNr.jpg",
+    "https://image.tmdb.org/t/p/w300/AcQDOpMsAHr6o3JqTZ7e8ZXiFR3.jpg"
+  ],
+  "similar": [],
+  "views": 1209,
+  "sources": [
+    "https://www.youtube.com/embed/kMA30rThECg?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/y6k4kj4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 13996,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 13996,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:59:17.314009"
+}
