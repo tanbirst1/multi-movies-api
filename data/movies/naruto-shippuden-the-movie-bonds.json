@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/naruto-shippuden-the-movie-bonds/",
+  "meta": {
+    "title": "Naruto Shippuden The Movie 02 : Bonds",
+    "poster": "https://image.tmdb.org/t/p/w500/bBqEiQbbfyt4MWR3NhDZMbS4Wp8.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Naruto Movies",
+        "url": "https://multimovies.city/genre/naruto-movies/"
+      }
+    ],
+    "firstAirDate": "Aug. 02, 2008",
+    "ratingValue": "10",
+    "ratingCount": "6",
+    "synopsis": "A mysterious group of ninjas makes a surprise attack on the Konohagakure, which takes great damage. The nightmare of another Shinobi World War could become a reality. Sasuke, who was still a missing nin from Konoha trying to kill his brother, Itachi, appears for the second time in front of Naruto at an unknown location to prevent it from happening.",
+    "infoFields": {
+      "Original title": "\u5287\u5834\u7248 NARUTO -\u30ca\u30eb\u30c8- \u75be\u98a8\u4f1d \u7d46",
+      "IMDb Rating": "6.8 4,832 votes",
+      "TMDb Rating": "7.217 376 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hajime Kamegaki",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hajime-kamegaki/",
+      "image": "https://image.tmdb.org/t/p/w92/cpi1xEwGqCyOVM4eicfUIWJ8PMz.jpg"
+    },
+    {
+      "name": "Junko Takeuchi",
+      "role": "Naruto Uzumaki (voice)",
+      "url": "https://multimovies.city/cast/junko-takeuchi/",
+      "image": "https://image.tmdb.org/t/p/w92/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+    },
+    {
+      "name": "Noriaki Sugiyama",
+      "role": "Sasuke Uchiha (voice)",
+      "url": "https://multimovies.city/cast/noriaki-sugiyama/",
+      "image": "https://image.tmdb.org/t/p/w92/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+    },
+    {
+      "name": "Chie Nakamura",
+      "role": "Sakura Haruno (voice)",
+      "url": "https://multimovies.city/cast/chie-nakamura/",
+      "image": "https://image.tmdb.org/t/p/w92/evB6vKUbm0CKgBcgikPeFXdwd29.jpg"
+    },
+    {
+      "name": "Unsho Ishizuka",
+      "role": "Shinno (voice)",
+      "url": "https://multimovies.city/cast/unsho-ishizuka/",
+      "image": "https://image.tmdb.org/t/p/w92/jSQPB45PbMYmSFGnlX9nGM9DRr4.jpg"
+    },
+    {
+      "name": "Motoko Kumai",
+      "role": "Amaru (voice)",
+      "url": "https://multimovies.city/cast/motoko-kumai/",
+      "image": "https://image.tmdb.org/t/p/w92/vZuNGiJvHHgZ689vHgtFoEy8yEH.jpg"
+    },
+    {
+      "name": "Kazuhiko Inoue",
+      "role": "Kakashi Hatake (voice)",
+      "url": "https://multimovies.city/cast/kazuhiko-inoue/",
+      "image": "https://image.tmdb.org/t/p/w92/kRndwjOOlNi84NqIGbnitpJCQ6k.jpg"
+    },
+    {
+      "name": "Rikiya Koyama",
+      "role": "Yamato (voice)",
+      "url": "https://multimovies.city/cast/rikiya-koyama/",
+      "image": "https://image.tmdb.org/t/p/w92/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
+    },
+    {
+      "name": "Showtaro Morikubo",
+      "role": "Shikamaru Nara (voice)",
+      "url": "https://multimovies.city/cast/showtaro-morikubo/",
+      "image": "https://image.tmdb.org/t/p/w92/3OsBYIbC5XBDIUVnZiDBD1dewHP.jpg"
+    },
+    {
+      "name": "Nana Mizuki",
+      "role": "Hinata Hyuuga (voice)",
+      "url": "https://multimovies.city/cast/nana-mizuki/",
+      "image": "https://image.tmdb.org/t/p/w92/1h4C1kz8mziHmiB91MliTDHwgoh.jpg"
+    },
+    {
+      "name": "Satoshi Hino",
+      "role": "Sai (voice)",
+      "url": "https://multimovies.city/cast/satoshi-hino/",
+      "image": "https://image.tmdb.org/t/p/w92/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/xzIaIFXs14vr5BGoAQ2IJsQ60EB.jpg"
+  ],
+  "similar": [],
+  "views": 10584,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/pnlysb1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1785,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:19:27.443319"
+}
