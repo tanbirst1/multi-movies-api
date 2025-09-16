@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/i-am-legend/",
+  "meta": {
+    "title": "I Am Legend",
+    "poster": "https://image.tmdb.org/t/p/w500/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Dec. 12, 2007",
+    "ratingValue": "8.8",
+    "ratingCount": "12",
+    "synopsis": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
+    "infoFields": {
+      "Original title": "I Am Legend",
+      "IMDb Rating": "7.2 776,263 votes",
+      "TMDb Rating": "7.208 15,956 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Francis Lawrence",
+      "role": "Director",
+      "url": "https://multimovies.city/director/francis-lawrence/",
+      "image": "https://image.tmdb.org/t/p/w92/pyGWo5mAwZ2Koe6leB2RjKd7vmc.jpg"
+    },
+    {
+      "name": "Will Smith",
+      "role": "Robert Neville",
+      "url": "https://multimovies.city/cast/will-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/6a6cl4ZNufJzrx5HZKWPU1BjjRF.jpg"
+    },
+    {
+      "name": "Alice Braga",
+      "role": "Anna Montez",
+      "url": "https://multimovies.city/cast/alice-braga/",
+      "image": "https://image.tmdb.org/t/p/w92/ykVmsm3For9dCBfWLRtTL0EU24b.jpg"
+    },
+    {
+      "name": "Charlie Tahan",
+      "role": "Ethan",
+      "url": "https://multimovies.city/cast/charlie-tahan/",
+      "image": "https://image.tmdb.org/t/p/w92/isCdDBAxrSOjugK3HjgESi6rXcn.jpg"
+    },
+    {
+      "name": "Dash Mihok",
+      "role": "Alpha Male",
+      "url": "https://multimovies.city/cast/dash-mihok/",
+      "image": "https://image.tmdb.org/t/p/w92/2mvXAusQr265VW5N7eo07uXqyII.jpg"
+    },
+    {
+      "name": "Salli Richardson-Whitfield",
+      "role": "Zoe Neville",
+      "url": "https://multimovies.city/cast/salli-richardson-whitfield/",
+      "image": "https://image.tmdb.org/t/p/w92/wMQaIzY5kyRQd8UwF1lphKK6oQm.jpg"
+    },
+    {
+      "name": "Willow Smith",
+      "role": "Marley Neville",
+      "url": "https://multimovies.city/cast/willow-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/jBslm1YIOyoC4aXf6t5XhrHxdfl.jpg"
+    },
+    {
+      "name": "Emma Thompson",
+      "role": "Dr. Alice Krippin",
+      "url": "https://multimovies.city/cast/emma-thompson/",
+      "image": "https://image.tmdb.org/t/p/w92/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
+    },
+    {
+      "name": "Darrell Foster",
+      "role": "Mike - Military Escort",
+      "url": "https://multimovies.city/cast/darrell-foster/",
+      "image": "https://image.tmdb.org/t/p/w92/w7uws68GndS8KEP63qcbD0miEMu.jpg"
+    },
+    {
+      "name": "Joanna Numata",
+      "role": "Alpha Female",
+      "url": "https://multimovies.city/cast/joanna-numata/",
+      "image": "https://image.tmdb.org/t/p/w92/pFpVqxMlQpsjTbthnzgqBLfHKMp.jpg"
+    },
+    {
+      "name": "Samuel Glen",
+      "role": "Military Driver - Jay",
+      "url": "https://multimovies.city/cast/samuel-glen/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/lhVVIWKR13khBvjFz8XyZ2GM0JS.jpg",
+    "https://image.tmdb.org/t/p/w300/ePgD1cwmklyrFBjl6z96IuixuSY.jpg",
+    "https://image.tmdb.org/t/p/w300/usw8PMcbWqAtmABo2jO7KRRSrqi.jpg",
+    "https://image.tmdb.org/t/p/w300/abnlAkFwatSSerPCcE0uUMDHoTD.jpg",
+    "https://image.tmdb.org/t/p/w300/aTLq0TMKdsmIy1ZyFM1LfPs326d.jpg",
+    "https://image.tmdb.org/t/p/w300/N9hpOAsINgsXmlvTu0w95NHJsM.jpg",
+    "https://image.tmdb.org/t/p/w300/hSHZYqBO9LKNQFj3Hmd8LhojIFB.jpg",
+    "https://image.tmdb.org/t/p/w300/6RTy7uC4C5pue8snDfbVxrZ160n.jpg",
+    "https://image.tmdb.org/t/p/w300/a0CIuCk97KxnstKdifipJr9OZbh.jpg",
+    "https://image.tmdb.org/t/p/w300/3bkctWpGJe6e86mcCa4P8xx2tGp.jpg"
+  ],
+  "similar": [],
+  "views": 16053,
+  "sources": [
+    "https://www.youtube.com/embed/sFNPNT_4Qww?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/gywzepx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 9771,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 9771,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:18:51.413674"
+}
