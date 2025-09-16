@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/goldfinger/",
+  "meta": {
+    "title": "James Bond Part 3 : Goldfinger",
+    "poster": "https://image.tmdb.org/t/p/w500/6fTzum7gSpLWww26WvWjETNqfD9.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "James Bond",
+        "url": "https://multimovies.city/genre/james-bond/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 20, 1964",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox \u2014 and obliterate the world\u2019s economy.",
+    "infoFields": {
+      "Original title": "Goldfinger",
+      "IMDb Rating": "7.7 196,548 votes",
+      "TMDb Rating": "7.349 3,186 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Guy Hamilton",
+      "role": "Director",
+      "url": "https://multimovies.city/director/guy-hamilton/",
+      "image": "https://image.tmdb.org/t/p/w92/xXRi72ziu0jE6g3k37mxzk4E2oD.jpg"
+    },
+    {
+      "name": "Sean Connery",
+      "role": "James Bond",
+      "url": "https://multimovies.city/cast/sean-connery/",
+      "image": "https://image.tmdb.org/t/p/w92/dXQj9iz41GunGRJqXvdf5ST1P1g.jpg"
+    },
+    {
+      "name": "Honor Blackman",
+      "role": "Pussy Galore",
+      "url": "https://multimovies.city/cast/honor-blackman/",
+      "image": "https://image.tmdb.org/t/p/w92/qLCzXBrdKWjCecNzozyR4CD9KBX.jpg"
+    },
+    {
+      "name": "Gert Fr\u00f6be",
+      "role": "Auric Goldfinger",
+      "url": "https://multimovies.city/cast/gert-frobe/",
+      "image": "https://image.tmdb.org/t/p/w92/bXOqdYepkfUpVLf54It8f4v1tVI.jpg"
+    },
+    {
+      "name": "Shirley Eaton",
+      "role": "Jill Masterson",
+      "url": "https://multimovies.city/cast/shirley-eaton/",
+      "image": "https://image.tmdb.org/t/p/w92/2atg2eGKPF86EIFLru6Ic9EwxlX.jpg"
+    },
+    {
+      "name": "Tania Mallet",
+      "role": "Tilly Masterson",
+      "url": "https://multimovies.city/cast/tania-mallet/",
+      "image": "https://image.tmdb.org/t/p/w92/l8KOhn6mwgLDtfB0AP6gWI7k5xy.jpg"
+    },
+    {
+      "name": "Harold Sakata",
+      "role": "Oddjob",
+      "url": "https://multimovies.city/cast/harold-sakata/",
+      "image": "https://image.tmdb.org/t/p/w92/lNEfOsm3V0MPZuhO3dKfyZuaDZD.jpg"
+    },
+    {
+      "name": "Bernard Lee",
+      "role": "M",
+      "url": "https://multimovies.city/cast/bernard-lee/",
+      "image": "https://image.tmdb.org/t/p/w92/2k44323t5k5sUFq67d9mOxObyLY.jpg"
+    },
+    {
+      "name": "Martin Benson",
+      "role": "Martin Solo",
+      "url": "https://multimovies.city/cast/martin-benson/",
+      "image": "https://image.tmdb.org/t/p/w92/mH5csoJ1RJjzRCtzwJeJhxxgRWb.jpg"
+    },
+    {
+      "name": "Cec Linder",
+      "role": "Felix Leiter",
+      "url": "https://multimovies.city/cast/cec-linder/",
+      "image": "https://image.tmdb.org/t/p/w92/hU70Y4nyqRtt6KpBlIi1fmUVtKc.jpg"
+    },
+    {
+      "name": "Austin Willis",
+      "role": "Simmons",
+      "url": "https://multimovies.city/cast/austin-willis/",
+      "image": "https://image.tmdb.org/t/p/w92/f9hyLgx7RvvTNNbGLQrJ5EnCHF1.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/lh65Y0sUQcRh5UVVgnTOfMUbN2c.jpg",
+    "https://image.tmdb.org/t/p/w300/mM4WeXqJd2tu1gCF5GYyAZf2Npl.jpg",
+    "https://image.tmdb.org/t/p/w300/vXxqB7JEWks5kGTdTvqzM22weYu.jpg",
+    "https://image.tmdb.org/t/p/w300/Rf0ufs1DBICXJ1t2kKuuzqvm2f.jpg",
+    "https://image.tmdb.org/t/p/w300/61EGCsXVTPBRKwwxXrPYvVB3N2K.jpg",
+    "https://image.tmdb.org/t/p/w300/ljCRYaYPxby1LyJsKGuvzRuS6vo.jpg",
+    "https://image.tmdb.org/t/p/w300/xqbzXQcV6ZLwRzHBUsKUjOFnTmP.jpg",
+    "https://image.tmdb.org/t/p/w300/itRVavwUO94HVRQj6t7b6lEzBTN.jpg",
+    "https://image.tmdb.org/t/p/w300/o4fI1aWX8grvXJPjIyTsUQrW732.jpg",
+    "https://image.tmdb.org/t/p/w300/vAD0MPJgMge5lzpgAsBsI3XusHP.jpg"
+  ],
+  "similar": [],
+  "views": 1392,
+  "sources": [
+    "https://www.youtube.com/embed/MA65V-oLKa8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/kdgwy0by5t1z"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25553,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 25553,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
