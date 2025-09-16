@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/lilo-stitch/",
+  "meta": {
+    "title": "Lilo and Stitch",
+    "poster": "https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/genre/disney-channel/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Jun. 21, 2002",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \u201cpuppy\u201d of an independent little girl named Lilo and learns about loyalty, friendship, and \u02bbohana, the Hawaiian tradition of family.",
+    "infoFields": {
+      "Original title": "Lilo & Stitch",
+      "IMDb Rating": "7.3 222,946 votes",
+      "TMDb Rating": "7.554 6,609 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Chris Sanders",
+      "role": "Director",
+      "url": "https://multimovies.city/director/chris-sanders/",
+      "image": "https://image.tmdb.org/t/p/w92/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg"
+    },
+    {
+      "name": "Daveigh Chase",
+      "role": "Lilo (voice)",
+      "url": "https://multimovies.city/cast/daveigh-chase/",
+      "image": "https://image.tmdb.org/t/p/w92/3PVQPEc6nXNX2eoW2UbsfVikc7H.jpg"
+    },
+    {
+      "name": "Chris Sanders",
+      "role": "Stitch (voice)",
+      "url": "https://multimovies.city/cast/chris-sanders/",
+      "image": "https://image.tmdb.org/t/p/w92/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg"
+    },
+    {
+      "name": "Tia Carrere",
+      "role": "Nani (voice)",
+      "url": "https://multimovies.city/cast/tia-carrere/",
+      "image": "https://image.tmdb.org/t/p/w92/rnHioNQkSmBAMgEBseu9bu6vw9l.jpg"
+    },
+    {
+      "name": "David Ogden Stiers",
+      "role": "Jumba (voice)",
+      "url": "https://multimovies.city/cast/david-ogden-stiers/",
+      "image": "https://image.tmdb.org/t/p/w92/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+    },
+    {
+      "name": "Kevin McDonald",
+      "role": "Pleakley (voice)",
+      "url": "https://multimovies.city/cast/kevin-mcdonald/",
+      "image": "https://image.tmdb.org/t/p/w92/ymwrW99x9gyN0zeRkqavt3lZMa9.jpg"
+    },
+    {
+      "name": "Ving Rhames",
+      "role": "Cobra Bubbles (voice)",
+      "url": "https://multimovies.city/cast/ving-rhames/",
+      "image": "https://image.tmdb.org/t/p/w92/4gpLVNKPZlVucc4fT2fSZ7DksTK.jpg"
+    },
+    {
+      "name": "Zoe Caldwell",
+      "role": "Grand Councilwoman (voice)",
+      "url": "https://multimovies.city/cast/zoe-caldwell/",
+      "image": "https://image.tmdb.org/t/p/w92/vukuSt1kVgGC8sTOU44BUrqiLhN.jpg"
+    },
+    {
+      "name": "Jason Scott Lee",
+      "role": "David Kawena (voice)",
+      "url": "https://multimovies.city/cast/jason-scott-lee/",
+      "image": "https://image.tmdb.org/t/p/w92/7jObZCM3diuPV0WlKkzOd4uE2CJ.jpg"
+    },
+    {
+      "name": "Kevin Michael Richardson",
+      "role": "Captain Gantu (voice)",
+      "url": "https://multimovies.city/cast/kevin-michael-richardson/",
+      "image": "https://image.tmdb.org/t/p/w92/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "name": "Susan Hegarty",
+      "role": "Rescue Lady (voice)",
+      "url": "https://multimovies.city/cast/susan-hegarty/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/aIglP9Z5gtkQf7Fidb4NRv2gfDj.jpg",
+    "https://image.tmdb.org/t/p/w300/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg",
+    "https://image.tmdb.org/t/p/w300/nqPzQXKtwfOv62xSSMSHZqHJD08.jpg",
+    "https://image.tmdb.org/t/p/w300/5by1um4VfkHKCL8rlpxwxQhedOT.jpg",
+    "https://image.tmdb.org/t/p/w300/7y6dJrcI83D1VzQ6c7ctNsgbl3R.jpg",
+    "https://image.tmdb.org/t/p/w300/lr3ecRFfrX1I0hfuavVrqnHKp2D.jpg",
+    "https://image.tmdb.org/t/p/w300/wV7hkgc5q2yQsa6TRJajkLqlE6d.jpg",
+    "https://image.tmdb.org/t/p/w300/8GWIZXh26rzf1HlcuRsG0hLGVXd.jpg",
+    "https://image.tmdb.org/t/p/w300/ae1T4QPY8SoqBqag6s4tHcN1Aca.jpg",
+    "https://image.tmdb.org/t/p/w300/cxDFAic9FXPPJt2MdfX4ijVh3eC.jpg"
+  ],
+  "similar": [],
+  "views": 1282,
+  "sources": [
+    "https://www.youtube.com/embed/wAtaSKQ4-T0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/v4bjf4z"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 82392,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 82392,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:37:33.847676"
+}
