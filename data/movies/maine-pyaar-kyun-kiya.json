@@ -1,0 +1,124 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/maine-pyaar-kyun-kiya/",
+  "meta": {
+    "title": "Maine Pyaar Kyun Kiya?",
+    "poster": "https://image.tmdb.org/t/p/w500/uV0P65zblJdjxeazaC4WC9UE6Ig.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jul. 15, 2005",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Dr Samir is an absolute charmer when it comes to women, but he poses as a married man to keep them at bay. Love becomes a three-ring-circus for him after he ends up tangled in his web of lies with his girlfriend Sonia and pretend wife Naina.",
+    "infoFields": {
+      "Original title": "\u092e\u0948\u0902\u0928\u0947 \u092a\u094d\u092f\u093e\u0930 \u0915\u094d\u092f\u0942\u0901 \u0915\u093f\u092f\u093e",
+      "IMDb Rating": "5.6 6,318 votes",
+      "TMDb Rating": "5.4 119 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Dhawan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-dhawan/",
+      "image": "https://image.tmdb.org/t/p/w92/xLbcV54lqPF2w5NnjPgVjbmPvk5.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Samir Malhotra",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+      "name": "Sushmita Sen",
+      "role": "Naina",
+      "url": "https://multimovies.city/cast/sushmita-sen/",
+      "image": "https://image.tmdb.org/t/p/w92/arteijssIoHzs8wFLjs6pvqRnlJ.jpg"
+    },
+    {
+      "name": "Katrina Kaif",
+      "role": "Sonia",
+      "url": "https://multimovies.city/cast/katrina-kaif/",
+      "image": "https://image.tmdb.org/t/p/w92/4EAYTJvGdt4NYl2BUKZMdz4lztR.jpg"
+    },
+    {
+      "name": "Sohail Khan",
+      "role": "Pyare Mohan",
+      "url": "https://multimovies.city/cast/sohail-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/bosWkX7lwr3qfluaB3ZlbLXKSR3.jpg"
+    },
+    {
+      "name": "Arshad Warsi",
+      "role": "Vicky",
+      "url": "https://multimovies.city/cast/arshad-warsi/",
+      "image": "https://image.tmdb.org/t/p/w92/iXSA1C7B5mtoUrfDZ2sULE28bww.jpg"
+    },
+    {
+      "name": "Isha Koppikar",
+      "role": "Vicky's Girlfriend",
+      "url": "https://multimovies.city/cast/isha-koppikar/",
+      "image": "https://image.tmdb.org/t/p/w92/yKxTrxQLc3acJdNG02YfFWXo36w.jpg"
+    },
+    {
+      "name": "Rajpal Yadav",
+      "role": "Thapa",
+      "url": "https://multimovies.city/cast/rajpal-yadav/",
+      "image": "https://image.tmdb.org/t/p/w92/zhzfI91YuODuC3ZY2ABytw68C37.jpg"
+    },
+    {
+      "name": "Beena Kak",
+      "role": "Samir's Mother",
+      "url": "https://multimovies.city/cast/beena-kak/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Arbaaz Khan",
+      "role": "Plane passenger",
+      "url": "https://multimovies.city/cast/arbaaz-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/n5iBuvIjx5zuR4DzCfXGtXyv55s.jpg"
+    },
+    {
+      "name": "Dolly Bindra",
+      "role": "Dolly",
+      "url": "https://multimovies.city/cast/dolly-bindra/",
+      "image": "https://image.tmdb.org/t/p/w92/iDpVKX6PF9OnHo8tcbpejIHbgbX.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/f4njg8Ivt1yvfaw19BFGzcaBhmm.jpg",
+    "https://image.tmdb.org/t/p/w300/6riwpc09YsnjZsexxXiBHfrPs9L.jpg"
+  ],
+  "similar": [],
+  "views": 138,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/cou0hkr"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 100476,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:55:22.495609"
+}
