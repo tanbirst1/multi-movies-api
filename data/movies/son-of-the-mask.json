@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/son-of-the-mask/",
+  "meta": {
+    "title": "Son of the Mask",
+    "poster": "https://image.tmdb.org/t/p/w500/Adgnfhm9B8YAQmC0osuP4zO9SRc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 18, 2005",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Tim Avery, an aspiring cartoonist, finds himself in a predicament when his dog stumbles upon the mask of Loki. Then after conceiving an infant son \u201cborn of the mask\u201d, he discovers just how looney child raising can be.",
+    "infoFields": {
+      "Original title": "Son of the Mask",
+      "IMDb Rating": "2.2 57,456 votes",
+      "TMDb Rating": "4.129 1,597 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Lawrence Guterman",
+      "role": "Director",
+      "url": "https://multimovies.city/director/lawrence-guterman/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Jamie Kennedy",
+      "role": "Tim Avery",
+      "url": "https://multimovies.city/cast/jamie-kennedy/",
+      "image": "https://image.tmdb.org/t/p/w92/shm7XMZF9bfliTDahcjqplhMkMD.jpg"
+    },
+    {
+      "name": "Alan Cumming",
+      "role": "Loki",
+      "url": "https://multimovies.city/cast/alan-cumming/",
+      "image": "https://image.tmdb.org/t/p/w92/9ENvxomhVWXTi0S0I13agqRMBOd.jpg"
+    },
+    {
+      "name": "Traylor Howard",
+      "role": "Tonya Avery",
+      "url": "https://multimovies.city/cast/traylor-howard/",
+      "image": "https://image.tmdb.org/t/p/w92/ymB8T4c0ech3oL1G0EhdlEWWg3m.jpg"
+    },
+    {
+      "name": "Kal Penn",
+      "role": "Jorge",
+      "url": "https://multimovies.city/cast/kal-penn/",
+      "image": "https://image.tmdb.org/t/p/w92/yICM1JcxKbEpaqTUreY0yFMIc8W.jpg"
+    },
+    {
+      "name": "Steven Wright",
+      "role": "Daniel Moss",
+      "url": "https://multimovies.city/cast/steven-wright/",
+      "image": "https://image.tmdb.org/t/p/w92/9Q9buDjfm6uq0VE86MZ01o96lyG.jpg"
+    },
+    {
+      "name": "Ben Stein",
+      "role": "Dr. Neuman",
+      "url": "https://multimovies.city/cast/ben-stein/",
+      "image": "https://image.tmdb.org/t/p/w92/1xxodQEQKkioq38oaWRJV0mzQ9y.jpg"
+    },
+    {
+      "name": "Peter Callan",
+      "role": "Museum Redneck",
+      "url": "https://multimovies.city/cast/peter-callan/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Liam Falconer",
+      "role": "Alvey",
+      "url": "https://multimovies.city/cast/liam-falconer/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ryan Falconer",
+      "role": "Alvey",
+      "url": "https://multimovies.city/cast/ryan-falconer/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Brett Pickup",
+      "role": "Museum Boy",
+      "url": "https://multimovies.city/cast/brett-pickup/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/od5chJN27AKS2ZfMhwZVShTo1Kg.jpg",
+    "https://image.tmdb.org/t/p/w300/zbGteYxh9dMJAKPyZY9AWzzHR5I.jpg",
+    "https://image.tmdb.org/t/p/w300/2rJDqHNsrACdgU32eVPImF1g5wd.jpg",
+    "https://image.tmdb.org/t/p/w300/pnAyWB8MRSAZYhtaZDyK4LfHS0E.jpg",
+    "https://image.tmdb.org/t/p/w300/hPwaMZW2IYyrtDCLoPA8HDbPSAV.jpg"
+  ],
+  "similar": [],
+  "views": 3319,
+  "sources": [
+    "https://www.youtube.com/embed/q4HyI0i1mPM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/2byc3orid8h7"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6664,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6664,
+      "nume": 1,
+      "title": "2ru"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:52:28.656918"
+}
