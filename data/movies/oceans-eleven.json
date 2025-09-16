@@ -4,15 +4,132 @@
   "meta": {
     "title": "Ocean\u2019s Eleven",
     "poster": "https://image.tmdb.org/t/p/w500/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
-    "synopsis": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny\u2019s hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Dec. 07, 2001",
+    "ratingValue": "7",
+    "ratingCount": "3",
+    "synopsis": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny\u2019s hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+    "infoFields": {
+      "Original title": "Ocean's Eleven",
+      "IMDb Rating": "7.7 598,260 votes",
+      "TMDb Rating": "7.427 10,681 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Steven Soderbergh",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steven-soderbergh/",
+      "image": "https://image.tmdb.org/t/p/w92/2eJL4Eb9hyLwlgHX9IHRf5peIDm.jpg"
+    },
+    {
+      "name": "George Clooney",
+      "role": "Danny Ocean",
+      "url": "https://multimovies.city/cast/george-clooney/",
+      "image": "https://image.tmdb.org/t/p/w92/4s3wI0bqOP7K3hhcmKqV6m3GYiQ.jpg"
+    },
+    {
+      "name": "Matt Damon",
+      "role": "Linus Caldwell",
+      "url": "https://multimovies.city/cast/matt-damon/",
+      "image": "https://image.tmdb.org/t/p/w92/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+    },
+    {
+      "name": "Andy Garc\u00eda",
+      "role": "Terry Benedict",
+      "url": "https://multimovies.city/cast/andy-garcia/",
+      "image": "https://image.tmdb.org/t/p/w92/aRooE4lECWf0YXd2NefeM4Wu4rn.jpg"
+    },
+    {
+      "name": "Brad Pitt",
+      "role": "Rusty Ryan",
+      "url": "https://multimovies.city/cast/brad-pitt/",
+      "image": "https://image.tmdb.org/t/p/w92/1k9MVNS9M3Y4KejBHusNdbGJwRw.jpg"
+    },
+    {
+      "name": "Julia Roberts",
+      "role": "Tess Ocean",
+      "url": "https://multimovies.city/cast/julia-roberts/",
+      "image": "https://image.tmdb.org/t/p/w92/4XvEI2AgZ7bNOy1z2Nx8LcwLnTM.jpg"
+    },
+    {
+      "name": "Casey Affleck",
+      "role": "Virgil Malloy",
+      "url": "https://multimovies.city/cast/casey-affleck/",
+      "image": "https://image.tmdb.org/t/p/w92/lzRsKNAo5LuqvcroaD2FuOmk0T3.jpg"
+    },
+    {
+      "name": "Scott Caan",
+      "role": "Turk Malloy",
+      "url": "https://multimovies.city/cast/scott-caan/",
+      "image": "https://image.tmdb.org/t/p/w92/67V8YrMglGzvuTOZGpqygDhNK1z.jpg"
+    },
+    {
+      "name": "Elliott Gould",
+      "role": "Reuben Tishkoff",
+      "url": "https://multimovies.city/cast/elliott-gould/",
+      "image": "https://image.tmdb.org/t/p/w92/ismZMvs8QxRR33OAVp9AKr3TokP.jpg"
+    },
+    {
+      "name": "Eddie Jemison",
+      "role": "Livingston Dell",
+      "url": "https://multimovies.city/cast/eddie-jemison/",
+      "image": "https://image.tmdb.org/t/p/w92/zGnEYsiIm4FUrujbDvMfQEivvnj.jpg"
+    },
+    {
+      "name": "Bernie Mac",
+      "role": "Frank Catton",
+      "url": "https://multimovies.city/cast/bernie-mac/",
+      "image": "https://image.tmdb.org/t/p/w92/bwMmpeu3whjhhaxt1UTCk7S5jmv.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
+    "https://image.tmdb.org/t/p/w300/4CHlGJ9lUN97SsdUpMCA8pvvp1F.jpg",
+    "https://image.tmdb.org/t/p/w300/boI3myFhWBvQcru4zZ15aJ0u3CX.jpg",
+    "https://image.tmdb.org/t/p/w300/ybTQT32KoowYfWSLYO19hJaApfi.jpg",
+    "https://image.tmdb.org/t/p/w300/yGUOwJyhL6GgCv5QWCpx3FxKZvo.jpg",
+    "https://image.tmdb.org/t/p/w300/a7WuvDWkm4AfvoKFv2ADVfdOvaP.jpg",
+    "https://image.tmdb.org/t/p/w300/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+    "https://image.tmdb.org/t/p/w300/vnV3sF3X7XsG12Fvek4ZK5Bk93a.jpg",
+    "https://image.tmdb.org/t/p/w300/t8K3S93OzurRKgyTmAUabXWO7MX.jpg",
+    "https://image.tmdb.org/t/p/w300/m0yXVr6cs6u11XTGa6qcbnawjG3.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 4336,
+  "sources": [
+    "https://www.youtube.com/embed/ImMGNQ2OEjo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ijwhdajq87n7"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 28823,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 28823,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:31:31.937182"
 }
