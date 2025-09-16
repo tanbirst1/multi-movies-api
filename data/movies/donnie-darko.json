@@ -4,15 +4,136 @@
   "meta": {
     "title": "Donnie Darko",
     "poster": "https://image.tmdb.org/t/p/w500/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
-    "synopsis": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Jan. 19, 2001",
+    "ratingValue": "9.5",
+    "ratingCount": "2",
+    "synopsis": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+    "infoFields": {
+      "Original title": "Donnie Darko",
+      "IMDb Rating": "8 856,275 votes",
+      "TMDb Rating": "7.781 12,165 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Richard Kelly",
+      "role": "Director",
+      "url": "https://multimovies.city/director/richard-kelly/",
+      "image": "https://image.tmdb.org/t/p/w92/l0rWmZW2tBBwjBedjzAH23eagZ3.jpg"
+    },
+    {
+      "name": "Jake Gyllenhaal",
+      "role": "Donnie Darko",
+      "url": "https://multimovies.city/cast/jake-gyllenhaal/",
+      "image": "https://image.tmdb.org/t/p/w92/btORQRDyGCF0KNweGGYpmQXZK3P.jpg"
+    },
+    {
+      "name": "Jena Malone",
+      "role": "Gretchen Ross",
+      "url": "https://multimovies.city/cast/jena-malone/",
+      "image": "https://image.tmdb.org/t/p/w92/1qmkanVCFr3ZaXcxSXVDO8andb0.jpg"
+    },
+    {
+      "name": "James Duval",
+      "role": "Frank",
+      "url": "https://multimovies.city/cast/james-duval/",
+      "image": "https://image.tmdb.org/t/p/w92/vvasxKKPnxv2qOoXTnaXW3ecGLO.jpg"
+    },
+    {
+      "name": "Drew Barrymore",
+      "role": "Karen Pomeroy",
+      "url": "https://multimovies.city/cast/drew-barrymore/",
+      "image": "https://image.tmdb.org/t/p/w92/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg"
+    },
+    {
+      "name": "Beth Grant",
+      "role": "Kitty Farmer",
+      "url": "https://multimovies.city/cast/beth-grant/",
+      "image": "https://image.tmdb.org/t/p/w92/6THLoPYhIu422TqUmQDgnQRfYxA.jpg"
+    },
+    {
+      "name": "Maggie Gyllenhaal",
+      "role": "Elizabeth Darko",
+      "url": "https://multimovies.city/cast/maggie-gyllenhaal/",
+      "image": "https://image.tmdb.org/t/p/w92/qxgM5LzzG4uWTprCL3gBVVJ2Q1K.jpg"
+    },
+    {
+      "name": "Mary McDonnell",
+      "role": "Rose Darko",
+      "url": "https://multimovies.city/cast/mary-mcdonnell/",
+      "image": "https://image.tmdb.org/t/p/w92/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg"
+    },
+    {
+      "name": "Holmes Osborne",
+      "role": "Eddie Darko",
+      "url": "https://multimovies.city/cast/holmes-osborne/",
+      "image": "https://image.tmdb.org/t/p/w92/q2wZqaQO9ozSNQgl1fveC9qHZDe.jpg"
+    },
+    {
+      "name": "Noah Wyle",
+      "role": "Prof. Kenneth Monnitoff",
+      "url": "https://multimovies.city/cast/noah-wyle/",
+      "image": "https://image.tmdb.org/t/p/w92/kOCkuwHwCP0p7wDRFoV98WlcDlS.jpg"
+    },
+    {
+      "name": "Katharine Ross",
+      "role": "Dr. Lilian Thurman",
+      "url": "https://multimovies.city/cast/katharine-ross/",
+      "image": "https://image.tmdb.org/t/p/w92/m6PKHjvkGAWVBVMYQfjTxdXnUHD.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+    "https://image.tmdb.org/t/p/w300/8eLXy49T36e0e1YhYvUQOCXNRhm.jpg",
+    "https://image.tmdb.org/t/p/w300/npVlvuV5UkUGcnjErXJ9AiUfECR.jpg",
+    "https://image.tmdb.org/t/p/w300/3qau6s5IDXqHPjT7X63hDIgqK3c.jpg",
+    "https://image.tmdb.org/t/p/w300/z6m11QWUc0sELLbGRuidfE5Fchi.jpg",
+    "https://image.tmdb.org/t/p/w300/iFFbcxDpJVTDIL6iWogKPi10TfQ.jpg",
+    "https://image.tmdb.org/t/p/w300/b28hvAO3aeu0yzXoy6JrV1XMWab.jpg",
+    "https://image.tmdb.org/t/p/w300/ibmZySSOOtsPffsew1vzDy60wtX.jpg",
+    "https://image.tmdb.org/t/p/w300/mE8cFlsv1TumieK8q1x0y2GHoct.jpg",
+    "https://image.tmdb.org/t/p/w300/fULOsX1CoPQyGy4vGg4REsUbKSt.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 2578,
+  "sources": [
+    "https://www.youtube.com/embed/bzLn8sYeM9o?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/33mbjxi0gwzm"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 57651,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 57651,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:30:39.451765"
 }
