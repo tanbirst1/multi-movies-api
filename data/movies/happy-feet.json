@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/happy-feet/",
+  "meta": {
+    "title": "Happy Feet",
+    "poster": "https://image.tmdb.org/t/p/w500/zP4CK9O70P8GDilfTkPm4lrmaks.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Nov. 16, 2006",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!",
+    "infoFields": {
+      "Original title": "Happy Feet",
+      "IMDb Rating": "6.4 194,352 votes",
+      "TMDb Rating": "6.167 4,699 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "George Miller",
+      "role": "Director",
+      "url": "https://multimovies.city/director/george-miller/",
+      "image": "https://image.tmdb.org/t/p/w92/4FyQESSzuu1VkPup9CmMjdnUyhv.jpg"
+    },
+    {
+      "name": "Elijah Wood",
+      "role": "Mumble (voice)",
+      "url": "https://multimovies.city/cast/elijah-wood/",
+      "image": "https://image.tmdb.org/t/p/w92/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+      "name": "Robin Williams",
+      "role": "Ramon / Lovelace (voice)",
+      "url": "https://multimovies.city/cast/robin-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "name": "Brittany Murphy",
+      "role": "Gloria (voice)",
+      "url": "https://multimovies.city/cast/brittany-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/uLOrqcSk2h5o3ekNfcuGFDzN13W.jpg"
+    },
+    {
+      "name": "Hugh Jackman",
+      "role": "Memphis (voice)",
+      "url": "https://multimovies.city/cast/hugh-jackman/",
+      "image": "https://image.tmdb.org/t/p/w92/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "name": "Nicole Kidman",
+      "role": "Norma Jean (voice)",
+      "url": "https://multimovies.city/cast/nicole-kidman/",
+      "image": "https://image.tmdb.org/t/p/w92/zjdybHeNvp4DFbRd97Jo2ZLakwX.jpg"
+    },
+    {
+      "name": "Hugo Weaving",
+      "role": "Noah (voice)",
+      "url": "https://multimovies.city/cast/hugo-weaving/",
+      "image": "https://image.tmdb.org/t/p/w92/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "name": "Anthony LaPaglia",
+      "role": "Boss Skua (voice)",
+      "url": "https://multimovies.city/cast/anthony-lapaglia/",
+      "image": "https://image.tmdb.org/t/p/w92/31fRY01Dq2ebkx09FjuG5g3QW9G.jpg"
+    },
+    {
+      "name": "Elizabeth Daily",
+      "role": "Baby Mumble (voice)",
+      "url": "https://multimovies.city/cast/elizabeth-daily/",
+      "image": "https://image.tmdb.org/t/p/w92/sWLXj0yvpMEsZTIsS1ReVQzGnwO.jpg"
+    },
+    {
+      "name": "Magda Szubanski",
+      "role": "Miss Viola (voice)",
+      "url": "https://multimovies.city/cast/magda-szubanski/",
+      "image": "https://image.tmdb.org/t/p/w92/fNb650TNqOBG6dSP9bLhoxxI9wA.jpg"
+    },
+    {
+      "name": "Miriam Margolyes",
+      "role": "Mrs. Astrakhan (voice)",
+      "url": "https://multimovies.city/cast/miriam-margolyes/",
+      "image": "https://image.tmdb.org/t/p/w92/93k0aFwiuDT5sIS3oTX1jKgUYXE.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9DUAR7p4SGqt2ISH2lmSzNx3uni.jpg",
+    "https://image.tmdb.org/t/p/w300/z6QGu3ceCBVctV9Iy8BcY7FOiu5.jpg",
+    "https://image.tmdb.org/t/p/w300/cr7DZI1yrP1bIN5t6f19HqcEgJD.jpg",
+    "https://image.tmdb.org/t/p/w300/tKVXRDeQogwQuS4O09Na7WMlrGd.jpg",
+    "https://image.tmdb.org/t/p/w300/pxsR974ez8bQx0GDixxiKr7pk1o.jpg",
+    "https://image.tmdb.org/t/p/w300/fwVlvuweyycFVSjmrX63J2RJVXG.jpg"
+  ],
+  "similar": [],
+  "views": 1266,
+  "sources": [
+    "https://www.youtube.com/embed/aIBsnOyJB7Y?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/cyk2xhp"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 28538,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 28538,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:06:59.118450"
+}
