@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-lives-of-others/",
+  "meta": {
+    "title": "The Lives of Others",
+    "poster": "https://image.tmdb.org/t/p/w500/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 23, 2006",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "In 1984 East Berlin, dedicated Stasi officer Gerd Wiesler begins spying on a famous playwright and his actress-lover Christa-Maria. Wiesler becomes unexpectedly sympathetic to the couple, and faces conflicting loyalties when his superior takes a liking to Christa-Maria.",
+    "infoFields": {
+      "Original title": "Das Leben der Anderen",
+      "IMDb Rating": "8.4 430,928 votes",
+      "TMDb Rating": "8.032 3,853 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Florian Henckel von Donnersmarck",
+      "role": "Director",
+      "url": "https://multimovies.city/director/florian-henckel-von-donnersmarck/",
+      "image": "https://image.tmdb.org/t/p/w92/3IuSW8NazUH3VlM8KYwMhTTk5lV.jpg"
+    },
+    {
+      "name": "Martina Gedeck",
+      "role": "Christa-Maria Sieland",
+      "url": "https://multimovies.city/cast/martina-gedeck/",
+      "image": "https://image.tmdb.org/t/p/w92/ju7H4RLIzfrcMg2e3SUAaA9fEc6.jpg"
+    },
+    {
+      "name": "Ulrich M\u00fche",
+      "role": "Gerd Wiesler",
+      "url": "https://multimovies.city/cast/ulrich-muhe/",
+      "image": "https://image.tmdb.org/t/p/w92/kdqKmnaBDDT0cwTE2C3fKDJrF8D.jpg"
+    },
+    {
+      "name": "Sebastian Koch",
+      "role": "Georg Dreyman",
+      "url": "https://multimovies.city/cast/sebastian-koch/",
+      "image": "https://image.tmdb.org/t/p/w92/4YFk0qauux4jn68mvIfd5EEtG2v.jpg"
+    },
+    {
+      "name": "Ulrich Tukur",
+      "role": "Anton Grubitz",
+      "url": "https://multimovies.city/cast/ulrich-tukur/",
+      "image": "https://image.tmdb.org/t/p/w92/8cRioOXiW0FSN0eWysHWdl4leEf.jpg"
+    },
+    {
+      "name": "Thomas Thieme",
+      "role": "Bruno Hempf",
+      "url": "https://multimovies.city/cast/thomas-thieme/",
+      "image": "https://image.tmdb.org/t/p/w92/omWXGbeRR32MWuYhpnLOSqJ6xkO.jpg"
+    },
+    {
+      "name": "Hans-Uwe Bauer",
+      "role": "Paul Hauser",
+      "url": "https://multimovies.city/cast/hans-uwe-bauer/",
+      "image": "https://image.tmdb.org/t/p/w92/a5PUuPPOmYElTHcd0GsvZlQ7KjO.jpg"
+    },
+    {
+      "name": "Volkmar Kleinert",
+      "role": "Albert Jerska",
+      "url": "https://multimovies.city/cast/volkmar-kleinert/",
+      "image": "https://image.tmdb.org/t/p/w92/4EaHlyTy4gWGL3TDCGYhg2Fp2hr.jpg"
+    },
+    {
+      "name": "Matthias Brenner",
+      "role": "Karl Wallner",
+      "url": "https://multimovies.city/cast/matthias-brenner/",
+      "image": "https://image.tmdb.org/t/p/w92/m28WGfLmVUeeDmxmrWjD0JgVOd8.jpg"
+    },
+    {
+      "name": "Charly H\u00fcbner",
+      "role": "Udo",
+      "url": "https://multimovies.city/cast/charly-hubner/",
+      "image": "https://image.tmdb.org/t/p/w92/lZ3hUptXjwQGGYazbop1FrHvAEg.jpg"
+    },
+    {
+      "name": "Herbert Knaup",
+      "role": "Gregor Hessenstein",
+      "url": "https://multimovies.city/cast/herbert-knaup/",
+      "image": "https://image.tmdb.org/t/p/w92/1QmgD5ce0cUEZ4Jk3HqdoxvlGrZ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/uyUdNIzl3FWBRxqeVK4ZQKdGGUS.jpg",
+    "https://image.tmdb.org/t/p/w300/3mxteiwtcCPjbYKlyC0WxY1G9J3.jpg",
+    "https://image.tmdb.org/t/p/w300/zxoCBPLrDPlyfOBjrlXmpv5YAvz.jpg",
+    "https://image.tmdb.org/t/p/w300/g11nKgir3nIhlG2gIDWIvJeR4fz.jpg",
+    "https://image.tmdb.org/t/p/w300/gkQR0jC4EHDxD5X0n0Vdn5YT9ns.jpg",
+    "https://image.tmdb.org/t/p/w300/nyw3vKjzoBSC0G1GUhbwq2BxUOW.jpg",
+    "https://image.tmdb.org/t/p/w300/jnOP2fVcL8ZD2BcOQCpuDp9FBOe.jpg"
+  ],
+  "similar": [],
+  "views": 308,
+  "sources": [
+    "https://www.youtube.com/embed/n3_iLOp6IhM?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/m7dnhvj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 96359,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 96359,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:01:40.595920"
+}
