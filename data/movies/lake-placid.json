@@ -4,15 +4,144 @@
   "meta": {
     "title": "Lake Placid",
     "poster": "https://image.tmdb.org/t/p/w500/pEszakCP8j9E9S0UPLfEa3Cad3O.jpg",
-    "synopsis": "When a man is eaten alive by an unknown creature, the local Game Warden teams up with a paleontologist from New York to find the beast. Add to the mix an eccentric philanthropist with a penchant for \u201cCrocs\u201d, and here we go! This quiet, remote lake is suddenly the focus of an intense search for a crocodile with a taste for live animals\u2026and people!"
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 15, 1999",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "When a man is eaten alive by an unknown creature, the local Game Warden teams up with a paleontologist from New York to find the beast. Add to the mix an eccentric philanthropist with a penchant for \u201cCrocs\u201d, and here we go! This quiet, remote lake is suddenly the focus of an intense search for a crocodile with a taste for live animals\u2026and people!",
+    "infoFields": {
+      "Original title": "Lake Placid",
+      "IMDb Rating": "5.8 67,848 votes",
+      "TMDb Rating": "5.936 1,165 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Steve Miner",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steve-miner/",
+      "image": "https://image.tmdb.org/t/p/w92/jI202evRSMXDHCugyWvrAaUuVO4.jpg"
+    },
+    {
+      "name": "Bill Pullman",
+      "role": "Jack Wells",
+      "url": "https://multimovies.city/cast/bill-pullman/",
+      "image": "https://image.tmdb.org/t/p/w92/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+    },
+    {
+      "name": "Bridget Fonda",
+      "role": "Kelly Scott",
+      "url": "https://multimovies.city/cast/bridget-fonda/",
+      "image": "https://image.tmdb.org/t/p/w92/t3pHi0rus4vyLrSA82h1CiEDzBa.jpg"
+    },
+    {
+      "name": "Oliver Platt",
+      "role": "Hector Cyr",
+      "url": "https://multimovies.city/cast/oliver-platt/",
+      "image": "https://image.tmdb.org/t/p/w92/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg"
+    },
+    {
+      "name": "Brendan Gleeson",
+      "role": "Sheriff Hank Keough",
+      "url": "https://multimovies.city/cast/brendan-gleeson/",
+      "image": "https://image.tmdb.org/t/p/w92/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+      "name": "Betty White",
+      "role": "Mrs. Delores Bickerman",
+      "url": "https://multimovies.city/cast/betty-white/",
+      "image": "https://image.tmdb.org/t/p/w92/eYDjR4ajOkzYDyEIMzOoSJz8za2.jpg"
+    },
+    {
+      "name": "David James Lewis",
+      "role": "Walt Lawson",
+      "url": "https://multimovies.city/cast/david-james-lewis/",
+      "image": "https://image.tmdb.org/t/p/w92/6i4FD9BsdDacX4Tma41dBWYVCpw.jpg"
+    },
+    {
+      "name": "Tim Dixon",
+      "role": "Stephen Daniels",
+      "url": "https://multimovies.city/cast/tim-dixon/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Natassia Malthe",
+      "role": "Janine",
+      "url": "https://multimovies.city/cast/natassia-malthe/",
+      "image": "https://image.tmdb.org/t/p/w92/qnc226IJfaE2cplj2pMSS6g9e3B.jpg"
+    },
+    {
+      "name": "Mariska Hargitay",
+      "role": "Myra Okubo",
+      "url": "https://multimovies.city/cast/mariska-hargitay/",
+      "image": "https://image.tmdb.org/t/p/w92/7tULgPSy5hksTi7mBF9uOnrrzHX.jpg"
+    },
+    {
+      "name": "Meredith Salenger",
+      "role": "Deputy Sharon Gare",
+      "url": "https://multimovies.city/cast/meredith-salenger/",
+      "image": "https://image.tmdb.org/t/p/w92/8lOt7vQQkrZWmjg0STb4D7umIta.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kX7MiYBqQlHDMMZ0oSQP4FrALXU.jpg",
+    "https://image.tmdb.org/t/p/w300/h6HUHfwsbztCVqk7CrBQZu3Fijk.jpg",
+    "https://image.tmdb.org/t/p/w300/wb43WywllxhIs2TIaWQez5hUFfW.jpg",
+    "https://image.tmdb.org/t/p/w300/yGhhPnwTxtPGGDuUn4JbWXGdYvA.jpg",
+    "https://image.tmdb.org/t/p/w300/pbASW9fGXms2u3Y6LyYUQPqaSlU.jpg",
+    "https://image.tmdb.org/t/p/w300/7nG3Asp2IsTjsKiNANb1vZ7iF6F.jpg",
+    "https://image.tmdb.org/t/p/w300/lXVh4TVKOIN7R5tjZct9nIbTkdO.jpg",
+    "https://image.tmdb.org/t/p/w300/r84BSr0EPBSLf6alVhb8CynKb94.jpg",
+    "https://image.tmdb.org/t/p/w300/2BJ54LTK9PyynujzEdicCX5fTLP.jpg",
+    "https://image.tmdb.org/t/p/w300/dGbOONviWpwluxJAIA3TGNB2ZWz.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 447,
+  "sources": [
+    "https://www.youtube.com/embed/qqK07DFav8k?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/af4bhld"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 86455,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 86455,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:22:44"
+  "last_update": "2025-09-16T17:26:35.352912"
 }
