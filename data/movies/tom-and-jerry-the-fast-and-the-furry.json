@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tom-and-jerry-the-fast-and-the-furry/",
+  "meta": {
+    "title": "Tom and Jerry: The Fast and the Furry",
+    "poster": "https://image.tmdb.org/t/p/w500/7PeNpz4mDyRqDxMhC0g0FCpVwPB.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Oct. 11, 2005",
+    "ratingValue": "10",
+    "ratingCount": "6",
+    "synopsis": "After being evicted from their old house by Tom\u2019s owner for causing major damage, cat and mouse Tom and Jerry enter a race entitled the \u201cFabulous Super Race\u201d to win a mansion.",
+    "infoFields": {
+      "Original title": "Tom and Jerry: The Fast and the Furry",
+      "IMDb Rating": "6.6 2,786 votes",
+      "TMDb Rating": "6.913 223 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Bill Kopp",
+      "role": "Director",
+      "url": "https://multimovies.city/director/bill-kopp/",
+      "image": "https://image.tmdb.org/t/p/w92/gh9Xhsq22tlWNPxrOIoY7iPBov1.jpg"
+    },
+    {
+      "name": "Charlie Adler",
+      "role": "Grammy (voice)",
+      "url": "https://multimovies.city/cast/charlie-adler/",
+      "image": "https://image.tmdb.org/t/p/w92/hVENHdlEqsX6vhBW4MTpfYEFFQ3.jpg"
+    },
+    {
+      "name": "Jeff Bennett",
+      "role": "Steed (voice)",
+      "url": "https://multimovies.city/cast/jeff-bennett/",
+      "image": "https://image.tmdb.org/t/p/w92/p78svoOr99IA2oBOUzAH9cnPOwf.jpg"
+    },
+    {
+      "name": "John DiMaggio",
+      "role": "J.W. / Spike (voice)",
+      "url": "https://multimovies.city/cast/john-dimaggio/",
+      "image": "https://image.tmdb.org/t/p/w92/awmyFwU6ErFJbGFFzhBYZ9AQn8m.jpg"
+    },
+    {
+      "name": "Jess Harnell",
+      "role": "Buzz Blister / Film Director (voice)",
+      "url": "https://multimovies.city/cast/jess-harnell/",
+      "image": "https://image.tmdb.org/t/p/w92/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+    },
+    {
+      "name": "Tom Kenny",
+      "role": "Gorthan / Whale (voice)",
+      "url": "https://multimovies.city/cast/tom-kenny/",
+      "image": "https://image.tmdb.org/t/p/w92/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+    },
+    {
+      "name": "Bill Kopp",
+      "role": "Tom / Frank (voice)",
+      "url": "https://multimovies.city/cast/bill-kopp/",
+      "image": "https://image.tmdb.org/t/p/w92/gh9Xhsq22tlWNPxrOIoY7iPBov1.jpg"
+    },
+    {
+      "name": "Tress MacNeille",
+      "role": "Soccer Mom / Lady / Tour Girl (voice)",
+      "url": "https://multimovies.city/cast/tress-macneille/",
+      "image": "https://image.tmdb.org/t/p/w92/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+    },
+    {
+      "name": "Rob Paulsen",
+      "role": "Irving / Dave (voice)",
+      "url": "https://multimovies.city/cast/rob-paulsen/",
+      "image": "https://image.tmdb.org/t/p/w92/7buvKWIjPlspqruaO3b28V5owJr.jpg"
+    },
+    {
+      "name": "Billy West",
+      "role": "Biff Buzzard / President of Hollywood / Squirty (voice)",
+      "url": "https://multimovies.city/cast/billy-west/",
+      "image": "https://image.tmdb.org/t/p/w92/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+    },
+    {
+      "name": "J. Grant Albrecht",
+      "role": "Clown-O / Security Guard (voice)",
+      "url": "https://multimovies.city/cast/j-grant-albrecht/",
+      "image": "https://image.tmdb.org/t/p/w92/w4rm0bWWgWoXRs7jr6PDjbf0UYm.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bXILbW1i0WRShd6s4LfLKdJM6zm.jpg",
+    "https://image.tmdb.org/t/p/w300/xMwpcCNkzgpzIHyUNw1NujtoooZ.jpg"
+  ],
+  "similar": [],
+  "views": 5372,
+  "sources": [
+    "https://www.youtube.com/embed/In5DCUeumFY?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/eew2tr7oss2e"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 13454,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 13454,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:58:52.118444"
+}
