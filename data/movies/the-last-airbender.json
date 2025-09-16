@@ -1,0 +1,164 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-last-airbender/",
+  "meta": {
+    "title": "The Last Airbender",
+    "poster": "https://image.tmdb.org/t/p/w500/zgwRTYWEEPivTwjB9S03HtmMcbM.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 30, 2010",
+    "ratingValue": "9.8",
+    "ratingCount": "4",
+    "synopsis": "The story follows the adventures of Aang, a young successor to a long line of Avatars, who must put his childhood ways aside and stop the Fire Nation from enslaving the Water, Earth and Air nations.",
+    "infoFields": {
+      "Original title": "The Last Airbender",
+      "IMDb Rating": "4 167,063 votes",
+      "TMDb Rating": "4.661 3,591 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jeff Habberstad",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jeff-habberstad/",
+      "image": "https://image.tmdb.org/t/p/w92/idZDMv2dVRxttymSJLSBQsbjS9N.jpg"
+    },
+    {
+      "name": "Noah Ringer",
+      "role": "Aang",
+      "url": "https://multimovies.city/cast/noah-ringer/",
+      "image": "https://image.tmdb.org/t/p/w92/eXobIl7swPrxEqPzacBJczsCrOq.jpg"
+    },
+    {
+      "name": "Dev Patel",
+      "role": "Zuko",
+      "url": "https://multimovies.city/cast/dev-patel/",
+      "image": "https://image.tmdb.org/t/p/w92/jt08kAMlC7s9MJ8PupHBUjY0Ruc.jpg"
+    },
+    {
+      "name": "Nicola Peltz Beckham",
+      "role": "Katara",
+      "url": "https://multimovies.city/cast/nicola-peltz-beckham/",
+      "image": "https://image.tmdb.org/t/p/w92/rTaeR2ijxQGlVD3ztL7QmJTdEY4.jpg"
+    },
+    {
+      "name": "Summer Bishil",
+      "role": "Azula",
+      "url": "https://multimovies.city/cast/summer-bishil/",
+      "image": "https://image.tmdb.org/t/p/w92/v5BtDCvtaVPBzWfJ1WrQbwhNiaw.jpg"
+    },
+    {
+      "name": "Jackson Rathbone",
+      "role": "Sokka",
+      "url": "https://multimovies.city/cast/jackson-rathbone/",
+      "image": "https://image.tmdb.org/t/p/w92/rEWDNg7pjhtnEwTNu3MHMQWEYio.jpg"
+    },
+    {
+      "name": "Shaun Toub",
+      "role": "Uncle Iroh",
+      "url": "https://multimovies.city/cast/shaun-toub/",
+      "image": "https://image.tmdb.org/t/p/w92/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg"
+    },
+    {
+      "name": "Aasif Mandvi",
+      "role": "Commander Zhao",
+      "url": "https://multimovies.city/cast/aasif-mandvi/",
+      "image": "https://image.tmdb.org/t/p/w92/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+    },
+    {
+      "name": "Cliff Curtis",
+      "role": "Fire Lord Ozai",
+      "url": "https://multimovies.city/cast/cliff-curtis/",
+      "image": "https://image.tmdb.org/t/p/w92/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
+    },
+    {
+      "name": "Seychelle Gabriel",
+      "role": "Princess Yue",
+      "url": "https://multimovies.city/cast/seychelle-gabriel/",
+      "image": "https://image.tmdb.org/t/p/w92/jBrdrWZoYgcrnz5aLLXHu4bXUXh.jpg"
+    },
+    {
+      "name": "Katharine Houghton",
+      "role": "Gran Gran",
+      "url": "https://multimovies.city/cast/katharine-houghton/",
+      "image": "https://image.tmdb.org/t/p/w92/m1Dz3BEDY4l0WIjxzgT9EKif8ye.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/msU3F9DVNFvCsQVxhxliyWSO03D.jpg",
+    "https://image.tmdb.org/t/p/w300/di4lOiDtCJovqfqsqedxyAbnwD9.jpg",
+    "https://image.tmdb.org/t/p/w300/1lbgkJ5cCqItClLmDD9eEOysQgu.jpg",
+    "https://image.tmdb.org/t/p/w300/zGlPtionxUD2eYfrzpTI3JvChaL.jpg",
+    "https://image.tmdb.org/t/p/w300/glvTNhGDDx4gTk5bv3zvXQkGoSB.jpg",
+    "https://image.tmdb.org/t/p/w300/zU4s4O5LTqJSZ7lSKrMQgKLLKgR.jpg",
+    "https://image.tmdb.org/t/p/w300/fScF8h3cZYJ6WrxCae9ITjNuusu.jpg"
+  ],
+  "similar": [],
+  "views": 5475,
+  "sources": [
+    "https://www.youtube.com/embed/WdoiHMCVqMQ?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/73tt4smtgpsu",
+    "https://sbplay.org/embed-zpgu6odmz2bj.html",
+    "https://dood.la/e/lc41x4o4up6g",
+    "https://mixdrop.co/e/6q6688r1u90jz6",
+    "https://hydrax.net/watch?v=giq7pLYJD"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18790,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18790,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 18790,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 18790,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 18790,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 18790,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:45:08.008516"
+}
