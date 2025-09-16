@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/chicken-little/",
+  "meta": {
+    "title": "Chicken Little",
+    "poster": "https://image.tmdb.org/t/p/w500/vkhMtzwmAEglnilVNsL3IE6kU0B.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Nov. 04, 2005",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "When the sky really is falling and sanity has flown the coop, who will rise to save the day? Together with his hysterical band of misfit friends, Chicken Little must hatch a plan to save the planet from alien invasion and prove that the world\u2019s biggest hero is a little chicken.",
+    "infoFields": {
+      "Original title": "Chicken Little",
+      "TMDb Rating": "5.898 3,982 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mark Dindal",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mark-dindal/",
+      "image": "https://image.tmdb.org/t/p/w92/333OWiQBGLBjAWUemWySFzxCbhx.jpg"
+    },
+    {
+      "name": "Zach Braff",
+      "role": "Chicken Little (voice)",
+      "url": "https://multimovies.city/cast/zach-braff/",
+      "image": "https://image.tmdb.org/t/p/w92/wUAj6juL6HErqEJ1GtuI63rbVea.jpg"
+    },
+    {
+      "name": "Garry Marshall",
+      "role": "Buck Cluck (voice)",
+      "url": "https://multimovies.city/cast/garry-marshall/",
+      "image": "https://image.tmdb.org/t/p/w92/uYVagiSCH4gj3BcYownQySVwfy7.jpg"
+    },
+    {
+      "name": "Don Knotts",
+      "role": "Mayor Turkey Lurkey (voice)",
+      "url": "https://multimovies.city/cast/don-knotts/",
+      "image": "https://image.tmdb.org/t/p/w92/cr1eyblxpQe4LBafMMuQ6BuOGzR.jpg"
+    },
+    {
+      "name": "Amy Sedaris",
+      "role": "Foxy Loxy (voice)",
+      "url": "https://multimovies.city/cast/amy-sedaris/",
+      "image": "https://image.tmdb.org/t/p/w92/7FX1yxq1SBFxxzgDPEdhrtgS1kk.jpg"
+    },
+    {
+      "name": "Steve Zahn",
+      "role": "Runt of the Litter (voice)",
+      "url": "https://multimovies.city/cast/steve-zahn/",
+      "image": "https://image.tmdb.org/t/p/w92/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+      "name": "Joan Cusack",
+      "role": "Abby Mallard (voice)",
+      "url": "https://multimovies.city/cast/joan-cusack/",
+      "image": "https://image.tmdb.org/t/p/w92/ytjiXEqnaEYtS7XkYmoUXPrZCm5.jpg"
+    },
+    {
+      "name": "Patrick Stewart",
+      "role": "Mr. Woolensworth (voice)",
+      "url": "https://multimovies.city/cast/patrick-stewart/",
+      "image": "https://image.tmdb.org/t/p/w92/3yExCGqCMfSOVVHdEYTJhXaTtFZ.jpg"
+    },
+    {
+      "name": "Fred Willard",
+      "role": "Melvin - Alien Dad (voice)",
+      "url": "https://multimovies.city/cast/fred-willard/",
+      "image": "https://image.tmdb.org/t/p/w92/AaHxpkee9nQfBpQeDyJLoPNtYR6.jpg"
+    },
+    {
+      "name": "Catherine O'Hara",
+      "role": "Tina - Alien Mom (voice)",
+      "url": "https://multimovies.city/cast/catherine-ohara/",
+      "image": "https://image.tmdb.org/t/p/w92/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+    },
+    {
+      "name": "Wallace Shawn",
+      "role": "Principal Fetchit (voice)",
+      "url": "https://multimovies.city/cast/wallace-shawn/",
+      "image": "https://image.tmdb.org/t/p/w92/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/neaUbI8fDtfnitw81ovBN0av8xE.jpg",
+    "https://image.tmdb.org/t/p/w300/h37N1O8LUyGW1o2dIWufm9jzpk7.jpg",
+    "https://image.tmdb.org/t/p/w300/r819lbFc6LB88CUWTQ0BvJfluho.jpg",
+    "https://image.tmdb.org/t/p/w300/h5Bwxe6dTVFtAFkybkd1EAB4yUW.jpg",
+    "https://image.tmdb.org/t/p/w300/zBvBGvUSxsgBA64TUZokscPjQea.jpg",
+    "https://image.tmdb.org/t/p/w300/pRBZEEhe9umc3KuVSou8Q04kWqa.jpg",
+    "https://image.tmdb.org/t/p/w300/5Equwb5JA3AHXVnVCm5EtYZFGfn.jpg",
+    "https://image.tmdb.org/t/p/w300/43l0LX5iNtIS40NaprZFXKR8m0H.jpg",
+    "https://image.tmdb.org/t/p/w300/nsqlkMvtvoKWODiH7ALiEx1goYI.jpg",
+    "https://image.tmdb.org/t/p/w300/x7gFWu9CxTxw7VmkdQAtKocZJtI.jpg"
+  ],
+  "similar": [],
+  "views": 543,
+  "sources": [
+    "https://www.youtube.com/embed/PPuk2JQgMkU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vpsbqb7"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 92538,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 92538,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:58:13.972604"
+}
