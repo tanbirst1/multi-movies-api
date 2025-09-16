@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/primeval/",
+  "meta": {
+    "title": "Primeval",
+    "poster": "https://image.tmdb.org/t/p/w500/5ou56J8FIxbIFusR9zIA9GW7zwt.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Jan. 12, 2007",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A news team is sent to Burundi to capture and bring home a legendary 25-foot crocodile. Their difficult task turns potentially deadly when a warlord targets them for death.",
+    "infoFields": {
+      "Original title": "Primeval",
+      "IMDb Rating": "4.8 15,682 votes",
+      "TMDb Rating": "6.074 426 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Michael Katleman",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-katleman/",
+      "image": "https://image.tmdb.org/t/p/w92/p6AJsa5dT8GIGVu068yDvIiQD7T.jpg"
+    },
+    {
+      "name": "Dominic Purcell",
+      "role": "Tim Manfrey",
+      "url": "https://multimovies.city/cast/dominic-purcell/",
+      "image": "https://image.tmdb.org/t/p/w92/30giDZ53c8f72pPbXCLK9xMSAnw.jpg"
+    },
+    {
+      "name": "Brooke Langton",
+      "role": "Aviva Masters",
+      "url": "https://multimovies.city/cast/brooke-langton/",
+      "image": "https://image.tmdb.org/t/p/w92/7vNdKFRgedVWfRiZps26PlaVwtI.jpg"
+    },
+    {
+      "name": "Orlando Jones",
+      "role": "Steven Johnson",
+      "url": "https://multimovies.city/cast/orlando-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/ypN7IS7lXOAij4rfMd4NlcF7f6R.jpg"
+    },
+    {
+      "name": "J\u00fcrgen Prochnow",
+      "role": "Jacob Krieg",
+      "url": "https://multimovies.city/cast/jurgen-prochnow/",
+      "image": "https://image.tmdb.org/t/p/w92/45gcCuTcZdqpVISh5C8q1N9HyEz.jpg"
+    },
+    {
+      "name": "Gideon Emery",
+      "role": "Mathew Collins",
+      "url": "https://multimovies.city/cast/gideon-emery/",
+      "image": "https://image.tmdb.org/t/p/w92/o7BHjTmmZ9D5tEK33JHKfB2FQqD.jpg"
+    },
+    {
+      "name": "Gabriel Malema",
+      "role": "Jojo",
+      "url": "https://multimovies.city/cast/gabriel-malema/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Linda Mpondo",
+      "role": "Gold Tooth",
+      "url": "https://multimovies.city/cast/linda-mpondo/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Lehlohonolo Makoko",
+      "role": "Beanpole",
+      "url": "https://multimovies.city/cast/lehlohonolo-makoko/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Dumisani Mbebe",
+      "role": "Harry",
+      "url": "https://multimovies.city/cast/dumisani-mbebe/",
+      "image": "https://image.tmdb.org/t/p/w92/vQv5NDoomAHOSCZaoySQsuVgkUZ.jpg"
+    },
+    {
+      "name": "Eddy 'Big Eddy' Bekombo",
+      "role": "Ato",
+      "url": "https://multimovies.city/cast/eddy-big-eddy-bekombo/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9MsqUNYYSXSZeWyxzAlTwTbPavv.jpg",
+    "https://image.tmdb.org/t/p/w300/nkjlXxfXWSuVOmc6iYPghxF66fQ.jpg",
+    "https://image.tmdb.org/t/p/w300/s6evfXErKDoKTXyKDcn6m9iQ0hH.jpg",
+    "https://image.tmdb.org/t/p/w300/eeCs8nBwFoGzF5SKCkavpT4mhvP.jpg",
+    "https://image.tmdb.org/t/p/w300/ejfsXEEebQ76ibSESTNW0P9i7ts.jpg",
+    "https://image.tmdb.org/t/p/w300/czXvO1dlKe9mT0x0pzxRVWucq7.jpg"
+  ],
+  "similar": [],
+  "views": 532,
+  "sources": [
+    "https://www.youtube.com/embed/RARfk8cXPeg?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ii5akxn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 100587,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 100587,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:11:06.617196"
+}
