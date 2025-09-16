@@ -1,0 +1,109 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/musafir/",
+  "meta": {
+    "title": "Musafir",
+    "poster": "https://image.tmdb.org/t/p/w500/3Ss2RMGUiDcmsbVna0Jlo9NJUq4.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Dec. 09, 2004",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Musafir (Hindi: \u092e\u0941\u0938\u093e\u092b\u093c\u093f\u0930 Mus\u0101fir, translation: Traveller) is a 2004 Hindi thriller film, directed and produced by Sanjay Gupta starring Sanjay Dutt, Anil Kapoor and Sameera Reddy. The film was controversial because of some sensual scenes, including kissing, between Kapoor and Reddy. The film has been described as \u201ca take-off on\u201d Oliver Stone\u2019s 1997 thriller, U Turn",
+    "infoFields": {
+      "Original title": "Musafir",
+      "IMDb Rating": "5.6 1,919 votes",
+      "TMDb Rating": "5.618 17 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sanjay Gupta",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sanjay-gupta/",
+      "image": "https://image.tmdb.org/t/p/w92/dzsC6TD3v0pHFzqfeAr6mNDp0AA.jpg"
+    },
+    {
+      "name": "Anil Kapoor",
+      "role": "Lucky",
+      "url": "https://multimovies.city/cast/anil-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
+    },
+    {
+      "name": "Sanjay Dutt",
+      "role": "Billa",
+      "url": "https://multimovies.city/cast/sanjay-dutt/",
+      "image": "https://image.tmdb.org/t/p/w92/zhYAdzlDMbhWr8ZBVDK02nrwnOJ.jpg"
+    },
+    {
+      "name": "Sameera Reddy",
+      "role": "Sam",
+      "url": "https://multimovies.city/cast/sameera-reddy/",
+      "image": "https://image.tmdb.org/t/p/w92/egzWn7xxmKZxnynYuFlD93z3GMf.jpg"
+    },
+    {
+      "name": "Koena Mitra",
+      "role": "Lara",
+      "url": "https://multimovies.city/cast/koena-mitra/",
+      "image": "https://image.tmdb.org/t/p/w92/h75I24xutHxEfTqrovRjgnyNth0.jpg"
+    },
+    {
+      "name": "Mahesh Manjrekar",
+      "role": "Lukka",
+      "url": "https://multimovies.city/cast/mahesh-manjrekar/",
+      "image": "https://image.tmdb.org/t/p/w92/rAAlncxpCKpXjUHsd6pfaSaTl96.jpg"
+    },
+    {
+      "name": "Aditya Pancholi",
+      "role": "Inspector Tiger (as Aditya Panscholi)",
+      "url": "https://multimovies.city/cast/aditya-pancholi/",
+      "image": "https://image.tmdb.org/t/p/w92/5M9W7S6yzLT89DkQoYkP0yb9iy3.jpg"
+    },
+    {
+      "name": "Shakti Kapoor",
+      "role": "Whacko Jacko",
+      "url": "https://multimovies.city/cast/shakti-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/a7LjjoGOhUXXXLsVZlSjjAx8BoW.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2F7jX8stkp4l7P6lLR33UmfU4u1.jpg"
+  ],
+  "similar": [],
+  "views": 1163,
+  "sources": [
+    "https://multimoviesshg.com/e/4aije2bcel74"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8427,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:53:47.485333"
+}
