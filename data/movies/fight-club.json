@@ -4,15 +4,136 @@
   "meta": {
     "title": "Fight Club",
     "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
-    "synopsis": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \u201cfight clubs\u201d forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Oct. 15, 1999",
+    "ratingValue": "9.4",
+    "ratingCount": "35",
+    "synopsis": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \u201cfight clubs\u201d forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "infoFields": {
+      "Original title": "Fight Club",
+      "IMDb Rating": "8.8 2,167,068 votes",
+      "TMDb Rating": "8.431 26,172 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "David Fincher",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-fincher/",
+      "image": "https://image.tmdb.org/t/p/w92/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg"
+    },
+    {
+      "name": "Edward Norton",
+      "role": "The Narrator",
+      "url": "https://multimovies.city/cast/edward-norton/",
+      "image": "https://image.tmdb.org/t/p/w92/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+    },
+    {
+      "name": "Brad Pitt",
+      "role": "Tyler Durden",
+      "url": "https://multimovies.city/cast/brad-pitt/",
+      "image": "https://image.tmdb.org/t/p/w92/1k9MVNS9M3Y4KejBHusNdbGJwRw.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Marla Singer",
+      "url": "https://multimovies.city/cast/helena-bonham-carter/",
+      "image": "https://image.tmdb.org/t/p/w92/h3SMnd9GjF2AVaxChgWuVZknutT.jpg"
+    },
+    {
+      "name": "Meat Loaf",
+      "role": "Robert \"Bob\" Paulson",
+      "url": "https://multimovies.city/cast/meat-loaf/",
+      "image": "https://image.tmdb.org/t/p/w92/7gKLR1u46OB8WJ6m06LemNBCMx6.jpg"
+    },
+    {
+      "name": "Jared Leto",
+      "role": "Angel Face",
+      "url": "https://multimovies.city/cast/jared-leto/",
+      "image": "https://image.tmdb.org/t/p/w92/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    },
+    {
+      "name": "Zach Grenier",
+      "role": "Richard Chesler",
+      "url": "https://multimovies.city/cast/zach-grenier/",
+      "image": "https://image.tmdb.org/t/p/w92/fSyQKZO39sUsqY283GXiScOg3Hi.jpg"
+    },
+    {
+      "name": "Holt McCallany",
+      "role": "The Mechanic",
+      "url": "https://multimovies.city/cast/holt-mccallany/",
+      "image": "https://image.tmdb.org/t/p/w92/a5ax2ICLrV6l0T74OSFvzssCQyQ.jpg"
+    },
+    {
+      "name": "Eion Bailey",
+      "role": "Ricky",
+      "url": "https://multimovies.city/cast/eion-bailey/",
+      "image": "https://image.tmdb.org/t/p/w92/hKqfGq1sPhZdQOlto0bS3igFZdP.jpg"
+    },
+    {
+      "name": "Richmond Arquette",
+      "role": "Intern",
+      "url": "https://multimovies.city/cast/richmond-arquette/",
+      "image": "https://image.tmdb.org/t/p/w92/7byGiVac0GjBSVD1h6ylZlVXZK6.jpg"
+    },
+    {
+      "name": "David Andrews",
+      "role": "Thomas",
+      "url": "https://multimovies.city/cast/david-andrews/",
+      "image": "https://image.tmdb.org/t/p/w92/36LEerIIN7gpG52mM3Ier7YWDbh.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "https://image.tmdb.org/t/p/w300/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+    "https://image.tmdb.org/t/p/w300/3nv2TEz2u178xPXzdKlZdUh5uOI.jpg",
+    "https://image.tmdb.org/t/p/w300/yguBaPk5V0nZCcSBthre4YFMAgk.jpg",
+    "https://image.tmdb.org/t/p/w300/bsfJoKVAqFzlhvbt8AffjvYAtN4.jpg",
+    "https://image.tmdb.org/t/p/w300/kpRWGjh3SsYjuF26HyRhCJJkMRk.jpg",
+    "https://image.tmdb.org/t/p/w300/52AfXWuXCHn3UjD17rBruA9f5qb.jpg",
+    "https://image.tmdb.org/t/p/w300/ruJPyRrHYPS071XzVGPX3peYi0x.jpg",
+    "https://image.tmdb.org/t/p/w300/rr7E0NoGKxvbkb89eR1GwfoYjpA.jpg",
+    "https://image.tmdb.org/t/p/w300/8iVyhmjzUbvAGppkdCZPiyEHSoF.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 48296,
+  "sources": [
+    "https://www.youtube.com/embed/BdJKm16Co6M?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/0r8f6674eu6h"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 2361,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 2361,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:22:44"
+  "last_update": "2025-09-16T17:25:55.261369"
 }
