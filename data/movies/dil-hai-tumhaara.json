@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dil-hai-tumhaara/",
+  "meta": {
+    "title": "Dil Hai Tumhaara",
+    "poster": "https://image.tmdb.org/t/p/w500/6DkO7aZTZtXNESGcSq3R1wmrb06.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Sep. 05, 2002",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Some twenty years ago Sarita promised to raise her husband\u2019s love child (Shalu) together with their own daughter (Nimmi). The girls grow up as the best of friends but Sarita has never been able to forgive Shalu her background. It doesn\u2019t make it better when she sees Shalu getting close to the man Nimmi is also in love with.",
+    "infoFields": {
+      "Original title": "\u0926\u093f\u0932 \u0939\u0948 \u0924\u0941\u092e\u094d\u0939\u093e\u0930\u093e",
+      "IMDb Rating": "5.5 2,056 votes",
+      "TMDb Rating": "5.9 21 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kundan Shah",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kundan-shah/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Preity Zinta",
+      "role": "Shalu",
+      "url": "https://multimovies.city/cast/preity-zinta/",
+      "image": "https://image.tmdb.org/t/p/w92/uaY2M3goYsp0QpNenharmIqnMvy.jpg"
+    },
+    {
+      "name": "Mahima Chaudhry",
+      "role": "Nimmi",
+      "url": "https://multimovies.city/cast/mahima-chaudhry/",
+      "image": "https://image.tmdb.org/t/p/w92/pgqztcCYYCdOfQgnqR0lRUlPfKZ.jpg"
+    },
+    {
+      "name": "Jimmy Shergill",
+      "role": "Samir",
+      "url": "https://multimovies.city/cast/jimmy-shergill/",
+      "image": "https://image.tmdb.org/t/p/w92/A3fJrhIgM7Q5TGwbQYxYBjNsV37.jpg"
+    },
+    {
+      "name": "Arjun Rampal",
+      "role": "Dev Khanna",
+      "url": "https://multimovies.city/cast/arjun-rampal/",
+      "image": "https://image.tmdb.org/t/p/w92/1ghoclpJvFixkr9HJluoj097PnW.jpg"
+    },
+    {
+      "name": "Rekha",
+      "role": "Saritaji",
+      "url": "https://multimovies.city/cast/rekha/",
+      "image": "https://image.tmdb.org/t/p/w92/6Ewl0EYECDfwArTWVnINpRqEw9P.jpg"
+    },
+    {
+      "name": "Alok Nath",
+      "role": "Mr. Khanna",
+      "url": "https://multimovies.city/cast/alok-nath/",
+      "image": "https://image.tmdb.org/t/p/w92/fMtqIj07e2HD0i5YbV91kgjrZzm.jpg"
+    },
+    {
+      "name": "Sachin Khedekar",
+      "role": "Shekhar",
+      "url": "https://multimovies.city/cast/sachin-khedekar/",
+      "image": "https://image.tmdb.org/t/p/w92/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg"
+    },
+    {
+      "name": "Govind Namdev",
+      "role": "Mr. Mittal",
+      "url": "https://multimovies.city/cast/govind-namdev/",
+      "image": "https://image.tmdb.org/t/p/w92/4PYvzEHjEXScVjYuiQxVpNpvQ18.jpg"
+    },
+    {
+      "name": "Aanjjan Srivastav",
+      "role": "Roopchand",
+      "url": "https://multimovies.city/cast/aanjjan-srivastav/",
+      "image": "https://image.tmdb.org/t/p/w92/bF5vxtg7bc57bTunHq70dWwalRy.jpg"
+    },
+    {
+      "name": "Dilip Joshi",
+      "role": "Factory CEO",
+      "url": "https://multimovies.city/cast/dilip-joshi/",
+      "image": "https://image.tmdb.org/t/p/w92/qtpDpt77JUcXV7f9cTOAibHLnjC.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vtT52mjVAhYzbbW0i4LtLOza8oR.jpg"
+  ],
+  "similar": [],
+  "views": 1004,
+  "sources": [
+    "https://multimoviesshg.com/e/jn7f9zav7955"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26408,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:36:25.329993"
+}
