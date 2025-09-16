@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/pandorum/",
+  "meta": {
+    "title": "Pandorum",
+    "poster": "https://image.tmdb.org/t/p/w500/mNMfa6r3pl0EzFIKEkVcxyr6Rc7.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 08, 2009",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Two crew members wake up on an abandoned spacecraft with no idea who they are, how long they\u2019ve been asleep, or what their mission is. The two soon discover they\u2019re actually not alone \u2013 and the reality of their situation is more horrifying than they could have imagined.",
+    "infoFields": {
+      "Original title": "Pandorum",
+      "IMDb Rating": "6.7 160,052 votes",
+      "TMDb Rating": "6.6 2,285 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Christian Alvart",
+      "role": "Director",
+      "url": "https://multimovies.city/director/christian-alvart/",
+      "image": "https://image.tmdb.org/t/p/w92/6pMtdJJNITwS2WHQeTi7ZVPjzAv.jpg"
+    },
+    {
+      "name": "Ben Foster",
+      "role": "Bower",
+      "url": "https://multimovies.city/cast/ben-foster/",
+      "image": "https://image.tmdb.org/t/p/w92/4le1PMWTGp7y2IBmZEIOHfE3HAB.jpg"
+    },
+    {
+      "name": "Dennis Quaid",
+      "role": "Payton",
+      "url": "https://multimovies.city/cast/dennis-quaid/",
+      "image": "https://image.tmdb.org/t/p/w92/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+      "name": "Cam Gigandet",
+      "role": "Gallo",
+      "url": "https://multimovies.city/cast/cam-gigandet/",
+      "image": "https://image.tmdb.org/t/p/w92/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+    },
+    {
+      "name": "Antje Traue",
+      "role": "Nadia",
+      "url": "https://multimovies.city/cast/antje-traue/",
+      "image": "https://image.tmdb.org/t/p/w92/xEwHBfAtcDCKGvo2lAD9xc55X7O.jpg"
+    },
+    {
+      "name": "Cung Le",
+      "role": "Manh",
+      "url": "https://multimovies.city/cast/cung-le/",
+      "image": "https://image.tmdb.org/t/p/w92/4L1cbVQXF3MBSQJiJCjBW4sNYqw.jpg"
+    },
+    {
+      "name": "Eddie Rouse",
+      "role": "Leland",
+      "url": "https://multimovies.city/cast/eddie-rouse/",
+      "image": "https://image.tmdb.org/t/p/w92/r3HEgVyKe4VemiK7h35YBsPbeIP.jpg"
+    },
+    {
+      "name": "Norman Reedus",
+      "role": "Shepard",
+      "url": "https://multimovies.city/cast/norman-reedus/",
+      "image": "https://image.tmdb.org/t/p/w92/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+    },
+    {
+      "name": "Andr\u00e9 Hennicke",
+      "role": "Hunter Leader",
+      "url": "https://multimovies.city/cast/andre-hennicke/",
+      "image": "https://image.tmdb.org/t/p/w92/ooLG1YJU6hsc5KNGeHqTkwv0GMe.jpg"
+    },
+    {
+      "name": "Friederike Kempter",
+      "role": "Evalon",
+      "url": "https://multimovies.city/cast/friederike-kempter/",
+      "image": "https://image.tmdb.org/t/p/w92/tP2wx2NxhEPdWNupliCc6Jz4SWF.jpg"
+    },
+    {
+      "name": "Niels-Bruno Schmidt",
+      "role": "Insane Officer 'Eden'",
+      "url": "https://multimovies.city/cast/niels-bruno-schmidt/",
+      "image": "https://image.tmdb.org/t/p/w92/rsb1NiWWDEdFqFgLbgq5CiAOwmB.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2M5V8VcK02o4R5cxe7Ew1ltaxKr.jpg",
+    "https://image.tmdb.org/t/p/w300/840lFdv99SK0l2CQSxPHiQBO0s6.jpg",
+    "https://image.tmdb.org/t/p/w300/qyWmkIgVUwHxnzWgI8YjaJR4WWG.jpg",
+    "https://image.tmdb.org/t/p/w300/qA6U9t06D9NlyuC3spRIewQSIcs.jpg",
+    "https://image.tmdb.org/t/p/w300/emQ6j7ImZJJjI0lqLEVppVC9Yy6.jpg",
+    "https://image.tmdb.org/t/p/w300/26rnOl0gI3ozN9tSksLTHWEuaCx.jpg",
+    "https://image.tmdb.org/t/p/w300/yLn3TEBbZuvwgNiWbJuTEFLaP8b.jpg",
+    "https://image.tmdb.org/t/p/w300/qKsQBkyoZCRZemkI1UQTyjvrieB.jpg",
+    "https://image.tmdb.org/t/p/w300/jRAgp4CoD9nUTTS5Pgbrlp3xuMj.jpg",
+    "https://image.tmdb.org/t/p/w300/255p7Qc9sXJQXLReyD67ByPvZoh.jpg"
+  ],
+  "similar": [],
+  "views": 1011,
+  "sources": [
+    "https://www.youtube.com/embed/9q42L4XNVhQ?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/ho3t1yraae7z"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 53648,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 53648,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:31:59.536234"
+}
