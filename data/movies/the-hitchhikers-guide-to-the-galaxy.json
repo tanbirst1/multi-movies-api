@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-hitchhikers-guide-to-the-galaxy/",
+  "meta": {
+    "title": "The Hitchhiker\u2019s Guide to the Galaxy",
+    "poster": "https://image.tmdb.org/t/p/w500/yr9A3KGQlxBh3yW0cmglsr8aMIz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Apr. 28, 2005",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Mere seconds before the Earth is to be demolished by an alien construction crew, Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of \u201cThe Hitchhiker\u2019s Guide to the Galaxy.\u201d",
+    "infoFields": {
+      "Original title": "The Hitchhiker's Guide to the Galaxy",
+      "IMDb Rating": "6.7 202,176 votes",
+      "TMDb Rating": "6.66 3,470 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Garth Jennings",
+      "role": "Director",
+      "url": "https://multimovies.city/director/garth-jennings/",
+      "image": "https://image.tmdb.org/t/p/w92/zl6ZWijGySSIYJRFalleAiGkxyQ.jpg"
+    },
+    {
+      "name": "Martin Freeman",
+      "role": "Arthur Dent",
+      "url": "https://multimovies.city/cast/martin-freeman/",
+      "image": "https://image.tmdb.org/t/p/w92/pLG7mmxBXXTVAgzXvQl0ap3qlJU.jpg"
+    },
+    {
+      "name": "Zooey Deschanel",
+      "role": "Trillian",
+      "url": "https://multimovies.city/cast/zooey-deschanel/",
+      "image": "https://image.tmdb.org/t/p/w92/30KQyjsXfrdm4Dcori7bDFTg9Le.jpg"
+    },
+    {
+      "name": "Sam Rockwell",
+      "role": "Zaphod Beeblebrox",
+      "url": "https://multimovies.city/cast/sam-rockwell/",
+      "image": "https://image.tmdb.org/t/p/w92/vYpWxV0bnUgKo7SdasfGP9HttUq.jpg"
+    },
+    {
+      "name": "Yasiin Bey",
+      "role": "Ford Prefect",
+      "url": "https://multimovies.city/cast/yasiin-bey/",
+      "image": "https://image.tmdb.org/t/p/w92/xP37YR6B53nY3MnzInxIhabIBjJ.jpg"
+    },
+    {
+      "name": "John Malkovich",
+      "role": "Humma Kavula",
+      "url": "https://multimovies.city/cast/john-malkovich/",
+      "image": "https://image.tmdb.org/t/p/w92/5coH0AExljEnbseCXKL4CDOVQj8.jpg"
+    },
+    {
+      "name": "Helen Mirren",
+      "role": "Deep Thought",
+      "url": "https://multimovies.city/cast/helen-mirren/",
+      "image": "https://image.tmdb.org/t/p/w92/qfaMWmaQYDmNbLjC1wtWnhfmPL9.jpg"
+    },
+    {
+      "name": "Stephen Fry",
+      "role": "Narrator/The Guide",
+      "url": "https://multimovies.city/cast/stephen-fry/",
+      "image": "https://image.tmdb.org/t/p/w92/xeheTDmmQDFYaKxEHmyxbjrte4G.jpg"
+    },
+    {
+      "name": "Anna Chancellor",
+      "role": "Questular Rontok",
+      "url": "https://multimovies.city/cast/anna-chancellor/",
+      "image": "https://image.tmdb.org/t/p/w92/gKU8hHdC45q9WpYy4SeNLEhPwtK.jpg"
+    },
+    {
+      "name": "Bill Bailey",
+      "role": "The Whale",
+      "url": "https://multimovies.city/cast/bill-bailey/",
+      "image": "https://image.tmdb.org/t/p/w92/hA3vK90snmnt1xtuJR4Iac0YRXe.jpg"
+    },
+    {
+      "name": "Dominique Jackson",
+      "role": "Fook",
+      "url": "https://multimovies.city/cast/dominique-jackson/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/i3IOqOFdAdjw0ebQXkIevybkkNF.jpg",
+    "https://image.tmdb.org/t/p/w300/ofvapZCAUdeUIDeVtUaJOWH2zPs.jpg",
+    "https://image.tmdb.org/t/p/w300/6v0eBOFKEo7jIBOIh6cV9yah5D6.jpg",
+    "https://image.tmdb.org/t/p/w300/tvI85xGm6KezHuHzfHEGNv5pzFc.jpg",
+    "https://image.tmdb.org/t/p/w300/cKLZmkoPFV0ITv2IDtPJ7WEFODs.jpg",
+    "https://image.tmdb.org/t/p/w300/szTcja18ovj8gkF3ZvFhYdDhaoy.jpg",
+    "https://image.tmdb.org/t/p/w300/bp2nxKuLqcVmMwa5wTsgO4tYm8p.jpg",
+    "https://image.tmdb.org/t/p/w300/7wr3TRFpeTqotoU9FlHb5DeFQ4K.jpg",
+    "https://image.tmdb.org/t/p/w300/pIf2q54w4E8ozIrYT1C4lyCI02t.jpg",
+    "https://image.tmdb.org/t/p/w300/zXnVqw0I3kh100anbd9hvJSVHNy.jpg"
+  ],
+  "similar": [],
+  "views": 601,
+  "sources": [
+    "https://www.youtube.com/embed/MbGNcoB2Y4I?autoplay=0&autohide=1",
+    "https://multimovies.website/e/4qlsd9uqgiyo.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5477,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5477,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:51:46.856266"
+}
