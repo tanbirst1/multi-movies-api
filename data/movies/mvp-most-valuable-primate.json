@@ -4,15 +4,123 @@
   "meta": {
     "title": "MVP: Most Valuable Primate",
     "poster": "https://image.tmdb.org/t/p/w500/pRCciMvFOABm41eat8EKYa0BYIL.jpg",
-    "synopsis": "Jack is a three-year-old chimpanzee who has been the subject of a long-term experiment by Dr. Kendall, a researcher who been teaching Jack to communicate through sign language. Jack scrambles onto the ice in the midst of practice for Steven\u2019s junior league hockey team, and he and his teammates discover the monkey has a natural talent for the game."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Aug. 11, 2000",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Jack is a three-year-old chimpanzee who has been the subject of a long-term experiment by Dr. Kendall, a researcher who been teaching Jack to communicate through sign language. Jack scrambles onto the ice in the midst of practice for Steven\u2019s junior league hockey team, and he and his teammates discover the monkey has a natural talent for the game.",
+    "infoFields": {
+      "Original title": "MVP: Most Valuable Primate",
+      "IMDb Rating": "4.2 2,785 votes",
+      "TMDb Rating": "4.791 86 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Robert Vince",
+      "role": "Director",
+      "url": "https://multimovies.city/director/robert-vince/",
+      "image": "https://image.tmdb.org/t/p/w92/vHRpPhzI2hZP8ndPLFtz6acMKFj.jpg"
+    },
+    {
+      "name": "Kevin Zegers",
+      "role": "Steven Westover",
+      "url": "https://multimovies.city/cast/kevin-zegers/",
+      "image": "https://image.tmdb.org/t/p/w92/zRjasG4NXxKbe6e1c4enivAvfcH.jpg"
+    },
+    {
+      "name": "Jamie Ren\u00e9e Smith",
+      "role": "Tara Westover",
+      "url": "https://multimovies.city/cast/jamie-renee-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/2m1ddsKk0gbmcsocLS8D9wRODIm.jpg"
+    },
+    {
+      "name": "Alexa Benette Fox",
+      "role": "Jane",
+      "url": "https://multimovies.city/cast/alexa-benette-fox/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Lomax Study",
+      "role": "Dr. Kendall",
+      "url": "https://multimovies.city/cast/lomax-study/",
+      "image": "https://image.tmdb.org/t/p/w92/dApvRPfHl3Qo3MKy5eUPQ2AIVEJ.jpg"
+    },
+    {
+      "name": "Russell Ferrier",
+      "role": "Darren",
+      "url": "https://multimovies.city/cast/russell-ferrier/",
+      "image": "https://image.tmdb.org/t/p/w92/wOrkWeVzJgugl5CVSN4XDbW0bRe.jpg"
+    },
+    {
+      "name": "Jane Sowerby",
+      "role": "Julie Beston",
+      "url": "https://multimovies.city/cast/jane-sowerby/",
+      "image": "https://image.tmdb.org/t/p/w92/8fRu1WrOHJtShMHsngJCA1r2MFB.jpg"
+    },
+    {
+      "name": "Ingrid Tesch",
+      "role": "Susie Westover",
+      "url": "https://multimovies.city/cast/ingrid-tesch/",
+      "image": "https://image.tmdb.org/t/p/w92/qO8I8Xf0z9Vq21R0kvw7mDdRHSL.jpg"
+    },
+    {
+      "name": "Philip Granger",
+      "role": "Mark Westover",
+      "url": "https://multimovies.city/cast/philip-granger/",
+      "image": "https://image.tmdb.org/t/p/w92/yUo0EbJlWnEl56cYXXkITVFbcVU.jpg"
+    },
+    {
+      "name": "Rick Ducommun",
+      "role": "Coach Marlowe",
+      "url": "https://multimovies.city/cast/rick-ducommun/",
+      "image": "https://image.tmdb.org/t/p/w92/usW5QTa85JuonyRktb3s5HjDD84.jpg"
+    },
+    {
+      "name": "Aaron Smolinski",
+      "role": "Pete",
+      "url": "https://multimovies.city/cast/aaron-smolinski/",
+      "image": "https://image.tmdb.org/t/p/w92/yypLAhfGcecgozOO7wiWV3c28qT.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/r4vnelohQBrUKhl181s4PjdRMTz.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 148,
+  "sources": [
+    "https://www.youtube.com/embed/JbA7Er0mqZA?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/c15721y"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 60973,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 60973,
+      "nume": 1,
+      "title": "gdmirror"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:27:46.847860"
 }
