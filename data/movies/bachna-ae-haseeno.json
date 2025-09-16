@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/bachna-ae-haseeno/",
+  "meta": {
+    "title": "Bachna Ae Haseeno",
+    "poster": "https://image.tmdb.org/t/p/w500/bFjzXEDw7b8tjWJeFEKMXjCkqbz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Aug. 15, 2008",
+    "ratingValue": "8.7",
+    "ratingCount": "3",
+    "synopsis": "Raj is a heartbreaker. His love stories with Mahi, Radhika and Gayatri finally teach him about love and life in their own sweet, sexy and sassy way.",
+    "infoFields": {
+      "Original title": "\u092c\u091a\u0928\u093e \u0910 \u0939\u0938\u0940\u0928\u094b",
+      "IMDb Rating": "6.2 13,214 votes",
+      "TMDb Rating": "6.1 87 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Siddharth Anand",
+      "role": "Director",
+      "url": "https://multimovies.city/director/siddharth-anand/",
+      "image": "https://image.tmdb.org/t/p/w92/9hQ4sX2XgOWvfJFv39z4uYrisqs.jpg"
+    },
+    {
+      "name": "Ranbir Kapoor",
+      "role": "Raj Sharma",
+      "url": "https://multimovies.city/cast/ranbir-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/ymYNHV9luwgyrw17NXHqbOWTQkg.jpg"
+    },
+    {
+      "name": "Deepika Padukone",
+      "role": "Gayatri Jakhar",
+      "url": "https://multimovies.city/cast/deepika-padukone/",
+      "image": "https://image.tmdb.org/t/p/w92/kBGmOExBHwbVZDmGegGx3qZWw89.jpg"
+    },
+    {
+      "name": "Bipasha Basu",
+      "role": "Radhika / Shreya Rathore",
+      "url": "https://multimovies.city/cast/bipasha-basu/",
+      "image": "https://image.tmdb.org/t/p/w92/j4p0NOHUNvOCBcfaZiCoyxdJJou.jpg"
+    },
+    {
+      "name": "Minissha Lamba",
+      "role": "Mahi Shinde",
+      "url": "https://multimovies.city/cast/minissha-lamba/",
+      "image": "https://image.tmdb.org/t/p/w92/h5awIx04ILeDZT4U5i2fXkU2eca.jpg"
+    },
+    {
+      "name": "Puneet Issar",
+      "role": "Mahi's Father",
+      "url": "https://multimovies.city/cast/puneet-issar/",
+      "image": "https://image.tmdb.org/t/p/w92/6YpwKWExWMBwAV8piUHqj1skoB6.jpg"
+    },
+    {
+      "name": "Bhanu Sri Mehra",
+      "role": "Mahi's Friend",
+      "url": "https://multimovies.city/cast/bhanu-sri-mehra/",
+      "image": "https://image.tmdb.org/t/p/w92/llAnBGdSCqfq89tbNnvShoWxGFQ.jpg"
+    },
+    {
+      "name": "Hiten Paintal",
+      "role": "Sachin",
+      "url": "https://multimovies.city/cast/hiten-paintal/",
+      "image": "https://image.tmdb.org/t/p/w92/iOKuLBnTz5FValLNv0g0UrOCOQ.jpg"
+    },
+    {
+      "name": "Avantika Hundal",
+      "role": "Mona",
+      "url": "https://multimovies.city/cast/avantika-hundal/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sumeet Arora",
+      "role": "Raj's Friend",
+      "url": "https://multimovies.city/cast/sumeet-arora/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Madhurima Tuli",
+      "role": "",
+      "url": "https://multimovies.city/cast/madhurima-tuli/",
+      "image": "https://image.tmdb.org/t/p/w92/oWV3BLJGDytHVuOzl9yItvkWikW.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/uoqDaSsJp5aBsBUOpDVBg3asLKO.jpg"
+  ],
+  "similar": [],
+  "views": 6879,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/klhfk0b"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25407,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:24:48.926683"
+}
