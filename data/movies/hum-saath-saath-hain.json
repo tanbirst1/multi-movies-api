@@ -4,15 +4,120 @@
   "meta": {
     "title": "Hum Saath Saath Hain",
     "poster": "https://image.tmdb.org/t/p/w500/lEAEzpAfSyBZc5sw1NBnWr5TeZU.jpg",
-    "synopsis": "Ramkishen and his wife Mamta have three sons. Prem and Vinod have sweethearts in Preeti and Vivek marries Sangeeta. Since Vivek is Mamta\u2019s step-son, she plots to alienate him, but will she succeed?"
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Nov. 05, 1999",
+    "ratingValue": "8.8",
+    "ratingCount": "12",
+    "synopsis": "Ramkishen and his wife Mamta have three sons. Prem and Vinod have sweethearts in Preeti and Vivek marries Sangeeta. Since Vivek is Mamta\u2019s step-son, she plots to alienate him, but will she succeed?",
+    "infoFields": {
+      "Original title": "\u0939\u092e \u0938\u093e\u0925 - \u0938\u093e\u0925 \u0939\u0948\u0902",
+      "IMDb Rating": "6.3 10,401 votes",
+      "TMDb Rating": "5.953 85 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Sooraj Barjatya",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sooraj-barjatya/",
+      "image": "https://image.tmdb.org/t/p/w92/cayLTtN2H1ErYFySfznPkYGOdhA.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Prem Chaturvedi",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/gxKwCCcs777HzsXRpdGsBV87pXn.jpg"
+    },
+    {
+      "name": "Sonali Bendre",
+      "role": "Preeti Shukla",
+      "url": "https://multimovies.city/cast/sonali-bendre/",
+      "image": "https://image.tmdb.org/t/p/w92/4xvVvT9RyLvOa2hQjecIhYuSPjx.jpg"
+    },
+    {
+      "name": "Karisma Kapoor",
+      "role": "Sapna Bajpai",
+      "url": "https://multimovies.city/cast/karisma-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/vaa4dSmayH71krkgnECXQsPaRre.jpg"
+    },
+    {
+      "name": "Saif Ali Khan",
+      "role": "Vinod Chaturvedi",
+      "url": "https://multimovies.city/cast/saif-ali-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    },
+    {
+      "name": "Mohnish Behl",
+      "role": "Vivek Chaturvedi",
+      "url": "https://multimovies.city/cast/mohnish-behl/",
+      "image": "https://image.tmdb.org/t/p/w92/iiDceTPiwHY4y91gdP3OsEHOo7r.jpg"
+    },
+    {
+      "name": "Tabu",
+      "role": "Sadhna Sharma / Sadhna Chaturvedi",
+      "url": "https://multimovies.city/cast/tabu/",
+      "image": "https://image.tmdb.org/t/p/w92/cvt5nvCHr1ICf5u8A2mlzLQ8LsV.jpg"
+    },
+    {
+      "name": "Alok Nath",
+      "role": "Ramkishan Chaturvedi",
+      "url": "https://multimovies.city/cast/alok-nath/",
+      "image": "https://image.tmdb.org/t/p/w92/fMtqIj07e2HD0i5YbV91kgjrZzm.jpg"
+    },
+    {
+      "name": "Reema Lagoo",
+      "role": "Mamta Awasthi Chaturvedi",
+      "url": "https://multimovies.city/cast/reema-lagoo/",
+      "image": "https://image.tmdb.org/t/p/w92/hQ5r2pPD8T94Dli5oNP6IlwEf1c.jpg"
+    },
+    {
+      "name": "Neelam Kothari",
+      "role": "Sangeeta Chaturvedi /Sangeeta Pandey",
+      "url": "https://multimovies.city/cast/neelam-kothari/",
+      "image": "https://image.tmdb.org/t/p/w92/vlW8WHmNxFrTP4LSvwEWkqU4NxQ.jpg"
+    },
+    {
+      "name": "Mahesh Thakur",
+      "role": "Anand Pandey",
+      "url": "https://multimovies.city/cast/mahesh-thakur/",
+      "image": "https://image.tmdb.org/t/p/w92/a25tark0IJAKTo8mPYswshy7hWR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/tjvJPNCCxWkJdKtN2E4bQIumB21.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 16816,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/cl0eyig"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5620,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:22:44"
+  "last_update": "2025-09-16T17:25:47.313022"
 }
