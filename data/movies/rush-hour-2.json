@@ -4,15 +4,136 @@
   "meta": {
     "title": "Rush Hour 2",
     "poster": "https://image.tmdb.org/t/p/w500/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg",
-    "synopsis": "It\u2019s vacation time for Carter as he finds himself alongside Lee in Hong Kong wishing for more excitement. While Carter wants to party and meet the ladies, Lee is out to track down a Triad gang lord who may be responsible for killing two men at the American Embassy. Things get complicated as the pair stumble onto a counterfeiting plot. The boys are soon up to their necks in fist fights and life-threatening situations. A trip back to the U.S. may provide the answers about the bombing, the counterfeiting, and the true allegiance of sexy customs agent Isabella."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Aug. 03, 2001",
+    "ratingValue": "8.2",
+    "ratingCount": "6",
+    "synopsis": "It\u2019s vacation time for Carter as he finds himself alongside Lee in Hong Kong wishing for more excitement. While Carter wants to party and meet the ladies, Lee is out to track down a Triad gang lord who may be responsible for killing two men at the American Embassy. Things get complicated as the pair stumble onto a counterfeiting plot. The boys are soon up to their necks in fist fights and life-threatening situations. A trip back to the U.S. may provide the answers about the bombing, the counterfeiting, and the true allegiance of sexy customs agent Isabella.",
+    "infoFields": {
+      "Original title": "Rush Hour 2",
+      "IMDb Rating": "6.6 227,226 votes",
+      "TMDb Rating": "6.7 3,515 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Conrad E. Palmisano",
+      "role": "Director",
+      "url": "https://multimovies.city/director/conrad-e-palmisano/",
+      "image": "https://image.tmdb.org/t/p/w92/9012ElbfHVSrl0Jzvip19rFaLBP.jpg"
+    },
+    {
+      "name": "Jackie Chan",
+      "role": "Yan Naing Lee",
+      "url": "https://multimovies.city/cast/jackie-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "name": "Chris Tucker",
+      "role": "James Carter",
+      "url": "https://multimovies.city/cast/chris-tucker/",
+      "image": "https://image.tmdb.org/t/p/w92/f3oQKRJEGjK8Yc4qSMrD5P9oYbg.jpg"
+    },
+    {
+      "name": "John Lone",
+      "role": "Ricky Tan",
+      "url": "https://multimovies.city/cast/john-lone/",
+      "image": "https://image.tmdb.org/t/p/w92/cO62O0mZGCvR0y5zM5oI2rUDhto.jpg"
+    },
+    {
+      "name": "Zhang Ziyi",
+      "role": "Hu Li",
+      "url": "https://multimovies.city/cast/zhang-ziyi/",
+      "image": "https://image.tmdb.org/t/p/w92/6DUCAJzpw06VoAA9VWrvB2g4dpq.jpg"
+    },
+    {
+      "name": "Roselyn S\u00e1nchez",
+      "role": "Isabella Molina",
+      "url": "https://multimovies.city/cast/roselyn-sanchez/",
+      "image": "https://image.tmdb.org/t/p/w92/t1xPA67A2VoQwjEC43hmOzEKNP3.jpg"
+    },
+    {
+      "name": "Alan King",
+      "role": "Steve Reign",
+      "url": "https://multimovies.city/cast/alan-king/",
+      "image": "https://image.tmdb.org/t/p/w92/wq3yjC2S2SMxjs4tAAuryJ91Hum.jpg"
+    },
+    {
+      "name": "Harris Yulin",
+      "role": "Agent Sterling",
+      "url": "https://multimovies.city/cast/harris-yulin/",
+      "image": "https://image.tmdb.org/t/p/w92/rKEWwNwhaE4AsubDGoLu6pDIxZy.jpg"
+    },
+    {
+      "name": "Kenneth Tsang",
+      "role": "Captain Chin",
+      "url": "https://multimovies.city/cast/kenneth-tsang/",
+      "image": "https://image.tmdb.org/t/p/w92/aq7XLUzruedjRFI3Zk0PZyubsYv.jpg"
+    },
+    {
+      "name": "Lisa LoCicero",
+      "role": "Receptionist",
+      "url": "https://multimovies.city/cast/lisa-locicero/",
+      "image": "https://image.tmdb.org/t/p/w92/2gQ7dRAc49hUrZU5vK1SPrSpKzX.jpg"
+    },
+    {
+      "name": "Meiling Melan\u00e7on",
+      "role": "Girl in Car",
+      "url": "https://multimovies.city/cast/meiling-melancon/",
+      "image": "https://image.tmdb.org/t/p/w92/wajlMthHDX85HstRRvc2STExty6.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zzFTSEAZcLGSbGipQVflSNUqpij.jpg",
+    "https://image.tmdb.org/t/p/w300/aP3a8X1BslpDmrqRTVXDP5pHusG.jpg",
+    "https://image.tmdb.org/t/p/w300/oqgDX4uet0tgxepJNUbQW6RzKlz.jpg",
+    "https://image.tmdb.org/t/p/w300/br5V4UmlvUZSBf3JrWOQtc9dbWc.jpg",
+    "https://image.tmdb.org/t/p/w300/cHc5MhZwglNVpphaA1X70XOFl6D.jpg",
+    "https://image.tmdb.org/t/p/w300/1Ly6qbbmRDTfv2hkbK7M9QnKztg.jpg",
+    "https://image.tmdb.org/t/p/w300/dDoLkgSVfkH1ruDIgG9UtGiJW3G.jpg",
+    "https://image.tmdb.org/t/p/w300/svG669VCLYD5rIC4NkShERI7L4x.jpg",
+    "https://image.tmdb.org/t/p/w300/zWF4sfwDe67kPLH7z56BxBNvquq.jpg",
+    "https://image.tmdb.org/t/p/w300/mo1MXdcLSx6EMaGrpjjL8qOSEHE.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 10507,
+  "sources": [
+    "https://www.youtube.com/embed/LzJEMPM08jU?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/29nf9aqzc6rg"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5661,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5661,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:32:42.017285"
 }
