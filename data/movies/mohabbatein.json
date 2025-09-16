@@ -4,15 +4,124 @@
   "meta": {
     "title": "Mohabbatein",
     "poster": "https://image.tmdb.org/t/p/w500/zB7zJQgk4pPoxsPzZP0CqUgHuXN.jpg",
-    "synopsis": "At a prestigious all-male university, three friends seek love outside of the school grounds; at the same time, a newly-hired music teacher seeks to befriend and loosen up the militantly strict headmaster."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Oct. 27, 2000",
+    "ratingValue": "9.1",
+    "ratingCount": "26",
+    "synopsis": "At a prestigious all-male university, three friends seek love outside of the school grounds; at the same time, a newly-hired music teacher seeks to befriend and loosen up the militantly strict headmaster.",
+    "infoFields": {
+      "Original title": "\u092e\u094b\u0939\u092c\u094d\u092c\u0924\u0947\u0902",
+      "TMDb Rating": "7 251 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Aditya Chopra",
+      "role": "Director",
+      "url": "https://multimovies.city/director/aditya-chopra/",
+      "image": "https://image.tmdb.org/t/p/w92/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Narayan Shankar",
+      "url": "https://multimovies.city/cast/amitabh-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/yAvq3EG5W5WaegZHB7gNdlM2KED.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Raj Aryan Malhotra",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Uday Chopra",
+      "role": "Vicky",
+      "url": "https://multimovies.city/cast/uday-chopra/",
+      "image": "https://image.tmdb.org/t/p/w92/bHmH00vJNavpf5BgSuBeUSPB9bj.jpg"
+    },
+    {
+      "name": "Shamita Shetty",
+      "role": "Ishika",
+      "url": "https://multimovies.city/cast/shamita-shetty/",
+      "image": "https://image.tmdb.org/t/p/w92/y6RaI7U7kDfXKMo1bviKYutE09b.jpg"
+    },
+    {
+      "name": "Jugal Hansraj",
+      "role": "Sameer",
+      "url": "https://multimovies.city/cast/jugal-hansraj/",
+      "image": "https://image.tmdb.org/t/p/w92/29l2Okg2DZaPy90I62OlPrWNJe4.jpg"
+    },
+    {
+      "name": "Kim Sharma",
+      "role": "Sanjana",
+      "url": "https://multimovies.city/cast/kim-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/5NAg9fNPQkft1NRobDBBTg5sdXp.jpg"
+    },
+    {
+      "name": "Jimmy Shergill",
+      "role": "Karan",
+      "url": "https://multimovies.city/cast/jimmy-shergill/",
+      "image": "https://image.tmdb.org/t/p/w92/A3fJrhIgM7Q5TGwbQYxYBjNsV37.jpg"
+    },
+    {
+      "name": "Preeti Jhangiani",
+      "role": "Kiran",
+      "url": "https://multimovies.city/cast/preeti-jhangiani/",
+      "image": "https://image.tmdb.org/t/p/w92/eiBudnqeGFTyMrtzs99kg8azUXo.jpg"
+    },
+    {
+      "name": "Aishwarya Rai Bachchan",
+      "role": "Megha",
+      "url": "https://multimovies.city/cast/aishwarya-rai-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/31L3uTQSeLS5g3EgALNdVbZT1W.jpg"
+    },
+    {
+      "name": "Anupam Kher",
+      "role": "Kake",
+      "url": "https://multimovies.city/cast/anupam-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/f7hWJ4tvzR7uXmYoTiB41TpQ2NZ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/niOqGpLXfJJOSzJy23oyvymY2vD.jpg",
+    "https://image.tmdb.org/t/p/w300/s9lYaXpKVcV6NC30tmB9ecDDoy7.jpg",
+    "https://image.tmdb.org/t/p/w300/mz4t3Z1N8bpx63di0cy6hYliKz4.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 30735,
+  "sources": [
+    "https://www.youtube.com/embed/OjlZFIY7VHU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/pr1ev32"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 53020,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 53020,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:27:14.903698"
 }
