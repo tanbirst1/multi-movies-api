@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-mask/",
+  "meta": {
+    "title": "The Mask",
+    "poster": "https://image.tmdb.org/t/p/w500/xbbXp9px4o8Oe7IbGd0yIbla8mZ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jul. 29, 1994",
+    "ratingValue": "8.3",
+    "ratingCount": "7",
+    "synopsis": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask\u2019s influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+    "infoFields": {
+      "Original title": "The Mask",
+      "IMDb Rating": "6.9 396,142 votes",
+      "TMDb Rating": "6.926 9,044 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Denis L. Stewart",
+      "role": "Director",
+      "url": "https://multimovies.city/director/denis-l-stewart/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Jim Carrey",
+      "role": "Stanley Ipkiss / The Mask",
+      "url": "https://multimovies.city/cast/jim-carrey/",
+      "image": "https://image.tmdb.org/t/p/w92/kuSlwTPsVlBMW0cvnFmbZce6PaV.jpg"
+    },
+    {
+      "name": "Cameron Diaz",
+      "role": "Tina Carlyle",
+      "url": "https://multimovies.city/cast/cameron-diaz/",
+      "image": "https://image.tmdb.org/t/p/w92/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "name": "Peter Riegert",
+      "role": "Lieutenant Mitch Kellaway",
+      "url": "https://multimovies.city/cast/peter-riegert/",
+      "image": "https://image.tmdb.org/t/p/w92/yPgaRZBMVy9eoNNuiPIm0wzG9sD.jpg"
+    },
+    {
+      "name": "Peter Greene",
+      "role": "Dorian Tyrrell",
+      "url": "https://multimovies.city/cast/peter-greene/",
+      "image": "https://image.tmdb.org/t/p/w92/d7TiuUSlihDEuutZrF8IYrzEX1S.jpg"
+    },
+    {
+      "name": "Amy Yasbeck",
+      "role": "Peggy Brandt",
+      "url": "https://multimovies.city/cast/amy-yasbeck/",
+      "image": "https://image.tmdb.org/t/p/w92/wDd71vFKUMJutO3fZjY2Pw0HWb.jpg"
+    },
+    {
+      "name": "Richard Jeni",
+      "role": "Charlie Schumaker",
+      "url": "https://multimovies.city/cast/richard-jeni/",
+      "image": "https://image.tmdb.org/t/p/w92/fyGOCHDImuNP9KDbGCQdkmg94vO.jpg"
+    },
+    {
+      "name": "Orestes Matacena",
+      "role": "Niko",
+      "url": "https://multimovies.city/cast/orestes-matacena/",
+      "image": "https://image.tmdb.org/t/p/w92/kBN6pmgyLs4LZ2IUAcxSQ8SsE13.jpg"
+    },
+    {
+      "name": "Tim Bagley",
+      "role": "Irv",
+      "url": "https://multimovies.city/cast/tim-bagley/",
+      "image": "https://image.tmdb.org/t/p/w92/l00IDn897RHTbTB7GcU1Pm9dKsO.jpg"
+    },
+    {
+      "name": "Nancy Fish",
+      "role": "Mrs. Peenman",
+      "url": "https://multimovies.city/cast/nancy-fish/",
+      "image": "https://image.tmdb.org/t/p/w92/4hsbpX8MaxXDQBh9T4IJZD3wGza.jpg"
+    },
+    {
+      "name": "Johnny Williams",
+      "role": "Burt",
+      "url": "https://multimovies.city/cast/johnny-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/mQNhYK7SCzj6TY6m764ROposuRY.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bdhA6nWf5IIyfiGjdegYPu0iK9e.jpg",
+    "https://image.tmdb.org/t/p/w300/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+    "https://image.tmdb.org/t/p/w300/qZkDZPYXMimZNF1x0jGYrgEnu0a.jpg",
+    "https://image.tmdb.org/t/p/w300/7n6mkgTtIY2GHLXBNpttGBe6CLR.jpg",
+    "https://image.tmdb.org/t/p/w300/80uHK2xWwjlOxmfJ1wQB09omAht.jpg",
+    "https://image.tmdb.org/t/p/w300/kQlLZ8JgzVhFH6hlZovZycQSxbP.jpg",
+    "https://image.tmdb.org/t/p/w300/e4M4lmu7RuQGSQrLY0J9rYw0UMB.jpg",
+    "https://image.tmdb.org/t/p/w300/74tAWSYLzfZIUo3u6zc4RqgYtzp.jpg",
+    "https://image.tmdb.org/t/p/w300/gJchZpO4i5akC4So6SvCNGsatrB.jpg",
+    "https://image.tmdb.org/t/p/w300/rriowhqbjDy0CQGlEURwOlfYtMr.jpg"
+  ],
+  "similar": [],
+  "views": 9877,
+  "sources": [
+    "https://www.youtube.com/embed/lcjN7zkgELM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/gb5ykyng06hn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5128,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5128,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
