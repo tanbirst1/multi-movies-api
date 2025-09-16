@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-godfather-part-iii/",
+  "meta": {
+    "title": "The Godfather Part III",
+    "poster": "https://image.tmdb.org/t/p/w500/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Dec. 25, 1990",
+    "ratingValue": "9.4",
+    "ratingCount": "7",
+    "synopsis": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+    "infoFields": {
+      "Original title": "The Godfather Part III",
+      "IMDb Rating": "7.6 406,081 votes",
+      "TMDb Rating": "7.424 5,413 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Francis Ford Coppola",
+      "role": "Director",
+      "url": "https://multimovies.city/director/francis-ford-coppola/",
+      "image": "https://image.tmdb.org/t/p/w92/mGKkVp3l9cipPt10AqoQnwaPrfI.jpg"
+    },
+    {
+      "name": "Al Pacino",
+      "role": "Michael Corleone",
+      "url": "https://multimovies.city/cast/al-pacino/",
+      "image": "https://image.tmdb.org/t/p/w92/fMDFeVf0pjopTJbyRSLFwNDm8Wr.jpg"
+    },
+    {
+      "name": "Diane Keaton",
+      "role": "Kay Adams",
+      "url": "https://multimovies.city/cast/diane-keaton/",
+      "image": "https://image.tmdb.org/t/p/w92/9WfaYj5iBMyDX4IJyM1bdMRD3x6.jpg"
+    },
+    {
+      "name": "Talia Shire",
+      "role": "Connie Corleone Rizzi",
+      "url": "https://multimovies.city/cast/talia-shire/",
+      "image": "https://image.tmdb.org/t/p/w92/due9MtmbvCMDd1aNveuMyjsaZ8W.jpg"
+    },
+    {
+      "name": "Andy Garc\u00eda",
+      "role": "Vincent Mancini",
+      "url": "https://multimovies.city/cast/andy-garcia/",
+      "image": "https://image.tmdb.org/t/p/w92/aRooE4lECWf0YXd2NefeM4Wu4rn.jpg"
+    },
+    {
+      "name": "Eli Wallach",
+      "role": "Don Altobello",
+      "url": "https://multimovies.city/cast/eli-wallach/",
+      "image": "https://image.tmdb.org/t/p/w92/cjOzKNXOrwc8ZgGWmJEM8A3HZ19.jpg"
+    },
+    {
+      "name": "Joe Mantegna",
+      "role": "Joey Zasa",
+      "url": "https://multimovies.city/cast/joe-mantegna/",
+      "image": "https://image.tmdb.org/t/p/w92/hFE8VNAykfZnvZjRhatVwjVXkZv.jpg"
+    },
+    {
+      "name": "George Hamilton",
+      "role": "B.J. Harrison",
+      "url": "https://multimovies.city/cast/george-hamilton/",
+      "image": "https://image.tmdb.org/t/p/w92/za0jt4pZEjHf3kzUecbIC6hpX7I.jpg"
+    },
+    {
+      "name": "Bridget Fonda",
+      "role": "Grace Hamilton",
+      "url": "https://multimovies.city/cast/bridget-fonda/",
+      "image": "https://image.tmdb.org/t/p/w92/k8ct3vqrs0TOATaDCe0gcu5K0Dz.jpg"
+    },
+    {
+      "name": "Sofia Coppola",
+      "role": "Mary Corleone",
+      "url": "https://multimovies.city/cast/sofia-coppola/",
+      "image": "https://image.tmdb.org/t/p/w92/dzHC2LxmarkBxWLhjp2DRa5oCev.jpg"
+    },
+    {
+      "name": "Raf Vallone",
+      "role": "Cardinal Lamberto",
+      "url": "https://multimovies.city/cast/raf-vallone/",
+      "image": "https://image.tmdb.org/t/p/w92/eVSCqn74tKqSwclLf7Vk15d2Ky2.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+    "https://image.tmdb.org/t/p/w300/9jzcBj3K3sOJe1yF73JEFPISIHE.jpg",
+    "https://image.tmdb.org/t/p/w300/cAKf3fnIV1AyDghzqI3xxjK1v0S.jpg",
+    "https://image.tmdb.org/t/p/w300/6exeovaF27FlGZTd7eUi5WMUUCr.jpg",
+    "https://image.tmdb.org/t/p/w300/gh6KNAyGTJMQ2yXTwKEHE09RoYp.jpg",
+    "https://image.tmdb.org/t/p/w300/uXRDkxz8GpQJrT8hWRvsYa5nRe6.jpg",
+    "https://image.tmdb.org/t/p/w300/csog0q5Ja1BS9ji3MeRRhzIgP22.jpg",
+    "https://image.tmdb.org/t/p/w300/mbliII96SMPhZQlCI9q0dhEKKWv.jpg",
+    "https://image.tmdb.org/t/p/w300/lcYfsq6CrjcLwDdCwpkAu1xZdvK.jpg",
+    "https://image.tmdb.org/t/p/w300/hKclH9FzCjwOo1DV8ORoIUhsZfM.jpg"
+  ],
+  "similar": [],
+  "views": 3648,
+  "sources": [
+    "https://www.youtube.com/embed/z8h3LVb8cl8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/y1fd8la4lxw6"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5471,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5471,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
