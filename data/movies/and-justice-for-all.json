@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/and-justice-for-all/",
+  "meta": {
+    "title": "\u2026And Justice for All",
+    "poster": "https://image.tmdb.org/t/p/w500/32NmJn0p4o9BdWVpEhuyxzwsqhL.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Oct. 19, 1979",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "An ethical Baltimore defense lawyer disgusted with rampant legal corruption is forced to defend a judge he despises in a rape trial under the threat of being disbarred.",
+    "infoFields": {
+      "Original title": "...And Justice for All",
+      "IMDb Rating": "7.4 42,439 votes",
+      "TMDb Rating": "7.068 533 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Norman Jewison",
+      "role": "Director",
+      "url": "https://multimovies.city/director/norman-jewison/",
+      "image": "https://image.tmdb.org/t/p/w92/1lAQLc0csazVyRYpYgvePpOoKG7.jpg"
+    },
+    {
+      "name": "Al Pacino",
+      "role": "Arthur Kirkland",
+      "url": "https://multimovies.city/cast/al-pacino/",
+      "image": "https://image.tmdb.org/t/p/w92/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpg"
+    },
+    {
+      "name": "Jack Warden",
+      "role": "Judge Francis Rayford",
+      "url": "https://multimovies.city/cast/jack-warden/",
+      "image": "https://image.tmdb.org/t/p/w92/hSShXiYMfRpMByaB5euZ59qCKN.jpg"
+    },
+    {
+      "name": "John Forsythe",
+      "role": "Judge Henry T. Fleming",
+      "url": "https://multimovies.city/cast/john-forsythe/",
+      "image": "https://image.tmdb.org/t/p/w92/lfhKEIepJXdIW9JVCZZ15ULYy8n.jpg"
+    },
+    {
+      "name": "Lee Strasberg",
+      "role": "Grandpa Sam",
+      "url": "https://multimovies.city/cast/lee-strasberg/",
+      "image": "https://image.tmdb.org/t/p/w92/niSM7ejzddgaTcxjgJMYEFCr9Y2.jpg"
+    },
+    {
+      "name": "Christine Lahti",
+      "role": "Gail Packer",
+      "url": "https://multimovies.city/cast/christine-lahti/",
+      "image": "https://image.tmdb.org/t/p/w92/qD52Z8GfBqm08QjvJnYESzYFPzf.jpg"
+    },
+    {
+      "name": "Craig T. Nelson",
+      "role": "Frank Bowers",
+      "url": "https://multimovies.city/cast/craig-t-nelson/",
+      "image": "https://image.tmdb.org/t/p/w92/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
+    },
+    {
+      "name": "Jeffrey Tambor",
+      "role": "Jay Porter",
+      "url": "https://multimovies.city/cast/jeffrey-tambor/",
+      "image": "https://image.tmdb.org/t/p/w92/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    },
+    {
+      "name": "Sam Levene",
+      "role": "Arnie",
+      "url": "https://multimovies.city/cast/sam-levene/",
+      "image": "https://image.tmdb.org/t/p/w92/kATWTkWQdPXS0Ry3OfiYrFHEg0L.jpg"
+    },
+    {
+      "name": "Robert Christian",
+      "role": "Ralph Agee",
+      "url": "https://multimovies.city/cast/robert-christian/",
+      "image": "https://image.tmdb.org/t/p/w92/u9YbOJae4k7IApLo19SuOl1fjRr.jpg"
+    },
+    {
+      "name": "Thomas G. Waites",
+      "role": "Jeff McCullaugh",
+      "url": "https://multimovies.city/cast/thomas-g-waites/",
+      "image": "https://image.tmdb.org/t/p/w92/ee9JbhZfPcn3tMMAgCAr6FPhSLV.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kPlCjRGUv5okUM8Zsa3xE0sSJHI.jpg",
+    "https://image.tmdb.org/t/p/w300/yGSLgHWMFMVnphaXmgRHx75HvBR.jpg",
+    "https://image.tmdb.org/t/p/w300/ysflAbvIhfWHY9eEKwnADgg4jyv.jpg",
+    "https://image.tmdb.org/t/p/w300/rSE7G4lmaTFgjj7KHIWlWoPo6q5.jpg",
+    "https://image.tmdb.org/t/p/w300/3CIx8OsKsJmbPR8Wbjv3tcEX9BF.jpg",
+    "https://image.tmdb.org/t/p/w300/AfVPJClzGmpHYLvMfKFb7xsEkIr.jpg",
+    "https://image.tmdb.org/t/p/w300/8qCBmyILR9OTWulrrdaj6rGYUUq.jpg",
+    "https://image.tmdb.org/t/p/w300/2Le14AZIvSfi08Cr2XA2UFJ8mdR.jpg"
+  ],
+  "similar": [],
+  "views": 281,
+  "sources": [
+    "https://www.youtube.com/embed/m6-tlGGKYcI?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/rkcr2rz"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 86593,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 86593,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
