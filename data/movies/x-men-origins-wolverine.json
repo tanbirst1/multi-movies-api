@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/x-men-origins-wolverine/",
+  "meta": {
+    "title": "X-Men 4 Origins: Wolverine",
+    "poster": "https://image.tmdb.org/t/p/w500/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      },
+      {
+        "name": "X-Men Collection",
+        "url": "https://multimovies.city/genre/x-men-collection/"
+      }
+    ],
+    "firstAirDate": "Apr. 28, 2009",
+    "ratingValue": "8.9",
+    "ratingCount": "9",
+    "synopsis": "After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.",
+    "infoFields": {
+      "Original title": "X-Men Origins: Wolverine",
+      "IMDb Rating": "6.5 528,585 votes",
+      "TMDb Rating": "6.263 10,057 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Gavin Hood",
+      "role": "Director",
+      "url": "https://multimovies.city/director/gavin-hood/",
+      "image": "https://image.tmdb.org/t/p/w92/2y2eX4m7qsDgbo51XAK6TE6dJon.jpg"
+    },
+    {
+      "name": "Hugh Jackman",
+      "role": "Logan / Wolverine / Weapon X",
+      "url": "https://multimovies.city/cast/hugh-jackman/",
+      "image": "https://image.tmdb.org/t/p/w92/5Dxx0j9jOAczsTQzZ0OkA5iJBhp.jpg"
+    },
+    {
+      "name": "Liev Schreiber",
+      "role": "Victor Creed / Sabretooth",
+      "url": "https://multimovies.city/cast/liev-schreiber/",
+      "image": "https://image.tmdb.org/t/p/w92/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+    },
+    {
+      "name": "Danny Huston",
+      "role": "William Stryker",
+      "url": "https://multimovies.city/cast/danny-huston/",
+      "image": "https://image.tmdb.org/t/p/w92/iiVgafHitV0IbJYbaSNtHcWHF7P.jpg"
+    },
+    {
+      "name": "Lynn Collins",
+      "role": "Kayla Silverfox / Silver Fox",
+      "url": "https://multimovies.city/cast/lynn-collins/",
+      "image": "https://image.tmdb.org/t/p/w92/9Dq6ZACdOE60ul6gwfRaCZQPQaC.jpg"
+    },
+    {
+      "name": "Taylor Kitsch",
+      "role": "Remy LeBeau / The Gambit",
+      "url": "https://multimovies.city/cast/taylor-kitsch/",
+      "image": "https://image.tmdb.org/t/p/w92/lnpp4g14fsLqI29KajEbJUsuBhf.jpg"
+    },
+    {
+      "name": "Dominic Monaghan",
+      "role": "Chris Bradley / Bolt",
+      "url": "https://multimovies.city/cast/dominic-monaghan/",
+      "image": "https://image.tmdb.org/t/p/w92/lOWmAvBu6evsj9MCcIHqy7Sg3iZ.jpg"
+    },
+    {
+      "name": "Kevin Durand",
+      "role": "Fred Dukes / Blob",
+      "url": "https://multimovies.city/cast/kevin-durand/",
+      "image": "https://image.tmdb.org/t/p/w92/Aajju2i04laxJl02FM5cSTRCKvq.jpg"
+    },
+    {
+      "name": "Will.i.am",
+      "role": "John Wraith / Kestrel",
+      "url": "https://multimovies.city/cast/will-i-am/",
+      "image": "https://image.tmdb.org/t/p/w92/uQgowLkEJyB5oBm34sqSKTPcZwv.jpg"
+    },
+    {
+      "name": "Daniel Henney",
+      "role": "David North / Agent Zero",
+      "url": "https://multimovies.city/cast/daniel-henney/",
+      "image": "https://image.tmdb.org/t/p/w92/4cxNfiABrndn6izXAt6TsjFfYBZ.jpg"
+    },
+    {
+      "name": "Ryan Reynolds",
+      "role": "Wade Wilson / Deadpool / Weapon XI",
+      "url": "https://multimovies.city/cast/ryan-reynolds/",
+      "image": "https://image.tmdb.org/t/p/w92/4SYTH5FdB0dAORV98Nwg3llgVnY.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wvqdJLVh0mSblly7UnYFPEk04Wd.jpg",
+    "https://image.tmdb.org/t/p/w300/5NfLoRClw1VZVgSQXGufEYR8GG3.jpg",
+    "https://image.tmdb.org/t/p/w300/kxDCq0RbHwVzVHUkxDi67Xilrrx.jpg",
+    "https://image.tmdb.org/t/p/w300/2TKqC9zrxPVSMIooMGrgRrRLRhJ.jpg",
+    "https://image.tmdb.org/t/p/w300/p4GzAzjlL7lXIVGvayg7zvzGTSi.jpg",
+    "https://image.tmdb.org/t/p/w300/fUoXenTsrdUcgG0sLYbOBouvtTs.jpg",
+    "https://image.tmdb.org/t/p/w300/M67DyU50o2YdGSQR7VK6ZOFAkl.jpg",
+    "https://image.tmdb.org/t/p/w300/y0crgu2eubXKNzaf9db9lL2cC0p.jpg",
+    "https://image.tmdb.org/t/p/w300/j5YeJy63wP2QrAmJbDCBNJSlPKp.jpg",
+    "https://image.tmdb.org/t/p/w300/cfEUpj7cUAdRzwOboTDwsy3YllH.jpg"
+  ],
+  "similar": [],
+  "views": 13583,
+  "sources": [
+    "https://www.youtube.com/embed/8TQ-gD4UCmI?autoplay=0&autohide=1",
+    "https://smoothpre.com/v/mybj9jqhdsd3"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5227,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5227,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:30:22.913636"
+}
