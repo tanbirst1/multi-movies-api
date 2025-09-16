@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/once-upon-a-time-in-mumbaai/",
+  "meta": {
+    "title": "Once Upon a Time in Mumbaai",
+    "poster": "https://image.tmdb.org/t/p/w500/qkPmQx9GMuwTDEuIUMoeN6DEqVA.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 30, 2010",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "A tale of two gangsters from the eras of past and present, whose lives enter parallel paths as they struggle to survive within Bombay\u2019s criminal underworld.",
+    "infoFields": {
+      "Original title": "Once Upon a Time in Mumbaai",
+      "IMDb Rating": "7.4 18,425 votes",
+      "TMDb Rating": "6.617 77 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Milan Luthria",
+      "role": "Director",
+      "url": "https://multimovies.city/director/milan-luthria/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ajay Devgn",
+      "role": "Sultan Mirza",
+      "url": "https://multimovies.city/cast/ajay-devgn/",
+      "image": "https://image.tmdb.org/t/p/w92/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg"
+    },
+    {
+      "name": "Emraan Hashmi",
+      "role": "Shoaib Khan",
+      "url": "https://multimovies.city/cast/emraan-hashmi/",
+      "image": "https://image.tmdb.org/t/p/w92/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+      "name": "Kangana Ranaut",
+      "role": "Rehana Shergill",
+      "url": "https://multimovies.city/cast/kangana-ranaut/",
+      "image": "https://image.tmdb.org/t/p/w92/lHT1pojfQdDpAxPZYx0js2eo5KI.jpg"
+    },
+    {
+      "name": "Prachi Desai",
+      "role": "Mumtaz",
+      "url": "https://multimovies.city/cast/prachi-desai/",
+      "image": "https://image.tmdb.org/t/p/w92/mCAEnf26tFNKzjX09vuguE43rT3.jpg"
+    },
+    {
+      "name": "Randeep Hooda",
+      "role": "Agnel Wilson",
+      "url": "https://multimovies.city/cast/randeep-hooda/",
+      "image": "https://image.tmdb.org/t/p/w92/fF6G3MlCfq6pH1YkHrFVDhe9Uvw.jpg"
+    },
+    {
+      "name": "Gauahar Khan",
+      "role": "Special Appearance in \"Parda\" Song",
+      "url": "https://multimovies.city/cast/gauahar-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/95PB71HAHg8sVXA6aPzVqAURKkl.jpg"
+    },
+    {
+      "name": "Naved Aslam",
+      "role": "Patrick",
+      "url": "https://multimovies.city/cast/naved-aslam/",
+      "image": "https://image.tmdb.org/t/p/w92/wz7ro8cFCdMZD8XXUuAe9PdaFrE.jpg"
+    },
+    {
+      "name": "Asif Basra",
+      "role": "Hussain Khan",
+      "url": "https://multimovies.city/cast/asif-basra/",
+      "image": "https://image.tmdb.org/t/p/w92/dHxkTrfEnreC77vRS0SVtaebDQI.jpg"
+    },
+    {
+      "name": "Avtar Gill",
+      "role": "Jeet Kumar Rathi",
+      "url": "https://multimovies.city/cast/avtar-gill/",
+      "image": "https://image.tmdb.org/t/p/w92/7KW5VrxETpM3FMMXOxBXu2ppflr.jpg"
+    },
+    {
+      "name": "Sushil Pandey",
+      "role": "Iqbal",
+      "url": "https://multimovies.city/cast/sushil-pandey/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vHIxxJH9P8YZhuzO0D1KtnSCBD8.jpg"
+  ],
+  "similar": [],
+  "views": 2653,
+  "sources": [
+    "https://multimoviesshg.com/e/biuete2o0v1f"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 35286,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:44:06.038474"
+}
