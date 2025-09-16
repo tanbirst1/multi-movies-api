@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/boom/",
+  "meta": {
+    "title": "Boom",
+    "poster": "https://image.tmdb.org/t/p/w500/ctNn9pZpLm7x5hvMw3rlfj48FEF.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 19, 2003",
+    "ratingValue": "1",
+    "ratingCount": "1",
+    "synopsis": "The fashion world meets the underworld in BOOM, written and directed by Kaizad Gustad and produced by Ayesha Shroff under the banner of Quest Films",
+    "infoFields": {
+      "Original title": "Boom",
+      "TMDb Rating": "5.4 20 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kaizad Gustad",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kaizad-gustad/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Bade Mia",
+      "url": "https://multimovies.city/cast/amitabh-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/u69PvpWqGkywSm0YjFiw77j9eqS.jpg"
+    },
+    {
+      "name": "Katrina Kaif",
+      "role": "Rina Kaif",
+      "url": "https://multimovies.city/cast/katrina-kaif/",
+      "image": "https://image.tmdb.org/t/p/w92/4EAYTJvGdt4NYl2BUKZMdz4lztR.jpg"
+    },
+    {
+      "name": "Madhu Sapre",
+      "role": "Anu Gaekwad",
+      "url": "https://multimovies.city/cast/madhu-sapre/",
+      "image": "https://image.tmdb.org/t/p/w92/5yLib0jlmSljOoiVsnzvrgSO9M0.jpg"
+    },
+    {
+      "name": "Padma Lakshmi",
+      "role": "Shiela Bardez",
+      "url": "https://multimovies.city/cast/padma-lakshmi/",
+      "image": "https://image.tmdb.org/t/p/w92/zOMJUovtprggxfbKl5i7EUEhYs.jpg"
+    },
+    {
+      "name": "Gulshan Grover",
+      "role": "Saleem Ahmad 'Cut-Piece Saleem Suiting Shirting' aka Meduim Mia",
+      "url": "https://multimovies.city/cast/gulshan-grover/",
+      "image": "https://image.tmdb.org/t/p/w92/hmGFOgCnYVUpeY1gTc0gx4QUCOF.jpg"
+    },
+    {
+      "name": "Jackie Shroff",
+      "role": "Abdul Wahab Barkatali Al Sabunchi 50 / 50 aka Chotte Mia",
+      "url": "https://multimovies.city/cast/jackie-shroff/",
+      "image": "https://image.tmdb.org/t/p/w92/1UNJypgEyuihUW2avLLVYj76jie.jpg"
+    },
+    {
+      "name": "Javed Jaffrey",
+      "role": "Boom Shankar aka Boom Boom",
+      "url": "https://multimovies.city/cast/javed-jaffrey/",
+      "image": "https://image.tmdb.org/t/p/w92/5JvPPxLsDEUFy6qDVawM3Itl6NV.jpg"
+    },
+    {
+      "name": "Bo Derek",
+      "role": "Bo Derek",
+      "url": "https://multimovies.city/cast/bo-derek/",
+      "image": "https://image.tmdb.org/t/p/w92/mmCo56529hEkYZ2KV9ilWS8HXRX.jpg"
+    },
+    {
+      "name": "Zeenat Aman",
+      "role": "Alice Rodriguez De Fonseca",
+      "url": "https://multimovies.city/cast/zeenat-aman/",
+      "image": "https://image.tmdb.org/t/p/w92/jMfP7et1SXfI3nllP2QDHApb8NB.jpg"
+    },
+    {
+      "name": "Seema Biswas",
+      "role": "Bharti",
+      "url": "https://multimovies.city/cast/seema-biswas/",
+      "image": "https://image.tmdb.org/t/p/w92/nRd9anbVgvsRrWbH3G09nWTThHp.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/dsRrrwHcZPS7Xb4VK8MCCoDd1Py.jpg",
+    "https://image.tmdb.org/t/p/w300/fA7d369xj7v1Zv0cQKzJD3ulL8Z.jpg",
+    "https://image.tmdb.org/t/p/w300/gimo6Joyw72qQKrD6fVXhrEduys.jpg",
+    "https://image.tmdb.org/t/p/w300/85cMEaMc4vHNGFY87h5usHMns51.jpg",
+    "https://image.tmdb.org/t/p/w300/71y4alTqhl7q4wmfCLC8eTMn9nJ.jpg",
+    "https://image.tmdb.org/t/p/w300/lik1mskEcQMvipVdEGKzbYnIvVA.jpg",
+    "https://image.tmdb.org/t/p/w300/xpGk3yayEwghX6iv0k60nk8tjUh.jpg",
+    "https://image.tmdb.org/t/p/w300/l39HSlcw2kYoyGiw7nZbhvIGpZJ.jpg"
+  ],
+  "similar": [],
+  "views": 677,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/ponvbyl"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 92982,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:46:35.752623"
+}
