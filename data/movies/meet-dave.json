@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/meet-dave/",
+  "meta": {
+    "title": "Meet Dave",
+    "poster": "https://image.tmdb.org/t/p/w500/3Qfav5aVRcZmq854olMjJ795JJ2.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jul. 08, 2008",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A crew of miniature aliens operate a spaceship that has a human form. While trying to save their planet, the aliens encounter a new problem, as their ship becomes smitten with an Earth woman.",
+    "infoFields": {
+      "Original title": "Meet Dave",
+      "IMDb Rating": "5.1 44,506 votes",
+      "TMDb Rating": "5.278 1,424 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Brian Robbins",
+      "role": "Director",
+      "url": "https://multimovies.city/director/brian-robbins/",
+      "image": "https://image.tmdb.org/t/p/w92/zac1aXzDsp5J93NntcvAbvlW12S.jpg"
+    },
+    {
+      "name": "Eddie Murphy",
+      "role": "Dave / Captain",
+      "url": "https://multimovies.city/cast/eddie-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "name": "Elizabeth Banks",
+      "role": "Gina Morrison",
+      "url": "https://multimovies.city/cast/elizabeth-banks/",
+      "image": "https://image.tmdb.org/t/p/w92/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg"
+    },
+    {
+      "name": "Gabrielle Union",
+      "role": "No. 3 - Cultural Officer",
+      "url": "https://multimovies.city/cast/gabrielle-union/",
+      "image": "https://image.tmdb.org/t/p/w92/toeSCybsYufRKfgz77AKy4C8axD.jpg"
+    },
+    {
+      "name": "Scott Caan",
+      "role": "Dooley",
+      "url": "https://multimovies.city/cast/scott-caan/",
+      "image": "https://image.tmdb.org/t/p/w92/67V8YrMglGzvuTOZGpqygDhNK1z.jpg"
+    },
+    {
+      "name": "Ed Helms",
+      "role": "No. 2 - Second-in-Command",
+      "url": "https://multimovies.city/cast/ed-helms/",
+      "image": "https://image.tmdb.org/t/p/w92/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+      "name": "Kevin Hart",
+      "role": "No. 17",
+      "url": "https://multimovies.city/cast/kevin-hart/",
+      "image": "https://image.tmdb.org/t/p/w92/byiNydUlM6oP8diA7WMvYbNM7a1.jpg"
+    },
+    {
+      "name": "Mike O'Malley",
+      "role": "Knox",
+      "url": "https://multimovies.city/cast/mike-omalley/",
+      "image": "https://image.tmdb.org/t/p/w92/q5T34bdF9BhQ6N95I8b6pzUM8KQ.jpg"
+    },
+    {
+      "name": "Pat Kilbane",
+      "role": "No. 4 - Security Officer",
+      "url": "https://multimovies.city/cast/pat-kilbane/",
+      "image": "https://image.tmdb.org/t/p/w92/nsFE97WfUOO8lvpnD1mu7rZ99Qs.jpg"
+    },
+    {
+      "name": "Judah Friedlander",
+      "role": "Engineer",
+      "url": "https://multimovies.city/cast/judah-friedlander/",
+      "image": "https://image.tmdb.org/t/p/w92/i4YQ8LGIlSNLCdpKURpRnuucgSr.jpg"
+    },
+    {
+      "name": "Marc Blucas",
+      "role": "Mark",
+      "url": "https://multimovies.city/cast/marc-blucas/",
+      "image": "https://image.tmdb.org/t/p/w92/zQrZosMrd5pDWTaoOIHcbfeFOQS.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/azheZwmLAiWZyDuL416NL0IxvFp.jpg",
+    "https://image.tmdb.org/t/p/w300/xw5ohWPLROEmlDJ1S5EdO55e0b6.jpg",
+    "https://image.tmdb.org/t/p/w300/e6phsqIH3cEJoAphHOetS8p1DZ2.jpg",
+    "https://image.tmdb.org/t/p/w300/ny720czM3XH2pTtMnhSJEyxeDQb.jpg",
+    "https://image.tmdb.org/t/p/w300/yJy1IgKjhpXGb1zx7NGrf7roA3v.jpg",
+    "https://image.tmdb.org/t/p/w300/8trcuT54sGIVmbsT7ZdwvGx3nSz.jpg"
+  ],
+  "similar": [],
+  "views": 2649,
+  "sources": [
+    "https://www.youtube.com/embed/8GCeBhbo_W0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/j11o5yf"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 73839,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 73839,
+      "nume": 1,
+      "title": "HF"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:20:03.354078"
+}
