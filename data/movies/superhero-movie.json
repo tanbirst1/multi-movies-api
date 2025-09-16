@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/superhero-movie/",
+  "meta": {
+    "title": "Superhero Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/4MtvQdh5VP7jMSydhggp1P80FMj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Mar. 28, 2008",
+    "ratingValue": "7.8",
+    "ratingCount": "6",
+    "synopsis": "The team behind Scary Movie takes on the comic book genre in this tale of Rick Riker, a nerdy teen imbued with superpowers by a radioactive dragonfly. And because every hero needs a nemesis, enter Lou Landers, aka the villainously goofy Hourglass.",
+    "infoFields": {
+      "Original title": "Superhero Movie",
+      "IMDb Rating": "4.7 78,421 votes",
+      "TMDb Rating": "5.3 1,831 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jim Abrahams",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jim-abrahams/",
+      "image": "https://image.tmdb.org/t/p/w92/22B24mvWEkorhoxEOPCxNcYdcTX.jpg"
+    },
+    {
+      "name": "Drake Bell",
+      "role": "Dragonfly",
+      "url": "https://multimovies.city/cast/drake-bell/",
+      "image": "https://image.tmdb.org/t/p/w92/cXYF6s9D6YdwVQQkhF2SClFW6mi.jpg"
+    },
+    {
+      "name": "Sara Paxton",
+      "role": "Jill Johnson",
+      "url": "https://multimovies.city/cast/sara-paxton/",
+      "image": "https://image.tmdb.org/t/p/w92/DWrjFhjSLY4EFanCMKNPrUmP2p.jpg"
+    },
+    {
+      "name": "Christopher McDonald",
+      "role": "Lou Landers",
+      "url": "https://multimovies.city/cast/christopher-mcdonald/",
+      "image": "https://image.tmdb.org/t/p/w92/bOKl8EPOKe0oWD15HxUKH1ugesg.jpg"
+    },
+    {
+      "name": "Leslie Nielsen",
+      "role": "Uncle Albert Adams",
+      "url": "https://multimovies.city/cast/leslie-nielsen/",
+      "image": "https://image.tmdb.org/t/p/w92/u5vWl5dw69Nf89f905Qb5JqEVL3.jpg"
+    },
+    {
+      "name": "Kevin Hart",
+      "role": "Trey",
+      "url": "https://multimovies.city/cast/kevin-hart/",
+      "image": "https://image.tmdb.org/t/p/w92/7OwsFfoxNGIfWwSmdORyB7v8XNj.jpg"
+    },
+    {
+      "name": "Marion Ross",
+      "role": "Aunt Lucille",
+      "url": "https://multimovies.city/cast/marion-ross/",
+      "image": "https://image.tmdb.org/t/p/w92/eZpOYvFoJnej8n7aKSi2LVvvlQu.jpg"
+    },
+    {
+      "name": "Ryan Hansen",
+      "role": "Lance Landers",
+      "url": "https://multimovies.city/cast/ryan-hansen/",
+      "image": "https://image.tmdb.org/t/p/w92/n4d1DiK3KyrQNN3G2QKt4Tos53Q.jpg"
+    },
+    {
+      "name": "Keith David",
+      "role": "The Chief of Police",
+      "url": "https://multimovies.city/cast/keith-david/",
+      "image": "https://image.tmdb.org/t/p/w92/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg"
+    },
+    {
+      "name": "Brent Spiner",
+      "role": "Dr. Strom",
+      "url": "https://multimovies.city/cast/brent-spiner/",
+      "image": "https://image.tmdb.org/t/p/w92/wHaOTfxOEKOPssDYaSSB5zenml4.jpg"
+    },
+    {
+      "name": "Robert Joy",
+      "role": "Dr. Hawking",
+      "url": "https://multimovies.city/cast/robert-joy/",
+      "image": "https://image.tmdb.org/t/p/w92/kPY9ggs4qCi3oeEvkYP17Yvfm5r.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/t05qZHX3dNp9fLi7mw5i5t5HgU0.jpg",
+    "https://image.tmdb.org/t/p/w300/jHcaOWzq3ACp6U6mxdLW4NAh3Ui.jpg",
+    "https://image.tmdb.org/t/p/w300/2Y7UAYeq11TSzi7OtgSSuVHu89g.jpg",
+    "https://image.tmdb.org/t/p/w300/j5Ro3j2ozKwXMD0nyUhWzTZSNN7.jpg",
+    "https://image.tmdb.org/t/p/w300/7TBymBMKqu3cv43WwJVzQsGqrTu.jpg",
+    "https://image.tmdb.org/t/p/w300/e9u56cprnT2eQec3P2yYKGHva22.jpg",
+    "https://image.tmdb.org/t/p/w300/2GC4HK5Ogq6jyjcml1pmEEIrIY7.jpg",
+    "https://image.tmdb.org/t/p/w300/8MroXrwIblaec6ki6Gppash0eJN.jpg",
+    "https://image.tmdb.org/t/p/w300/4kObsxhwx3hxHJaytPpgpkngbz1.jpg"
+  ],
+  "similar": [],
+  "views": 6806,
+  "sources": [
+    "https://www.youtube.com/embed/Ht6zgO94Xmg?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/dqavfgi"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 13353,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 13353,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:16:57.723129"
+}
