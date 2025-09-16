@@ -1,0 +1,167 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-village/",
+  "meta": {
+    "title": "The Village {English With Subtitles}",
+    "poster": "https://image.tmdb.org/t/p/w500/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 30, 2004",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "When a willful young man tries to venture beyond his sequestered Pennsylvania hamlet, his actions set off a chain of chilling incidents that will alter the community forever.",
+    "infoFields": {
+      "Original title": "The Village",
+      "IMDb Rating": "6.6 268,548 votes",
+      "TMDb Rating": "6.446 3,661 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "M. Night Shyamalan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/m-night-shyamalan/",
+      "image": "https://image.tmdb.org/t/p/w92/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "role": "Ivy Walker",
+      "url": "https://multimovies.city/cast/bryce-dallas-howard/",
+      "image": "https://image.tmdb.org/t/p/w92/qQX1rhQaJ1G8eMG2RknFKiXfNRc.jpg"
+    },
+    {
+      "name": "Joaquin Phoenix",
+      "role": "Lucius Hunt",
+      "url": "https://multimovies.city/cast/joaquin-phoenix/",
+      "image": "https://image.tmdb.org/t/p/w92/oe0ydnDvQJCTbAb2r5E1asVXoCP.jpg"
+    },
+    {
+      "name": "Adrien Brody",
+      "role": "Noah Percy",
+      "url": "https://multimovies.city/cast/adrien-brody/",
+      "image": "https://image.tmdb.org/t/p/w92/1dBItgLFBNGEXnI48VvnnN2vFaX.jpg"
+    },
+    {
+      "name": "William Hurt",
+      "role": "Edward Walker",
+      "url": "https://multimovies.city/cast/william-hurt/",
+      "image": "https://image.tmdb.org/t/p/w92/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Alice Hunt",
+      "url": "https://multimovies.city/cast/sigourney-weaver/",
+      "image": "https://image.tmdb.org/t/p/w92/sHWCLx54yLtaFtppp5ADjAsrWIc.jpg"
+    },
+    {
+      "name": "Brendan Gleeson",
+      "role": "August Nicholson",
+      "url": "https://multimovies.city/cast/brendan-gleeson/",
+      "image": "https://image.tmdb.org/t/p/w92/379TXtBPRrkBDrEBWPQ5v3up7kT.jpg"
+    },
+    {
+      "name": "Cherry Jones",
+      "role": "Mrs. Clack",
+      "url": "https://multimovies.city/cast/cherry-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/eAq9waPDjKV9kaKiiCT5x7vR0o.jpg"
+    },
+    {
+      "name": "Celia Weston",
+      "role": "Vivian Percy",
+      "url": "https://multimovies.city/cast/celia-weston/",
+      "image": "https://image.tmdb.org/t/p/w92/pQYygvqfmKnK4weuUCLUX45q5AJ.jpg"
+    },
+    {
+      "name": "John Christopher Jones",
+      "role": "Robert Percy",
+      "url": "https://multimovies.city/cast/john-christopher-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/sfibl2Fsjjiqys78qXRGjXXxZIC.jpg"
+    },
+    {
+      "name": "Frank Collison",
+      "role": "Victor",
+      "url": "https://multimovies.city/cast/frank-collison/",
+      "image": "https://image.tmdb.org/t/p/w92/cAlwrKbHtxhUieDTbqnYTg4F5dY.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kfoIyczJCpnv5c4MJahmyVOiYB2.jpg",
+    "https://image.tmdb.org/t/p/w300/4NEPvnsX4kzPZOlOg01Ahu2CfPl.jpg",
+    "https://image.tmdb.org/t/p/w300/qyK3CqhzfG270TlocoNBDtMp8HJ.jpg",
+    "https://image.tmdb.org/t/p/w300/kvx7bCHYcQT8JXmldT89EYMw7W9.jpg",
+    "https://image.tmdb.org/t/p/w300/iW2CDUOUkNCq3SlhVejfw3FqbOy.jpg",
+    "https://image.tmdb.org/t/p/w300/9iQX3pcSrx2eoB0ePDaT1Ch2Xdl.jpg",
+    "https://image.tmdb.org/t/p/w300/rVOv0FPIAPY8KNhjwhU47rubxwV.jpg",
+    "https://image.tmdb.org/t/p/w300/hGJ7aub1TgMCT4T3EZ92sA8Wydt.jpg",
+    "https://image.tmdb.org/t/p/w300/6P6mwJG9oY5JymXuAhI97L5GuHG.jpg",
+    "https://image.tmdb.org/t/p/w300/lxwCRTWWfCisuarrFFUhW43eBnW.jpg"
+  ],
+  "similar": [],
+  "views": 2042,
+  "sources": [
+    "https://www.youtube.com/embed/c7TL1BZegLo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/qk0ozfuxweh0",
+    "https://sbplay.org/embed-mokkzirk72ro.html",
+    "https://dood.la/e/4ojwhhmerp18",
+    "https://mixdrop.co/e/9n776ggja6mqeo",
+    "https://hydrax.net/watch?v=bA2RJRDYtX"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20170,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 20170,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 20170,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 20170,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 20170,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 20170,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:50:58.228853"
+}
