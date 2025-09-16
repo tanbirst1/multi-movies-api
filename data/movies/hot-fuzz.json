@@ -1,0 +1,167 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hot-fuzz/",
+  "meta": {
+    "title": "Hot Fuzz",
+    "poster": "https://image.tmdb.org/t/p/w500/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 14, 2007",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "As a former London constable, Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.",
+    "infoFields": {
+      "Original title": "Hot Fuzz",
+      "IMDb Rating": "7.8 515,225 votes",
+      "TMDb Rating": "7.546 6,688 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Edgar Wright",
+      "role": "Director",
+      "url": "https://multimovies.city/director/edgar-wright/",
+      "image": "https://image.tmdb.org/t/p/w92/dQzv5Ml2SkelS33hgl7E2oh0a9S.jpg"
+    },
+    {
+      "name": "Simon Pegg",
+      "role": "Nicholas Angel",
+      "url": "https://multimovies.city/cast/simon-pegg/",
+      "image": "https://image.tmdb.org/t/p/w92/nOWKXxgADG98RjKyfQ7oSDfns6J.jpg"
+    },
+    {
+      "name": "Nick Frost",
+      "role": "PC Danny Butterman",
+      "url": "https://multimovies.city/cast/nick-frost/",
+      "image": "https://image.tmdb.org/t/p/w92/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
+    },
+    {
+      "name": "Jim Broadbent",
+      "role": "Inspector Frank Butterman",
+      "url": "https://multimovies.city/cast/jim-broadbent/",
+      "image": "https://image.tmdb.org/t/p/w92/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg"
+    },
+    {
+      "name": "Paddy Considine",
+      "role": "DS Andy Wainwright",
+      "url": "https://multimovies.city/cast/paddy-considine/",
+      "image": "https://image.tmdb.org/t/p/w92/uIKOm4w2wtUegxratSHj2KPFF7i.jpg"
+    },
+    {
+      "name": "Rafe Spall",
+      "role": "DC Andy Cartwright",
+      "url": "https://multimovies.city/cast/rafe-spall/",
+      "image": "https://image.tmdb.org/t/p/w92/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg"
+    },
+    {
+      "name": "Kevin Eldon",
+      "role": "Sergeant Tony Fisher",
+      "url": "https://multimovies.city/cast/kevin-eldon/",
+      "image": "https://image.tmdb.org/t/p/w92/1S3ft0f71Hho9QlHUnuyJVHrfKH.jpg"
+    },
+    {
+      "name": "Olivia Colman",
+      "role": "PC Doris Thatcher",
+      "url": "https://multimovies.city/cast/olivia-colman/",
+      "image": "https://image.tmdb.org/t/p/w92/4ZwZ66zXZyX26Kf2wfeMt1tQZQf.jpg"
+    },
+    {
+      "name": "Bill Bailey",
+      "role": "Sergeant Turner",
+      "url": "https://multimovies.city/cast/bill-bailey/",
+      "image": "https://image.tmdb.org/t/p/w92/hA3vK90snmnt1xtuJR4Iac0YRXe.jpg"
+    },
+    {
+      "name": "Karl Johnson",
+      "role": "PC Bob Walker",
+      "url": "https://multimovies.city/cast/karl-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/mXEFmNvs64YOB2AbBi7rZ57rTvW.jpg"
+    },
+    {
+      "name": "Timothy Dalton",
+      "role": "Simon Skinner",
+      "url": "https://multimovies.city/cast/timothy-dalton/",
+      "image": "https://image.tmdb.org/t/p/w92/iF4C63jae3N33pCQmCXEJHKTN0t.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/e1rPzkIcBEJiAd3piGirt7qVux7.jpg",
+    "https://image.tmdb.org/t/p/w300/uFUm3ehg69VwtHf3ryMzPZXqRtd.jpg",
+    "https://image.tmdb.org/t/p/w300/bj4qahXoaHfdl1CwJ5oox1UMN1o.jpg",
+    "https://image.tmdb.org/t/p/w300/jD3nMLR7XM5wrlv1DXZC17ogbeV.jpg",
+    "https://image.tmdb.org/t/p/w300/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+    "https://image.tmdb.org/t/p/w300/6HpGrNn0Z81DvNNx0Fg4y9Z6cdl.jpg",
+    "https://image.tmdb.org/t/p/w300/r41cxYfRjFSF0bGBMoin0UuMKT8.jpg",
+    "https://image.tmdb.org/t/p/w300/sQQHDcY7GMJNZ5cK8qE0sb79QtU.jpg",
+    "https://image.tmdb.org/t/p/w300/zaLWfUE6AG5ZexaSB43o7t3VHt1.jpg",
+    "https://image.tmdb.org/t/p/w300/s0GxC0QXr2sOVXOokbydC2g0ZhF.jpg"
+  ],
+  "similar": [],
+  "views": 1311,
+  "sources": [
+    "https://www.youtube.com/embed/L6PKkxn7pq0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/vamdgvqmta3k",
+    "https://sbplay.org/embed-tkovh0t80sho.html",
+    "https://dood.la/e/3xa2xx1bwizh",
+    "https://mixdrop.co/e/gnl4q6nwsnw7z1",
+    "https://hydrax.net/watch?v=AJQEbWZFqk"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 9781,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 9781,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 9781,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 9781,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 9781,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 9781,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:10:40.245374"
+}
