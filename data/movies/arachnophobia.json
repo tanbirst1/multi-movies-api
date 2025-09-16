@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/arachnophobia/",
+  "meta": {
+    "title": "Arachnophobia",
+    "poster": "https://image.tmdb.org/t/p/w500/lHjpwv1Yv2RcGcTQb4Lc1cKw1y9.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Jul. 20, 1990",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "A large spider from the jungles of South America is accidentally transported in a crate with a dead body to America where it mates with a local spider. Soon after, the residents of a small California town disappear as the result of spider bites from the deadly spider offspring. It\u2019s up to a couple of doctors with the help of an insect exterminator to annihilate these eight legged freaks.",
+    "infoFields": {
+      "Original title": "Arachnophobia",
+      "IMDb Rating": "6.5 75,018 votes",
+      "TMDb Rating": "6.365 1,277 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Bruce Cohen",
+      "role": "Director",
+      "url": "https://multimovies.city/director/bruce-cohen/",
+      "image": "https://image.tmdb.org/t/p/w92/v40byHjEBXfuBj2OuqvM5YGPF6E.jpg"
+    },
+    {
+      "name": "Jeff Daniels",
+      "role": "Dr. Ross Jennings",
+      "url": "https://multimovies.city/cast/jeff-daniels/",
+      "image": "https://image.tmdb.org/t/p/w92/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
+    },
+    {
+      "name": "Harley Jane Kozak",
+      "role": "Molly Jennings",
+      "url": "https://multimovies.city/cast/harley-jane-kozak/",
+      "image": "https://image.tmdb.org/t/p/w92/9BMCJq4owniBRXkf8y8kEN12JTS.jpg"
+    },
+    {
+      "name": "John Goodman",
+      "role": "Delbert McClintock",
+      "url": "https://multimovies.city/cast/john-goodman/",
+      "image": "https://image.tmdb.org/t/p/w92/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    },
+    {
+      "name": "Julian Sands",
+      "role": "Doctor James Atherton",
+      "url": "https://multimovies.city/cast/julian-sands/",
+      "image": "https://image.tmdb.org/t/p/w92/8TYtEyKZle2B3cUYT7FBM9HJRtZ.jpg"
+    },
+    {
+      "name": "Brian McNamara",
+      "role": "Chris Collins",
+      "url": "https://multimovies.city/cast/brian-mcnamara/",
+      "image": "https://image.tmdb.org/t/p/w92/pPuMmkeEQj7JPvxclKYXLacwHW7.jpg"
+    },
+    {
+      "name": "Stuart Pankin",
+      "role": "Sheriff Lloyd Parsons",
+      "url": "https://multimovies.city/cast/stuart-pankin/",
+      "image": "https://image.tmdb.org/t/p/w92/9Zjv5YDfjrBKwCCEslb4Rkrx87V.jpg"
+    },
+    {
+      "name": "Henry Jones",
+      "role": "Doctor Sam Metcalf",
+      "url": "https://multimovies.city/cast/henry-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/8rBuIpP5Wlzoh8ow7cp5bOekedU.jpg"
+    },
+    {
+      "name": "Peter Jason",
+      "role": "Henry Beechwood",
+      "url": "https://multimovies.city/cast/peter-jason/",
+      "image": "https://image.tmdb.org/t/p/w92/xoqIuVvEH6BG6sOg4NnZzUKFnaf.jpg"
+    },
+    {
+      "name": "Mark L. Taylor",
+      "role": "Jerry Manley",
+      "url": "https://multimovies.city/cast/mark-l-taylor/",
+      "image": "https://image.tmdb.org/t/p/w92/aUeetSgCWR3tOrJ6RoD77zkPHdO.jpg"
+    },
+    {
+      "name": "James Handy",
+      "role": "Milton Briggs",
+      "url": "https://multimovies.city/cast/james-handy/",
+      "image": "https://image.tmdb.org/t/p/w92/j2vG5tc8OcpcKG8eufBEMn2oiqZ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/CTcfWsVAw524RZwIqb1DhokhRU.jpg",
+    "https://image.tmdb.org/t/p/w300/ge8U7UCl53HPvXV9HXfBcpyIFkE.jpg",
+    "https://image.tmdb.org/t/p/w300/o7ZlMaUslobPuFuHskUbZya5zRp.jpg",
+    "https://image.tmdb.org/t/p/w300/w1PDaPJuW3D1TfSxesY7nGZZYS7.jpg",
+    "https://image.tmdb.org/t/p/w300/AilzFyGx2YzShgy4W3xuUJ7cptK.jpg",
+    "https://image.tmdb.org/t/p/w300/2UZiSg6R6MfQ5L6mbcazj0DToYh.jpg",
+    "https://image.tmdb.org/t/p/w300/ekh8wX6t8UFEQL4JEcRDsMEKlHc.jpg",
+    "https://image.tmdb.org/t/p/w300/doM5EONCuuS6mPa83rc26QDGpS3.jpg"
+  ],
+  "similar": [],
+  "views": 641,
+  "sources": [
+    "https://www.youtube.com/embed/cO5a6edSsPo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/kpa2jkdy4hkh"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 38461,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 38461,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
