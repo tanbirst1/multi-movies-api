@@ -4,15 +4,123 @@
   "meta": {
     "title": "Aa ab Laut Chalen",
     "poster": "https://image.tmdb.org/t/p/w500/w87ziVrS9aWGW3WvDU6VJb2jXDQ.jpg",
-    "synopsis": "An ambitious, unemployed youth goes to the US to find a job and gets caught in a love triangle between Pooja and Loveleen. However, he soon realises that he loves Pooja and reconciles with her."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jan. 22, 1999",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "An ambitious, unemployed youth goes to the US to find a job and gets caught in a love triangle between Pooja and Loveleen. However, he soon realises that he loves Pooja and reconciles with her.",
+    "infoFields": {
+      "Original title": "\u0906 \u0905\u092c \u0932\u094c\u091f \u091a\u0932\u0947\u0902",
+      "IMDb Rating": "5.4 2,055 votes",
+      "TMDb Rating": "5.5 17 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Rishi Kapoor",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rishi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/yQOKkmQaksa3hOi72MbPnrqz77k.jpg"
+    },
+    {
+      "name": "Aishwarya Rai Bachchan",
+      "role": "Pooja Walia",
+      "url": "https://multimovies.city/cast/aishwarya-rai-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/cfZ05qqCNoSUYmBwsb4cVzKM0YB.jpg"
+    },
+    {
+      "name": "Akshaye Khanna",
+      "role": "Rohan Khanna",
+      "url": "https://multimovies.city/cast/akshaye-khanna/",
+      "image": "https://image.tmdb.org/t/p/w92/ywJ1z6LLrXnoovca03SQ5xNl6RU.jpg"
+    },
+    {
+      "name": "Rajesh Khanna",
+      "role": "Balraaj Khanna",
+      "url": "https://multimovies.city/cast/rajesh-khanna/",
+      "image": "https://image.tmdb.org/t/p/w92/ib2dKK9lDp4mt4RDROpiptOjm6Y.jpg"
+    },
+    {
+      "name": "Moushumi Chatterjee",
+      "role": "Rama Khanna",
+      "url": "https://multimovies.city/cast/moushumi-chatterjee/",
+      "image": "https://image.tmdb.org/t/p/w92/2ebWx8egKmrAsRPHOegEY6rwGaf.jpg"
+    },
+    {
+      "name": "Paresh Rawal",
+      "role": "PC Jack Patel",
+      "url": "https://multimovies.city/cast/paresh-rawal/",
+      "image": "https://image.tmdb.org/t/p/w92/vqqA4DVnqIfvmGtwdwHtHEzMvst.jpg"
+    },
+    {
+      "name": "Kader Khan",
+      "role": "Sardar Khan",
+      "url": "https://multimovies.city/cast/kader-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/wXA720oHm1fwppb9DnjX6vYkTqo.jpg"
+    },
+    {
+      "name": "Navin Nischol",
+      "role": "Ashwin Khurana",
+      "url": "https://multimovies.city/cast/navin-nischol/",
+      "image": "https://image.tmdb.org/t/p/w92/zgVz8kN8q6r2sHfHFOr8AZ4nosa.jpg"
+    },
+    {
+      "name": "Suman Ranganathan",
+      "role": "Loveleen",
+      "url": "https://multimovies.city/cast/suman-ranganathan/",
+      "image": "https://image.tmdb.org/t/p/w92/wuGWSXKiqWzMUBBTZQqjKOqitzu.jpg"
+    },
+    {
+      "name": "Satish Kaushik",
+      "role": "Chaurasia",
+      "url": "https://multimovies.city/cast/satish-kaushik/",
+      "image": "https://image.tmdb.org/t/p/w92/lnqVTsUKVxJYPWN3KRBhRlGP1Z0.jpg"
+    },
+    {
+      "name": "Jaspal Bhatti",
+      "role": "Iqbal Singh",
+      "url": "https://multimovies.city/cast/jaspal-bhatti/",
+      "image": "https://image.tmdb.org/t/p/w92/obZtIR5ncTmxARseSqW669TicEU.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qmG0Oz0QAubKIivX99nFmdA9SK6.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 1226,
+  "sources": [
+    "https://www.youtube.com/embed/cuuadjObyJ8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/bpx2lf8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 3444,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 3444,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:20:44"
+  "last_update": "2025-09-16T17:23:21.884893"
 }
