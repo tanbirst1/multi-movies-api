@@ -4,15 +4,142 @@
   "meta": {
     "title": "Pok\u00e9mon: Mewtwo Returns",
     "poster": "https://image.tmdb.org/t/p/w500/zIYljUBF2rXzB0yYZVEPY1l8zHp.jpg",
-    "synopsis": "The Team Rocket leader, Giovanni, has found Mewtwo in a remote area of the Johto region. As Giovanni tries to re-capture Mewtwo, Ash and his friends are kidnapped by Domino, a new Team Rocket member, while trying to rescue Pikachu from Jessie and James. The Clone Pokemon are also captured and are then used as bait for Mewtwo. The situation then becomes a battle between the wills of Mewtwo and Giovanni; and Mewtwo also tries to discover if it and the clones have a purpose in life, even though they are products of science."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      }
+    ],
+    "firstAirDate": "Aug. 17, 2001",
+    "ratingValue": "2",
+    "ratingCount": "1",
+    "synopsis": "The Team Rocket leader, Giovanni, has found Mewtwo in a remote area of the Johto region. As Giovanni tries to re-capture Mewtwo, Ash and his friends are kidnapped by Domino, a new Team Rocket member, while trying to rescue Pikachu from Jessie and James. The Clone Pokemon are also captured and are then used as bait for Mewtwo. The situation then becomes a battle between the wills of Mewtwo and Giovanni; and Mewtwo also tries to discover if it and the clones have a purpose in life, even though they are products of science.",
+    "infoFields": {
+      "Original title": "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u30df\u30e5\u30a6\u30c4\u30fc! \u6211\u30cf\u30b3\u30b3\u30cb\u5728\u30ea MEWTWO SAGA",
+      "IMDb Rating": "6.4 4,000 votes",
+      "TMDb Rating": "6.7 372 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Yuji Asada",
+      "role": "Director",
+      "url": "https://multimovies.city/director/yuji-asada/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Rica Matsumoto",
+      "role": "Satoshi (voice)",
+      "url": "https://multimovies.city/cast/rica-matsumoto/",
+      "image": "https://image.tmdb.org/t/p/w92/ykm6ZpLcX5wblCNp7rOAoZpCh3L.jpg"
+    },
+    {
+      "name": "Ikue Otani",
+      "role": "Pikachu (voice)",
+      "url": "https://multimovies.city/cast/ikue-otani/",
+      "image": "https://image.tmdb.org/t/p/w92/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "name": "Mayumi Iizuka",
+      "role": "Kasumi (voice)",
+      "url": "https://multimovies.city/cast/mayumi-iizuka/",
+      "image": "https://image.tmdb.org/t/p/w92/mg1ZCF9fhbBOgHgpL98g6CkWndc.jpg"
+    },
+    {
+      "name": "Satomi Korogi",
+      "role": "Togepy (voice)",
+      "url": "https://multimovies.city/cast/satomi-korogi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Yuji Ueda",
+      "role": "Takeshi (voice)",
+      "url": "https://multimovies.city/cast/yuji-ueda/",
+      "image": "https://image.tmdb.org/t/p/w92/nwJBK4WwsUCcBcX425GD2BroJDr.jpg"
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "role": "Musashi (voice)",
+      "url": "https://multimovies.city/cast/megumi-hayashibara/",
+      "image": "https://image.tmdb.org/t/p/w92/wqwCa9PNUBXPuN9MpSnYq2dz740.jpg"
+    },
+    {
+      "name": "Shin-ichiro Miki",
+      "role": "Kojiro (voice)",
+      "url": "https://multimovies.city/cast/shin-ichiro-miki/",
+      "image": "https://image.tmdb.org/t/p/w92/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
+    },
+    {
+      "name": "Inuko Inuyama",
+      "role": "Nyarth (voice)",
+      "url": "https://multimovies.city/cast/inuko-inuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/bA6BQgafhEyRFMh4EbZQJqvIVWY.jpg"
+    },
+    {
+      "name": "Masachika Ichimura",
+      "role": "Mewtwo (voice)",
+      "url": "https://multimovies.city/cast/masachika-ichimura/",
+      "image": "https://image.tmdb.org/t/p/w92/5Nc3qemEM26pTff5bJ9KF7qdhGU.jpg"
+    },
+    {
+      "name": "Hirotaka Suzuoki",
+      "role": "Sakaki (voice)",
+      "url": "https://multimovies.city/cast/hirotaka-suzuoki/",
+      "image": "https://image.tmdb.org/t/p/w92/6tUnO95OZiUwhHvxlJ3WP5lcsaJ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7anDPHcA7Ylh98OdfcZsQ2nlEhz.jpg",
+    "https://image.tmdb.org/t/p/w300/pJszL2mPl084IDSzLDPH8NqIq0r.jpg",
+    "https://image.tmdb.org/t/p/w300/t0QYouwzF7Y0dW0EJ9E0Hi4ouHD.jpg",
+    "https://image.tmdb.org/t/p/w300/tYCKSPAtKFfVN3uRsFF2SyBjBfz.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 1897,
+  "sources": [
+    "https://www.youtube.com/embed/_VdEWS_CJDI?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/gf8mpfmz4yym"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 14543,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 14543,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:32:29.694744"
 }
