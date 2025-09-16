@@ -1,0 +1,101 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/jurmana/",
+  "meta": {
+    "title": "Jurmana",
+    "poster": "https://image.tmdb.org/t/p/w500/9QhoNPCHALmU2YKI3JCw7qlDbod.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Jan. 05, 1996",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Vijay and Pooja are in love. However, Pooja hails from a wealthy family and her father is Chief Minister of the state, while Vijay\u2019s background is lower middle-class. Humiliated by Pooja\u2019s father, Vijay marries advocate Kiran, and together have a daughter. Kiran represents a number of defendants charged by the police, and is always on hand to secure their release. This causes acrimony. When an unmarried Pooja re-enters Vijay\u2019s life, and this time she intends to stay close to this family.",
+    "infoFields": {
+      "Original title": "Jurmana",
+      "IMDb Rating": "5.9 44 votes",
+      "TMDb Rating": "10 1 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "T. L. V. Prasad",
+      "role": "Director",
+      "url": "https://multimovies.city/director/t-l-v-prasad/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Mithun Chakraborty",
+      "role": "",
+      "url": "https://multimovies.city/cast/mithun-chakraborty/",
+      "image": "https://image.tmdb.org/t/p/w92/zohhWjk7BAPhLFcVddVSmpoR2qa.jpg"
+    },
+    {
+      "name": "Ashwini Bhave",
+      "role": "",
+      "url": "https://multimovies.city/cast/ashwini-bhave/",
+      "image": "https://image.tmdb.org/t/p/w92/m8rahRLhHcALpRkmzi6yqKbKixT.jpg"
+    },
+    {
+      "name": "Rambha",
+      "role": "",
+      "url": "https://multimovies.city/cast/rambha/",
+      "image": "https://image.tmdb.org/t/p/w92/hrJSSIEr5f5je2XHmnYVDF52vvn.jpg"
+    },
+    {
+      "name": "Shakti Kapoor",
+      "role": "",
+      "url": "https://multimovies.city/cast/shakti-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/fcyQbvV6BgJBca4EVAlSr0Sv5E9.jpg"
+    },
+    {
+      "name": "Ronit Roy",
+      "role": "",
+      "url": "https://multimovies.city/cast/ronit-roy/",
+      "image": "https://image.tmdb.org/t/p/w92/4ki1I9lH2TU0W5ZPMG5T90It9pc.jpg"
+    },
+    {
+      "name": "Gavin Packard",
+      "role": "Rona - J.J.'s assistant",
+      "url": "https://multimovies.city/cast/gavin-packard/",
+      "image": "https://image.tmdb.org/t/p/w92/r4KKyIJcv8jzZwTQbBcblX9trDh.jpg"
+    }
+  ],
+  "gallery": [
+    "https://i.ytimg.com/vi/x5k4nC97rQg/maxresdefault.jpg"
+  ],
+  "similar": [],
+  "views": 289,
+  "sources": [
+    "https://www.youtube.com/embed/znTTp08u34Q?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/qjxyng4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 68613,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 68613,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
