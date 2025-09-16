@@ -4,15 +4,132 @@
   "meta": {
     "title": "Y tu mama tambien [And Your Mother Too] (18+)",
     "poster": "https://image.tmdb.org/t/p/w500/izw41PkE8y891yraO6fN1tCNmOG.jpg",
-    "synopsis": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 08, 2001",
+    "ratingValue": "1",
+    "ratingCount": "3",
+    "synopsis": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+    "infoFields": {
+      "Original title": "Y tu mam\u00e1 tambi\u00e9n",
+      "IMDb Rating": "7.7 129,580 votes",
+      "TMDb Rating": "7.4 1,452 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Alfonso Cuar\u00f3n",
+      "role": "Director",
+      "url": "https://multimovies.city/director/alfonso-cuaron/",
+      "image": "https://image.tmdb.org/t/p/w92/gaHhrzPfxfc3cbQLkDt54gtP3n1.jpg"
+    },
+    {
+      "name": "Diego Luna",
+      "role": "Tenoch Iturbide",
+      "url": "https://multimovies.city/cast/diego-luna/",
+      "image": "https://image.tmdb.org/t/p/w92/uH8sMbiMmy9sprKr1vJpoPBB40E.jpg"
+    },
+    {
+      "name": "Gael Garc\u00eda Bernal",
+      "role": "Julio Zapata",
+      "url": "https://multimovies.city/cast/gael-garcia-bernal/",
+      "image": "https://image.tmdb.org/t/p/w92/7mq3EQN1oJfYNXkv9xKXKu6Ccw5.jpg"
+    },
+    {
+      "name": "Maribel Verd\u00fa",
+      "role": "Luisa Cort\u00e9s",
+      "url": "https://multimovies.city/cast/maribel-verdu/",
+      "image": "https://image.tmdb.org/t/p/w92/5ml5J9yDEV6ZLkinkS7vAHfE882.jpg"
+    },
+    {
+      "name": "Daniel Gim\u00e9nez Cacho",
+      "role": "Narrator (voice)",
+      "url": "https://multimovies.city/cast/daniel-gimenez-cacho/",
+      "image": "https://image.tmdb.org/t/p/w92/4sM4fbDAyjDcEcxRqVWpUF35IrL.jpg"
+    },
+    {
+      "name": "Diana Bracho",
+      "role": "Silvia Allende de Iturbide",
+      "url": "https://multimovies.city/cast/diana-bracho/",
+      "image": "https://image.tmdb.org/t/p/w92/33QwkFoQj4CzTUCEJ9qbLVtfBHk.jpg"
+    },
+    {
+      "name": "Ver\u00f3nica Langer",
+      "role": "Mar\u00eda Eugenia Calles de Huerta",
+      "url": "https://multimovies.city/cast/veronica-langer/",
+      "image": "https://image.tmdb.org/t/p/w92/yuAaKQdYd4l8AgQ2zmdNvbEzm0d.jpg"
+    },
+    {
+      "name": "Mar\u00eda Aura",
+      "role": "Cecilia Huerta",
+      "url": "https://multimovies.city/cast/maria-aura/",
+      "image": "https://image.tmdb.org/t/p/w92/twSUbNg8ZJnGSeGurQEu3qZTmQA.jpg"
+    },
+    {
+      "name": "Emilio Echevarr\u00eda",
+      "role": "Miguel Iturbide",
+      "url": "https://multimovies.city/cast/emilio-echevarria/",
+      "image": "https://image.tmdb.org/t/p/w92/dd97sd38NhiXlvfrL4ZpLi138Dk.jpg"
+    },
+    {
+      "name": "Marta Aura",
+      "role": "Enriqueta 'Queta' Allende",
+      "url": "https://multimovies.city/cast/marta-aura/",
+      "image": "https://image.tmdb.org/t/p/w92/rWRVYu7xSlM5jUkJUgH2LoHOSWV.jpg"
+    },
+    {
+      "name": "Silverio Palacios",
+      "role": "Jes\u00fas 'Chuy' Carranza",
+      "url": "https://multimovies.city/cast/silverio-palacios/",
+      "image": "https://image.tmdb.org/t/p/w92/knRcubASXmakYNyY4G8BXEj12Rz.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg",
+    "https://image.tmdb.org/t/p/w300/7aW9IZjpsoTXYEARlnOvTtl6EBr.jpg",
+    "https://image.tmdb.org/t/p/w300/orIxqUMEcU3DT7qCs16Si8KWjBO.jpg",
+    "https://image.tmdb.org/t/p/w300/wyGelNYHLH1Gtpl2BhvYruiv99S.jpg",
+    "https://image.tmdb.org/t/p/w300/uLpxnS98fnt5iWHUSs3g1XrYuQe.jpg",
+    "https://image.tmdb.org/t/p/w300/w4hDpuqqOhuZYCLBWXWdj6ED8uy.jpg",
+    "https://image.tmdb.org/t/p/w300/yC3AhkiOxXPcNp8VWGPxx6ugxmW.jpg",
+    "https://image.tmdb.org/t/p/w300/v1OKxYTXGiY5FObxE6fjVNpJyv9.jpg",
+    "https://image.tmdb.org/t/p/w300/pemFVvSaYyJZyjBKwR1dtzClP7M.jpg",
+    "https://image.tmdb.org/t/p/w300/y9MgEfNDUA6pQqRFPtCeSbsTNiD.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 9804,
+  "sources": [
+    "https://www.youtube.com/embed/inc0vS58ZKg?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/jvo0zqs5p5vd"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58155,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58155,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:32:37.942815"
 }
