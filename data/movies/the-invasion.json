@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-invasion/",
+  "meta": {
+    "title": "The Invasion",
+    "poster": "https://image.tmdb.org/t/p/w500/oS5rMuJXwNZZPx0ojhvjgduglD2.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Aug. 17, 2007",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Washington, D.C. psychologist Carol Bennell and her colleague Dr. Ben Driscoll are the only two people on Earth who are aware of an epidemic running rampant through the city. They discover an alien virus aboard a crashed space shuttle that transforms anyone who comes into contact with it into unfeeling drones while they sleep. Carol realizes her son holds the key to stopping the spread of the plague and she races to find him before it is too late.",
+    "infoFields": {
+      "Original title": "The Invasion",
+      "IMDb Rating": "5.9 83,124 votes",
+      "TMDb Rating": "6 1,461 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Oliver Hirschbiegel",
+      "role": "Director",
+      "url": "https://multimovies.city/director/oliver-hirschbiegel/",
+      "image": "https://image.tmdb.org/t/p/w92/6BcZ54IsaNJ5wBqwV7cVTG0QwCb.jpg"
+    },
+    {
+      "name": "Nicole Kidman",
+      "role": "Carol Bennell",
+      "url": "https://multimovies.city/cast/nicole-kidman/",
+      "image": "https://image.tmdb.org/t/p/w92/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+    },
+    {
+      "name": "Daniel Craig",
+      "role": "Ben Driscoll",
+      "url": "https://multimovies.city/cast/daniel-craig/",
+      "image": "https://image.tmdb.org/t/p/w92/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+    },
+    {
+      "name": "Jeremy Northam",
+      "role": "Tucker Kaufman",
+      "url": "https://multimovies.city/cast/jeremy-northam/",
+      "image": "https://image.tmdb.org/t/p/w92/h5u9lNQSPpYBMTYemSD2wC89X4q.jpg"
+    },
+    {
+      "name": "Jeffrey Wright",
+      "role": "Dr. Stephen Galeano",
+      "url": "https://multimovies.city/cast/jeffrey-wright/",
+      "image": "https://image.tmdb.org/t/p/w92/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+    },
+    {
+      "name": "Jackson Bond",
+      "role": "Oliver",
+      "url": "https://multimovies.city/cast/jackson-bond/",
+      "image": "https://image.tmdb.org/t/p/w92/7wIyiCFRcw6pvGfCvM1T1BgBP3K.jpg"
+    },
+    {
+      "name": "Veronica Cartwright",
+      "role": "Wendy Lenk",
+      "url": "https://multimovies.city/cast/veronica-cartwright/",
+      "image": "https://image.tmdb.org/t/p/w92/4qudrTfSzPOWoZMA3IfkjrNoI6c.jpg"
+    },
+    {
+      "name": "Josef Sommer",
+      "role": "Dr. Henryk Belicec",
+      "url": "https://multimovies.city/cast/josef-sommer/",
+      "image": "https://image.tmdb.org/t/p/w92/eY3tCB4j7nWhsZX1enU6BYpaZl.jpg"
+    },
+    {
+      "name": "Celia Weston",
+      "role": "Ludmilla Belicec",
+      "url": "https://multimovies.city/cast/celia-weston/",
+      "image": "https://image.tmdb.org/t/p/w92/pQYygvqfmKnK4weuUCLUX45q5AJ.jpg"
+    },
+    {
+      "name": "Malin \u00c5kerman",
+      "role": "Autumn",
+      "url": "https://multimovies.city/cast/malin-akerman/",
+      "image": "https://image.tmdb.org/t/p/w92/quR3jpQrXIzFlZUFtYhACefoO6n.jpg"
+    },
+    {
+      "name": "Roger Rees",
+      "role": "Yorish",
+      "url": "https://multimovies.city/cast/roger-rees/",
+      "image": "https://image.tmdb.org/t/p/w92/qKWG7oxTL1JGzTzHLacsNLDAbNs.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/waycGhETegEQTPAQmZQHz9f92WM.jpg",
+    "https://image.tmdb.org/t/p/w300/6XJza0JGv8CDEOd1zktOIfQbCMW.jpg",
+    "https://image.tmdb.org/t/p/w300/tp3vxSTL1lZ1Ad02tsRIzjUvT7K.jpg",
+    "https://image.tmdb.org/t/p/w300/qiCzhx0mu2ojmIL30iXe6H4abTF.jpg",
+    "https://image.tmdb.org/t/p/w300/i2qe6LRYUbYIITw5vSH6UlBMrRS.jpg",
+    "https://image.tmdb.org/t/p/w300/w2nGeWoiOSu3aIShe46CRPiX8rZ.jpg",
+    "https://image.tmdb.org/t/p/w300/qGESYECZAfbE8p2zVRQYXysXdrx.jpg",
+    "https://image.tmdb.org/t/p/w300/ooDX5L0WMeWl6tjoplwbVRBt9YV.jpg",
+    "https://image.tmdb.org/t/p/w300/64fA9q1baeKPrCZC503sbfihZmz.jpg",
+    "https://image.tmdb.org/t/p/w300/9noMQNXxKWPW8RMfGTTFMscjPcz.jpg"
+  ],
+  "similar": [],
+  "views": 821,
+  "sources": [
+    "https://www.youtube.com/embed/s15PvvAt4lo?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/ye9842kapkf1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58222,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58222,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:11:28.441207"
+}
