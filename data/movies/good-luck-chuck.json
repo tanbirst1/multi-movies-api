@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/good-luck-chuck/",
+  "meta": {
+    "title": "Good Luck Chuck",
+    "poster": "https://image.tmdb.org/t/p/w500/b2VgUoXR9iAtAf8nA0mvdTr7cOt.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Sep. 21, 2007",
+    "ratingValue": "4",
+    "ratingCount": "3",
+    "synopsis": "Cursed since childhood, dentist Charlie Logan cannot find the right woman. Even worse, he learns that each of his ex-girlfriends finds true love with the man she meets after her relationship with him ends. Hearing of Charlie\u2019s reputation as a good-luck charm, women from all over line up for a quick tryst. But when Charlie meets the woman of his dreams, he must find a way to break the curse or risk losing her to the next man she meets.",
+    "infoFields": {
+      "Original title": "Good Luck Chuck",
+      "TMDb Rating": "5.902 1,555 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mark Helfrich",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mark-helfrich/",
+      "image": "https://image.tmdb.org/t/p/w92/zCx3E9m6fmJXPstWtdsmnMNB7fy.jpg"
+    },
+    {
+      "name": "Dane Cook",
+      "role": "Dr. Charlie Logan",
+      "url": "https://multimovies.city/cast/dane-cook/",
+      "image": "https://image.tmdb.org/t/p/w92/4UGHKnDOf75GZR5z0QHjrhjfpIu.jpg"
+    },
+    {
+      "name": "Jessica Alba",
+      "role": "Cam Wexler",
+      "url": "https://multimovies.city/cast/jessica-alba/",
+      "image": "https://image.tmdb.org/t/p/w92/jCImuXo4TqdWeIs4Hc2tO0U28LV.jpg"
+    },
+    {
+      "name": "Dan Fogler",
+      "role": "Dr. Stu Klaminsky",
+      "url": "https://multimovies.city/cast/dan-fogler/",
+      "image": "https://image.tmdb.org/t/p/w92/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg"
+    },
+    {
+      "name": "Ellia English",
+      "role": "Reba",
+      "url": "https://multimovies.city/cast/ellia-english/",
+      "image": "https://image.tmdb.org/t/p/w92/y1rk8Y1qnL96OiTBvuKE8zkkv31.jpg"
+    },
+    {
+      "name": "Lonny Ross",
+      "role": "Joe",
+      "url": "https://multimovies.city/cast/lonny-ross/",
+      "image": "https://image.tmdb.org/t/p/w92/6yO8KB9b3yoE5HjhVu8YWViQlX5.jpg"
+    },
+    {
+      "name": "Troy Gentile",
+      "role": "Young Stu",
+      "url": "https://multimovies.city/cast/troy-gentile/",
+      "image": "https://image.tmdb.org/t/p/w92/lC2BtCSI5lcaJribUjTRXg1cCuW.jpg"
+    },
+    {
+      "name": "Chelan Simmons",
+      "role": "Carol",
+      "url": "https://multimovies.city/cast/chelan-simmons/",
+      "image": "https://image.tmdb.org/t/p/w92/k1u5JVDRbpOrolh5lQrEUo4Qt0o.jpg"
+    },
+    {
+      "name": "Mackenzie Mowat",
+      "role": "Birthday Girl",
+      "url": "https://multimovies.city/cast/mackenzie-mowat/",
+      "image": "https://image.tmdb.org/t/p/w92/g66o5nDm92YaX1pnR7SNzE3xzH0.jpg"
+    },
+    {
+      "name": "Sasha Pieterse",
+      "role": "Goth Girl",
+      "url": "https://multimovies.city/cast/sasha-pieterse/",
+      "image": "https://image.tmdb.org/t/p/w92/7UfvM5Tgt3PrTYXQYgPfKTVXO8M.jpg"
+    },
+    {
+      "name": "Caroline Ford",
+      "role": "Jennifer",
+      "url": "https://multimovies.city/cast/caroline-ford/",
+      "image": "https://image.tmdb.org/t/p/w92/qUoO2NqZ0YfdV0N0svPYTMmxcrK.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/tpSm28WLqFy8QlbT3bGtcO1P6jJ.jpg",
+    "https://image.tmdb.org/t/p/w300/sMqT39nNLdVmBSHM8tPVbf1O4Lj.jpg",
+    "https://image.tmdb.org/t/p/w300/5R4kLw5lxeiwX5hZfspK3YLg6wp.jpg",
+    "https://image.tmdb.org/t/p/w300/oDdKcMaiv91G8kGJGBO1AsqS9Cb.jpg",
+    "https://image.tmdb.org/t/p/w300/lsrzzSEgXLlhPX6ikAL7IrH3VRD.jpg"
+  ],
+  "similar": [],
+  "views": 2307,
+  "sources": [
+    "https://www.youtube.com/embed/8VoPV8_s9Ec?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/dzp98ag"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 91717,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 91717,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:15:19.052303"
+}
