@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/pineapple-express/",
+  "meta": {
+    "title": "Pineapple Express",
+    "poster": "https://image.tmdb.org/t/p/w500/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Aug. 06, 2008",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A stoner and his dealer are forced to go on the run from the police after the pothead witnesses a cop commit a murder.",
+    "infoFields": {
+      "Original title": "Pineapple Express",
+      "IMDb Rating": "6.9 367,831 votes",
+      "TMDb Rating": "6.639 3,970 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Gordon Green",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-gordon-green/",
+      "image": "https://image.tmdb.org/t/p/w92/fJqIVaVwLeFBlZKQTDbzbcvV4XZ.jpg"
+    },
+    {
+      "name": "Seth Rogen",
+      "role": "Dale Denton",
+      "url": "https://multimovies.city/cast/seth-rogen/",
+      "image": "https://image.tmdb.org/t/p/w92/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg"
+    },
+    {
+      "name": "James Franco",
+      "role": "Saul Silver",
+      "url": "https://multimovies.city/cast/james-franco/",
+      "image": "https://image.tmdb.org/t/p/w92/rShzuvrQJJQJ6lXDn3IQX4o0iCE.jpg"
+    },
+    {
+      "name": "Gary Cole",
+      "role": "Ted",
+      "url": "https://multimovies.city/cast/gary-cole/",
+      "image": "https://image.tmdb.org/t/p/w92/gPxHlVK9vNQSa5DkTFKYvLMASdE.jpg"
+    },
+    {
+      "name": "Danny McBride",
+      "role": "Red",
+      "url": "https://multimovies.city/cast/danny-mcbride/",
+      "image": "https://image.tmdb.org/t/p/w92/sVFPzl2t5QlGudQKWAszIWZCXZv.jpg"
+    },
+    {
+      "name": "Rosie Perez",
+      "role": "Carol",
+      "url": "https://multimovies.city/cast/rosie-perez/",
+      "image": "https://image.tmdb.org/t/p/w92/g6iJNyIhVDY5NxZU1jbKMjPnNYf.jpg"
+    },
+    {
+      "name": "Kevin Corrigan",
+      "role": "Budlofsky",
+      "url": "https://multimovies.city/cast/kevin-corrigan/",
+      "image": "https://image.tmdb.org/t/p/w92/cAU4b3tV02YwFiikfZ0OkckBUmP.jpg"
+    },
+    {
+      "name": "Craig Robinson",
+      "role": "Matheson",
+      "url": "https://multimovies.city/cast/craig-robinson/",
+      "image": "https://image.tmdb.org/t/p/w92/nWZI2ghokrha2lYnr5Z48agItL7.jpg"
+    },
+    {
+      "name": "Amber Heard",
+      "role": "Angie Anderson",
+      "url": "https://multimovies.city/cast/amber-heard/",
+      "image": "https://image.tmdb.org/t/p/w92/vnDolRlZWiOLBg1N0hsUTz4OH4C.jpg"
+    },
+    {
+      "name": "Ed Begley Jr.",
+      "role": "Robert",
+      "url": "https://multimovies.city/cast/ed-begley-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/cdS6hZVabhpQ3UdIK0HNvYXj5IM.jpg"
+    },
+    {
+      "name": "Nora Dunn",
+      "role": "Shannon",
+      "url": "https://multimovies.city/cast/nora-dunn/",
+      "image": "https://image.tmdb.org/t/p/w92/x9NAUBciKKxDaYRcntc4vKjqilG.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/aO6Z7ErkEoahGFKYdEs4k4ilWFe.jpg",
+    "https://image.tmdb.org/t/p/w300/n7nSmrjJJR5fhDYwT8kbJXNA9k1.jpg",
+    "https://image.tmdb.org/t/p/w300/gnWhqrGlDUXBv7L5kXN6o7iMoYs.jpg",
+    "https://image.tmdb.org/t/p/w300/baYf6AYPFUm1J6yHzyvqEga0pw1.jpg",
+    "https://image.tmdb.org/t/p/w300/c6LIAhqkGTeB5ppgiysh7NYrafg.jpg",
+    "https://image.tmdb.org/t/p/w300/7u3ffhRZQeboxjJz4qA5UmqAUtW.jpg"
+  ],
+  "similar": [],
+  "views": 1307,
+  "sources": [
+    "https://www.youtube.com/embed/wBSg5HOpXgs?autoplay=0&autohide=1",
+    "https://multimovies.city/%3CIFRAME%20SRC=%22https://multimoviesshg.com/e/jw7xrx1bxw1q%22%20FRAMEBORDER=0%20MARGINWIDTH=0%20MARGINHEIGHT=0%20SCROLLING=NO%20WIDTH=640%20HEIGHT=360%20allowfullscreen%3E%3C/IFRAME%3E"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 23012,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 23012,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:25:14.441994"
+}
