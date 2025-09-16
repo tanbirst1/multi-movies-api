@@ -1,0 +1,137 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/astro-boy/",
+  "meta": {
+    "title": "Astro Boy",
+    "poster": "https://image.tmdb.org/t/p/w500/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Oct. 15, 2009",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Set in the futuristic Metro City, Astro Boy (Atom) is a young robot with incredible powers created by a brilliant scientist in the image of the son he had lost. Unable to fulfill his creator\u2019s expectations, Astro embarks on a journey in search of acceptance, experiencing betrayal and a netherworld of robot gladiators, before returning to save Metro City and reconcile with the father who rejected him.",
+    "infoFields": {
+      "Original title": "Astro Boy",
+      "IMDb Rating": "6.2 38,635 votes",
+      "TMDb Rating": "6.297 1,372 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Bowers",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-bowers/",
+      "image": "https://image.tmdb.org/t/p/w92/icS8UDrmWF2jfb3udMxcMgRkHeH.jpg"
+    },
+    {
+      "name": "Nicolas Cage",
+      "role": "Dr. Tenma (voice)",
+      "url": "https://multimovies.city/cast/nicolas-cage/",
+      "image": "https://image.tmdb.org/t/p/w92/ar33qcWbEgREn07ZpXv5Pbj8hbM.jpg"
+    },
+    {
+      "name": "Madeline Carroll",
+      "role": "Widget (voice)",
+      "url": "https://multimovies.city/cast/madeline-carroll/",
+      "image": "https://image.tmdb.org/t/p/w92/rUXWRKgyf9vLoC4zSHlu5fHdtxR.jpg"
+    },
+    {
+      "name": "Freddie Highmore",
+      "role": "Astro Boy (voice)",
+      "url": "https://multimovies.city/cast/freddie-highmore/",
+      "image": "https://image.tmdb.org/t/p/w92/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+    },
+    {
+      "name": "Kristen Bell",
+      "role": "Cora (voice)",
+      "url": "https://multimovies.city/cast/kristen-bell/",
+      "image": "https://image.tmdb.org/t/p/w92/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+    },
+    {
+      "name": "Donald Sutherland",
+      "role": "General Stone (voice)",
+      "url": "https://multimovies.city/cast/donald-sutherland/",
+      "image": "https://image.tmdb.org/t/p/w92/kO8rtLr9cCPSR55tDLakmEoCZRP.jpg"
+    },
+    {
+      "name": "Bill Nighy",
+      "role": "Dr. Elefun (voice)",
+      "url": "https://multimovies.city/cast/bill-nighy/",
+      "image": "https://image.tmdb.org/t/p/w92/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "name": "Eugene Levy",
+      "role": "Orrin (voice)",
+      "url": "https://multimovies.city/cast/eugene-levy/",
+      "image": "https://image.tmdb.org/t/p/w92/y4CexxKSI6qR5A6PDaD8mSrEhYC.jpg"
+    },
+    {
+      "name": "Sterling Beaumon",
+      "role": "Sludge (voice)",
+      "url": "https://multimovies.city/cast/sterling-beaumon/",
+      "image": "https://image.tmdb.org/t/p/w92/33uwIFqdXFVZGml5G45qSW0O9uQ.jpg"
+    },
+    {
+      "name": "Nathan Lane",
+      "role": "Ham Egg (voice)",
+      "url": "https://multimovies.city/cast/nathan-lane/",
+      "image": "https://image.tmdb.org/t/p/w92/nEYS0KO1qVO3y0RAt8V8pFxnPb7.jpg"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "role": "Zog (voice)",
+      "url": "https://multimovies.city/cast/samuel-l-jackson/",
+      "image": "https://image.tmdb.org/t/p/w92/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qXD5vfFe1blOXJbOHXlU5CYJMQB.jpg",
+    "https://image.tmdb.org/t/p/w300/n92vmUxZGAuMOpzsvsseT0IywUa.jpg",
+    "https://image.tmdb.org/t/p/w300/iVu9e61SLFOnEVEVVyoh5FVM46w.jpg",
+    "https://image.tmdb.org/t/p/w300/nOqytbYkW9eCE6B78otGCRNRMTY.jpg",
+    "https://image.tmdb.org/t/p/w300/t39jaNSYMVNecNPQSVVlW6I4opm.jpg",
+    "https://image.tmdb.org/t/p/w300/mFuQPOWjSivlwpPxMVe70tnBWzi.jpg",
+    "https://image.tmdb.org/t/p/w300/bHT5VSWHVIqnUocNixlZL3kZYar.jpg",
+    "https://image.tmdb.org/t/p/w300/tmhpdohmMrpoEismoPp1cWutlD.jpg"
+  ],
+  "similar": [],
+  "views": 792,
+  "sources": [
+    "https://www.youtube.com/embed/V5FXCl_M5cc?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ubr2ilwonor4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 28440,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 28440,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:35:55.174388"
+}
