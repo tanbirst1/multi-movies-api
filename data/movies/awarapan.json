@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/awarapan/",
+  "meta": {
+    "title": "Awarapan",
+    "poster": "https://image.tmdb.org/t/p/w500/yVArEukDbkfNjxsynes4PWI4nlk.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Jun. 29, 2007",
+    "ratingValue": "9.4",
+    "ratingCount": "7",
+    "synopsis": "A loyal henchman is ordered by his boss to keep an eye on his mistress, and trouble begins when he refuses to kill her.",
+    "infoFields": {
+      "Original title": "\u0906\u0935\u093e\u0930\u093e\u092a\u0928",
+      "IMDb Rating": "7.4 7,570 votes",
+      "TMDb Rating": "6.8 33 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mohit Suri",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mohit-suri/",
+      "image": "https://image.tmdb.org/t/p/w92/iDAUmTKFKD0XVDyqFNtAyMNzx4W.jpg"
+    },
+    {
+      "name": "Emraan Hashmi",
+      "role": "Shivam Pandit",
+      "url": "https://multimovies.city/cast/emraan-hashmi/",
+      "image": "https://image.tmdb.org/t/p/w92/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+      "name": "Shriya Saran",
+      "role": "Aaliyah",
+      "url": "https://multimovies.city/cast/shriya-saran/",
+      "image": "https://image.tmdb.org/t/p/w92/ioOgKBSCJhOdKoZpg86ld7zANbf.jpg"
+    },
+    {
+      "name": "Mrinalini Sharma",
+      "role": "Reema",
+      "url": "https://multimovies.city/cast/mrinalini-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/rzcrmzkGvtGA6uCD42cvJk9EeAC.jpg"
+    },
+    {
+      "name": "Salil Acharya",
+      "role": "Ronnie Malik",
+      "url": "https://multimovies.city/cast/salil-acharya/",
+      "image": "https://image.tmdb.org/t/p/w92/nRiaQWdRQpSqbpBf2lvbXzOOoRI.jpg"
+    },
+    {
+      "name": "Purab Kohli",
+      "role": "Munna Malik",
+      "url": "https://multimovies.city/cast/purab-kohli/",
+      "image": "https://image.tmdb.org/t/p/w92/86rSTyRxb63UwmTrJxwjhwfHCbT.jpg"
+    },
+    {
+      "name": "Ashish Vidhyarthi",
+      "role": "Raja D. Malik",
+      "url": "https://multimovies.city/cast/ashish-vidhyarthi/",
+      "image": "https://image.tmdb.org/t/p/w92/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg"
+    },
+    {
+      "name": "Ashutosh Rana",
+      "role": "Bharat Daulat Malik",
+      "url": "https://multimovies.city/cast/ashutosh-rana/",
+      "image": "https://image.tmdb.org/t/p/w92/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+      "name": "Rehan Khan",
+      "role": "Bilal",
+      "url": "https://multimovies.city/cast/rehan-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/sAQeRJcx4eDwzhNUvQMGdCn0pRW.jpg"
+    },
+    {
+      "name": "Atul Parchure",
+      "role": "Siddharth Sood",
+      "url": "https://multimovies.city/cast/atul-parchure/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Shaad Randhawa",
+      "role": "Kabir",
+      "url": "https://multimovies.city/cast/shaad-randhawa/",
+      "image": "https://image.tmdb.org/t/p/w92/eFUtx2lbDmu6RUaezRsub9O7yGv.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hNHvjW48NwXKwncvU8XuTbr210o.jpg",
+    "https://image.tmdb.org/t/p/w300/zncs2Tjfq4I8Eye0M5EsPDsFwFB.jpg",
+    "https://image.tmdb.org/t/p/w300/vhtumQFKxSyJiS0LBv4zvsAn3SI.jpg",
+    "https://image.tmdb.org/t/p/w300/dbrPaaHR8EuuSQrDd79FNMap0NX.jpg",
+    "https://image.tmdb.org/t/p/w300/mbraBcg791ojY1NlB0UUri4yTLA.jpg",
+    "https://image.tmdb.org/t/p/w300/uXP2u7NnCu96qjvWxJCXTl5UDjy.jpg",
+    "https://image.tmdb.org/t/p/w300/5YW5dWvg9gFkS0PonF9mhFhvicO.jpg",
+    "https://image.tmdb.org/t/p/w300/7oHfaBWacKaGT2JZJkNbVrZNWIw.jpg",
+    "https://image.tmdb.org/t/p/w300/9288vN5wgWr5FL9PzyGUJ8zvBRG.jpg",
+    "https://image.tmdb.org/t/p/w300/bgxU32n9fcQfhjHekvp1KOZz5SR.jpg"
+  ],
+  "similar": [],
+  "views": 14821,
+  "sources": [
+    "https://www.youtube.com/embed/VH0aDSbAeCQ?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/vktlved7j9a2"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 3499,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 3499,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:12:33.198078"
+}
