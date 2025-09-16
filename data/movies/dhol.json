@@ -1,0 +1,115 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dhol/",
+  "meta": {
+    "title": "Dhol",
+    "poster": "https://image.tmdb.org/t/p/w500/bq7qs9HEH9OIdGjzUUmXGgs5HCt.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      }
+    ],
+    "firstAirDate": "Sep. 14, 2007",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Sameer Arya, Martand Damdere, Pankaj Tiwari, and Gautam Sesodia are friends who live in a small town in India. Broke, accident-prone, and unable to pay rent to their landlady, they are basically slackers with Sameer and Gautam having no family, while Pankaj has been kicked out by his brother-in-law, and Martand has illicitly borrowed money from his maternal uncle, is unable to re-pay it and hence rendered homeless. The four find out that they can better their lifestyle by obtaining a bank loan \u2013 albeit in vain as they are unable to secure one. Then they decide to woo a rich girl, let one of them marry her, and live their life in comfort\u2026",
+    "infoFields": {
+      "Original title": "\u0922\u094b\u0932",
+      "IMDb Rating": "6.6 8,702 votes",
+      "TMDb Rating": "6.239 44 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Priyadarshan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/priyadarshan/",
+      "image": "https://image.tmdb.org/t/p/w92/gBaSTf0XL0mKj0iYZcYix4OTMyG.jpg"
+    },
+    {
+      "name": "Sharman Joshi",
+      "role": "Pankaj aka Pakkaya",
+      "url": "https://multimovies.city/cast/sharman-joshi/",
+      "image": "https://image.tmdb.org/t/p/w92/lzF6wCzRmveV0hbF1au7JwMiqYV.jpg"
+    },
+    {
+      "name": "Tusshar Kapoor",
+      "role": "Sameer aka Sam",
+      "url": "https://multimovies.city/cast/tusshar-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/5ApUsEt56R0SVQMu11fbmUSHCIi.jpg"
+    },
+    {
+      "name": "Kunal Khemu",
+      "role": "Gautam aka Goti",
+      "url": "https://multimovies.city/cast/kunal-khemu/",
+      "image": "https://image.tmdb.org/t/p/w92/b14MYOFVeebBGyD2Zr86DIMNH0h.jpg"
+    },
+    {
+      "name": "Tanushree Dutta",
+      "role": "Ritu",
+      "url": "https://multimovies.city/cast/tanushree-dutta/",
+      "image": "https://image.tmdb.org/t/p/w92/kIvsZi9fuoOQr49OUH0zvaREEe4.jpg"
+    },
+    {
+      "name": "Rajpal Yadav",
+      "role": "Markand aka Maru",
+      "url": "https://multimovies.city/cast/rajpal-yadav/",
+      "image": "https://image.tmdb.org/t/p/w92/zhzfI91YuODuC3ZY2ABytw68C37.jpg"
+    },
+    {
+      "name": "Om Puri",
+      "role": "Dadaji",
+      "url": "https://multimovies.city/cast/om-puri/",
+      "image": "https://image.tmdb.org/t/p/w92/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+    },
+    {
+      "name": "Payal Rohatgi",
+      "role": "Sophie",
+      "url": "https://multimovies.city/cast/payal-rohatgi/",
+      "image": "https://image.tmdb.org/t/p/w92/1JkcEelIwUkAuDzMYMpeFq7Vajp.jpg"
+    },
+    {
+      "name": "Arbaaz Khan",
+      "role": "Jay",
+      "url": "https://multimovies.city/cast/arbaaz-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/n5iBuvIjx5zuR4DzCfXGtXyv55s.jpg"
+    },
+    {
+      "name": "Murali Sharma",
+      "role": "Zikomo",
+      "url": "https://multimovies.city/cast/murali-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    },
+    {
+      "name": "Tiku Talsania",
+      "role": "",
+      "url": "https://multimovies.city/cast/tiku-talsania/",
+      "image": "https://image.tmdb.org/t/p/w92/pcEzSYDTRrnvA5pcbxhrfGOVTuM.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/363AbLwqlspLfarNARNg9f2tOGP.jpg"
+  ],
+  "similar": [],
+  "views": 3820,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/x2xokpy"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 29324,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:15:45.306969"
+}
