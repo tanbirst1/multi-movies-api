@@ -4,15 +4,168 @@
   "meta": {
     "title": "Shrek",
     "poster": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
-    "synopsis": "It ain\u2019t easy bein\u2019 green \u2014 especially if you\u2019re a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot \u2014 a wisecracking donkey."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      }
+    ],
+    "firstAirDate": "May. 18, 2001",
+    "ratingValue": "9.7",
+    "ratingCount": "3",
+    "synopsis": "It ain\u2019t easy bein\u2019 green \u2014 especially if you\u2019re a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot \u2014 a wisecracking donkey.",
+    "infoFields": {
+      "Original title": "Shrek",
+      "IMDb Rating": "7.9 699,816 votes",
+      "TMDb Rating": "7.724 15,402 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Andrew Adamson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/andrew-adamson/",
+      "image": "https://image.tmdb.org/t/p/w92/qqIAVKAe5LHRbPyZUlptsqlo4Kb.jpg"
+    },
+    {
+      "name": "Mike Myers",
+      "role": "Shrek / Blind Mouse / Opening Narration (voice)",
+      "url": "https://multimovies.city/cast/mike-myers/",
+      "image": "https://image.tmdb.org/t/p/w92/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "name": "Eddie Murphy",
+      "role": "Donkey (voice)",
+      "url": "https://multimovies.city/cast/eddie-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/35NneLV2mx3c4eHptwcCMDmihik.jpg"
+    },
+    {
+      "name": "Cameron Diaz",
+      "role": "Princess Fiona (voice)",
+      "url": "https://multimovies.city/cast/cameron-diaz/",
+      "image": "https://image.tmdb.org/t/p/w92/xw6K3lC6hQNeG7usUSYZIMuI4N2.jpg"
+    },
+    {
+      "name": "John Lithgow",
+      "role": "Lord Farquaad (voice)",
+      "url": "https://multimovies.city/cast/john-lithgow/",
+      "image": "https://image.tmdb.org/t/p/w92/eNPYHaQz3QCl4ebhJyHdI3KGe6F.jpg"
+    },
+    {
+      "name": "Vincent Cassel",
+      "role": "Monsieur Hood (voice)",
+      "url": "https://multimovies.city/cast/vincent-cassel/",
+      "image": "https://image.tmdb.org/t/p/w92/ykBEiVh6YQ9UmMAYUiQkZBH3VV4.jpg"
+    },
+    {
+      "name": "Peter Dennis",
+      "role": "Ogre Hunter (voice)",
+      "url": "https://multimovies.city/cast/peter-dennis/",
+      "image": "https://image.tmdb.org/t/p/w92/A2lPsbLYrhXcKL82byfU8FAfaMY.jpg"
+    },
+    {
+      "name": "Clive Pearse",
+      "role": "Ogre Hunter (voice)",
+      "url": "https://multimovies.city/cast/clive-pearse/",
+      "image": "https://image.tmdb.org/t/p/w92/aRwEqA2YmmymjuJ0lheFKLE6gwU.jpg"
+    },
+    {
+      "name": "Jim Cummings",
+      "role": "Captain of Guards (voice)",
+      "url": "https://multimovies.city/cast/jim-cummings/",
+      "image": "https://image.tmdb.org/t/p/w92/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "name": "Bobby Block",
+      "role": "Baby Bear (voice)",
+      "url": "https://multimovies.city/cast/bobby-block/",
+      "image": "https://image.tmdb.org/t/p/w92/l4ktDZmixDQIhXfDsyLvTGANXiy.jpg"
+    },
+    {
+      "name": "Chris Miller",
+      "role": "Geppetto / Magic Mirror (voice)",
+      "url": "https://multimovies.city/cast/chris-miller/",
+      "image": "https://image.tmdb.org/t/p/w92/qKdbhP9amIRlydcoivWlTx3szuS.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+    "https://image.tmdb.org/t/p/w300/xFb2VglYrfqY01SBDmjhIqoY5GW.jpg",
+    "https://image.tmdb.org/t/p/w300/2l5UHZBcp9cx1PwKLdisJ0gV9jB.jpg",
+    "https://image.tmdb.org/t/p/w300/w0eKUOEog2ImtktCHAMUZws8qif.jpg",
+    "https://image.tmdb.org/t/p/w300/bNTHSd3UqqLzIVwbDOGPnx3ScfF.jpg",
+    "https://image.tmdb.org/t/p/w300/mh7ykIfHDwTwPmhEhbV7yJN8SnB.jpg",
+    "https://image.tmdb.org/t/p/w300/7uyRhOX012pZZzTTQCKxyImN1qB.jpg",
+    "https://image.tmdb.org/t/p/w300/2at55O0N9cXwr5fW9bfM8WG5pAi.jpg",
+    "https://image.tmdb.org/t/p/w300/c0cqEKcvx6a9Hx0i9H1WjHOy51k.jpg",
+    "https://image.tmdb.org/t/p/w300/yIgsIRloMxESFc9iH7uYDEbSYBH.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 4614,
+  "sources": [
+    "https://www.youtube.com/embed/CwXOrWvPBPk?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/0miz9kj23gem",
+    "https://sbplay.org/embed-mj0ujnbx36ve.html",
+    "https://dood.la/e/ykhmv6qz0ps6",
+    "https://mixdrop.co/e/rw3d383gbvqd49o",
+    "https://hydrax.net/watch?v=gR5YMyx77J"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 21188,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 21188,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 21188,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 21188,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 21188,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 21188,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:29:46.904934"
 }
