@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/cars/",
+  "meta": {
+    "title": "Cars",
+    "poster": "https://image.tmdb.org/t/p/w500/abW5AzHDaIK1n9C36VdAeOwORRA.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Jun. 08, 2006",
+    "ratingValue": "8.4",
+    "ratingCount": "21",
+    "synopsis": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town\u2019s offbeat characters.",
+    "infoFields": {
+      "Original title": "Cars",
+      "IMDb Rating": "7.2 485,998 votes",
+      "TMDb Rating": "6.981 13,858 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John Lasseter",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-lasseter/",
+      "image": "https://image.tmdb.org/t/p/w92/gAVAZZHBa1v3gTcsWcBUwiHcyA0.jpg"
+    },
+    {
+      "name": "Owen Wilson",
+      "role": "Lightning McQueen (voice)",
+      "url": "https://multimovies.city/cast/owen-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+    },
+    {
+      "name": "Larry the Cable Guy",
+      "role": "Mater (voice)",
+      "url": "https://multimovies.city/cast/larry-the-cable-guy/",
+      "image": "https://image.tmdb.org/t/p/w92/34pX2sQj9DddaQWRBGukSWYdXxS.jpg"
+    },
+    {
+      "name": "Bonnie Hunt",
+      "role": "Sally Carrera (voice)",
+      "url": "https://multimovies.city/cast/bonnie-hunt/",
+      "image": "https://image.tmdb.org/t/p/w92/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+    },
+    {
+      "name": "Paul Newman",
+      "role": "Doc Hudson (voice)",
+      "url": "https://multimovies.city/cast/paul-newman/",
+      "image": "https://image.tmdb.org/t/p/w92/wU2k6AAtKVnOLKcJ62kV2rvQ1fV.jpg"
+    },
+    {
+      "name": "Tony Shalhoub",
+      "role": "Luigi (voice)",
+      "url": "https://multimovies.city/cast/tony-shalhoub/",
+      "image": "https://image.tmdb.org/t/p/w92/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+    },
+    {
+      "name": "Cheech Marin",
+      "role": "Ramone (voice)",
+      "url": "https://multimovies.city/cast/cheech-marin/",
+      "image": "https://image.tmdb.org/t/p/w92/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+    },
+    {
+      "name": "Michael Wallis",
+      "role": "Sheriff (voice)",
+      "url": "https://multimovies.city/cast/michael-wallis/",
+      "image": "https://image.tmdb.org/t/p/w92/4TxYHUzqpRhbqjSf162WvpP0Hyu.jpg"
+    },
+    {
+      "name": "George Carlin",
+      "role": "Fillmore (voice)",
+      "url": "https://multimovies.city/cast/george-carlin/",
+      "image": "https://image.tmdb.org/t/p/w92/6YKQHJzml6XviUADpSC6kfF56W9.jpg"
+    },
+    {
+      "name": "Paul Dooley",
+      "role": "Sarge (voice)",
+      "url": "https://multimovies.city/cast/paul-dooley/",
+      "image": "https://image.tmdb.org/t/p/w92/7nTdbpU4wIsSDZ8WCPXNJOG9KPI.jpg"
+    },
+    {
+      "name": "Jenifer Lewis",
+      "role": "Flo (voice)",
+      "url": "https://multimovies.city/cast/jenifer-lewis/",
+      "image": "https://image.tmdb.org/t/p/w92/htrTYcoJQQpSYo6BrRehe3h46vo.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+    "https://image.tmdb.org/t/p/w300/8KeWhoMpqbzZRyHPkTtWSLWkL5L.jpg",
+    "https://image.tmdb.org/t/p/w300/vABOhCPfvm1g0cKNzQXwK8EyQ5z.jpg",
+    "https://image.tmdb.org/t/p/w300/hCV6eVyuIZZuyBNVvFwYmCDgLaG.jpg",
+    "https://image.tmdb.org/t/p/w300/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg",
+    "https://image.tmdb.org/t/p/w300/g9bTB79swy3LjCXbk984xktmB4x.jpg",
+    "https://image.tmdb.org/t/p/w300/6QSfz952HN7Ac3JmRwQW4Dehn4q.jpg",
+    "https://image.tmdb.org/t/p/w300/oKirMMsGgi4xT9fKSEqNdj6lEt2.jpg",
+    "https://image.tmdb.org/t/p/w300/wZiUsAI939lOKgs0u3qA3zSW7zx.jpg",
+    "https://image.tmdb.org/t/p/w300/zknlUanky7QIoq3uY50DK9F8x1R.jpg"
+  ],
+  "similar": [],
+  "views": 22250,
+  "sources": [
+    "https://www.youtube.com/embed/SbXIj2T-_uk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vtdaouw"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11233,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 11233,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:00:23.942799"
+}
