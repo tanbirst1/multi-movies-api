@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ratatouille/",
+  "meta": {
+    "title": "Ratatouille",
+    "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      }
+    ],
+    "firstAirDate": "Jun. 28, 2007",
+    "ratingValue": "8.2",
+    "ratingCount": "9",
+    "synopsis": "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart\u2019s delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris\u2019 finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.",
+    "infoFields": {
+      "Original title": "Ratatouille",
+      "IMDb Rating": "8.1 762,771 votes",
+      "TMDb Rating": "7.828 17,555 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jan Pinkava",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jan-pinkava/",
+      "image": "https://image.tmdb.org/t/p/w92/1V8yDrYABfQfWq6MnyjJ3fOM6Tc.jpg"
+    },
+    {
+      "name": "Patton Oswalt",
+      "role": "Remy (voice)",
+      "url": "https://multimovies.city/cast/patton-oswalt/",
+      "image": "https://image.tmdb.org/t/p/w92/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+      "name": "Ian Holm",
+      "role": "Skinner (voice)",
+      "url": "https://multimovies.city/cast/ian-holm/",
+      "image": "https://image.tmdb.org/t/p/w92/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+    },
+    {
+      "name": "Lou Romano",
+      "role": "Linguini (voice)",
+      "url": "https://multimovies.city/cast/lou-romano/",
+      "image": "https://image.tmdb.org/t/p/w92/1qOuqRzlp5BghzTkYSN3MsaEXgF.jpg"
+    },
+    {
+      "name": "Brad Garrett",
+      "role": "Gusteau (voice)",
+      "url": "https://multimovies.city/cast/brad-garrett/",
+      "image": "https://image.tmdb.org/t/p/w92/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+    },
+    {
+      "name": "Peter O'Toole",
+      "role": "Anton Ego (voice)",
+      "url": "https://multimovies.city/cast/peter-otoole/",
+      "image": "https://image.tmdb.org/t/p/w92/7HzyrEuRVPpjmyJTeiU5oILd3Cn.jpg"
+    },
+    {
+      "name": "Janeane Garofalo",
+      "role": "Colette (voice)",
+      "url": "https://multimovies.city/cast/janeane-garofalo/",
+      "image": "https://image.tmdb.org/t/p/w92/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+    },
+    {
+      "name": "Brian Dennehy",
+      "role": "Django (voice)",
+      "url": "https://multimovies.city/cast/brian-dennehy/",
+      "image": "https://image.tmdb.org/t/p/w92/sWAXMe4MVvnFubZtIaN7CmWNbaO.jpg"
+    },
+    {
+      "name": "Peter Sohn",
+      "role": "Emile (voice)",
+      "url": "https://multimovies.city/cast/peter-sohn/",
+      "image": "https://image.tmdb.org/t/p/w92/oxHZZfhXiKWH7n4ZQlo9UjBbvWV.jpg"
+    },
+    {
+      "name": "Will Arnett",
+      "role": "Horst (voice)",
+      "url": "https://multimovies.city/cast/will-arnett/",
+      "image": "https://image.tmdb.org/t/p/w92/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+    },
+    {
+      "name": "Julius Callahan",
+      "role": "Lalo / Francois (voice)",
+      "url": "https://multimovies.city/cast/julius-callahan/",
+      "image": "https://image.tmdb.org/t/p/w92/ggEnMBpO6K77TgGiXYVQA32ksQ6.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+    "https://image.tmdb.org/t/p/w300/rpgNpXn02ivV5KLQjQHnFVWyOgU.jpg",
+    "https://image.tmdb.org/t/p/w300/bGhO2WjIRkghImxTaMFPPORN6O0.jpg",
+    "https://image.tmdb.org/t/p/w300/v9wFBokbo2Zr8a3eyMcKjKYlTZU.jpg",
+    "https://image.tmdb.org/t/p/w300/cHV2QzTxRTLMUn6ibtaX8EUMCLr.jpg",
+    "https://image.tmdb.org/t/p/w300/4Zstpj8BiIrMeR1c8yVWpWunxAs.jpg",
+    "https://image.tmdb.org/t/p/w300/qxGmHvmjlBlH5WZOhdHEHAjHaMB.jpg",
+    "https://image.tmdb.org/t/p/w300/hUyGbk0uWX0MPhsu8kSWanVYzdR.jpg",
+    "https://image.tmdb.org/t/p/w300/xwelCM0ttrQ2tEQHGH5BsjNxONv.jpg",
+    "https://image.tmdb.org/t/p/w300/lxpv2ikF3Cdml90d1JI7hJzh6rK.jpg"
+  ],
+  "similar": [],
+  "views": 9842,
+  "sources": [
+    "https://www.youtube.com/embed/NgsQ8mVkN8w?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vqr3437"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18101,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18101,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:12:37.212584"
+}
