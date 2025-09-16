@@ -1,13 +1,13 @@
-// api/scraper.js
+// api/show.js
 
-// ------- Simple In-memory Cache -------
+// ---- Simple Cache ----
 const cacheStore = new Map(); // key: target URL, value: { data, expiry }
 
-// ------- Helpers -------
+// ---- Helpers ----
 function readBaseURL() {
   const envBase = (process.env.BASE_URL || "").trim();
   if (/^https?:\/\//i.test(envBase)) return envBase.replace(/\/+$/, "");
-  return "https://multimovies.lol/"; // fallback default
+  return "https://multimovies.lol/"; // fallback
 }
 
 function toAbs(base, href) {
@@ -48,7 +48,8 @@ async function fetchHTML(target, timeoutMs = 20000) {
     const resp = await fetch(target, {
       method: "GET",
       headers: {
-        "user-agent": "Mozilla/5.0 (compatible; Scraper/3.0; +https://vercel.com/)",
+        "user-agent":
+          "Mozilla/5.0 (compatible; Scraper/2.0; +https://vercel.com/)",
         accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
       },
       signal: ac.signal,
@@ -64,9 +65,7 @@ async function fetchHTML(target, timeoutMs = 20000) {
 
 async function fetchSourcesFromVideo(url) {
   try {
-    const apiUrl = `https://multi-movies-api.vercel.app/api/video.js?url=${encodeURIComponent(
-      url
-    )}`;
+    const apiUrl = `https://multi-movies-api.vercel.app/api/video.js?url=${encodeURIComponent(url)}`;
     const resp = await fetch(apiUrl, {
       headers: { "user-agent": "Mozilla/5.0 (VideoFetcher/1.0)" },
     });
@@ -82,39 +81,52 @@ async function fetchSourcesFromVideo(url) {
   }
 }
 
-// ---- Parse Show Page ----
+// ---- Lightweight Regex Parsing ----
 function parsePage(html, pageUrl, siteRoot) {
-  const dom = new DOMParser().parseFromString(html, "text/html");
+  const titleMatch =
+    html.match(/<h1[^>]*>(.*?)<\/h1>/) ||
+    html.match(/<meta[^>]+itemprop="name"[^>]+content="([^"]+)"/i);
+  const title = titleMatch ? titleMatch[1].trim() : "";
 
-  const title =
-    dom.querySelector("#single .sheader .data h1")?.textContent.trim() ||
-    dom.querySelector('meta[itemprop="name"]')?.getAttribute("content") ||
-    "";
+  const posterMatch = html.match(/<img[^>]+class="[^"]*poster[^"]*"[^>]+src="([^"]+)"/i);
+  const poster = posterMatch ? normalizeImageURL(toAbs(siteRoot, posterMatch[1])) : "";
 
-  let poster = dom.querySelector("#single .sheader .poster img")?.getAttribute("src") || "";
-  poster = normalizeImageURL(toAbs(siteRoot, poster));
-
-  const synopsis = dom.querySelector("#info .wp-content")?.textContent.trim() || "";
+  const synopsisMatch = html.match(/<div[^>]+class="wp-content"[^>]*>([\s\S]*?)<\/div>/i);
+  const synopsis = synopsisMatch
+    ? synopsisMatch[1].replace(/<[^>]+>/g, "").replace(/\s+\n/g, "\n").trim()
+    : "";
 
   const seasons = [];
-  dom.querySelectorAll("#seasons .se-c").forEach((se) => {
-    const seasonNumberText = se.querySelector(".se-q .se-t")?.textContent.trim() || "";
-    const seasonNumber = seasonNumberText ? parseInt(seasonNumberText, 10) : null;
-    const seasonTitle = se.querySelector(".se-q .title")?.textContent.trim() || "";
+  const seasonRegex = /<div class="se-c">([\s\S]*?)<\/div>\s*<\/div>/gi;
+  let seasonBlock;
+  while ((seasonBlock = seasonRegex.exec(html))) {
+    const block = seasonBlock[1];
+    const seasonNumberMatch = block.match(/<span class="se-t">(\d+)<\/span>/);
+    const seasonNumber = seasonNumberMatch ? parseInt(seasonNumberMatch[1], 10) : null;
+    const seasonTitleMatch = block.match(/<span class="title">(.*?)<\/span>/);
+    const seasonTitle = seasonTitleMatch ? seasonTitleMatch[1].trim() : "";
 
     const episodes = [];
-    se.querySelectorAll(".se-a ul.episodios > li").forEach((li) => {
-      const numerando = li.querySelector(".numerando")?.textContent.trim() || "";
-      const eMatch = numerando.match(/(\d+)\s*-\s*(\d+)/);
-      const seasonNo = eMatch ? parseInt(eMatch[1], 10) : null;
-      const episodeNo = eMatch ? parseInt(eMatch[2], 10) : null;
+    const epRegex = /<li[^>]*>([\s\S]*?)<\/li>/gi;
+    let epBlock;
+    while ((epBlock = epRegex.exec(block))) {
+      const li = epBlock[1];
 
-      const a = li.querySelector(".episodiotitle a");
-      const epTitle = a?.textContent.trim() || "";
-      const epUrl = toAbs(siteRoot, a?.getAttribute("href") || "");
-      const airDate = li.querySelector(".episodiotitle .date")?.textContent.trim() || "";
-      const thumbRaw = li.querySelector(".imagen img")?.getAttribute("src") || "";
-      const thumb = normalizeImageURL(toAbs(siteRoot, thumbRaw));
+      const numMatch = li.match(/(\d+)\s*-\s*(\d+)/);
+      const seasonNo = numMatch ? parseInt(numMatch[1], 10) : null;
+      const episodeNo = numMatch ? parseInt(numMatch[2], 10) : null;
+
+      const urlMatch = li.match(/<a[^>]+href="([^"]+)"/i);
+      const epUrl = urlMatch ? toAbs(siteRoot, urlMatch[1]) : "";
+
+      const titleMatch = li.match(/<a[^>]*>(.*?)<\/a>/i);
+      const epTitle = titleMatch ? epTitle[1].trim() : "";
+
+      const dateMatch = li.match(/<span class="date">([^<]+)<\/span>/i);
+      const airDate = dateMatch ? dateMatch[1].trim() : "";
+
+      const thumbMatch = li.match(/<img[^>]+src="([^"]+)"/i);
+      const thumb = thumbMatch ? normalizeImageURL(toAbs(siteRoot, thumbMatch[1])) : "";
 
       episodes.push({
         seasonNo,
@@ -125,12 +137,12 @@ function parsePage(html, pageUrl, siteRoot) {
         thumbnail: thumb,
         sources: [],
       });
-    });
+    }
 
     if (seasonNumber !== null || episodes.length) {
       seasons.push({ seasonNumber, seasonTitle, episodes });
     }
-  });
+  }
 
   return {
     ok: true,
@@ -140,18 +152,18 @@ function parsePage(html, pageUrl, siteRoot) {
   };
 }
 
-// ---- Preloader: fetch episode sources one by one ----
-async function preloadEpisodeSources(seasons, delay = 1200) {
+// ---- Preload Sources ----
+async function preloadEpisodeSources(seasons, delay = 1000) {
   for (const season of seasons) {
     for (const ep of season.episodes) {
       ep.sources = await fetchSourcesFromVideo(ep.url);
-      await new Promise((r) => setTimeout(r, delay)); // avoid crash
+      await new Promise((r) => setTimeout(r, delay));
     }
   }
   return seasons;
 }
 
-// ------- Handler -------
+// ---- Handler ----
 export default async function handler(req, res) {
   try {
     const q = req.query || {};
@@ -175,7 +187,7 @@ export default async function handler(req, res) {
       siteRoot = new URL(base || target).origin;
     } catch {}
 
-    // --- Cache ---
+    // Cache
     const now = Date.now();
     const cached = cacheStore.get(target);
     if (cached && cached.expiry > now) {
@@ -184,12 +196,12 @@ export default async function handler(req, res) {
       return;
     }
 
-    // --- Fetch + Parse ---
+    // Fetch + Parse
     const html = await fetchHTML(target);
     let data = parsePage(html, target, siteRoot || target);
 
-    // Preload sources (slow but safe)
-    data.seasons = await preloadEpisodeSources(data.seasons, 1500);
+    // Preload sources
+    data.seasons = await preloadEpisodeSources(data.seasons, 1000);
 
     cacheStore.set(target, { data, expiry: now + 500 * 1000 });
 
