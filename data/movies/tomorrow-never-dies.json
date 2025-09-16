@@ -4,8 +4,140 @@
   "meta": {
     "title": "James Bond Part 19 : Tomorrow Never Dies",
     "poster": "https://image.tmdb.org/t/p/w500/gZm002w7q9yLOkltxT76TWGfdZX.jpg",
-    "synopsis": "A deranged media mogul is staging international incidents to pit the world\u2019s superpowers against each other. Now James Bond must take on this evil mastermind in an adrenaline-charged battle to end his reign of terror and prevent global pandemonium."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "James Bond",
+        "url": "https://multimovies.city/genre/james-bond/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Dec. 11, 1997",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A deranged media mogul is staging international incidents to pit the world\u2019s superpowers against each other. Now James Bond must take on this evil mastermind in an adrenaline-charged battle to end his reign of terror and prevent global pandemonium.",
+    "infoFields": {
+      "Original title": "Tomorrow Never Dies",
+      "IMDb Rating": "6.5 199,789 votes",
+      "TMDb Rating": "6.34 2,746 votes"
+    }
   },
   "seasons": [],
-  "cache": false
+  "cast": [
+    {
+      "name": "Roger Spottiswoode",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roger-spottiswoode/",
+      "image": "https://image.tmdb.org/t/p/w92/ofSwHS4FtNtKO70LHqXdOgU67iP.jpg"
+    },
+    {
+      "name": "Pierce Brosnan",
+      "role": "James Bond",
+      "url": "https://multimovies.city/cast/pierce-brosnan/",
+      "image": "https://image.tmdb.org/t/p/w92/mciqKRUdKFGF8CUEMiimcA1sdDN.jpg"
+    },
+    {
+      "name": "Jonathan Pryce",
+      "role": "Elliot Carver",
+      "url": "https://multimovies.city/cast/jonathan-pryce/",
+      "image": "https://image.tmdb.org/t/p/w92/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg"
+    },
+    {
+      "name": "Michelle Yeoh",
+      "role": "Wai Lin",
+      "url": "https://multimovies.city/cast/michelle-yeoh/",
+      "image": "https://image.tmdb.org/t/p/w92/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+    },
+    {
+      "name": "Teri Hatcher",
+      "role": "Paris Carver",
+      "url": "https://multimovies.city/cast/teri-hatcher/",
+      "image": "https://image.tmdb.org/t/p/w92/ySmnfZm8ZGabcwp4UwaMDeSzXqx.jpg"
+    },
+    {
+      "name": "Joe Don Baker",
+      "role": "Jack Wade",
+      "url": "https://multimovies.city/cast/joe-don-baker/",
+      "image": "https://image.tmdb.org/t/p/w92/bzQadJDnljMV6cx4TkfUEsfMuYL.jpg"
+    },
+    {
+      "name": "Judi Dench",
+      "role": "M",
+      "url": "https://multimovies.city/cast/judi-dench/",
+      "image": "https://image.tmdb.org/t/p/w92/cpna5VGvAxuKuC31xJPBKy9zbnv.jpg"
+    },
+    {
+      "name": "Ricky Jay",
+      "role": "Henry Gupta",
+      "url": "https://multimovies.city/cast/ricky-jay/",
+      "image": "https://image.tmdb.org/t/p/w92/xtJvNUSwIOKZ4Z4SDOYjPhvdtIN.jpg"
+    },
+    {
+      "name": "Desmond Llewelyn",
+      "role": "Q",
+      "url": "https://multimovies.city/cast/desmond-llewelyn/",
+      "image": "https://image.tmdb.org/t/p/w92/7tf1w6bGhpBwCHwYPRcphh5vUc8.jpg"
+    },
+    {
+      "name": "G\u00f6tz Otto",
+      "role": "Stamper",
+      "url": "https://multimovies.city/cast/gotz-otto/",
+      "image": "https://image.tmdb.org/t/p/w92/gUIvsX30Uey3KXYA5VYx5XvcRqf.jpg"
+    },
+    {
+      "name": "Samantha Bond",
+      "role": "Miss Moneypenny",
+      "url": "https://multimovies.city/cast/samantha-bond/",
+      "image": "https://image.tmdb.org/t/p/w92/apo13y77RnKUWTjY1FsW1DcQdkY.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/fesAgiKA0pc04vScDTAQe1f9nd4.jpg",
+    "https://image.tmdb.org/t/p/w300/eIM2hC97jHif1sqGuIbzFvc17ru.jpg",
+    "https://image.tmdb.org/t/p/w300/6bpQGiGRVJii19onzQ1J42orLaW.jpg",
+    "https://image.tmdb.org/t/p/w300/yUHP5AectnhcG4dWJ53L3uQvOgu.jpg",
+    "https://image.tmdb.org/t/p/w300/4IR885MbmAEdGRzajU5B7RgKdJi.jpg",
+    "https://image.tmdb.org/t/p/w300/AdWsjaoePJS31rvlhFN2uhtD1vn.jpg",
+    "https://image.tmdb.org/t/p/w300/nmjtwY97aWBU0WO8LnLn2fmAkKV.jpg",
+    "https://image.tmdb.org/t/p/w300/cfS9bnLcuIPRoohzlRE0y6kubg0.jpg",
+    "https://image.tmdb.org/t/p/w300/oWefaQ7EtNtRhweyUrBr6Kv60k4.jpg",
+    "https://image.tmdb.org/t/p/w300/yauRBnSL4174vFTExreLAoNHRlG.jpg"
+  ],
+  "similar": [],
+  "views": 2184,
+  "sources": [
+    "https://www.youtube.com/embed/QP1FMpIo-uQ?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/p23q762qpu30"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 25578,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 25578,
+      "nume": 1,
+      "title": "ff"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:21:49.227809"
 }
