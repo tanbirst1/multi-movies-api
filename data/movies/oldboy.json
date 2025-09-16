@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/oldboy/",
+  "meta": {
+    "title": "Oldboy",
+    "poster": "https://image.tmdb.org/t/p/w500/kKMuZ5hOXSbesbM1Ba1hGugJEro.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Nov. 21, 2003",
+    "ratingValue": "9.7",
+    "ratingCount": "14",
+    "synopsis": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate businessman seeks revenge on his captors.",
+    "infoFields": {
+      "Original title": "\uc62c\ub4dc\ubcf4\uc774",
+      "IMDb Rating": "8.4 592,975 votes",
+      "TMDb Rating": "8.3 7,417 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Park Chan-wook",
+      "role": "Director",
+      "url": "https://multimovies.city/director/park-chan-wook/",
+      "image": "https://image.tmdb.org/t/p/w92/jsSFCVB7MhuVbSLwTgESiXEiNjt.jpg"
+    },
+    {
+      "name": "Choi Min-sik",
+      "role": "Oh Dae-su",
+      "url": "https://multimovies.city/cast/choi-min-sik/",
+      "image": "https://image.tmdb.org/t/p/w92/sd7gIA6nEkq6zumkDCfxSE0YSSV.jpg"
+    },
+    {
+      "name": "Yoo Ji-tae",
+      "role": "Lee Woo-jin",
+      "url": "https://multimovies.city/cast/yoo-ji-tae/",
+      "image": "https://image.tmdb.org/t/p/w92/gGGV2gc0orgssYJ0Q9MSomdYo2I.jpg"
+    },
+    {
+      "name": "Kang Hye-jung",
+      "role": "Mi-do",
+      "url": "https://multimovies.city/cast/kang-hye-jung/",
+      "image": "https://image.tmdb.org/t/p/w92/46RDs0JLTEmI9Fp6hzU50LmJqId.jpg"
+    },
+    {
+      "name": "Kim Byeong-ok",
+      "role": "Mr. Han",
+      "url": "https://multimovies.city/cast/kim-byeong-ok/",
+      "image": "https://image.tmdb.org/t/p/w92/oGVs2OmYTyXR0KT9xvzVWCAKx8t.jpg"
+    },
+    {
+      "name": "Ji Dae-han",
+      "role": "No Joo-hwan",
+      "url": "https://multimovies.city/cast/ji-dae-han/",
+      "image": "https://image.tmdb.org/t/p/w92/9aoOX8p2oxUAwOaT8jT6GWfjs01.jpg"
+    },
+    {
+      "name": "Oh Dal-su",
+      "role": "Park Cheol-woong",
+      "url": "https://multimovies.city/cast/oh-dal-su/",
+      "image": "https://image.tmdb.org/t/p/w92/hd72oGjq0YKYdgZKMnqtV00MV28.jpg"
+    },
+    {
+      "name": "Lee Seung-shin",
+      "role": "Hypnotist",
+      "url": "https://multimovies.city/cast/lee-seung-shin/",
+      "image": "https://image.tmdb.org/t/p/w92/vYbx7qS6H3BXLmdIsggJKulEVaY.jpg"
+    },
+    {
+      "name": "Yoon Jin-seo",
+      "role": "Lee Soo-ah",
+      "url": "https://multimovies.city/cast/yoon-jin-seo/",
+      "image": "https://image.tmdb.org/t/p/w92/5br9jHiVLUTmiNxqswpmDg7Zowb.jpg"
+    },
+    {
+      "name": "Oh Tae-kyung",
+      "role": "Young Dae-su",
+      "url": "https://multimovies.city/cast/oh-tae-kyung/",
+      "image": "https://image.tmdb.org/t/p/w92/yhjx0z0Q4RJtxDewQz5wFWDMUax.jpg"
+    },
+    {
+      "name": "Yoo Yeon-seok",
+      "role": "Young Woo-jin",
+      "url": "https://multimovies.city/cast/yoo-yeon-seok/",
+      "image": "https://image.tmdb.org/t/p/w92/cB95no6uPnMu5FdlVWK3cO9k5xR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/foc0hOprAdNpk1auscKqtipMtT5.jpg",
+    "https://image.tmdb.org/t/p/w300/tcbzsdWpdidbN7zbOymlRKfIHVg.jpg",
+    "https://image.tmdb.org/t/p/w300/ctfiTiulaR7GWDd1S2Q4xw4pWTw.jpg",
+    "https://image.tmdb.org/t/p/w300/sdwjQEM869JFwMytTmvr6ggvaUl.jpg",
+    "https://image.tmdb.org/t/p/w300/67xBWuwPVRi3AqrcFlC50sQN6A2.jpg",
+    "https://image.tmdb.org/t/p/w300/47rioCQJLDe6gT7NYdPf7IRy3Nu.jpg",
+    "https://image.tmdb.org/t/p/w300/3996s0hDeRExUuiuKzcWSEyCxSD.jpg",
+    "https://image.tmdb.org/t/p/w300/fY3vRg4JbqUyP4wNzThutkCdUeS.jpg",
+    "https://image.tmdb.org/t/p/w300/ysUfWTSVL3DJoAIIiRI3y6MQrXI.jpg",
+    "https://image.tmdb.org/t/p/w300/lFM03YSz6KXf2R8MMgLPfHIqPth.jpg"
+  ],
+  "similar": [],
+  "views": 17850,
+  "sources": [
+    "https://www.youtube.com/embed/w4UUGIIZxFU?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ifnji1yghl9q"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7683,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7683,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:45:57.520256"
+}
