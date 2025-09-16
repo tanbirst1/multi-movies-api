@@ -1,0 +1,146 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-princess-bride/",
+  "meta": {
+    "title": "The Princess Bride",
+    "poster": "https://image.tmdb.org/t/p/w500/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Sep. 25, 1987",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can\u2019t stop these true lovebirds from triumphing.",
+    "infoFields": {
+      "Original title": "The Princess Bride",
+      "IMDb Rating": "8 453,117 votes",
+      "TMDb Rating": "7.681 4,411 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rob Reiner",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rob-reiner/",
+      "image": "https://image.tmdb.org/t/p/w92/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+    },
+    {
+      "name": "Cary Elwes",
+      "role": "Westley",
+      "url": "https://multimovies.city/cast/cary-elwes/",
+      "image": "https://image.tmdb.org/t/p/w92/9P0JD0LC4j3Y43s6TGM8rOqmbwb.jpg"
+    },
+    {
+      "name": "Robin Wright",
+      "role": "Princess Buttercup",
+      "url": "https://multimovies.city/cast/robin-wright/",
+      "image": "https://image.tmdb.org/t/p/w92/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+      "name": "Mandy Patinkin",
+      "role": "Inigo Montoya",
+      "url": "https://multimovies.city/cast/mandy-patinkin/",
+      "image": "https://image.tmdb.org/t/p/w92/ykKV39t79fm6I88m8CjZFu0oBDU.jpg"
+    },
+    {
+      "name": "Chris Sarandon",
+      "role": "Prince Humperdinck",
+      "url": "https://multimovies.city/cast/chris-sarandon/",
+      "image": "https://image.tmdb.org/t/p/w92/jP92Lq3JHl8mbdxzcZ6PyCQDwa5.jpg"
+    },
+    {
+      "name": "Andr\u00e9 Roussimoff",
+      "role": "Fezzik",
+      "url": "https://multimovies.city/cast/andre-roussimoff/",
+      "image": "https://image.tmdb.org/t/p/w92/wJPL8WVrzOWhkH6gCQkqGsXBdWG.jpg"
+    },
+    {
+      "name": "Christopher Guest",
+      "role": "Count Tyrone Rugen",
+      "url": "https://multimovies.city/cast/christopher-guest/",
+      "image": "https://image.tmdb.org/t/p/w92/blRS1tkcgZROLC7ObGigFEzvp2r.jpg"
+    },
+    {
+      "name": "Wallace Shawn",
+      "role": "Vizzini",
+      "url": "https://multimovies.city/cast/wallace-shawn/",
+      "image": "https://image.tmdb.org/t/p/w92/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "name": "Peter Falk",
+      "role": "The Grandfather / Narrator",
+      "url": "https://multimovies.city/cast/peter-falk/",
+      "image": "https://image.tmdb.org/t/p/w92/e59x8ITouNlyz8Qa2abb5lxiQvI.jpg"
+    },
+    {
+      "name": "Fred Savage",
+      "role": "The Grandson",
+      "url": "https://multimovies.city/cast/fred-savage/",
+      "image": "https://image.tmdb.org/t/p/w92/ux4TBPjG2kZDUlDiKb6eBK7BBFl.jpg"
+    },
+    {
+      "name": "Billy Crystal",
+      "role": "Miracle Max",
+      "url": "https://multimovies.city/cast/billy-crystal/",
+      "image": "https://image.tmdb.org/t/p/w92/6QNyXn8NPQDEctSuDLgg5AHmsiR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5FmPSt34vkCiMDhC8WflhlCwIS8.jpg",
+    "https://image.tmdb.org/t/p/w300/onACwa3TjpeaY7EVHSZZbeNkd2q.jpg",
+    "https://image.tmdb.org/t/p/w300/o9h0ZbosSWkStWKlcqxKmBBs274.jpg",
+    "https://image.tmdb.org/t/p/w300/zDjEC91q0XUmqIfap9yuxKKGZRe.jpg",
+    "https://image.tmdb.org/t/p/w300/aOe0QpQyqbl2znCXMXOPpSAGYXe.jpg",
+    "https://image.tmdb.org/t/p/w300/kKJD2hpZ8V20VI4mxEXNrrmAPu1.jpg",
+    "https://image.tmdb.org/t/p/w300/aQ2ZbNqIaecoQsryNe33UmDtms.jpg",
+    "https://image.tmdb.org/t/p/w300/fVmSWkJ0dgTtklMw9k2EtYS9WOl.jpg",
+    "https://image.tmdb.org/t/p/w300/2NYNmp8goqhFr1Toyx063irCSCg.jpg",
+    "https://image.tmdb.org/t/p/w300/wD2Bp9RIF36EfsHiVqPNLq1SEOI.jpg"
+  ],
+  "similar": [],
+  "views": 771,
+  "sources": [
+    "https://www.youtube.com/embed/fE-8EWYAVG8?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/disftyuomw7i"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 55165,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 55165,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
