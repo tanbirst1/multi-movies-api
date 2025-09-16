@@ -1,7 +1,7 @@
 // pages/api/movies.js
 const GITHUB_REPO = "tanbirst1/multi-movies-api";
 const GITHUB_BRANCH = "main";
-const NETLIFY_BASE = "https://comfy-souffle-dcb730.netlify.app/data/movies/";
+const NETLIFY_BASE = "https://stellular-dango-34f9ba.netlify.app/data/movies/";
 const DEFAULT_FIRST_AIR = "2015-08-26T00:00:00Z"; // safe ISO fallback
 
 function safeIsoDate(input) {
