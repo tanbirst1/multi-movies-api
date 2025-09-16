@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-assassination-of-jesse-james-by-the-coward-robert-ford/",
+  "meta": {
+    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "poster": "https://image.tmdb.org/t/p/w500/2d1S6fJS80fvseg6mJE8eq5o7Kx.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Western",
+        "url": "https://multimovies.city/genre/western/"
+      }
+    ],
+    "firstAirDate": "Sep. 20, 2007",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Outlaw Jesse James is rumored to be the \u2018fastest gun in the West\u2019. An eager recruit into James\u2019 notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+    "infoFields": {
+      "Original title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "IMDb Rating": "7.5 199,445 votes",
+      "TMDb Rating": "7.041 2,600 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Andrew Dominik",
+      "role": "Director",
+      "url": "https://multimovies.city/director/andrew-dominik/",
+      "image": "https://image.tmdb.org/t/p/w92/blo8doyYK1Swsa4ThRgq3OT62J1.jpg"
+    },
+    {
+      "name": "Brad Pitt",
+      "role": "Jesse James",
+      "url": "https://multimovies.city/cast/brad-pitt/",
+      "image": "https://image.tmdb.org/t/p/w92/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+    },
+    {
+      "name": "Casey Affleck",
+      "role": "Robert Ford",
+      "url": "https://multimovies.city/cast/casey-affleck/",
+      "image": "https://image.tmdb.org/t/p/w92/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    },
+    {
+      "name": "Sam Rockwell",
+      "role": "Charley Ford",
+      "url": "https://multimovies.city/cast/sam-rockwell/",
+      "image": "https://image.tmdb.org/t/p/w92/vYpWxV0bnUgKo7SdasfGP9HttUq.jpg"
+    },
+    {
+      "name": "Paul Schneider",
+      "role": "Dick Liddil",
+      "url": "https://multimovies.city/cast/paul-schneider/",
+      "image": "https://image.tmdb.org/t/p/w92/69tLX644rRr1RT9gxajsWlNrf0Y.jpg"
+    },
+    {
+      "name": "Jeremy Renner",
+      "role": "Wood Hite",
+      "url": "https://multimovies.city/cast/jeremy-renner/",
+      "image": "https://image.tmdb.org/t/p/w92/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+    },
+    {
+      "name": "Garret Dillahunt",
+      "role": "Ed Miller",
+      "url": "https://multimovies.city/cast/garret-dillahunt/",
+      "image": "https://image.tmdb.org/t/p/w92/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
+    },
+    {
+      "name": "Sam Shepard",
+      "role": "Frank James",
+      "url": "https://multimovies.city/cast/sam-shepard/",
+      "image": "https://image.tmdb.org/t/p/w92/uaMe0wbp80kSKZtsoEbZ7kFjisD.jpg"
+    },
+    {
+      "name": "Mary-Louise Parker",
+      "role": "Zee James",
+      "url": "https://multimovies.city/cast/mary-louise-parker/",
+      "image": "https://image.tmdb.org/t/p/w92/1ohhrIZ4OMlLx9DvHjPhQJAIP0F.jpg"
+    },
+    {
+      "name": "Zooey Deschanel",
+      "role": "Dorothy Evans",
+      "url": "https://multimovies.city/cast/zooey-deschanel/",
+      "image": "https://image.tmdb.org/t/p/w92/30KQyjsXfrdm4Dcori7bDFTg9Le.jpg"
+    },
+    {
+      "name": "Ted Levine",
+      "role": "Sheriff Timberlake",
+      "url": "https://multimovies.city/cast/ted-levine/",
+      "image": "https://image.tmdb.org/t/p/w92/451KSkowLW6M2Au0wBKZZcidgGm.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5r2BZajlRZqnOc6s2BS0aiFDcne.jpg",
+    "https://image.tmdb.org/t/p/w300/oAu8V25rIdGxdgOpPnl7MvB1YS8.jpg",
+    "https://image.tmdb.org/t/p/w300/udlauJ2JYITMFUAbgq1Q8nCN0l3.jpg",
+    "https://image.tmdb.org/t/p/w300/u73XutyreSvleJLjUZyedgisAgY.jpg",
+    "https://image.tmdb.org/t/p/w300/lTBp51psHjokgVuhBHiAgx56YYb.jpg",
+    "https://image.tmdb.org/t/p/w300/3HvQ5PaxwQJEiRSZD5AyVuqEiNn.jpg",
+    "https://image.tmdb.org/t/p/w300/61GawZV7tqMIrHbbbEirwCfs8NB.jpg",
+    "https://image.tmdb.org/t/p/w300/pRoDlfOgt4f0KjJv0Cs89BhFmPI.jpg",
+    "https://image.tmdb.org/t/p/w300/8mQgbBK3OuxgiDbXEvRaI76qZ9K.jpg",
+    "https://image.tmdb.org/t/p/w300/mC10CGjtIXZOhf33HoL6qz4R1Kt.jpg"
+  ],
+  "similar": [],
+  "views": 705,
+  "sources": [
+    "https://www.youtube.com/embed/hpoJSNeot7A?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/oslwxr5"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 96357,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 96357,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:15:24.083659"
+}
