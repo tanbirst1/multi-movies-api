@@ -4,15 +4,134 @@
   "meta": {
     "title": "Bridget Jones\u2019s Diary",
     "poster": "https://image.tmdb.org/t/p/w500/2GFbvryLXbS2K80oadfzNoPo90O.jpg",
-    "synopsis": "A chaotic Bridget Jones meets a snobbish lawyer, and he soon enters her world of imperfections."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Apr. 13, 2001",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "A chaotic Bridget Jones meets a snobbish lawyer, and he soon enters her world of imperfections.",
+    "infoFields": {
+      "Original title": "Bridget Jones's Diary",
+      "IMDb Rating": "6.8 252,248 votes",
+      "TMDb Rating": "6.745 4,544 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Sharon Maguire",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sharon-maguire/",
+      "image": "https://image.tmdb.org/t/p/w92/1EoTNYeTO4msaxZGWcKdL4FDrbZ.jpg"
+    },
+    {
+      "name": "Ren\u00e9e Zellweger",
+      "role": "Bridget Jones",
+      "url": "https://multimovies.city/cast/renee-zellweger/",
+      "image": "https://image.tmdb.org/t/p/w92/l4YzuDddOE2sTuscXukR5z0qmCU.jpg"
+    },
+    {
+      "name": "Colin Firth",
+      "role": "Mark Darcy",
+      "url": "https://multimovies.city/cast/colin-firth/",
+      "image": "https://image.tmdb.org/t/p/w92/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+    },
+    {
+      "name": "Hugh Grant",
+      "role": "Daniel Cleaver",
+      "url": "https://multimovies.city/cast/hugh-grant/",
+      "image": "https://image.tmdb.org/t/p/w92/tUHkXYdwm405DjBm2IpPxGjYkjj.jpg"
+    },
+    {
+      "name": "Jim Broadbent",
+      "role": "Bridget's Dad",
+      "url": "https://multimovies.city/cast/jim-broadbent/",
+      "image": "https://image.tmdb.org/t/p/w92/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg"
+    },
+    {
+      "name": "Gemma Jones",
+      "role": "Bridget's Mum",
+      "url": "https://multimovies.city/cast/gemma-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/qpvLa2bfCEbGI83RwDOyIThibQ6.jpg"
+    },
+    {
+      "name": "James Callis",
+      "role": "Tom",
+      "url": "https://multimovies.city/cast/james-callis/",
+      "image": "https://image.tmdb.org/t/p/w92/dLmmQU5hA0J6Jxi20aS8kdN6k3o.jpg"
+    },
+    {
+      "name": "Sally Phillips",
+      "role": "Shazza",
+      "url": "https://multimovies.city/cast/sally-phillips/",
+      "image": "https://image.tmdb.org/t/p/w92/xLEMZhksdCEO8HUhQLNetkETLdr.jpg"
+    },
+    {
+      "name": "Shirley Henderson",
+      "role": "Jude",
+      "url": "https://multimovies.city/cast/shirley-henderson/",
+      "image": "https://image.tmdb.org/t/p/w92/rWE3okN5EUvCT8DVjK0xobKStfQ.jpg"
+    },
+    {
+      "name": "Embeth Davidtz",
+      "role": "Natasha",
+      "url": "https://multimovies.city/cast/embeth-davidtz/",
+      "image": "https://image.tmdb.org/t/p/w92/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+    },
+    {
+      "name": "Lisa Barbuscia",
+      "role": "Lara",
+      "url": "https://multimovies.city/cast/lisa-barbuscia/",
+      "image": "https://image.tmdb.org/t/p/w92/zDwgjyOZQG1CWb6KyvhP66QtXYe.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/imvV078HyWsa9jgDVLi4APgskrJ.jpg",
+    "https://image.tmdb.org/t/p/w300/3jIHKLFaypySDCc2qreGnohkyLK.jpg",
+    "https://image.tmdb.org/t/p/w300/cAZzH82kxaOhqPNQrGmMPqOEIP9.jpg",
+    "https://image.tmdb.org/t/p/w300/bHcCfEIfwRpzxphjHqU3pxEfsK2.jpg",
+    "https://image.tmdb.org/t/p/w300/f3TpUw5qYLEtKFGjMLSXUUuCyS2.jpg",
+    "https://image.tmdb.org/t/p/w300/tRq9itVp7buvv4dPGT102UI3yzV.jpg",
+    "https://image.tmdb.org/t/p/w300/j1aPdVxvB5MtBs0k3D7kPYw3DQK.jpg",
+    "https://image.tmdb.org/t/p/w300/31A8RpdiDGp0rAp87mKqhNzL1uH.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 1389,
+  "sources": [
+    "https://www.youtube.com/embed/PYPK3jPZkYI?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/j4km2ub4v6lj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26230,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 26230,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:30:02.900947"
 }
