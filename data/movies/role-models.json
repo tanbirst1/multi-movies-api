@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/role-models/",
+  "meta": {
+    "title": "Role Models",
+    "poster": "https://image.tmdb.org/t/p/w500/d5SatGKWi0VpO9QX0Z74zLh9i91.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 07, 2008",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Two salesmen trash a company truck on an energy drink-fueled bender. Upon their arrest, the court gives them a choice: do hard time or spend 150 service hours with a mentorship program. After one day with the kids, however, jail doesn\u2019t look half bad.",
+    "infoFields": {
+      "Original title": "Role Models",
+      "IMDb Rating": "6.8 238,340 votes",
+      "TMDb Rating": "6.491 1,742 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Wain",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-wain/",
+      "image": "https://image.tmdb.org/t/p/w92/yh4AtjuNvBwca8HvzIXjo1Y1Nwf.jpg"
+    },
+    {
+      "name": "Seann William Scott",
+      "role": "Wheeler",
+      "url": "https://multimovies.city/cast/seann-william-scott/",
+      "image": "https://image.tmdb.org/t/p/w92/mKc2YXdh8d4U2jYDwpLWaOY6Jwg.jpg"
+    },
+    {
+      "name": "Paul Rudd",
+      "role": "Danny Donahue",
+      "url": "https://multimovies.city/cast/paul-rudd/",
+      "image": "https://image.tmdb.org/t/p/w92/9iBLPdj6AVnfBI1B2c0vTnGRR24.jpg"
+    },
+    {
+      "name": "Elizabeth Banks",
+      "role": "Beth",
+      "url": "https://multimovies.city/cast/elizabeth-banks/",
+      "image": "https://image.tmdb.org/t/p/w92/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg"
+    },
+    {
+      "name": "Christopher Mintz-Plasse",
+      "role": "Augie Farks",
+      "url": "https://multimovies.city/cast/christopher-mintz-plasse/",
+      "image": "https://image.tmdb.org/t/p/w92/c0F9poXsVicoiVQZ9jpau2upxOw.jpg"
+    },
+    {
+      "name": "Bobb'e J. Thompson",
+      "role": "Ronnie Shields",
+      "url": "https://multimovies.city/cast/bobbe-j-thompson/",
+      "image": "https://image.tmdb.org/t/p/w92/otRWlY9G3cUlQN3fAN4uuRfBAS6.jpg"
+    },
+    {
+      "name": "Jane Lynch",
+      "role": "Gayle Sweeny",
+      "url": "https://multimovies.city/cast/jane-lynch/",
+      "image": "https://image.tmdb.org/t/p/w92/nye6D17ZfCHQzr9faYZYyz1CPsZ.jpg"
+    },
+    {
+      "name": "Ken Jeong",
+      "role": "King Argotron",
+      "url": "https://multimovies.city/cast/ken-jeong/",
+      "image": "https://image.tmdb.org/t/p/w92/9OAUwY25yPxItnkcnnJdtpNwMSp.jpg"
+    },
+    {
+      "name": "Ken Marino",
+      "role": "Jim Stansel",
+      "url": "https://multimovies.city/cast/ken-marino/",
+      "image": "https://image.tmdb.org/t/p/w92/h2w8mAHhuZtvGD3yd85f3gpTUSY.jpg"
+    },
+    {
+      "name": "Kerri Kenney",
+      "role": "Lynette",
+      "url": "https://multimovies.city/cast/kerri-kenney/",
+      "image": "https://image.tmdb.org/t/p/w92/8BIBidgv08VXLttLeCN0trPFXNf.jpg"
+    },
+    {
+      "name": "A.D. Miles",
+      "role": "Martin",
+      "url": "https://multimovies.city/cast/a-d-miles/",
+      "image": "https://image.tmdb.org/t/p/w92/4KY0N9f547czylh6RUYSx1JNavv.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vDKbYwjtQ5XMWIEmlnoMi5kaqYm.jpg",
+    "https://image.tmdb.org/t/p/w300/u2L2pRaJjMbpEXdqlxHv0jf6vT1.jpg",
+    "https://image.tmdb.org/t/p/w300/zqwwX2sHnNS9lZGIDZ7HC7E8EPB.jpg",
+    "https://image.tmdb.org/t/p/w300/8pRWtTftaxPj2hJxmOEEBi962QG.jpg"
+  ],
+  "similar": [],
+  "views": 618,
+  "sources": [
+    "https://www.youtube.com/embed/wtFESEqa9fA?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/1y1b7useke9y"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 34371,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 34371,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:22:42.185049"
+}
