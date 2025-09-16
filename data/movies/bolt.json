@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/bolt/",
+  "meta": {
+    "title": "Bolt",
+    "poster": "https://image.tmdb.org/t/p/w500/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Nov. 21, 2008",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Bolt is the star of the biggest show in Hollywood. The only problem is, he thinks it\u2019s real. After he\u2019s accidentally shipped to New York City and separated from Penny, his beloved co-star and owner, Bolt must harness all his \u201csuper powers\u201d to find a way home.",
+    "infoFields": {
+      "Original title": "Bolt",
+      "TMDb Rating": "6.5 6,217 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Chris Williams",
+      "role": "Director",
+      "url": "https://multimovies.city/director/chris-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/eE2NDdeKN1DC3XuV6L4xuEbVaS.jpg"
+    },
+    {
+      "name": "John Travolta",
+      "role": "Bolt (voice)",
+      "url": "https://multimovies.city/cast/john-travolta/",
+      "image": "https://image.tmdb.org/t/p/w92/zkAX8YV692YVDQgRBh5JPUddPMQ.jpg"
+    },
+    {
+      "name": "Susie Essman",
+      "role": "Mittens (voice)",
+      "url": "https://multimovies.city/cast/susie-essman/",
+      "image": "https://image.tmdb.org/t/p/w92/xeVB4LdahB3dvia0WqThHKoqwtH.jpg"
+    },
+    {
+      "name": "Mark Walton",
+      "role": "Rhino (voice)",
+      "url": "https://multimovies.city/cast/mark-walton/",
+      "image": "https://image.tmdb.org/t/p/w92/572JkZTcj2Zh2UFp7vhIYyEbnBC.jpg"
+    },
+    {
+      "name": "Malcolm McDowell",
+      "role": "Dr. Calico (voice)",
+      "url": "https://multimovies.city/cast/malcolm-mcdowell/",
+      "image": "https://image.tmdb.org/t/p/w92/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+    },
+    {
+      "name": "Miley Cyrus",
+      "role": "Penny (voice)",
+      "url": "https://multimovies.city/cast/miley-cyrus/",
+      "image": "https://image.tmdb.org/t/p/w92/oo4FFKkbSVjarjuUg860p5MW4mh.jpg"
+    },
+    {
+      "name": "James Lipton",
+      "role": "The Director (voice)",
+      "url": "https://multimovies.city/cast/james-lipton/",
+      "image": "https://image.tmdb.org/t/p/w92/tvUJqWHrA5k0y46NDP8fZLMOwCS.jpg"
+    },
+    {
+      "name": "Greg Germann",
+      "role": "The Agent (voice)",
+      "url": "https://multimovies.city/cast/greg-germann/",
+      "image": "https://image.tmdb.org/t/p/w92/cRLbrKwasOiBj68pORvrZTPHRfB.jpg"
+    },
+    {
+      "name": "Diedrich Bader",
+      "role": "Veteran Cat (voice)",
+      "url": "https://multimovies.city/cast/diedrich-bader/",
+      "image": "https://image.tmdb.org/t/p/w92/z7CctykPTuXDfAs7pkAA7vW4b3T.jpg"
+    },
+    {
+      "name": "Nick Swardson",
+      "role": "Blake (voice)",
+      "url": "https://multimovies.city/cast/nick-swardson/",
+      "image": "https://image.tmdb.org/t/p/w92/kA6ASJ9kK8mz1ejIXY8h5XgBwgc.jpg"
+    },
+    {
+      "name": "J.P. Manoux",
+      "role": "Tom (voice)",
+      "url": "https://multimovies.city/cast/j-p-manoux/",
+      "image": "https://image.tmdb.org/t/p/w92/wPHAqAPpZDB78jmZf8HTVuRfeAG.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/uWIyXlBRwW2MIBcBysj50A9nv7D.jpg",
+    "https://image.tmdb.org/t/p/w300/1XW6gfSfTFRDk8Qyn9Vi0oer1jP.jpg",
+    "https://image.tmdb.org/t/p/w300/4j1whLohGyuz24yIUB9vjwnIFR4.jpg",
+    "https://image.tmdb.org/t/p/w300/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg",
+    "https://image.tmdb.org/t/p/w300/2ThgE6Z96QLpeIsSfMGMKYGq3Ad.jpg",
+    "https://image.tmdb.org/t/p/w300/qWQJtKkljOyMN5gMCVj5rPdeSn3.jpg",
+    "https://image.tmdb.org/t/p/w300/biVvhKGVEtHFs8bjvEE3MJsV9Z4.jpg",
+    "https://image.tmdb.org/t/p/w300/wdDwpJpGab26prgEXHHsbQmkUi5.jpg",
+    "https://image.tmdb.org/t/p/w300/xqox5anp7YNR9tJ3yrpOhzAOTPq.jpg",
+    "https://image.tmdb.org/t/p/w300/vcamviqgLzij2p5QkwysyDyJwWu.jpg"
+  ],
+  "similar": [],
+  "views": 1907,
+  "sources": [
+    "https://www.youtube.com/embed/T_yzxWNEOu8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vu2aalk"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 52508,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 52508,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:22:27.539953"
+}
