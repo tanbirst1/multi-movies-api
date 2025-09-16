@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/mindhunters/",
+  "meta": {
+    "title": "Mindhunters",
+    "poster": "https://image.tmdb.org/t/p/w500/o8wAzJIxMS0cZDlRTw9hm1xQO9j.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 07, 2004",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Trainees in the FBI\u2019s psychological profiling program must put their training into practice when they discover a killer in their midst. Based very loosely on Agatha Christies And Then There Were None.",
+    "infoFields": {
+      "Original title": "Mindhunters",
+      "IMDb Rating": "6.3 64,752 votes",
+      "TMDb Rating": "6.5 1,156 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Renny Harlin",
+      "role": "Director",
+      "url": "https://multimovies.city/director/renny-harlin/",
+      "image": "https://image.tmdb.org/t/p/w92/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg"
+    },
+    {
+      "name": "Kathryn Morris",
+      "role": "Sara Moore",
+      "url": "https://multimovies.city/cast/kathryn-morris/",
+      "image": "https://image.tmdb.org/t/p/w92/q189KhrMoKyQJsvwOE7x2nWAeEi.jpg"
+    },
+    {
+      "name": "Jonny Lee Miller",
+      "role": "Lucas Harper",
+      "url": "https://multimovies.city/cast/jonny-lee-miller/",
+      "image": "https://image.tmdb.org/t/p/w92/otCQdDtnrMvZ5tPC62zLx0SaXeR.jpg"
+    },
+    {
+      "name": "LL Cool J",
+      "role": "Gabe Jensen",
+      "url": "https://multimovies.city/cast/ll-cool-j/",
+      "image": "https://image.tmdb.org/t/p/w92/dpOHjasRJz7rk9CVutd6L9WnWTc.jpg"
+    },
+    {
+      "name": "Christian Slater",
+      "role": "J.D. Reston",
+      "url": "https://multimovies.city/cast/christian-slater/",
+      "image": "https://image.tmdb.org/t/p/w92/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+    },
+    {
+      "name": "Patricia Vel\u00e1squez",
+      "role": "Nicole Willis",
+      "url": "https://multimovies.city/cast/patricia-velasquez/",
+      "image": "https://image.tmdb.org/t/p/w92/51Ve74pQUnR6tv3faE8LKUFZa9I.jpg"
+    },
+    {
+      "name": "Clifton Collins Jr.",
+      "role": "Vince Sherman",
+      "url": "https://multimovies.city/cast/clifton-collins-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/ceryVVubF74pgu13Y0KUqIzxOae.jpg"
+    },
+    {
+      "name": "Eion Bailey",
+      "role": "Bobby Whitman",
+      "url": "https://multimovies.city/cast/eion-bailey/",
+      "image": "https://image.tmdb.org/t/p/w92/3DW13W47cKk4LQZwS4EvRaNBoVu.jpg"
+    },
+    {
+      "name": "Will Kemp",
+      "role": "Rafe Perry",
+      "url": "https://multimovies.city/cast/will-kemp/",
+      "image": "https://image.tmdb.org/t/p/w92/x1pO6ca7UpkzuLj68Z7a1LPpuFO.jpg"
+    },
+    {
+      "name": "Val Kilmer",
+      "role": "Jake Harris",
+      "url": "https://multimovies.city/cast/val-kilmer/",
+      "image": "https://image.tmdb.org/t/p/w92/dZEGiq4XmCiXq9hmz0vVLId010z.jpg"
+    },
+    {
+      "name": "Cassandra Bell",
+      "role": "Jen",
+      "url": "https://multimovies.city/cast/cassandra-bell/",
+      "image": "https://image.tmdb.org/t/p/w92/uP6ADym6MsarQQGgiwC5RzorK3d.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/j30knUpNbspOSehJi5SOJ4wvOVh.jpg",
+    "https://image.tmdb.org/t/p/w300/huKPjG6R51HrHXH7cGFli3ypHyC.jpg",
+    "https://image.tmdb.org/t/p/w300/xKkX3J3xBsapCdtV1hO05T9fkWQ.jpg",
+    "https://image.tmdb.org/t/p/w300/4OeasfHuVSJk4P7rPBXuVOKIvBa.jpg",
+    "https://image.tmdb.org/t/p/w300/m0cS2e5VBPdVGPY1JgTiQ4Dt64y.jpg"
+  ],
+  "similar": [],
+  "views": 1315,
+  "sources": [
+    "https://www.youtube.com/embed/ZTLaj8JuIsc?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/td0vj82"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 23037,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 23037,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:48:19.319626"
+}
