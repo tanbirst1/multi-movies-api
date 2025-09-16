@@ -1,0 +1,175 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/high-school-musical-3-senior-year/",
+  "meta": {
+    "title": "High School Musical 3: Senior Year",
+    "poster": "https://image.tmdb.org/t/p/w500/cKWIxQh2dMUgjsxJenrf7A81D95.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Music",
+        "url": "https://multimovies.city/genre/music/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Oct. 11, 2008",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "It\u2019s almost graduation day for high school seniors Troy, Gabriella, Sharpay, Chad, Ryan and Taylor \u2014 and the thought of heading off in separate directions after leaving East High has these Wildcats thinking they need to do something they\u2019ll remember forever. Together with the rest of the Wildcats, they stage a spring musical reflecting their hopes and fears about the future and their unforgettable experiences growing up together. Will their final show break them apart or bring them together for the greatest moment in Wildcat history?",
+    "infoFields": {
+      "Original title": "High School Musical 3: Senior Year",
+      "IMDb Rating": "4.9 64,653 votes",
+      "TMDb Rating": "6.571 3,229 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kenny Ortega",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kenny-ortega/",
+      "image": "https://image.tmdb.org/t/p/w92/cZrsOBr1tp1nNPJ5xj3uao2XQbJ.jpg"
+    },
+    {
+      "name": "Zac Efron",
+      "role": "Troy Bolton",
+      "url": "https://multimovies.city/cast/zac-efron/",
+      "image": "https://image.tmdb.org/t/p/w92/6oXNHv7gAyXXYFpF943pKRsTtqQ.jpg"
+    },
+    {
+      "name": "Vanessa Hudgens",
+      "role": "Gabriella Montez",
+      "url": "https://multimovies.city/cast/vanessa-hudgens/",
+      "image": "https://image.tmdb.org/t/p/w92/8S8Nn5m5qkiIrEJ3dzPRjltzrkx.jpg"
+    },
+    {
+      "name": "Ashley Tisdale",
+      "role": "Sharpay Evans",
+      "url": "https://multimovies.city/cast/ashley-tisdale/",
+      "image": "https://image.tmdb.org/t/p/w92/znzE8om6N3H9wJQ5AUTMxPOnA3s.jpg"
+    },
+    {
+      "name": "Lucas Grabeel",
+      "role": "Ryan Evans",
+      "url": "https://multimovies.city/cast/lucas-grabeel/",
+      "image": "https://image.tmdb.org/t/p/w92/tyhpSWU7YDKntONxqC83Ifat2w6.jpg"
+    },
+    {
+      "name": "Corbin Bleu",
+      "role": "Chad Danforth",
+      "url": "https://multimovies.city/cast/corbin-bleu/",
+      "image": "https://image.tmdb.org/t/p/w92/AiPiQPFgMCNz9ycgAMtskkPZUeC.jpg"
+    },
+    {
+      "name": "Monique Coleman",
+      "role": "Taylor McKessie",
+      "url": "https://multimovies.city/cast/monique-coleman/",
+      "image": "https://image.tmdb.org/t/p/w92/ouXVNDzvu2Foy3HhSFeTX10bxAt.jpg"
+    },
+    {
+      "name": "Olesya Rulin",
+      "role": "Kelsi Nielson",
+      "url": "https://multimovies.city/cast/olesya-rulin/",
+      "image": "https://image.tmdb.org/t/p/w92/tR7UXBhDlV5mG9gJZBLxplF2HWu.jpg"
+    },
+    {
+      "name": "Chris Warren",
+      "role": "Zeke Baylor",
+      "url": "https://multimovies.city/cast/chris-warren/",
+      "image": "https://image.tmdb.org/t/p/w92/xBVDjsdeJacMJhSX2WkYRIuat1M.jpg"
+    },
+    {
+      "name": "Ryne Sanborn",
+      "role": "Jason Cross",
+      "url": "https://multimovies.city/cast/ryne-sanborn/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kaycee Stroh",
+      "role": "Martha Cox",
+      "url": "https://multimovies.city/cast/kaycee-stroh/",
+      "image": "https://image.tmdb.org/t/p/w92/dE3BAp2UZ67ZVEVGFbMq814UHHL.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/spyZFUG0lR6FEbvMn3YBcxT8vdx.jpg",
+    "https://image.tmdb.org/t/p/w300/5KLKIxsTukdVoW6QNOoxgl8zTKd.jpg",
+    "https://image.tmdb.org/t/p/w300/bIaq2PQ0TyTAUtj1UoXUXQIcXfi.jpg",
+    "https://image.tmdb.org/t/p/w300/9XhbFRIW2Jecxqb3qDsSIvfyLoX.jpg",
+    "https://image.tmdb.org/t/p/w300/xAf2RV8DmhKYmdKoe9nc65l7VTS.jpg",
+    "https://image.tmdb.org/t/p/w300/kT1AVPJj1zaZILQ9MSigkgLQJz.jpg",
+    "https://image.tmdb.org/t/p/w300/dPlEUPv4kHJLNI3OXUrg2xhlcT6.jpg",
+    "https://image.tmdb.org/t/p/w300/pptItmssqkM79QXzedb2LrebmEa.jpg",
+    "https://image.tmdb.org/t/p/w300/oJqrhEGdNx1vT665vci9zVgO3Kj.jpg",
+    "https://image.tmdb.org/t/p/w300/sWW1sVY1lHqZ1pOc95MMu7rBPoq.jpg"
+  ],
+  "similar": [],
+  "views": 1176,
+  "sources": [
+    "https://www.youtube.com/embed/1S8RTKL5cW8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/oerojuqyociz",
+    "https://sbplay.org/embed-m8m4jlf7uo2g.html",
+    "https://dood.la/e/gx4i8mnip6gw",
+    "https://mixdrop.co/e/pke3l4vwh7re9w",
+    "https://hydrax.net/watch?v=T8ZtLs9ikr"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10128,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 10128,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 10128,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 10128,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 10128,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 10128,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:23:22.362853"
+}
