@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/mad-max/",
+  "meta": {
+    "title": "Mad Max",
+    "poster": "https://image.tmdb.org/t/p/w500/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Apr. 12, 1979",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.",
+    "infoFields": {
+      "Original title": "Mad Max",
+      "IMDb Rating": "6.8 222,268 votes",
+      "TMDb Rating": "6.688 4,109 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "George Miller",
+      "role": "Director",
+      "url": "https://multimovies.city/director/george-miller/",
+      "image": "https://image.tmdb.org/t/p/w92/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg"
+    },
+    {
+      "name": "Mel Gibson",
+      "role": "Max Rockatansky",
+      "url": "https://multimovies.city/cast/mel-gibson/",
+      "image": "https://image.tmdb.org/t/p/w92/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+    },
+    {
+      "name": "Joanne Samuel",
+      "role": "Jessie Rockatansky",
+      "url": "https://multimovies.city/cast/joanne-samuel/",
+      "image": "https://image.tmdb.org/t/p/w92/yPfmjEFndWZNaCnLpWimjQOkPB9.jpg"
+    },
+    {
+      "name": "Hugh Keays-Byrne",
+      "role": "Toecutter",
+      "url": "https://multimovies.city/cast/hugh-keays-byrne/",
+      "image": "https://image.tmdb.org/t/p/w92/7XSPjKNwmyEPMnmoVSQ42ykMz6M.jpg"
+    },
+    {
+      "name": "Steve Bisley",
+      "role": "Jim Goose",
+      "url": "https://multimovies.city/cast/steve-bisley/",
+      "image": "https://image.tmdb.org/t/p/w92/9KE407G6yIItUDlduj9MWAz392o.jpg"
+    },
+    {
+      "name": "Tim Burns",
+      "role": "Johnny the Boy",
+      "url": "https://multimovies.city/cast/tim-burns/",
+      "image": "https://image.tmdb.org/t/p/w92/7pTNhTT1WdvAYV48kqg9f56TDpr.jpg"
+    },
+    {
+      "name": "Roger Ward",
+      "role": "Fifi",
+      "url": "https://multimovies.city/cast/roger-ward/",
+      "image": "https://image.tmdb.org/t/p/w92/1ABctS3WpNwqlSzytPwudMSrIge.jpg"
+    },
+    {
+      "name": "Vincent Gil",
+      "role": "Nightrider",
+      "url": "https://multimovies.city/cast/vincent-gil/",
+      "image": "https://image.tmdb.org/t/p/w92/6wNtZCbqwcHavirNKNJ4fiEP1p4.jpg"
+    },
+    {
+      "name": "Lulu Pinkus",
+      "role": "Nightrider's Girl",
+      "url": "https://multimovies.city/cast/lulu-pinkus/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Lisa Aldenhoven",
+      "role": "Nurse",
+      "url": "https://multimovies.city/cast/lisa-aldenhoven/",
+      "image": "https://image.tmdb.org/t/p/w92/ruqswdbIE3h2iu6ce4VJA2F5PeN.jpg"
+    },
+    {
+      "name": "David Bracks",
+      "role": "Mudguts",
+      "url": "https://multimovies.city/cast/david-bracks/",
+      "image": "https://image.tmdb.org/t/p/w92/7Wbg4c17F4jBVSxmHYd3tgFiBBT.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2eYiXlynI2mSuYJPUkHupJm2dJp.jpg",
+    "https://image.tmdb.org/t/p/w300/vYsL2sK3jwQL3H5rQtVnRxvGMa3.jpg",
+    "https://image.tmdb.org/t/p/w300/mWQg2INejtX1PCWRAN4vseadA6H.jpg",
+    "https://image.tmdb.org/t/p/w300/pcSaAUI0H2iMzHoT2jH71Zp71qV.jpg",
+    "https://image.tmdb.org/t/p/w300/oQIBypbvcAwtTVu26G81Xxhd57x.jpg",
+    "https://image.tmdb.org/t/p/w300/uL5DoOuMho1QY7OK5IqacYH9QHK.jpg",
+    "https://image.tmdb.org/t/p/w300/yhF12g35SLnXvHC46KY1plZvjtG.jpg",
+    "https://image.tmdb.org/t/p/w300/vmtgwLQugNNCy3meLkPwiJDDsDH.jpg",
+    "https://image.tmdb.org/t/p/w300/zxCyS7T6uBuH6P15cyaEWyTrozz.jpg",
+    "https://image.tmdb.org/t/p/w300/iojuitFQi3Rb05ps7rBhJTdnYGs.jpg"
+  ],
+  "similar": [],
+  "views": 891,
+  "sources": [
+    "https://www.youtube.com/embed/JMG7j3zReJQ?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/tj9k5ga2h730"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 49175,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 49175,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
