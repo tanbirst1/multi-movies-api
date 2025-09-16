@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/iron-man/",
+  "meta": {
+    "title": "Iron Man",
+    "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Marvel Collection",
+        "url": "https://multimovies.city/genre/marvel-collection/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Apr. 30, 2008",
+    "ratingValue": "9.4",
+    "ratingCount": "47",
+    "synopsis": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "infoFields": {
+      "Original title": "Iron Man",
+      "IMDb Rating": "7.9 1,163,724 votes",
+      "TMDb Rating": "7.6 26,703 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jon Favreau",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jon-favreau/",
+      "image": "https://image.tmdb.org/t/p/w92/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Tony Stark / Iron Man",
+      "url": "https://multimovies.city/cast/robert-downey-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/im9SAqJPZKEbVZGmjXuLI4O7RvM.jpg"
+    },
+    {
+      "name": "Terrence Howard",
+      "role": "James 'Rhodey' Rhodes",
+      "url": "https://multimovies.city/cast/terrence-howard/",
+      "image": "https://image.tmdb.org/t/p/w92/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+    },
+    {
+      "name": "Jeff Bridges",
+      "role": "Obadiah Stane / Iron Monger",
+      "url": "https://multimovies.city/cast/jeff-bridges/",
+      "image": "https://image.tmdb.org/t/p/w92/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "role": "Virginia 'Pepper' Potts",
+      "url": "https://multimovies.city/cast/gwyneth-paltrow/",
+      "image": "https://image.tmdb.org/t/p/w92/slPWN0VvYJtNOEuxlFSsXSNQMaF.jpg"
+    },
+    {
+      "name": "Leslie Bibb",
+      "role": "Christine Everhart",
+      "url": "https://multimovies.city/cast/leslie-bibb/",
+      "image": "https://image.tmdb.org/t/p/w92/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg"
+    },
+    {
+      "name": "Bill Smitrovich",
+      "role": "General Gabriel",
+      "url": "https://multimovies.city/cast/bill-smitrovich/",
+      "image": "https://image.tmdb.org/t/p/w92/yzZUYnAdX0MMA8eZMTVsXufRCfU.jpg"
+    },
+    {
+      "name": "Paul Bettany",
+      "role": "J.A.R.V.I.S. (voice)",
+      "url": "https://multimovies.city/cast/paul-bettany/",
+      "image": "https://image.tmdb.org/t/p/w92/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "Harold 'Happy' Hogan",
+      "url": "https://multimovies.city/cast/jon-favreau/",
+      "image": "https://image.tmdb.org/t/p/w92/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    },
+    {
+      "name": "Shaun Toub",
+      "role": "Yinsen",
+      "url": "https://multimovies.city/cast/shaun-toub/",
+      "image": "https://image.tmdb.org/t/p/w92/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg"
+    },
+    {
+      "name": "Faran Tahir",
+      "role": "Raza",
+      "url": "https://multimovies.city/cast/faran-tahir/",
+      "image": "https://image.tmdb.org/t/p/w92/eVYiHKj9OGRn3MeRqJuwROFqIkg.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+    "https://image.tmdb.org/t/p/w300/s6cQgJSkviamXAXBggT2xmj7JiG.jpg",
+    "https://image.tmdb.org/t/p/w300/8EgxSaVRZwcm3pWChyW4j7yPplq.jpg",
+    "https://image.tmdb.org/t/p/w300/35zMyj13eAXn1X7B27mr9jQSQQb.jpg",
+    "https://image.tmdb.org/t/p/w300/7NXGWbh4z2iXGW8hntSnmwYsAid.jpg",
+    "https://image.tmdb.org/t/p/w300/55RIH0MvyCRKLjx1RjEICF9SvAj.jpg",
+    "https://image.tmdb.org/t/p/w300/blYGeaU0h8Zl4M8XznEjJ9IMNos.jpg",
+    "https://image.tmdb.org/t/p/w300/7vMqYIHu2E5CbvWr6tmNhYulDfS.jpg",
+    "https://image.tmdb.org/t/p/w300/nwtvQJaNunEQROYyvjbXDGLcbsv.jpg",
+    "https://image.tmdb.org/t/p/w300/qbozjOW2txxIbscWfakaq8suPow.jpg"
+  ],
+  "similar": [],
+  "views": 43343,
+  "sources": [
+    "https://www.youtube.com/embed/ofkcLgzNZGM?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/wny9yor"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 2925,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 2925,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:21:53.262712"
+}
