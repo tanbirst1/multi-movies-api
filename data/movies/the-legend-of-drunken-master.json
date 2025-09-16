@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-legend-of-drunken-master/",
+  "meta": {
+    "title": "The Legend of Drunken Master",
+    "poster": "https://image.tmdb.org/t/p/w500/xqUBrSBtPYLvCtfqHF5sapU6Div.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 03, 1994",
+    "ratingValue": "8.7",
+    "ratingCount": "3",
+    "synopsis": "Returning home with his father after a shopping expedition, Wong Fei-Hong is unwittingly caught up in the battle between foreigners who wish to export ancient Chinese artifacts and loyalists who don\u2019t want the pieces to leave the country. Fei-Hong must fight against the foreigners using his Drunken Boxing style, and overcome his father\u2019s antagonism as well.",
+    "infoFields": {
+      "Original title": "\u9189\u62f3\u4e8c",
+      "IMDb Rating": "7.5 47,234 votes",
+      "TMDb Rating": "7.414 822 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Lau Kar-leung",
+      "role": "Director",
+      "url": "https://multimovies.city/director/lau-kar-leung/",
+      "image": "https://image.tmdb.org/t/p/w92/1cKWtvMp0onUAn4OfuclM1693gn.jpg"
+    },
+    {
+      "name": "Jackie Chan",
+      "role": "Wong Fei-hung",
+      "url": "https://multimovies.city/cast/jackie-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "name": "Anita Mui",
+      "role": "Mrs. Wong",
+      "url": "https://multimovies.city/cast/anita-mui/",
+      "image": "https://image.tmdb.org/t/p/w92/nGLogfEGhhVqGlECQqDFmQZ6Tid.jpg"
+    },
+    {
+      "name": "Ti Lung",
+      "role": "Wong Kei-ying",
+      "url": "https://multimovies.city/cast/ti-lung/",
+      "image": "https://image.tmdb.org/t/p/w92/dxA5qEE0c6kKxoRJXttAwSooMSv.jpg"
+    },
+    {
+      "name": "Lau Kar-leung",
+      "role": "Master Fu Wen-Chi",
+      "url": "https://multimovies.city/cast/lau-kar-leung/",
+      "image": "https://image.tmdb.org/t/p/w92/1cKWtvMp0onUAn4OfuclM1693gn.jpg"
+    },
+    {
+      "name": "Andy Lau",
+      "role": "Counter Intelligence Officer",
+      "url": "https://multimovies.city/cast/andy-lau/",
+      "image": "https://image.tmdb.org/t/p/w92/3bs0J3KwnAIocT1RxlT9akltcEt.jpg"
+    },
+    {
+      "name": "Felix Wong",
+      "role": "Tsang",
+      "url": "https://multimovies.city/cast/felix-wong/",
+      "image": "https://image.tmdb.org/t/p/w92/5kkHpqFdbu32xZqxJeZXqgAQbAD.jpg"
+    },
+    {
+      "name": "Hoh Wing-Fong",
+      "role": "Fun",
+      "url": "https://multimovies.city/cast/hoh-wing-fong/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ram Chiang",
+      "role": "Tso",
+      "url": "https://multimovies.city/cast/ram-chiang/",
+      "image": "https://image.tmdb.org/t/p/w92/36Jwy8LMeyUBlL7SoDx8Vvb1m5E.jpg"
+    },
+    {
+      "name": "Bill Tung",
+      "role": "General rewarding Ying",
+      "url": "https://multimovies.city/cast/bill-tung/",
+      "image": "https://image.tmdb.org/t/p/w92/nB6ywhsUy3TlZpsulqtgR45IFUK.jpg"
+    },
+    {
+      "name": "Ken Lo",
+      "role": "John",
+      "url": "https://multimovies.city/cast/ken-lo/",
+      "image": "https://image.tmdb.org/t/p/w92/aecWmrSbnZTTnBJ8vgyNAaphOLp.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nPx3FS9ZnQ6fwy9BtgcnNZJpyXC.jpg",
+    "https://image.tmdb.org/t/p/w300/20ufSZ73ac8qZS4mOH42cO0gt3p.jpg",
+    "https://image.tmdb.org/t/p/w300/l95tGXOHiOUICctrs2JtK3ALv0W.jpg",
+    "https://image.tmdb.org/t/p/w300/gUmP0NtHUBRKSDmXok9Z7QMIV5A.jpg",
+    "https://image.tmdb.org/t/p/w300/emgQECJ50sQNwzRRjiCRKbswMUW.jpg",
+    "https://image.tmdb.org/t/p/w300/p8hVoqzmfmdOP10vLZU8XN34cYR.jpg"
+  ],
+  "similar": [],
+  "views": 1888,
+  "sources": [
+    "https://www.youtube.com/embed/7P7tWqwKqE4?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/r6k8o7qlbtuv"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5136,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5136,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false
+}
