@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/boiler-room/",
+  "meta": {
+    "title": "Boiler Room",
+    "poster": "https://image.tmdb.org/t/p/w500/jFB5uvCZ3HXF00liAEAuOruCPs6.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Feb. 18, 2000",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "A college dropout gets a job as a broker for a suburban investment firm and is on the fast track to success\u2014but the job might not be as legitimate as it sounds.",
+    "infoFields": {
+      "Original title": "Boiler Room",
+      "TMDb Rating": "6.722 685 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ben Younger",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ben-younger/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "role": "Seth Davis",
+      "url": "https://multimovies.city/cast/giovanni-ribisi/",
+      "image": "https://image.tmdb.org/t/p/w92/xJrjoGhAfufROCiG2C86uYYjqpP.jpg"
+    },
+    {
+      "name": "Vin Diesel",
+      "role": "Chris Varick",
+      "url": "https://multimovies.city/cast/vin-diesel/",
+      "image": "https://image.tmdb.org/t/p/w92/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+      "name": "Nia Long",
+      "role": "Abbie Halpert",
+      "url": "https://multimovies.city/cast/nia-long/",
+      "image": "https://image.tmdb.org/t/p/w92/yPLmhF9kKbCtsDhUnaV6g2GHWIc.jpg"
+    },
+    {
+      "name": "Nicky Katt",
+      "role": "Greg Weinstein",
+      "url": "https://multimovies.city/cast/nicky-katt/",
+      "image": "https://image.tmdb.org/t/p/w92/9OY1D1WXJsqC7OnrKErc3mFfly5.jpg"
+    },
+    {
+      "name": "Scott Caan",
+      "role": "Richie O'Flaherty",
+      "url": "https://multimovies.city/cast/scott-caan/",
+      "image": "https://image.tmdb.org/t/p/w92/67V8YrMglGzvuTOZGpqygDhNK1z.jpg"
+    },
+    {
+      "name": "Ron Rifkin",
+      "role": "Judge Marty Davis",
+      "url": "https://multimovies.city/cast/ron-rifkin/",
+      "image": "https://image.tmdb.org/t/p/w92/fj2u4t6nG0HGYFtRVDUTNbUtEtl.jpg"
+    },
+    {
+      "name": "Jamie Kennedy",
+      "role": "Adam",
+      "url": "https://multimovies.city/cast/jamie-kennedy/",
+      "image": "https://image.tmdb.org/t/p/w92/ipfv0IU3VYGOz5OBmi9WJi5autF.jpg"
+    },
+    {
+      "name": "Taylor Nichols",
+      "role": "Harry Reynard",
+      "url": "https://multimovies.city/cast/taylor-nichols/",
+      "image": "https://image.tmdb.org/t/p/w92/2VnYWsBXx19tNvBX1diwfjdLkjU.jpg"
+    },
+    {
+      "name": "Bill Sage",
+      "role": "FBI Agent David Drew",
+      "url": "https://multimovies.city/cast/bill-sage/",
+      "image": "https://image.tmdb.org/t/p/w92/2uQv1NMnGrqqhBMKTm5RBCKh7UV.jpg"
+    },
+    {
+      "name": "Tom Everett Scott",
+      "role": "Michael Brantley",
+      "url": "https://multimovies.city/cast/tom-everett-scott/",
+      "image": "https://image.tmdb.org/t/p/w92/nVDihOvsSm7kmeyHLtAcEzrrSYC.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/A96CVXbTNfhqw3jkUlyfFnGe8i3.jpg",
+    "https://image.tmdb.org/t/p/w300/eqyML8QxykFpEQkkhtfMHMCQT0l.jpg",
+    "https://image.tmdb.org/t/p/w300/guIYV0vmFlMEODihqZ6FZEsyB2s.jpg",
+    "https://image.tmdb.org/t/p/w300/3xIzrSM5GKoF8JAlUnnSaG04gCS.jpg"
+  ],
+  "similar": [],
+  "views": 544,
+  "sources": [
+    "https://www.youtube.com/embed/kgCLG4gCAvI?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/o9i35gc"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 92578,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 92578,
+      "nume": 1,
+      "title": "dg"
+    }
+  ],
+  "cache": false
+}
