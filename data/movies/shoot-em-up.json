@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/shoot-em-up/",
+  "meta": {
+    "title": "Shoot \u2018Em Up",
+    "poster": "https://image.tmdb.org/t/p/w500/hZ4p0MvSUWnCCL0IUn47UXTVPCs.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 26, 2007",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "A man named Mr. Smith delivers a woman\u2019s baby during a shootout, and is then called upon to protect the newborn from the army of gunmen.",
+    "infoFields": {
+      "Original title": "Shoot 'Em Up",
+      "IMDb Rating": "6.6 156,884 votes",
+      "TMDb Rating": "6.5 1,893 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Michael Davis",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-davis/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Clive Owen",
+      "role": "Smith",
+      "url": "https://multimovies.city/cast/clive-owen/",
+      "image": "https://image.tmdb.org/t/p/w92/xlWpuLgwxMnZEVgV9OID1TkUNtP.jpg"
+    },
+    {
+      "name": "Monica Bellucci",
+      "role": "Donna Quintano",
+      "url": "https://multimovies.city/cast/monica-bellucci/",
+      "image": "https://image.tmdb.org/t/p/w92/euhMjVgdEGFm4AzjvB1b2oSMlLU.jpg"
+    },
+    {
+      "name": "Paul Giamatti",
+      "role": "Hertz",
+      "url": "https://multimovies.city/cast/paul-giamatti/",
+      "image": "https://image.tmdb.org/t/p/w92/kn7LAbFYP5RPC2r61tDx2CRUeuw.jpg"
+    },
+    {
+      "name": "Stephen McHattie",
+      "role": "Hammerson",
+      "url": "https://multimovies.city/cast/stephen-mchattie/",
+      "image": "https://image.tmdb.org/t/p/w92/lA1JaHjNEpKEbulFPgJZRlMH5sk.jpg"
+    },
+    {
+      "name": "Greg Bryk",
+      "role": "Lone Man",
+      "url": "https://multimovies.city/cast/greg-bryk/",
+      "image": "https://image.tmdb.org/t/p/w92/1I3SxKFvQSam6KOMT4j5f0nFxRg.jpg"
+    },
+    {
+      "name": "Daniel Pilon",
+      "role": "Senator Rutledge",
+      "url": "https://multimovies.city/cast/daniel-pilon/",
+      "image": "https://image.tmdb.org/t/p/w92/5ijBMSsaVlzZ1pr7OANCoU9dr8U.jpg"
+    },
+    {
+      "name": "Sidney Mende-Gibson",
+      "role": "Baby Oliver",
+      "url": "https://multimovies.city/cast/sidney-mende-gibson/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Lucas Mende-Gibson",
+      "role": "Baby Oliver",
+      "url": "https://multimovies.city/cast/lucas-mende-gibson/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kaylyn Yellowlees",
+      "role": "Baby Oliver",
+      "url": "https://multimovies.city/cast/kaylyn-yellowlees/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ramona Pringle",
+      "role": "Baby's Mother",
+      "url": "https://multimovies.city/cast/ramona-pringle/",
+      "image": "https://image.tmdb.org/t/p/w92/xmp8jGHDbUpGUnu0Ae5ziKqiTrq.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1bYY2WUsHyCl66gQAGoF40JIryW.jpg",
+    "https://image.tmdb.org/t/p/w300/e7unx7aHqJOF1qR3aBnid3Cg0qy.jpg",
+    "https://image.tmdb.org/t/p/w300/iGTyoqNeqzkbHik43jqvH4HYGFb.jpg",
+    "https://image.tmdb.org/t/p/w300/hJ9amY9YtQutuiTRZWAJeC6Dkpf.jpg",
+    "https://image.tmdb.org/t/p/w300/lNbFBBCnd438BTQP8X5WGVnYWBt.jpg"
+  ],
+  "similar": [],
+  "views": 507,
+  "sources": [
+    "https://www.youtube.com/embed/jlx4n_ibNZE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/iqby5hl"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 77949,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 77949,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:12:18.136465"
+}
