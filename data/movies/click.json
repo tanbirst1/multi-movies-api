@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/click/",
+  "meta": {
+    "title": "Click",
+    "poster": "https://image.tmdb.org/t/p/w500/oL0k5JA53PyoHSZqKb3cNkhwBCE.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 23, 2006",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "A married workaholic, Michael Newman doesn\u2019t have time for his wife and children, not if he\u2019s to impress his ungrateful boss and earn a well-deserved promotion. So when he meets Morty, a loopy sales clerk, he gets the answer to his prayers: a magical remote that allows him to bypass life\u2019s little distractions with increasingly hysterical results.",
+    "infoFields": {
+      "Original title": "Click",
+      "IMDb Rating": "6.4 369,729 votes",
+      "TMDb Rating": "6.3 7,116 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Frank Coraci",
+      "role": "Director",
+      "url": "https://multimovies.city/director/frank-coraci/",
+      "image": "https://image.tmdb.org/t/p/w92/z280cWJmhWgPmR9HrTXUn4BK06o.jpg"
+    },
+    {
+      "name": "Adam Sandler",
+      "role": "Michael Newman",
+      "url": "https://multimovies.city/cast/adam-sandler/",
+      "image": "https://image.tmdb.org/t/p/w92/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg"
+    },
+    {
+      "name": "Kate Beckinsale",
+      "role": "Donna Newman",
+      "url": "https://multimovies.city/cast/kate-beckinsale/",
+      "image": "https://image.tmdb.org/t/p/w92/j8AX8zHixgntJ7FgIQWwI7NJ7p4.jpg"
+    },
+    {
+      "name": "Christopher Walken",
+      "role": "Morty",
+      "url": "https://multimovies.city/cast/christopher-walken/",
+      "image": "https://image.tmdb.org/t/p/w92/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "name": "David Hasselhoff",
+      "role": "Ammer",
+      "url": "https://multimovies.city/cast/david-hasselhoff/",
+      "image": "https://image.tmdb.org/t/p/w92/d2tUPhLNlS6xZcPLEIvcnpGOUpe.jpg"
+    },
+    {
+      "name": "Henry Winkler",
+      "role": "Ted",
+      "url": "https://multimovies.city/cast/henry-winkler/",
+      "image": "https://image.tmdb.org/t/p/w92/mGlSRA5RDswEDmY8oWEizXliShp.jpg"
+    },
+    {
+      "name": "Julie Kavner",
+      "role": "Trudy",
+      "url": "https://multimovies.city/cast/julie-kavner/",
+      "image": "https://image.tmdb.org/t/p/w92/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+    },
+    {
+      "name": "Sean Astin",
+      "role": "Bill",
+      "url": "https://multimovies.city/cast/sean-astin/",
+      "image": "https://image.tmdb.org/t/p/w92/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg"
+    },
+    {
+      "name": "Joseph Castanon",
+      "role": "Ben at 7 years old",
+      "url": "https://multimovies.city/cast/joseph-castanon/",
+      "image": "https://image.tmdb.org/t/p/w92/tSb55ZK0ZtxOeyhZwc10whvaz6E.jpg"
+    },
+    {
+      "name": "Jonah Hill",
+      "role": "Ben at 17 years old",
+      "url": "https://multimovies.city/cast/jonah-hill/",
+      "image": "https://image.tmdb.org/t/p/w92/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+    },
+    {
+      "name": "Jake Hoffman",
+      "role": "Ben at 22-30 years old",
+      "url": "https://multimovies.city/cast/jake-hoffman/",
+      "image": "https://image.tmdb.org/t/p/w92/9K180Isd28lc3X7Puiu8InPdq4x.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iX7Gc2eidasIIZLnX4tLMSKUVUS.jpg",
+    "https://image.tmdb.org/t/p/w300/e0zR3H15Gl32hLqrY5lB205RWbo.jpg",
+    "https://image.tmdb.org/t/p/w300/h30q7IXCmlgR1wKLnp9LttH6BCG.jpg",
+    "https://image.tmdb.org/t/p/w300/g544yuUh4priiyhHTDeohbGqPaU.jpg",
+    "https://image.tmdb.org/t/p/w300/k7f8ktGnfxiLUpVNoVSm416iNFp.jpg",
+    "https://image.tmdb.org/t/p/w300/oXOyyivjQv660pMBfPvt06bMYhJ.jpg",
+    "https://image.tmdb.org/t/p/w300/p2NMrPT8rulweXADZXoSrKmWgjd.jpg",
+    "https://image.tmdb.org/t/p/w300/ak3TfLcEuG5WPGZzEqj1RXpxN7l.jpg",
+    "https://image.tmdb.org/t/p/w300/mXBDQ9n2osF0BqBjXY9JDyadyRb.jpg",
+    "https://image.tmdb.org/t/p/w300/hvI1ew8tDPYBNN8hFBzj8E2KJs4.jpg"
+  ],
+  "similar": [],
+  "views": 879,
+  "sources": [
+    "https://www.youtube.com/embed/APUqyhgtCfk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/c7b3prv"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 81688,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 81688,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:05:36.962332"
+}
