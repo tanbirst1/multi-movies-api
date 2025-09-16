@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/kung-fu-panda/",
+  "meta": {
+    "title": "Kung Fu Panda",
+    "poster": "https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Jun. 04, 2008",
+    "ratingValue": "8.4",
+    "ratingCount": "18",
+    "synopsis": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \u201cchosen one\u201d and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won\u2019t be easy. It\u2019s up to Master Shifu and the Furious Five \u2014 Tigress, Crane, Mantis, Viper and Monkey \u2014 to give it a try.",
+    "infoFields": {
+      "Original title": "Kung Fu Panda",
+      "IMDb Rating": "7.6 513,667 votes",
+      "TMDb Rating": "7.264 10,897 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mark Osborne",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mark-osborne/",
+      "image": "https://image.tmdb.org/t/p/w92/6mIJet9Jhpwd2PuVlBzG4VqItAj.jpg"
+    },
+    {
+      "name": "Jack Black",
+      "role": "Po (voice)",
+      "url": "https://multimovies.city/cast/jack-black/",
+      "image": "https://image.tmdb.org/t/p/w92/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+    },
+    {
+      "name": "Dustin Hoffman",
+      "role": "Shifu (voice)",
+      "url": "https://multimovies.city/cast/dustin-hoffman/",
+      "image": "https://image.tmdb.org/t/p/w92/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+      "name": "Angelina Jolie",
+      "role": "Master Tigress (voice)",
+      "url": "https://multimovies.city/cast/angelina-jolie/",
+      "image": "https://image.tmdb.org/t/p/w92/k3W1XXddDOH2zibPkNotIh5amHo.jpg"
+    },
+    {
+      "name": "Jackie Chan",
+      "role": "Master Monkey (voice)",
+      "url": "https://multimovies.city/cast/jackie-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "name": "Lucy Liu",
+      "role": "Master Viper (voice)",
+      "url": "https://multimovies.city/cast/lucy-liu/",
+      "image": "https://image.tmdb.org/t/p/w92/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+    },
+    {
+      "name": "Seth Rogen",
+      "role": "Mantis (voice)",
+      "url": "https://multimovies.city/cast/seth-rogen/",
+      "image": "https://image.tmdb.org/t/p/w92/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg"
+    },
+    {
+      "name": "David Cross",
+      "role": "Crane (voice)",
+      "url": "https://multimovies.city/cast/david-cross/",
+      "image": "https://image.tmdb.org/t/p/w92/axUqEv0SDlqS20gBEFCTQHwU1hp.jpg"
+    },
+    {
+      "name": "Ian McShane",
+      "role": "Tai Lung (voice)",
+      "url": "https://multimovies.city/cast/ian-mcshane/",
+      "image": "https://image.tmdb.org/t/p/w92/q9qKbux5Jo76Sj8g3luxBt6rYtz.jpg"
+    },
+    {
+      "name": "Randall Duk Kim",
+      "role": "Oogway (voice)",
+      "url": "https://multimovies.city/cast/randall-duk-kim/",
+      "image": "https://image.tmdb.org/t/p/w92/uPRoCyVJyQ2Py2gBUK8JbxTOuL1.jpg"
+    },
+    {
+      "name": "James Hong",
+      "role": "Mr. Ping (voice)",
+      "url": "https://multimovies.city/cast/james-hong/",
+      "image": "https://image.tmdb.org/t/p/w92/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vndouqEyQqpvvk0FwIlkfceblrh.jpg",
+    "https://image.tmdb.org/t/p/w300/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg",
+    "https://image.tmdb.org/t/p/w300/i4EaGm0yAgpxgTYeLgDmkqBPeyM.jpg",
+    "https://image.tmdb.org/t/p/w300/cMnu2JE9zyytH6xijXsDkuPQxR1.jpg",
+    "https://image.tmdb.org/t/p/w300/gNhiGwpWQRlr9CgILqAXY8KHeE0.jpg",
+    "https://image.tmdb.org/t/p/w300/4dqquN0dizhnYyPWY0YVsSj84fe.jpg",
+    "https://image.tmdb.org/t/p/w300/vxDDCY5PEPNhFXRtXaB444ISMgw.jpg",
+    "https://image.tmdb.org/t/p/w300/uETrMQWpL5sAYVrcujVaJ0nVwf6.jpg",
+    "https://image.tmdb.org/t/p/w300/wIQatzayaSHGUjJMlIeVnmyxTa9.jpg",
+    "https://image.tmdb.org/t/p/w300/hGkO7YINPlsBvt2y8T9DdTMv7Nh.jpg"
+  ],
+  "similar": [],
+  "views": 22328,
+  "sources": [
+    "https://www.youtube.com/embed/NRc-ze7Wrxw?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/36fl5nademjx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1216,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1216,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:20:57.909349"
+}
