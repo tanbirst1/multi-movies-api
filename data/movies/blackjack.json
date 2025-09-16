@@ -4,8 +4,128 @@
   "meta": {
     "title": "Blackjack",
     "poster": "https://image.tmdb.org/t/p/w500/xinJIob2IVjXaupIkSj2TGiJYJf.jpg",
-    "synopsis": "After saving Casey, a daughter of his friend, from hired assassins, Jack Devlin is hit with a strange phobia \u2013 fear of white color. But when his other friend, who works as a bodyguard for a supermodel, is wounded, Jack decides to step in for him. Now he must confront his fear and the assassin, who seems to be well aware of Jack\u2019s problem."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      },
+      {
+        "name": "TV Movie",
+        "url": "https://multimovies.city/genre/tv-movie/"
+      }
+    ],
+    "firstAirDate": "Jun. 11, 1998",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "After saving Casey, a daughter of his friend, from hired assassins, Jack Devlin is hit with a strange phobia \u2013 fear of white color. But when his other friend, who works as a bodyguard for a supermodel, is wounded, Jack decides to step in for him. Now he must confront his fear and the assassin, who seems to be well aware of Jack\u2019s problem.",
+    "infoFields": {
+      "Original title": "Blackjack",
+      "IMDb Rating": "4.8 4,760 votes",
+      "TMDb Rating": "5.286 92 votes"
+    }
   },
   "seasons": [],
-  "cache": false
+  "cast": [
+    {
+      "name": "John Woo",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-woo/",
+      "image": "https://image.tmdb.org/t/p/w92/s7sDmQq8cegHnsTmD0u2eZ4ArYZ.jpg"
+    },
+    {
+      "name": "Dolph Lundgren",
+      "role": "Jack Devlin",
+      "url": "https://multimovies.city/cast/dolph-lundgren/",
+      "image": "https://image.tmdb.org/t/p/w92/fisJpm05tw6GCJ4v62TKBCoWuZM.jpg"
+    },
+    {
+      "name": "Kate Vernon",
+      "role": "Dr. Rachel Stein",
+      "url": "https://multimovies.city/cast/kate-vernon/",
+      "image": "https://image.tmdb.org/t/p/w92/2fQ8XIYZOElhsYqlqCB6QHJ1MHW.jpg"
+    },
+    {
+      "name": "Phillip MacKenzie",
+      "role": "Rory Gaines",
+      "url": "https://multimovies.city/cast/phillip-mackenzie/",
+      "image": "https://image.tmdb.org/t/p/w92/cQLMs8zABzki2O1GkMhh80ZO7KO.jpg"
+    },
+    {
+      "name": "Kam Heskin",
+      "role": "Cinder James",
+      "url": "https://multimovies.city/cast/kam-heskin/",
+      "image": "https://image.tmdb.org/t/p/w92/gMcI1ImTKySqTcctF8T4rA3H7lT.jpg"
+    },
+    {
+      "name": "Fred Williamson",
+      "role": "Tim Hastings",
+      "url": "https://multimovies.city/cast/fred-williamson/",
+      "image": "https://image.tmdb.org/t/p/w92/fwbqxb33pRZ5LcF3XZrZvxU1QSr.jpg"
+    },
+    {
+      "name": "Andrew Jackson",
+      "role": "Don Tragle",
+      "url": "https://multimovies.city/cast/andrew-jackson/",
+      "image": "https://image.tmdb.org/t/p/w92/3IxKK9psQUZdkgakt00hyvYfiJx.jpg"
+    },
+    {
+      "name": "Padraigin Murphy",
+      "role": "Casey",
+      "url": "https://multimovies.city/cast/padraigin-murphy/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Tony De Santis",
+      "role": "Detective Trini",
+      "url": "https://multimovies.city/cast/tony-de-santis/",
+      "image": "https://image.tmdb.org/t/p/w92/tRWpDhV7Vv9JyWiIgaQf2H3ocD3.jpg"
+    },
+    {
+      "name": "Albert Schultz",
+      "role": "Detective Smythe",
+      "url": "https://multimovies.city/cast/albert-schultz/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Janet Bailey",
+      "role": "Connie Hastings",
+      "url": "https://multimovies.city/cast/janet-bailey/",
+      "image": "https://image.tmdb.org/t/p/w92/AghDL2mDWq3SKgdxx3gl8CCHQ6u.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hLr3ybylDMnC33mnK9IRPQXFntl.jpg",
+    "https://image.tmdb.org/t/p/w300/zXpmDTHi5liasARxJMkJd7vq5R0.jpg",
+    "https://image.tmdb.org/t/p/w300/5JwjiN3JnkJalS7L562P39inavp.jpg",
+    "https://image.tmdb.org/t/p/w300/guQtxS4EL0oXGNdr71ixg6DqMLZ.jpg",
+    "https://image.tmdb.org/t/p/w300/2VEZVvRu6foIqDw0N9YYDW1O8uV.jpg"
+  ],
+  "similar": [],
+  "views": 198,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/b9xcei5"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 99178,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:20:51.730727"
 }
