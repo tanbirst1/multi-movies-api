@@ -1,0 +1,146 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rambo-first-blood-part-ii/",
+  "meta": {
+    "title": "Rambo 2 : First Blood Part",
+    "poster": "https://image.tmdb.org/t/p/w500/pzPdwOitmTleVE3YPMfIQgLh84p.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Rambo",
+        "url": "https://multimovies.city/genre/rambo/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      },
+      {
+        "name": "War",
+        "url": "https://multimovies.city/genre/war/"
+      }
+    ],
+    "firstAirDate": "May. 21, 1985",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he\u2019d want to return \u2013 the jungles of Vietnam.",
+    "infoFields": {
+      "Original title": "Rambo: First Blood Part II",
+      "IMDb Rating": "6.5 176,985 votes",
+      "TMDb Rating": "6.615 3,455 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "George P. Cosmatos",
+      "role": "Director",
+      "url": "https://multimovies.city/director/george-p-cosmatos/",
+      "image": "https://image.tmdb.org/t/p/w92/ahB2fRofvALZRuwwcxy8ITSCzBx.jpg"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "John J. Rambo",
+      "url": "https://multimovies.city/cast/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/qDRGPAcQoW8Wuig9bvoLpHwf1gU.jpg"
+    },
+    {
+      "name": "Richard Crenna",
+      "role": "Col. Samuel Trautman",
+      "url": "https://multimovies.city/cast/richard-crenna/",
+      "image": "https://image.tmdb.org/t/p/w92/dsViQ2ate32xTSQgxoEHKQl0Evj.jpg"
+    },
+    {
+      "name": "Charles Napier",
+      "role": "Marshall Murdock",
+      "url": "https://multimovies.city/cast/charles-napier/",
+      "image": "https://image.tmdb.org/t/p/w92/kXenIuk3NWtwihRQIyrqQKf4d2t.jpg"
+    },
+    {
+      "name": "Steven Berkoff",
+      "role": "Lt. Col. Podovsky",
+      "url": "https://multimovies.city/cast/steven-berkoff/",
+      "image": "https://image.tmdb.org/t/p/w92/v15QPmGSTM5PGGZIhZd1KweFK5E.jpg"
+    },
+    {
+      "name": "Julia Nickson",
+      "role": "Co Bao",
+      "url": "https://multimovies.city/cast/julia-nickson/",
+      "image": "https://image.tmdb.org/t/p/w92/lLtwvseiNe9pIjhC293nPmyRAET.jpg"
+    },
+    {
+      "name": "Martin Kove",
+      "role": "Ericson",
+      "url": "https://multimovies.city/cast/martin-kove/",
+      "image": "https://image.tmdb.org/t/p/w92/vKfS55g6rqldWekNdy4JifuJQsw.jpg"
+    },
+    {
+      "name": "George Cheung",
+      "role": "Capt Vinh",
+      "url": "https://multimovies.city/cast/george-cheung/",
+      "image": "https://image.tmdb.org/t/p/w92/oqVIeE1acnBzPboiP4UqGSIPWB0.jpg"
+    },
+    {
+      "name": "Andy Wood",
+      "role": "Banks",
+      "url": "https://multimovies.city/cast/andy-wood/",
+      "image": "https://image.tmdb.org/t/p/w92/rtCPXrV6fCou9lGwSThBypOx2yf.jpg"
+    },
+    {
+      "name": "William Ghent",
+      "role": "Capt. Vinh",
+      "url": "https://multimovies.city/cast/william-ghent/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Vojislav Govedarica",
+      "role": "Sgt. Yushin",
+      "url": "https://multimovies.city/cast/vojislav-govedarica/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iUCNrTKQZRKmKMEMIznm2UlUmEd.jpg",
+    "https://image.tmdb.org/t/p/w300/xh820ngf1lauGQuFiTvzYuCe6vj.jpg",
+    "https://image.tmdb.org/t/p/w300/4WR7HaDUhPID4ST31T7Sy8lcYWb.jpg",
+    "https://image.tmdb.org/t/p/w300/gRWOLFbgkmujsPUNgQshkSkCTdf.jpg",
+    "https://image.tmdb.org/t/p/w300/dqriXtQOLNodL9QscvokJJAPY1o.jpg",
+    "https://image.tmdb.org/t/p/w300/kWzwMh3kOg8CrBQYC9Y9E8Z3DJo.jpg",
+    "https://image.tmdb.org/t/p/w300/6uyQMsskAc46hwq0Qrn575UyIyQ.jpg",
+    "https://image.tmdb.org/t/p/w300/shC9fVKXakC73oCNKQ6bBru9O4t.jpg",
+    "https://image.tmdb.org/t/p/w300/o0Fu0XvcKWRJKBXO1keVHIVxYME.jpg",
+    "https://image.tmdb.org/t/p/w300/ac6nFGg46PE7zOeOh9Q6WuEvc8m.jpg"
+  ],
+  "similar": [],
+  "views": 3091,
+  "sources": [
+    "https://www.youtube.com/embed/s3nblhkrHG0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/x6n07ap"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26758,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 26758,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
