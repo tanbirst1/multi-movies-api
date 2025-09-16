@@ -100,14 +100,20 @@ export default async function handler(req, res) {
       const title = data.title || data.name || file.replace(/\.json$/i, "");
       const link = data.scrapedFrom || data.link || "#";
       const date_or_year = data.meta?.firstAirDate || data.year || "Unknown";
-      const rating = data.meta?.rating || data.rating || "0";
       const original_image = data.meta?.poster || data.poster || null;
+
+      // ✅ Ratings handling
+      const ratings = {};
+      if (data["IMDb Rating"]) ratings.imdb = data["IMDb Rating"];
+      if (data["TMDb Rating"]) ratings.tmdb = data["TMDb Rating"];
+      if (data.rating) ratings.other = data.rating;
+      if (data.meta?.rating) ratings.meta = data.meta.rating;
 
       moviesData.push({
         title,
         link,
         date_or_year,
-        rating: String(rating),
+        ratings: Object.keys(ratings).length > 0 ? ratings : { info: "Unknown" },
         original_image,
         last_updated: safeIsoDate(commitDate),
       });
