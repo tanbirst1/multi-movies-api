@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/x2/",
+  "meta": {
+    "title": "X-Men 2: United",
+    "poster": "https://image.tmdb.org/t/p/w500/r3i3rMSHneAp9uQNZA4I04y9S4p.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "X-Men Collection",
+        "url": "https://multimovies.city/genre/x-men-collection/"
+      }
+    ],
+    "firstAirDate": "Apr. 27, 2003",
+    "ratingValue": "7.7",
+    "ratingCount": "7",
+    "synopsis": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses\u2014Magneto and Mystique\u2014to unhinge Stryker\u2019s scheme to exterminate all mutants.",
+    "infoFields": {
+      "Original title": "X2",
+      "IMDb Rating": "7.4 574,024 votes",
+      "TMDb Rating": "7 9,690 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Bryan Singer",
+      "role": "Director",
+      "url": "https://multimovies.city/director/bryan-singer/",
+      "image": "https://image.tmdb.org/t/p/w92/ts06thbCv9Ug2mNpcbcrmLGRL4Q.jpg"
+    },
+    {
+      "name": "Patrick Stewart",
+      "role": "Charles Xavier / Professor X",
+      "url": "https://multimovies.city/cast/patrick-stewart/",
+      "image": "https://image.tmdb.org/t/p/w92/3yExCGqCMfSOVVHdEYTJhXaTtFZ.jpg"
+    },
+    {
+      "name": "Hugh Jackman",
+      "role": "Logan / Wolverine",
+      "url": "https://multimovies.city/cast/hugh-jackman/",
+      "image": "https://image.tmdb.org/t/p/w92/5Dxx0j9jOAczsTQzZ0OkA5iJBhp.jpg"
+    },
+    {
+      "name": "Ian McKellen",
+      "role": "Eric Lehnsherr / Magneto",
+      "url": "https://multimovies.city/cast/ian-mckellen/",
+      "image": "https://image.tmdb.org/t/p/w92/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "name": "Anna Paquin",
+      "role": "Anna Marie / Rogue",
+      "url": "https://multimovies.city/cast/anna-paquin/",
+      "image": "https://image.tmdb.org/t/p/w92/5FjBCsn3kujldP8LizoCrc3hsHp.jpg"
+    },
+    {
+      "name": "Halle Berry",
+      "role": "Ororo Munroe / Storm",
+      "url": "https://multimovies.city/cast/halle-berry/",
+      "image": "https://image.tmdb.org/t/p/w92/d4NpMztZ9XiL5qtTFpERRtfPDpa.jpg"
+    },
+    {
+      "name": "Famke Janssen",
+      "role": "Jean Grey / Pheonix",
+      "url": "https://multimovies.city/cast/famke-janssen/",
+      "image": "https://image.tmdb.org/t/p/w92/uvZGwNsLqe9NyA57Qlt46IkO8Bd.jpg"
+    },
+    {
+      "name": "James Marsden",
+      "role": "Scott Summers / Cyclops",
+      "url": "https://multimovies.city/cast/james-marsden/",
+      "image": "https://image.tmdb.org/t/p/w92/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+    },
+    {
+      "name": "Rebecca Romijn",
+      "role": "Raven Darkholme / Mystique / Grace",
+      "url": "https://multimovies.city/cast/rebecca-romijn/",
+      "image": "https://image.tmdb.org/t/p/w92/5Jgmk7S3JxDUhdVLUFHUaJ42ovt.jpg"
+    },
+    {
+      "name": "Brian Cox",
+      "role": "William Stryker",
+      "url": "https://multimovies.city/cast/brian-cox/",
+      "image": "https://image.tmdb.org/t/p/w92/yvoAgJTOvuNSPSKegcIcD62ySY9.jpg"
+    },
+    {
+      "name": "Bruce Davison",
+      "role": "Senator Kelly",
+      "url": "https://multimovies.city/cast/bruce-davison/",
+      "image": "https://image.tmdb.org/t/p/w92/uPHdmfGT2madX9nxIXoMCGoVJC.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/loixNIKBURXfPcND4noz7E8FqCS.jpg",
+    "https://image.tmdb.org/t/p/w300/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+    "https://image.tmdb.org/t/p/w300/eKsQaowtf30S7DDm02clQKF0KYy.jpg",
+    "https://image.tmdb.org/t/p/w300/kU0e0k6OgVR9vMxk3MDApBKQ5cQ.jpg",
+    "https://image.tmdb.org/t/p/w300/aWw3qokfrW2tjYz48M9Hc7vxJVK.jpg",
+    "https://image.tmdb.org/t/p/w300/oZqkoz98Rg52BkzCGSDThCYkOLT.jpg",
+    "https://image.tmdb.org/t/p/w300/aJG4Lrm2XlwjmIY4eA538b0JHvk.jpg",
+    "https://image.tmdb.org/t/p/w300/d9Hd35ew4FDAPGejHRlwoRufcal.jpg",
+    "https://image.tmdb.org/t/p/w300/7TYITrR804tLITNur3b8VLCK6tw.jpg"
+  ],
+  "similar": [],
+  "views": 11880,
+  "sources": [
+    "https://www.youtube.com/embed/KjzPi5hfv9c?autoplay=0&autohide=1",
+    "https://smoothpre.com/v/8hfqgebdzs0z"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5229,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5229,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:38:11.874808"
+}
