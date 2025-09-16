@@ -1,0 +1,121 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/king/",
+  "meta": {
+    "title": "King",
+    "poster": "https://image.tmdb.org/t/p/w500/15HKRolyrDzKPOpbZ0kS5pViyOf.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "South Indian",
+        "url": "https://multimovies.city/genre/south-indian/"
+      }
+    ],
+    "firstAirDate": "Dec. 25, 2008",
+    "ratingValue": "5.5",
+    "ratingCount": "2",
+    "synopsis": "After Coimbatore-based Ravichandra Verma passes away, his young son, Raja, assumes the responsibility of running the family business as well as ensuring that his brother, Ajay, gets a good education \u2013 much to the chagrin of three of his uncles. Years later, while on a trip to Uttaranchal, despite of warnings from a Pandit, he gets killed by a female assassin, but his family is informed that he is missing. Shortly thereafter, Gyaneshwar Kale and his sister, Sravani/Shivani, will inform the family that Raja is still alive but is handicapped and suffers from memory loss. The family is overjoyed but are not aware that Raja is actually a hoodlum/extortionist known as Bottu Seenu/Raghu Rokda.",
+    "infoFields": {
+      "Original title": "\u0c15\u0c3f\u0c02\u0c17\u0c4d",
+      "IMDb Rating": "6.5 1,315 votes",
+      "TMDb Rating": "4.8 15 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sreenu Vaitla",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sreenu-vaitla/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Nagarjuna Akkineni",
+      "role": "King / Bottu Seenu / Sarath",
+      "url": "https://multimovies.city/cast/nagarjuna-akkineni/",
+      "image": "https://image.tmdb.org/t/p/w92/i42K59YZY2NbNfqxfo78YoFz6Bv.jpg"
+    },
+    {
+      "name": "Trisha Krishnan",
+      "role": "Sravani / Shivani Kale",
+      "url": "https://multimovies.city/cast/trisha-krishnan/",
+      "image": "https://image.tmdb.org/t/p/w92/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+      "name": "Srihari",
+      "role": "Gyaneshwar 'Ghyanbhai' Kale",
+      "url": "https://multimovies.city/cast/srihari/",
+      "image": "https://image.tmdb.org/t/p/w92/j0sMxR2Hq69iLCJKMcVHe4XuA17.jpg"
+    },
+    {
+      "name": "Mamta Mohandas",
+      "role": "Swapna / Pooja",
+      "url": "https://multimovies.city/cast/mamta-mohandas/",
+      "image": "https://image.tmdb.org/t/p/w92/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+      "name": "Brahmanandam",
+      "role": "Jaya Surya",
+      "url": "https://multimovies.city/cast/brahmanandam/",
+      "image": "https://image.tmdb.org/t/p/w92/zh6nWEIy3l1dsZA9EDuDezq867b.jpg"
+    },
+    {
+      "name": "Ajay",
+      "role": "",
+      "url": "https://multimovies.city/cast/ajay/",
+      "image": "https://image.tmdb.org/t/p/w92/b0B2AxhqKGs1hRl8xfqW7UKH15P.jpg"
+    },
+    {
+      "name": "Sunil Varma",
+      "role": "",
+      "url": "https://multimovies.city/cast/sunil-varma/",
+      "image": "https://image.tmdb.org/t/p/w92/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg"
+    },
+    {
+      "name": "Srinivasa Reddy",
+      "role": "",
+      "url": "https://multimovies.city/cast/srinivasa-reddy/",
+      "image": "https://image.tmdb.org/t/p/w92/aUMNaDeskPGyDoEGwqvBxZPnzYR.jpg"
+    },
+    {
+      "name": "M. S. Narayana",
+      "role": "",
+      "url": "https://multimovies.city/cast/m-s-narayana/",
+      "image": "https://image.tmdb.org/t/p/w92/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg"
+    },
+    {
+      "name": "Venu Madhav",
+      "role": "",
+      "url": "https://multimovies.city/cast/venu-madhav/",
+      "image": "https://image.tmdb.org/t/p/w92/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 691,
+  "sources": [
+    "https://multimoviesshg.com/e/bhrh9xf30ycg"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 29558,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:27:06.002481"
+}
