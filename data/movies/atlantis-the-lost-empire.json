@@ -4,15 +4,135 @@
   "meta": {
     "title": "Atlantis: The Lost Empire",
     "poster": "https://image.tmdb.org/t/p/w500/rdCyK9hgoA2vYrLtVFpDc3KWBaC.jpg",
-    "synopsis": "The world\u2019s most highly qualified crew of archaeologists and explorers is led by historian Milo Thatch as they board the incredible 1,000-foot submarine Ulysses and head deep into the mysteries of the sea. The underwater expedition takes an unexpected turn when the team\u2019s mission must switch from exploring Atlantis to protecting it."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jun. 02, 2001",
+    "ratingValue": "1",
+    "ratingCount": "1",
+    "synopsis": "The world\u2019s most highly qualified crew of archaeologists and explorers is led by historian Milo Thatch as they board the incredible 1,000-foot submarine Ulysses and head deep into the mysteries of the sea. The underwater expedition takes an unexpected turn when the team\u2019s mission must switch from exploring Atlantis to protecting it.",
+    "infoFields": {
+      "Original title": "Atlantis: The Lost Empire",
+      "IMDb Rating": "6.9 136,691 votes",
+      "TMDb Rating": "7 4,662 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Gary Trousdale",
+      "role": "Director",
+      "url": "https://multimovies.city/director/gary-trousdale/",
+      "image": "https://image.tmdb.org/t/p/w92/yczbyaRGnhWYGU5OeFtTrzVaR87.jpg"
+    },
+    {
+      "name": "Michael J. Fox",
+      "role": "Milo James Thatch (voice)",
+      "url": "https://multimovies.city/cast/michael-j-fox/",
+      "image": "https://image.tmdb.org/t/p/w92/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+    },
+    {
+      "name": "Cree Summer",
+      "role": "Princess 'Kida' Kidagakash (voice)",
+      "url": "https://multimovies.city/cast/cree-summer/",
+      "image": "https://image.tmdb.org/t/p/w92/7DRq0zPUUWu55pUbnc2roVnzOJ9.jpg"
+    },
+    {
+      "name": "James Garner",
+      "role": "Commander Lyle Tiberius Rourke (voice)",
+      "url": "https://multimovies.city/cast/james-garner/",
+      "image": "https://image.tmdb.org/t/p/w92/hiPky3VwIOAlmPhJwzRovEsGDrI.jpg"
+    },
+    {
+      "name": "Claudia Christian",
+      "role": "Helga Katrina Sinclair (voice)",
+      "url": "https://multimovies.city/cast/claudia-christian/",
+      "image": "https://image.tmdb.org/t/p/w92/bwmh731OxEyzgtR95nRraLDZLyB.jpg"
+    },
+    {
+      "name": "Phil Morris",
+      "role": "Dr. Joshua Strongbear Sweet (voice)",
+      "url": "https://multimovies.city/cast/phil-morris/",
+      "image": "https://image.tmdb.org/t/p/w92/iZADKc1QdCFpTvu0KnU3BZBwtrE.jpg"
+    },
+    {
+      "name": "Leonard Nimoy",
+      "role": "King Kashekim Nedakh (voice)",
+      "url": "https://multimovies.city/cast/leonard-nimoy/",
+      "image": "https://image.tmdb.org/t/p/w92/6U58BEkktBoLzevAvaMTR9mfGqR.jpg"
+    },
+    {
+      "name": "John Mahoney",
+      "role": "Preston B. Whitmore (voice)",
+      "url": "https://multimovies.city/cast/john-mahoney/",
+      "image": "https://image.tmdb.org/t/p/w92/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+    },
+    {
+      "name": "Corey Burton",
+      "role": "Gaetan 'The Mole' Moliere (voice)",
+      "url": "https://multimovies.city/cast/corey-burton/",
+      "image": "https://image.tmdb.org/t/p/w92/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+    },
+    {
+      "name": "Don Novello",
+      "role": "Vincenzo 'Vinny' Santorini (voice)",
+      "url": "https://multimovies.city/cast/don-novello/",
+      "image": "https://image.tmdb.org/t/p/w92/bbpgxoJRexVFpCDEqtOJYaRH4zQ.jpg"
+    },
+    {
+      "name": "Jacqueline Obradors",
+      "role": "Audrey Rocio Ramirez (voice)",
+      "url": "https://multimovies.city/cast/jacqueline-obradors/",
+      "image": "https://image.tmdb.org/t/p/w92/weJqLT6j8AYiZ9hBvFYjr3WG8DV.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/fYr0fqT9NImOuaN1QgnDHgGh4Ci.jpg",
+    "https://image.tmdb.org/t/p/w300/4eTiLRTYwAVQyQAjuFuf3BXAony.jpg",
+    "https://image.tmdb.org/t/p/w300/cDDhTPf89DX2u2kiirAXE7jK8dl.jpg",
+    "https://image.tmdb.org/t/p/w300/dNmGiztPb9hhdfGvrTPh4J0AHaP.jpg",
+    "https://image.tmdb.org/t/p/w300/1xCmDynjtZlJI0UtwEEsa49pOfq.jpg",
+    "https://image.tmdb.org/t/p/w300/y7XlMkbp8lV078iuXcnrY6fBjQo.jpg",
+    "https://image.tmdb.org/t/p/w300/aTfIqpRA9raWdUVWAzyTPz2Q3kf.jpg",
+    "https://image.tmdb.org/t/p/w300/9DS1yLGrmcKYiiO5WKzjqQO5Bml.jpg",
+    "https://image.tmdb.org/t/p/w300/pSsxltbhfk5q9Lgo5aJqzSSuANW.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 1007,
+  "sources": [
+    "https://www.youtube.com/embed/JuWOj27MyMg?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vjjs88s"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 64637,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 64637,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:29:42.915583"
 }
