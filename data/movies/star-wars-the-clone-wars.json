@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/star-wars-the-clone-wars/",
+  "meta": {
+    "title": "Star Wars: The Clone Wars",
+    "poster": "https://image.tmdb.org/t/p/w500/iJQfixW818LUdSXlCDL3JZm0S0g.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Star wars",
+        "url": "https://multimovies.city/genre/star-wars/"
+      }
+    ],
+    "firstAirDate": "Aug. 05, 2008",
+    "ratingValue": "9",
+    "ratingCount": "2",
+    "synopsis": "As the Clone Wars sweep through the galaxy, the heroic Jedi Knights struggle to maintain order and restore peace. More and more systems are falling prey to the forces of the dark side as the Galactic Republic slips further and further under the sway of the Separatists and their never-ending droid army. Anakin Skywalker and his Padawan learner Ahsoka Tano find themselves on a mission with far-reaching consequences, one that brings them face-to-face with crime lord Jabba the Hutt. But Count Dooku and his sinister agents, including the nefarious Asajj Ventress, will stop at nothing to ensure that Anakin and Ahsoka fail at their quest. Meanwhile, on the front lines of the Clone Wars, Obi-Wan Kenobi and Master Yoda lead the massive clone army in a valiant effort to resist the forces of the dark side\u2026",
+    "infoFields": {
+      "Original title": "Star Wars: The Clone Wars",
+      "IMDb Rating": "5.9 73,357 votes",
+      "TMDb Rating": "6.115 1,931 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Dave Filoni",
+      "role": "Director",
+      "url": "https://multimovies.city/director/dave-filoni/",
+      "image": "https://image.tmdb.org/t/p/w92/dDTTrShpCnCacxB3LhpPffFIdB5.jpg"
+    },
+    {
+      "name": "Matt Lanter",
+      "role": "Anakin Skywalker (voice)",
+      "url": "https://multimovies.city/cast/matt-lanter/",
+      "image": "https://image.tmdb.org/t/p/w92/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg"
+    },
+    {
+      "name": "Ashley Eckstein",
+      "role": "Ahsoka Tano (voice)",
+      "url": "https://multimovies.city/cast/ashley-eckstein/",
+      "image": "https://image.tmdb.org/t/p/w92/jdzSL5AJePycTs1KQpYzm6I55qC.jpg"
+    },
+    {
+      "name": "James Arnold Taylor",
+      "role": "Obi-Wan Kenobi / 4A-7 / Medical Droid (voice)",
+      "url": "https://multimovies.city/cast/james-arnold-taylor/",
+      "image": "https://image.tmdb.org/t/p/w92/xP7SNjPMhZ2m4aVuYboPa8W1RlB.jpg"
+    },
+    {
+      "name": "David Acord",
+      "role": "Rotta the Huttlet (voice)",
+      "url": "https://multimovies.city/cast/david-acord/",
+      "image": "https://image.tmdb.org/t/p/w92/xhk4GEFBVYyp7iJQqMEjTenAt6W.jpg"
+    },
+    {
+      "name": "Dee Bradley Baker",
+      "role": "Captain Rex / Commander Cody / Commander Fox / Clone Troopers (voice)",
+      "url": "https://multimovies.city/cast/dee-bradley-baker/",
+      "image": "https://image.tmdb.org/t/p/w92/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "name": "Christopher Lee",
+      "role": "Count Dooku (voice)",
+      "url": "https://multimovies.city/cast/christopher-lee/",
+      "image": "https://image.tmdb.org/t/p/w92/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+    },
+    {
+      "name": "Nika Futterman",
+      "role": "Asajj Ventress / Tee-C-Seventy (voice)",
+      "url": "https://multimovies.city/cast/nika-futterman/",
+      "image": "https://image.tmdb.org/t/p/w92/6zfuSfLGtLXtFxXBUftMQbgfH6q.jpg"
+    },
+    {
+      "name": "Kevin Michael Richardson",
+      "role": "Jabba the Hutt (voice)",
+      "url": "https://multimovies.city/cast/kevin-michael-richardson/",
+      "image": "https://image.tmdb.org/t/p/w92/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "name": "Catherine Taber",
+      "role": "Padm\u00e9 Amidala (voice)",
+      "url": "https://multimovies.city/cast/catherine-taber/",
+      "image": "https://image.tmdb.org/t/p/w92/tvNDxCQ3k8gjIIN6KV8AFCZORw8.jpg"
+    },
+    {
+      "name": "Ian Abercrombie",
+      "role": "Chancellor Palpatine / Darth Sidious (voice)",
+      "url": "https://multimovies.city/cast/ian-abercrombie/",
+      "image": "https://image.tmdb.org/t/p/w92/bu0hfUxtOdhckZOdNcQonuZBucZ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/xEdnGUc8KeZ7h0eEgSN3ERhjgL0.jpg",
+    "https://image.tmdb.org/t/p/w300/sNNFLEcAuy4C3RyXCnKoArn7Aty.jpg",
+    "https://image.tmdb.org/t/p/w300/uK15I3sGd8AudO9z6J6vi0HH1UU.jpg"
+  ],
+  "similar": [],
+  "views": 1103,
+  "sources": [
+    "https://www.youtube.com/embed/Tas9_TYri4w?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/z37p5sl1v3oo"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 36999,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 36999,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:25:19.544927"
+}
