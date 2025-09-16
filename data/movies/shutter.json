@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/shutter/",
+  "meta": {
+    "title": "Shutter",
+    "poster": "https://image.tmdb.org/t/p/w500/bft6OyITsxSZuTxu2oJipApLran.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 21, 2008",
+    "ratingValue": "1",
+    "ratingCount": "1",
+    "synopsis": "A newly married couple discovers disturbing, ghostly images in photographs they develop after a tragic accident. Fearing the manifestations may be connected, they investigate and learn that some mysteries are better left unsolved.",
+    "infoFields": {
+      "Original title": "Shutter",
+      "IMDb Rating": "5.2 38,167 votes",
+      "TMDb Rating": "5.55 723 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Masayuki Ochiai",
+      "role": "Director",
+      "url": "https://multimovies.city/director/masayuki-ochiai/",
+      "image": "https://image.tmdb.org/t/p/w92/bLM5d8GIm3dQrCA1CheUIi0lo9z.jpg"
+    },
+    {
+      "name": "Joshua Jackson",
+      "role": "Benjamin Shaw",
+      "url": "https://multimovies.city/cast/joshua-jackson/",
+      "image": "https://image.tmdb.org/t/p/w92/mH2a5YFd8J7upjjWwEzM75vitA2.jpg"
+    },
+    {
+      "name": "Rachael Taylor",
+      "role": "Jane Shaw",
+      "url": "https://multimovies.city/cast/rachael-taylor/",
+      "image": "https://image.tmdb.org/t/p/w92/9K3u4xM3fnyzulvqT0cVg8s2mKt.jpg"
+    },
+    {
+      "name": "Megumi Okina",
+      "role": "Megumi Tanaka",
+      "url": "https://multimovies.city/cast/megumi-okina/",
+      "image": "https://image.tmdb.org/t/p/w92/zOY3nJLKX8zqeO9VNVvm2slv1mD.jpg"
+    },
+    {
+      "name": "David Denman",
+      "role": "Bruno",
+      "url": "https://multimovies.city/cast/david-denman/",
+      "image": "https://image.tmdb.org/t/p/w92/4I06ZD8SQ6pU1QYShiUXb711fJW.jpg"
+    },
+    {
+      "name": "Eri Otoguro",
+      "role": "Yoko",
+      "url": "https://multimovies.city/cast/eri-otoguro/",
+      "image": "https://image.tmdb.org/t/p/w92/esvC1TNEdcnWAvQd5zD58LCkzwh.jpg"
+    },
+    {
+      "name": "John Hensley",
+      "role": "Adam",
+      "url": "https://multimovies.city/cast/john-hensley/",
+      "image": "https://image.tmdb.org/t/p/w92/9iKjAq8aTnHxW4LBPAUnRtwBurY.jpg"
+    },
+    {
+      "name": "Maya Hazen",
+      "role": "Seiko",
+      "url": "https://multimovies.city/cast/maya-hazen/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "James Kyson",
+      "role": "Ritsuo",
+      "url": "https://multimovies.city/cast/james-kyson/",
+      "image": "https://image.tmdb.org/t/p/w92/jpV8eFgigwHbhyEL9eZ4czbgMoy.jpg"
+    },
+    {
+      "name": "Yoshiko Miyazaki",
+      "role": "Akiko",
+      "url": "https://multimovies.city/cast/yoshiko-miyazaki/",
+      "image": "https://image.tmdb.org/t/p/w92/uFdHiD3I9sKUHsfmQVGMMy6ueMm.jpg"
+    },
+    {
+      "name": "Kei Yamamoto",
+      "role": "Murase",
+      "url": "https://multimovies.city/cast/kei-yamamoto/",
+      "image": "https://image.tmdb.org/t/p/w92/cSq2IBnhbil9Fq5RZavajaO7j1R.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hDmFeJrs4W2iaMsLKlYSZmVGZ4H.jpg",
+    "https://image.tmdb.org/t/p/w300/xFUk2PlZY2gyCmQla7HcbEzvn4Y.jpg",
+    "https://image.tmdb.org/t/p/w300/6siHyNBYQI7ogEwkaxTD3r6xEDJ.jpg",
+    "https://image.tmdb.org/t/p/w300/4qvPt4Xhi3pPRPGz7ny1LsB8fVj.jpg",
+    "https://image.tmdb.org/t/p/w300/eOydxvOtZgU5yewMLOwjSKUZE3x.jpg",
+    "https://image.tmdb.org/t/p/w300/l68fE0GZgyez0famIkUwgXj5v1k.jpg",
+    "https://image.tmdb.org/t/p/w300/4fLJBcq56w1pPJnxzILjpYBxP0x.jpg"
+  ],
+  "similar": [],
+  "views": 656,
+  "sources": [
+    "https://www.youtube.com/embed/BSNg47ntpt8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/wby8azx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 68318,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 68318,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:17:08.650094"
+}
