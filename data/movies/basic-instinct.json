@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/basic-instinct/",
+  "meta": {
+    "title": "Basic Instinct",
+    "poster": "https://image.tmdb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 20, 1992",
+    "ratingValue": "5.8",
+    "ratingCount": "4",
+    "synopsis": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered \u2014 a crime she had described in her latest story.",
+    "infoFields": {
+      "Original title": "Basic Instinct",
+      "IMDb Rating": "7.1 224,242 votes",
+      "TMDb Rating": "6.919 3,813 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Paul Verhoeven",
+      "role": "Director",
+      "url": "https://multimovies.city/director/paul-verhoeven/",
+      "image": "https://image.tmdb.org/t/p/w92/wxkroRBtM6NKZdx9sYLFfFSGnaR.jpg"
+    },
+    {
+      "name": "Michael Douglas",
+      "role": "Det. Nick Curran",
+      "url": "https://multimovies.city/cast/michael-douglas/",
+      "image": "https://image.tmdb.org/t/p/w92/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+    },
+    {
+      "name": "Sharon Stone",
+      "role": "Catherine Tramell",
+      "url": "https://multimovies.city/cast/sharon-stone/",
+      "image": "https://image.tmdb.org/t/p/w92/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg"
+    },
+    {
+      "name": "George Dzundza",
+      "role": "Gus Moran",
+      "url": "https://multimovies.city/cast/george-dzundza/",
+      "image": "https://image.tmdb.org/t/p/w92/wmnQQn0dFygl90M2N8tlWlpGHzV.jpg"
+    },
+    {
+      "name": "Jeanne Tripplehorn",
+      "role": "Dr. Beth Garner",
+      "url": "https://multimovies.city/cast/jeanne-tripplehorn/",
+      "image": "https://image.tmdb.org/t/p/w92/q7D9MDnMVc5PAm99853gszHwJy7.jpg"
+    },
+    {
+      "name": "Leilani Sarelle",
+      "role": "Roxy",
+      "url": "https://multimovies.city/cast/leilani-sarelle/",
+      "image": "https://image.tmdb.org/t/p/w92/6iR09vrNIHvgua7Yif0grBuTTUe.jpg"
+    },
+    {
+      "name": "Denis Arndt",
+      "role": "Lt. Philip Walker",
+      "url": "https://multimovies.city/cast/denis-arndt/",
+      "image": "https://image.tmdb.org/t/p/w92/sNE3BkuIyueLgekEVxpyQgbbWTN.jpg"
+    },
+    {
+      "name": "Bruce A. Young",
+      "role": "Andrews",
+      "url": "https://multimovies.city/cast/bruce-a-young/",
+      "image": "https://image.tmdb.org/t/p/w92/6IFRI8plA00HKPcrubGYo9K23Kj.jpg"
+    },
+    {
+      "name": "Chelcie Ross",
+      "role": "Capt. Talcott",
+      "url": "https://multimovies.city/cast/chelcie-ross/",
+      "image": "https://image.tmdb.org/t/p/w92/yerwaFvmmtkZSfT68Bhbn1U6I5P.jpg"
+    },
+    {
+      "name": "Dorothy Malone",
+      "role": "Hazel Dobkins",
+      "url": "https://multimovies.city/cast/dorothy-malone/",
+      "image": "https://image.tmdb.org/t/p/w92/2uP4r2lDSAMcTp0HFjeciqoz7qp.jpg"
+    },
+    {
+      "name": "Wayne Knight",
+      "role": "John Correli",
+      "url": "https://multimovies.city/cast/wayne-knight/",
+      "image": "https://image.tmdb.org/t/p/w92/xlGqbZjn48xAUa7eqTybZP360w0.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zTwoyVOAc6XCLjYfzWER6oQgpbO.jpg",
+    "https://image.tmdb.org/t/p/w300/oWg0GthfAmuTwZJBvNExpqtRhr8.jpg",
+    "https://image.tmdb.org/t/p/w300/AjdsT3TdXc6f6lWbC9ZQZ4R4Sbg.jpg",
+    "https://image.tmdb.org/t/p/w300/plWyKqUIenzqFjMrs1gu7Gjygfq.jpg",
+    "https://image.tmdb.org/t/p/w300/4YP23Bq9m0q3BPDtdSSiqn4R8FM.jpg",
+    "https://image.tmdb.org/t/p/w300/dlfCDdARTKVnQzYcc4yyyXMnD7u.jpg",
+    "https://image.tmdb.org/t/p/w300/lBZlIW0xg1AP66IkvCL0X4IuXfY.jpg",
+    "https://image.tmdb.org/t/p/w300/7FRraud59N3s10bbf9bfYjvwx3v.jpg",
+    "https://image.tmdb.org/t/p/w300/wCDwwsAqTbnQC57LEQHHkzhFpGv.jpg",
+    "https://image.tmdb.org/t/p/w300/znOloj5rGchqtatUgBrF5PapOQ5.jpg"
+  ],
+  "similar": [],
+  "views": 8379,
+  "sources": [
+    "https://www.youtube.com/embed/Jh6JwQ8XPK0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/p1qa1dr"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 67318,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 67318,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
