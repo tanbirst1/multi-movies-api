@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/toy-story-3/",
+  "meta": {
+    "title": "Toy Story 3",
+    "poster": "https://image.tmdb.org/t/p/w500/j0iPLV1DZb03SwubhRSI5ztP3lZ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Jun. 16, 2010",
+    "ratingValue": "9.6",
+    "ratingCount": "7",
+    "synopsis": "Woody, Buzz, and the rest of Andy\u2019s toys haven\u2019t been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+    "infoFields": {
+      "Original title": "Toy Story 3",
+      "IMDb Rating": "8.3 937,375 votes",
+      "TMDb Rating": "7.8 15,036 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Lee Unkrich",
+      "role": "Director",
+      "url": "https://multimovies.city/director/lee-unkrich/",
+      "image": "https://image.tmdb.org/t/p/w92/crb297utC6W4HSstOe5djDPTwEN.jpg"
+    },
+    {
+      "name": "Tom Hanks",
+      "role": "Woody (voice)",
+      "url": "https://multimovies.city/cast/tom-hanks/",
+      "image": "https://image.tmdb.org/t/p/w92/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+    },
+    {
+      "name": "Tim Allen",
+      "role": "Buzz Lightyear (voice)",
+      "url": "https://multimovies.city/cast/tim-allen/",
+      "image": "https://image.tmdb.org/t/p/w92/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "name": "Joan Cusack",
+      "role": "Jessie (voice)",
+      "url": "https://multimovies.city/cast/joan-cusack/",
+      "image": "https://image.tmdb.org/t/p/w92/69cfjfZFjVxfu2QbngnXOkipcyn.jpg"
+    },
+    {
+      "name": "Don Rickles",
+      "role": "Mr. Potato Head (voice)",
+      "url": "https://multimovies.city/cast/don-rickles/",
+      "image": "https://image.tmdb.org/t/p/w92/iJLQV4dcbTUgxlWJakjDldzlMXS.jpg"
+    },
+    {
+      "name": "Wallace Shawn",
+      "role": "Rex (voice)",
+      "url": "https://multimovies.city/cast/wallace-shawn/",
+      "image": "https://image.tmdb.org/t/p/w92/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "name": "John Ratzenberger",
+      "role": "Hamm (voice)",
+      "url": "https://multimovies.city/cast/john-ratzenberger/",
+      "image": "https://image.tmdb.org/t/p/w92/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "name": "Estelle Harris",
+      "role": "Mrs. Potato Head (voice)",
+      "url": "https://multimovies.city/cast/estelle-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/ubRQRjXLwmBmOIuE2tr2GoqanvN.jpg"
+    },
+    {
+      "name": "Blake Clark",
+      "role": "Slinky Dog (voice)",
+      "url": "https://multimovies.city/cast/blake-clark/",
+      "image": "https://image.tmdb.org/t/p/w92/pA4OZQPyATEX9AqZYUIOItQ447o.jpg"
+    },
+    {
+      "name": "Jeff Pidgeon",
+      "role": "Aliens (voice)",
+      "url": "https://multimovies.city/cast/jeff-pidgeon/",
+      "image": "https://image.tmdb.org/t/p/w92/t8LV9Y6s1qwQQNSRfo6GWEExffd.jpg"
+    },
+    {
+      "name": "Ned Beatty",
+      "role": "Lotso (voice)",
+      "url": "https://multimovies.city/cast/ned-beatty/",
+      "image": "https://image.tmdb.org/t/p/w92/vCrYkFp1JW9NHa2W3mqWJbxueJ7.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/drIxCVyHbWWjtmlurRaAf7dHXc9.jpg",
+    "https://image.tmdb.org/t/p/w300/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+    "https://image.tmdb.org/t/p/w300/csDxOOSjfcJNNRo4ma8ltVynELV.jpg",
+    "https://image.tmdb.org/t/p/w300/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+    "https://image.tmdb.org/t/p/w300/egybPos4AIOpC3o1WlTdRPE0Y02.jpg",
+    "https://image.tmdb.org/t/p/w300/42QKmIdogK82MwmR27AF4buZNNR.jpg",
+    "https://image.tmdb.org/t/p/w300/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
+    "https://image.tmdb.org/t/p/w300/qiP8YjlSBB0ivgj8I0DYB3sABMq.jpg",
+    "https://image.tmdb.org/t/p/w300/2MAnRM26rDZXHiV5pHgWdj83A6h.jpg",
+    "https://image.tmdb.org/t/p/w300/nzlniM4vYfzgGdx7oIdyqDisTX4.jpg"
+  ],
+  "similar": [],
+  "views": 3907,
+  "sources": [
+    "https://www.youtube.com/embed/TNMpa5yBf5o?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/oyqjsrf"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20727,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 20727,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:40:05.002842"
+}
