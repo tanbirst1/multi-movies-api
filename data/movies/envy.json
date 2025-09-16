@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/envy/",
+  "meta": {
+    "title": "Envy",
+    "poster": "https://image.tmdb.org/t/p/w500/RMaKg5mVnGVI0z3SvIgS7hYPUt.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Apr. 30, 2004",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "A man becomes increasingly jealous of his friend\u2019s newfound success.",
+    "infoFields": {
+      "Original title": "Envy",
+      "IMDb Rating": "4.8 32,403 votes",
+      "TMDb Rating": "4.882 488 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Barry Levinson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/barry-levinson/",
+      "image": "https://image.tmdb.org/t/p/w92/auf7SnoOE9FULo8KhSSL8c2Yrlb.jpg"
+    },
+    {
+      "name": "Ben Stiller",
+      "role": "Tim Dingman",
+      "url": "https://multimovies.city/cast/ben-stiller/",
+      "image": "https://image.tmdb.org/t/p/w92/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "name": "Jack Black",
+      "role": "Nick Vanderpark",
+      "url": "https://multimovies.city/cast/jack-black/",
+      "image": "https://image.tmdb.org/t/p/w92/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+    },
+    {
+      "name": "Rachel Weisz",
+      "role": "Debbie Dingman",
+      "url": "https://multimovies.city/cast/rachel-weisz/",
+      "image": "https://image.tmdb.org/t/p/w92/msTqKPA33ryVtcVNgOdeaJGYq16.jpg"
+    },
+    {
+      "name": "Christopher Walken",
+      "role": "J-Man",
+      "url": "https://multimovies.city/cast/christopher-walken/",
+      "image": "https://image.tmdb.org/t/p/w92/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "name": "Amy Poehler",
+      "role": "Natalie Vanderpark",
+      "url": "https://multimovies.city/cast/amy-poehler/",
+      "image": "https://image.tmdb.org/t/p/w92/rwmvRonpluV6dCPiQissYrchvSD.jpg"
+    },
+    {
+      "name": "Ariel Gade",
+      "role": "Lula Dingman",
+      "url": "https://multimovies.city/cast/ariel-gade/",
+      "image": "https://image.tmdb.org/t/p/w92/gJjFVCXDkw7kuTt2Aks6xVi3PvF.jpg"
+    },
+    {
+      "name": "Sam Lerner",
+      "role": "Michael Dingman",
+      "url": "https://multimovies.city/cast/sam-lerner/",
+      "image": "https://image.tmdb.org/t/p/w92/tHTUqTxciQIEdQYdaKWPorWyRbm.jpg"
+    },
+    {
+      "name": "Lily Jackson",
+      "role": "Nellie Vanderpark",
+      "url": "https://multimovies.city/cast/lily-jackson/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Connor Matheus",
+      "role": "Nathan Vanderpark",
+      "url": "https://multimovies.city/cast/connor-matheus/",
+      "image": "https://image.tmdb.org/t/p/w92/5Vt8Bx0Av0D2G3Gq55CoyY1VqO9.jpg"
+    },
+    {
+      "name": "Hector Elias",
+      "role": "Eduardo",
+      "url": "https://multimovies.city/cast/hector-elias/",
+      "image": "https://image.tmdb.org/t/p/w92/9i4NH2BzkFEEoUMPS6tuOmGqUy4.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/rgImWBvvXCGTl4mNJ3L5960svfV.jpg",
+    "https://image.tmdb.org/t/p/w300/6p6iDDKyFbPlezsmdILJmrx3Amg.jpg",
+    "https://image.tmdb.org/t/p/w300/lMJI5hZ6ovbPT2un0TCu00B99lJ.jpg",
+    "https://image.tmdb.org/t/p/w300/oQaOPzPb3wE1oa2sWgFzVh33oua.jpg"
+  ],
+  "similar": [],
+  "views": 259,
+  "sources": [
+    "https://www.youtube.com/embed/7mp9f5dsQ00?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/94sztaks563d"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 55080,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 55080,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:48:35.567851"
+}
