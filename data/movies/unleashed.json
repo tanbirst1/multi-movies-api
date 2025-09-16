@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/unleashed/",
+  "meta": {
+    "title": "Unleashed",
+    "poster": "https://image.tmdb.org/t/p/w500/eOmXfQgDLUndae2xnwJfV0JZ2JN.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 02, 2005",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Raised as a slave, Danny is used to fighting for his survival. In fact, his \u201cmaster,\u201d Bart, thinks of him as a pet and goes as far as leashing him with a collar so they can make money in fight clubs, where Danny is the main contender. When Bart\u2019s crew is in a car accident, Danny escapes and meets a blind, kindhearted piano tuner who takes him in and uses music to free the fighter\u2019s long-buried heart.",
+    "infoFields": {
+      "Original title": "Unleashed",
+      "IMDb Rating": "7 106,354 votes",
+      "TMDb Rating": "6.906 1,831 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Louis Leterrier",
+      "role": "Director",
+      "url": "https://multimovies.city/director/louis-leterrier/",
+      "image": "https://image.tmdb.org/t/p/w92/guzsaiGBEy1qi3Ffh2uPcqaURYN.jpg"
+    },
+    {
+      "name": "Jet Li",
+      "role": "Danny",
+      "url": "https://multimovies.city/cast/jet-li/",
+      "image": "https://image.tmdb.org/t/p/w92/5a6u17dAf11kLvdRUG6QdoRRURj.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "role": "Sam",
+      "url": "https://multimovies.city/cast/morgan-freeman/",
+      "image": "https://image.tmdb.org/t/p/w92/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+    },
+    {
+      "name": "Bob Hoskins",
+      "role": "Bart",
+      "url": "https://multimovies.city/cast/bob-hoskins/",
+      "image": "https://image.tmdb.org/t/p/w92/qOeE7bVHAsNTbP77Qk6TwrrWHZc.jpg"
+    },
+    {
+      "name": "Kerry Condon",
+      "role": "Victoria",
+      "url": "https://multimovies.city/cast/kerry-condon/",
+      "image": "https://image.tmdb.org/t/p/w92/8l5zehb9sc9cgRCLD713rf5Xmz3.jpg"
+    },
+    {
+      "name": "Vincent Regan",
+      "role": "Raffles",
+      "url": "https://multimovies.city/cast/vincent-regan/",
+      "image": "https://image.tmdb.org/t/p/w92/vnylF0jSWOdQyRWAsQgV3oA9dk.jpg"
+    },
+    {
+      "name": "Dylan Brown",
+      "role": "Lefty",
+      "url": "https://multimovies.city/cast/dylan-brown/",
+      "image": "https://image.tmdb.org/t/p/w92/dxjx71Wv17W2TpOcoboGaVMUgkv.jpg"
+    },
+    {
+      "name": "Tamer Hassan",
+      "role": "Georgie",
+      "url": "https://multimovies.city/cast/tamer-hassan/",
+      "image": "https://image.tmdb.org/t/p/w92/5xDdmxKqRsiPVf2KQ16AK7Fmock.jpg"
+    },
+    {
+      "name": "Phyllida Law",
+      "role": "Distinguished Lady",
+      "url": "https://multimovies.city/cast/phyllida-law/",
+      "image": "https://image.tmdb.org/t/p/w92/iL3UchWZqdk6RabqDZW9HBcJDwQ.jpg"
+    },
+    {
+      "name": "Michael Jenn",
+      "role": "Wyeth",
+      "url": "https://multimovies.city/cast/michael-jenn/",
+      "image": "https://image.tmdb.org/t/p/w92/3NQbYl0GUHewCxBQaLnQaAnRV9G.jpg"
+    },
+    {
+      "name": "Carole Ann Wilson",
+      "role": "Maddy",
+      "url": "https://multimovies.city/cast/carole-ann-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/huQ5Q8mn1bsQSPtqHE93MJi1RqY.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/z8ejhyO0hVXk4KVo1bi4HMFP3FS.jpg",
+    "https://image.tmdb.org/t/p/w300/z3yu62NzObe7PWJgYbkxOU2QinL.jpg",
+    "https://image.tmdb.org/t/p/w300/dVrywWj6scjfeaaysDytS4fSO9i.jpg"
+  ],
+  "similar": [],
+  "views": 1578,
+  "sources": [
+    "https://www.youtube.com/embed/AoBkHA7-I84?autoplay=0&autohide=1",
+    "https://animefever.fun/v/bduiepdoraxs"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26675,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 26675,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:52:55.867516"
+}
