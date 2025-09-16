@@ -4,15 +4,132 @@
   "meta": {
     "title": "Blade",
     "poster": "https://image.tmdb.org/t/p/w500/hx0sdduAsr4rq03RZKZzglR25z7.jpg",
-    "synopsis": "The Daywalker known as \u201cBlade\u201d \u2013 a half-vampire, half-mortal man \u2013 becomes the protector of humanity against an underground army of vampires."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Aug. 21, 1998",
+    "ratingValue": "10",
+    "ratingCount": "4",
+    "synopsis": "The Daywalker known as \u201cBlade\u201d \u2013 a half-vampire, half-mortal man \u2013 becomes the protector of humanity against an underground army of vampires.",
+    "infoFields": {
+      "Original title": "Blade",
+      "IMDb Rating": "7.1 285,338 votes",
+      "TMDb Rating": "6.754 5,323 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Stephen Norrington",
+      "role": "Director",
+      "url": "https://multimovies.city/director/stephen-norrington/",
+      "image": "https://image.tmdb.org/t/p/w92/yz6mmhcGoglQEILf5uUCK636NH8.jpg"
+    },
+    {
+      "name": "Wesley Snipes",
+      "role": "Eric Brooks / Blade",
+      "url": "https://multimovies.city/cast/wesley-snipes/",
+      "image": "https://image.tmdb.org/t/p/w92/81D6oJ81kiQ5xnEHhaHrY29ntdO.jpg"
+    },
+    {
+      "name": "Stephen Dorff",
+      "role": "Deacon Frost",
+      "url": "https://multimovies.city/cast/stephen-dorff/",
+      "image": "https://image.tmdb.org/t/p/w92/kuFyGa2HZB7hAQTUn3WKlgKAVjm.jpg"
+    },
+    {
+      "name": "Kris Kristofferson",
+      "role": "Abraham Whistler",
+      "url": "https://multimovies.city/cast/kris-kristofferson/",
+      "image": "https://image.tmdb.org/t/p/w92/fWZCpnXT7sLOdc96Bm66QTOjnXZ.jpg"
+    },
+    {
+      "name": "N'Bushe Wright",
+      "role": "Dr. Karen Jenson",
+      "url": "https://multimovies.city/cast/nbushe-wright/",
+      "image": "https://image.tmdb.org/t/p/w92/jSXuSko6tZQ69LfJEMmNLiXEOS8.jpg"
+    },
+    {
+      "name": "Donal Logue",
+      "role": "Quinn",
+      "url": "https://multimovies.city/cast/donal-logue/",
+      "image": "https://image.tmdb.org/t/p/w92/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+    },
+    {
+      "name": "Udo Kier",
+      "role": "Gitano Dragonetti",
+      "url": "https://multimovies.city/cast/udo-kier/",
+      "image": "https://image.tmdb.org/t/p/w92/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+    },
+    {
+      "name": "Arly Jover",
+      "role": "Mercury",
+      "url": "https://multimovies.city/cast/arly-jover/",
+      "image": "https://image.tmdb.org/t/p/w92/zmznPrQ9GSZwcOIUT0c3GyETwrP.jpg"
+    },
+    {
+      "name": "Traci Lords",
+      "role": "Racquel",
+      "url": "https://multimovies.city/cast/traci-lords/",
+      "image": "https://image.tmdb.org/t/p/w92/xcHV0zuDDYX5TZfJAd6osXfzLWC.jpg"
+    },
+    {
+      "name": "Kevin Patrick Walls",
+      "role": "Officer Krieger",
+      "url": "https://multimovies.city/cast/kevin-patrick-walls/",
+      "image": "https://image.tmdb.org/t/p/w92/yDixh6zfvP7tvZzlWvSYv7Tq2Fj.jpg"
+    },
+    {
+      "name": "Tim Guinee",
+      "role": "Dr. Curtis Webb",
+      "url": "https://multimovies.city/cast/tim-guinee/",
+      "image": "https://image.tmdb.org/t/p/w92/rS2K7cJx6Vm2buE0HhIUp9tuC1g.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hZnnUq0mrUQ3e54SJVca4mf2oAQ.jpg",
+    "https://image.tmdb.org/t/p/w300/fUkjt1C7V5RAKnkpLaiZy3hJ7xh.jpg",
+    "https://image.tmdb.org/t/p/w300/o4qPyQbx306Z29wLe2MHoWLim8G.jpg",
+    "https://image.tmdb.org/t/p/w300/dJMq14I3XoadBFH0nEkZPmWGvhN.jpg",
+    "https://image.tmdb.org/t/p/w300/bMhkCnATDPztcxFJULfnBqvzkyd.jpg",
+    "https://image.tmdb.org/t/p/w300/xGshTJ8EVj58KQTVFRU3ZBIYbVm.jpg",
+    "https://image.tmdb.org/t/p/w300/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+    "https://image.tmdb.org/t/p/w300/je6RqPIQmyK7wpDajUKsOFJzgQy.jpg",
+    "https://image.tmdb.org/t/p/w300/z6fgW9JKLKw5LHh0xz8HCmussXJ.jpg",
+    "https://image.tmdb.org/t/p/w300/gIR61o4awBHCNHUOrBcjyZa22BZ.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 3607,
+  "sources": [
+    "https://www.youtube.com/embed/O2Y3FFFIvRI?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/2bht9eu869dw"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 23029,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 23029,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:20:44"
+  "last_update": "2025-09-16T17:24:22.228147"
 }
