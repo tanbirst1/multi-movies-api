@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/wall\u00b7e/",
+  "meta": {
+    "title": "WALL-E",
+    "poster": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jun. 22, 2008",
+    "ratingValue": "8.8",
+    "ratingCount": "4",
+    "synopsis": "WALL\u00b7E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL\u00b7E thinks he\u2019s finally found a friend and stows away on the ship when it leaves.",
+    "infoFields": {
+      "Original title": "WALL\u00b7E",
+      "IMDb Rating": "8.4 1,140,370 votes",
+      "TMDb Rating": "8.1 19,201 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Andrew Stanton",
+      "role": "Director",
+      "url": "https://multimovies.city/director/andrew-stanton/",
+      "image": "https://image.tmdb.org/t/p/w92/tRwWuo06aN9vuXAPaswMN42x2ii.jpg"
+    },
+    {
+      "name": "Ben Burtt",
+      "role": "WALL\u00b7E / M-O (voice)",
+      "url": "https://multimovies.city/cast/ben-burtt/",
+      "image": "https://image.tmdb.org/t/p/w92/16OhOb7WngOi4WOnGpRpbDSzYnd.jpg"
+    },
+    {
+      "name": "Elissa Knight",
+      "role": "EVE (voice)",
+      "url": "https://multimovies.city/cast/elissa-knight/",
+      "image": "https://image.tmdb.org/t/p/w92/vrgL992F6hQYTyNeJWDKRsrolaP.jpg"
+    },
+    {
+      "name": "Jeff Garlin",
+      "role": "Captain (voice)",
+      "url": "https://multimovies.city/cast/jeff-garlin/",
+      "image": "https://image.tmdb.org/t/p/w92/8shJOwynglerVVxhOKbvDYTThBd.jpg"
+    },
+    {
+      "name": "Fred Willard",
+      "role": "Shelby Forthright",
+      "url": "https://multimovies.city/cast/fred-willard/",
+      "image": "https://image.tmdb.org/t/p/w92/sHgg2W09DEdXB9W7bVYNGpHdLNE.jpg"
+    },
+    {
+      "name": "John Ratzenberger",
+      "role": "John (voice)",
+      "url": "https://multimovies.city/cast/john-ratzenberger/",
+      "image": "https://image.tmdb.org/t/p/w92/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "name": "Kathy Najimy",
+      "role": "Mary (voice)",
+      "url": "https://multimovies.city/cast/kathy-najimy/",
+      "image": "https://image.tmdb.org/t/p/w92/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Ship's Computer (voice)",
+      "url": "https://multimovies.city/cast/sigourney-weaver/",
+      "image": "https://image.tmdb.org/t/p/w92/sHWCLx54yLtaFtppp5ADjAsrWIc.jpg"
+    },
+    {
+      "name": "Teddy Newton",
+      "role": "Additional Voices (voice)",
+      "url": "https://multimovies.city/cast/teddy-newton/",
+      "image": "https://image.tmdb.org/t/p/w92/mUFJqwDSjafLmacLSjoTFx74XiA.jpg"
+    },
+    {
+      "name": "Bob Bergen",
+      "role": "Additional Voices (voice)",
+      "url": "https://multimovies.city/cast/bob-bergen/",
+      "image": "https://image.tmdb.org/t/p/w92/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+    },
+    {
+      "name": "John Cygan",
+      "role": "Additional Voices (voice)",
+      "url": "https://multimovies.city/cast/john-cygan/",
+      "image": "https://image.tmdb.org/t/p/w92/sIcRLzUyeOL9ayYOUye3LFWkfuA.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/fK5ssgvtI43z19FoWigdlqgpLRE.jpg",
+    "https://image.tmdb.org/t/p/w300/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
+    "https://image.tmdb.org/t/p/w300/qxSArjpoHUOIzP5ha3EHvWbPCdY.jpg",
+    "https://image.tmdb.org/t/p/w300/paO3UfhgoNe2qblfKGanfon6ve7.jpg",
+    "https://image.tmdb.org/t/p/w300/3CvNc04vTwTir5q3LBDuvUb8Ng6.jpg",
+    "https://image.tmdb.org/t/p/w300/91tAohcYYbs8CADYWC5NkAqUp4w.jpg",
+    "https://image.tmdb.org/t/p/w300/eete5ZAaagldSXxDetN62V3WXcg.jpg",
+    "https://image.tmdb.org/t/p/w300/zzrX89yRutVifa7kekLjWO39jmB.jpg",
+    "https://image.tmdb.org/t/p/w300/x7O7oJO7BeXWvqXpLa5YoJd8ZD5.jpg",
+    "https://image.tmdb.org/t/p/w300/APl38zZtVNAnIgI2ALsWVoRcWA.jpg"
+  ],
+  "similar": [],
+  "views": 5065,
+  "sources": [
+    "https://www.youtube.com/embed/8-_9n5DtKOc?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/akuqadh"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18621,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18621,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:20:24.434815"
+}
