@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-dark-knight/",
+  "meta": {
+    "title": "Batman 2 : The Dark Knight",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "DC Universe",
+        "url": "https://multimovies.city/genre/dc-universe/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 16, 2008",
+    "ratingValue": "9.1",
+    "ratingCount": "48",
+    "synopsis": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "infoFields": {
+      "Original title": "The Dark Knight",
+      "IMDb Rating": "9.1 3,065,998 votes",
+      "TMDb Rating": "8.523 34,316 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Christopher Nolan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/christopher-nolan/",
+      "image": "https://image.tmdb.org/t/p/w92/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+    },
+    {
+      "name": "Christian Bale",
+      "role": "Bruce Wayne / Batman",
+      "url": "https://multimovies.city/cast/christian-bale/",
+      "image": "https://image.tmdb.org/t/p/w92/qCpZn2e3dimwbryLnqxZuI88PTi.jpg"
+    },
+    {
+      "name": "Heath Ledger",
+      "role": "Joker",
+      "url": "https://multimovies.city/cast/heath-ledger/",
+      "image": "https://image.tmdb.org/t/p/w92/5Y9HnYYa9jF4NunY9lSgJGjSe8E.jpg"
+    },
+    {
+      "name": "Michael Caine",
+      "role": "Alfred Pennyworth",
+      "url": "https://multimovies.city/cast/michael-caine/",
+      "image": "https://image.tmdb.org/t/p/w92/klNx4UqkcE9u7P3vsg20AKwgplw.jpg"
+    },
+    {
+      "name": "Gary Oldman",
+      "role": "James Gordon",
+      "url": "https://multimovies.city/cast/gary-oldman/",
+      "image": "https://image.tmdb.org/t/p/w92/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+    },
+    {
+      "name": "Aaron Eckhart",
+      "role": "Harvey Dent / Two-Face",
+      "url": "https://multimovies.city/cast/aaron-eckhart/",
+      "image": "https://image.tmdb.org/t/p/w92/5EFQvRHlpP1Iaw2e6vjOaBny6DV.jpg"
+    },
+    {
+      "name": "Maggie Gyllenhaal",
+      "role": "Rachel Dawes",
+      "url": "https://multimovies.city/cast/maggie-gyllenhaal/",
+      "image": "https://image.tmdb.org/t/p/w92/7P1o6b4gZj7ICF847m8EXEyw2vV.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "role": "Lucius Fox",
+      "url": "https://multimovies.city/cast/morgan-freeman/",
+      "image": "https://image.tmdb.org/t/p/w92/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+    },
+    {
+      "name": "Nestor Carbonell",
+      "role": "Anthony Garcia",
+      "url": "https://multimovies.city/cast/nestor-carbonell/",
+      "image": "https://image.tmdb.org/t/p/w92/wAk4Me2INiNSpRvzU8K98743Uc1.jpg"
+    },
+    {
+      "name": "Monique Gabriela Curnen",
+      "role": "Anna Ramirez",
+      "url": "https://multimovies.city/cast/monique-gabriela-curnen/",
+      "image": "https://image.tmdb.org/t/p/w92/lJgLQs7cfM49m8VzVviwxIByz76.jpg"
+    },
+    {
+      "name": "Ron Dean",
+      "role": "Michael Wuertz",
+      "url": "https://multimovies.city/cast/ron-dean/",
+      "image": "https://image.tmdb.org/t/p/w92/mgqdr4VFrTVZatkki2suNLYxeDG.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+    "https://image.tmdb.org/t/p/w300/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "https://image.tmdb.org/t/p/w300/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+    "https://image.tmdb.org/t/p/w300/hkBaDkMWbLaf8B1lsWsKX7Ew3Xq.jpg",
+    "https://image.tmdb.org/t/p/w300/6fA9nie4ROlkyZAUlgKNjGNCbHG.jpg",
+    "https://image.tmdb.org/t/p/w300/pbEkjhdfP7yuDcMB78YEZwgD4IN.jpg",
+    "https://image.tmdb.org/t/p/w300/enNubozHn9pXi0ycTVYUWfpHZm.jpg",
+    "https://image.tmdb.org/t/p/w300/oOv2oUXcAaNXakRqUPxYq5lJURz.jpg",
+    "https://image.tmdb.org/t/p/w300/6SfX1p5G4EEEDnEulFJeSxgbtSV.jpg",
+    "https://image.tmdb.org/t/p/w300/pjyzrh1bdv1UTpDRHvM850TJAmT.jpg"
+  ],
+  "similar": [],
+  "views": 45653,
+  "sources": [
+    "https://www.youtube.com/embed/kmJLuwP3MbY?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/w91kf70"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 780,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 780,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:19:52.574586"
+}
