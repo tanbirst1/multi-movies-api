@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-mist/",
+  "meta": {
+    "title": "The Mist",
+    "poster": "https://image.tmdb.org/t/p/w500/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Feb. 21, 2007",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+    "infoFields": {
+      "Original title": "The Mist",
+      "IMDb Rating": "7.1 359,528 votes",
+      "TMDb Rating": "6.938 5,419 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Frank Darabont",
+      "role": "Director",
+      "url": "https://multimovies.city/director/frank-darabont/",
+      "image": "https://image.tmdb.org/t/p/w92/vZ50guP86otYTiBSGfi35GNHWVf.jpg"
+    },
+    {
+      "name": "Thomas Jane",
+      "role": "David Drayton",
+      "url": "https://multimovies.city/cast/thomas-jane/",
+      "image": "https://image.tmdb.org/t/p/w92/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+    },
+    {
+      "name": "Laurie Holden",
+      "role": "Amanda Dunfrey",
+      "url": "https://multimovies.city/cast/laurie-holden/",
+      "image": "https://image.tmdb.org/t/p/w92/h0iQdEl4cnxBIhDHepsU9Jy8br7.jpg"
+    },
+    {
+      "name": "Toby Jones",
+      "role": "Ollie Weeks",
+      "url": "https://multimovies.city/cast/toby-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/eOZe7EZ0Ojq8PaIn1HLVex5dZwc.jpg"
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "role": "Mrs. Carmody",
+      "url": "https://multimovies.city/cast/marcia-gay-harden/",
+      "image": "https://image.tmdb.org/t/p/w92/cBAFNVmGdVwMJqSGPjBHeYVaTdH.jpg"
+    },
+    {
+      "name": "Andre Braugher",
+      "role": "Brent Norton",
+      "url": "https://multimovies.city/cast/andre-braugher/",
+      "image": "https://image.tmdb.org/t/p/w92/cDvAVHDiz7wyvE8K3Gxbn8zxdpo.jpg"
+    },
+    {
+      "name": "William Sadler",
+      "role": "Jim",
+      "url": "https://multimovies.city/cast/william-sadler/",
+      "image": "https://image.tmdb.org/t/p/w92/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+    },
+    {
+      "name": "Jeffrey DeMunn",
+      "role": "Dan Miller",
+      "url": "https://multimovies.city/cast/jeffrey-demunn/",
+      "image": "https://image.tmdb.org/t/p/w92/eSouAAduXaziFpqLw59AG55jtGY.jpg"
+    },
+    {
+      "name": "Sam Witwer",
+      "role": "Private Jessup",
+      "url": "https://multimovies.city/cast/sam-witwer/",
+      "image": "https://image.tmdb.org/t/p/w92/8flOyMoh9hBQPqi6ISD7W1mDjnY.jpg"
+    },
+    {
+      "name": "Chris Owen",
+      "role": "Norm",
+      "url": "https://multimovies.city/cast/chris-owen/",
+      "image": "https://image.tmdb.org/t/p/w92/7D4FDp49BVwVhWSlQ27vFtKhlOx.jpg"
+    },
+    {
+      "name": "Alexa Davalos",
+      "role": "Sally",
+      "url": "https://multimovies.city/cast/alexa-davalos/",
+      "image": "https://image.tmdb.org/t/p/w92/d5R2gsdPwXvWyPYpYT4O5EcIqbC.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/76J14zgwVWyOciri7X7F3DGP3TA.jpg",
+    "https://image.tmdb.org/t/p/w300/3WrR2rYX7nHWnBhWHLZptsJ2bEj.jpg",
+    "https://image.tmdb.org/t/p/w300/ubvavrekrbUxpbqrO3vbFB51Cx3.jpg",
+    "https://image.tmdb.org/t/p/w300/sDuNn7U0UQpEdwjiYnslzkzLW8G.jpg",
+    "https://image.tmdb.org/t/p/w300/rD8AV9KjYZQfxO7SkpEJzfJSK18.jpg",
+    "https://image.tmdb.org/t/p/w300/indt50A4edwQtdDZzo0lmodMX7o.jpg",
+    "https://image.tmdb.org/t/p/w300/aDeNQAz19hYPscwEUovvVjSvKOF.jpg",
+    "https://image.tmdb.org/t/p/w300/6Go6NJC7UTEMLFKPYKydbtPhxBv.jpg",
+    "https://image.tmdb.org/t/p/w300/wc7OBqLNRIhtSKtZk8fQvA3XQfH.jpg",
+    "https://image.tmdb.org/t/p/w300/quz3Su9JYpAqGogIAv70eZJDO8x.jpg"
+  ],
+  "similar": [],
+  "views": 1405,
+  "sources": [
+    "https://www.youtube.com/embed/LhCKXJNGzN8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/xqoq8r8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 82424,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 82424,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:13:49.605253"
+}
