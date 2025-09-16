@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/after-life/",
+  "meta": {
+    "title": "After Life",
+    "poster": "https://image.tmdb.org/t/p/w500/ty43RTdSBpL3VjBJWeRoKhFg7hF.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Nov. 07, 2009",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Following a terrible car crash, a woman awakes to find an enigmatic mortician preparing her for burial.",
+    "infoFields": {
+      "Original title": "After.Life",
+      "IMDb Rating": "5.9 40,097 votes",
+      "TMDb Rating": "6.262 999 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Agnieszka Wojtowicz-Vosloo",
+      "role": "Director",
+      "url": "https://multimovies.city/director/agnieszka-wojtowicz-vosloo/",
+      "image": "https://image.tmdb.org/t/p/w92/hwjeWZXUlud4GJcfnIyrjViK2oz.jpg"
+    },
+    {
+      "name": "Christina Ricci",
+      "role": "Anna Taylor",
+      "url": "https://multimovies.city/cast/christina-ricci/",
+      "image": "https://image.tmdb.org/t/p/w92/vsG200qQDBsPo6NT4j37MUkLcPc.jpg"
+    },
+    {
+      "name": "Liam Neeson",
+      "role": "Eliot Deacon",
+      "url": "https://multimovies.city/cast/liam-neeson/",
+      "image": "https://image.tmdb.org/t/p/w92/bboldwqSC6tdw2iL6631c98l2Mn.jpg"
+    },
+    {
+      "name": "Justin Long",
+      "role": "Paul",
+      "url": "https://multimovies.city/cast/justin-long/",
+      "image": "https://image.tmdb.org/t/p/w92/7TGXeHw4o86IBm6xknQotpludXK.jpg"
+    },
+    {
+      "name": "Chandler Canterbury",
+      "role": "Jack",
+      "url": "https://multimovies.city/cast/chandler-canterbury/",
+      "image": "https://image.tmdb.org/t/p/w92/flfh9tLEiERwZFQPlcShejI1TS8.jpg"
+    },
+    {
+      "name": "Josh Charles",
+      "role": "Tom Peterson",
+      "url": "https://multimovies.city/cast/josh-charles/",
+      "image": "https://image.tmdb.org/t/p/w92/hedIAse3q3w1Pz7BhrGnzKcmYX8.jpg"
+    },
+    {
+      "name": "Celia Weston",
+      "role": "Beatrice Taylor",
+      "url": "https://multimovies.city/cast/celia-weston/",
+      "image": "https://image.tmdb.org/t/p/w92/pQYygvqfmKnK4weuUCLUX45q5AJ.jpg"
+    },
+    {
+      "name": "Shuler Hensley",
+      "role": "Vincent Miller",
+      "url": "https://multimovies.city/cast/shuler-hensley/",
+      "image": "https://image.tmdb.org/t/p/w92/qMSTFvK0GzUZrwN7UhuYYQ8evr2.jpg"
+    },
+    {
+      "name": "Anna Kuchma",
+      "role": "Restaurant Patron",
+      "url": "https://multimovies.city/cast/anna-kuchma/",
+      "image": "https://image.tmdb.org/t/p/w92/4mRioOnGTDLgRlfloaSlcpFMCco.jpg"
+    },
+    {
+      "name": "Rosemary Murphy",
+      "role": "Susan Whitehall",
+      "url": "https://multimovies.city/cast/rosemary-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/iAL8QVCqlYY3icYqmLBHcg5QJIV.jpg"
+    },
+    {
+      "name": "Laurel Bryce",
+      "role": "Young Anna Taylor",
+      "url": "https://multimovies.city/cast/laurel-bryce/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/izrShBDbHduPU5YayZBI5ZTgZUy.jpg",
+    "https://image.tmdb.org/t/p/w300/dkOvVpyKubNaR9tXOWCgiGNkwjt.jpg",
+    "https://image.tmdb.org/t/p/w300/ApiYKKcAkWFrUtKw5gCBJqYElgd.jpg",
+    "https://image.tmdb.org/t/p/w300/ufD2hBLvy32vc9K65vGmpoFrdhv.jpg",
+    "https://image.tmdb.org/t/p/w300/krSv4CDzOyPPdAZFLXxk7xHKpbN.jpg"
+  ],
+  "similar": [],
+  "views": 2428,
+  "sources": [
+    "https://www.youtube.com/embed/SGLjqTKtD34?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/hw8nyjxtklch"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 29934,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 29934,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:34:41.176201"
+}
