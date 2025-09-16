@@ -4,15 +4,128 @@
   "meta": {
     "title": "Tumko Na Bhool Paayenge",
     "poster": "https://image.tmdb.org/t/p/w500/mI4cFL7bEQcTgI6vtoPSkAWU1tJ.jpg",
-    "synopsis": "An amnesiac has no recollection of his ex-girlfriend, a policeman or an old friend."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Feb. 24, 2002",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "An amnesiac has no recollection of his ex-girlfriend, a policeman or an old friend.",
+    "infoFields": {
+      "Original title": "\u0924\u0941\u092e\u0915\u094b \u0928\u093e \u092d\u0942\u0932 \u092a\u093e\u090f\u0901\u0917\u0947",
+      "IMDb Rating": "5.7 3,303 votes",
+      "TMDb Rating": "6.3 21 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Pankaj Parashar",
+      "role": "Director",
+      "url": "https://multimovies.city/director/pankaj-parashar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Veer Singh Thakur / Ali",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/gxKwCCcs777HzsXRpdGsBV87pXn.jpg"
+    },
+    {
+      "name": "Sushmita Sen",
+      "role": "Mahek",
+      "url": "https://multimovies.city/cast/sushmita-sen/",
+      "image": "https://image.tmdb.org/t/p/w92/arteijssIoHzs8wFLjs6pvqRnlJ.jpg"
+    },
+    {
+      "name": "Dia Mirza",
+      "role": "Muskaan",
+      "url": "https://multimovies.city/cast/dia-mirza/",
+      "image": "https://image.tmdb.org/t/p/w92/oJSZlMkIGC1Yr8QxdBLliUjPRSd.jpg"
+    },
+    {
+      "name": "Sharat Saxena",
+      "role": "Kunal Singh Thakur",
+      "url": "https://multimovies.city/cast/sharat-saxena/",
+      "image": "https://image.tmdb.org/t/p/w92/ArW6nQ23bjVfbcFmNVl4W9zpd7X.jpg"
+    },
+    {
+      "name": "Inder Kumar",
+      "role": "Inder Saxena",
+      "url": "https://multimovies.city/cast/inder-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/yKgnbdKZ5KndIKsktlLLPOMy3gn.jpg"
+    },
+    {
+      "name": "Nishigandha Wad",
+      "role": "Geeta Singh Thakur",
+      "url": "https://multimovies.city/cast/nishigandha-wad/",
+      "image": "https://image.tmdb.org/t/p/w92/59TwAxt38wrM6KQTY6z2SMpGU4i.jpg"
+    },
+    {
+      "name": "Mukesh Rishi",
+      "role": "JCP Manoj Kumar Sharma",
+      "url": "https://multimovies.city/cast/mukesh-rishi/",
+      "image": "https://image.tmdb.org/t/p/w92/3MogbprwvLPXk2ZaVPz4DHnNk7J.jpg"
+    },
+    {
+      "name": "Rajpal Yadav",
+      "role": "Lallan",
+      "url": "https://multimovies.city/cast/rajpal-yadav/",
+      "image": "https://image.tmdb.org/t/p/w92/zhzfI91YuODuC3ZY2ABytw68C37.jpg"
+    },
+    {
+      "name": "Aanjjan Srivastav",
+      "role": "Chief Minister",
+      "url": "https://multimovies.city/cast/aanjjan-srivastav/",
+      "image": "https://image.tmdb.org/t/p/w92/bF5vxtg7bc57bTunHq70dWwalRy.jpg"
+    },
+    {
+      "name": "Pankaj Dheer",
+      "role": "Shivpratap Singh",
+      "url": "https://multimovies.city/cast/pankaj-dheer/",
+      "image": "https://image.tmdb.org/t/p/w92/joqHKk2C0dtI9Rf4byf1ek7InBp.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/jMMmk2ffrjLot1v7EXCpfbQd8XW.jpg",
+    "https://image.tmdb.org/t/p/w300/4lpTFYPsjoK3i41r4D9o0LwT2Dn.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 775,
+  "sources": [
+    "https://www.youtube.com/embed/4hiAuS2HYsQ?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/76kvz6ya7imd"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 35473,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 35473,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:31:25"
+  "last_update": "2025-09-16T17:34:50.871763"
 }
