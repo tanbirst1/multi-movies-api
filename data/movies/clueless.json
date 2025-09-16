@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/clueless/",
+  "meta": {
+    "title": "Clueless",
+    "poster": "https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jul. 19, 1995",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school\u2019s pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was \u2014 and falls for him.",
+    "infoFields": {
+      "Original title": "Clueless",
+      "IMDb Rating": "6.9 248,742 votes",
+      "TMDb Rating": "7.276 4,261 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Amy Heckerling",
+      "role": "Director",
+      "url": "https://multimovies.city/director/amy-heckerling/",
+      "image": "https://image.tmdb.org/t/p/w92/hIc3bQxLOPAcpGJ1CVFuzpzJRZ0.jpg"
+    },
+    {
+      "name": "Alicia Silverstone",
+      "role": "Cher",
+      "url": "https://multimovies.city/cast/alicia-silverstone/",
+      "image": "https://image.tmdb.org/t/p/w92/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+    },
+    {
+      "name": "Stacey Dash",
+      "role": "Dionne",
+      "url": "https://multimovies.city/cast/stacey-dash/",
+      "image": "https://image.tmdb.org/t/p/w92/cSzVCx2LJkXZoUGA4z4i8cm9wMD.jpg"
+    },
+    {
+      "name": "Brittany Murphy",
+      "role": "Tai",
+      "url": "https://multimovies.city/cast/brittany-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/uLOrqcSk2h5o3ekNfcuGFDzN13W.jpg"
+    },
+    {
+      "name": "Paul Rudd",
+      "role": "Josh",
+      "url": "https://multimovies.city/cast/paul-rudd/",
+      "image": "https://image.tmdb.org/t/p/w92/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "name": "Donald Faison",
+      "role": "Murray",
+      "url": "https://multimovies.city/cast/donald-faison/",
+      "image": "https://image.tmdb.org/t/p/w92/gNwWP1CHob9Y8fjY69w7EwGxMoz.jpg"
+    },
+    {
+      "name": "Elisa Donovan",
+      "role": "Amber",
+      "url": "https://multimovies.city/cast/elisa-donovan/",
+      "image": "https://image.tmdb.org/t/p/w92/vThds668uWdcsCtWO9znsgfm7Oa.jpg"
+    },
+    {
+      "name": "Breckin Meyer",
+      "role": "Travis",
+      "url": "https://multimovies.city/cast/breckin-meyer/",
+      "image": "https://image.tmdb.org/t/p/w92/oN1jpTL59wbzS1qvPhsJ3FIL2Ev.jpg"
+    },
+    {
+      "name": "Jeremy Sisto",
+      "role": "Elton",
+      "url": "https://multimovies.city/cast/jeremy-sisto/",
+      "image": "https://image.tmdb.org/t/p/w92/1XfuASLjBhGOhJ4os7juRJot2we.jpg"
+    },
+    {
+      "name": "Dan Hedaya",
+      "role": "Mel Horowitz",
+      "url": "https://multimovies.city/cast/dan-hedaya/",
+      "image": "https://image.tmdb.org/t/p/w92/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    },
+    {
+      "name": "Aida Linares",
+      "role": "Lucy",
+      "url": "https://multimovies.city/cast/aida-linares/",
+      "image": "https://image.tmdb.org/t/p/w92/1MbVyxyPvWu1hkZqXmcNillAGBt.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/65d0MccsiRSPTVicregKQL8owoo.jpg",
+    "https://image.tmdb.org/t/p/w300/2FonLz0RPxbBriOlZ9mWhYdlqCp.jpg",
+    "https://image.tmdb.org/t/p/w300/zuaupkaeWC0D3GOQy6S8hDyRuYu.jpg",
+    "https://image.tmdb.org/t/p/w300/hfcmLgCwRDmuYaAMGLTLJqXnawy.jpg",
+    "https://image.tmdb.org/t/p/w300/AqKC2XKZRzrHTw974Wg1vUjIB9r.jpg",
+    "https://image.tmdb.org/t/p/w300/hVXJX502Pa4NKShejKeX9XSXFD1.jpg",
+    "https://image.tmdb.org/t/p/w300/pmE7AXRn2X0PVVHvcZ5uvxJfN2R.jpg",
+    "https://image.tmdb.org/t/p/w300/gomAaJU56goT4kG8AHL8pBgKx1B.jpg",
+    "https://image.tmdb.org/t/p/w300/v1dzzt28mpuuCan2sxaClPCpRDg.jpg",
+    "https://image.tmdb.org/t/p/w300/lYxLj6uwaOPmJZpofDyFzd7W1zh.jpg"
+  ],
+  "similar": [],
+  "views": 1555,
+  "sources": [
+    "https://www.youtube.com/embed/KeGqX4GVBZE?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/lz9gkrdx6d3d"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 56457,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 56457,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
