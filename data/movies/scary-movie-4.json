@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/scary-movie-4/",
+  "meta": {
+    "title": "Scary Movie 4",
+    "poster": "https://image.tmdb.org/t/p/w500/4SMqo8Me8aCT4KAVLeG9pk8VYiN.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Apr. 12, 2006",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \u201cTr-iPods\u201d are invading the world and she has to uncover the secret in order to stop them.",
+    "infoFields": {
+      "Original title": "Scary Movie 4",
+      "IMDb Rating": "5.1 125,355 votes",
+      "TMDb Rating": "5.5 2,918 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Zucker",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-zucker/",
+      "image": "https://image.tmdb.org/t/p/w92/xsnUOQbDmFYmCWINHqfBnKIMRVa.jpg"
+    },
+    {
+      "name": "Anna Faris",
+      "role": "Cindy",
+      "url": "https://multimovies.city/cast/anna-faris/",
+      "image": "https://image.tmdb.org/t/p/w92/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg"
+    },
+    {
+      "name": "Regina Hall",
+      "role": "Brenda",
+      "url": "https://multimovies.city/cast/regina-hall/",
+      "image": "https://image.tmdb.org/t/p/w92/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+      "name": "Craig Bierko",
+      "role": "Tom Ryan",
+      "url": "https://multimovies.city/cast/craig-bierko/",
+      "image": "https://image.tmdb.org/t/p/w92/btsSJRxc0i7Xty1R0iCYOnbTuDE.jpg"
+    },
+    {
+      "name": "Bill Pullman",
+      "role": "Henry Hale",
+      "url": "https://multimovies.city/cast/bill-pullman/",
+      "image": "https://image.tmdb.org/t/p/w92/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+    },
+    {
+      "name": "Anthony Anderson",
+      "role": "Mahalik",
+      "url": "https://multimovies.city/cast/anthony-anderson/",
+      "image": "https://image.tmdb.org/t/p/w92/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+    },
+    {
+      "name": "Leslie Nielsen",
+      "role": "President Baxter Harris",
+      "url": "https://multimovies.city/cast/leslie-nielsen/",
+      "image": "https://image.tmdb.org/t/p/w92/u5vWl5dw69Nf89f905Qb5JqEVL3.jpg"
+    },
+    {
+      "name": "Molly Shannon",
+      "role": "Marilyn",
+      "url": "https://multimovies.city/cast/molly-shannon/",
+      "image": "https://image.tmdb.org/t/p/w92/3VYb92My1NtGuKCnOHS4rsmlO0K.jpg"
+    },
+    {
+      "name": "Michael Madsen",
+      "role": "Oliver",
+      "url": "https://multimovies.city/cast/michael-madsen/",
+      "image": "https://image.tmdb.org/t/p/w92/AnQm8pXVbMicr4U0IRsOascthVI.jpg"
+    },
+    {
+      "name": "Chris Elliott",
+      "role": "Ezekiel",
+      "url": "https://multimovies.city/cast/chris-elliott/",
+      "image": "https://image.tmdb.org/t/p/w92/t8sdwz8iV7dQWQlYb2rPMKepT8h.jpg"
+    },
+    {
+      "name": "Carmen Electra",
+      "role": "Holly",
+      "url": "https://multimovies.city/cast/carmen-electra/",
+      "image": "https://image.tmdb.org/t/p/w92/oiNGbPpboR7uq9K7L2g63UZwyMq.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6hStN2cnRgGM11IYKp6cRTFE78c.jpg",
+    "https://image.tmdb.org/t/p/w300/uFcFomOJbRHGsPId6U4Xcdacvt1.jpg",
+    "https://image.tmdb.org/t/p/w300/7mMxu1P6D4awAYLEDdmA0gPDlKK.jpg",
+    "https://image.tmdb.org/t/p/w300/b9FbgM4JrpI9OP5JkW91dd3RwMQ.jpg",
+    "https://image.tmdb.org/t/p/w300/tUXYmCZW4wz6KATInPHPcIPo4U5.jpg",
+    "https://image.tmdb.org/t/p/w300/1SopjJJUzzhtSDsYdjiaGCrkeJC.jpg",
+    "https://image.tmdb.org/t/p/w300/fPNiKKKYWHqN4tI3fzoxz3HW42G.jpg",
+    "https://image.tmdb.org/t/p/w300/laneHPOwT5UhnaIK4guEZxtWcvn.jpg",
+    "https://image.tmdb.org/t/p/w300/fYhN3hZrWSfyfvty4DV75zY6Czb.jpg",
+    "https://image.tmdb.org/t/p/w300/oGcSvxyE4vOiM1nMQGbUuaE6aHT.jpg"
+  ],
+  "similar": [],
+  "views": 6333,
+  "sources": [
+    "https://www.youtube.com/embed/h0zAlXr1UOs?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/mgrvqlp"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 22986,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 22986,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:01:11.866781"
+}
