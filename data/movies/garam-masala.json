@@ -1,0 +1,114 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/garam-masala/",
+  "meta": {
+    "title": "Garam Masala",
+    "poster": "https://image.tmdb.org/t/p/w500/puk8ca4bL9HG1R8BwORif8bHGqY.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      }
+    ],
+    "firstAirDate": "Nov. 03, 2005",
+    "ratingValue": "5.5",
+    "ratingCount": "2",
+    "synopsis": "What happens when a good for nothing handsome hunk like Mac finds himself in possession of an empty flat and access to three gorgeous air hostesses, Priti, Sweety and Puja? Garam Masala! What happens when Mac, who is already engaged to Anjali, convinces each of the three girls that she is the one and only one for him? Garam Masala! What happens when Sam, once Mac\u2019s best friend and now his sworn enemy, threatens to reveal Mac\u2019s harem to Anjali? Garam Masala! What happens when all the girls land in the flat at the same time? Garam Masala!",
+    "infoFields": {
+      "Original title": "\u0917\u0930\u092e \u092e\u0938\u093e\u0932\u093e",
+      "IMDb Rating": "6.7 16,884 votes",
+      "TMDb Rating": "5.783 76 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Priyadarshan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/priyadarshan/",
+      "image": "https://image.tmdb.org/t/p/w92/gBaSTf0XL0mKj0iYZcYix4OTMyG.jpg"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Mac",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/gaINfJtR19rNTIsI2cF3KFjyAB7.jpg"
+    },
+    {
+      "name": "John Abraham",
+      "role": "Sam",
+      "url": "https://multimovies.city/cast/john-abraham/",
+      "image": "https://image.tmdb.org/t/p/w92/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg"
+    },
+    {
+      "name": "Paresh Rawal",
+      "role": "Mambo",
+      "url": "https://multimovies.city/cast/paresh-rawal/",
+      "image": "https://image.tmdb.org/t/p/w92/vqqA4DVnqIfvmGtwdwHtHEzMvst.jpg"
+    },
+    {
+      "name": "Rimi Sen",
+      "role": "Anjali",
+      "url": "https://multimovies.city/cast/rimi-sen/",
+      "image": "https://image.tmdb.org/t/p/w92/zSVUxO2B75HgKnhOE5CsZ7ktABd.jpg"
+    },
+    {
+      "name": "Rajpal Naurang Yadav",
+      "role": "Babban",
+      "url": "https://multimovies.city/cast/rajpal-naurang-yadav/",
+      "image": "https://image.tmdb.org/t/p/w92/zhzfI91YuODuC3ZY2ABytw68C37.jpg"
+    },
+    {
+      "name": "Daisy Bopanna",
+      "role": "Deepti",
+      "url": "https://multimovies.city/cast/daisy-bopanna/",
+      "image": "https://image.tmdb.org/t/p/w92/w63NACTCPJWKnrsKxozvZ1Ygc32.jpg"
+    },
+    {
+      "name": "Nargis Bagheri",
+      "role": "Puja",
+      "url": "https://multimovies.city/cast/nargis-bagheri/",
+      "image": "https://image.tmdb.org/t/p/w92/A1QSZ7RIZdA8Fno6zbt4vFgaiEJ.jpg"
+    },
+    {
+      "name": "Neetu Chandra",
+      "role": "Sweety",
+      "url": "https://multimovies.city/cast/neetu-chandra/",
+      "image": "https://image.tmdb.org/t/p/w92/8gVCfDlE2sf1Pxpx9qg0OTlCL4k.jpg"
+    },
+    {
+      "name": "Neha Dhupia",
+      "role": "Maggie",
+      "url": "https://multimovies.city/cast/neha-dhupia/",
+      "image": "https://image.tmdb.org/t/p/w92/tZh9EOs1pEiu9iqRl4gwTubIfAh.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 2283,
+  "sources": [
+    "https://www.youtube.com/embed/qc5yaw9zcS8?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/huy4ltcyay9g"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 39928,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 39928,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:58:22.155824"
+}
