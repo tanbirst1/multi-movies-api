@@ -1,0 +1,141 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/ultimate-avengers-2/",
+  "meta": {
+    "title": "Ultimate Avengers 2",
+    "poster": "https://image.tmdb.org/t/p/w500/2bfVNvLKWaxFh1LiOKlvxgiHOXn.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Disney XD",
+        "url": "https://multimovies.city/genre/disney-xd/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Aug. 08, 2006",
+    "ratingValue": "1",
+    "ratingCount": "1",
+    "synopsis": "Mysterious Wakanda lies in the darkest heart of Africa, unknown to most of the world. An isolated land hidden behind closed borders, fiercely protected by its young king: Black Panther. But when brutal alien invaders attack, the threat leaves Black Panther with no option but to go against the sacred decrees of his people and ask for help from outsiders.",
+    "infoFields": {
+      "Original title": "Ultimate Avengers 2",
+      "IMDb Rating": "6.5 9,668 votes",
+      "TMDb Rating": "6.764 288 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Will Meugniot",
+      "role": "Director",
+      "url": "https://multimovies.city/director/will-meugniot/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Justin Gross",
+      "role": "Steve Rogers / Captain America (voice)",
+      "url": "https://multimovies.city/cast/justin-gross/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Grey DeLisle",
+      "role": "Janet Pym / Wasp (voice)",
+      "url": "https://multimovies.city/cast/grey-delisle/",
+      "image": "https://image.tmdb.org/t/p/w92/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "name": "Michael Massee",
+      "role": "Doctor Bruce Banner (voice)",
+      "url": "https://multimovies.city/cast/michael-massee/",
+      "image": "https://image.tmdb.org/t/p/w92/swlvVVcDhaJztxr3fgB04YGoX6I.jpg"
+    },
+    {
+      "name": "Marc Worden",
+      "role": "Tony Stark / Iron Man(voice)",
+      "url": "https://multimovies.city/cast/marc-worden/",
+      "image": "https://image.tmdb.org/t/p/w92/d91IoBbnS5HX2I8lzGosvc39PgS.jpg"
+    },
+    {
+      "name": "Olivia d'Abo",
+      "role": "Natalia Romanoff / Black Widow (voice)",
+      "url": "https://multimovies.city/cast/olivia-dabo/",
+      "image": "https://image.tmdb.org/t/p/w92/sQTqkjNyUSl25cIDr8xhjmO4DhA.jpg"
+    },
+    {
+      "name": "Nan McNamara",
+      "role": "Betty Ross (voice)",
+      "url": "https://multimovies.city/cast/nan-mcnamara/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Nolan North",
+      "role": "Hank Pym / Giant Man (voice)",
+      "url": "https://multimovies.city/cast/nolan-north/",
+      "image": "https://image.tmdb.org/t/p/w92/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg"
+    },
+    {
+      "name": "Andre Ware",
+      "role": "Nick Fury (voice)",
+      "url": "https://multimovies.city/cast/andre-ware/",
+      "image": "https://image.tmdb.org/t/p/w92/ukimnb2sfaZFSax8XqskWyLgoCc.jpg"
+    },
+    {
+      "name": "David Boat",
+      "role": "Thor (voice)",
+      "url": "https://multimovies.city/cast/david-boat/",
+      "image": "https://image.tmdb.org/t/p/w92/rzYRbsoWnbFySnW3nSi8S3kZ6tt.jpg"
+    },
+    {
+      "name": "Fred Tatasciore",
+      "role": "Hulk / Edwin Jarvis / Additional Voices (voice)",
+      "url": "https://multimovies.city/cast/fred-tatasciore/",
+      "image": "https://image.tmdb.org/t/p/w92/cKMuclPblMvQ4JQMN0nYKvb5ylu.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/xv77AFzMUiTuUsC5qn31jBB21An.jpg",
+    "https://image.tmdb.org/t/p/w300/hoJpIYgFPc75NhaSWPNUeMFPMy1.jpg",
+    "https://image.tmdb.org/t/p/w300/wgxCijya96vodJLA6QHrIqYmgTi.jpg",
+    "https://image.tmdb.org/t/p/w300/ldxi7dKtud2KrStUr8V9P65ixNr.jpg"
+  ],
+  "similar": [],
+  "views": 1216,
+  "sources": [
+    "https://www.youtube.com/embed/gl4jsZcYt9k?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/tbt15nv"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 69860,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 69860,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:04:26.610558"
+}
