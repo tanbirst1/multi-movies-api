@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/wanted/",
+  "meta": {
+    "title": "Wanted",
+    "poster": "https://image.tmdb.org/t/p/w500/nymzAr2uEWxnDTfoIjUbh7a1UuB.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 18, 2009",
+    "ratingValue": "9.4",
+    "ratingCount": "5",
+    "synopsis": "Radhe is a hardcore gangster. A sharpshooter with a sharp brain, he works for Gani Bhai, the dreaded Mafioso, but on his own terms. Totally fearless, Radhe single handedly eliminates Gani Bhai\u2019s enemies one by one; making more enemies than he bargained for.",
+    "infoFields": {
+      "Original title": "\u0935\u093e\u0902\u091f\u0947\u0921",
+      "IMDb Rating": "6.6 25,048 votes",
+      "TMDb Rating": "5.883 90 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Prabhu Deva",
+      "role": "Director",
+      "url": "https://multimovies.city/director/prabhu-deva/",
+      "image": "https://image.tmdb.org/t/p/w92/d6swsmuzdeWiwOHMQJjCudiuL0e.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Radhe",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/gxKwCCcs777HzsXRpdGsBV87pXn.jpg"
+    },
+    {
+      "name": "Vinod Khanna",
+      "role": "Shrikant Shekhawat",
+      "url": "https://multimovies.city/cast/vinod-khanna/",
+      "image": "https://image.tmdb.org/t/p/w92/pwrChfSmvPX4HndI7j3fnAzPvaw.jpg"
+    },
+    {
+      "name": "Inder Kumar",
+      "role": "Ajay Shekhawat",
+      "url": "https://multimovies.city/cast/inder-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/yKgnbdKZ5KndIKsktlLLPOMy3gn.jpg"
+    },
+    {
+      "name": "Ayesha Takia",
+      "role": "Jhanvi",
+      "url": "https://multimovies.city/cast/ayesha-takia/",
+      "image": "https://image.tmdb.org/t/p/w92/nMwZp4tfg6W4BkkWpaXesUMUAxR.jpg"
+    },
+    {
+      "name": "Prakash Raj",
+      "role": "Shamshuddin Asgar Gani / Gani Bhai",
+      "url": "https://multimovies.city/cast/prakash-raj/",
+      "image": "https://image.tmdb.org/t/p/w92/QbWfctGpZFmnZySUGYIq2sq5sj.jpg"
+    },
+    {
+      "name": "Mahesh Manjrekar",
+      "role": "Inspector Talpade",
+      "url": "https://multimovies.city/cast/mahesh-manjrekar/",
+      "image": "https://image.tmdb.org/t/p/w92/rAAlncxpCKpXjUHsd6pfaSaTl96.jpg"
+    },
+    {
+      "name": "Manoj Pahwa",
+      "role": "Sonu Gates",
+      "url": "https://multimovies.city/cast/manoj-pahwa/",
+      "image": "https://image.tmdb.org/t/p/w92/p7sufhnro3CM04au3L4KubTx43B.jpg"
+    },
+    {
+      "name": "Govind Namdev",
+      "role": "Police Commissioner Ashraf Khan",
+      "url": "https://multimovies.city/cast/govind-namdev/",
+      "image": "https://image.tmdb.org/t/p/w92/4PYvzEHjEXScVjYuiQxVpNpvQ18.jpg"
+    },
+    {
+      "name": "Maheck Chahal",
+      "role": "Shaina",
+      "url": "https://multimovies.city/cast/maheck-chahal/",
+      "image": "https://image.tmdb.org/t/p/w92/pADGYbYGAcr1O87tudJJzYDjJLm.jpg"
+    },
+    {
+      "name": "Aseem Merchant",
+      "role": "Golden Bhai",
+      "url": "https://multimovies.city/cast/aseem-merchant/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hq20k3JFDJAdXpk80Tj563DyPwv.jpg",
+    "https://image.tmdb.org/t/p/w300/8JwuNABC8w5O1TN4edO63GeFJip.jpg",
+    "https://image.tmdb.org/t/p/w300/q9fdcgGyloj5GjH8kSs4jG6RfdH.jpg",
+    "https://image.tmdb.org/t/p/w300/7zcdYuhR7xy3mbYqnPRKvq0RL2B.jpg",
+    "https://image.tmdb.org/t/p/w300/pPvXyMjF7x5EMtxkURdbhpU4jGO.jpg",
+    "https://image.tmdb.org/t/p/w300/7KKXmqA5aOLzams43zKB8nJ06l3.jpg",
+    "https://image.tmdb.org/t/p/w300/jg9JO9UIwfydrDAwgGHDRF9QtcQ.jpg",
+    "https://image.tmdb.org/t/p/w300/lvCHkPKP9ZqVRnav7xPdkdXsRZp.jpg",
+    "https://image.tmdb.org/t/p/w300/z87OCLB1JC3bO6AyGlMw2gAhqDM.jpg",
+    "https://image.tmdb.org/t/p/w300/tuFhAQoOdnJSk5n7oYDn2KbgtU4.jpg"
+  ],
+  "similar": [],
+  "views": 5664,
+  "sources": [
+    "https://www.youtube.com/embed/fxm4KcKDQl0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/v6n400hyt0yo"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 21806,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 21806,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:31:37.980896"
+}
