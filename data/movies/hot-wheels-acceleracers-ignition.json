@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hot-wheels-acceleracers-ignition/",
+  "meta": {
+    "title": "Hot Wheels AcceleRacers Part 1 \u2013 Ignition",
+    "poster": "https://image.tmdb.org/t/p/w500/lOsHnflo4Gikmk14vXX9w7s2mwi.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Cartoon Network",
+        "url": "https://multimovies.city/genre/cartoon-network/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jan. 08, 2005",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Two rival race teams, the Teku and the Metal Maniacs, are recruited by Dr. Peter Tezla to race in the fantastic Racing Realms and retrieve the all-powerful AcceleChargers before they fall into the hands of the deadly Racing Drones. Our drivers race through the Storm and Swamp Realms.",
+    "infoFields": {
+      "Original title": "Hot Wheels AcceleRacers: Ignition",
+      "IMDb Rating": "7.8 657 votes",
+      "TMDb Rating": "8.236 104 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Gino Nichele",
+      "role": "Director",
+      "url": "https://multimovies.city/director/gino-nichele/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Adrian Holmes",
+      "role": "Tork Maddox (voice)",
+      "url": "https://multimovies.city/cast/adrian-holmes/",
+      "image": "https://image.tmdb.org/t/p/w92/aKtB0wGk4PTzNTZ4HKagUfDwcWr.jpg"
+    },
+    {
+      "name": "Kevan Ohtsji",
+      "role": "Taro Kitano (voice)",
+      "url": "https://multimovies.city/cast/kevan-ohtsji/",
+      "image": "https://image.tmdb.org/t/p/w92/wif0qBL0gbAvTOz181vmjNsTaWR.jpg"
+    },
+    {
+      "name": "David Kaye",
+      "role": "Deezel \"Porkchop\" Rigg (voice)",
+      "url": "https://multimovies.city/cast/david-kaye/",
+      "image": "https://image.tmdb.org/t/p/w92/izxtFSio5twcVA1oJWPvobxpcZj.jpg"
+    },
+    {
+      "name": "Will Sanderson",
+      "role": "Mark \"Markie\" Wylde (voice)",
+      "url": "https://multimovies.city/cast/will-sanderson/",
+      "image": "https://image.tmdb.org/t/p/w92/83BaK4g9sAkXzB3CI9pfLu9llLd.jpg"
+    },
+    {
+      "name": "Dexter Bell",
+      "role": "Nolo Pasaro (voice)",
+      "url": "https://multimovies.city/cast/dexter-bell/",
+      "image": "https://image.tmdb.org/t/p/w92/kAwa1CrvqdfN6Wz0DAexcpxgm9h.jpg"
+    },
+    {
+      "name": "Andrew Francis",
+      "role": "Vert Wheeler (voice)",
+      "url": "https://multimovies.city/cast/andrew-francis/",
+      "image": "https://image.tmdb.org/t/p/w92/lvmgsIzCobciX8vDAX8wyBVDryq.jpg"
+    },
+    {
+      "name": "Brian Drummond",
+      "role": "Kurt Wylde (voice)",
+      "url": "https://multimovies.city/cast/brian-drummond/",
+      "image": "https://image.tmdb.org/t/p/w92/oNKCHFuMZTASvyayEj3cRXLEjJL.jpg"
+    },
+    {
+      "name": "Kirby Morrow",
+      "role": "Shirako Takamoto",
+      "url": "https://multimovies.city/cast/kirby-morrow/",
+      "image": "https://image.tmdb.org/t/p/w92/nnxjEsC4LxwIfMZ3EXGgpcDfI8v.jpg"
+    },
+    {
+      "name": "Lisa Ann Beley",
+      "role": "Karma Eiss (voice)",
+      "url": "https://multimovies.city/cast/lisa-ann-beley/",
+      "image": "https://image.tmdb.org/t/p/w92/5Lz5k8JKoCE4NFK82gMOlMx6cK2.jpg"
+    },
+    {
+      "name": "Craig Veroni",
+      "role": "Tone Pasaro (voice)",
+      "url": "https://multimovies.city/cast/craig-veroni/",
+      "image": "https://image.tmdb.org/t/p/w92/w4uIVcxvXUQRwAmSHfVq5ycliOY.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hUvyLAk7IVqrbXxgxYcqvsrRjso.jpg",
+    "https://image.tmdb.org/t/p/w300/rL0pRsZsEtEZxvVYNDbh9KlLBMi.jpg"
+  ],
+  "similar": [],
+  "views": 137,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/e1awx9n"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 81677,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:53:16.908320"
+}
