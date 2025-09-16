@@ -1,0 +1,156 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/mr-beans-holiday/",
+  "meta": {
+    "title": "Mr. Bean\u2019s Holiday",
+    "poster": "https://image.tmdb.org/t/p/w500/zbAlwsJNxfo4VfTy9peDo7itJ0I.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Mar. 22, 2007",
+    "ratingValue": "10",
+    "ratingCount": "3",
+    "synopsis": "Mr. Bean wins a trip to Cannes where he unwittingly separates a young boy from his father and must help the two reunite. On the way he discovers France, bicycling and true love, among other things.",
+    "infoFields": {
+      "Original title": "Mr. Bean's Holiday",
+      "IMDb Rating": "6.4 129,164 votes",
+      "TMDb Rating": "6.343 2,526 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Steve Bendelack",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steve-bendelack/",
+      "image": "https://image.tmdb.org/t/p/w92/rmNl92VXrO2yqoeqW2vX5rqmdKo.jpg"
+    },
+    {
+      "name": "Rowan Atkinson",
+      "role": "Mr. Bean",
+      "url": "https://multimovies.city/cast/rowan-atkinson/",
+      "image": "https://image.tmdb.org/t/p/w92/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+    },
+    {
+      "name": "Steve Pemberton",
+      "role": "Vicar",
+      "url": "https://multimovies.city/cast/steve-pemberton/",
+      "image": "https://image.tmdb.org/t/p/w92/j4AFPsF6DM9nfccol3VFQgPJ6Ia.jpg"
+    },
+    {
+      "name": "Maxim Baldry",
+      "role": "Stepan",
+      "url": "https://multimovies.city/cast/maxim-baldry/",
+      "image": "https://image.tmdb.org/t/p/w92/xjk6RuJrjpP5nIrfwh7QeRbTzdC.jpg"
+    },
+    {
+      "name": "Emma de Caunes",
+      "role": "Sabine",
+      "url": "https://multimovies.city/cast/emma-de-caunes/",
+      "image": "https://image.tmdb.org/t/p/w92/4SGij5jBQNznmVxBHDBtc8gUD2v.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+      "role": "Carson Clay",
+      "url": "https://multimovies.city/cast/willem-dafoe/",
+      "image": "https://image.tmdb.org/t/p/w92/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "name": "Karel Roden",
+      "role": "Emil",
+      "url": "https://multimovies.city/cast/karel-roden/",
+      "image": "https://image.tmdb.org/t/p/w92/nfWr97pRhfEx1RvtnOsvubgCSX4.jpg"
+    },
+    {
+      "name": "Jean Rochefort",
+      "role": "Ma\u00eetre d'h\u00f4tel",
+      "url": "https://multimovies.city/cast/jean-rochefort/",
+      "image": "https://image.tmdb.org/t/p/w92/wyvdO0ih9mwLE3UHCy8GudqnKTK.jpg"
+    },
+    {
+      "name": "Michel Winogradoff",
+      "role": "Pyrotechnician",
+      "url": "https://multimovies.city/cast/michel-winogradoff/",
+      "image": "https://image.tmdb.org/t/p/w92/8x0FoQ0hFcHvinzCNippBjQ1Y4F.jpg"
+    },
+    {
+      "name": "Adrien Rodrigue",
+      "role": "Busker Violin",
+      "url": "https://multimovies.city/cast/adrien-rodrigue/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Bams Betga-Tchouni",
+      "role": "Busker Singer",
+      "url": "https://multimovies.city/cast/bams-betga-tchouni/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6bsZQV3CBFs7JQySYVX5npZWkh0.jpg",
+    "https://image.tmdb.org/t/p/w300/ug3B0bf68VjUG9CxcMa6ZNyZwvV.jpg",
+    "https://image.tmdb.org/t/p/w300/pJ1jm5sJbcQC731JYF06rDAkZEZ.jpg"
+  ],
+  "similar": [],
+  "views": 2875,
+  "sources": [
+    "https://www.youtube.com/embed/ZV_HYwmEi_k?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/khyqkl8i7igp",
+    "https://sbplay.org/embed-mympjz8cvbnt.html",
+    "https://dood.la/e/agspxt5izlyq",
+    "https://mixdrop.co/e/vnev1lvzc3xejq",
+    "https://fcdn.stream/v/z7mj0fjk3e6z2nq?sub_en=https://sub.movstream.net/sub/mr-beans-holiday-ddm/mr-beans-holiday-ddm.vtt&default=sub_en#caption=https://sub.movstream.net/sub/mr-beans-holiday-ddm/mr-beans-holiday-ddm.vtt"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 13766,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 13766,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 13766,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 13766,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 13766,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 13766,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:09:32.398521"
+}
