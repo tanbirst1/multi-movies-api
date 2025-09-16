@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/incendies/",
+  "meta": {
+    "title": "Incendies",
+    "poster": "https://image.tmdb.org/t/p/w500/i5GsLIII66LubmOai65cWiB4kZq.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "War",
+        "url": "https://multimovies.city/genre/war/"
+      }
+    ],
+    "firstAirDate": "Sep. 17, 2010",
+    "ratingValue": "9.6",
+    "ratingCount": "7",
+    "synopsis": "A mother\u2019s last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad\u2019s acclaimed play, Incendies tells the powerful and moving tale of two young adults\u2019 voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
+    "infoFields": {
+      "Original title": "Incendies",
+      "IMDb Rating": "8.3 206,010 votes",
+      "TMDb Rating": "8.105 2,595 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Denis Villeneuve",
+      "role": "Director",
+      "url": "https://multimovies.city/director/denis-villeneuve/",
+      "image": "https://image.tmdb.org/t/p/w92/zdDx9Xs93UIrJFWYApYR28J8M6b.jpg"
+    },
+    {
+      "name": "Lubna Azabal",
+      "role": "Nawal",
+      "url": "https://multimovies.city/cast/lubna-azabal/",
+      "image": "https://image.tmdb.org/t/p/w92/qjsoXqKJPnmoMs1eyeTLBKKShYQ.jpg"
+    },
+    {
+      "name": "M\u00e9lissa D\u00e9sormeaux-Poulin",
+      "role": "Jeanne Marwan",
+      "url": "https://multimovies.city/cast/melissa-desormeaux-poulin/",
+      "image": "https://image.tmdb.org/t/p/w92/7x7zC75SRwSlEGPfYpwexB76ODE.jpg"
+    },
+    {
+      "name": "Maxim Gaudette",
+      "role": "Simon Marwan",
+      "url": "https://multimovies.city/cast/maxim-gaudette/",
+      "image": "https://image.tmdb.org/t/p/w92/iGFDGJmGUxLOSIamTENFDecJdkA.jpg"
+    },
+    {
+      "name": "R\u00e9my Girard",
+      "role": "Notary Lebel",
+      "url": "https://multimovies.city/cast/remy-girard/",
+      "image": "https://image.tmdb.org/t/p/w92/enULDDsKvyNoUCZoFg10Mtq1MFk.jpg"
+    },
+    {
+      "name": "Allen Altman",
+      "role": "Notaire Maddad",
+      "url": "https://multimovies.city/cast/allen-altman/",
+      "image": "https://image.tmdb.org/t/p/w92/5oWrQwH4Xx243Nk3XdNnKiekEw4.jpg"
+    },
+    {
+      "name": "Abdelghafour Elaaziz",
+      "role": "Abou Tarek",
+      "url": "https://multimovies.city/cast/abdelghafour-elaaziz/",
+      "image": "https://image.tmdb.org/t/p/w92/o1dFWUcAuEuuf2lTEeQtxn8vkrB.jpg"
+    },
+    {
+      "name": "Dominique Briand",
+      "role": "Professor Niv Cohen",
+      "url": "https://multimovies.city/cast/dominique-briand/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Fr\u00e9d\u00e9ric Paquet",
+      "role": "Doctor in the Emergency Room",
+      "url": "https://multimovies.city/cast/frederic-paquet/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ahmad Massad",
+      "role": "Bassem Marwan",
+      "url": "https://multimovies.city/cast/ahmad-massad/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "John Dunn-Hill",
+      "role": "Professor Said Haidar",
+      "url": "https://multimovies.city/cast/john-dunn-hill/",
+      "image": "https://image.tmdb.org/t/p/w92/gyTy14cdl7XIDLA6rpRtnOO5GA.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/aFmoJntgDPR0Jd8XD1ZfFSmcqMg.jpg",
+    "https://image.tmdb.org/t/p/w300/lB2C8cSwVsKygJ18qinMPiOXNWK.jpg",
+    "https://image.tmdb.org/t/p/w300/qlvays4ipVuoisI6s52M6rAXqEd.jpg",
+    "https://image.tmdb.org/t/p/w300/gmKiTVMhpULDZgnc9DB3nhk6Wc.jpg",
+    "https://image.tmdb.org/t/p/w300/f3ATwil5vmUeTsogBaMEKbBYBth.jpg",
+    "https://image.tmdb.org/t/p/w300/jNICaPciTja37SkbSZh4XCsA0Q6.jpg",
+    "https://image.tmdb.org/t/p/w300/iRAjjsrm2yQgExZI4cRMwgYUtHr.jpg",
+    "https://image.tmdb.org/t/p/w300/j8OJJUvAYxV0UMhIWEIejhNEtIg.jpg",
+    "https://image.tmdb.org/t/p/w300/2H0jhu4RyUPHHeXCLehE3DByReO.jpg",
+    "https://image.tmdb.org/t/p/w300/sQXKi6zmkSpmD0HqjBNcGV9N1R7.jpg"
+  ],
+  "similar": [],
+  "views": 7373,
+  "sources": [
+    "https://www.youtube.com/embed/XJ69WnwvZhE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/bpyt9nq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58538,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58538,
+      "nume": 1,
+      "title": "gdmirror"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:42:59.052722"
+}
