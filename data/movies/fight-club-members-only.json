@@ -1,0 +1,113 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/fight-club-members-only/",
+  "meta": {
+    "title": "Fight Club: Members Only",
+    "poster": "https://image.tmdb.org/t/p/w500/aXFmWfWYCCxQTkCn7K86RvDiMHZ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Feb. 17, 2006",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Four friends head off to Bombay and get involved in the mother and father of all gang wars.",
+    "infoFields": {
+      "Original title": "Fight Club: Members Only",
+      "IMDb Rating": "3.5 1,543 votes",
+      "TMDb Rating": "4.5 12 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Vikram Chopra",
+      "role": "Director",
+      "url": "https://multimovies.city/director/vikram-chopra/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Suniel Shetty",
+      "role": "Anna Shetty",
+      "url": "https://multimovies.city/cast/suniel-shetty/",
+      "image": "https://image.tmdb.org/t/p/w92/8zdduuPcsoUtBbCA8rl17X44jwe.jpg"
+    },
+    {
+      "name": "Sohail Khan",
+      "role": "Sameer Kapoor",
+      "url": "https://multimovies.city/cast/sohail-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/jn5iY5O6qWy0j7eDqGpvPfS9sXy.jpg"
+    },
+    {
+      "name": "Zayed Khan",
+      "role": "Vicky Khanna",
+      "url": "https://multimovies.city/cast/zayed-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/lL1u1ZgcFNnpFNWStCUOugDLYrC.jpg"
+    },
+    {
+      "name": "Ritesh Deshmukh",
+      "role": "Somil Sharma",
+      "url": "https://multimovies.city/cast/ritesh-deshmukh/",
+      "image": "https://image.tmdb.org/t/p/w92/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg"
+    },
+    {
+      "name": "Dino Morea",
+      "role": "Karan Chopra",
+      "url": "https://multimovies.city/cast/dino-morea/",
+      "image": "https://image.tmdb.org/t/p/w92/76sUAgf1NYDEPNqED647RgkcsQX.jpg"
+    },
+    {
+      "name": "Ashmit Patel",
+      "role": "Dinesh",
+      "url": "https://multimovies.city/cast/ashmit-patel/",
+      "image": "https://image.tmdb.org/t/p/w92/dAY58fZjzZlLH4KmIgSRzLw6uqR.jpg"
+    },
+    {
+      "name": "Aashish Chaudhary",
+      "role": "Dikku",
+      "url": "https://multimovies.city/cast/aashish-chaudhary/",
+      "image": "https://image.tmdb.org/t/p/w92/qnKKDaOVOocCDbYGsIdF9z1HLwu.jpg"
+    },
+    {
+      "name": "Dia Mirza",
+      "role": "Anu Chopra",
+      "url": "https://multimovies.city/cast/dia-mirza/",
+      "image": "https://image.tmdb.org/t/p/w92/oJSZlMkIGC1Yr8QxdBLliUjPRSd.jpg"
+    },
+    {
+      "name": "Neha Dhupia",
+      "role": "Dr. Komal",
+      "url": "https://multimovies.city/cast/neha-dhupia/",
+      "image": "https://image.tmdb.org/t/p/w92/tZh9EOs1pEiu9iqRl4gwTubIfAh.jpg"
+    },
+    {
+      "name": "Amrita Arora",
+      "role": "Sonali Malhotra",
+      "url": "https://multimovies.city/cast/amrita-arora/",
+      "image": "https://image.tmdb.org/t/p/w92/3Fwd8IVlFLmnTUNelos8VG7ffCO.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 1272,
+  "sources": [
+    "https://multimoviesshg.com/e/shoectsaabjn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 2363,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:02:26.333733"
+}
