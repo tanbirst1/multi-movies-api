@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/casino-royale/",
+  "meta": {
+    "title": "Casino Royale",
+    "poster": "https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "James Bond",
+        "url": "https://multimovies.city/genre/james-bond/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Nov. 14, 2006",
+    "ratingValue": "9.7",
+    "ratingCount": "6",
+    "synopsis": "Le Chiffre, a banker to the world\u2019s terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond\u2014on his maiden mission as a 00 Agent\u2014to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+    "infoFields": {
+      "Original title": "Casino Royale",
+      "IMDb Rating": "8 691,553 votes",
+      "TMDb Rating": "7.551 10,260 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Martin Campbell",
+      "role": "Director",
+      "url": "https://multimovies.city/director/martin-campbell/",
+      "image": "https://image.tmdb.org/t/p/w92/4AiUb5lciEXdgOXFWAdebQUhEb9.jpg"
+    },
+    {
+      "name": "Daniel Craig",
+      "role": "James Bond",
+      "url": "https://multimovies.city/cast/daniel-craig/",
+      "image": "https://image.tmdb.org/t/p/w92/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+    },
+    {
+      "name": "Eva Green",
+      "role": "Vesper Lynd",
+      "url": "https://multimovies.city/cast/eva-green/",
+      "image": "https://image.tmdb.org/t/p/w92/vwjOWfUeDk5fQr8jraKlR1Yfxxq.jpg"
+    },
+    {
+      "name": "Mads Mikkelsen",
+      "role": "Le Chiffre",
+      "url": "https://multimovies.city/cast/mads-mikkelsen/",
+      "image": "https://image.tmdb.org/t/p/w92/ntwPvV4GKGGHO3I7LcHMwhXfsw9.jpg"
+    },
+    {
+      "name": "Judi Dench",
+      "role": "M",
+      "url": "https://multimovies.city/cast/judi-dench/",
+      "image": "https://image.tmdb.org/t/p/w92/scnG4M2r6ZxtYyyihlsbGKhgezG.jpg"
+    },
+    {
+      "name": "Jeffrey Wright",
+      "role": "Felix Leiter",
+      "url": "https://multimovies.city/cast/jeffrey-wright/",
+      "image": "https://image.tmdb.org/t/p/w92/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+    },
+    {
+      "name": "Giancarlo Giannini",
+      "role": "Ren\u00e9 Mathis",
+      "url": "https://multimovies.city/cast/giancarlo-giannini/",
+      "image": "https://image.tmdb.org/t/p/w92/q9PIpqQYAXvwqyTO14GzbjOq5w9.jpg"
+    },
+    {
+      "name": "Caterina Murino",
+      "role": "Solange Dimitrios",
+      "url": "https://multimovies.city/cast/caterina-murino/",
+      "image": "https://image.tmdb.org/t/p/w92/2B4D38LJ3noNbwcukETrQ1DUiQt.jpg"
+    },
+    {
+      "name": "Simon Abkarian",
+      "role": "Alex Dimitrios",
+      "url": "https://multimovies.city/cast/simon-abkarian/",
+      "image": "https://image.tmdb.org/t/p/w92/rpw1AujIl0vJD6cyMDo2ykJ8rZA.jpg"
+    },
+    {
+      "name": "Isaach De Bankol\u00e9",
+      "role": "Steven Obanno",
+      "url": "https://multimovies.city/cast/isaach-de-bankole/",
+      "image": "https://image.tmdb.org/t/p/w92/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
+    },
+    {
+      "name": "Jesper Christensen",
+      "role": "Mr. White",
+      "url": "https://multimovies.city/cast/jesper-christensen/",
+      "image": "https://image.tmdb.org/t/p/w92/csqMSnlgk4NP5SaRrc8mNKSIpD5.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
+    "https://image.tmdb.org/t/p/w300/klJMCIblHLFwCuGjKz7tyOpekIC.jpg",
+    "https://image.tmdb.org/t/p/w300/125H5AszmtAt0mYl2vpfChMFofv.jpg",
+    "https://image.tmdb.org/t/p/w300/6vt7uXxyhMp1sk56UX7eaH1w8g2.jpg",
+    "https://image.tmdb.org/t/p/w300/mp9iCbMMFxkVyXRyBTJSik6PcgO.jpg",
+    "https://image.tmdb.org/t/p/w300/eoEv1TGatPLImTAQApmgyM8m2ST.jpg",
+    "https://image.tmdb.org/t/p/w300/4sO09d1zReaSl3F08choHVZ9p8r.jpg",
+    "https://image.tmdb.org/t/p/w300/x2Ce2bm1M2OBxpqEywuXqRGGn6L.jpg",
+    "https://image.tmdb.org/t/p/w300/c2gcLDxniE0lNmT2a7CcQVuW6En.jpg",
+    "https://image.tmdb.org/t/p/w300/6GM97UszmmULOxoq0Ka1zBmuxho.jpg"
+  ],
+  "similar": [],
+  "views": 7714,
+  "sources": [
+    "https://www.youtube.com/embed/U4NT78c-pYs?autoplay=0&autohide=1",
+    "https://smoothpre.com/v/d4zabuikosgn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 44782,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 44782,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:07:09.658059"
+}
