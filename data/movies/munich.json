@@ -1,0 +1,140 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/munich/",
+  "meta": {
+    "title": "Munich",
+    "poster": "https://image.tmdb.org/t/p/w500/noqfLpVzJNRdyNP6v5gsIBn1Kkr.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "History",
+        "url": "https://multimovies.city/genre/history/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Dec. 23, 2005",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.",
+    "infoFields": {
+      "Original title": "Munich",
+      "IMDb Rating": "7.5 239,788 votes",
+      "TMDb Rating": "7.152 2,539 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Steven Spielberg",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steven-spielberg/",
+      "image": "https://image.tmdb.org/t/p/w92/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+    },
+    {
+      "name": "Eric Bana",
+      "role": "Avner",
+      "url": "https://multimovies.city/cast/eric-bana/",
+      "image": "https://image.tmdb.org/t/p/w92/xIjQVywxkymHbbSO7lD2F9f377W.jpg"
+    },
+    {
+      "name": "Daniel Craig",
+      "role": "Steve",
+      "url": "https://multimovies.city/cast/daniel-craig/",
+      "image": "https://image.tmdb.org/t/p/w92/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+    },
+    {
+      "name": "Ciar\u00e1n Hinds",
+      "role": "Carl",
+      "url": "https://multimovies.city/cast/ciaran-hinds/",
+      "image": "https://image.tmdb.org/t/p/w92/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+    },
+    {
+      "name": "Mathieu Kassovitz",
+      "role": "Robert",
+      "url": "https://multimovies.city/cast/mathieu-kassovitz/",
+      "image": "https://image.tmdb.org/t/p/w92/3FRBEdKKlxhvPWPt0jzgmSjeHwn.jpg"
+    },
+    {
+      "name": "Hanns Zischler",
+      "role": "Hans",
+      "url": "https://multimovies.city/cast/hanns-zischler/",
+      "image": "https://image.tmdb.org/t/p/w92/5O4Dum1OuKI4RMB24xjACkL22iA.jpg"
+    },
+    {
+      "name": "Ayelet Zurer",
+      "role": "Daphna",
+      "url": "https://multimovies.city/cast/ayelet-zurer/",
+      "image": "https://image.tmdb.org/t/p/w92/ea3MLLgsIdDhDLkjUCmkR0ZxjDC.jpg"
+    },
+    {
+      "name": "Geoffrey Rush",
+      "role": "Ephraim",
+      "url": "https://multimovies.city/cast/geoffrey-rush/",
+      "image": "https://image.tmdb.org/t/p/w92/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+    },
+    {
+      "name": "Gila Almagor",
+      "role": "Avner's Mother",
+      "url": "https://multimovies.city/cast/gila-almagor/",
+      "image": "https://image.tmdb.org/t/p/w92/w5X2yS6tgVVbYUwRjFenWeN25I3.jpg"
+    },
+    {
+      "name": "Michael Lonsdale",
+      "role": "Papa",
+      "url": "https://multimovies.city/cast/michael-lonsdale/",
+      "image": "https://image.tmdb.org/t/p/w92/lQZktsBj1CFbIEIpXOZp55kCiB5.jpg"
+    },
+    {
+      "name": "Mathieu Amalric",
+      "role": "Louis",
+      "url": "https://multimovies.city/cast/mathieu-amalric/",
+      "image": "https://image.tmdb.org/t/p/w92/fMhfoTbjlXQy2Iojp7oYx49hLQl.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6lv82teWXYGrVnesthnT6I90EjT.jpg",
+    "https://image.tmdb.org/t/p/w300/titl6uMe5u974sLAA2Zy1kFi4sC.jpg",
+    "https://image.tmdb.org/t/p/w300/4Ic4LE5YsQclDXb5KUaSfZf5vgM.jpg",
+    "https://image.tmdb.org/t/p/w300/izPPytIEb2ry1wiDa5LYOulwsR5.jpg",
+    "https://image.tmdb.org/t/p/w300/fN0ALDuXdRI2Xh8lBpnOtCe9J4X.jpg",
+    "https://image.tmdb.org/t/p/w300/z9OxrNalKgLJ9OHr85OBr6EfteB.jpg",
+    "https://image.tmdb.org/t/p/w300/sjm1I5uo6YR3wnzSalRxtl9QSuk.jpg"
+  ],
+  "similar": [],
+  "views": 832,
+  "sources": [
+    "https://www.youtube.com/embed/OuT_uh0CAf8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/g9wmlca"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58283,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58283,
+      "nume": 1,
+      "title": "gdmirror"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:57:27.479293"
+}
