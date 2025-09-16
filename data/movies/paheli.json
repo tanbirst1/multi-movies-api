@@ -1,0 +1,124 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/paheli/",
+  "meta": {
+    "title": "Paheli",
+    "poster": "https://image.tmdb.org/t/p/w500/1oQ8mBfBKcVT758y1949ULkSXER.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jun. 24, 2005",
+    "ratingValue": "9.8",
+    "ratingCount": "5",
+    "synopsis": "Kishanlal marries the beautiful Lachchi, but the day after the wedding, he leaves on business for five years. When Kishanlal reappears only a few days later, Lachchi is delighted, but this new Kishanlal is in fact a spirit who has taken the form of Lachchi\u2019s husband, after having seen her by chance and fallen in love with her. Four years later, the real Kishanlal returns and the townsfolk must determine who is who.",
+    "infoFields": {
+      "Original title": "\u092a\u0939\u0947\u0932\u0940",
+      "IMDb Rating": "6.4 14,353 votes",
+      "TMDb Rating": "6.3 88 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Amol Palekar",
+      "role": "Director",
+      "url": "https://multimovies.city/director/amol-palekar/",
+      "image": "https://image.tmdb.org/t/p/w92/kUnejDjArzNVxouIaIj3WxxC83G.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Kishanlal / Ghost",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Rani Mukerji",
+      "role": "Lachchi",
+      "url": "https://multimovies.city/cast/rani-mukerji/",
+      "image": "https://image.tmdb.org/t/p/w92/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg"
+    },
+    {
+      "name": "Anupam Kher",
+      "role": "Bhanwarlal",
+      "url": "https://multimovies.city/cast/anupam-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/f7hWJ4tvzR7uXmYoTiB41TpQ2NZ.jpg"
+    },
+    {
+      "name": "Aditi Gowitrikar",
+      "role": "Kamli",
+      "url": "https://multimovies.city/cast/aditi-gowitrikar/",
+      "image": "https://image.tmdb.org/t/p/w92/5oAtD2qlmdmv2Ikc0QgqimIwOkt.jpg"
+    },
+    {
+      "name": "Rajpal Yadav",
+      "role": "Bhoja",
+      "url": "https://multimovies.city/cast/rajpal-yadav/",
+      "image": "https://image.tmdb.org/t/p/w92/zhzfI91YuODuC3ZY2ABytw68C37.jpg"
+    },
+    {
+      "name": "Dilip Prabhavalkar",
+      "role": "Kanwarlal",
+      "url": "https://multimovies.city/cast/dilip-prabhavalkar/",
+      "image": "https://image.tmdb.org/t/p/w92/gZOWcPPF1zwA0SMbKa40zp9LRgB.jpg"
+    },
+    {
+      "name": "Palak Jain",
+      "role": "Kishanlal's Cousin",
+      "url": "https://multimovies.city/cast/palak-jain/",
+      "image": "https://image.tmdb.org/t/p/w92/xfJH1zf9kOkMTzZjnF952ceXuun.jpg"
+    },
+    {
+      "name": "A.K. Hangal",
+      "role": "Jeevraj",
+      "url": "https://multimovies.city/cast/a-k-hangal/",
+      "image": "https://image.tmdb.org/t/p/w92/tXtAgbGluAVgVjBalnFuvsIjdfo.jpg"
+    },
+    {
+      "name": "Ratna Pathak Shah",
+      "role": "Female Puppet (Voice)",
+      "url": "https://multimovies.city/cast/ratna-pathak-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/3AQY50MSl6jg1cVqLQdPHNdUVPM.jpg"
+    },
+    {
+      "name": "Naseeruddin Shah",
+      "role": "Male Puppet (Voice)",
+      "url": "https://multimovies.city/cast/naseeruddin-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/lFvGfKypi5NNyUjrsT8Y7ebWc7G.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7WoyOMp0wORdgYJimHeg0XuNaTM.jpg",
+    "https://image.tmdb.org/t/p/w300/17yQkiJDG1sxpw31oIG7f0JZQ6H.jpg"
+  ],
+  "similar": [],
+  "views": 4097,
+  "sources": [
+    "https://smoothpre.com/embed/x1za8n35290a"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 55919,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:56:03.983634"
+}
