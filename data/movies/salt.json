@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/salt/",
+  "meta": {
+    "title": "Salt",
+    "poster": "https://image.tmdb.org/t/p/w500/71JObQnwxUbBSfsHltnb6u9dGmf.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 21, 2010",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "As a CIA officer, Evelyn Salt swore an oath to duty, honor and country. Her loyalty will be tested when a defector accuses her of being a Russian spy. Salt goes on the run, using all her skills and years of experience as a covert operative to elude capture. Salt\u2019s efforts to prove her innocence only serve to cast doubt on her motives, as the hunt to uncover the truth behind her identity continues and the question remains: \u201cWho is Salt?\u201d",
+    "infoFields": {
+      "Original title": "Salt",
+      "IMDb Rating": "6.5 332,445 votes",
+      "TMDb Rating": "6.415 5,377 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Phillip Noyce",
+      "role": "Director",
+      "url": "https://multimovies.city/director/phillip-noyce/",
+      "image": "https://image.tmdb.org/t/p/w92/t41FK8X4egnSLNDexVUZ5yGq3XB.jpg"
+    },
+    {
+      "name": "Angelina Jolie",
+      "role": "Evelyn Salt",
+      "url": "https://multimovies.city/cast/angelina-jolie/",
+      "image": "https://image.tmdb.org/t/p/w92/wYqFJp7HXyNQ3hggB4XRRmT3YTg.jpg"
+    },
+    {
+      "name": "Liev Schreiber",
+      "role": "Theodore Winter",
+      "url": "https://multimovies.city/cast/liev-schreiber/",
+      "image": "https://image.tmdb.org/t/p/w92/7NDRumVwW6jRb2UQxzee9JakDxT.jpg"
+    },
+    {
+      "name": "Chiwetel Ejiofor",
+      "role": "Darryl Peabody",
+      "url": "https://multimovies.city/cast/chiwetel-ejiofor/",
+      "image": "https://image.tmdb.org/t/p/w92/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "name": "Daniel Olbrychski",
+      "role": "Oleg Vasilyevich Orlov",
+      "url": "https://multimovies.city/cast/daniel-olbrychski/",
+      "image": "https://image.tmdb.org/t/p/w92/qQwqsM7pMiTRGw18SsfKvp507GW.jpg"
+    },
+    {
+      "name": "August Diehl",
+      "role": "Mike Krause",
+      "url": "https://multimovies.city/cast/august-diehl/",
+      "image": "https://image.tmdb.org/t/p/w92/ihfZxWkxFH1FZG98aM9g9icf1gJ.jpg"
+    },
+    {
+      "name": "Daniel Pearce",
+      "role": "Young Orlov",
+      "url": "https://multimovies.city/cast/daniel-pearce/",
+      "image": "https://image.tmdb.org/t/p/w92/bagWQ6sX5ozJZO3W7VeLcUr2XKc.jpg"
+    },
+    {
+      "name": "Hunt Block",
+      "role": "US President Howard Lewis",
+      "url": "https://multimovies.city/cast/hunt-block/",
+      "image": "https://image.tmdb.org/t/p/w92/1pu6w6FfatEKOwVeMgZak768Bfc.jpg"
+    },
+    {
+      "name": "Andre Braugher",
+      "role": "Secretary of Defense",
+      "url": "https://multimovies.city/cast/andre-braugher/",
+      "image": "https://image.tmdb.org/t/p/w92/2UgHJ2zUj83x2k8yS1WLKn5L9HV.jpg"
+    },
+    {
+      "name": "Olek Krupa",
+      "role": "Russian President Matveyev",
+      "url": "https://multimovies.city/cast/olek-krupa/",
+      "image": "https://image.tmdb.org/t/p/w92/jTVCCZCm16aZeUCXnoSd4EldfyN.jpg"
+    },
+    {
+      "name": "Cassidy Hinkle",
+      "role": "Young Salt",
+      "url": "https://multimovies.city/cast/cassidy-hinkle/",
+      "image": "https://image.tmdb.org/t/p/w92/mgSYEoHulHULktkJCiQYLCQhuX5.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/75S1XsekIPF7c99g5cby0DeorPz.jpg",
+    "https://image.tmdb.org/t/p/w300/xbQv34DdSkWJCLa3SGuLJPw1HYI.jpg",
+    "https://image.tmdb.org/t/p/w300/sgTnSgLfLAARam9Fz9CMblOBiwW.jpg",
+    "https://image.tmdb.org/t/p/w300/7RwAE11n2nd5pSqI9mCk4tPaEtM.jpg",
+    "https://image.tmdb.org/t/p/w300/8mcipOHbkNXuM9AbvKOgc4XIkcm.jpg",
+    "https://image.tmdb.org/t/p/w300/fP1Q34XmYTE58ekSjM97a02hlwG.jpg",
+    "https://image.tmdb.org/t/p/w300/vGFtby6WIfQK0XaSZCfwy9InuUt.jpg",
+    "https://image.tmdb.org/t/p/w300/aklq9MOL3g1OG2MWq3NLj96QeQE.jpg",
+    "https://image.tmdb.org/t/p/w300/g9nNPEI5s54n66qBpSDQ7EUWwDB.jpg",
+    "https://image.tmdb.org/t/p/w300/wUTSVOCGtb9gKx9kLRMFxE8BVqO.jpg"
+  ],
+  "similar": [],
+  "views": 2153,
+  "sources": [
+    "https://www.youtube.com/embed/QZ40WlshNwU?autoplay=0&autohide=1",
+    "https://deaddrive.shop/embed/60ccf"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 63349,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 63349,
+      "nume": 1,
+      "title": "dd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:44:23.862651"
+}
