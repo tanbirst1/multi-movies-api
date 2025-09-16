@@ -4,15 +4,102 @@
   "meta": {
     "title": "Biwi No.1",
     "poster": "https://image.tmdb.org/t/p/w500/4c787y8j6XCuJHDv13Yuwu0FHmw.jpg",
-    "synopsis": "A woman tries to win back her husband when she discovers he\u2019s keeping a model for a mistress."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "May. 28, 1999",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "A woman tries to win back her husband when she discovers he\u2019s keeping a model for a mistress.",
+    "infoFields": {
+      "Original title": "\u092c\u0940\u0935\u0940 \u0928\u0902 1",
+      "IMDb Rating": "5.7 6,219 votes",
+      "TMDb Rating": "5.96 63 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "David Dhawan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-dhawan/",
+      "image": "https://image.tmdb.org/t/p/w92/xLbcV54lqPF2w5NnjPgVjbmPvk5.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Prem Mehra",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/gxKwCCcs777HzsXRpdGsBV87pXn.jpg"
+    },
+    {
+      "name": "Anil Kapoor",
+      "role": "Lakhan",
+      "url": "https://multimovies.city/cast/anil-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
+    },
+    {
+      "name": "Karisma Kapoor",
+      "role": "Pooja Mehra",
+      "url": "https://multimovies.city/cast/karisma-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/vaa4dSmayH71krkgnECXQsPaRre.jpg"
+    },
+    {
+      "name": "Sushmita Sen",
+      "role": "Rupali",
+      "url": "https://multimovies.city/cast/sushmita-sen/",
+      "image": "https://image.tmdb.org/t/p/w92/arteijssIoHzs8wFLjs6pvqRnlJ.jpg"
+    },
+    {
+      "name": "Tabu",
+      "role": "Lovely",
+      "url": "https://multimovies.city/cast/tabu/",
+      "image": "https://image.tmdb.org/t/p/w92/cvt5nvCHr1ICf5u8A2mlzLQ8LsV.jpg"
+    },
+    {
+      "name": "Himani Shivpuri",
+      "role": "Prem's Mother",
+      "url": "https://multimovies.city/cast/himani-shivpuri/",
+      "image": "https://image.tmdb.org/t/p/w92/iEgl4ME7OfMJ8CVKxpeMiC4Wv5w.jpg"
+    },
+    {
+      "name": "Saif Ali Khan",
+      "role": "Deepak (Cameo Appearance)",
+      "url": "https://multimovies.city/cast/saif-ali-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/jY9fTpIRIOi8DXs9sDHQpllWx3r.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 896,
+  "sources": [
+    "https://multimoviesshg.com/e/0dphgbo8x4xk"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 39118,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:20:44"
+  "last_update": "2025-09-16T17:22:45.698121"
 }
