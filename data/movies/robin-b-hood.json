@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/robin-b-hood/",
+  "meta": {
+    "title": "Robin-B-Hood",
+    "poster": "https://image.tmdb.org/t/p/w500/1ViUIV1rf0WZQte0hHh74DWFLeW.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Sep. 28, 2006",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "For never-do-well compulsive gambler Fong, there\u2019s only one thing more fearsome than debtors at his doorstep \u2013 having to coax a crying baby. But what if the baby becomes his golden goose to fend off his debtors? Can he overcome his phobia of diapers, milk bottles, and cloying lullabies?",
+    "infoFields": {
+      "Original title": "\u5bf6\u8c9d\u8a08\u5283",
+      "IMDb Rating": "6.6 15,196 votes",
+      "TMDb Rating": "7 502 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Benny Chan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/benny-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/oOWuOxW6bBlDi7Zc5Mv3F6ytIjy.jpg"
+    },
+    {
+      "name": "Jackie Chan",
+      "role": "Thongs / Slipper (Fong Ka-Ho)",
+      "url": "https://multimovies.city/cast/jackie-chan/",
+      "image": "https://image.tmdb.org/t/p/w92/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "name": "Louis Koo",
+      "role": "Octopus",
+      "url": "https://multimovies.city/cast/louis-koo/",
+      "image": "https://image.tmdb.org/t/p/w92/yQuDBTzm7xWlJICNvl20OmcJP80.jpg"
+    },
+    {
+      "name": "Michael Hui",
+      "role": "Landlord",
+      "url": "https://multimovies.city/cast/michael-hui/",
+      "image": "https://image.tmdb.org/t/p/w92/kwfdV03JRJTXUkCE2Y4YdjyyWT2.jpg"
+    },
+    {
+      "name": "Charlene Choi",
+      "role": "Pak Yin",
+      "url": "https://multimovies.city/cast/charlene-choi/",
+      "image": "https://image.tmdb.org/t/p/w92/9f4cT2AgaDsvEwMQRirs0w01mF1.jpg"
+    },
+    {
+      "name": "Yuen Biao",
+      "role": "Inspector Steve Mok",
+      "url": "https://multimovies.city/cast/yuen-biao/",
+      "image": "https://image.tmdb.org/t/p/w92/pgO9Im1QKPjLozvsWODLtZDTjw7.jpg"
+    },
+    {
+      "name": "Teresa Carpio",
+      "role": "Landlady",
+      "url": "https://multimovies.city/cast/teresa-carpio/",
+      "image": "https://image.tmdb.org/t/p/w92/euY8raVYghh4Gy3sxxYErt6Ll1F.jpg"
+    },
+    {
+      "name": "Gao Yuanyuan",
+      "role": "Melody",
+      "url": "https://multimovies.city/cast/gao-yuanyuan/",
+      "image": "https://image.tmdb.org/t/p/w92/7vI1FrBmI3VecC1J35oR7iDRytw.jpg"
+    },
+    {
+      "name": "Terence Yin",
+      "role": "Max Hung",
+      "url": "https://multimovies.city/cast/terence-yin/",
+      "image": "https://image.tmdb.org/t/p/w92/Avh1W3UQwxfHO7G1BhwZu8aTce7.jpg"
+    },
+    {
+      "name": "Conroy Chan",
+      "role": "McDaddy",
+      "url": "https://multimovies.city/cast/conroy-chan/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Andrew Lin",
+      "role": "Calvin",
+      "url": "https://multimovies.city/cast/andrew-lin/",
+      "image": "https://image.tmdb.org/t/p/w92/nt1UAs1IY0WQlIeaHjbCfkY0XAR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9nvU0CpENgqOspMfoTUV68JaTaf.jpg",
+    "https://image.tmdb.org/t/p/w300/AqnF5eEgXvrFJF2rlKuBrjpp3F4.jpg",
+    "https://image.tmdb.org/t/p/w300/vdbLewJrL6zf1FBezpFHihS6r6G.jpg"
+  ],
+  "similar": [],
+  "views": 1460,
+  "sources": [
+    "https://www.youtube.com/embed/BjHdKRhQCRo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/0ylh1uo2j1dj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 22990,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 22990,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:08:26.541530"
+}
