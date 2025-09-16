@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/2001-a-space-odyssey/",
+  "meta": {
+    "title": "2001: A Space Odyssey",
+    "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Apr. 02, 1968",
+    "ratingValue": "9.7",
+    "ratingCount": "3",
+    "synopsis": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world\u2019s most advanced super computer.",
+    "infoFields": {
+      "Original title": "2001: A Space Odyssey",
+      "IMDb Rating": "8.3 725,163 votes",
+      "TMDb Rating": "8.077 11,213 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Stanley Kubrick",
+      "role": "Director",
+      "url": "https://multimovies.city/director/stanley-kubrick/",
+      "image": "https://image.tmdb.org/t/p/w92/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
+    },
+    {
+      "name": "Keir Dullea",
+      "role": "Dr. David Bowman",
+      "url": "https://multimovies.city/cast/keir-dullea/",
+      "image": "https://image.tmdb.org/t/p/w92/dL9i0nCk2fCgInZNaYVjGck2IBp.jpg"
+    },
+    {
+      "name": "Gary Lockwood",
+      "role": "Dr. Frank Poole",
+      "url": "https://multimovies.city/cast/gary-lockwood/",
+      "image": "https://image.tmdb.org/t/p/w92/aN9sjIMfi93C78vgZc9SPownD3s.jpg"
+    },
+    {
+      "name": "William Sylvester",
+      "role": "Dr. Heywood Floyd",
+      "url": "https://multimovies.city/cast/william-sylvester/",
+      "image": "https://image.tmdb.org/t/p/w92/gDzQVVDyzTMLuyK3iSrorDt1Utf.jpg"
+    },
+    {
+      "name": "Douglas Rain",
+      "role": "HAL 9000 (voice)",
+      "url": "https://multimovies.city/cast/douglas-rain/",
+      "image": "https://image.tmdb.org/t/p/w92/wCjNcbW1u9cYc7jzlV5FPKqXGNF.jpg"
+    },
+    {
+      "name": "Daniel Richter",
+      "role": "Moonwatcher",
+      "url": "https://multimovies.city/cast/daniel-richter/",
+      "image": "https://image.tmdb.org/t/p/w92/cq8Fprv33RgYPwu39cGx6fxk5Qp.jpg"
+    },
+    {
+      "name": "Leonard Rossiter",
+      "role": "Dr. Andrei Smyslov",
+      "url": "https://multimovies.city/cast/leonard-rossiter/",
+      "image": "https://image.tmdb.org/t/p/w92/qXjGUJ2TjO3ltiEYMEJ658VeqkA.jpg"
+    },
+    {
+      "name": "Margaret Tyzack",
+      "role": "Elena",
+      "url": "https://multimovies.city/cast/margaret-tyzack/",
+      "image": "https://image.tmdb.org/t/p/w92/n7S4qtgp0DA9gtkzEXB7r5tt6jH.jpg"
+    },
+    {
+      "name": "Robert Beatty",
+      "role": "Dr. Ralph Halvorsen",
+      "url": "https://multimovies.city/cast/robert-beatty/",
+      "image": "https://image.tmdb.org/t/p/w92/zsVtibd7wYlt6p6pShgOhLBMS1j.jpg"
+    },
+    {
+      "name": "Sean Sullivan",
+      "role": "Dr. Roy Michaels",
+      "url": "https://multimovies.city/cast/sean-sullivan/",
+      "image": "https://image.tmdb.org/t/p/w92/ohzC0pY9xIWCnHhLooHh8BkPUo2.jpg"
+    },
+    {
+      "name": "Frank Miller",
+      "role": "Mission Controller",
+      "url": "https://multimovies.city/cast/frank-miller/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+    "https://image.tmdb.org/t/p/w300/czrTZnZgSwtIofk0UYrRMicVgHB.jpg",
+    "https://image.tmdb.org/t/p/w300/pIU6CQ9pdvg3n01lVSkKa6476ry.jpg",
+    "https://image.tmdb.org/t/p/w300/vCkC4lHpJZNVUGzdWAF09UKK8by.jpg",
+    "https://image.tmdb.org/t/p/w300/yfnDgz3Kiv0IkdujrFRh1vcd7Yu.jpg",
+    "https://image.tmdb.org/t/p/w300/kCEXA22ASuq7Y29jnngyaisyA0X.jpg",
+    "https://image.tmdb.org/t/p/w300/spHgY9GdIK6agLUnPmD0yVn3kcG.jpg",
+    "https://image.tmdb.org/t/p/w300/uvzXZptrdnLQPPuBHwNGzmLPFIq.jpg",
+    "https://image.tmdb.org/t/p/w300/hohbBdcL2w48TQCGMZBqm1xze1S.jpg",
+    "https://image.tmdb.org/t/p/w300/eXdZ37PSZCL0GpllxeiI3AO6jG.jpg"
+  ],
+  "similar": [],
+  "views": 2445,
+  "sources": [
+    "https://www.youtube.com/embed/QQpJgzBndlw?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/5chj0w8lw9im"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 57423,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 57423,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
