@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/just-married/",
+  "meta": {
+    "title": "Just Married",
+    "poster": "https://image.tmdb.org/t/p/w500/FRqnYDjbstsCgLSJJ3SifOh2ca.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jan. 08, 2003",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Although Tom Leezak and Sarah McNerney come from different worlds, they are both unexpectedly swept off their feet after their first meeting. They quickly fall in love and plan to get married, despite opposition from Sarah\u2019s uptight, rich family. After their wedding, the happy couple sets off \u2013 with the highest of hopes and ideals about love and marriage \u2013 on what they expect will be the perfect honeymoon in Italy. Thanks to a relentless string of bad luck with one disaster after another, and an impromptu visit from Sarah\u2019s wealthy one-time ex-lover Peter Prentiss, the newlyweds experience the honeymoon from hell that tests the limits of their young love. Is it worth throwing away their love and marriage?",
+    "infoFields": {
+      "Original title": "Just Married",
+      "IMDb Rating": "5.5 75,515 votes",
+      "TMDb Rating": "5.783 1,346 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Shawn Levy",
+      "role": "Director",
+      "url": "https://multimovies.city/director/shawn-levy/",
+      "image": "https://image.tmdb.org/t/p/w92/j1CXZgmfvFeD7S3PYtsEk8H3ebB.jpg"
+    },
+    {
+      "name": "Ashton Kutcher",
+      "role": "Tom Leezak",
+      "url": "https://multimovies.city/cast/ashton-kutcher/",
+      "image": "https://image.tmdb.org/t/p/w92/LvIpFJZDNjRKD5Nl9QAaRxYIiv.jpg"
+    },
+    {
+      "name": "Brittany Murphy",
+      "role": "Sarah McNerney",
+      "url": "https://multimovies.city/cast/brittany-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/9vjgU9EcHXYyh6Vc4nmpoPVNqsQ.jpg"
+    },
+    {
+      "name": "Christian Kane",
+      "role": "Peter Prentiss",
+      "url": "https://multimovies.city/cast/christian-kane/",
+      "image": "https://image.tmdb.org/t/p/w92/jPUk9WXrdv1t30dZgcNxa8OxSu3.jpg"
+    },
+    {
+      "name": "David Moscow",
+      "role": "Kyle",
+      "url": "https://multimovies.city/cast/david-moscow/",
+      "image": "https://image.tmdb.org/t/p/w92/b0tUWBy7Ia2JcaLtepeZvYUkUZm.jpg"
+    },
+    {
+      "name": "Monet Mazur",
+      "role": "Lauren McNerney",
+      "url": "https://multimovies.city/cast/monet-mazur/",
+      "image": "https://image.tmdb.org/t/p/w92/3i7cXN0GoVAejogJtLSONhwqgfE.jpg"
+    },
+    {
+      "name": "David Rasche",
+      "role": "Mr. McNerney",
+      "url": "https://multimovies.city/cast/david-rasche/",
+      "image": "https://image.tmdb.org/t/p/w92/bWPhfa4m8pXVneP1gf37xvuMUCA.jpg"
+    },
+    {
+      "name": "Thad Luckinbill",
+      "role": "Willie McNerney",
+      "url": "https://multimovies.city/cast/thad-luckinbill/",
+      "image": "https://image.tmdb.org/t/p/w92/n7eqiq10dCFZwgzwaiUjqFzMwhI.jpg"
+    },
+    {
+      "name": "David Agranov",
+      "role": "Paul McNerney",
+      "url": "https://multimovies.city/cast/david-agranov/",
+      "image": "https://image.tmdb.org/t/p/w92/oUeCUNHagvhXufgvIMCAWcKltHg.jpg"
+    },
+    {
+      "name": "Taran Killam",
+      "role": "Dickie McNerney",
+      "url": "https://multimovies.city/cast/taran-killam/",
+      "image": "https://image.tmdb.org/t/p/w92/zE4JnkNgs7Yx6zOzdOcxHB4vA1t.jpg"
+    },
+    {
+      "name": "Raymond J. Barry",
+      "role": "Mr. Leezak",
+      "url": "https://multimovies.city/cast/raymond-j-barry/",
+      "image": "https://image.tmdb.org/t/p/w92/8rJs8BQMoVqEjjCHCS4i7o7joJ6.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/tiIGRyD3HNHNZ8mt0gn2D5LYakN.jpg",
+    "https://image.tmdb.org/t/p/w300/dp8I3w0AogFb3CGHPjhPlyuoZ3m.jpg",
+    "https://image.tmdb.org/t/p/w300/aEJZb3O9KQhnQORp4lNMqeGzSSR.jpg",
+    "https://image.tmdb.org/t/p/w300/eE5U6RY22c0sDPSJSMkW8IYFNZr.jpg",
+    "https://image.tmdb.org/t/p/w300/iTwUks8EnvV6ZxeXSiaZFd4PE0y.jpg",
+    "https://image.tmdb.org/t/p/w300/uwRp9mACj0X3mH8BswvZpX3cVUX.jpg",
+    "https://image.tmdb.org/t/p/w300/gVXsIwmMZQx2XVuzgRR885KLBnp.jpg",
+    "https://image.tmdb.org/t/p/w300/zBsCS4MOxUewqJDPHI2owxAt16I.jpg",
+    "https://image.tmdb.org/t/p/w300/bOE0IfgGNXGvXnTG4QJShz6JoRB.jpg",
+    "https://image.tmdb.org/t/p/w300/aKlVkSojkJ4k94jBR6RTXTyuBjp.jpg"
+  ],
+  "similar": [],
+  "views": 1646,
+  "sources": [
+    "https://www.youtube.com/embed/UhzaFn02IA0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vzyhv12"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 71835,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 71835,
+      "nume": 1,
+      "title": "GD"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:40:17.575846"
+}
