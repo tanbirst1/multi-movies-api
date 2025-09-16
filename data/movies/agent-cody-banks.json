@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/agent-cody-banks/",
+  "meta": {
+    "title": "Agent Cody Banks",
+    "poster": "https://image.tmdb.org/t/p/w500/fhK0mqqirPsckxkNisvi32A4lf6.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Mar. 14, 2003",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "Recruited by the U.S. government to be a special agent, nerdy teenager Cody Banks must get closer to cute classmate Natalie in order to learn about an evil plan hatched by her father. But despite the agent persona, Cody struggles with teen angst.",
+    "infoFields": {
+      "Original title": "Agent Cody Banks",
+      "IMDb Rating": "5.1 36,326 votes",
+      "TMDb Rating": "5.5 1,004 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Terry Leonard",
+      "role": "Director",
+      "url": "https://multimovies.city/director/terry-leonard/",
+      "image": "https://image.tmdb.org/t/p/w92/iRejgxxjuMXfLLYHXGCInX288B.jpg"
+    },
+    {
+      "name": "Frankie Muniz",
+      "role": "Cody Banks",
+      "url": "https://multimovies.city/cast/frankie-muniz/",
+      "image": "https://image.tmdb.org/t/p/w92/tBckW8eJHv4vz8B3DJYH1rLAtyN.jpg"
+    },
+    {
+      "name": "Hilary Duff",
+      "role": "Natalie Connors",
+      "url": "https://multimovies.city/cast/hilary-duff/",
+      "image": "https://image.tmdb.org/t/p/w92/y7kijupB4DgNDcYSkVoJOceOhU6.jpg"
+    },
+    {
+      "name": "Angie Harmon",
+      "role": "Ronica Miles",
+      "url": "https://multimovies.city/cast/angie-harmon/",
+      "image": "https://image.tmdb.org/t/p/w92/cntFCwNRBDQi4IMoUrmaVzvT7wa.jpg"
+    },
+    {
+      "name": "Keith David",
+      "role": "CIA Director",
+      "url": "https://multimovies.city/cast/keith-david/",
+      "image": "https://image.tmdb.org/t/p/w92/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg"
+    },
+    {
+      "name": "Cynthia Stevenson",
+      "role": "Mrs. Banks",
+      "url": "https://multimovies.city/cast/cynthia-stevenson/",
+      "image": "https://image.tmdb.org/t/p/w92/zdrsUVw9F0U4onvh1rS1AQor4wp.jpg"
+    },
+    {
+      "name": "Darrell Hammond",
+      "role": "Earl",
+      "url": "https://multimovies.city/cast/darrell-hammond/",
+      "image": "https://image.tmdb.org/t/p/w92/6yzLojcNxWcb2AYFYo2D0aXm6Ks.jpg"
+    },
+    {
+      "name": "Martin Donovan",
+      "role": "Dr. Connors",
+      "url": "https://multimovies.city/cast/martin-donovan/",
+      "image": "https://image.tmdb.org/t/p/w92/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg"
+    },
+    {
+      "name": "Arnold Vosloo",
+      "role": "Molay",
+      "url": "https://multimovies.city/cast/arnold-vosloo/",
+      "image": "https://image.tmdb.org/t/p/w92/g7IuNOiDslCGInYEYClbyRrma5z.jpg"
+    },
+    {
+      "name": "Daniel Roebuck",
+      "role": "Mr. Banks",
+      "url": "https://multimovies.city/cast/daniel-roebuck/",
+      "image": "https://image.tmdb.org/t/p/w92/y40aX3SdvUZwE7feNq77UMg3zge.jpg"
+    },
+    {
+      "name": "Ian McShane",
+      "role": "Brinkman",
+      "url": "https://multimovies.city/cast/ian-mcshane/",
+      "image": "https://image.tmdb.org/t/p/w92/q9qKbux5Jo76Sj8g3luxBt6rYtz.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/rkdVFDVfTMuk8AetzvJ0C4gVE5c.jpg",
+    "https://image.tmdb.org/t/p/w300/a1bdxoxFg6vkumxWYLraNHiLRkR.jpg",
+    "https://image.tmdb.org/t/p/w300/fdmygCW0kYjq2NABwplpInKwa9V.jpg",
+    "https://image.tmdb.org/t/p/w300/6ZqD37XOQdzvwuuMFqv4Emb9Vm9.jpg",
+    "https://image.tmdb.org/t/p/w300/2Sx7QUVqyUG5DQtGcZMFPNbAUzP.jpg",
+    "https://image.tmdb.org/t/p/w300/7bWyQsatalkfVhmQRwzxrTlc9cW.jpg",
+    "https://image.tmdb.org/t/p/w300/vjMRRe5ddhaZ2JVC0AblG32bWmb.jpg",
+    "https://image.tmdb.org/t/p/w300/9pZVbnIQlQsh84qZYPlveteLBC.jpg",
+    "https://image.tmdb.org/t/p/w300/fX5zgpAQqB6q9isCOFZjSqBK54p.jpg",
+    "https://image.tmdb.org/t/p/w300/3c2lBIC24wTk6esqDbM1WjrH9jw.jpg"
+  ],
+  "similar": [],
+  "views": 810,
+  "sources": [
+    "https://www.youtube.com/embed/wZgYSQ5KD_c?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/b82ns45upkqz"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 31322,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 31322,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:38:48.479452"
+}
