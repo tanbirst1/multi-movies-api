@@ -4,15 +4,129 @@
   "meta": {
     "title": "Following",
     "poster": "https://image.tmdb.org/t/p/w500/3bX6VVSMf0dvzk5pMT4ALG5A92d.jpg",
-    "synopsis": "Bill, an idle, unemployed aspiring writer, walks the crowded streets of London following randomly chosen strangers, a seemingly innocent entertainment that becomes dangerous when he crosses paths with a mysterious character."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 06, 1999",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Bill, an idle, unemployed aspiring writer, walks the crowded streets of London following randomly chosen strangers, a seemingly innocent entertainment that becomes dangerous when he crosses paths with a mysterious character.",
+    "infoFields": {
+      "Original title": "Following",
+      "IMDb Rating": "7.4 105,165 votes",
+      "TMDb Rating": "7.1 1,625 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Christopher Nolan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/christopher-nolan/",
+      "image": "https://image.tmdb.org/t/p/w92/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+    },
+    {
+      "name": "Jeremy Theobald",
+      "role": "The Young Man",
+      "url": "https://multimovies.city/cast/jeremy-theobald/",
+      "image": "https://image.tmdb.org/t/p/w92/DCx1Ngl64D1OgBuGaw6ny8Hlrh.jpg"
+    },
+    {
+      "name": "Alex Haw",
+      "role": "Cobb",
+      "url": "https://multimovies.city/cast/alex-haw/",
+      "image": "https://image.tmdb.org/t/p/w92/eTqvHRjfRIMzKdHP2zSED2QVUES.jpg"
+    },
+    {
+      "name": "Lucy Russell",
+      "role": "The Blonde",
+      "url": "https://multimovies.city/cast/lucy-russell/",
+      "image": "https://image.tmdb.org/t/p/w92/6aNWltms1Imbl9J4aXWk4p2KRZX.jpg"
+    },
+    {
+      "name": "John Nolan",
+      "role": "The Policeman",
+      "url": "https://multimovies.city/cast/john-nolan/",
+      "image": "https://image.tmdb.org/t/p/w92/7cxsJPPPxdyLVFMmtvj6uaGSqWW.jpg"
+    },
+    {
+      "name": "Dick Bradsell",
+      "role": "The Bald Guy",
+      "url": "https://multimovies.city/cast/dick-bradsell/",
+      "image": "https://image.tmdb.org/t/p/w92/nuDqnrUncRvz3RrdeCwbXHgRxr7.jpg"
+    },
+    {
+      "name": "Gillian El-Kadi",
+      "role": "Home Owner",
+      "url": "https://multimovies.city/cast/gillian-el-kadi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Jennifer Angel",
+      "role": "Waitress",
+      "url": "https://multimovies.city/cast/jennifer-angel/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Nicolas Carlotti",
+      "role": "Barman",
+      "url": "https://multimovies.city/cast/nicolas-carlotti/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Darren Ormandy",
+      "role": "Accountant",
+      "url": "https://multimovies.city/cast/darren-ormandy/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Guy Greenway",
+      "role": "Heavy #1",
+      "url": "https://multimovies.city/cast/guy-greenway/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/owgFkvnozNYdShynerDjot2hHK2.jpg",
+    "https://image.tmdb.org/t/p/w300/cnvmUzE1gCihdowMcS8VqmJSfGo.jpg",
+    "https://image.tmdb.org/t/p/w300/4kjQK9aanydnmMm6S6QOr1FLy6c.jpg",
+    "https://image.tmdb.org/t/p/w300/tPY42xYsOmozenPA0rWfAg6NTh5.jpg",
+    "https://image.tmdb.org/t/p/w300/gCpl06aiAGUrPrmspeqhdKVQRT1.jpg",
+    "https://image.tmdb.org/t/p/w300/uzI16AKaiXgTyaZCeskopNrlwB4.jpg",
+    "https://image.tmdb.org/t/p/w300/mXSUpMyJy24mqRFjql97vBQyvzH.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 327,
+  "sources": [
+    "https://www.youtube.com/embed/62TTN6gD2So?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ff7pcwm"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 80495,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 80495,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:20:44"
+  "last_update": "2025-09-16T17:22:53.709513"
 }
