@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-hunted/",
+  "meta": {
+    "title": "The Hunted",
+    "poster": "https://image.tmdb.org/t/p/w500/iA3tg96IWKkfMYiFbAGKVEWAnyc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 11, 2003",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "In the wilderness of British Columbia, two hunters are tracked and viciously murdered by Aaron Hallam. A former Special Operations instructor is approached and asked to apprehend Hallam\u2014his former student\u2014who has \u2018gone rogue\u2019 after suffering severe battle stress from his time in Kosovo.",
+    "infoFields": {
+      "Original title": "The Hunted",
+      "TMDb Rating": "6.155 854 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "William Friedkin",
+      "role": "Director",
+      "url": "https://multimovies.city/director/william-friedkin/",
+      "image": "https://image.tmdb.org/t/p/w92/jKPmxwyEeGUCIQUiisXJcxtm9Hs.jpg"
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "role": "L.T. Bonham",
+      "url": "https://multimovies.city/cast/tommy-lee-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/kaJJkFHYLfM7zDNaenax00nhOkC.jpg"
+    },
+    {
+      "name": "Benicio del Toro",
+      "role": "Aaron Hallam",
+      "url": "https://multimovies.city/cast/benicio-del-toro/",
+      "image": "https://image.tmdb.org/t/p/w92/cVh4UgCMu6aAkZ2BqymTLV86FzZ.jpg"
+    },
+    {
+      "name": "Connie Nielsen",
+      "role": "Abby Durrell",
+      "url": "https://multimovies.city/cast/connie-nielsen/",
+      "image": "https://image.tmdb.org/t/p/w92/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg"
+    },
+    {
+      "name": "Leslie Stefanson",
+      "role": "Irene Kravitz",
+      "url": "https://multimovies.city/cast/leslie-stefanson/",
+      "image": "https://image.tmdb.org/t/p/w92/awdzrVjnuRbMZxPpS3XhcbxxlFU.jpg"
+    },
+    {
+      "name": "John Finn",
+      "role": "Ted Chenoweth",
+      "url": "https://multimovies.city/cast/john-finn/",
+      "image": "https://image.tmdb.org/t/p/w92/tEv7ZUiO4gafQnXEOp43WSEvRfp.jpg"
+    },
+    {
+      "name": "Mark Pellegrino",
+      "role": "Dale Hewitt",
+      "url": "https://multimovies.city/cast/mark-pellegrino/",
+      "image": "https://image.tmdb.org/t/p/w92/r0XnI7sUWzShVwnHw3ncSPxw0Tv.jpg"
+    },
+    {
+      "name": "Ron Canada",
+      "role": "Harry Van Zandt",
+      "url": "https://multimovies.city/cast/ron-canada/",
+      "image": "https://image.tmdb.org/t/p/w92/2B8fFweT0PGcA1sj3duMzPpLgD6.jpg"
+    },
+    {
+      "name": "Jos\u00e9 Z\u00fa\u00f1iga",
+      "role": "Bobby Moret",
+      "url": "https://multimovies.city/cast/jose-zuniga/",
+      "image": "https://image.tmdb.org/t/p/w92/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+    },
+    {
+      "name": "Jenna Boyd",
+      "role": "Loretta Kravitz",
+      "url": "https://multimovies.city/cast/jenna-boyd/",
+      "image": "https://image.tmdb.org/t/p/w92/tDMgyuY9KwFHpmJdqyi51aGOkCe.jpg"
+    },
+    {
+      "name": "Rex Linn",
+      "role": "Powell",
+      "url": "https://multimovies.city/cast/rex-linn/",
+      "image": "https://image.tmdb.org/t/p/w92/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2T3k09YnrM03CQd1yK3ZQLEHEZH.jpg",
+    "https://image.tmdb.org/t/p/w300/dQfBTEbOPmIK33DdfxNxZwqXWbw.jpg",
+    "https://image.tmdb.org/t/p/w300/5feoV4KrWKX1IBGl3XMXzJU7mDM.jpg",
+    "https://image.tmdb.org/t/p/w300/hyMOo5OJocKugS0S695jhACvaU6.jpg"
+  ],
+  "similar": [],
+  "views": 486,
+  "sources": [
+    "https://www.youtube.com/embed/53AH-k3go7U?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/hk0xk8k"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 98140,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 98140,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:38:58.969150"
+}
