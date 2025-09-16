@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-other-guys/",
+  "meta": {
+    "title": "The Other Guys",
+    "poster": "https://image.tmdb.org/t/p/w500/gEz6vvd9zX1sa4e76qNMxawncX0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Aug. 06, 2010",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Unlike their heroic counterparts on the force, desk-bound NYPD detectives Gamble and Hoitz garner no headlines as they work day to day. When a seemingly minor case turns out to be a big deal, the two cops get the opportunity to finally prove to their comrades that they have the right stuff.",
+    "infoFields": {
+      "Original title": "The Other Guys",
+      "IMDb Rating": "6.6 275,704 votes",
+      "TMDb Rating": "6.277 3,675 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "William M. Connor",
+      "role": "Director",
+      "url": "https://multimovies.city/director/william-m-connor/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Will Ferrell",
+      "role": "Detective Allen Gamble",
+      "url": "https://multimovies.city/cast/will-ferrell/",
+      "image": "https://image.tmdb.org/t/p/w92/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
+    },
+    {
+      "name": "Mark Wahlberg",
+      "role": "Detective Terry Hoitz",
+      "url": "https://multimovies.city/cast/mark-wahlberg/",
+      "image": "https://image.tmdb.org/t/p/w92/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+    },
+    {
+      "name": "Eva Mendes",
+      "role": "Sheila Gamble",
+      "url": "https://multimovies.city/cast/eva-mendes/",
+      "image": "https://image.tmdb.org/t/p/w92/uj6IaUDEUB7swj46dPjHAi3TEk4.jpg"
+    },
+    {
+      "name": "Michael Keaton",
+      "role": "Captain Gene Mauch",
+      "url": "https://multimovies.city/cast/michael-keaton/",
+      "image": "https://image.tmdb.org/t/p/w92/82rxrGxOqQW2NjKsIiNbDYHFfmb.jpg"
+    },
+    {
+      "name": "Steve Coogan",
+      "role": "David Ershon",
+      "url": "https://multimovies.city/cast/steve-coogan/",
+      "image": "https://image.tmdb.org/t/p/w92/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+      "name": "Ray Stevenson",
+      "role": "Roger Wesley",
+      "url": "https://multimovies.city/cast/ray-stevenson/",
+      "image": "https://image.tmdb.org/t/p/w92/msafbswGI6uisRuNvQ8a1wMF5Ca.jpg"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "role": "P.K. Highsmith",
+      "url": "https://multimovies.city/cast/samuel-l-jackson/",
+      "image": "https://image.tmdb.org/t/p/w92/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg"
+    },
+    {
+      "name": "Dwayne Johnson",
+      "role": "Christopher Danson",
+      "url": "https://multimovies.city/cast/dwayne-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/xZV1qF3EsTivbEXCmx2HQazPvHK.jpg"
+    },
+    {
+      "name": "Lindsay Sloane",
+      "role": "Francine",
+      "url": "https://multimovies.city/cast/lindsay-sloane/",
+      "image": "https://image.tmdb.org/t/p/w92/gUhnA6tvk2kOQaBxqpJ0QgoKRtA.jpg"
+    },
+    {
+      "name": "Natalie Zea",
+      "role": "Christinith",
+      "url": "https://multimovies.city/cast/natalie-zea/",
+      "image": "https://image.tmdb.org/t/p/w92/7Bn3WMi9VYmXVaZaS7PBfbGXqZj.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nHyri67CN6juBR6hmOefCn9oGf8.jpg",
+    "https://image.tmdb.org/t/p/w300/bx5wtT1OxxLmgiI9D0c5ACAKoUf.jpg",
+    "https://image.tmdb.org/t/p/w300/3BhgvB3xUsFaITyq7zpake69Z7Z.jpg",
+    "https://image.tmdb.org/t/p/w300/AvKSGBaiXKksYkvpAJ6DxIdrdKV.jpg",
+    "https://image.tmdb.org/t/p/w300/vNY9ojwhun1Q3lM6lXigRin50qZ.jpg"
+  ],
+  "similar": [],
+  "views": 2249,
+  "sources": [
+    "https://www.youtube.com/embed/D6WOoUG1eNo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/sb4in6jjf0zo"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5045,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5045,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:43:48.690659"
+}
