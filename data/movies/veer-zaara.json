@@ -1,0 +1,159 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/veer-zaara/",
+  "meta": {
+    "title": "Veer-Zaara",
+    "poster": "https://image.tmdb.org/t/p/w500/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Nov. 12, 2004",
+    "ratingValue": "9.6",
+    "ratingCount": "14",
+    "synopsis": "Squadron Leader Veer Pratap Singh, a pilot in the Indian air force, rescues the stranded Zaara, a woman from Pakistan, following a bus accident, and their lives are forever bound.",
+    "infoFields": {
+      "Original title": "\u0935\u0940\u0930-\u091c\u093c\u093e\u0930\u093e",
+      "IMDb Rating": "7.8 54,693 votes",
+      "TMDb Rating": "7.418 219 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Yash Chopra",
+      "role": "Director",
+      "url": "https://multimovies.city/director/yash-chopra/",
+      "image": "https://image.tmdb.org/t/p/w92/uDthb94NlawtgRT8BKufFkZdJR5.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Veer Pratap Singh",
+      "url": "https://multimovies.city/cast/shah-rukh-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Preity Zinta",
+      "role": "Zaara Hayaat Khan",
+      "url": "https://multimovies.city/cast/preity-zinta/",
+      "image": "https://image.tmdb.org/t/p/w92/uaY2M3goYsp0QpNenharmIqnMvy.jpg"
+    },
+    {
+      "name": "Rani Mukerji",
+      "role": "Saamiya Siddiqui",
+      "url": "https://multimovies.city/cast/rani-mukerji/",
+      "image": "https://image.tmdb.org/t/p/w92/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Chaudhary Sumer Singh",
+      "url": "https://multimovies.city/cast/amitabh-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/yAvq3EG5W5WaegZHB7gNdlM2KED.jpg"
+    },
+    {
+      "name": "Hema Malini",
+      "role": "Maati",
+      "url": "https://multimovies.city/cast/hema-malini/",
+      "image": "https://image.tmdb.org/t/p/w92/lngiYXzpT6UvRTeRCQncJPJz4UH.jpg"
+    },
+    {
+      "name": "Divya Dutta",
+      "role": "Shabbo",
+      "url": "https://multimovies.city/cast/divya-dutta/",
+      "image": "https://image.tmdb.org/t/p/w92/mQVyM3NTnpCc8lHb0JnalJnYUqu.jpg"
+    },
+    {
+      "name": "Anupam Kher",
+      "role": "Zakir Ahmed",
+      "url": "https://multimovies.city/cast/anupam-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/f7hWJ4tvzR7uXmYoTiB41TpQ2NZ.jpg"
+    },
+    {
+      "name": "Kirron Kher",
+      "role": "Mariam Hayaat Khan",
+      "url": "https://multimovies.city/cast/kirron-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/bM9ZjQmsKYqGQaqBBPIhwlsNOYx.jpg"
+    },
+    {
+      "name": "Boman Irani",
+      "role": "Jahangir Hayaat Khan",
+      "url": "https://multimovies.city/cast/boman-irani/",
+      "image": "https://image.tmdb.org/t/p/w92/u71heG3Xw9IAwNpuufoelfjyYLG.jpg"
+    },
+    {
+      "name": "Manoj Bajpayee",
+      "role": "Razaa Shirazi",
+      "url": "https://multimovies.city/cast/manoj-bajpayee/",
+      "image": "https://image.tmdb.org/t/p/w92/hBiAldG2BGMVoZUPbvK3FNDSw22.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/lJhFmVcLTy2i4gRfw9XtcuGYozM.jpg",
+    "https://image.tmdb.org/t/p/w300/h6o60MNModPP9oISucVQcPfJyH9.jpg",
+    "https://image.tmdb.org/t/p/w300/vllr8rsgtx4gvgLegdStcZ91QZc.jpg",
+    "https://image.tmdb.org/t/p/w300/nbpaiK0kHaXCZ7nj6sKJYLDNWYt.jpg",
+    "https://image.tmdb.org/t/p/w300/kStfrp6Q4sUsz4q2IktDGMqDZ8j.jpg",
+    "https://image.tmdb.org/t/p/w300/3ehj23xaXlsZQRlCtUBMcIq37eT.jpg"
+  ],
+  "similar": [],
+  "views": 34236,
+  "sources": [
+    "https://multimoviesshg.com/e/3u4r4k0n7575",
+    "https://sbplay.org/embed-hlvvj2t1hsdt.html",
+    "https://dood.la/e/f0aoz2tnaox4",
+    "https://mixdrop.co/e/xovlwl7whmmm6x",
+    "https://embedsito.com/v/052z7flg2306grg?sub_en=https://sub.movstream.net/sub/veer-zaara-cgo/veer-zaara-cgo.vtt&default=sub_en#caption=https://sub.movstream.net/sub/veer-zaara-cgo/veer-zaara-cgo.vtt",
+    "https://hydrax.net/watch?v=rp0HRlOvTV"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 10285,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 10285,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 10285,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 10285,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 10285,
+      "nume": 5,
+      "title": "Server 05"
+    },
+    {
+      "type": "movie",
+      "post": 10285,
+      "nume": 6,
+      "title": "Server 06"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:54:15.425529"
+}
