@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rambo/",
+  "meta": {
+    "title": "Rambo 4",
+    "poster": "https://image.tmdb.org/t/p/w500/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Rambo",
+        "url": "https://multimovies.city/genre/rambo/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jan. 24, 2008",
+    "ratingValue": "7",
+    "ratingCount": "6",
+    "synopsis": "When governments fail to act on behalf of captive missionaries, ex-Green Beret John James Rambo sets aside his peaceful existence along the Salween River in a war-torn region of Thailand to take action. Although he\u2019s still haunted by violent memories of his time as a U.S. soldier during the Vietnam War, Rambo can hardly turn his back on the aid workers who so desperately need his help.",
+    "infoFields": {
+      "Original title": "Rambo",
+      "IMDb Rating": "7 250,026 votes",
+      "TMDb Rating": "6.7 3,968 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sylvester Stallone",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/qDRGPAcQoW8Wuig9bvoLpHwf1gU.jpg"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "John Rambo",
+      "url": "https://multimovies.city/cast/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/qDRGPAcQoW8Wuig9bvoLpHwf1gU.jpg"
+    },
+    {
+      "name": "Julie Benz",
+      "role": "Sarah",
+      "url": "https://multimovies.city/cast/julie-benz/",
+      "image": "https://image.tmdb.org/t/p/w92/avcCYkQjRM7qgE0MZ5VXcK3XcKz.jpg"
+    },
+    {
+      "name": "Matthew Marsden",
+      "role": "School Boy",
+      "url": "https://multimovies.city/cast/matthew-marsden/",
+      "image": "https://image.tmdb.org/t/p/w92/qejtyAt9dQdOS9AbXxSOwbw82E.jpg"
+    },
+    {
+      "name": "Graham McTavish",
+      "role": "Lewis",
+      "url": "https://multimovies.city/cast/graham-mctavish/",
+      "image": "https://image.tmdb.org/t/p/w92/9IjPwv7Vb4QygA1cPSX179oqjsT.jpg"
+    },
+    {
+      "name": "Reynaldo Gallegos",
+      "role": "Diaz",
+      "url": "https://multimovies.city/cast/reynaldo-gallegos/",
+      "image": "https://image.tmdb.org/t/p/w92/x1JFYhTI4Pu1Dtj45YRf5mIHBtK.jpg"
+    },
+    {
+      "name": "Tim Kang",
+      "role": "En-Joo",
+      "url": "https://multimovies.city/cast/tim-kang/",
+      "image": "https://image.tmdb.org/t/p/w92/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg"
+    },
+    {
+      "name": "Jake La Botz",
+      "role": "Reese",
+      "url": "https://multimovies.city/cast/jake-la-botz/",
+      "image": "https://image.tmdb.org/t/p/w92/sXXsLk6kG7AjkyUAp2a7XDgvEDq.jpg"
+    },
+    {
+      "name": "Maung Maung Khin",
+      "role": "Tint",
+      "url": "https://multimovies.city/cast/maung-maung-khin/",
+      "image": "https://image.tmdb.org/t/p/w92/cnZP323ym06lWnzEWj1mzlFgNhC.jpg"
+    },
+    {
+      "name": "Paul Schulze",
+      "role": "Michael Burnett",
+      "url": "https://multimovies.city/cast/paul-schulze/",
+      "image": "https://image.tmdb.org/t/p/w92/rT7RXbJ89XwIKmSkymEE4BhyIlk.jpg"
+    },
+    {
+      "name": "Cameron Pearson",
+      "role": "Jeff",
+      "url": "https://multimovies.city/cast/cameron-pearson/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5W0ljXTtLVuLF0z8GE7mNXgTC44.jpg",
+    "https://image.tmdb.org/t/p/w300/r60nF76y6Lw3A82Og9bdyRzuo1E.jpg",
+    "https://image.tmdb.org/t/p/w300/wZVluw8j7i7TPsrrh7yhSE0ekCc.jpg",
+    "https://image.tmdb.org/t/p/w300/sKJJXjcLVAleeubBpJvtrnjSUJt.jpg",
+    "https://image.tmdb.org/t/p/w300/lp0dFHiuj0neI0C2F9DU4SHFVXB.jpg",
+    "https://image.tmdb.org/t/p/w300/n3QVcZfuO47Zen4LfSmGkQFZ4ea.jpg",
+    "https://image.tmdb.org/t/p/w300/8cX1Xt91RSpxpwNamNDQog0OeMq.jpg",
+    "https://image.tmdb.org/t/p/w300/fG6vl6Fj1RDPk2BUaWk3vpeUChj.jpg",
+    "https://image.tmdb.org/t/p/w300/gF52uqi5KOR02fAXuOYoGyIzWFe.jpg",
+    "https://image.tmdb.org/t/p/w300/8fW3c6iGSXFsv0DjlwgkaaJ2JI8.jpg"
+  ],
+  "similar": [],
+  "views": 4116,
+  "sources": [
+    "https://www.youtube.com/embed/2CRjdwRYQbU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/fzx8f9l"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26762,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 26762,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:18:15.740905"
+}
