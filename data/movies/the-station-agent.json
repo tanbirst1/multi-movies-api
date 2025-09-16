@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-station-agent/",
+  "meta": {
+    "title": "The Station Agent",
+    "poster": "https://image.tmdb.org/t/p/w500/kjJg6eJa9I9flfHaJG67ecEv8YX.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Dec. 05, 2003",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.",
+    "infoFields": {
+      "Original title": "The Station Agent",
+      "IMDb Rating": "7.6 74,721 votes",
+      "TMDb Rating": "7.346 668 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tom McCarthy",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tom-mccarthy/",
+      "image": "https://image.tmdb.org/t/p/w92/cEA6cxG3AiH0hUzFH9mUQQVy20O.jpg"
+    },
+    {
+      "name": "Peter Dinklage",
+      "role": "Finbar McBride",
+      "url": "https://multimovies.city/cast/peter-dinklage/",
+      "image": "https://image.tmdb.org/t/p/w92/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+      "name": "Patricia Clarkson",
+      "role": "Olivia Harris",
+      "url": "https://multimovies.city/cast/patricia-clarkson/",
+      "image": "https://image.tmdb.org/t/p/w92/gQwOxRXkmmAhu1urnLtHVPhN2O2.jpg"
+    },
+    {
+      "name": "Bobby Cannavale",
+      "role": "Joe Oramas",
+      "url": "https://multimovies.city/cast/bobby-cannavale/",
+      "image": "https://image.tmdb.org/t/p/w92/gYQwTbEj5IBPYKLGKgrsNGrWAMl.jpg"
+    },
+    {
+      "name": "Michelle Williams",
+      "role": "Emily",
+      "url": "https://multimovies.city/cast/michelle-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+    },
+    {
+      "name": "Raven Goodwin",
+      "role": "Cleo",
+      "url": "https://multimovies.city/cast/raven-goodwin/",
+      "image": "https://image.tmdb.org/t/p/w92/dvnQmm5DmAq8xXiE6APYsqMOdRL.jpg"
+    },
+    {
+      "name": "Paul Benjamin",
+      "role": "Henry Styles",
+      "url": "https://multimovies.city/cast/paul-benjamin/",
+      "image": "https://image.tmdb.org/t/p/w92/6t4RCyCoynTG0mk5godo7AW3doK.jpg"
+    },
+    {
+      "name": "Jase Blankfort",
+      "role": "Store Customer",
+      "url": "https://multimovies.city/cast/jase-blankfort/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Paula Garc\u00e9s",
+      "role": "Cashier",
+      "url": "https://multimovies.city/cast/paula-garces/",
+      "image": "https://image.tmdb.org/t/p/w92/xSdnYmBysbtvHmEkDGrUBUC4UXs.jpg"
+    },
+    {
+      "name": "Josh Pais",
+      "role": "Carl",
+      "url": "https://multimovies.city/cast/josh-pais/",
+      "image": "https://image.tmdb.org/t/p/w92/uH90fGfLLzYCX02yOW3kH4LMO7n.jpg"
+    },
+    {
+      "name": "Richard Kind",
+      "role": "Louis Tiboni",
+      "url": "https://multimovies.city/cast/richard-kind/",
+      "image": "https://image.tmdb.org/t/p/w92/qg60uiHnDP4b2pVgdFtRhGlxtq.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bX5UVSVDOcuFMJh2zWN6gXbKswM.jpg",
+    "https://image.tmdb.org/t/p/w300/ql5O32n3QWXb35iAuvDaIcJGOES.jpg",
+    "https://image.tmdb.org/t/p/w300/ssoi4Fn0xw5v7GaDnZ8XvJ91sRb.jpg",
+    "https://image.tmdb.org/t/p/w300/lDRYgzLrKzXoK8BH0nswStMCrr4.jpg"
+  ],
+  "similar": [],
+  "views": 3585,
+  "sources": [
+    "https://www.youtube.com/embed/y9qD07tX8-E?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/pnu81yq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 71768,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 71768,
+      "nume": 1,
+      "title": "vd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:45:37.991351"
+}
