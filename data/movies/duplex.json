@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/duplex/",
+  "meta": {
+    "title": "Duplex",
+    "poster": "https://image.tmdb.org/t/p/w500/qM4pY3ODOgV0HygDkYh6Y9oyxhZ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Sep. 26, 2003",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+    "infoFields": {
+      "Original title": "Duplex",
+      "IMDb Rating": "5.9 62,490 votes",
+      "TMDb Rating": "6.099 1,634 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Danny DeVito",
+      "role": "Director",
+      "url": "https://multimovies.city/director/danny-devito/",
+      "image": "https://image.tmdb.org/t/p/w92/gNHF2SNXFFCRqwIQ2Xv6r6aV6UD.jpg"
+    },
+    {
+      "name": "Ben Stiller",
+      "role": "Alex Rose",
+      "url": "https://multimovies.city/cast/ben-stiller/",
+      "image": "https://image.tmdb.org/t/p/w92/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "name": "Drew Barrymore",
+      "role": "Nancy Kendricks",
+      "url": "https://multimovies.city/cast/drew-barrymore/",
+      "image": "https://image.tmdb.org/t/p/w92/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg"
+    },
+    {
+      "name": "Amber Valletta",
+      "role": "C\u00e9line",
+      "url": "https://multimovies.city/cast/amber-valletta/",
+      "image": "https://image.tmdb.org/t/p/w92/oi5iNd0bYhcyK7f9TUqYOZkdZXj.jpg"
+    },
+    {
+      "name": "Eileen Essell",
+      "role": "Mrs. Connelly",
+      "url": "https://multimovies.city/cast/eileen-essell/",
+      "image": "https://image.tmdb.org/t/p/w92/uIb38xoBdw1lDmQ7wzFXjZ9e93E.jpg"
+    },
+    {
+      "name": "Harvey Fierstein",
+      "role": "Kenneth",
+      "url": "https://multimovies.city/cast/harvey-fierstein/",
+      "image": "https://image.tmdb.org/t/p/w92/4th4mr9iR23DdjFjVGhrtCnJRNq.jpg"
+    },
+    {
+      "name": "Justin Theroux",
+      "role": "Coop",
+      "url": "https://multimovies.city/cast/justin-theroux/",
+      "image": "https://image.tmdb.org/t/p/w92/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg"
+    },
+    {
+      "name": "Swoosie Kurtz",
+      "role": "Jean",
+      "url": "https://multimovies.city/cast/swoosie-kurtz/",
+      "image": "https://image.tmdb.org/t/p/w92/uCHMttpxVITjDXtjs8FS6O7TQHx.jpg"
+    },
+    {
+      "name": "Jackie Sandler",
+      "role": "Bartender",
+      "url": "https://multimovies.city/cast/jackie-sandler/",
+      "image": "https://image.tmdb.org/t/p/w92/j9XiOUVtolVM3sWGcLCw6yQSbJV.jpg"
+    },
+    {
+      "name": "Robert Wisdom",
+      "role": "Officer Dan",
+      "url": "https://multimovies.city/cast/robert-wisdom/",
+      "image": "https://image.tmdb.org/t/p/w92/5fd8CwnL2YpWyq2G9WooejgnKiX.jpg"
+    },
+    {
+      "name": "James Remar",
+      "role": "Chick",
+      "url": "https://multimovies.city/cast/james-remar/",
+      "image": "https://image.tmdb.org/t/p/w92/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7LF2EjlI4VMR2btRDjqYsIdd4ML.jpg",
+    "https://image.tmdb.org/t/p/w300/75pel24B0s7ITrYjKgWy3dUCL6n.jpg",
+    "https://image.tmdb.org/t/p/w300/oeTi0CITzl6d1rsTOLx1WaqwTVc.jpg",
+    "https://image.tmdb.org/t/p/w300/kmpLellhoXZ5RzbwL9Zsh80fmAI.jpg"
+  ],
+  "similar": [],
+  "views": 510,
+  "sources": [
+    "https://www.youtube.com/embed/lcsFE7C80-o?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/tgejn0o"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 55454,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 55454,
+      "nume": 1,
+      "title": "gdmirror"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:46:31.793937"
+}
