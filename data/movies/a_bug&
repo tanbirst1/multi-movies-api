@@ -1,0 +1,137 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/a-bugs-life/",
+  "meta": {
+    "title": "A Bug\u2019s Life",
+    "poster": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Nov. 25, 1998",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "On behalf of \u201coppressed bugs everywhere,\u201d an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
+    "infoFields": {
+      "Original title": "A Bug's Life",
+      "IMDb Rating": "7.2 305,106 votes",
+      "TMDb Rating": "6.968 8,476 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Andrew Stanton",
+      "role": "Director",
+      "url": "https://multimovies.city/director/andrew-stanton/",
+      "image": "https://image.tmdb.org/t/p/w92/tRwWuo06aN9vuXAPaswMN42x2ii.jpg"
+    },
+    {
+      "name": "Dave Foley",
+      "role": "Flik (voice)",
+      "url": "https://multimovies.city/cast/dave-foley/",
+      "image": "https://image.tmdb.org/t/p/w92/muHRRGDTE7ZWk3guqDAk9L4DqVX.jpg"
+    },
+    {
+      "name": "Kevin Spacey",
+      "role": "Hopper (voice)",
+      "url": "https://multimovies.city/cast/kevin-spacey/",
+      "image": "https://image.tmdb.org/t/p/w92/dlVRkUYKyZdJ39AN55cY1LoyXAP.jpg"
+    },
+    {
+      "name": "Julia Louis-Dreyfus",
+      "role": "Atta (voice)",
+      "url": "https://multimovies.city/cast/julia-louis-dreyfus/",
+      "image": "https://image.tmdb.org/t/p/w92/pDzlVQhjxKQBpb9NcQ3hR20kz3z.jpg"
+    },
+    {
+      "name": "Hayden Panettiere",
+      "role": "Dot (voice)",
+      "url": "https://multimovies.city/cast/hayden-panettiere/",
+      "image": "https://image.tmdb.org/t/p/w92/bhGkVHCFu8peC4rIXIUMWCQqZR7.jpg"
+    },
+    {
+      "name": "Phyllis Diller",
+      "role": "Queen (voice)",
+      "url": "https://multimovies.city/cast/phyllis-diller/",
+      "image": "https://image.tmdb.org/t/p/w92/bPu5PcL6cwxKJ7xuBHcdgsdKk1H.jpg"
+    },
+    {
+      "name": "Richard Kind",
+      "role": "Molt (voice)",
+      "url": "https://multimovies.city/cast/richard-kind/",
+      "image": "https://image.tmdb.org/t/p/w92/qg60uiHnDP4b2pVgdFtRhGlxtq.jpg"
+    },
+    {
+      "name": "David Hyde Pierce",
+      "role": "Slim (voice)",
+      "url": "https://multimovies.city/cast/david-hyde-pierce/",
+      "image": "https://image.tmdb.org/t/p/w92/zMK62Gtvmuz8I4DFIOUPDcaKCVu.jpg"
+    },
+    {
+      "name": "Joe Ranft",
+      "role": "Heimlich (voice)",
+      "url": "https://multimovies.city/cast/joe-ranft/",
+      "image": "https://image.tmdb.org/t/p/w92/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg"
+    },
+    {
+      "name": "Denis Leary",
+      "role": "Francis (voice)",
+      "url": "https://multimovies.city/cast/denis-leary/",
+      "image": "https://image.tmdb.org/t/p/w92/nAqHuIw8z1QodcXdaJQShKogVFa.jpg"
+    },
+    {
+      "name": "Jonathan Harris",
+      "role": "Manny (voice)",
+      "url": "https://multimovies.city/cast/jonathan-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/ieLNe2cBJTJ2Aeb3QAXVp6w1sKu.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+    "https://image.tmdb.org/t/p/w300/s0eIBHJROgDWO3IoOt8FfQCFPGh.jpg",
+    "https://image.tmdb.org/t/p/w300/pWd09ohdwOSNF4IWG8a25qORc2O.jpg",
+    "https://image.tmdb.org/t/p/w300/u2HrA8BMvvHURz5mVOIe9EM1zGx.jpg",
+    "https://image.tmdb.org/t/p/w300/uPaYMfkKG1ZHz2mQPykrnyCYDdG.jpg",
+    "https://image.tmdb.org/t/p/w300/vhJfI0UaV43FTJec7r5KJMPSWoH.jpg",
+    "https://image.tmdb.org/t/p/w300/57N1OIMvx8cE9AW1hP55fCCdKuk.jpg",
+    "https://image.tmdb.org/t/p/w300/fF1OCqGpYowRzrWvyZC7OROXRiO.jpg",
+    "https://image.tmdb.org/t/p/w300/oxtcDWueBsY8KlFLdBhu6a2DvCN.jpg"
+  ],
+  "similar": [],
+  "views": 1524,
+  "sources": [
+    "https://www.youtube.com/embed/Ljk2YJ53_WI?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/8ujojfnu0wt1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 29522,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 29522,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
