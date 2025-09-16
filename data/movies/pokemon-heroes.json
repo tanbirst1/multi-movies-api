@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/pokemon-heroes/",
+  "meta": {
+    "title": "Pok\u00e9mon Movie 5: Heroes Latios and Latias",
+    "poster": "https://image.tmdb.org/t/p/w500/qHcZJ3MkTay6XCzgb8BPy22qHPR.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      }
+    ],
+    "firstAirDate": "Jul. 13, 2002",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Ash, Pikachu and his friends try and stop a pair of thieves hiding out in the canals and alleyways of Altomare, the age-old water capital. Joining the adventure are two new legendary Pok\u00e9mon, a pair of siblings named Latias and Latios, who serve as peacekeepers and protectors of the Soul Dew \u2013 a priceless treasure with a mysterious power.",
+    "infoFields": {
+      "Original title": "\u5287\u5834\u7248\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u6c34\u306e\u90fd\u306e\u8b77\u795e \u30e9\u30c6\u30a3\u30a2\u30b9\u3068\u30e9\u30c6\u30a3\u30aa\u30b9",
+      "IMDb Rating": "6 6,575 votes",
+      "TMDb Rating": "6.635 310 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kunihiko Yuyama",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kunihiko-yuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/m9TuHUsVZXwacadFyDIZ7BKFkrM.jpg"
+    },
+    {
+      "name": "Rica Matsumoto",
+      "role": "Satoshi (voice)",
+      "url": "https://multimovies.city/cast/rica-matsumoto/",
+      "image": "https://image.tmdb.org/t/p/w92/ykm6ZpLcX5wblCNp7rOAoZpCh3L.jpg"
+    },
+    {
+      "name": "Ikue Otani",
+      "role": "Pikachu (voice)",
+      "url": "https://multimovies.city/cast/ikue-otani/",
+      "image": "https://image.tmdb.org/t/p/w92/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "name": "Mayumi Izuka",
+      "role": "Kasumi (voice)",
+      "url": "https://multimovies.city/cast/mayumi-izuka/",
+      "image": "https://image.tmdb.org/t/p/w92/mg1ZCF9fhbBOgHgpL98g6CkWndc.jpg"
+    },
+    {
+      "name": "Satomi Korogi",
+      "role": "Togepy (voice)",
+      "url": "https://multimovies.city/cast/satomi-korogi/",
+      "image": "https://image.tmdb.org/t/p/w92/k6aNf0zGFGBptCMeFwHV88nlITX.jpg"
+    },
+    {
+      "name": "Yuji Ueda",
+      "role": "Takeshi (voice)",
+      "url": "https://multimovies.city/cast/yuji-ueda/",
+      "image": "https://image.tmdb.org/t/p/w92/nwJBK4WwsUCcBcX425GD2BroJDr.jpg"
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "role": "Musashi / Latias (voice)",
+      "url": "https://multimovies.city/cast/megumi-hayashibara/",
+      "image": "https://image.tmdb.org/t/p/w92/wqwCa9PNUBXPuN9MpSnYq2dz740.jpg"
+    },
+    {
+      "name": "Shin-ichiro Miki",
+      "role": "Kojiro / Crobat (voice)",
+      "url": "https://multimovies.city/cast/shin-ichiro-miki/",
+      "image": "https://image.tmdb.org/t/p/w92/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
+    },
+    {
+      "name": "Inuko Inuyama",
+      "role": "Nyarth (voice)",
+      "url": "https://multimovies.city/cast/inuko-inuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/bA6BQgafhEyRFMh4EbZQJqvIVWY.jpg"
+    },
+    {
+      "name": "Fumiko Orikasa",
+      "role": "Kanon (voice)",
+      "url": "https://multimovies.city/cast/fumiko-orikasa/",
+      "image": "https://image.tmdb.org/t/p/w92/e7yC3GzPli4uHO1flPUozlXXIue.jpg"
+    },
+    {
+      "name": "Masashi Ebara",
+      "role": "Latios (voice)",
+      "url": "https://multimovies.city/cast/masashi-ebara/",
+      "image": "https://image.tmdb.org/t/p/w92/5O2aZ7Hc2dkBRLkyzKYp0PtLZW0.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6nfEmbfWMuMBenYMOY6Vdho3Ycg.jpg",
+    "https://image.tmdb.org/t/p/w300/oYnVUVQxOFPqObtNtiAQHdnXc96.jpg"
+  ],
+  "similar": [],
+  "views": 1118,
+  "sources": [
+    "https://www.youtube.com/embed/0czLeuT6rU0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/rjcmrq5blfy1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 29241,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 29241,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:37:17.179018"
+}
