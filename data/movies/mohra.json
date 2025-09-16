@@ -1,0 +1,107 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/mohra/",
+  "meta": {
+    "title": "Mohra",
+    "poster": "https://image.tmdb.org/t/p/w500/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 01, 1994",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Journalist Roma Singh is the daughter of a jailer. While taking a tour of the jail, she is molested by some of the inmates, and an inmate, Vishal Agnihotri comes to her assistance. She finds out that Vishal is in for four homicides, and decides to investigate further. She finds out, with the help of the owner of her publications, Jindal that Vishal was compelled to take the law in his own hands when the courts failed to punish the assailants of his sister and sweetheart. Soon, Vishal is released from prison, and begins to work for Jindal. It is then that he realizes that he has just walked from a walled prison, to an open prison, as the truth behind his release slowly but surely starts to dawn on him.",
+    "infoFields": {
+      "Original title": "Mohra",
+      "IMDb Rating": "7 8,670 votes",
+      "TMDb Rating": "6.3 35 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rajiv Rai",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rajiv-rai/",
+      "image": "https://image.tmdb.org/t/p/w92/TyyZLoOWSFKzWMZJgqfo0Wuy80.jpg"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Amar Saxena",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/gaINfJtR19rNTIsI2cF3KFjyAB7.jpg"
+    },
+    {
+      "name": "Suniel Shetty",
+      "role": "Vishal Agnihotri",
+      "url": "https://multimovies.city/cast/suniel-shetty/",
+      "image": "https://image.tmdb.org/t/p/w92/8zdduuPcsoUtBbCA8rl17X44jwe.jpg"
+    },
+    {
+      "name": "Raveena Tandon",
+      "role": "Roma Singh",
+      "url": "https://multimovies.city/cast/raveena-tandon/",
+      "image": "https://image.tmdb.org/t/p/w92/3ifGMlHKKRFvK9Sg5y2bs5jWUlI.jpg"
+    },
+    {
+      "name": "Naseeruddin Shah",
+      "role": "Mr. Jindal",
+      "url": "https://multimovies.city/cast/naseeruddin-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/lFvGfKypi5NNyUjrsT8Y7ebWc7G.jpg"
+    },
+    {
+      "name": "Raza Murad",
+      "role": "Jibran",
+      "url": "https://multimovies.city/cast/raza-murad/",
+      "image": "https://image.tmdb.org/t/p/w92/gMyvs7yl3woLOiBgFGB3V08utBc.jpg"
+    },
+    {
+      "name": "Kulbhushan Kharbanda",
+      "role": "Jailer (Roma's dad)",
+      "url": "https://multimovies.city/cast/kulbhushan-kharbanda/",
+      "image": "https://image.tmdb.org/t/p/w92/iboGvJPKZ98kU8YKgomn9Jpk0XN.jpg"
+    },
+    {
+      "name": "Priya Tendulkar",
+      "role": "Pooja (special appearance)",
+      "url": "https://multimovies.city/cast/priya-tendulkar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/aqefL6h2TkeZgUsXoHJjbPERnIE.jpg"
+  ],
+  "similar": [],
+  "views": 926,
+  "sources": [
+    "https://www.youtube.com/embed/fMIYSgXh7FI?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/e4ksvs3bp0wq"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 48750,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 48750,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
