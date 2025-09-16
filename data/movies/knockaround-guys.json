@@ -4,15 +4,130 @@
   "meta": {
     "title": "Knockaround Guys",
     "poster": "https://image.tmdb.org/t/p/w500/oYqsIxxIfJMRHiNEMLzgG81brkY.jpg",
-    "synopsis": "Four sons of well-known New York mobsters must retrieve a bag of cash from a small Montana town ruled by a corrupt sheriff."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Nov. 30, 2001",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Four sons of well-known New York mobsters must retrieve a bag of cash from a small Montana town ruled by a corrupt sheriff.",
+    "infoFields": {
+      "Original title": "Knockaround Guys",
+      "IMDb Rating": "6.1 24,894 votes",
+      "TMDb Rating": "6 332 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "David Levien",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-levien/",
+      "image": "https://image.tmdb.org/t/p/w92/ffc02PxxyfR1JPbUE7eqPJgWXro.jpg"
+    },
+    {
+      "name": "Barry Pepper",
+      "role": "Matty Demaret",
+      "url": "https://multimovies.city/cast/barry-pepper/",
+      "image": "https://image.tmdb.org/t/p/w92/pmdNUqrpsoozh7QYqUgEgZQ69cA.jpg"
+    },
+    {
+      "name": "Andy Davoli",
+      "role": "Chris Scarpa",
+      "url": "https://multimovies.city/cast/andy-davoli/",
+      "image": "https://image.tmdb.org/t/p/w92/szVrhxfzlwvhD530a4Yzor4fjTY.jpg"
+    },
+    {
+      "name": "Dennis Hopper",
+      "role": "Benny Chains",
+      "url": "https://multimovies.city/cast/dennis-hopper/",
+      "image": "https://image.tmdb.org/t/p/w92/auMK1yGFhxgjwSlbveJSXDUEtgR.jpg"
+    },
+    {
+      "name": "Seth Green",
+      "role": "Johnny Marbles",
+      "url": "https://multimovies.city/cast/seth-green/",
+      "image": "https://image.tmdb.org/t/p/w92/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+    },
+    {
+      "name": "Vin Diesel",
+      "role": "Taylor Reese",
+      "url": "https://multimovies.city/cast/vin-diesel/",
+      "image": "https://image.tmdb.org/t/p/w92/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+      "name": "John Malkovich",
+      "role": "Teddy Deserve",
+      "url": "https://multimovies.city/cast/john-malkovich/",
+      "image": "https://image.tmdb.org/t/p/w92/5coH0AExljEnbseCXKL4CDOVQj8.jpg"
+    },
+    {
+      "name": "Tom Noonan",
+      "role": "Sheriff Decker",
+      "url": "https://multimovies.city/cast/tom-noonan/",
+      "image": "https://image.tmdb.org/t/p/w92/8cwl9gaCr0F0yJ518nc6baebPLL.jpg"
+    },
+    {
+      "name": "Arthur J. Nascarella",
+      "role": "Billy Clueless",
+      "url": "https://multimovies.city/cast/arthur-j-nascarella/",
+      "image": "https://image.tmdb.org/t/p/w92/76LAigu7y50aPIhkAJbJZIC8p70.jpg"
+    },
+    {
+      "name": "Kevin Gage",
+      "role": "Brucker",
+      "url": "https://multimovies.city/cast/kevin-gage/",
+      "image": "https://image.tmdb.org/t/p/w92/nTaDLkN1RAhPGaM0AO1CFysnwUl.jpg"
+    },
+    {
+      "name": "Nicholas Pasco",
+      "role": "Freddy the Watch",
+      "url": "https://multimovies.city/cast/nicholas-pasco/",
+      "image": "https://image.tmdb.org/t/p/w92/bp4cg7ln6bnB2DP6ogx3C45jxPq.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/8TDn6U9IqJIvA7c4j51ZO6wZY8P.jpg",
+    "https://image.tmdb.org/t/p/w300/ggDh0VgTO8WIL0X3i4Q2TyQTbCC.jpg",
+    "https://image.tmdb.org/t/p/w300/7G1hjxXo5VytFd1EIbyoNYDVqOS.jpg",
+    "https://image.tmdb.org/t/p/w300/38UmY2YynkF1Rs1m5IxqpbUfDWm.jpg",
+    "https://image.tmdb.org/t/p/w300/gnKRFZTcdQE4iHnpnuGRXRP0jqz.jpg",
+    "https://image.tmdb.org/t/p/w300/w7KNiR572ebVSCkvTBiJDwdK6B.jpg",
+    "https://image.tmdb.org/t/p/w300/lrB3dU7hPkea8I4eSS5SaZ0IuM3.jpg",
+    "https://image.tmdb.org/t/p/w300/cmr9iiT1HQUCPNO3eWgh0x2F3wd.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 238,
+  "sources": [
+    "https://www.youtube.com/embed/Am3rYXFhvV8?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/i1d2rrl8bpyu"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 52139,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 52139,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:31:36.044917"
 }
