@@ -1,0 +1,122 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/atithi-tum-kab-jaoge/",
+  "meta": {
+    "title": "Atithi Tum Kab Jaoge?",
+    "poster": "https://image.tmdb.org/t/p/w500/cia1gaHHjO626oSSH5Pf9hwbXN0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      }
+    ],
+    "firstAirDate": "Feb. 26, 2010",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "The story of a happily married couple living in Mumbai whose lives take an interesting turn when a distant relative turns up unannounced at their doorstep from a far off village.",
+    "infoFields": {
+      "Original title": "\u0905\u0924\u093f\u0925\u093f \u0924\u0941\u092e \u0915\u092c \u091c\u093e\u0913\u0917\u0947?",
+      "IMDb Rating": "6.4 6,325 votes",
+      "TMDb Rating": "6.305 41 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Ashwni Dhir",
+      "role": "Director",
+      "url": "https://multimovies.city/director/ashwni-dhir/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ajay Devgn",
+      "role": "Puneet Bajpai",
+      "url": "https://multimovies.city/cast/ajay-devgn/",
+      "image": "https://image.tmdb.org/t/p/w92/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg"
+    },
+    {
+      "name": "Konkona Sen Sharma",
+      "role": "Munmun Bajpai",
+      "url": "https://multimovies.city/cast/konkona-sen-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/rl6VL6tMqjuxs6SO6r2329ALxZ9.jpg"
+    },
+    {
+      "name": "Paresh Rawal",
+      "role": "Lambodar Chacha",
+      "url": "https://multimovies.city/cast/paresh-rawal/",
+      "image": "https://image.tmdb.org/t/p/w92/vqqA4DVnqIfvmGtwdwHtHEzMvst.jpg"
+    },
+    {
+      "name": "Sanjay Mishra",
+      "role": "Watchman",
+      "url": "https://multimovies.city/cast/sanjay-mishra/",
+      "image": "https://image.tmdb.org/t/p/w92/4MGKohKGU4v9SoXcQKCcC4e4Bpi.jpg"
+    },
+    {
+      "name": "Mukesh Tiwari",
+      "role": "Inspector",
+      "url": "https://multimovies.city/cast/mukesh-tiwari/",
+      "image": "https://image.tmdb.org/t/p/w92/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg"
+    },
+    {
+      "name": "Satish Kaushik",
+      "role": "Ranjeet Taneja",
+      "url": "https://multimovies.city/cast/satish-kaushik/",
+      "image": "https://image.tmdb.org/t/p/w92/lnqVTsUKVxJYPWN3KRBhRlGP1Z0.jpg"
+    },
+    {
+      "name": "Akhilendra Mishra",
+      "role": "Suleiman Bhai",
+      "url": "https://multimovies.city/cast/akhilendra-mishra/",
+      "image": "https://image.tmdb.org/t/p/w92/98XU1EhlP6i6CqEvuYtyCzoTlf.jpg"
+    },
+    {
+      "name": "Viju Khote",
+      "role": "Kaalia",
+      "url": "https://multimovies.city/cast/viju-khote/",
+      "image": "https://image.tmdb.org/t/p/w92/fjPPIsJpmdFssi0IcwHNRPmnL5m.jpg"
+    },
+    {
+      "name": "Rohitash Gaud",
+      "role": "Niranjan Tripathi",
+      "url": "https://multimovies.city/cast/rohitash-gaud/",
+      "image": "https://image.tmdb.org/t/p/w92/tOfrq4uuMR91ZCdWpNLcV4h0qfd.jpg"
+    },
+    {
+      "name": "Hrishikesh Joshi",
+      "role": "Godbole Saab",
+      "url": "https://multimovies.city/cast/hrishikesh-joshi/",
+      "image": "https://image.tmdb.org/t/p/w92/swtkiDq15JWXYUUE9r75HzkWy7s.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5V9ljea8oH5BS1udHOTmbK8C82B.jpg"
+  ],
+  "similar": [],
+  "views": 2145,
+  "sources": [
+    "https://www.youtube.com/embed/560FtBaW9Ks?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/danmu0mmbuq2"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 3468,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 3468,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:37:06.554446"
+}
