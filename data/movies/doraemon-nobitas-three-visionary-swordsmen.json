@@ -1,0 +1,89 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/doraemon-nobitas-three-visionary-swordsmen/",
+  "meta": {
+    "title": "Doraemon: Nobita\u2019s Three Visionary Swordsmen",
+    "poster": "https://image.tmdb.org/t/p/w500/oll0P8SNBrz5vafdq8MDkCyqUEJ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Doraemon Movies",
+        "url": "https://multimovies.city/genre/doraemon/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      }
+    ],
+    "firstAirDate": "Mar. 12, 1994",
+    "ratingValue": "9.9",
+    "ratingCount": "10",
+    "synopsis": "Tired of constantly having nightmares, Nobita ask for Doraemon to bring a Dream Machine which would allow Nobita to dream of anything he wants. After an attempt to have a dream about the fall of Atlantis fails, he chooses a dream where he is in a fantasy world with an inspiration from The Three Musketeers. Together Nobita and his friends must defeat the evil King before he escapes from Nobita\u2019s dream into other people\u2019s dreams.",
+    "infoFields": {
+      "Original title": "\u6620\u753b\u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u3068\u5922\u5e7b\u4e09\u5263\u58eb",
+      "IMDb Rating": "7.3 589 votes",
+      "TMDb Rating": "7.607 14 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tsutomu Shibayama",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tsutomu-shibayama/",
+      "image": "https://image.tmdb.org/t/p/w92/9xHbjsmKMduBQqAEmBE02gMHNAl.jpg"
+    },
+    {
+      "name": "Nobuyo Oyama",
+      "role": "Doraemon (voice)",
+      "url": "https://multimovies.city/cast/nobuyo-oyama/",
+      "image": "https://image.tmdb.org/t/p/w92/x2363EzijCCE3dpKcOHilX73MSI.jpg"
+    },
+    {
+      "name": "Noriko Ohara",
+      "role": "Nobita Nobi (voice)",
+      "url": "https://multimovies.city/cast/noriko-ohara/",
+      "image": "https://image.tmdb.org/t/p/w92/u5dvWzckBXvZw8Oexn5VN08vW7G.jpg"
+    },
+    {
+      "name": "Michiko Nomura",
+      "role": "Shizuka Minamoto (voice)",
+      "url": "https://multimovies.city/cast/michiko-nomura/",
+      "image": "https://image.tmdb.org/t/p/w92/u4aVFRfu91gxI59XETf9oMnQBrz.jpg"
+    },
+    {
+      "name": "Kaneta Kimotsuki",
+      "role": "Suneo Honegawa (voice)",
+      "url": "https://multimovies.city/cast/kaneta-kimotsuki/",
+      "image": "https://image.tmdb.org/t/p/w92/gzNyG0KgQs4eMqVB4mD8XKGrb2N.jpg"
+    },
+    {
+      "name": "Kazuya Tatekabe",
+      "role": "Takeshi Goda (voice)",
+      "url": "https://multimovies.city/cast/kazuya-tatekabe/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/2UEvUquou085rRxVZvDOfWtNjZY.jpg",
+    "https://image.tmdb.org/t/p/w300/gT2oyAst9tp0F2Pk8Lym0RhwOAC.jpg"
+  ],
+  "similar": [],
+  "views": 10984,
+  "sources": [
+    "https://multimoviesshg.com/e/ksytthbb3wlx"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 19671,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
