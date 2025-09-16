@@ -20,7 +20,7 @@
       }
     ],
     "firstAirDate": "Feb. 02, 1974",
-    "ratingValue": "6",
+    "ratingValue": "5",
     "ratingCount": "1",
     "synopsis": "Takuma Tsurugi takes on the government, the police, the mafia and an international ring of kidnappers who aim to dispossess a beautiful young heiress of her millions.",
     "infoFields": {
@@ -130,5 +130,6 @@
       "title": "v"
     }
   ],
-  "cache": false
+  "cache": false,
+  "last_update": "2025-09-16T17:04:16.044489"
 }
