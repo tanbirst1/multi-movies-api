@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/pokemon-jirachi-wish-maker/",
+  "meta": {
+    "title": "Pok\u00e9mon Movie 6: Jirachi Wish Maker",
+    "poster": "https://image.tmdb.org/t/p/w500/5TBXNazCYqi28PSqDVdeFnap3Wd.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jul. 19, 2003",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Ash, May, Brock, and Max come upon the festival of the Wishing Star of Seven Nights. During their enjoyment, the legendary Pokemon\u2013Jirachi, descends from the heavens and befriends Max. Jirachi, with the power to grant any wish, is sought after by many people wanting to claim its power. One man seeks to use its legendary power to revive an ancient Pokemon known as Groudon, unaware of the dangers hidden within Jirachi\u2019s powers",
+    "infoFields": {
+      "Original title": "\u5287\u5834\u7248\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u30a2\u30c9\u30d0\u30f3\u30b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3 \u4e03\u591c\u306e\u9858\u3044\u661f \u30b8\u30e9\u30fc\u30c1",
+      "IMDb Rating": "5.7 4,411 votes",
+      "TMDb Rating": "6.568 237 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kunihiko Yuyama",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kunihiko-yuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/m9TuHUsVZXwacadFyDIZ7BKFkrM.jpg"
+    },
+    {
+      "name": "Rica Matsumoto",
+      "role": "Satoshi (voice)",
+      "url": "https://multimovies.city/cast/rica-matsumoto/",
+      "image": "https://image.tmdb.org/t/p/w92/ykm6ZpLcX5wblCNp7rOAoZpCh3L.jpg"
+    },
+    {
+      "name": "Yuji Ueda",
+      "role": "Takeshi / Sonans (voice)",
+      "url": "https://multimovies.city/cast/yuji-ueda/",
+      "image": "https://image.tmdb.org/t/p/w92/nwJBK4WwsUCcBcX425GD2BroJDr.jpg"
+    },
+    {
+      "name": "KAORI",
+      "role": "Haruka (voice)",
+      "url": "https://multimovies.city/cast/kaori/",
+      "image": "https://image.tmdb.org/t/p/w92/dC2BZG5c3GoACZmXFV2qo6YtVNk.jpg"
+    },
+    {
+      "name": "Fushigi Yamada",
+      "role": "Masato (voice)",
+      "url": "https://multimovies.city/cast/fushigi-yamada/",
+      "image": "https://image.tmdb.org/t/p/w92/uoodrznII4dGQhRSjb3ogqooX8D.jpg"
+    },
+    {
+      "name": "Ikue Otani",
+      "role": "Pikachu (voice)",
+      "url": "https://multimovies.city/cast/ikue-otani/",
+      "image": "https://image.tmdb.org/t/p/w92/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "name": "Tomiko Suzuki",
+      "role": "Jirachi (voice)",
+      "url": "https://multimovies.city/cast/tomiko-suzuki/",
+      "image": "https://image.tmdb.org/t/p/w92/wngJTGZ4I0jiK6RyL1RvLqGIDRv.jpg"
+    },
+    {
+      "name": "Shin-ichiro Miki",
+      "role": "Kojiro / Flygon (voice)",
+      "url": "https://multimovies.city/cast/shin-ichiro-miki/",
+      "image": "https://image.tmdb.org/t/p/w92/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "role": "Musashi / Absol (voice)",
+      "url": "https://multimovies.city/cast/megumi-hayashibara/",
+      "image": "https://image.tmdb.org/t/p/w92/wqwCa9PNUBXPuN9MpSnYq2dz740.jpg"
+    },
+    {
+      "name": "Inuko Inuyama",
+      "role": "Nyarth (voice)",
+      "url": "https://multimovies.city/cast/inuko-inuyama/",
+      "image": "https://image.tmdb.org/t/p/w92/bA6BQgafhEyRFMh4EbZQJqvIVWY.jpg"
+    },
+    {
+      "name": "Koichi Yamadera",
+      "role": "Butler (voice)",
+      "url": "https://multimovies.city/cast/koichi-yamadera/",
+      "image": "https://image.tmdb.org/t/p/w92/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/yWl2xNPc30P9SAbCUduFpeiztUd.jpg",
+    "https://image.tmdb.org/t/p/w300/bGU8DD03FfsEPtUpu8zgu4TTHNf.jpg"
+  ],
+  "similar": [],
+  "views": 1257,
+  "sources": [
+    "https://www.youtube.com/embed/eCgjWW_5SIU?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/cumky2f7n8y4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 29243,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 29243,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:41:50.662182"
+}
