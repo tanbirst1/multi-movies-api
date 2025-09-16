@@ -4,15 +4,136 @@
   "meta": {
     "title": "Original Sin",
     "poster": "https://image.tmdb.org/t/p/w500/xvTtsdvvVr1NYlVJxWZibzhaEt5.jpg",
-    "synopsis": "A young man is plunged into a life of subterfuge, deceit and mistaken identity in pursuit of a femme fatale whose heart is never quite within his grasp."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 08, 2001",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A young man is plunged into a life of subterfuge, deceit and mistaken identity in pursuit of a femme fatale whose heart is never quite within his grasp.",
+    "infoFields": {
+      "Original title": "Original Sin",
+      "IMDb Rating": "6 61,992 votes",
+      "TMDb Rating": "6.1 841 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Michael Cristofer",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-cristofer/",
+      "image": "https://image.tmdb.org/t/p/w92/yWZr1U6A4UAatvgqvX1zmOgB92S.jpg"
+    },
+    {
+      "name": "Angelina Jolie",
+      "role": "Julia Russell / Bonnie Castle",
+      "url": "https://multimovies.city/cast/angelina-jolie/",
+      "image": "https://image.tmdb.org/t/p/w92/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
+    },
+    {
+      "name": "Antonio Banderas",
+      "role": "Luis Antonio Vargas",
+      "url": "https://multimovies.city/cast/antonio-banderas/",
+      "image": "https://image.tmdb.org/t/p/w92/5BmWgSeW8Rg6hkisEeqLM5P0OBZ.jpg"
+    },
+    {
+      "name": "Thomas Jane",
+      "role": "Walter Downs / Billy / Mephisto",
+      "url": "https://multimovies.city/cast/thomas-jane/",
+      "image": "https://image.tmdb.org/t/p/w92/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+    },
+    {
+      "name": "Gregory Itzin",
+      "role": "Colonel Worth",
+      "url": "https://multimovies.city/cast/gregory-itzin/",
+      "image": "https://image.tmdb.org/t/p/w92/lUACgFTvuhRhAC3GwnpcWMGLxo4.jpg"
+    },
+    {
+      "name": "Jack Thompson",
+      "role": "Alan Jordan",
+      "url": "https://multimovies.city/cast/jack-thompson/",
+      "image": "https://image.tmdb.org/t/p/w92/aqIViuyx2RBfUHeIvyEbxNYKLXg.jpg"
+    },
+    {
+      "name": "Allison Mackie",
+      "role": "Augusta Jordan",
+      "url": "https://multimovies.city/cast/allison-mackie/",
+      "image": "https://image.tmdb.org/t/p/w92/sMhfZaWTAyRTRpqEfGPawwr0CZB.jpg"
+    },
+    {
+      "name": "Joan Pringle",
+      "role": "Sara",
+      "url": "https://multimovies.city/cast/joan-pringle/",
+      "image": "https://image.tmdb.org/t/p/w92/3jhWnpiN1uZYtaCO7HUrqkKVwaP.jpg"
+    },
+    {
+      "name": "Cordelia Richards",
+      "role": "Emily Russel",
+      "url": "https://multimovies.city/cast/cordelia-richards/",
+      "image": "https://image.tmdb.org/t/p/w92/dBizT0QHdT4SxlzGJRSFPt2k2Ki.jpg"
+    },
+    {
+      "name": "James Haven",
+      "role": "Faust",
+      "url": "https://multimovies.city/cast/james-haven/",
+      "image": "https://image.tmdb.org/t/p/w92/eRE401Js0FJym7GaS4ttFOK4dpj.jpg"
+    },
+    {
+      "name": "Lisa Owen",
+      "role": "Margareta",
+      "url": "https://multimovies.city/cast/lisa-owen/",
+      "image": "https://image.tmdb.org/t/p/w92/t6u25UXmZ3DgXt0wxwFQxz6wuNu.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/lFDeRoh5gowXWf0O3ayEAUxePcw.jpg",
+    "https://image.tmdb.org/t/p/w300/yZvCpMjiqbwyJ0RrS9m3SqmELVv.jpg",
+    "https://image.tmdb.org/t/p/w300/sw1rILqNLMhR2hkWIOO8PGULoPA.jpg",
+    "https://image.tmdb.org/t/p/w300/6u4zm2EiOHbDS6A6VWaybdWkdNL.jpg",
+    "https://image.tmdb.org/t/p/w300/bQyX7NAkJsOn1AE01Z6og0CN0eQ.jpg",
+    "https://image.tmdb.org/t/p/w300/kFhhKXoFw7YaaeLlyePmLUOgZdd.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 5285,
+  "sources": [
+    "https://www.youtube.com/embed/pB1EiLMQ_IM?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ydk1f9k"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 82959,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 82959,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:27:10"
+  "last_update": "2025-09-16T17:29:50.882061"
 }
