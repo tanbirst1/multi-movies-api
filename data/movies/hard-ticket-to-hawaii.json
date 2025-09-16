@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hard-ticket-to-hawaii/",
+  "meta": {
+    "title": "Hard Ticket to Hawaii",
+    "poster": "https://image.tmdb.org/t/p/w500/yZBHqhCZYAAihDBgMvQziITtLUO.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Mar. 01, 1987",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "A Molokai-based civilian pilot and an undercover DEA agent intercept a delivery of diamonds intended for druglord Seth Romero. Seth, his henchmen, and other island undesirables launch a full-scale assault on the duo. If they\u2019re going to survive, they\u2019ll need the help of agent Rowdy Abilene and his partner/kickboxing expert Jade.",
+    "infoFields": {
+      "Original title": "Hard Ticket to Hawaii",
+      "IMDb Rating": "5 5,646 votes",
+      "TMDb Rating": "5.2 111 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Andy Sidaris",
+      "role": "Director",
+      "url": "https://multimovies.city/director/andy-sidaris/",
+      "image": "https://image.tmdb.org/t/p/w92/l33d8ipPzHr9428CKhpuDJ8XS8V.jpg"
+    },
+    {
+      "name": "Ronn Moss",
+      "role": "Rowdy Abilene",
+      "url": "https://multimovies.city/cast/ronn-moss/",
+      "image": "https://image.tmdb.org/t/p/w92/eBbQ5ClU47ACH0R4yFZuaxlq2z2.jpg"
+    },
+    {
+      "name": "Dona Speir",
+      "role": "Donna Hamilton",
+      "url": "https://multimovies.city/cast/dona-speir/",
+      "image": "https://image.tmdb.org/t/p/w92/zHiLqEOmaJLCigTi4xJgqTdNnmn.jpg"
+    },
+    {
+      "name": "Hope Marie Carlton",
+      "role": "Taryn",
+      "url": "https://multimovies.city/cast/hope-marie-carlton/",
+      "image": "https://image.tmdb.org/t/p/w92/dSGy125O9kMnV8jDIBatbyJ3UDW.jpg"
+    },
+    {
+      "name": "Harold Diamond",
+      "role": "Jade",
+      "url": "https://multimovies.city/cast/harold-diamond/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Rodrigo Obreg\u00f3n",
+      "role": "Seth Romero",
+      "url": "https://multimovies.city/cast/rodrigo-obregon/",
+      "image": "https://image.tmdb.org/t/p/w92/p3v0TwdaxmWvbMzC5gbteBctm82.jpg"
+    },
+    {
+      "name": "Cynthia Brimhall",
+      "role": "Edy Stark",
+      "url": "https://multimovies.city/cast/cynthia-brimhall/",
+      "image": "https://image.tmdb.org/t/p/w92/fAOJVFfyYwYI1ApVLMd7dfRYMX7.jpg"
+    },
+    {
+      "name": "Patty Duffek",
+      "role": "Pattycakes",
+      "url": "https://multimovies.city/cast/patty-duffek/",
+      "image": "https://image.tmdb.org/t/p/w92/tZgu1W8hdM8E4uzbydYv9SqgIao.jpg"
+    },
+    {
+      "name": "Wolf Larson",
+      "role": "J.J. Jackson",
+      "url": "https://multimovies.city/cast/wolf-larson/",
+      "image": "https://image.tmdb.org/t/p/w92/fUQ9l1RZVF3INPcgLPPy2mEub52.jpg"
+    },
+    {
+      "name": "Lory Green",
+      "role": "Rosie",
+      "url": "https://multimovies.city/cast/lory-green/",
+      "image": "https://image.tmdb.org/t/p/w92/iQfILvCtaxegs2ky0Qe2NKAd3BN.jpg"
+    },
+    {
+      "name": "Rustam Branaman",
+      "role": "Kimo",
+      "url": "https://multimovies.city/cast/rustam-branaman/",
+      "image": "https://image.tmdb.org/t/p/w92/k1mvFWwHjy4cPDjYWsIBBmdLEod.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/lY28TEEKBZSghM2okeLg8RmPtk7.jpg",
+    "https://image.tmdb.org/t/p/w300/uUrewNn6WU5jWFCije4opEJbA2q.jpg"
+  ],
+  "similar": [],
+  "views": 743,
+  "sources": [
+    "https://www.youtube.com/embed/UV7h4-2ZUqE?autoplay=0&autohide=1",
+    "https://multimovies.rpmhub.site/#u98y"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 74254,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 74254,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
