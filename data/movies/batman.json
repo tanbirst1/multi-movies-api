@@ -1,0 +1,170 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/batman/",
+  "meta": {
+    "title": "Batman",
+    "poster": "https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "DC Universe",
+        "url": "https://multimovies.city/genre/dc-universe/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 23, 1989",
+    "ratingValue": "9.6",
+    "ratingCount": "8",
+    "synopsis": "Batman must face his most ruthless nemesis when a deformed madman calling himself \u201cThe Joker\u201d seizes control of Gotham\u2019s criminal underworld.",
+    "infoFields": {
+      "Original title": "Batman",
+      "IMDb Rating": "7.5 385,774 votes",
+      "TMDb Rating": "7.215 6,895 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tim Burton",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tim-burton/",
+      "image": "https://image.tmdb.org/t/p/w92/oWZDgLRr4zgRiJEsOAtgntPd5bI.jpg"
+    },
+    {
+      "name": "Michael Keaton",
+      "role": "Bruce Wayne / Batman",
+      "url": "https://multimovies.city/cast/michael-keaton/",
+      "image": "https://image.tmdb.org/t/p/w92/82rxrGxOqQW2NjKsIiNbDYHFfmb.jpg"
+    },
+    {
+      "name": "Jack Nicholson",
+      "role": "Jack Napier / The Joker",
+      "url": "https://multimovies.city/cast/jack-nicholson/",
+      "image": "https://image.tmdb.org/t/p/w92/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+    },
+    {
+      "name": "Kim Basinger",
+      "role": "Vicki Vale",
+      "url": "https://multimovies.city/cast/kim-basinger/",
+      "image": "https://image.tmdb.org/t/p/w92/2Za9tISNqDt5w8lop0zZ2MHB9Yx.jpg"
+    },
+    {
+      "name": "Michael Gough",
+      "role": "Alfred Pennyworth",
+      "url": "https://multimovies.city/cast/michael-gough/",
+      "image": "https://image.tmdb.org/t/p/w92/owcwnV6dymBd9YIQKDPzVA5EtZX.jpg"
+    },
+    {
+      "name": "Jerry Hall",
+      "role": "Alicia Grissom",
+      "url": "https://multimovies.city/cast/jerry-hall/",
+      "image": "https://image.tmdb.org/t/p/w92/kInkl0xOfRhzA0x72JjIA5w2ugt.jpg"
+    },
+    {
+      "name": "Robert Wuhl",
+      "role": "Alexander Knox",
+      "url": "https://multimovies.city/cast/robert-wuhl/",
+      "image": "https://image.tmdb.org/t/p/w92/e01JiHVW5cdBkLu7aVDhRilfCvY.jpg"
+    },
+    {
+      "name": "Pat Hingle",
+      "role": "Commissioner James Gordon",
+      "url": "https://multimovies.city/cast/pat-hingle/",
+      "image": "https://image.tmdb.org/t/p/w92/QBAxFVZQ0Hu6rxlFavhwUq0zug.jpg"
+    },
+    {
+      "name": "Billy Dee Williams",
+      "role": "Harvey Dent",
+      "url": "https://multimovies.city/cast/billy-dee-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/dCiHLiCapPuRwKkM1ytVZ7PwYQY.jpg"
+    },
+    {
+      "name": "Jack Palance",
+      "role": "Carl Grissom",
+      "url": "https://multimovies.city/cast/jack-palance/",
+      "image": "https://image.tmdb.org/t/p/w92/sRr2YPa1IElRE1vG1PQcgLrS9om.jpg"
+    },
+    {
+      "name": "Tracey Walter",
+      "role": "Bob the Goon",
+      "url": "https://multimovies.city/cast/tracey-walter/",
+      "image": "https://image.tmdb.org/t/p/w92/9aALfdCcP0PDYcBmqB6auHF0Eud.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/frDS8A5vIP927KYAxTVVKRIbqZw.jpg",
+    "https://image.tmdb.org/t/p/w300/yHfezFdN9kNf2KvyUcZfEhtnFMP.jpg",
+    "https://image.tmdb.org/t/p/w300/nzw5VqOv5p1XCF0Oy0jWpiWUVEr.jpg",
+    "https://image.tmdb.org/t/p/w300/f2OS6Bx11poqPpZaaJBAvXiSiED.jpg",
+    "https://image.tmdb.org/t/p/w300/d9NW5KdOj87LdgLvxPYGJcm4FQs.jpg",
+    "https://image.tmdb.org/t/p/w300/AuUAB6bHEltolSvbBslfNSgsRIm.jpg",
+    "https://image.tmdb.org/t/p/w300/2va32apQP97gvUxaMnL5wYt4CRB.jpg",
+    "https://image.tmdb.org/t/p/w300/rBN6GPKUDZ6ZKAQiEZegZ0DZb6V.jpg",
+    "https://image.tmdb.org/t/p/w300/nYhss1BrOlJhWcjwOsC5XhN5PZi.jpg",
+    "https://image.tmdb.org/t/p/w300/nvjcKJCDPU9bDEEyTyneTj4PnuO.jpg"
+  ],
+  "similar": [],
+  "views": 4174,
+  "sources": [
+    "https://www.youtube.com/embed/ftNOhfNjXjk?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/z29bxwyeg5m0",
+    "https://sbplay.org/embed-oi08ptyp3d5k.html",
+    "https://dood.la/e/89bx084ykok6",
+    "https://mixdrop.co/e/1v86vv6qtexdwk",
+    "https://hydrax.net/watch?v=1zehN7acd"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 18719,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 18719,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 18719,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 18719,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 18719,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 18719,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
