@@ -1,0 +1,77 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tornado-warning/",
+  "meta": {
+    "title": "Tornado Warning",
+    "poster": "https://image.tmdb.org/t/p/w500/8HaY2kLfhhW0RxDhV4JpSfmVZPQ.jpg",
+    "networks": [],
+    "genres": [],
+    "firstAirDate": "Sep. 13, 2002",
+    "ratingValue": "3.5",
+    "ratingCount": "2",
+    "synopsis": "A scientist (Gerald McRaney) perfects a tornado-warning system and tries to convince residents of a nearby town that a deadly twister is approaching.",
+    "infoFields": {
+      "Original title": "Tornado Warning",
+      "IMDb Rating": "4 394 votes",
+      "TMDb Rating": "4.3 10 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tibor Tak\u00e1cs",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tibor-takacs/",
+      "image": "https://image.tmdb.org/t/p/w92/6W3KQ7vcNEs1hOFCkGq9TyeXLFo.jpg"
+    },
+    {
+      "name": "Gerald McRaney",
+      "role": "Dr. Jake Arledge",
+      "url": "https://multimovies.city/cast/gerald-mcraney/",
+      "image": "https://image.tmdb.org/t/p/w92/wT7WK9T3ZS3tQTbzPzH9RR1m6NR.jpg"
+    },
+    {
+      "name": "Thea Gill",
+      "role": "Dee Mazur",
+      "url": "https://multimovies.city/cast/thea-gill/",
+      "image": "https://image.tmdb.org/t/p/w92/aGjjkzp1spde7HICTQR8LuygPQ.jpg"
+    },
+    {
+      "name": "David Millbern",
+      "role": "Kirt Reid",
+      "url": "https://multimovies.city/cast/david-millbern/",
+      "image": "https://image.tmdb.org/t/p/w92/mJlPleNZZT2qHQul3Ir1i8r0iTk.jpg"
+    },
+    {
+      "name": "Steve Braun",
+      "role": "Mark Scott",
+      "url": "https://multimovies.city/cast/steve-braun/",
+      "image": "https://image.tmdb.org/t/p/w92/gSUxpCsSpjjTEWbNGCnxGhNKVw7.jpg"
+    },
+    {
+      "name": "Joan Van Ark",
+      "role": "Mayor McAnders",
+      "url": "https://multimovies.city/cast/joan-van-ark/",
+      "image": "https://image.tmdb.org/t/p/w92/kaFX2j8kclLUYHkNBoBIJySTMqT.jpg"
+    },
+    {
+      "name": "Michael Zelniker",
+      "role": "Steve",
+      "url": "https://multimovies.city/cast/michael-zelniker/",
+      "image": "https://image.tmdb.org/t/p/w92/7iYCoX0uxAS3ROguA3pXoqiiaNA.jpg"
+    },
+    {
+      "name": "Blake Taylor",
+      "role": "Ted",
+      "url": "https://multimovies.city/cast/blake-taylor/",
+      "image": "https://image.tmdb.org/t/p/w92/NPYpwfCFbOEbftjtj9a7g60qVp.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": null,
+  "sources": [],
+  "options": [],
+  "cache": false,
+  "last_update": "2025-09-16T17:36:15.975063"
+}
