@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/idiocracy/",
+  "meta": {
+    "title": "Idiocracy",
+    "poster": "https://image.tmdb.org/t/p/w500/rKsiNxKjhWEwndOgWPs273oy9EZ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Sep. 01, 2006",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average Americans it can find \u2013 an Army private and a prostitute \u2013 and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they\u2019re the smartest people around.",
+    "infoFields": {
+      "Original title": "Idiocracy",
+      "IMDb Rating": "6.5 182,341 votes",
+      "TMDb Rating": "6.329 2,769 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mike Judge",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mike-judge/",
+      "image": "https://image.tmdb.org/t/p/w92/8jEumAVtJ23rE4XZ0YrvVKAUKjk.jpg"
+    },
+    {
+      "name": "Luke Wilson",
+      "role": "Cpl. \"Average Joe\" Bauers / \"Not Sure\"",
+      "url": "https://multimovies.city/cast/luke-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/ul2scyx803VR5WeY9BnTup3mpEY.jpg"
+    },
+    {
+      "name": "Maya Rudolph",
+      "role": "Rita",
+      "url": "https://multimovies.city/cast/maya-rudolph/",
+      "image": "https://image.tmdb.org/t/p/w92/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
+    },
+    {
+      "name": "Dax Shepard",
+      "role": "Frito Pendejo",
+      "url": "https://multimovies.city/cast/dax-shepard/",
+      "image": "https://image.tmdb.org/t/p/w92/aaUGRjfghjgysn5grVdm8kyYN4V.jpg"
+    },
+    {
+      "name": "Terry Crews",
+      "role": "President Dwayne Elizondo Mountain Dew Herbert Camacho",
+      "url": "https://multimovies.city/cast/terry-crews/",
+      "image": "https://image.tmdb.org/t/p/w92/pxTY4SglLo5hFcMH00MxPeC5u55.jpg"
+    },
+    {
+      "name": "Anthony 'Citric' Campos",
+      "role": "Secretary of Defense",
+      "url": "https://multimovies.city/cast/anthony-citric-campos/",
+      "image": "https://image.tmdb.org/t/p/w92/sjej9gNv7wbaUHQ6SjknsMRgMHZ.jpg"
+    },
+    {
+      "name": "David Herman",
+      "role": "Secretary of State",
+      "url": "https://multimovies.city/cast/david-herman/",
+      "image": "https://image.tmdb.org/t/p/w92/rMY168K2qAk5eBg368WK3y2yOEI.jpg"
+    },
+    {
+      "name": "Sonny Castillo",
+      "role": "Prosecutor",
+      "url": "https://multimovies.city/cast/sonny-castillo/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Kevin McAfee",
+      "role": "Bailiff",
+      "url": "https://multimovies.city/cast/kevin-mcafee/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Robert Musgrave",
+      "role": "Sgt. Keller",
+      "url": "https://multimovies.city/cast/robert-musgrave/",
+      "image": "https://image.tmdb.org/t/p/w92/cHU0RBBi8euvpFkvfzVg1zexRAB.jpg"
+    },
+    {
+      "name": "Michael McCafferty",
+      "role": "Officer Collins",
+      "url": "https://multimovies.city/cast/michael-mccafferty/",
+      "image": "https://image.tmdb.org/t/p/w92/mIk1JZCdLaxi0e3s1cR57nulzGB.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9Z4msMhKvNp63sOB1ZvxPMPvqz3.jpg",
+    "https://image.tmdb.org/t/p/w300/RAEXzAweARriJaSKLWLJqJgHMv.jpg",
+    "https://image.tmdb.org/t/p/w300/jGsxSy9pMmVZfIxkJK3UdmBFPHF.jpg",
+    "https://image.tmdb.org/t/p/w300/tIGN7t3Pav9lNEmIeuR3tOo0Rzn.jpg",
+    "https://image.tmdb.org/t/p/w300/iLWjovCwkgH4hVp0XQvtxbotoya.jpg",
+    "https://image.tmdb.org/t/p/w300/5jMZLhLzUsQRQZjyuIRCgtWWJOk.jpg",
+    "https://image.tmdb.org/t/p/w300/knSZnOkXBIbHG7N72UBIIVN9GH2.jpg",
+    "https://image.tmdb.org/t/p/w300/1RbxsL6o1Zf6Vsqeg4qaFOB1da8.jpg",
+    "https://image.tmdb.org/t/p/w300/p5zxHf6iIalU0vofyv9lYUel2ol.jpg"
+  ],
+  "similar": [],
+  "views": 2347,
+  "sources": [
+    "https://www.youtube.com/embed/clYwX8Z43zg?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/t0vg1vt757nu"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 49448,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 49448,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:03:47.243110"
+}
