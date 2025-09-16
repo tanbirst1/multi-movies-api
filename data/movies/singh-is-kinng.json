@@ -1,0 +1,121 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/singh-is-kinng/",
+  "meta": {
+    "title": "Singh Is Kinng",
+    "poster": "https://image.tmdb.org/t/p/w500/vR6XqJJ3Is6C3pteQ5lv54Y3Lk6.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      }
+    ],
+    "firstAirDate": "Aug. 08, 2008",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A comic caper about Happy Singh, a Punjabi villager who goes through a series of misadventures and eventually becomes the King of the Australian underworld.",
+    "infoFields": {
+      "Original title": "Singh Is Kinng",
+      "IMDb Rating": "5.8 17,181 votes",
+      "TMDb Rating": "5.6 98 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Anees Bazmee",
+      "role": "Director",
+      "url": "https://multimovies.city/director/anees-bazmee/",
+      "image": "https://image.tmdb.org/t/p/w92/5ZapTXeavaYyMhhurei7qzHgd7D.jpg"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Happy Singh",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg"
+    },
+    {
+      "name": "Katrina Kaif",
+      "role": "Sonia",
+      "url": "https://multimovies.city/cast/katrina-kaif/",
+      "image": "https://image.tmdb.org/t/p/w92/sGxjQQ2ymrrplbRqFjwiJiUdc5w.jpg"
+    },
+    {
+      "name": "Om Puri",
+      "role": "Rangeela",
+      "url": "https://multimovies.city/cast/om-puri/",
+      "image": "https://image.tmdb.org/t/p/w92/npVcDkdHSROXbMPUr45MGBJFQus.jpg"
+    },
+    {
+      "name": "Ranvir Shorey",
+      "role": "Puneet",
+      "url": "https://multimovies.city/cast/ranvir-shorey/",
+      "image": "https://image.tmdb.org/t/p/w92/bkJYFpPmBB77GwlbjCIgYE8qVrO.jpg"
+    },
+    {
+      "name": "Neha Dhupia",
+      "role": "Julie",
+      "url": "https://multimovies.city/cast/neha-dhupia/",
+      "image": "https://image.tmdb.org/t/p/w92/tZh9EOs1pEiu9iqRl4gwTubIfAh.jpg"
+    },
+    {
+      "name": "Sonu Sood",
+      "role": "Lakhan Singh (Lucky)",
+      "url": "https://multimovies.city/cast/sonu-sood/",
+      "image": "https://image.tmdb.org/t/p/w92/rkgASPKqB0PGYfTkfjFOL6fb1RL.jpg"
+    },
+    {
+      "name": "Kirron Kher",
+      "role": "Rose Lady (Sonia's Mother)",
+      "url": "https://multimovies.city/cast/kirron-kher/",
+      "image": "https://image.tmdb.org/t/p/w92/uCaiWNukV9a2vPVRw44MZMNINPa.jpg"
+    },
+    {
+      "name": "Sudhanshu Pandey",
+      "role": "Raftaar",
+      "url": "https://multimovies.city/cast/sudhanshu-pandey/",
+      "image": "https://image.tmdb.org/t/p/w92/tDyf76J2riJcIVjQPCuGKPtuPHU.jpg"
+    },
+    {
+      "name": "Yashpal Sharma",
+      "role": "Pankaj Udaas",
+      "url": "https://multimovies.city/cast/yashpal-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/hYDZkMl6u3rM2cASabpHgrvA0mf.jpg"
+    },
+    {
+      "name": "Kamal Chopra",
+      "role": "Gurbaksh \"Guruji\" Singh",
+      "url": "https://multimovies.city/cast/kamal-chopra/",
+      "image": "https://image.tmdb.org/t/p/w92/wkiVw5GnBacRCvhHlEypaJ7lk3R.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7rQSyfBE7WTRShRJQ8HRVfQzp2N.jpg",
+    "https://image.tmdb.org/t/p/w300/l1hFKYKtyOjB9rYIoGqrybLtv5p.jpg",
+    "https://image.tmdb.org/t/p/w300/wgcnCaoJR1qd0jQruM1GygBI7ZI.jpg"
+  ],
+  "similar": [],
+  "views": 937,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/t9humkn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 78936,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:24:59.646125"
+}
