@@ -1,9 +1,1270 @@
 {
   "source": "https://multimovies.city/movies/",
   "total_pages": 191,
-  "current_page": 195,
-  "last_update": "2025-09-16 14:14:26",
+  "current_page": 185,
+  "last_update": "2025-09-16 14:33:41",
   "sections": {
-    "Recently added": []
+    "Recently added": [
+      {
+        "title": "Pok\u00e9mon Movie 1: Mewtwo Strikes Back",
+        "link": "/movies/pokemon-the-first-movie/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "The Mask of Zorro",
+        "link": "/movies/the-mask-of-zorro/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Dushman",
+        "link": "/movies/dushman/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "American History X",
+        "link": "/movies/american-history-x/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Doctor Dolittle",
+        "link": "/movies/doctor-dolittle/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Blackjack",
+        "link": "/movies/blackjack/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "The Truman Show",
+        "link": "/movies/the-truman-show/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Godzilla",
+        "link": "/movies/godzilla-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Duplicate",
+        "link": "/movies/duplicate/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "The Big Hit",
+        "link": "/movies/the-big-hit/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Taxi",
+        "link": "/movies/taxi/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Doraemon: Nobita\u2019s Great Adventure in the South Seas",
+        "link": "/movies/doraemon-nobitas-great-adventure-in-the-south-seas/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "The Big Lebowski",
+        "link": "/movies/the-big-lebowski/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "The Replacement Killers",
+        "link": "/movies/the-replacement-killers/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Who Am I?",
+        "link": "/movies/who-am-i/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Life Is Beautiful",
+        "link": "/movies/life-is-beautiful/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "As Good as It Gets",
+        "link": "/movies/as-good-as-it-gets/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Home Alone 3",
+        "link": "/movies/home-alone-3/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Scream 2",
+        "link": "/movies/scream-2-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "James Bond Part 19 : Tomorrow Never Dies",
+        "link": "/movies/tomorrow-never-dies/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Good Will Hunting",
+        "link": "/movies/good-will-hunting/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Ishq",
+        "link": "/movies/ishq/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Flubber",
+        "link": "/movies/flubber/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Alien Resurrection",
+        "link": "/movies/alien-resurrection/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Mortal Kombat: Annihilation",
+        "link": "/movies/mortal-kombat-annihilation/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Dil To Pagal Hai",
+        "link": "/movies/dil-to-pagal-hai/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "The Devil&#8217;s Advocate",
+        "link": "/movies/the-devils-advocate/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Boogie Nights",
+        "link": "/movies/boogie-nights/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Lolita",
+        "link": "/movies/lolita/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Seven Years in Tibet",
+        "link": "/movies/seven-years-in-tibet/",
+        "img": null,
+        "last_update": "2025-09-16 14:19:06"
+      },
+      {
+        "title": "Big Daddy",
+        "link": "/movies/big-daddy-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Tarzan",
+        "link": "/movies/tarzan/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Biwi No.1",
+        "link": "/movies/biwi-no-1/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Star Wars: Episode I &#8211; The Phantom Menace",
+        "link": "/movies/star-wars-episode-i-the-phantom-menace/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Following",
+        "link": "/movies/following/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Entrapment",
+        "link": "/movies/entrapment/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "The Mummy",
+        "link": "/movies/the-mummy/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "10 Things I Hate About You",
+        "link": "/movies/10-things-i-hate-about-you/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "The Matrix",
+        "link": "/movies/the-matrix/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Baby Geniuses",
+        "link": "/movies/baby-geniuses/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Doraemon The Movie Nobita Ki Universe Yatra",
+        "link": "/movies/doraemon-nobita-drifts-in-the-universe/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Aa ab Laut Chalen",
+        "link": "/movies/aa-ab-laut-chalen/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Hum Dil De Chuke Sanam",
+        "link": "/movies/hum-dil-de-chuke-sanam/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Patch Adams",
+        "link": "/movies/patch-adams/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "A Bug&#8217;s Life",
+        "link": "/movies/a-bugs-life/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "The Rugrats Movie",
+        "link": "/movies/the-rugrats-movie/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Meet Joe Black",
+        "link": "/movies/meet-joe-black/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "The Lion King II: Simba&#8217;s Pride",
+        "link": "/movies/the-lion-king-ii-simbas-pride/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Scooby-Doo on Zombie Island",
+        "link": "/movies/scooby-doo-on-zombie-island/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Kuch Kuch Hota Hai",
+        "link": "/movies/kuch-kuch-hota-hai/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Antz",
+        "link": "/movies/antz/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "A Night at the Roxbury",
+        "link": "/movies/a-night-at-the-roxbury/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Rush Hour",
+        "link": "/movies/rush-hour/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Earth",
+        "link": "/movies/earth/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Elizabeth",
+        "link": "/movies/elizabeth/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Dil Se..",
+        "link": "/movies/dil-se/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Blade",
+        "link": "/movies/blade/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Pocahontas II: Journey to a New World",
+        "link": "/movies/pocahontas-ii-journey-to-a-new-world/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "BASEketball",
+        "link": "/movies/baseketball/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "Angaaray",
+        "link": "/movies/angaaray/",
+        "img": null,
+        "last_update": "2025-09-16 14:20:44"
+      },
+      {
+        "title": "American Psycho",
+        "link": "/movies/american-psycho/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "The Road to El Dorado",
+        "link": "/movies/the-road-to-el-dorado/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Hera Pheri",
+        "link": "/movies/hera-pheri/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Final Destination",
+        "link": "/movies/final-destination/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Doraemon The Movie Yeh Bhi Tha Nobita Woh Bhi Tha Nobita",
+        "link": "/movies/doraemon-nobitas-the-legend-of-the-sun-king/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Fortress 2",
+        "link": "/movies/fortress-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Boiler Room",
+        "link": "/movies/boiler-room/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Pitch Black",
+        "link": "/movies/pitch-black/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Scream 3",
+        "link": "/movies/scream-3/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Sultaan",
+        "link": "/movies/sultaan/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Phir Bhi Dil Hai Hindustani",
+        "link": "/movies/phir-bhi-dil-hai-hindustani/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Kaho Naa&#8230; Pyaar Hai",
+        "link": "/movies/kaho-naa-pyaar-hai/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Next Friday",
+        "link": "/movies/next-friday/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Stuart Little",
+        "link": "/movies/stuart-little/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "The Green Mile",
+        "link": "/movies/the-green-mile/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "James Bond Part 20 : The World Is Not Enough",
+        "link": "/movies/the-world-is-not-enough/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Hum Saath Saath Hain",
+        "link": "/movies/hum-saath-saath-hain/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Toy Story 2",
+        "link": "/movies/toy-story-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Fight Club",
+        "link": "/movies/fight-club/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Vaastav",
+        "link": "/movies/vaastav/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "American Beauty",
+        "link": "/movies/american-beauty/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Sangharsh",
+        "link": "/movies/sangharsh/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Baadshah",
+        "link": "/movies/baadshah/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Hello Brother",
+        "link": "/movies/hello-brother/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Universal Soldier: The Return",
+        "link": "/movies/universal-soldier-the-return/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Inspector Gadget",
+        "link": "/movies/inspector-gadget/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Pok\u00e9mon Movie 2: The Power of One",
+        "link": "/movies/pokemon-the-movie-2000/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Eyes Wide Shut",
+        "link": "/movies/eyes-wide-shut/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Lake Placid",
+        "link": "/movies/lake-placid/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "American Pie",
+        "link": "/movies/american-pie/",
+        "img": null,
+        "last_update": "2025-09-16 14:22:44"
+      },
+      {
+        "title": "Cast Away",
+        "link": "/movies/cast-away/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Battle Royale",
+        "link": "/movies/battle-royale/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "The Emperor&#8217;s New Groove",
+        "link": "/movies/the-emperors-new-groove/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Dungeons &#038; Dragons",
+        "link": "/movies/dungeons-dragons/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Unbreakable",
+        "link": "/movies/unbreakable/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Rugrats in Paris: The Movie",
+        "link": "/movies/rugrats-in-paris-the-movie/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Charlie&#8217;s Angels",
+        "link": "/movies/charlies-angels-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Mohabbatein",
+        "link": "/movies/mohabbatein/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Memento",
+        "link": "/movies/memento/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Requiem for a Dream",
+        "link": "/movies/requiem-for-a-dream/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Meet the Parents",
+        "link": "/movies/meet-the-parents/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Remember the Titans",
+        "link": "/movies/remember-the-titans/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Tweety&#8217;s High Flying Adventure",
+        "link": "/movies/tweetys-high-flying-adventure/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Snatch",
+        "link": "/movies/snatch/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "The Art of War",
+        "link": "/movies/the-art-of-war/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "MVP: Most Valuable Primate",
+        "link": "/movies/mvp-most-valuable-primate/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Hollow Man",
+        "link": "/movies/hollow-man/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Nutty Professor II: The Klumps",
+        "link": "/movies/nutty-professor-ii-the-klumps/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "X-Men",
+        "link": "/movies/x-men/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Pok\u00e9mon Movie 3: Spell of the Unown",
+        "link": "/movies/pokemon-3-the-movie/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Scary Movie",
+        "link": "/movies/scary-movie/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Me, Myself &#038; Irene",
+        "link": "/movies/me-myself-irene/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Spiders",
+        "link": "/movies/spiders-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Shanghai Noon",
+        "link": "/movies/shanghai-noon/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Mission: Impossible 2",
+        "link": "/movies/mission-impossible-ii/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Dinosaur",
+        "link": "/movies/dinosaur/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Chal Mere Bhai",
+        "link": "/movies/chal-mere-bhai/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Gladiator",
+        "link": "/movies/gladiator/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Shinchan: Bungle in the Jungle",
+        "link": "/movies/crayon-shin-chan-a-storm-invoking-jungle/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "The Virgin Suicides",
+        "link": "/movies/the-virgin-suicides/",
+        "img": null,
+        "last_update": "2025-09-16 14:25:04"
+      },
+      {
+        "title": "Jurassic Park 3",
+        "link": "/movies/jurassic-park-iii/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "America&#8217;s Sweethearts",
+        "link": "/movies/americas-sweethearts/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Pok\u00e9mon Movie 4: Celebi \u2013 Voice of the Forest",
+        "link": "/movies/pokemon-4ever/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Shaolin Soccer",
+        "link": "/movies/shaolin-soccer/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Cats &#038; Dogs",
+        "link": "/movies/cats-dogs/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Scary Movie 2",
+        "link": "/movies/scary-movie-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Jeepers Creepers",
+        "link": "/movies/jeepers-creepers/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Dr. Dolittle 2",
+        "link": "/movies/dr-dolittle-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "The Fast and the Furious 1",
+        "link": "/movies/the-fast-and-the-furious/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Lagaan: Once Upon a Time in India",
+        "link": "/movies/lagaan-once-upon-a-time-in-india/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Lara Croft: Tomb Raider",
+        "link": "/movies/lara-croft-tomb-raider/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Evolution",
+        "link": "/movies/evolution/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Mulholland Drive",
+        "link": "/movies/mulholland-drive/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Atlantis: The Lost Empire",
+        "link": "/movies/atlantis-the-lost-empire/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Shrek",
+        "link": "/movies/shrek/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Original Sin",
+        "link": "/movies/original-sin/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "The Mummy Returns",
+        "link": "/movies/the-mummy-returns/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "My Wife Is a Gangster",
+        "link": "/movies/my-wife-is-a-gangster/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Bridget Jones&#8217;s Diary",
+        "link": "/movies/bridget-joness-diary/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Tomcats",
+        "link": "/movies/tomcats/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "One 2 Ka 4",
+        "link": "/movies/one-2-ka-4/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Spy Kids",
+        "link": "/movies/spy-kids/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Doraemon: Nobita and the Winged Braves",
+        "link": "/movies/doraemon-nobita-and-the-winged-braves/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Chori Chori Chupke Chupke",
+        "link": "/movies/chori-chori-chupke-chupke/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Saving Silverman",
+        "link": "/movies/saving-silverman/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Kasoor",
+        "link": "/movies/kasoor/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Intimacy",
+        "link": "/movies/intimacy/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Donnie Darko",
+        "link": "/movies/donnie-darko/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "The Accidental Spy",
+        "link": "/movies/the-accidental-spy/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "Farz",
+        "link": "/movies/farz/",
+        "img": null,
+        "last_update": "2025-09-16 14:27:10"
+      },
+      {
+        "title": "The Good Girl",
+        "link": "/movies/the-good-girl/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "I Am Sam",
+        "link": "/movies/i-am-sam/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Style",
+        "link": "/movies/style/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Black Hawk Down",
+        "link": "/movies/black-hawk-down/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "How High",
+        "link": "/movies/how-high/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "link": "/movies/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Vanilla Sky",
+        "link": "/movies/vanilla-sky/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "A Beautiful Mind",
+        "link": "/movies/a-beautiful-mind/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Kabhi Khushi Kabhie Gham",
+        "link": "/movies/kabhi-khushi-kabhie-gham/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Ocean&#8217;s Eleven",
+        "link": "/movies/oceans-eleven/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Knockaround Guys",
+        "link": "/movies/knockaround-guys/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Harry Potter and the Philosopher&#8217;s Stone",
+        "link": "/movies/harry-potter-and-the-philosophers-stone/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Tera Mera Saath Rahen",
+        "link": "/movies/tera-mera-saath-rahen/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "The One",
+        "link": "/movies/the-one/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Monsters, Inc.",
+        "link": "/movies/monsters-inc/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Thir13en Ghosts",
+        "link": "/movies/thir13en-ghosts/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Rehnaa Hai Terre Dil Mein",
+        "link": "/movies/rehnaa-hai-terre-dil-mein/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Scooby-Doo! and the Cyber Chase",
+        "link": "/movies/scooby-doo-and-the-cyber-chase/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "MVP 2: Most Vertical Primate",
+        "link": "/movies/mvp-2-most-vertical-primate/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Training Day",
+        "link": "/movies/training-day/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Zoolander",
+        "link": "/movies/zoolander/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "The Warrior",
+        "link": "/movies/the-warrior/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Nayak: The Real Hero",
+        "link": "/movies/nayak-the-real-hero/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Pok\u00e9mon: Mewtwo Returns",
+        "link": "/movies/pokemon-mewtwo-returns/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "American Pie 2",
+        "link": "/movies/american-pie-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Y tu mama tambien [And Your Mother Too] (18+)",
+        "link": "/movies/y-tu-mama-tambien-and-your-mother-too-18/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Rush Hour 2",
+        "link": "/movies/rush-hour-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "The Others",
+        "link": "/movies/the-others/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Dil Chahta Hai",
+        "link": "/movies/dil-chahta-hai/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "Spirited Away",
+        "link": "/movies/spirited-away/",
+        "img": null,
+        "last_update": "2025-09-16 14:29:20"
+      },
+      {
+        "title": "The Legend of Bhagat Singh",
+        "link": "/movies/the-legend-of-bhagat-singh/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Insomnia",
+        "link": "/movies/insomnia/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Hum Tumhare Hain Sanam",
+        "link": "/movies/hum-tumhare-hain-sanam/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Sorority Boys",
+        "link": "/movies/sorority-boys/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Star Wars: Episode II &#8211; Attack of the Clones",
+        "link": "/movies/star-wars-episode-ii-attack-of-the-clones/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Unfaithful",
+        "link": "/movies/unfaithful/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Killing Me Softly",
+        "link": "/movies/killing-me-softly/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Steal",
+        "link": "/movies/steal/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Pyaar Diwana Hota Hai",
+        "link": "/movies/pyaar-diwana-hota-hai/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Spider-Man",
+        "link": "/movies/spider-man/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "American Psycho II: All American Girl",
+        "link": "/movies/american-psycho-ii-all-american-girl/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Detective Conan Movie 06 : The Phantom of Baker Street",
+        "link": "/movies/detective-conan-the-phantom-of-baker-street/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "My Big Fat Greek Wedding",
+        "link": "/movies/my-big-fat-greek-wedding/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Aap Mujhe Achche Lagne Lage",
+        "link": "/movies/aap-mujhe-achche-lagne-lage/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "The Scorpion King",
+        "link": "/movies/the-scorpion-king/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Company",
+        "link": "/movies/company/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Sympathy for Mr. Vengeance",
+        "link": "/movies/sympathy-for-mr-vengeance/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Blade 2",
+        "link": "/movies/blade-ii/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Ali G Indahouse",
+        "link": "/movies/ali-g-indahouse/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Resident Evil",
+        "link": "/movies/resident-evil/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Tom and Jerry: The Magic Ring",
+        "link": "/movies/tom-and-jerry-the-magic-ring/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Ice Age",
+        "link": "/movies/ice-age/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "The Time Machine",
+        "link": "/movies/the-time-machine/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "One Piece: Chopper&#8217;s Kingdom on the Island of Strange Animals",
+        "link": "/movies/one-piece-choppers-kingdom-on-the-island-of-strange-animals/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "40 Days and 40 Nights",
+        "link": "/movies/40-days-and-40-nights/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Bangkok Hell: Nor Chor &#8211; The Prisoners",
+        "link": "/movies/bangkok-hell-nor-chor-the-prisoners/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Tumko Na Bhool Paayenge",
+        "link": "/movies/tumko-na-bhool-paayenge/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "Raaz",
+        "link": "/movies/raaz/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "The Mothman Prophecies",
+        "link": "/movies/the-mothman-prophecies/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      },
+      {
+        "title": "The Count of Monte Cristo",
+        "link": "/movies/the-count-of-monte-cristo-2/",
+        "img": null,
+        "last_update": "2025-09-16 14:31:25"
+      }
+    ]
   }
 }
