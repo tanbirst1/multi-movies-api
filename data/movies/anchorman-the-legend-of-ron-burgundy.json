@@ -1,0 +1,158 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/anchorman-the-legend-of-ron-burgundy/",
+  "meta": {
+    "title": "Anchorman: The Legend of Ron Burgundy",
+    "poster": "https://image.tmdb.org/t/p/w500/Rdzsh3s6waplhSD7PUaBJovB7v.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jun. 28, 2004",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "It\u2019s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u2019s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+    "infoFields": {
+      "Original title": "Anchorman: The Legend of Ron Burgundy",
+      "IMDb Rating": "7.1 365,051 votes",
+      "TMDb Rating": "6.71 3,682 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Adam McKay",
+      "role": "Director",
+      "url": "https://multimovies.city/director/adam-mckay/",
+      "image": "https://image.tmdb.org/t/p/w92/vOyZXNJq7Oo01LPtSD5AZHjctgH.jpg"
+    },
+    {
+      "name": "Will Ferrell",
+      "role": "Ron Burgundy",
+      "url": "https://multimovies.city/cast/will-ferrell/",
+      "image": "https://image.tmdb.org/t/p/w92/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
+    },
+    {
+      "name": "Christina Applegate",
+      "role": "Veronica Corningstone",
+      "url": "https://multimovies.city/cast/christina-applegate/",
+      "image": "https://image.tmdb.org/t/p/w92/dNLVRcmXAqFje98Wc2X8CNFGvKh.jpg"
+    },
+    {
+      "name": "Paul Rudd",
+      "role": "Brian Fantana",
+      "url": "https://multimovies.city/cast/paul-rudd/",
+      "image": "https://image.tmdb.org/t/p/w92/8eTtJ7XVXY0BnEeUaSiTAraTIXd.jpg"
+    },
+    {
+      "name": "Steve Carell",
+      "role": "Brick Tamland",
+      "url": "https://multimovies.city/cast/steve-carell/",
+      "image": "https://image.tmdb.org/t/p/w92/dzJtsLspH5Bf8Tvw7OQC47ETNfJ.jpg"
+    },
+    {
+      "name": "David Koechner",
+      "role": "Champ Kind",
+      "url": "https://multimovies.city/cast/david-koechner/",
+      "image": "https://image.tmdb.org/t/p/w92/fpTTe1ow3EdfRJ8PZgBJmpeghMS.jpg"
+    },
+    {
+      "name": "Fred Willard",
+      "role": "Ed Harken",
+      "url": "https://multimovies.city/cast/fred-willard/",
+      "image": "https://image.tmdb.org/t/p/w92/sHgg2W09DEdXB9W7bVYNGpHdLNE.jpg"
+    },
+    {
+      "name": "Chris Parnell",
+      "role": "Garth Holliday",
+      "url": "https://multimovies.city/cast/chris-parnell/",
+      "image": "https://image.tmdb.org/t/p/w92/iiJrFrATSXib0Zi0aVdmbHJQI0s.jpg"
+    },
+    {
+      "name": "Kathryn Hahn",
+      "role": "Helen",
+      "url": "https://multimovies.city/cast/kathryn-hahn/",
+      "image": "https://image.tmdb.org/t/p/w92/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+    },
+    {
+      "name": "Fred Armisen",
+      "role": "Tino",
+      "url": "https://multimovies.city/cast/fred-armisen/",
+      "image": "https://image.tmdb.org/t/p/w92/lQ9AEIjbVcSeJ6THEJk72CMU5Qs.jpg"
+    },
+    {
+      "name": "Seth Rogen",
+      "role": "Eager Cameraman",
+      "url": "https://multimovies.city/cast/seth-rogen/",
+      "image": "https://image.tmdb.org/t/p/w92/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6DyYZe5WiUOnQ20EBEZCtUcLxdL.jpg",
+    "https://image.tmdb.org/t/p/w300/7O1Hbf4mB1UjMxNo2kmjsTfMFgT.jpg",
+    "https://image.tmdb.org/t/p/w300/5iHPV6M6aPKxXv3w8LTxsD6Zeot.jpg",
+    "https://image.tmdb.org/t/p/w300/uDc0Zqdo2pYpqhLLZcrhwM49fFc.jpg",
+    "https://image.tmdb.org/t/p/w300/qWSI9Lpq8K4o1n9ZD9zUVD4Gds1.jpg",
+    "https://image.tmdb.org/t/p/w300/dyCvROLb24DQcLA1Bw1CGqhGzhu.jpg",
+    "https://image.tmdb.org/t/p/w300/75yDi6LsTyFemBblGfqrHBPPis9.jpg",
+    "https://image.tmdb.org/t/p/w300/uYfawNcQwvS2ut8geeiO1v9SLyN.jpg",
+    "https://image.tmdb.org/t/p/w300/pvitz5NPnjobkDNWGHTBAEju76r.jpg"
+  ],
+  "similar": [],
+  "views": 521,
+  "sources": [
+    "https://www.youtube.com/embed/NJQ4qEWm9lU?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/puffwkz15mzj",
+    "https://sbplay.org/embed-wzhgezrrowje.html",
+    "https://dood.la/e/xuvmok6ay8se",
+    "https://mixdrop.co/e/0v8978p4ho1je1",
+    "https://hydrax.net/watch?v=3eiecKx8vT"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 15061,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 15061,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 15061,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 15061,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 15061,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 15061,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:51:30.385835"
+}
