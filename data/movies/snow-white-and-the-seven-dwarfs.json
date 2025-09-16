@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/snow-white-and-the-seven-dwarfs/",
+  "meta": {
+    "title": "Snow White and the Seven Dwarfs",
+    "poster": "https://image.tmdb.org/t/p/w500/9QKUh9UuIIT2ZA9Rby9R6vtNRKa.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "https://multimovies.city/genre/disney-channel/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      }
+    ],
+    "firstAirDate": "Dec. 21, 1937",
+    "ratingValue": "10",
+    "ratingCount": "4",
+    "synopsis": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as \u201cthe fairest in the land,\u201d and Snow White\u2019s beauty surpasses her own.",
+    "infoFields": {
+      "Original title": "Snow White and the Seven Dwarfs",
+      "IMDb Rating": "7.6 205,162 votes",
+      "TMDb Rating": "7.115 6,675 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Hand",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-hand/",
+      "image": "https://image.tmdb.org/t/p/w92/fZ5OKDm8YJmAfzPdvatMGuCRDu6.jpg"
+    },
+    {
+      "name": "Adriana Caselotti",
+      "role": "Snow White (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/adriana-caselotti/",
+      "image": "https://image.tmdb.org/t/p/w92/7nOCtRQnfH6RQ39IZBDffIadgR7.jpg"
+    },
+    {
+      "name": "Lucille La Verne",
+      "role": "Queen / Witch (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/lucille-la-verne/",
+      "image": "https://image.tmdb.org/t/p/w92/6L3j9U9IkxJhatF8ASsO3PtNZUN.jpg"
+    },
+    {
+      "name": "Harry Stockwell",
+      "role": "Prince (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/harry-stockwell/",
+      "image": "https://image.tmdb.org/t/p/w92/k5fxPKEpZ6Cgxckca9cCkc0CK5X.jpg"
+    },
+    {
+      "name": "Roy Atwell",
+      "role": "Doc (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/roy-atwell/",
+      "image": "https://image.tmdb.org/t/p/w92/huVgxMlWdN6VvIzfiMLEZi4Zlbu.jpg"
+    },
+    {
+      "name": "Pinto Colvig",
+      "role": "Sleepy / Grumpy / Dopey (hiccups) (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/pinto-colvig/",
+      "image": "https://image.tmdb.org/t/p/w92/o1YhkxvvCtpU9SkFEwl8n2iNFL4.jpg"
+    },
+    {
+      "name": "Otis Harlan",
+      "role": "Happy (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/otis-harlan/",
+      "image": "https://image.tmdb.org/t/p/w92/52f8iXnnQW8iCsO5HzEBtUGHz5X.jpg"
+    },
+    {
+      "name": "Scotty Mattraw",
+      "role": "Bashful (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/scotty-mattraw/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Billy Gilbert",
+      "role": "Sneezy (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/billy-gilbert/",
+      "image": "https://image.tmdb.org/t/p/w92/bYAFtiY6GGkuJCUv7N63yaencg7.jpg"
+    },
+    {
+      "name": "Eddie Collins",
+      "role": "Dopey / Chipmunk and Squirrel Sneezes (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/eddie-collins/",
+      "image": "https://image.tmdb.org/t/p/w92/6TueRHJP3VaUVtz0CdYRjdsc5Lc.jpg"
+    },
+    {
+      "name": "Moroni Olsen",
+      "role": "Magic Mirror (voice) (uncredited)",
+      "url": "https://multimovies.city/cast/moroni-olsen/",
+      "image": "https://image.tmdb.org/t/p/w92/xJ56TNofwpQH3b0UAs8spNq35OR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/n3pJwYuPnkw7JX7tOMbH0GRfBPn.jpg",
+    "https://image.tmdb.org/t/p/w300/ovH8kaCgURxAwhKt96CAyQgTQWm.jpg",
+    "https://image.tmdb.org/t/p/w300/wmSxNVGZOV1A51Yx6ChDXk3NVVi.jpg",
+    "https://image.tmdb.org/t/p/w300/eHHb3y8k6HaobPg72N3oAtlPWmR.jpg",
+    "https://image.tmdb.org/t/p/w300/cyIYCN3uhQbjwlYvuM6pJK9QYCR.jpg",
+    "https://image.tmdb.org/t/p/w300/zMMA0Layop9HxD23N3uJ6jOEC1S.jpg",
+    "https://image.tmdb.org/t/p/w300/9Et8UARuYp6CAiZIpL5jCMkuVp6.jpg",
+    "https://image.tmdb.org/t/p/w300/pmZiChyJs5Y0tz7sMAiZNNIo9z4.jpg",
+    "https://image.tmdb.org/t/p/w300/gK3rAc3zoWzgdYNacYkLI9p1q7u.jpg",
+    "https://image.tmdb.org/t/p/w300/1QfpuI9uvT6vqgiCCxbjG64Gb1F.jpg"
+  ],
+  "similar": [],
+  "views": 1764,
+  "sources": [
+    "https://www.youtube.com/embed/f26VPvXjHxs?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/nrs6r0hkx03m",
+    "https://sbplay.org/embed-xhindooa7qpb.html",
+    "https://dood.la/e/pz4cydvgequr",
+    "https://mixdrop.co/e/6q63we0gt6vj9",
+    "https://hydrax.net/watch?v=dOAvsIDCS"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20164,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 20164,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 20164,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 20164,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 20164,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 20164,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
