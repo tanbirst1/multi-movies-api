@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-terminal/",
+  "meta": {
+    "title": "The Terminal",
+    "poster": "https://image.tmdb.org/t/p/w500/cPB3ZMM4UdsSAhNdS4c7ps5nypY.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jun. 17, 2004",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Viktor Navorski is a man without a country; his plane took off just as a coup d\u2019etat exploded in his homeland, leaving it in shambles, and now he\u2019s stranded at Kennedy Airport, where he\u2019s holding a passport that nobody recognizes. While quarantined in the transit lounge until authorities can figure out what to do with him, Viktor simply goes on living \u2013 and courts romance with a beautiful flight attendant.",
+    "infoFields": {
+      "Original title": "The Terminal",
+      "IMDb Rating": "7.4 506,732 votes",
+      "TMDb Rating": "7.344 7,879 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Steven Spielberg",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steven-spielberg/",
+      "image": "https://image.tmdb.org/t/p/w92/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+    },
+    {
+      "name": "Tom Hanks",
+      "role": "Viktor Navorski",
+      "url": "https://multimovies.city/cast/tom-hanks/",
+      "image": "https://image.tmdb.org/t/p/w92/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "role": "Amelia Warren",
+      "url": "https://multimovies.city/cast/catherine-zeta-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+    },
+    {
+      "name": "Stanley Tucci",
+      "role": "Frank Dixon",
+      "url": "https://multimovies.city/cast/stanley-tucci/",
+      "image": "https://image.tmdb.org/t/p/w92/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "name": "Chi McBride",
+      "role": "Mulroy",
+      "url": "https://multimovies.city/cast/chi-mcbride/",
+      "image": "https://image.tmdb.org/t/p/w92/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
+    },
+    {
+      "name": "Diego Luna",
+      "role": "Enrique Cruz",
+      "url": "https://multimovies.city/cast/diego-luna/",
+      "image": "https://image.tmdb.org/t/p/w92/lGjCNMB7h4ObMwM0upMiOjZM6mv.jpg"
+    },
+    {
+      "name": "Barry Shabaka Henley",
+      "role": "Thurman",
+      "url": "https://multimovies.city/cast/barry-shabaka-henley/",
+      "image": "https://image.tmdb.org/t/p/w92/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg"
+    },
+    {
+      "name": "Kumar Pallana",
+      "role": "Gupta Rajan",
+      "url": "https://multimovies.city/cast/kumar-pallana/",
+      "image": "https://image.tmdb.org/t/p/w92/xmwvYrmg2DDvUH79Be54V7r905J.jpg"
+    },
+    {
+      "name": "Zoe Salda\u00f1a",
+      "role": "Dolores Torres",
+      "url": "https://multimovies.city/cast/zoe-saldana/",
+      "image": "https://image.tmdb.org/t/p/w92/snQ1rfO9Bb2LRG9MAOQnn3JXVHy.jpg"
+    },
+    {
+      "name": "Eddie Jones",
+      "role": "Salchak",
+      "url": "https://multimovies.city/cast/eddie-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/nMGaE2RFCZpVv5gVlDqeLLxNql6.jpg"
+    },
+    {
+      "name": "Jude Ciccolella",
+      "role": "Karl Iverson",
+      "url": "https://multimovies.city/cast/jude-ciccolella/",
+      "image": "https://image.tmdb.org/t/p/w92/sS506N50Brzyu0wgq18mk3pj4dH.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/dfGJKPaxabWaXacJ2fw6zXgA9QX.jpg",
+    "https://image.tmdb.org/t/p/w300/qkNRzjHNTdbewc7ZWNUqHtWLfbh.jpg",
+    "https://image.tmdb.org/t/p/w300/cciMqAHjpRsAcVMO4Md39U2H9s4.jpg",
+    "https://image.tmdb.org/t/p/w300/oaxfEbPkEHYyEdwQPHVzDy3EInH.jpg",
+    "https://image.tmdb.org/t/p/w300/iNdOK8Q2SMlXkcrYzcsKAtErqzQ.jpg",
+    "https://image.tmdb.org/t/p/w300/zywtNiaZ9r7azrcNdl2j0jOgrkw.jpg",
+    "https://image.tmdb.org/t/p/w300/v7V7UlCabjELCRwntATDZjtCdV1.jpg",
+    "https://image.tmdb.org/t/p/w300/usOFw3EsI1rkUsYCgt6mQNFtECw.jpg",
+    "https://image.tmdb.org/t/p/w300/8Mk2WfPOOxlUHI6VNQh0anJPnCZ.jpg",
+    "https://image.tmdb.org/t/p/w300/5WYtkHJIrZY4a3C9mAcGaMWYkcQ.jpg"
+  ],
+  "similar": [],
+  "views": 2644,
+  "sources": [
+    "https://www.youtube.com/embed/GZjC9dAvWuU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/pkn1n6b"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 70523,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 70523,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:47:20.361944"
+}
