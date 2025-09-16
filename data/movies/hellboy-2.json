@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hellboy-2/",
+  "meta": {
+    "title": "Hellboy",
+    "poster": "https://image.tmdb.org/t/p/w500/xohSnVY9gub1Z30CdrikW9yygTW.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Apr. 02, 2004",
+    "ratingValue": "1",
+    "ratingCount": "1",
+    "synopsis": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \u201cHellboy\u201d. Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien \u2013 a merman with psychic powers, and Liz Sherman \u2013 a woman with pyrokinesis, protecting America against dark forces.",
+    "infoFields": {
+      "Original title": "Hellboy",
+      "IMDb Rating": "6.8 349,393 votes",
+      "TMDb Rating": "6.667 6,611 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Guillermo del Toro",
+      "role": "Director",
+      "url": "https://multimovies.city/director/guillermo-del-toro/",
+      "image": "https://image.tmdb.org/t/p/w92/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg"
+    },
+    {
+      "name": "Ron Perlman",
+      "role": "Hellboy",
+      "url": "https://multimovies.city/cast/ron-perlman/",
+      "image": "https://image.tmdb.org/t/p/w92/9riPBfsWpzEzh2y9ucxTW22iakI.jpg"
+    },
+    {
+      "name": "Selma Blair",
+      "role": "Elizabeth 'Liz' Sherman",
+      "url": "https://multimovies.city/cast/selma-blair/",
+      "image": "https://image.tmdb.org/t/p/w92/5KfULwS7ZPZc6Ac1OP0ka2PhZZy.jpg"
+    },
+    {
+      "name": "Doug Jones",
+      "role": "Abraham 'Abe' Sapien",
+      "url": "https://multimovies.city/cast/doug-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/4C2rJbkgpD3wsdIzJHxk5rcEqTZ.jpg"
+    },
+    {
+      "name": "John Hurt",
+      "role": "Prof. Trevor 'Broom' Bruttenholm",
+      "url": "https://multimovies.city/cast/john-hurt/",
+      "image": "https://image.tmdb.org/t/p/w92/kFNlnnjCm7MsRNJ5yzZEH2YJIPC.jpg"
+    },
+    {
+      "name": "Rupert Evans",
+      "role": "John Myers",
+      "url": "https://multimovies.city/cast/rupert-evans/",
+      "image": "https://image.tmdb.org/t/p/w92/YrsdSUjinm0NN6qd8Y2znPf8Cg.jpg"
+    },
+    {
+      "name": "Jeffrey Tambor",
+      "role": "Tom Manning",
+      "url": "https://multimovies.city/cast/jeffrey-tambor/",
+      "image": "https://image.tmdb.org/t/p/w92/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    },
+    {
+      "name": "Ladislav Beran",
+      "role": "Karl Ruprecht Kroenen",
+      "url": "https://multimovies.city/cast/ladislav-beran/",
+      "image": "https://image.tmdb.org/t/p/w92/uxYnIPYBrIdk0cja6XcJ5ui1NvX.jpg"
+    },
+    {
+      "name": "Bridget Hodson",
+      "role": "Ilsa Haupstein",
+      "url": "https://multimovies.city/cast/bridget-hodson/",
+      "image": "https://image.tmdb.org/t/p/w92/anmhgkEBtJ2TFgKXEqIWv15rj8a.jpg"
+    },
+    {
+      "name": "Karel Roden",
+      "role": "Grigori Rasputin",
+      "url": "https://multimovies.city/cast/karel-roden/",
+      "image": "https://image.tmdb.org/t/p/w92/zfxaI9n2kjlDyJUpSFvawQGV1Hg.jpg"
+    },
+    {
+      "name": "Brian Steele",
+      "role": "Sammael",
+      "url": "https://multimovies.city/cast/brian-steele/",
+      "image": "https://image.tmdb.org/t/p/w92/sG2DRjsLOtwlUeSIOuvOxY3tBWp.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qdTUAwQKQ9n7PfZeVJzs7sOP8S8.jpg",
+    "https://image.tmdb.org/t/p/w300/bcSnRMREgJMxswd9UpQYSr8KabR.jpg",
+    "https://image.tmdb.org/t/p/w300/377px2mP8k3XCqhwqMlmIrYqaae.jpg",
+    "https://image.tmdb.org/t/p/w300/4skch5xyUhKQhs3InCQF1qazadj.jpg",
+    "https://image.tmdb.org/t/p/w300/lsm1M5PvJYkg24TXtQKWLRHrtNF.jpg",
+    "https://image.tmdb.org/t/p/w300/v6ejJREqtrKoveHhX7q0mwP9iUd.jpg",
+    "https://image.tmdb.org/t/p/w300/yntCrHfH5WEJe35kkmpdQq8BeEm.jpg",
+    "https://image.tmdb.org/t/p/w300/605zFrAnWkCvZBz9YMKYepxlkli.jpg",
+    "https://image.tmdb.org/t/p/w300/3N0FxYhLVRU1kP28c4OKr3kiPkg.jpg",
+    "https://image.tmdb.org/t/p/w300/7FjObnuLRse7bMIMLJKW7XUhA46.jpg"
+  ],
+  "similar": [],
+  "views": 3620,
+  "sources": [
+    "https://www.youtube.com/embed/qc4-3QmiFak?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/e7u3vy0k1abu"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 47501,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 47501,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:48:56.489546"
+}
