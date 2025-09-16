@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/mujhse-dosti-karoge/",
+  "meta": {
+    "title": "Mujhse Dosti Karoge!",
+    "poster": "https://image.tmdb.org/t/p/w500/fOu6pOPCeofmf5apKvsJb3XQmj3.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Aug. 08, 2002",
+    "ratingValue": "7.2",
+    "ratingCount": "6",
+    "synopsis": "A man falls in love with his childhood friend, but her sister is the one who reciprocates his feelings.",
+    "infoFields": {
+      "Original title": "\u092e\u0941\u091d\u0938\u0947 \u0926\u094b\u0938\u094d\u0924\u0940 \u0915\u0930\u094b\u0917\u0947!",
+      "TMDb Rating": "6.175 80 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kunal Kohli",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kunal-kohli/",
+      "image": "https://image.tmdb.org/t/p/w92/kFnrHabWyrESlZZMmBKEV57WX3h.jpg"
+    },
+    {
+      "name": "Hrithik Roshan",
+      "role": "Raj Khanna",
+      "url": "https://multimovies.city/cast/hrithik-roshan/",
+      "image": "https://image.tmdb.org/t/p/w92/upKrdABAMK7jZevWAoPYI24iKlR.jpg"
+    },
+    {
+      "name": "Rani Mukerji",
+      "role": "Pooja Sahani",
+      "url": "https://multimovies.city/cast/rani-mukerji/",
+      "image": "https://image.tmdb.org/t/p/w92/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg"
+    },
+    {
+      "name": "Kareena Kapoor Khan",
+      "role": "Tina Kapoor",
+      "url": "https://multimovies.city/cast/kareena-kapoor-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/pJZJJ93NwJq3kb3RWtaZBYVga1x.jpg"
+    },
+    {
+      "name": "Satish Shah",
+      "role": "Mr. Sahani",
+      "url": "https://multimovies.city/cast/satish-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/yLZtBHVkWUIPWcrsWHeVsRG7BwH.jpg"
+    },
+    {
+      "name": "Himani Shivpuri",
+      "role": "Mrs. Sahani",
+      "url": "https://multimovies.city/cast/himani-shivpuri/",
+      "image": "https://image.tmdb.org/t/p/w92/gUCyskh3PnNdRJgxNSOxM0hoMKP.jpg"
+    },
+    {
+      "name": "Kiran Kumar",
+      "role": "Mr. Khanna",
+      "url": "https://multimovies.city/cast/kiran-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/vnpgMjRmNXl9r6LE2N5RJ1F5gD6.jpg"
+    },
+    {
+      "name": "Smita Jaykar",
+      "role": "Mrs. Khanna",
+      "url": "https://multimovies.city/cast/smita-jaykar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sachin Khedekar",
+      "role": "Mr. Kapoor",
+      "url": "https://multimovies.city/cast/sachin-khedekar/",
+      "image": "https://image.tmdb.org/t/p/w92/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg"
+    },
+    {
+      "name": "Uday Chopra",
+      "role": "Rohan Verma",
+      "url": "https://multimovies.city/cast/uday-chopra/",
+      "image": "https://image.tmdb.org/t/p/w92/bHmH00vJNavpf5BgSuBeUSPB9bj.jpg"
+    },
+    {
+      "name": "Parikshat Sahni",
+      "role": "Mr. Verma",
+      "url": "https://multimovies.city/cast/parikshat-sahni/",
+      "image": "https://image.tmdb.org/t/p/w92/wQs7zYQNahLrntjqd7aIrajnbpM.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hAsyCZUndXQF5YBGIoA0xPHMYYi.jpg",
+    "https://image.tmdb.org/t/p/w300/kgT9tbedaFfiu8H5YHkmZKDkx8y.jpg",
+    "https://image.tmdb.org/t/p/w300/2kuZLFgwpSICicJseA65dUF8Dx1.jpg",
+    "https://image.tmdb.org/t/p/w300/fMITueJCzPSimH3aOjoLVXB2dXF.jpg",
+    "https://image.tmdb.org/t/p/w300/5zmNvBCaU0BtiHQHkMYF20lfW6U.jpg"
+  ],
+  "similar": [],
+  "views": 13230,
+  "sources": [
+    "https://www.youtube.com/embed/2GP9HNBxW7U?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/x3gfx5f"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 8451,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 8451,
+      "nume": 1,
+      "title": "s"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:36:46.749879"
+}
