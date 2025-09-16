@@ -4,15 +4,118 @@
   "meta": {
     "title": "Chal Mere Bhai",
     "poster": "https://image.tmdb.org/t/p/w500/7eyv5NxoQFwFGYwi2je4ryayYWb.jpg",
-    "synopsis": "Vicky, a businessman, loves his younger brother Prem, who spends his time chasing women. The family feels that secretary Sapna will make a good wife for Vicky, but she is already in love with Prem."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "May. 04, 2000",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Vicky, a businessman, loves his younger brother Prem, who spends his time chasing women. The family feels that secretary Sapna will make a good wife for Vicky, but she is already in love with Prem.",
+    "infoFields": {
+      "Original title": "Chal Mere Bhai",
+      "IMDb Rating": "4.7 3,673 votes",
+      "TMDb Rating": "5.125 24 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "David Dhawan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-dhawan/",
+      "image": "https://image.tmdb.org/t/p/w92/xLbcV54lqPF2w5NnjPgVjbmPvk5.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Prem Oberoi",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+      "name": "Sanjay Dutt",
+      "role": "Vicky Oberoi",
+      "url": "https://multimovies.city/cast/sanjay-dutt/",
+      "image": "https://image.tmdb.org/t/p/w92/zhYAdzlDMbhWr8ZBVDK02nrwnOJ.jpg"
+    },
+    {
+      "name": "Karisma Kapoor",
+      "role": "Sapna Mehra",
+      "url": "https://multimovies.city/cast/karisma-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/vaa4dSmayH71krkgnECXQsPaRre.jpg"
+    },
+    {
+      "name": "Dalip Tahil",
+      "role": "Balraj Oberoi",
+      "url": "https://multimovies.city/cast/dalip-tahil/",
+      "image": "https://image.tmdb.org/t/p/w92/4kgTd5aKh3IRxrJ7uG5h9mojb57.jpg"
+    },
+    {
+      "name": "Shakti Kapoor",
+      "role": "",
+      "url": "https://multimovies.city/cast/shakti-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/fcyQbvV6BgJBca4EVAlSr0Sv5E9.jpg"
+    },
+    {
+      "name": "Sonali Bendre",
+      "role": "",
+      "url": "https://multimovies.city/cast/sonali-bendre/",
+      "image": "https://image.tmdb.org/t/p/w92/xWUEnCel5arYgKGcAli43pjci7i.jpg"
+    },
+    {
+      "name": "Twinkle Khanna",
+      "role": "",
+      "url": "https://multimovies.city/cast/twinkle-khanna/",
+      "image": "https://image.tmdb.org/t/p/w92/ipAV6rBOkJQhTW5Zs8phZWGmXMt.jpg"
+    },
+    {
+      "name": "Nagma",
+      "role": "",
+      "url": "https://multimovies.city/cast/nagma/",
+      "image": "https://image.tmdb.org/t/p/w92/osQbepU8ejfIaeONvAlqsGVCOeC.jpg"
+    },
+    {
+      "name": "Javed Khan",
+      "role": "Murari",
+      "url": "https://multimovies.city/cast/javed-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/dYi2y5kxKRCRty0llXlt2sDO5xb.jpg"
+    },
+    {
+      "name": "Shiva Rindani",
+      "role": "",
+      "url": "https://multimovies.city/cast/shiva-rindani/",
+      "image": "https://image.tmdb.org/t/p/w92/iDbWfoMxgBnF94gue1ZWdobOmCp.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iHhJzuWW6GIdMJhoxP6cmasaqt3.jpg",
+    "https://image.tmdb.org/t/p/w300/dM4BrJCpcQvh5U8HqSE75Dxly5o.jpg",
+    "https://image.tmdb.org/t/p/w300/492pTFbi0pUXrIi8eECBbzBhe1k.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 655,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/buk9ag4"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 65547,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:28:31.321688"
 }
