@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dragon-ball-z-the-tree-of-might/",
+  "meta": {
+    "title": "Dragon Ball Z: The Tree of Might",
+    "poster": "https://image.tmdb.org/t/p/w500/fDX4Dp8IKvjBAaEb5MOJrGkxWX0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jun. 07, 1990",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Goku and friends must stop a band of space pirates from consuming fruit from the Tree of Might before it\u2019s destructive powers drain Earth\u2019s energy.",
+    "infoFields": {
+      "Original title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebZ \u5730\u7403\u307e\u308b\u3054\u3068\u8d85\u6c7a\u6226",
+      "IMDb Rating": "6.8 8,024 votes",
+      "TMDb Rating": "6.504 460 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Daisuke Nishio",
+      "role": "Director",
+      "url": "https://multimovies.city/director/daisuke-nishio/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Masako Nozawa",
+      "role": "Son Goku / Turles / Son Gohan (voice)",
+      "url": "https://multimovies.city/cast/masako-nozawa/",
+      "image": "https://image.tmdb.org/t/p/w92/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "name": "Toshio Furukawa",
+      "role": "Piccolo (voice)",
+      "url": "https://multimovies.city/cast/toshio-furukawa/",
+      "image": "https://image.tmdb.org/t/p/w92/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
+    },
+    {
+      "name": "Mayumi Tanaka",
+      "role": "Krillin (voice)",
+      "url": "https://multimovies.city/cast/mayumi-tanaka/",
+      "image": "https://image.tmdb.org/t/p/w92/dWh2Y3bQkSjPv3c7kyy5P6M3PLS.jpg"
+    },
+    {
+      "name": "Hirotaka Suzuoki",
+      "role": "Tien Shinhan (voice)",
+      "url": "https://multimovies.city/cast/hirotaka-suzuoki/",
+      "image": "https://image.tmdb.org/t/p/w92/6tUnO95OZiUwhHvxlJ3WP5lcsaJ.jpg"
+    },
+    {
+      "name": "Naoko Watanabe",
+      "role": "Chi Chi (voice)",
+      "url": "https://multimovies.city/cast/naoko-watanabe/",
+      "image": "https://image.tmdb.org/t/p/w92/vTd7ZEnuDiS9GyD1PfWG931YeLn.jpg"
+    },
+    {
+      "name": "Joji Yanami",
+      "role": "King Kai (voice)",
+      "url": "https://multimovies.city/cast/joji-yanami/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Hiromi Tsuru",
+      "role": "Bulma (voice)",
+      "url": "https://multimovies.city/cast/hiromi-tsuru/",
+      "image": "https://image.tmdb.org/t/p/w92/oFU9CCNLUhklLhEuLutM0FyTUbt.jpg"
+    },
+    {
+      "name": "Naoki Tatsuta",
+      "role": "Icarus (voice)",
+      "url": "https://multimovies.city/cast/naoki-tatsuta/",
+      "image": "https://image.tmdb.org/t/p/w92/iYGYNGRoQv0yRwKhisqfk5ARVTE.jpg"
+    },
+    {
+      "name": "K\u014dhei Miyauchi",
+      "role": "Master Roshi (voice)",
+      "url": "https://multimovies.city/cast/kohei-miyauchi/",
+      "image": "https://image.tmdb.org/t/p/w92/ov1UMNf85T4ZFQSAN57KlcuTeDZ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/s0XaJEApAfgMgKUBy6UfOnNTtwR.jpg",
+    "https://image.tmdb.org/t/p/w300/en28AEmaJxE3SPXZcMD8OvgX6Jz.jpg",
+    "https://image.tmdb.org/t/p/w300/oEICm0epbgdWIVSryEaeO7rFtzV.jpg"
+  ],
+  "similar": [],
+  "views": 1608,
+  "sources": [
+    "https://www.youtube.com/embed/6nkQu1l5Grs?autoplay=0&autohide=1",
+    "https://multimovies.website/e/84raqxpwc410.html"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 14208,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 14208,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
