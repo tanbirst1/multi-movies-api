@@ -1,0 +1,146 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/men-in-black/",
+  "meta": {
+    "title": "Men in Black",
+    "poster": "https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Men in Black",
+        "url": "https://multimovies.city/genre/men-in-black/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Jul. 02, 1997",
+    "ratingValue": "9.6",
+    "ratingCount": "20",
+    "synopsis": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent Kay and new recruit Agent Jay find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+    "infoFields": {
+      "Original title": "Men in Black",
+      "IMDb Rating": "7.3 581,764 votes",
+      "TMDb Rating": "7.18 12,433 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John Cameron",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-cameron/",
+      "image": "https://image.tmdb.org/t/p/w92/uv1fsKsOxRGC8n1YL7fBGn4mkRP.jpg"
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "role": "Agent K",
+      "url": "https://multimovies.city/cast/tommy-lee-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/dnfFKIRi4RL77Z84EMiDAuocMrO.jpg"
+    },
+    {
+      "name": "Will Smith",
+      "role": "James Edwards / Agent J",
+      "url": "https://multimovies.city/cast/will-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/6a6cl4ZNufJzrx5HZKWPU1BjjRF.jpg"
+    },
+    {
+      "name": "Linda Fiorentino",
+      "role": "Dr. Laurel Weaver / Agent L",
+      "url": "https://multimovies.city/cast/linda-fiorentino/",
+      "image": "https://image.tmdb.org/t/p/w92/kG0O5DRNJfIgxqv9eXkCq8eeR9U.jpg"
+    },
+    {
+      "name": "Vincent D'Onofrio",
+      "role": "Edgar / The Bug",
+      "url": "https://multimovies.city/cast/vincent-donofrio/",
+      "image": "https://image.tmdb.org/t/p/w92/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+    },
+    {
+      "name": "Rip Torn",
+      "role": "Chief Zed",
+      "url": "https://multimovies.city/cast/rip-torn/",
+      "image": "https://image.tmdb.org/t/p/w92/s0nJ15nXGoMAGa3TH6oxlFDzVD6.jpg"
+    },
+    {
+      "name": "Tony Shalhoub",
+      "role": "Jack Jeebs",
+      "url": "https://multimovies.city/cast/tony-shalhoub/",
+      "image": "https://image.tmdb.org/t/p/w92/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+    },
+    {
+      "name": "Siobhan Fallon Hogan",
+      "role": "Beatrice",
+      "url": "https://multimovies.city/cast/siobhan-fallon-hogan/",
+      "image": "https://image.tmdb.org/t/p/w92/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+    },
+    {
+      "name": "Mike Nussbaum",
+      "role": "Gentle Rosenburg the Arquillian Jeweler",
+      "url": "https://multimovies.city/cast/mike-nussbaum/",
+      "image": "https://image.tmdb.org/t/p/w92/7mg6l8P5Tu8EZysHrfsP8kdScyV.jpg"
+    },
+    {
+      "name": "Jon Gries",
+      "role": "Van driver",
+      "url": "https://multimovies.city/cast/jon-gries/",
+      "image": "https://image.tmdb.org/t/p/w92/nX69eyOvpmJ0YEpm2Qz2ZISngqw.jpg"
+    },
+    {
+      "name": "Sergio Calder\u00f3n",
+      "role": "Jose",
+      "url": "https://multimovies.city/cast/sergio-calderon/",
+      "image": "https://image.tmdb.org/t/p/w92/nzzxespfHZQbXcE733Dy88SIkKF.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wM1aNIXSqB8GSeQY38LOUHYMYIw.jpg",
+    "https://image.tmdb.org/t/p/w300/iEVZScwA2vy8BlVOFBBCfbU6XxB.jpg",
+    "https://image.tmdb.org/t/p/w300/lrAz6ayKlVBpClucdgXBmVUP6HG.jpg",
+    "https://image.tmdb.org/t/p/w300/d7zH7Qq11N15HNmZjlyUx5KohZK.jpg",
+    "https://image.tmdb.org/t/p/w300/aJMhYOP80cVBtq5ku3uyqASF3Ol.jpg",
+    "https://image.tmdb.org/t/p/w300/kMHtwjPa9bFqqbTL1HFEt8kdlnL.jpg",
+    "https://image.tmdb.org/t/p/w300/rGX4v2DdJvzNWGj3cprnkXsnTIp.jpg",
+    "https://image.tmdb.org/t/p/w300/deKO3QN4tqgvQvjggEmDjpgat2G.jpg",
+    "https://image.tmdb.org/t/p/w300/hGGzI2XJ1q0JkLDo4iWprfjxaGi.jpg",
+    "https://image.tmdb.org/t/p/w300/Arh3Q59d6UqNNgWXBSDAxotWYYg.jpg"
+  ],
+  "similar": [],
+  "views": 11543,
+  "sources": [
+    "https://www.youtube.com/embed/HYUd7AOw_lk?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/aqgkyibj7wl9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5717,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5717,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
