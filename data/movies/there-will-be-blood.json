@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/there-will-be-blood/",
+  "meta": {
+    "title": "There Will Be Blood",
+    "poster": "https://image.tmdb.org/t/p/w500/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 26, 2007",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview\u2019s motives and intentions, starting a slow-burning feud that threatens both their lives.",
+    "infoFields": {
+      "Original title": "There Will Be Blood",
+      "IMDb Rating": "8.2 678,278 votes",
+      "TMDb Rating": "8.073 6,903 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Paul Thomas Anderson",
+      "role": "Director",
+      "url": "https://multimovies.city/director/paul-thomas-anderson/",
+      "image": "https://image.tmdb.org/t/p/w92/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
+    },
+    {
+      "name": "Daniel Day-Lewis",
+      "role": "Daniel Plainview",
+      "url": "https://multimovies.city/cast/daniel-day-lewis/",
+      "image": "https://image.tmdb.org/t/p/w92/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
+    },
+    {
+      "name": "Paul Dano",
+      "role": "Paul Sunday / Eli Sunday",
+      "url": "https://multimovies.city/cast/paul-dano/",
+      "image": "https://image.tmdb.org/t/p/w92/zEJJsm0z07EPNl2Pi1h67xuCmcA.jpg"
+    },
+    {
+      "name": "Kevin J. O'Connor",
+      "role": "Henry",
+      "url": "https://multimovies.city/cast/kevin-j-oconnor/",
+      "image": "https://image.tmdb.org/t/p/w92/nlsRZBGlfZTmy0iEjCr5JFTorgb.jpg"
+    },
+    {
+      "name": "Ciar\u00e1n Hinds",
+      "role": "Fletcher Hamilton",
+      "url": "https://multimovies.city/cast/ciaran-hinds/",
+      "image": "https://image.tmdb.org/t/p/w92/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+    },
+    {
+      "name": "Dillon Freasier",
+      "role": "H.W. Plainview",
+      "url": "https://multimovies.city/cast/dillon-freasier/",
+      "image": "https://image.tmdb.org/t/p/w92/pTm23xcMB2oLu6Mc5LNXkrXVdla.jpg"
+    },
+    {
+      "name": "Hope Elizabeth Reeves",
+      "role": "Elizabeth",
+      "url": "https://multimovies.city/cast/hope-elizabeth-reeves/",
+      "image": "https://image.tmdb.org/t/p/w92/bejWpYL6CZpahu1ZsPeu1gr60yE.jpg"
+    },
+    {
+      "name": "Colleen Foy",
+      "role": "Mary Sunday",
+      "url": "https://multimovies.city/cast/colleen-foy/",
+      "image": "https://image.tmdb.org/t/p/w92/A1TBRUWcicNpbyJWUIof5b9JoYB.jpg"
+    },
+    {
+      "name": "Barry Del Sherman",
+      "role": "H. B. Ailman",
+      "url": "https://multimovies.city/cast/barry-del-sherman/",
+      "image": "https://image.tmdb.org/t/p/w92/zXLTW52g9BW9CCQ5fzxoGNLDe8P.jpg"
+    },
+    {
+      "name": "David Willis",
+      "role": "Abel Sunday",
+      "url": "https://multimovies.city/cast/david-willis/",
+      "image": "https://image.tmdb.org/t/p/w92/4OT7d0uTl1xU5fEDB4ogUYqhHKW.jpg"
+    },
+    {
+      "name": "Hans Howes",
+      "role": "Mr. Bandy",
+      "url": "https://multimovies.city/cast/hans-howes/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+    "https://image.tmdb.org/t/p/w300/e3a2oUaGdbz8cS1PTOkAPTqsJ9G.jpg",
+    "https://image.tmdb.org/t/p/w300/3aqBWOTG7PIJQS6Ij0Vz6JQCdeQ.jpg",
+    "https://image.tmdb.org/t/p/w300/f6QtLrtJZ7L5kIPuXMmzkBOBNTz.jpg",
+    "https://image.tmdb.org/t/p/w300/8LRcCJjbQI552BMCuGgYqph8USS.jpg",
+    "https://image.tmdb.org/t/p/w300/zPQYSaRUzCAksd25fLEVbh3zQcv.jpg",
+    "https://image.tmdb.org/t/p/w300/xFuRZtuTbTY3S1QLY8Y9XYH1JCk.jpg",
+    "https://image.tmdb.org/t/p/w300/3TpGGqL3WnA4X0x3UYq1eovpyoK.jpg",
+    "https://image.tmdb.org/t/p/w300/jOYbLeZCzFeAEJ2lm2G4fAsVLaH.jpg",
+    "https://image.tmdb.org/t/p/w300/1qD5odv5q5HruVTFUNn6R6rVhQE.jpg"
+  ],
+  "similar": [],
+  "views": 985,
+  "sources": [
+    "https://www.youtube.com/embed/0FIm5ATyAY0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/jw8fqsw"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 96361,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 96361,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:18:25.438237"
+}
