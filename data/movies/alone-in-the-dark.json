@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/alone-in-the-dark/",
+  "meta": {
+    "title": "Alone in the Dark",
+    "poster": "https://image.tmdb.org/t/p/w500/bSxrbVCyWW077zhtpuYlo3zgyug.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Jan. 28, 2005",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Edward Carnby is a private investigator specializing in unexplainable supernatural phenomena. His cases delve into the dark corners of the world, searching for truth in the occult remnants of ancient civilizations. Now, the greatest mystery of his past is about to become the most dangerous case he has ever faced.",
+    "infoFields": {
+      "Original title": "Alone in the Dark",
+      "IMDb Rating": "2.4 47,092 votes",
+      "TMDb Rating": "3.244 583 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Uwe Boll",
+      "role": "Director",
+      "url": "https://multimovies.city/director/uwe-boll/",
+      "image": "https://image.tmdb.org/t/p/w92/atLWExqv0Att2kiKXp6gKKtiwmD.jpg"
+    },
+    {
+      "name": "Christian Slater",
+      "role": "Edward Carnby",
+      "url": "https://multimovies.city/cast/christian-slater/",
+      "image": "https://image.tmdb.org/t/p/w92/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+    },
+    {
+      "name": "Tara Reid",
+      "role": "Aline Cedrac",
+      "url": "https://multimovies.city/cast/tara-reid/",
+      "image": "https://image.tmdb.org/t/p/w92/s7BRT4eypYGJxV4qeO1iMYFrnCq.jpg"
+    },
+    {
+      "name": "Stephen Dorff",
+      "role": "Richard Burke",
+      "url": "https://multimovies.city/cast/stephen-dorff/",
+      "image": "https://image.tmdb.org/t/p/w92/kuFyGa2HZB7hAQTUn3WKlgKAVjm.jpg"
+    },
+    {
+      "name": "Will Sanderson",
+      "role": "Agent Miles",
+      "url": "https://multimovies.city/cast/will-sanderson/",
+      "image": "https://image.tmdb.org/t/p/w92/83BaK4g9sAkXzB3CI9pfLu9llLd.jpg"
+    },
+    {
+      "name": "Ona Grauer",
+      "role": "Agent Feenstra",
+      "url": "https://multimovies.city/cast/ona-grauer/",
+      "image": "https://image.tmdb.org/t/p/w92/vfcupzwyzs1CNrjuG0wW4B3eQcD.jpg"
+    },
+    {
+      "name": "Ho-Sung Pak",
+      "role": "Agent Marko",
+      "url": "https://multimovies.city/cast/ho-sung-pak/",
+      "image": "https://image.tmdb.org/t/p/w92/qixHw42MTbBSwRlEjG2lk3rxq56.jpg"
+    },
+    {
+      "name": "Sarah Deakins",
+      "role": "Linda",
+      "url": "https://multimovies.city/cast/sarah-deakins/",
+      "image": "https://image.tmdb.org/t/p/w92/qvZUGjRpxmLPnCQ0O40Ug9ieMT7.jpg"
+    },
+    {
+      "name": "Fran\u00e7oise Yip",
+      "role": "Agent Cheung",
+      "url": "https://multimovies.city/cast/francoise-yip/",
+      "image": "https://image.tmdb.org/t/p/w92/2fBymfOzhw8wB6wHFHbxulNysB4.jpg"
+    },
+    {
+      "name": "Daniel Cudmore",
+      "role": "Agent Barr",
+      "url": "https://multimovies.city/cast/daniel-cudmore/",
+      "image": "https://image.tmdb.org/t/p/w92/7RkVaDBsNOxk4D6YvFLm0jYKQtQ.jpg"
+    },
+    {
+      "name": "Frank C. Turner",
+      "role": "Sam Fischer",
+      "url": "https://multimovies.city/cast/frank-c-turner/",
+      "image": "https://image.tmdb.org/t/p/w92/sIF6E9RzaSJJy6GWpy4dHEUDudI.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/lcLyZzhB1ctfdH0hGBsTFrbflqP.jpg",
+    "https://image.tmdb.org/t/p/w300/mkmBKzay5M3Od34p3ApCHb1N2tC.jpg",
+    "https://image.tmdb.org/t/p/w300/eVNzNQPEsBFEdJEEpza46rtcaOw.jpg",
+    "https://image.tmdb.org/t/p/w300/AmGMuHGxcF7tKCI0e1hElQAAofq.jpg",
+    "https://image.tmdb.org/t/p/w300/Ya1pqeah2jP8O9aSAIBHjSWWVB.jpg",
+    "https://image.tmdb.org/t/p/w300/j6rgZMTWT4dtrZvnBE6vSeBYfbl.jpg",
+    "https://image.tmdb.org/t/p/w300/fhxWDR5vKroSBy0s7xcVRyujtDL.jpg"
+  ],
+  "similar": [],
+  "views": 636,
+  "sources": [
+    "https://www.youtube.com/embed/P-Gc5bgZ2B8?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/l16nlscbe00v"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 53578,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 53578,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:53:02.622344"
+}
