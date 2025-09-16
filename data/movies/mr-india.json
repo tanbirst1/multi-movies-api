@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/mr-india/",
+  "meta": {
+    "title": "Mr. India",
+    "poster": "https://image.tmdb.org/t/p/w500/x7n1K9xyCwCXyMutVKPre4raJy8.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "May. 25, 1987",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "A poor but big-hearted man takes orphans into his home. After discovering his scientist father\u2019s invisibility device, he rises to the occasion and fights to save his children and all of India from the clutches of a megalomaniac.",
+    "infoFields": {
+      "Original title": "\u092e\u093f\u0938\u094d\u091f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e",
+      "TMDb Rating": "6.693 75 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Shekhar Kapur",
+      "role": "Director",
+      "url": "https://multimovies.city/director/shekhar-kapur/",
+      "image": "https://image.tmdb.org/t/p/w92/leGRUMubTyQ3arKUIMnuWYx5M2e.jpg"
+    },
+    {
+      "name": "Anil Kapoor",
+      "role": "Arun Verma / Mr. India",
+      "url": "https://multimovies.city/cast/anil-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
+    },
+    {
+      "name": "Sridevi",
+      "role": "Seema Sohni",
+      "url": "https://multimovies.city/cast/sridevi/",
+      "image": "https://image.tmdb.org/t/p/w92/6wxquADm0CMYMon04uEI48ZiBBf.jpg"
+    },
+    {
+      "name": "Amrish Puri",
+      "role": "Mogambo",
+      "url": "https://multimovies.city/cast/amrish-puri/",
+      "image": "https://image.tmdb.org/t/p/w92/uhMGFS7tuG71LDv2wk9LfZZ4EG6.jpg"
+    },
+    {
+      "name": "Satish Kaushik",
+      "role": "Calendar",
+      "url": "https://multimovies.city/cast/satish-kaushik/",
+      "image": "https://image.tmdb.org/t/p/w92/lnqVTsUKVxJYPWN3KRBhRlGP1Z0.jpg"
+    },
+    {
+      "name": "Annu Kapoor",
+      "role": "Mr. Gaitonde - Editor",
+      "url": "https://multimovies.city/cast/annu-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/jeWOeGZYWHAvP3fwSgPyozOyW80.jpg"
+    },
+    {
+      "name": "Sharat Saxena",
+      "role": "Daaga",
+      "url": "https://multimovies.city/cast/sharat-saxena/",
+      "image": "https://image.tmdb.org/t/p/w92/ArW6nQ23bjVfbcFmNVl4W9zpd7X.jpg"
+    },
+    {
+      "name": "Ajit Vachani",
+      "role": "Teja",
+      "url": "https://multimovies.city/cast/ajit-vachani/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ashok Kumar",
+      "role": "Professor Sinha",
+      "url": "https://multimovies.city/cast/ashok-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/qgGxN6haBTelGteikmDrGFixadV.jpg"
+    },
+    {
+      "name": "Aanjjan Srivastav",
+      "role": "Baburam",
+      "url": "https://multimovies.city/cast/aanjjan-srivastav/",
+      "image": "https://image.tmdb.org/t/p/w92/bF5vxtg7bc57bTunHq70dWwalRy.jpg"
+    },
+    {
+      "name": "Bob Christo",
+      "role": "Mr. Wolcott",
+      "url": "https://multimovies.city/cast/bob-christo/",
+      "image": "https://image.tmdb.org/t/p/w92/ewrvxEAawcQjNH88OToL6UbO9il.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/m79LyVwnqbOWuGCZibqAmdDdfI9.jpg"
+  ],
+  "similar": [],
+  "views": 818,
+  "sources": [
+    "https://www.youtube.com/embed/5XJxoDYkk8o?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/1qbz6tev9apr"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 29591,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 29591,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
