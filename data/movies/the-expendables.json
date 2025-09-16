@@ -1,0 +1,167 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-expendables/",
+  "meta": {
+    "title": "The Expendables",
+    "poster": "https://image.tmdb.org/t/p/w500/tDynwDj3pvexrEQ8wb0uy8EdcGQ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Aug. 03, 2010",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Barney Ross leads a band of highly skilled mercenaries including knife enthusiast Lee Christmas, a martial arts expert Yin Yang, heavy weapons specialist Hale Caesar, demolitionist Toll Road, and a loose-cannon sniper Gunner Jensen. When the group is commissioned by the mysterious Mr. Church to assassinate the dictator of a small South American island, Barney and Lee visit the remote locale to scout out their opposition and discover the true nature of the conflict engulfing the city.",
+    "infoFields": {
+      "Original title": "The Expendables",
+      "IMDb Rating": "6.4 353,540 votes",
+      "TMDb Rating": "6.219 7,047 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sylvester Stallone",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/pOpbPofjwpynRkWPZZZkyGds6rx.jpg"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "Barney Ross",
+      "url": "https://multimovies.city/cast/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/pOpbPofjwpynRkWPZZZkyGds6rx.jpg"
+    },
+    {
+      "name": "Jason Statham",
+      "role": "Lee Christmas",
+      "url": "https://multimovies.city/cast/jason-statham/",
+      "image": "https://image.tmdb.org/t/p/w92/whNwkEQYWLFJA8ij0WyOOAD5xhQ.jpg"
+    },
+    {
+      "name": "Jet Li",
+      "role": "Yin Yang",
+      "url": "https://multimovies.city/cast/jet-li/",
+      "image": "https://image.tmdb.org/t/p/w92/5a6u17dAf11kLvdRUG6QdoRRURj.jpg"
+    },
+    {
+      "name": "Dolph Lundgren",
+      "role": "Gunner Jensen",
+      "url": "https://multimovies.city/cast/dolph-lundgren/",
+      "image": "https://image.tmdb.org/t/p/w92/t3hMzibYVUS1KBXFgtxuNnax8qX.jpg"
+    },
+    {
+      "name": "Eric Roberts",
+      "role": "James Monroe",
+      "url": "https://multimovies.city/cast/eric-roberts/",
+      "image": "https://image.tmdb.org/t/p/w92/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+    },
+    {
+      "name": "Randy Couture",
+      "role": "Toll Road",
+      "url": "https://multimovies.city/cast/randy-couture/",
+      "image": "https://image.tmdb.org/t/p/w92/pmdPaQBWufFVwVxJYofLcERZr1l.jpg"
+    },
+    {
+      "name": "Steve Austin",
+      "role": "Paine",
+      "url": "https://multimovies.city/cast/steve-austin/",
+      "image": "https://image.tmdb.org/t/p/w92/xLc81J33tXrzlMjEFxBTKP4kgO0.jpg"
+    },
+    {
+      "name": "David Zayas",
+      "role": "General Garza",
+      "url": "https://multimovies.city/cast/david-zayas/",
+      "image": "https://image.tmdb.org/t/p/w92/h9rJXJKHba008IUiorvofL69ie1.jpg"
+    },
+    {
+      "name": "Giselle Iti\u00e9",
+      "role": "Sandra",
+      "url": "https://multimovies.city/cast/giselle-itie/",
+      "image": "https://image.tmdb.org/t/p/w92/1YTR2u0ZyXTlvdJbSYKbWyqW1i3.jpg"
+    },
+    {
+      "name": "Charisma Carpenter",
+      "role": "Lacy",
+      "url": "https://multimovies.city/cast/charisma-carpenter/",
+      "image": "https://image.tmdb.org/t/p/w92/4KtGNoEHj0igFTLVgxoGXhDKNu.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/tMpeVt7T2S2NaeEaNCUunCm7laX.jpg",
+    "https://image.tmdb.org/t/p/w300/axEWNlayDDzWufRSXKTDffch5VR.jpg",
+    "https://image.tmdb.org/t/p/w300/gDRlw7GoA0OoLvijXNCTTdtAtNX.jpg",
+    "https://image.tmdb.org/t/p/w300/sH9Cgn7hw7A4p3HZ3wEqn0eDALo.jpg",
+    "https://image.tmdb.org/t/p/w300/2dCpB96kuC8gPUvEwNGrr91cwmK.jpg",
+    "https://image.tmdb.org/t/p/w300/uhpPPj6NhKw4hCcVX3BiWoX4Z0j.jpg",
+    "https://image.tmdb.org/t/p/w300/tfRqTDVeTCdzSqnFOB61ongjhUp.jpg",
+    "https://image.tmdb.org/t/p/w300/ihrOtQEvG4tgkFYVD2OOQCfDI5n.jpg",
+    "https://image.tmdb.org/t/p/w300/2yE83k7shNVYojGOjFvKvVSToBA.jpg",
+    "https://image.tmdb.org/t/p/w300/AptCSNkEbXNZ2wQSk3ha51Lr9Oe.jpg"
+  ],
+  "similar": [],
+  "views": 3741,
+  "sources": [
+    "https://www.youtube.com/embed/8KtYRALe-xo?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/t3f40htslpzg",
+    "https://sbplay.org/embed-t0cr5vo9nd9m.html",
+    "https://dood.la/e/esmd2gkvp5mu",
+    "https://mixdrop.co/e/dqldjr9eud944z",
+    "https://hydrax.net/watch?v=kdUlls1kI"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 21498,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 21498,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 21498,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 21498,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 21498,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 21498,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:43:52.681635"
+}
