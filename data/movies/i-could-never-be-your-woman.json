@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/i-could-never-be-your-woman/",
+  "meta": {
+    "title": "I Could Never Be Your Woman",
+    "poster": "https://image.tmdb.org/t/p/w500/xNTnlokpkAww47QwVCNXge1likN.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "May. 11, 2007",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Mother Nature loves to cause mischief, and she steps in to help two love-starved souls find happiness. She helps an aging professional woman and single mother, Rosie, who\u2019s unlucky in love find her match with Adam, a much younger man. As their relationship blossoms beyond physical attraction, matters complicate when her adolescent daughter starts to fall for a handsome local boy.",
+    "infoFields": {
+      "Original title": "I Could Never Be Your Woman",
+      "IMDb Rating": "6 19,549 votes",
+      "TMDb Rating": "5.877 405 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Amy Heckerling",
+      "role": "Director",
+      "url": "https://multimovies.city/director/amy-heckerling/",
+      "image": "https://image.tmdb.org/t/p/w92/hIc3bQxLOPAcpGJ1CVFuzpzJRZ0.jpg"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "role": "Rosie",
+      "url": "https://multimovies.city/cast/michelle-pfeiffer/",
+      "image": "https://image.tmdb.org/t/p/w92/lm2kLVjQPXpnVLREzUdBlwMIV4R.jpg"
+    },
+    {
+      "name": "Paul Rudd",
+      "role": "Adam Perl",
+      "url": "https://multimovies.city/cast/paul-rudd/",
+      "image": "https://image.tmdb.org/t/p/w92/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "name": "Saoirse Ronan",
+      "role": "Izzie Mensforth",
+      "url": "https://multimovies.city/cast/saoirse-ronan/",
+      "image": "https://image.tmdb.org/t/p/w92/9buDPdqKN9vbnQLLkHEinDtMrCG.jpg"
+    },
+    {
+      "name": "Tracey Ullman",
+      "role": "Mother Nature",
+      "url": "https://multimovies.city/cast/tracey-ullman/",
+      "image": "https://image.tmdb.org/t/p/w92/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg"
+    },
+    {
+      "name": "Stacey Dash",
+      "role": "Brianna Minx",
+      "url": "https://multimovies.city/cast/stacey-dash/",
+      "image": "https://image.tmdb.org/t/p/w92/cSzVCx2LJkXZoUGA4z4i8cm9wMD.jpg"
+    },
+    {
+      "name": "Fred Willard",
+      "role": "Marty",
+      "url": "https://multimovies.city/cast/fred-willard/",
+      "image": "https://image.tmdb.org/t/p/w92/Agh6CXQzwp23ORnnrUvXF1RemMi.jpg"
+    },
+    {
+      "name": "Jon Lovitz",
+      "role": "Nathan Mensforth",
+      "url": "https://multimovies.city/cast/jon-lovitz/",
+      "image": "https://image.tmdb.org/t/p/w92/jBXSLoDEVwYkNqSVWHV9yDo8whA.jpg"
+    },
+    {
+      "name": "Sarah Alexander",
+      "role": "Jeannie",
+      "url": "https://multimovies.city/cast/sarah-alexander/",
+      "image": "https://image.tmdb.org/t/p/w92/rI8gecsrrcXjHWELn6miC0twB7k.jpg"
+    },
+    {
+      "name": "Yasmin Paige",
+      "role": "Melanie",
+      "url": "https://multimovies.city/cast/yasmin-paige/",
+      "image": "https://image.tmdb.org/t/p/w92/ygd7mdqzPlcvqQ8xQ61fJCsWpic.jpg"
+    },
+    {
+      "name": "Graham Norton",
+      "role": "Taylor",
+      "url": "https://multimovies.city/cast/graham-norton/",
+      "image": "https://image.tmdb.org/t/p/w92/zndDiPrNXtbxGLVhFhSlpCkaHIH.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/qiAH3BXGASYSaIR9tEkth5rb2Gv.jpg",
+    "https://image.tmdb.org/t/p/w300/amDuUPj7MTN27xgjtguGNF8YzQC.jpg"
+  ],
+  "similar": [],
+  "views": 913,
+  "sources": [
+    "https://www.youtube.com/embed/vwGN7HVgE_M?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/04ab5t2lcbtk"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 54961,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 54961,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:08:54.816540"
+}
