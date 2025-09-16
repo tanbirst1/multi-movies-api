@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/crash-2/",
+  "meta": {
+    "title": "Crash",
+    "poster": "https://image.tmdb.org/t/p/w500/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 17, 1996",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "After getting into a serious car accident, a TV director discovers an underground sub-culture of scarred, omnisexual car-crash victims, and he begins to use car accidents and the raw sexual energy they produce to try to rejuvenate his sex life with his wife.",
+    "infoFields": {
+      "Original title": "Crash",
+      "IMDb Rating": "6.4 69,858 votes",
+      "TMDb Rating": "6.4 1,207 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Cronenberg",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-cronenberg/",
+      "image": "https://image.tmdb.org/t/p/w92/3xh4e2gWHDilMLtucHzDGsmJMuQ.jpg"
+    },
+    {
+      "name": "James Spader",
+      "role": "James Ballard",
+      "url": "https://multimovies.city/cast/james-spader/",
+      "image": "https://image.tmdb.org/t/p/w92/uET0mbf2bMkUXbRb1Oxi8Qjqcw3.jpg"
+    },
+    {
+      "name": "Holly Hunter",
+      "role": "Helen Remington",
+      "url": "https://multimovies.city/cast/holly-hunter/",
+      "image": "https://image.tmdb.org/t/p/w92/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+    },
+    {
+      "name": "Elias Koteas",
+      "role": "Vaughan",
+      "url": "https://multimovies.city/cast/elias-koteas/",
+      "image": "https://image.tmdb.org/t/p/w92/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
+    },
+    {
+      "name": "Deborah Kara Unger",
+      "role": "Catherine Ballard",
+      "url": "https://multimovies.city/cast/deborah-kara-unger/",
+      "image": "https://image.tmdb.org/t/p/w92/9CSLmsjOa4qfOimmuVe89V7s0Wf.jpg"
+    },
+    {
+      "name": "Rosanna Arquette",
+      "role": "Gabrielle",
+      "url": "https://multimovies.city/cast/rosanna-arquette/",
+      "image": "https://image.tmdb.org/t/p/w92/n6OBhzo8qs9ZZfbLyqvPJYYTHgq.jpg"
+    },
+    {
+      "name": "Peter MacNeill",
+      "role": "Colin Seagrave",
+      "url": "https://multimovies.city/cast/peter-macneill/",
+      "image": "https://image.tmdb.org/t/p/w92/9Y2O97Awq5BUH3qfWL3EUveurqI.jpg"
+    },
+    {
+      "name": "Cheryl Swarts",
+      "role": "Vera Seagrave",
+      "url": "https://multimovies.city/cast/cheryl-swarts/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Yolande Julian",
+      "role": "Airport Hooker",
+      "url": "https://multimovies.city/cast/yolande-julian/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Nicky Guadagni",
+      "role": "Tattooist",
+      "url": "https://multimovies.city/cast/nicky-guadagni/",
+      "image": "https://image.tmdb.org/t/p/w92/4hHivaWtgZMsMcYwDIX6b88hody.jpg"
+    },
+    {
+      "name": "Ronn Sarosiak",
+      "role": "A.D.",
+      "url": "https://multimovies.city/cast/ronn-sarosiak/",
+      "image": "https://image.tmdb.org/t/p/w92/j8plwnjzNtPII18OjXYmUhSv1Jn.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/vQNknPEVSAui6IL6eUlDBPfUzcW.jpg",
+    "https://image.tmdb.org/t/p/w300/268MQentKIGgUaI3wtMzB3xsjep.jpg",
+    "https://image.tmdb.org/t/p/w300/3aOtvFWQ2P2jP57sVs65NT7EKP0.jpg",
+    "https://image.tmdb.org/t/p/w300/lyyPoTRfTyRCLZQmmr0Nx5iClQl.jpg",
+    "https://image.tmdb.org/t/p/w300/4TEgFlLikfYgb2q4wmkKZiZ3mPD.jpg",
+    "https://image.tmdb.org/t/p/w300/egb1rK81OYmFxlqHUQAdyRzquLp.jpg",
+    "https://image.tmdb.org/t/p/w300/li7EvrNoX5MoqK4WQXONsSUDjH1.jpg",
+    "https://image.tmdb.org/t/p/w300/cjMGc2LAQISzlvpuJ3bas3utFS9.jpg",
+    "https://image.tmdb.org/t/p/w300/qdMQoP0ubgqsDmIu4L9FsDMiKHw.jpg",
+    "https://image.tmdb.org/t/p/w300/lpnZffflgN0rEaeEIaqGXdk1El8.jpg"
+  ],
+  "similar": [],
+  "views": 3161,
+  "sources": [
+    "https://www.youtube.com/embed/x_ABJM8XesQ?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vi7mvgy"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 84444,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 84444,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false
+}
