@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/harry-potter-and-the-order-of-the-phoenix/",
+  "meta": {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "poster": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Harry Potter movies",
+        "url": "https://multimovies.city/genre/multimovies-com-harry-potter-movies/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Jul. 08, 2007",
+    "ratingValue": "9.9",
+    "ratingCount": "50",
+    "synopsis": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+    "infoFields": {
+      "Original title": "Harry Potter and the Order of the Phoenix",
+      "IMDb Rating": "7.5 637,679 votes",
+      "TMDb Rating": "7.682 19,022 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Yates",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-yates/",
+      "image": "https://image.tmdb.org/t/p/w92/hAHOxR0NK4cZDumqNIpDoEdGVAh.jpg"
+    },
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "url": "https://multimovies.city/cast/daniel-radcliffe/",
+      "image": "https://image.tmdb.org/t/p/w92/iPg0J9UzAlPj1fLEJNllpW9IhGe.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "url": "https://multimovies.city/cast/rupert-grint/",
+      "image": "https://image.tmdb.org/t/p/w92/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "url": "https://multimovies.city/cast/emma-watson/",
+      "image": "https://image.tmdb.org/t/p/w92/tvPPRGzAzdQFhlKzLbMO1EpuTJI.jpg"
+    },
+    {
+      "name": "Imelda Staunton",
+      "role": "Dolores Umbridge",
+      "url": "https://multimovies.city/cast/imelda-staunton/",
+      "image": "https://image.tmdb.org/t/p/w92/95KKeFajyuRlqc65mBBKgXkXGpL.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Bellatrix Lestrange",
+      "url": "https://multimovies.city/cast/helena-bonham-carter/",
+      "image": "https://image.tmdb.org/t/p/w92/h3SMnd9GjF2AVaxChgWuVZknutT.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "role": "Rubeus Hagrid",
+      "url": "https://multimovies.city/cast/robbie-coltrane/",
+      "image": "https://image.tmdb.org/t/p/w92/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "role": "Lord Voldemort",
+      "url": "https://multimovies.city/cast/ralph-fiennes/",
+      "image": "https://image.tmdb.org/t/p/w92/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "name": "Michael Gambon",
+      "role": "Albus Dumbledore",
+      "url": "https://multimovies.city/cast/michael-gambon/",
+      "image": "https://image.tmdb.org/t/p/w92/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "name": "Jason Isaacs",
+      "role": "Lucius Malfoy",
+      "url": "https://multimovies.city/cast/jason-isaacs/",
+      "image": "https://image.tmdb.org/t/p/w92/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "name": "Gary Oldman",
+      "role": "Sirius Black",
+      "url": "https://multimovies.city/cast/gary-oldman/",
+      "image": "https://image.tmdb.org/t/p/w92/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bsaA9qtIR6VTDQykXdBzJc8V5rS.jpg",
+    "https://image.tmdb.org/t/p/w300/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+    "https://image.tmdb.org/t/p/w300/sO2VWeJ8qagNtYoznyLRL8TeSkw.jpg",
+    "https://image.tmdb.org/t/p/w300/5cQS2j4jOT9bu8e2YnSLcSwVtTK.jpg",
+    "https://image.tmdb.org/t/p/w300/82a7AGF081PzFfoM8GAVGMvZNYK.jpg",
+    "https://image.tmdb.org/t/p/w300/9XmvdStUQtimQ8eIkk54aKDHURg.jpg",
+    "https://image.tmdb.org/t/p/w300/4hwU22SW2vQR1X66exBvd7H3LTO.jpg",
+    "https://image.tmdb.org/t/p/w300/vRckWjOTQDgb584WIS2wUWoeUva.jpg",
+    "https://image.tmdb.org/t/p/w300/5PGd68GsNH9O6FZ68K3CYpMNOpD.jpg",
+    "https://image.tmdb.org/t/p/w300/zhUOI1yDQu0Fa3neL4yPb1o9ByF.jpg"
+  ],
+  "similar": [],
+  "views": 46423,
+  "sources": [
+    "https://www.youtube.com/embed/WIj9DYJ5EKk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/zok6jfi"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 441,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 441,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:12:41.326527"
+}
