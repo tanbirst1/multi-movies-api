@@ -1,0 +1,157 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/million-dollar-baby/",
+  "meta": {
+    "title": "Million Dollar Baby",
+    "poster": "https://image.tmdb.org/t/p/w500/2ti3l1OeB8G94yyqfAI7nmMZUbA.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 15, 2004",
+    "ratingValue": "8",
+    "ratingCount": "2",
+    "synopsis": "Despondent over a painful estrangement from his daughter, trainer Frankie Dunn isn\u2019t prepared for boxer Maggie Fitzgerald to enter his life. But Maggie\u2019s determined to go pro and to convince Dunn and his cohort to help her.",
+    "infoFields": {
+      "Original title": "Million Dollar Baby",
+      "IMDb Rating": "8.1 698,087 votes",
+      "TMDb Rating": "7.961 8,602 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Clint Eastwood",
+      "role": "Director",
+      "url": "https://multimovies.city/director/clint-eastwood/",
+      "image": "https://image.tmdb.org/t/p/w92/okP7SeXKP3tw9Y3YTVWLIZAMdm8.jpg"
+    },
+    {
+      "name": "Clint Eastwood",
+      "role": "Frankie Dunn",
+      "url": "https://multimovies.city/cast/clint-eastwood/",
+      "image": "https://image.tmdb.org/t/p/w92/okP7SeXKP3tw9Y3YTVWLIZAMdm8.jpg"
+    },
+    {
+      "name": "Hilary Swank",
+      "role": "Maggie Fitzgerald",
+      "url": "https://multimovies.city/cast/hilary-swank/",
+      "image": "https://image.tmdb.org/t/p/w92/yJ5QEzcUVbe08H3Lche33oEvH2G.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "role": "Eddie 'Scrap-Iron' Dupris",
+      "url": "https://multimovies.city/cast/morgan-freeman/",
+      "image": "https://image.tmdb.org/t/p/w92/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+    },
+    {
+      "name": "Jay Baruchel",
+      "role": "Danger Barch",
+      "url": "https://multimovies.city/cast/jay-baruchel/",
+      "image": "https://image.tmdb.org/t/p/w92/aDfqAMsPzIZvvj1ymivsKjRAfyv.jpg"
+    },
+    {
+      "name": "Mike Colter",
+      "role": "Big Willie Little",
+      "url": "https://multimovies.city/cast/mike-colter/",
+      "image": "https://image.tmdb.org/t/p/w92/hy6gReVCDUtkP9r01OArQXSYnKd.jpg"
+    },
+    {
+      "name": "Lucia Rijker",
+      "role": "Billie 'The Blue Bear'",
+      "url": "https://multimovies.city/cast/lucia-rijker/",
+      "image": "https://image.tmdb.org/t/p/w92/6v7Ec32c70aJWJqkuq4UrMxxEj7.jpg"
+    },
+    {
+      "name": "Br\u00edan F. O'Byrne",
+      "role": "Father Horvak",
+      "url": "https://multimovies.city/cast/brian-f-obyrne/",
+      "image": "https://image.tmdb.org/t/p/w92/7ppXakXhRdkouqPFb8YQSSDgJg0.jpg"
+    },
+    {
+      "name": "Anthony Mackie",
+      "role": "Shawrelle Berry",
+      "url": "https://multimovies.city/cast/anthony-mackie/",
+      "image": "https://image.tmdb.org/t/p/w92/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+    },
+    {
+      "name": "Margo Martindale",
+      "role": "Earline Fitzgerald",
+      "url": "https://multimovies.city/cast/margo-martindale/",
+      "image": "https://image.tmdb.org/t/p/w92/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+    },
+    {
+      "name": "Riki Lindhome",
+      "role": "Mardell Fitzgerald",
+      "url": "https://multimovies.city/cast/riki-lindhome/",
+      "image": "https://image.tmdb.org/t/p/w92/sNLK8k5FfMSbmvu1lc15nCXUKvR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/oGMomeS7bE43eN8SGJUaKvQnmud.jpg",
+    "https://image.tmdb.org/t/p/w300/p2O2NvYEEnBEAmZ7qtH5o1KDKrt.jpg",
+    "https://image.tmdb.org/t/p/w300/vfRSeOs11txad7ve15A83TFTQOw.jpg",
+    "https://image.tmdb.org/t/p/w300/jruBJZOJCQAWWhJ20UbxPUpbXXT.jpg",
+    "https://image.tmdb.org/t/p/w300/3rSEhIjfjh7xMq1BnNtAF2nbXCi.jpg",
+    "https://image.tmdb.org/t/p/w300/9gvVLh5VnHUMaT8Vj16FdlbbiUV.jpg",
+    "https://image.tmdb.org/t/p/w300/jK0SZSsPpk38sWQgG8Qgmzr6QTj.jpg",
+    "https://image.tmdb.org/t/p/w300/sNlBlAYq5X6yeGI4FgIoutwYO0r.jpg"
+  ],
+  "similar": [],
+  "views": 1776,
+  "sources": [
+    "https://www.youtube.com/embed/shbZOZmoyF0?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/v/z2ozl1hskwee",
+    "https://sbplay.org/embed-jy0olg6pinft.html",
+    "https://dood.la/e/wh1w4zjocdc2",
+    "https://mixdrop.co/e/0v8rd86xckxmwg9",
+    "https://hydrax.net/watch?v=sicW7zco2T"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 17221,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 17221,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 17221,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 17221,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 17221,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 17221,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:53:39.504867"
+}
