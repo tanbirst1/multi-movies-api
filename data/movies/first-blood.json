@@ -1,0 +1,146 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/first-blood/",
+  "meta": {
+    "title": "Rambo: First Blood",
+    "poster": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Rambo",
+        "url": "https://multimovies.city/genre/rambo/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      },
+      {
+        "name": "War",
+        "url": "https://multimovies.city/genre/war/"
+      }
+    ],
+    "firstAirDate": "Oct. 22, 1982",
+    "ratingValue": "7.8",
+    "ratingCount": "6",
+    "synopsis": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, the Vietnam vet snaps, runs for the hills and rat-a-tat-tats his way into the action-movie hall of fame. Hounded by a relentless sheriff, Rambo employs heavy-handed guerilla tactics to shake the cops off his tail.",
+    "infoFields": {
+      "Original title": "First Blood",
+      "IMDb Rating": "7.7 265,268 votes",
+      "TMDb Rating": "7.475 5,593 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Conrad E. Palmisano",
+      "role": "Director",
+      "url": "https://multimovies.city/director/conrad-e-palmisano/",
+      "image": "https://image.tmdb.org/t/p/w92/9012ElbfHVSrl0Jzvip19rFaLBP.jpg"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "John J. Rambo",
+      "url": "https://multimovies.city/cast/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/qDRGPAcQoW8Wuig9bvoLpHwf1gU.jpg"
+    },
+    {
+      "name": "Richard Crenna",
+      "role": "Col. Samuel Trautman",
+      "url": "https://multimovies.city/cast/richard-crenna/",
+      "image": "https://image.tmdb.org/t/p/w92/dsViQ2ate32xTSQgxoEHKQl0Evj.jpg"
+    },
+    {
+      "name": "Brian Dennehy",
+      "role": "Hope Sheriff Will Teasle",
+      "url": "https://multimovies.city/cast/brian-dennehy/",
+      "image": "https://image.tmdb.org/t/p/w92/sWAXMe4MVvnFubZtIaN7CmWNbaO.jpg"
+    },
+    {
+      "name": "Bill McKinney",
+      "role": "State Police Capt. Dave Kern",
+      "url": "https://multimovies.city/cast/bill-mckinney/",
+      "image": "https://image.tmdb.org/t/p/w92/bXGJNizj5SbEFPjeBupnRxgwPq0.jpg"
+    },
+    {
+      "name": "Jack Starrett",
+      "role": "Deputy Sgt. Arthur Galt",
+      "url": "https://multimovies.city/cast/jack-starrett/",
+      "image": "https://image.tmdb.org/t/p/w92/AnB9XJJkveIyh64aeFKMs7jvyPW.jpg"
+    },
+    {
+      "name": "Michael Talbott",
+      "role": "Deputy Balford",
+      "url": "https://multimovies.city/cast/michael-talbott/",
+      "image": "https://image.tmdb.org/t/p/w92/9FkX2GlPWBzRG8ZZpPytW1g7zr4.jpg"
+    },
+    {
+      "name": "Chris Mulkey",
+      "role": "Deputy Ward",
+      "url": "https://multimovies.city/cast/chris-mulkey/",
+      "image": "https://image.tmdb.org/t/p/w92/tt4kCAovGtaU4pRI4KJfKvTJ8tq.jpg"
+    },
+    {
+      "name": "John McLiam",
+      "role": "Orval the Dog Man",
+      "url": "https://multimovies.city/cast/john-mcliam/",
+      "image": "https://image.tmdb.org/t/p/w92/2clg52K8jbFllLD5M1QD0F3yYhj.jpg"
+    },
+    {
+      "name": "Alf Humphreys",
+      "role": "Deputy Lester",
+      "url": "https://multimovies.city/cast/alf-humphreys/",
+      "image": "https://image.tmdb.org/t/p/w92/uxY07qvGzaqVdtu4CpQjGs3W9KK.jpg"
+    },
+    {
+      "name": "David Caruso",
+      "role": "Deputy Mitch",
+      "url": "https://multimovies.city/cast/david-caruso/",
+      "image": "https://image.tmdb.org/t/p/w92/7XjPzadIBQ0mIVwVT7o87B7NkJJ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+    "https://image.tmdb.org/t/p/w300/AeXX4mzpXIRrB0EHXNjbno2woWe.jpg",
+    "https://image.tmdb.org/t/p/w300/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg",
+    "https://image.tmdb.org/t/p/w300/qPcRkMpc8bEnciXSS4RhifaVc78.jpg",
+    "https://image.tmdb.org/t/p/w300/j6T0dDJd2N5E8vjRYpdzjPa0O82.jpg",
+    "https://image.tmdb.org/t/p/w300/DEcFWLjg5xUi9NbT2PnUftyvjb.jpg",
+    "https://image.tmdb.org/t/p/w300/sscWhGX470OzyBjrgSpodckLFHI.jpg",
+    "https://image.tmdb.org/t/p/w300/3DbGzV5IiOCmwYMFsQU3m3hIDvy.jpg",
+    "https://image.tmdb.org/t/p/w300/svwqyaCGed4N6bfwmGIWU1MfEk6.jpg",
+    "https://image.tmdb.org/t/p/w300/vrfzsAryWpRp4XdKDMTJv9BnI0X.jpg"
+  ],
+  "similar": [],
+  "views": 4477,
+  "sources": [
+    "https://www.youtube.com/embed/iGgug8_Tn1M?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/pjcqkf0"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26766,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 26766,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
