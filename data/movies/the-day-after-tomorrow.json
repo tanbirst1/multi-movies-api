@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-day-after-tomorrow/",
+  "meta": {
+    "title": "The Day After Tomorrow",
+    "poster": "https://image.tmdb.org/t/p/w500/kNKy8eJemg6sCAMBgh4xrD0lleX.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "May. 26, 2004",
+    "ratingValue": "7.8",
+    "ratingCount": "4",
+    "synopsis": "After years of increases in the greenhouse effect, havoc is wreaked globally in the form of catastrophic hurricanes, tornadoes, tidal waves, floods and the beginning of a new Ice Age. Paleoclimatologist, Jack Hall tries to warn the world while also shepherding to safety his son, trapped in New York after the city is overwhelmed by the start of the new big freeze.",
+    "infoFields": {
+      "Original title": "The Day After Tomorrow",
+      "IMDb Rating": "6.4 460,979 votes",
+      "TMDb Rating": "6.501 7,277 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Roland Emmerich",
+      "role": "Director",
+      "url": "https://multimovies.city/director/roland-emmerich/",
+      "image": "https://image.tmdb.org/t/p/w92/mN8x74uv9yQ7dJl8nh2q26mkY8v.jpg"
+    },
+    {
+      "name": "Dennis Quaid",
+      "role": "Jack Hall",
+      "url": "https://multimovies.city/cast/dennis-quaid/",
+      "image": "https://image.tmdb.org/t/p/w92/nvkto83iFngO8jg9UpdSaEBRC8a.jpg"
+    },
+    {
+      "name": "Jake Gyllenhaal",
+      "role": "Sam Hall",
+      "url": "https://multimovies.city/cast/jake-gyllenhaal/",
+      "image": "https://image.tmdb.org/t/p/w92/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg"
+    },
+    {
+      "name": "Emmy Rossum",
+      "role": "Laura Chapman",
+      "url": "https://multimovies.city/cast/emmy-rossum/",
+      "image": "https://image.tmdb.org/t/p/w92/aJ8bzA1WJOBFx0Ppdo1fLMiNxLh.jpg"
+    },
+    {
+      "name": "Dash Mihok",
+      "role": "Jason Evans",
+      "url": "https://multimovies.city/cast/dash-mihok/",
+      "image": "https://image.tmdb.org/t/p/w92/2mvXAusQr265VW5N7eo07uXqyII.jpg"
+    },
+    {
+      "name": "Jay O. Sanders",
+      "role": "Frank Harris",
+      "url": "https://multimovies.city/cast/jay-o-sanders/",
+      "image": "https://image.tmdb.org/t/p/w92/z7VzGKDWItspNDQ5Ec34uUAD5m7.jpg"
+    },
+    {
+      "name": "Sela Ward",
+      "role": "Dr. Lucy Hall",
+      "url": "https://multimovies.city/cast/sela-ward/",
+      "image": "https://image.tmdb.org/t/p/w92/pzQuH9vm182Ar2vpUsakKzxPNV7.jpg"
+    },
+    {
+      "name": "Austin Nichols",
+      "role": "J.D.",
+      "url": "https://multimovies.city/cast/austin-nichols/",
+      "image": "https://image.tmdb.org/t/p/w92/nhH6CVwgCQOKkz2QLVH4V7Am6zv.jpg"
+    },
+    {
+      "name": "Arjay Smith",
+      "role": "Brian Parks",
+      "url": "https://multimovies.city/cast/arjay-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/gxgUd3LSLlrskWOQoCGSfflyv1A.jpg"
+    },
+    {
+      "name": "Tamlyn Tomita",
+      "role": "Janet Tokada",
+      "url": "https://multimovies.city/cast/tamlyn-tomita/",
+      "image": "https://image.tmdb.org/t/p/w92/rmlZGE8f18Fxpgd9AlOko8cK074.jpg"
+    },
+    {
+      "name": "Sasha Roiz",
+      "role": "Parker",
+      "url": "https://multimovies.city/cast/sasha-roiz/",
+      "image": "https://image.tmdb.org/t/p/w92/hneSnvFh25FFRWRzd93EhO7S11p.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/fXJhA3pjLMDkHPgZ2GVhRDXA5M3.jpg",
+    "https://image.tmdb.org/t/p/w300/oB6wjly3gtQWvNcUWD8nfpmDTYX.jpg",
+    "https://image.tmdb.org/t/p/w300/smqQ71MIn1DSdSiQzCzCOV6rgRq.jpg",
+    "https://image.tmdb.org/t/p/w300/poSkRgokYBuqIO04cx9fSExklOK.jpg",
+    "https://image.tmdb.org/t/p/w300/qkrIfpQyHXMKNRVLra5JWcqXyQY.jpg",
+    "https://image.tmdb.org/t/p/w300/s9ZFq4SA9Noh4FA9qX1qOkUPXZH.jpg",
+    "https://image.tmdb.org/t/p/w300/4QX88XpXSYhtyyBb0ioKFGlmZp6.jpg",
+    "https://image.tmdb.org/t/p/w300/rxf6ebFMLIsJLcLj7URSTzU9sRx.jpg",
+    "https://image.tmdb.org/t/p/w300/z8vrEkTGuw1eA04p93tjTWWuka.jpg",
+    "https://image.tmdb.org/t/p/w300/gBnF6et12HC1AtdfJ5WQIzDUGA3.jpg"
+  ],
+  "similar": [],
+  "views": 5462,
+  "sources": [
+    "https://www.youtube.com/embed/rJrdbpjUaQ8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/pw5ycq25dzr6"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 22871,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 22871,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:48:05.393020"
+}
