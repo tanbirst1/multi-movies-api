@@ -4,15 +4,125 @@
   "meta": {
     "title": "Scary Movie",
     "poster": "https://image.tmdb.org/t/p/w500/lRQiJXETkCnVVurHmglNvMXrZOx.jpg",
-    "synopsis": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!"
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Jul. 07, 2000",
+    "ratingValue": "7",
+    "ratingCount": "6",
+    "synopsis": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+    "infoFields": {
+      "Original title": "Scary Movie",
+      "IMDb Rating": "6.3 289,094 votes",
+      "TMDb Rating": "6.356 6,741 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Keenen Ivory Wayans",
+      "role": "Director",
+      "url": "https://multimovies.city/director/keenen-ivory-wayans/",
+      "image": "https://image.tmdb.org/t/p/w92/e9XRdXolDV8RjGPHPXH6IISDTSP.jpg"
+    },
+    {
+      "name": "Anna Faris",
+      "role": "Cindy Campbell",
+      "url": "https://multimovies.city/cast/anna-faris/",
+      "image": "https://image.tmdb.org/t/p/w92/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg"
+    },
+    {
+      "name": "Jon Abrahams",
+      "role": "Bobby Prinze",
+      "url": "https://multimovies.city/cast/jon-abrahams/",
+      "image": "https://image.tmdb.org/t/p/w92/lB4qv4fTjP02m7w19TFXc29yLUd.jpg"
+    },
+    {
+      "name": "Marlon Wayans",
+      "role": "Shorty Meeks",
+      "url": "https://multimovies.city/cast/marlon-wayans/",
+      "image": "https://image.tmdb.org/t/p/w92/4UVD58k6Oe2mN4hHC3syiwSgPRy.jpg"
+    },
+    {
+      "name": "Shawn Wayans",
+      "role": "Ray Wilkins",
+      "url": "https://multimovies.city/cast/shawn-wayans/",
+      "image": "https://image.tmdb.org/t/p/w92/Cat25uXhB680QLmvg9Tu16W563.jpg"
+    },
+    {
+      "name": "Regina Hall",
+      "role": "Brenda Meeks",
+      "url": "https://multimovies.city/cast/regina-hall/",
+      "image": "https://image.tmdb.org/t/p/w92/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+      "name": "Shannon Elizabeth",
+      "role": "Buffy Gilmore",
+      "url": "https://multimovies.city/cast/shannon-elizabeth/",
+      "image": "https://image.tmdb.org/t/p/w92/NttGD7i2OgoMBZPDmpaSfoUUAm.jpg"
+    },
+    {
+      "name": "Cheri Oteri",
+      "role": "Gail Hailstorm",
+      "url": "https://multimovies.city/cast/cheri-oteri/",
+      "image": "https://image.tmdb.org/t/p/w92/A56szuLpt2yttvnHB49KNUZmD4b.jpg"
+    },
+    {
+      "name": "Carmen Electra",
+      "role": "Drew Decker",
+      "url": "https://multimovies.city/cast/carmen-electra/",
+      "image": "https://image.tmdb.org/t/p/w92/oiNGbPpboR7uq9K7L2g63UZwyMq.jpg"
+    },
+    {
+      "name": "Tanja Reichert",
+      "role": "Miss Congeniality",
+      "url": "https://multimovies.city/cast/tanja-reichert/",
+      "image": "https://image.tmdb.org/t/p/w92/umFRFg5mhiLuDvvqhVxfMlOWrkm.jpg"
+    },
+    {
+      "name": "Lochlyn Munro",
+      "role": "Greg Phillippe",
+      "url": "https://multimovies.city/cast/lochlyn-munro/",
+      "image": "https://image.tmdb.org/t/p/w92/nTtzCBFYTEnYCS7CqUwxtC6OsXD.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+    "https://image.tmdb.org/t/p/w300/1COxGZmRmdli0NwmyqWUivhocjy.jpg",
+    "https://image.tmdb.org/t/p/w300/7nXYjP2337JzIAlpgWP6SYGviUg.jpg",
+    "https://image.tmdb.org/t/p/w300/v7Vpqyepu54v0chKrbLECYfg8Vk.jpg",
+    "https://image.tmdb.org/t/p/w300/wWtSlD2wkLnGzTnhQZDXGJV3mul.jpg",
+    "https://image.tmdb.org/t/p/w300/45GCVBFffLw62aFPjxCpm8YJhZ9.jpg",
+    "https://image.tmdb.org/t/p/w300/2UHYx0hXoiNlbubRC4s2wxxw0Gf.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 9667,
+  "sources": [
+    "https://www.youtube.com/embed/LPI47v23wo0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/vwbarzm"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6738,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6738,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:25:04"
+  "last_update": "2025-09-16T17:28:07.129015"
 }
