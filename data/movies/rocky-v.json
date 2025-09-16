@@ -1,0 +1,154 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rocky-v/",
+  "meta": {
+    "title": "Rocky V",
+    "poster": "https://image.tmdb.org/t/p/w500/qCARerjCFZOEeLiVdomhwRYlDSn.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 16, 1990",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A lifetime of taking shots has ended Rocky\u2019s career, and a crooked accountant has left him broke. Inspired by the memory of his trainer, however, Rocky finds glory in training and takes on an up-and-coming boxer.",
+    "infoFields": {
+      "Original title": "Rocky V",
+      "IMDb Rating": "5.3 143,770 votes",
+      "TMDb Rating": "5.763 2,782 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "John G. Avildsen",
+      "role": "Director",
+      "url": "https://multimovies.city/director/john-g-avildsen/",
+      "image": "https://image.tmdb.org/t/p/w92/cBpz7xPTfT0cfPhQoGrp7x7esma.jpg"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "Robert \"Rocky\" Balboa",
+      "url": "https://multimovies.city/cast/sylvester-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/pOpbPofjwpynRkWPZZZkyGds6rx.jpg"
+    },
+    {
+      "name": "Talia Shire",
+      "role": "Adrianna \"Adrian\" Balboa",
+      "url": "https://multimovies.city/cast/talia-shire/",
+      "image": "https://image.tmdb.org/t/p/w92/due9MtmbvCMDd1aNveuMyjsaZ8W.jpg"
+    },
+    {
+      "name": "Burt Young",
+      "role": "Paulie Pennino",
+      "url": "https://multimovies.city/cast/burt-young/",
+      "image": "https://image.tmdb.org/t/p/w92/po3D7HKkMhoNkBMcIKpxjWzjoF.jpg"
+    },
+    {
+      "name": "Richard Gant",
+      "role": "George Washington Duke",
+      "url": "https://multimovies.city/cast/richard-gant/",
+      "image": "https://image.tmdb.org/t/p/w92/arzIWXn3wvkIbOtXt2i5kge3snx.jpg"
+    },
+    {
+      "name": "Tommy Morrison",
+      "role": "Tommy 'Machine' Gunn",
+      "url": "https://multimovies.city/cast/tommy-morrison/",
+      "image": "https://image.tmdb.org/t/p/w92/aTgL1xBmPuH0SEHY6vpvSdLIiZD.jpg"
+    },
+    {
+      "name": "Sage Stallone",
+      "role": "Rocky Balboa Jr.",
+      "url": "https://multimovies.city/cast/sage-stallone/",
+      "image": "https://image.tmdb.org/t/p/w92/kaW0QhisrrL1IKSlwMszIZbe5se.jpg"
+    },
+    {
+      "name": "Burgess Meredith",
+      "role": "Mickey Goldmill",
+      "url": "https://multimovies.city/cast/burgess-meredith/",
+      "image": "https://image.tmdb.org/t/p/w92/4jvcLYYb4dhgrtEJOJQnYY2zt8G.jpg"
+    },
+    {
+      "name": "Tony Burton",
+      "role": "Tony \"Duke\" Evers",
+      "url": "https://multimovies.city/cast/tony-burton/",
+      "image": "https://image.tmdb.org/t/p/w92/iG51d1Ck1doZNGseRMqGTnNC8t8.jpg"
+    },
+    {
+      "name": "Jimmy Gambina",
+      "role": "Jimmy",
+      "url": "https://multimovies.city/cast/jimmy-gambina/",
+      "image": "https://image.tmdb.org/t/p/w92/7z9cLBNBk67xstIS4dp2pMAgVyr.jpg"
+    },
+    {
+      "name": "Delia Sheppard",
+      "role": "Karen",
+      "url": "https://multimovies.city/cast/delia-sheppard/",
+      "image": "https://image.tmdb.org/t/p/w92/2cTRHbzHuz9v1Faq414EVG9cD0I.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ne1ivJv3lGGUvZ9F72P0r2xpksB.jpg",
+    "https://image.tmdb.org/t/p/w300/eNLbiq9uLLh6wUIDKDO0DIV6veC.jpg",
+    "https://image.tmdb.org/t/p/w300/ojWtMNm5W8hwTC5b5Avyb7NzH7W.jpg",
+    "https://image.tmdb.org/t/p/w300/kFF81jCOMInLDKfZ58jRs3EUwIS.jpg",
+    "https://image.tmdb.org/t/p/w300/2VdeVwo3ycM2hMjDfAwCT05sCNA.jpg",
+    "https://image.tmdb.org/t/p/w300/lUYn05zmJ6iRO9oUvBg1qjRK0Fv.jpg"
+  ],
+  "similar": [],
+  "views": 1498,
+  "sources": [
+    "https://www.youtube.com/embed/C2_k8p3RQx4?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/gv72839ewnqe",
+    "https://sbplay.org/embed-23ypgjcyxwui.html",
+    "https://dood.la/e/2zsfif3h34bs",
+    "https://mixdrop.co/e/qlq38d1rfo4nog",
+    "https://hydrax.net/watch?v=7WAtPFd48P"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7144,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7144,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 7144,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 7144,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 7144,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 7144,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false
+}
