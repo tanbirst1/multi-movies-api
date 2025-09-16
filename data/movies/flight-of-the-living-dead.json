@@ -1,0 +1,122 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/flight-of-the-living-dead/",
+  "meta": {
+    "title": "Flight of the Living Dead",
+    "poster": "https://image.tmdb.org/t/p/w500/n9MYyoCQLZhc1X8upySj8Wsf6T0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Apr. 06, 2007",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "On a flight from Los Angeles to Paris, a mad scientist on the run from the CIA is transporting a coffin containing the body of a colleague infected with a genetically modified virus. While the 747 crosses a violent thunderstorm, the instability of the aircraft allows the corpse to get out of its container.",
+    "infoFields": {
+      "Original title": "Flight of the Living Dead",
+      "IMDb Rating": "5.1 9,575 votes",
+      "TMDb Rating": "5.023 128 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Scott Thomas",
+      "role": "Director",
+      "url": "https://multimovies.city/director/scott-thomas/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "David Chisum",
+      "role": "Truman",
+      "url": "https://multimovies.city/cast/david-chisum/",
+      "image": "https://image.tmdb.org/t/p/w92/yI9CEdbPG8kqSFPQnXPrTufuOYS.jpg"
+    },
+    {
+      "name": "Kristen Kerr",
+      "role": "Megan",
+      "url": "https://multimovies.city/cast/kristen-kerr/",
+      "image": "https://image.tmdb.org/t/p/w92/zhQh0VthrtREHKiR06Cqpelvrmg.jpg"
+    },
+    {
+      "name": "Richard Tyson",
+      "role": "Paul Judd",
+      "url": "https://multimovies.city/cast/richard-tyson/",
+      "image": "https://image.tmdb.org/t/p/w92/2VqDaBqbCTnz0qZKXLtuUa9MO7R.jpg"
+    },
+    {
+      "name": "Kevin J. O'Connor",
+      "role": "Frank",
+      "url": "https://multimovies.city/cast/kevin-j-oconnor/",
+      "image": "https://image.tmdb.org/t/p/w92/nlsRZBGlfZTmy0iEjCr5JFTorgb.jpg"
+    },
+    {
+      "name": "Erick Avari",
+      "role": "Dr. Bennett",
+      "url": "https://multimovies.city/cast/erick-avari/",
+      "image": "https://image.tmdb.org/t/p/w92/aO53uKgLUCID9rCI0SRAIEdsIex.jpg"
+    },
+    {
+      "name": "Todd Babcock",
+      "role": "Co-Pilot Randy",
+      "url": "https://multimovies.city/cast/todd-babcock/",
+      "image": "https://image.tmdb.org/t/p/w92/5Ys5DRpEJR5VWCF9DTAjhHoE7JC.jpg"
+    },
+    {
+      "name": "Laura Cayouette",
+      "role": "Dr. Kelly",
+      "url": "https://multimovies.city/cast/laura-cayouette/",
+      "image": "https://image.tmdb.org/t/p/w92/i9G6af64mD9vOtcJjuenu2cZ3lX.jpg"
+    },
+    {
+      "name": "Siena Goines",
+      "role": "Anna",
+      "url": "https://multimovies.city/cast/siena-goines/",
+      "image": "https://image.tmdb.org/t/p/w92/sDgHHVLmEFkVN6ANpPOxDYHAMMp.jpg"
+    },
+    {
+      "name": "Serah D'Laine",
+      "role": "Cara",
+      "url": "https://multimovies.city/cast/serah-dlaine/",
+      "image": "https://image.tmdb.org/t/p/w92/3axr4UuepJs60Rnr7OZuka40NOU.jpg"
+    },
+    {
+      "name": "Heidi Marnhout",
+      "role": "Emily",
+      "url": "https://multimovies.city/cast/heidi-marnhout/",
+      "image": "https://image.tmdb.org/t/p/w92/jByJ8yhBsEaXWvOhIykmzIJdi1z.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/mpUPiSXk8cQsDUk3AygUxFqedjN.jpg"
+  ],
+  "similar": [],
+  "views": 508,
+  "sources": [
+    "https://www.youtube.com/embed/4JQs-5b7huY?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/rvo6spc"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 64148,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 64148,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:09:20.479637"
+}
