@@ -4,15 +4,128 @@
   "meta": {
     "title": "American Beauty",
     "poster": "https://image.tmdb.org/t/p/w500/wby9315QzVKdW9BonAefg8jGTTb.jpg",
-    "synopsis": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter\u2019s attractive friend."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Sep. 15, 1999",
+    "ratingValue": "9.5",
+    "ratingCount": "2",
+    "synopsis": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter\u2019s attractive friend.",
+    "infoFields": {
+      "Original title": "American Beauty",
+      "IMDb Rating": "8.4 1,168,112 votes",
+      "TMDb Rating": "8 11,723 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "Sam Mendes",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sam-mendes/",
+      "image": "https://image.tmdb.org/t/p/w92/5z89X9rB76JDblqMQ52fviwXxAN.jpg"
+    },
+    {
+      "name": "Kevin Spacey",
+      "role": "Lester Burnham",
+      "url": "https://multimovies.city/cast/kevin-spacey/",
+      "image": "https://image.tmdb.org/t/p/w92/dlVRkUYKyZdJ39AN55cY1LoyXAP.jpg"
+    },
+    {
+      "name": "Annette Bening",
+      "role": "Carolyn Burnham",
+      "url": "https://multimovies.city/cast/annette-bening/",
+      "image": "https://image.tmdb.org/t/p/w92/bs4hB5t2mHMn6C2ZGOlP5LfSEPe.jpg"
+    },
+    {
+      "name": "Thora Birch",
+      "role": "Jane Burnham",
+      "url": "https://multimovies.city/cast/thora-birch/",
+      "image": "https://image.tmdb.org/t/p/w92/7rRirYcL5JJS5P2W67yhsmAfO3x.jpg"
+    },
+    {
+      "name": "Wes Bentley",
+      "role": "Ricky Fitts",
+      "url": "https://multimovies.city/cast/wes-bentley/",
+      "image": "https://image.tmdb.org/t/p/w92/oDjtxTiEuCdyrcAtlCOEWUjhsaT.jpg"
+    },
+    {
+      "name": "Mena Suvari",
+      "role": "Angela Hayes",
+      "url": "https://multimovies.city/cast/mena-suvari/",
+      "image": "https://image.tmdb.org/t/p/w92/1FXZuuugYI4ZUUMVQPn7zZxloe7.jpg"
+    },
+    {
+      "name": "Chris Cooper",
+      "role": "Colonel Frank Fitts",
+      "url": "https://multimovies.city/cast/chris-cooper/",
+      "image": "https://image.tmdb.org/t/p/w92/sJKghcu9wRDIvKM0cI7kqNXYRfS.jpg"
+    },
+    {
+      "name": "Allison Janney",
+      "role": "Barbara Fitts",
+      "url": "https://multimovies.city/cast/allison-janney/",
+      "image": "https://image.tmdb.org/t/p/w92/cDcB8mKP1GiIeoM3Qe7GIucs0iv.jpg"
+    },
+    {
+      "name": "Peter Gallagher",
+      "role": "Buddy Kane",
+      "url": "https://multimovies.city/cast/peter-gallagher/",
+      "image": "https://image.tmdb.org/t/p/w92/bjL6DIXiL96SMxIgtsk63SxFBqn.jpg"
+    },
+    {
+      "name": "Scott Bakula",
+      "role": "Jim Olmeyer",
+      "url": "https://multimovies.city/cast/scott-bakula/",
+      "image": "https://image.tmdb.org/t/p/w92/meZvcpXmcFlrJUeme4UpH4GZeNV.jpg"
+    },
+    {
+      "name": "Sam Robards",
+      "role": "Jim Berkley",
+      "url": "https://multimovies.city/cast/sam-robards/",
+      "image": "https://image.tmdb.org/t/p/w92/AqYRpRgNqQopOU5YGfSFVSuIyl9.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+    "https://image.tmdb.org/t/p/w300/sARGXcSdC1nbjegY6aGk0eujfRP.jpg",
+    "https://image.tmdb.org/t/p/w300/kEA3iOrV1DpHQ3Z01Q28y2Qoc89.jpg",
+    "https://image.tmdb.org/t/p/w300/bupI7hNq3gg2JHVBY06awnOS3fn.jpg",
+    "https://image.tmdb.org/t/p/w300/7bOSIoXi9uGLLl25EIE8onubL01.jpg",
+    "https://image.tmdb.org/t/p/w300/e7UlVCyiBQ16em6DXr0CVSV9BV9.jpg",
+    "https://image.tmdb.org/t/p/w300/thjFSgbFzDufh9AgFHZV4qkSq2Y.jpg",
+    "https://image.tmdb.org/t/p/w300/oq9lbIWX6ADa55u9RcIICCSm3nN.jpg",
+    "https://image.tmdb.org/t/p/w300/mRjtupsr34w8iAbRTjVUjFLWTs3.jpg",
+    "https://image.tmdb.org/t/p/w300/vimaZK2bkJlePnZ1yV5eKYpQkzF.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 10242,
+  "sources": [
+    "https://www.youtube.com/embed/3ycmmJ6rxA8?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/e0r5kzd65pp5"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 15031,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 15031,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:22:44"
+  "last_update": "2025-09-16T17:26:03.143518"
 }
