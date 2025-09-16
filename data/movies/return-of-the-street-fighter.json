@@ -16,7 +16,7 @@
       }
     ],
     "firstAirDate": "Apr. 27, 1974",
-    "ratingValue": "7",
+    "ratingValue": "6",
     "ratingCount": "1",
     "synopsis": "Martial artist Takuma Tsurugi returns to take on a Yakuza family that may be embezzling money from charities to finance their own operations. Both the police and the Yakuza find themselves battling Tsurugi, but Tsurugi\u2019s fight ultimately is with the mob, and he concentrates on them.",
     "infoFields": {
@@ -118,5 +118,6 @@
       "title": "v"
     }
   ],
-  "cache": false
+  "cache": false,
+  "last_update": "2025-09-16T17:04:08.858195"
 }
