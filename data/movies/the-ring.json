@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-ring/",
+  "meta": {
+    "title": "The Ring",
+    "poster": "https://image.tmdb.org/t/p/w500/e2t5CKMox7tjv3iD3Ko7NdFa5lJ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Oct. 18, 2002",
+    "ratingValue": "9.3",
+    "ratingCount": "3",
+    "synopsis": "Rachel Keller is a journalist investigating a videotape that may have killed four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video\u2026 and watches it. Now she has just seven days to unravel the mystery of the Ring so she can save herself and her son.",
+    "infoFields": {
+      "Original title": "The Ring",
+      "IMDb Rating": "7.1 357,988 votes",
+      "TMDb Rating": "6.649 5,480 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Gore Verbinski",
+      "role": "Director",
+      "url": "https://multimovies.city/director/gore-verbinski/",
+      "image": "https://image.tmdb.org/t/p/w92/rSQRdmLNAwdKxrtvBSSlBmWeSsj.jpg"
+    },
+    {
+      "name": "Naomi Watts",
+      "role": "Rachel Keller",
+      "url": "https://multimovies.city/cast/naomi-watts/",
+      "image": "https://image.tmdb.org/t/p/w92/k6l8BWX1yqfGt95enzEkHoPvON4.jpg"
+    },
+    {
+      "name": "Martin Henderson",
+      "role": "Noah Clay",
+      "url": "https://multimovies.city/cast/martin-henderson/",
+      "image": "https://image.tmdb.org/t/p/w92/dBeMYpC13EZf1q4VT4zwwMxI1NV.jpg"
+    },
+    {
+      "name": "David Dorfman",
+      "role": "Aidan Keller",
+      "url": "https://multimovies.city/cast/david-dorfman/",
+      "image": "https://image.tmdb.org/t/p/w92/6DoBfsNmZnbwGbjHXPTx1sVG48U.jpg"
+    },
+    {
+      "name": "Brian Cox",
+      "role": "Richard Morgan",
+      "url": "https://multimovies.city/cast/brian-cox/",
+      "image": "https://image.tmdb.org/t/p/w92/yvoAgJTOvuNSPSKegcIcD62ySY9.jpg"
+    },
+    {
+      "name": "Jane Alexander",
+      "role": "Dr. Grasnik",
+      "url": "https://multimovies.city/cast/jane-alexander/",
+      "image": "https://image.tmdb.org/t/p/w92/5nWLBhNH6tQGVskI89J45C7LU2o.jpg"
+    },
+    {
+      "name": "Lindsay Frost",
+      "role": "Ruth Embry",
+      "url": "https://multimovies.city/cast/lindsay-frost/",
+      "image": "https://image.tmdb.org/t/p/w92/jUnwp3mM3LUrPjHYS1N5v2Kb5PL.jpg"
+    },
+    {
+      "name": "Amber Tamblyn",
+      "role": "Katie Embry",
+      "url": "https://multimovies.city/cast/amber-tamblyn/",
+      "image": "https://image.tmdb.org/t/p/w92/bzw0lxvtbEnYT7fZ8fn6NeSzMn9.jpg"
+    },
+    {
+      "name": "Rachael Bella",
+      "role": "Rebecca Kotler",
+      "url": "https://multimovies.city/cast/rachael-bella/",
+      "image": "https://image.tmdb.org/t/p/w92/oB0339VrlKSbC92ovYhjtBEJhNu.jpg"
+    },
+    {
+      "name": "Daveigh Chase",
+      "role": "Samara Morgan",
+      "url": "https://multimovies.city/cast/daveigh-chase/",
+      "image": "https://image.tmdb.org/t/p/w92/3PVQPEc6nXNX2eoW2UbsfVikc7H.jpg"
+    },
+    {
+      "name": "Shannon Cochran",
+      "role": "Anna Morgan",
+      "url": "https://multimovies.city/cast/shannon-cochran/",
+      "image": "https://image.tmdb.org/t/p/w92/4Som3LsajmNzQNrzVs1t6dsuEog.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/6TBaTZCq0FdjrXcj9mKdHGpcr2D.jpg",
+    "https://image.tmdb.org/t/p/w300/kQOLgJGvFjQ7EwGfaPkW9dlGFXJ.jpg",
+    "https://image.tmdb.org/t/p/w300/ecSSbMesnRqm4yWWhQQ53IvKU5b.jpg",
+    "https://image.tmdb.org/t/p/w300/9D5iDqq0BoitxyEsfnsHzBH0zzY.jpg",
+    "https://image.tmdb.org/t/p/w300/43t4RuH05DX1VMcjBDb5VoQ7Npc.jpg",
+    "https://image.tmdb.org/t/p/w300/cAk3ujCRfZ8xuh9RdnDsGax5Hse.jpg",
+    "https://image.tmdb.org/t/p/w300/oLOPivSI72ZRpeFIrDbk6D66orW.jpg",
+    "https://image.tmdb.org/t/p/w300/A4o1syQdk73sauoV7xZaA5mnYen.jpg",
+    "https://image.tmdb.org/t/p/w300/7FIfr3l2eZfUPrJTaPPMGROjiyv.jpg",
+    "https://image.tmdb.org/t/p/w300/emTcZS6uKyrJt37MpYwGRRoHRAm.jpg"
+  ],
+  "similar": [],
+  "views": 7366,
+  "sources": [
+    "https://www.youtube.com/embed/ymPUAsPsTwg?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/dxlinew69z81"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 5033,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 5033,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:35:43.676075"
+}
