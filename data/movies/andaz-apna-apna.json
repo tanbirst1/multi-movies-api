@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/andaz-apna-apna/",
+  "meta": {
+    "title": "Andaz Apna Apna",
+    "poster": "https://image.tmdb.org/t/p/w500/l1tE1GspvcyeYSfKxmnh8DObnzG.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Apr. 11, 1994",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "Two slackers competing for the affections of an heiress inadvertently become her protectors from an evil criminal.",
+    "infoFields": {
+      "Original title": "\u0905\u0902\u0926\u093e\u091c\u093c \u0905\u092a\u0928\u093e \u0905\u092a\u0928\u093e",
+      "IMDb Rating": "8 56,679 votes",
+      "TMDb Rating": "6.702 225 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rajkumar Santoshi",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rajkumar-santoshi/",
+      "image": "https://image.tmdb.org/t/p/w92/8XUcYOEigleKe1ipxizoZ16Cmst.jpg"
+    },
+    {
+      "name": "Aamir Khan",
+      "role": "Amar Manohar",
+      "url": "https://multimovies.city/cast/aamir-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/lgUCJoOtMcYK2CLcic761bxZSUR.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Prem Bhopali",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/gxKwCCcs777HzsXRpdGsBV87pXn.jpg"
+    },
+    {
+      "name": "Raveena Tandon",
+      "role": "Raveena",
+      "url": "https://multimovies.city/cast/raveena-tandon/",
+      "image": "https://image.tmdb.org/t/p/w92/hZlFf8EvVWAz4qAM52J38k1TNs2.jpg"
+    },
+    {
+      "name": "Karisma Kapoor",
+      "role": "Karisma",
+      "url": "https://multimovies.city/cast/karisma-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/vaa4dSmayH71krkgnECXQsPaRre.jpg"
+    },
+    {
+      "name": "Paresh Rawal",
+      "role": "Ram Gopal Bajaj / Shyam Gopal Bajaj",
+      "url": "https://multimovies.city/cast/paresh-rawal/",
+      "image": "https://image.tmdb.org/t/p/w92/vqqA4DVnqIfvmGtwdwHtHEzMvst.jpg"
+    },
+    {
+      "name": "Shakti Kapoor",
+      "role": "Crime Master GoGo",
+      "url": "https://multimovies.city/cast/shakti-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/a7LjjoGOhUXXXLsVZlSjjAx8BoW.jpg"
+    },
+    {
+      "name": "Javed Khan",
+      "role": "Anand Akela",
+      "url": "https://multimovies.city/cast/javed-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/dYi2y5kxKRCRty0llXlt2sDO5xb.jpg"
+    },
+    {
+      "name": "Mehmood",
+      "role": "Johnny",
+      "url": "https://multimovies.city/cast/mehmood/",
+      "image": "https://image.tmdb.org/t/p/w92/oKEwflocXDa8EmHw5yyHZfGC7E3.jpg"
+    },
+    {
+      "name": "Harish Patel",
+      "role": "Sevaram",
+      "url": "https://multimovies.city/cast/harish-patel/",
+      "image": "https://image.tmdb.org/t/p/w92/g2aHA5J5ODMcBgIwCa72ykcmN85.jpg"
+    },
+    {
+      "name": "Viju Khote",
+      "role": "Robert",
+      "url": "https://multimovies.city/cast/viju-khote/",
+      "image": "https://image.tmdb.org/t/p/w92/fjPPIsJpmdFssi0IcwHNRPmnL5m.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/8YboYnoujBeWv4Galqnb7I0h9jf.jpg"
+  ],
+  "similar": [],
+  "views": 2424,
+  "sources": [
+    "https://www.youtube.com/embed/sW_HComeQpc?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/fhrasfk"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 3479,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 3479,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false
+}
