@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/never-back-down/",
+  "meta": {
+    "title": "Never Back Down",
+    "poster": "https://image.tmdb.org/t/p/w500/8oRUTyP1QAtGDMvRpKZyuyFPG0U.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Mar. 04, 2008",
+    "ratingValue": "9.3",
+    "ratingCount": "3",
+    "synopsis": "Jake, full of anger after his father\u2019s death, is just starting to find a place for himself at his new Orlando high school \u2013 until Ryan, head of an underground MMA fight club, picks Jake out as a prime opponent. After being trounced by Ryan in front of the entire school, Jake begins training under the firm, moral guidance of a MMA master, where he learns how to fight\u2026 and how to avoid a fight. But it becomes obvious that a rematch will be inevitable if Jake wants to stop Ryan and his bullying, once and for all.",
+    "infoFields": {
+      "Original title": "Never Back Down",
+      "IMDb Rating": "6.5 109,433 votes",
+      "TMDb Rating": "6.776 2,370 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jeff Wadlow",
+      "role": "Director",
+      "url": "https://multimovies.city/director/jeff-wadlow/",
+      "image": "https://image.tmdb.org/t/p/w92/8MquRXIWZ7t4YeOMvl68AX5Fb4b.jpg"
+    },
+    {
+      "name": "Sean Faris",
+      "role": "Jake Tyler",
+      "url": "https://multimovies.city/cast/sean-faris/",
+      "image": "https://image.tmdb.org/t/p/w92/pYzNCtRlFXOpJRB3sZe6GWBTYDN.jpg"
+    },
+    {
+      "name": "Amber Heard",
+      "role": "Baja Miller",
+      "url": "https://multimovies.city/cast/amber-heard/",
+      "image": "https://image.tmdb.org/t/p/w92/4MvTmHeIR715eCaQKvNFzyE1xU.jpg"
+    },
+    {
+      "name": "Cam Gigandet",
+      "role": "Ryan McCarthy",
+      "url": "https://multimovies.city/cast/cam-gigandet/",
+      "image": "https://image.tmdb.org/t/p/w92/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+    },
+    {
+      "name": "Djimon Hounsou",
+      "role": "Jean Roqua",
+      "url": "https://multimovies.city/cast/djimon-hounsou/",
+      "image": "https://image.tmdb.org/t/p/w92/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+    },
+    {
+      "name": "Evan Peters",
+      "role": "Max Cooperman",
+      "url": "https://multimovies.city/cast/evan-peters/",
+      "image": "https://image.tmdb.org/t/p/w92/82yu3I5vSoEqnIL3GE8oB5DHehI.jpg"
+    },
+    {
+      "name": "Leslie Hope",
+      "role": "Margot Tyler",
+      "url": "https://multimovies.city/cast/leslie-hope/",
+      "image": "https://image.tmdb.org/t/p/w92/pLvZqTqyAh0YmC7egk460I5py42.jpg"
+    },
+    {
+      "name": "Wyatt Smith",
+      "role": "Charlie Tyler",
+      "url": "https://multimovies.city/cast/wyatt-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/q3hvJRLiUCiY8vpvPxPoMxSNB67.jpg"
+    },
+    {
+      "name": "Neil Brown Jr.",
+      "role": "Aaron",
+      "url": "https://multimovies.city/cast/neil-brown-jr/",
+      "image": "https://image.tmdb.org/t/p/w92/5FrAdtqBbV7jgNiDwsR4ATKgv3I.jpg"
+    },
+    {
+      "name": "Lauren Leech",
+      "role": "Jenny",
+      "url": "https://multimovies.city/cast/lauren-leech/",
+      "image": "https://image.tmdb.org/t/p/w92/hjVSbAg8udB5Kq1m7ND5GRLu4nC.jpg"
+    },
+    {
+      "name": "Tilky Jones",
+      "role": "Eric",
+      "url": "https://multimovies.city/cast/tilky-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/nNrJWnbSWt01zcT8pPnFCFLXEbW.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/h71xyiurUscD6uIPbECyso1Lwb9.jpg",
+    "https://image.tmdb.org/t/p/w300/friU3sWmplu7NbBEQBUFHyulsyY.jpg",
+    "https://image.tmdb.org/t/p/w300/iiWUqHA6RyrYkzF3l5o2deumtOv.jpg",
+    "https://image.tmdb.org/t/p/w300/A9xmQahKxdUmdoTqdgWosaYoDJU.jpg",
+    "https://image.tmdb.org/t/p/w300/2TmTV4NJETQPWRaOogpVg69vBh8.jpg",
+    "https://image.tmdb.org/t/p/w300/5XlOI0yFHIdAMKJBoN2hMHAZqay.jpg",
+    "https://image.tmdb.org/t/p/w300/liZhymkxTvZ01Wae9PxH05QXXwj.jpg",
+    "https://image.tmdb.org/t/p/w300/pBSbCJNtpL13hfrCb4kkA3FWWk7.jpg",
+    "https://image.tmdb.org/t/p/w300/yAEqrOgg6aB2sodeywPM3Pigubr.jpg",
+    "https://image.tmdb.org/t/p/w300/12SrfMhQzYDfI43sVRFT1gQYfjA.jpg"
+  ],
+  "similar": [],
+  "views": 575,
+  "sources": [
+    "https://www.youtube.com/embed/2tc-RPjZRm8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/olmunsp"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 93770,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 93770,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:17:20.884175"
+}
