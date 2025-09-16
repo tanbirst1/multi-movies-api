@@ -4,15 +4,136 @@
   "meta": {
     "title": "Harry Potter and the Philosopher\u2019s Stone",
     "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
-    "synopsis": "Harry Potter has lived under the stairs at his aunt and uncle\u2019s house his whole life. But on his 11th birthday, he learns he\u2019s a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school\u2019s kindly headmaster, Harry uncovers the truth about his parents\u2019 deaths\u2014and about the villain who\u2019s to blame."
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Harry Potter movies",
+        "url": "https://multimovies.city/genre/multimovies-com-harry-potter-movies/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 16, 2001",
+    "ratingValue": "9.1",
+    "ratingCount": "122",
+    "synopsis": "Harry Potter has lived under the stairs at his aunt and uncle\u2019s house his whole life. But on his 11th birthday, he learns he\u2019s a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school\u2019s kindly headmaster, Harry uncovers the truth about his parents\u2019 deaths\u2014and about the villain who\u2019s to blame.",
+    "infoFields": {
+      "Original title": "Harry Potter and the Philosopher's Stone",
+      "IMDb Rating": "7.6 802,645 votes",
+      "TMDb Rating": "7.904 27,959 votes"
+    }
   },
   "seasons": [],
-  "cast": [],
-  "gallery": [],
+  "cast": [
+    {
+      "name": "David R. Ellis",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-r-ellis/",
+      "image": "https://image.tmdb.org/t/p/w92/zw1ccRyxUBy0y7JDdXTZAYg96xd.jpg"
+    },
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "url": "https://multimovies.city/cast/daniel-radcliffe/",
+      "image": "https://image.tmdb.org/t/p/w92/iPg0J9UzAlPj1fLEJNllpW9IhGe.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "url": "https://multimovies.city/cast/rupert-grint/",
+      "image": "https://image.tmdb.org/t/p/w92/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "url": "https://multimovies.city/cast/emma-watson/",
+      "image": "https://image.tmdb.org/t/p/w92/tvPPRGzAzdQFhlKzLbMO1EpuTJI.jpg"
+    },
+    {
+      "name": "Richard Harris",
+      "role": "Albus Dumbledore",
+      "url": "https://multimovies.city/cast/richard-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg"
+    },
+    {
+      "name": "Tom Felton",
+      "role": "Draco Malfoy",
+      "url": "https://multimovies.city/cast/tom-felton/",
+      "image": "https://image.tmdb.org/t/p/w92/bg5TcioIqc5Kt6CE609wXziZ9Cm.jpg"
+    },
+    {
+      "name": "Alan Rickman",
+      "role": "Severus Snape",
+      "url": "https://multimovies.city/cast/alan-rickman/",
+      "image": "https://image.tmdb.org/t/p/w92/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "role": "Rubeus Hagrid",
+      "url": "https://multimovies.city/cast/robbie-coltrane/",
+      "image": "https://image.tmdb.org/t/p/w92/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "name": "Maggie Smith",
+      "role": "Minerva McGonagall",
+      "url": "https://multimovies.city/cast/maggie-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/xuqPZ9Go8qe3G35tVhtRX1QvN21.jpg"
+    },
+    {
+      "name": "Richard Griffiths",
+      "role": "Vernon Dursley",
+      "url": "https://multimovies.city/cast/richard-griffiths/",
+      "image": "https://image.tmdb.org/t/p/w92/EuV0DyZ5nBh3ZAUWjEqdWlt8sK.jpg"
+    },
+    {
+      "name": "Ian Hart",
+      "role": "Quirinus Quirrell / Voldemort",
+      "url": "https://multimovies.city/cast/ian-hart/",
+      "image": "https://image.tmdb.org/t/p/w92/mP4g3ipzMZtaUCXQMWud1Ar36mB.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+    "https://image.tmdb.org/t/p/w300/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg",
+    "https://image.tmdb.org/t/p/w300/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
+    "https://image.tmdb.org/t/p/w300/dheweOqEqfXi0ythjWt9ClzChnm.jpg",
+    "https://image.tmdb.org/t/p/w300/nKgjbXiWX1XxEj5j694nlJMJPFV.jpg",
+    "https://image.tmdb.org/t/p/w300/lvOLivVeX3DVVcwfVkxKf0R22D8.jpg",
+    "https://image.tmdb.org/t/p/w300/4GlSMUpzSd3cliYGFJVziSDX53S.jpg",
+    "https://image.tmdb.org/t/p/w300/pajKyahlPPggk0k5LiA2v4kwWqn.jpg",
+    "https://image.tmdb.org/t/p/w300/oWqEyQfaod2uVj3pwr5n7KL0760.jpg",
+    "https://image.tmdb.org/t/p/w300/7lC2Jl9XqyRXzcLt8q8AUY61Ji2.jpg"
+  ],
   "similar": [],
-  "views": 0,
-  "sources": [],
-  "options": [],
+  "views": 93663,
+  "sources": [
+    "https://www.youtube.com/embed/PbdM1db3JbY?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/n6ugl78"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 429,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 429,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
   "cache": false,
-  "last_update": "2025-09-16 14:29:20"
+  "last_update": "2025-09-16T17:31:40.060059"
 }
