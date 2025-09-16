@@ -1,0 +1,124 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/sniper-3/",
+  "meta": {
+    "title": "Sniper 3",
+    "poster": "https://image.tmdb.org/t/p/w500/7hY5Yi8cMcXcdx12lv2t8MjUI2U.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Oct. 18, 2004",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Master Gunnery Sergeant Thomas Beckett is the U.S. Marine Corps\u2019 most decorated sniper. His has taken out warlords, drug lords, assassins, and bitter foes. This time, he\u2019s going after a friend.",
+    "infoFields": {
+      "Original title": "Sniper 3",
+      "IMDb Rating": "5.2 4,375 votes",
+      "TMDb Rating": "5.478 93 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "P.J. Pesce",
+      "role": "Director",
+      "url": "https://multimovies.city/director/p-j-pesce/",
+      "image": "https://image.tmdb.org/t/p/w92/6auV35gTuMwgakOrjRj2C6wSL2q.jpg"
+    },
+    {
+      "name": "Tom Berenger",
+      "role": "Thomas Beckett",
+      "url": "https://multimovies.city/cast/tom-berenger/",
+      "image": "https://image.tmdb.org/t/p/w92/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg"
+    },
+    {
+      "name": "Byron Mann",
+      "role": "Quan",
+      "url": "https://multimovies.city/cast/byron-mann/",
+      "image": "https://image.tmdb.org/t/p/w92/lJXes5cQU2a3x5V4auFV4CFyrYB.jpg"
+    },
+    {
+      "name": "John Doman",
+      "role": "Paul Finnegan",
+      "url": "https://multimovies.city/cast/john-doman/",
+      "image": "https://image.tmdb.org/t/p/w92/2HQRXWb6QrUFHJtJrgY8zpLP8u8.jpg"
+    },
+    {
+      "name": "Denis Arndt",
+      "role": "William Avery",
+      "url": "https://multimovies.city/cast/denis-arndt/",
+      "image": "https://image.tmdb.org/t/p/w92/sNE3BkuIyueLgekEVxpyQgbbWTN.jpg"
+    },
+    {
+      "name": "Troy Winbush",
+      "role": "Captain Laraby",
+      "url": "https://multimovies.city/cast/troy-winbush/",
+      "image": "https://image.tmdb.org/t/p/w92/aGxjCVonALJublMfkLp3BZBiDg3.jpg"
+    },
+    {
+      "name": "Jeannetta Arnette",
+      "role": "Sydney",
+      "url": "https://multimovies.city/cast/jeannetta-arnette/",
+      "image": "https://image.tmdb.org/t/p/w92/8QnbJRo9PkDrkFeqqr4mxij4sjj.jpg"
+    },
+    {
+      "name": "William Duffy",
+      "role": "Richard Addis",
+      "url": "https://multimovies.city/cast/william-duffy/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Nophand Boonyai",
+      "role": "Tran",
+      "url": "https://multimovies.city/cast/nophand-boonyai/",
+      "image": "https://image.tmdb.org/t/p/w92/viXtPZqAUmxC3ZitOJ18LckHpcR.jpg"
+    },
+    {
+      "name": "Dom Hetrakul",
+      "role": "Chu",
+      "url": "https://multimovies.city/cast/dom-hetrakul/",
+      "image": "https://image.tmdb.org/t/p/w92/3yjEcnMGeigyjyfDa1znycBhvkh.jpg"
+    },
+    {
+      "name": "Govit Vattanakun",
+      "role": "Chinaman",
+      "url": "https://multimovies.city/cast/govit-vattanakun/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kqcEI7KUlfHjkzEda92xY3FjgPB.jpg",
+    "https://image.tmdb.org/t/p/w300/ta4dYDguNq9POcGO09QwOjDunCK.jpg"
+  ],
+  "similar": [],
+  "views": 504,
+  "sources": [
+    "https://multimoviesshg.com/e/enzir9fbbvo8"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 20236,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:49:22.938620"
+}
