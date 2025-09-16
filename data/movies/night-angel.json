@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/night-angel/",
+  "meta": {
+    "title": "Night Angel",
+    "poster": "https://image.tmdb.org/t/p/w500/3Zhz06R85F0QfDyTILVurLkMUNu.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Jun. 02, 1990",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "A legendary she-demon, in the updated guise of a beautiful model, infiltrates the offices of a successful fashion magazine with the aim of corrupting the world via mass media.",
+    "infoFields": {
+      "Original title": "Night Angel",
+      "IMDb Rating": "4.5 779 votes",
+      "TMDb Rating": "4.5 15 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Dominique Othenin-Girard",
+      "role": "Director",
+      "url": "https://multimovies.city/director/dominique-othenin-girard/",
+      "image": "https://image.tmdb.org/t/p/w92/xvWq96ybR6620liE2S3RjDrkUsC.jpg"
+    },
+    {
+      "name": "Isa Jank",
+      "role": "Lilith",
+      "url": "https://multimovies.city/cast/isa-jank/",
+      "image": "https://image.tmdb.org/t/p/w92/eUFxcuxTBsoqRRxewb8rmo9HttL.jpg"
+    },
+    {
+      "name": "Linden Ashby",
+      "role": "Craig",
+      "url": "https://multimovies.city/cast/linden-ashby/",
+      "image": "https://image.tmdb.org/t/p/w92/nflhvj2uJAr2S9aWvnbQWCUXC9a.jpg"
+    },
+    {
+      "name": "Debra Feuer",
+      "role": "Kirstie",
+      "url": "https://multimovies.city/cast/debra-feuer/",
+      "image": "https://image.tmdb.org/t/p/w92/38H5zgkzJGuTXIuzQvi9AjSwIXS.jpg"
+    },
+    {
+      "name": "Helen Martin",
+      "role": "Sadie",
+      "url": "https://multimovies.city/cast/helen-martin/",
+      "image": "https://image.tmdb.org/t/p/w92/vgx3N9pRkJIyw3xCflbbwQzw0hG.jpg"
+    },
+    {
+      "name": "Karen Black",
+      "role": "Rita",
+      "url": "https://multimovies.city/cast/karen-black/",
+      "image": "https://image.tmdb.org/t/p/w92/2FUHvpCZ8A3we7yaEvIK8r06fCL.jpg"
+    },
+    {
+      "name": "Doug Jones",
+      "role": "Ken",
+      "url": "https://multimovies.city/cast/doug-jones/",
+      "image": "https://image.tmdb.org/t/p/w92/4C2rJbkgpD3wsdIzJHxk5rcEqTZ.jpg"
+    },
+    {
+      "name": "Gary Hudson",
+      "role": "Rod",
+      "url": "https://multimovies.city/cast/gary-hudson/",
+      "image": "https://image.tmdb.org/t/p/w92/xXabn1GlAdF3n7Mcj5OUwe7WTLY.jpg"
+    },
+    {
+      "name": "Sam Hennings",
+      "role": "Mr. Crenshaw",
+      "url": "https://multimovies.city/cast/sam-hennings/",
+      "image": "https://image.tmdb.org/t/p/w92/wVw51UxN2q68F3bXEVm2P5v4HkC.jpg"
+    },
+    {
+      "name": "Tedra Gabriel",
+      "role": "Mrs. Crenshaw",
+      "url": "https://multimovies.city/cast/tedra-gabriel/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Phil Fondacaro",
+      "role": "Sammael",
+      "url": "https://multimovies.city/cast/phil-fondacaro/",
+      "image": "https://image.tmdb.org/t/p/w92/vJbPx90IzOdE6L1maYu1HIJayjG.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iGNYj9xdXxpwQK7arMnKhczxx7o.jpg",
+    "https://image.tmdb.org/t/p/w300/cPoz3kptfAl5ZItvBueT0Tp2Vrt.jpg",
+    "https://image.tmdb.org/t/p/w300/uAHUe4quaoDkgTypci8xkrF3sIC.jpg"
+  ],
+  "similar": [],
+  "views": 896,
+  "sources": [
+    "https://www.youtube.com/embed/aslLVkcBHIc?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/n5ok6p3iy8iz"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 52038,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 52038,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false
+}
