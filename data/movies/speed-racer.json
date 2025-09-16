@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/speed-racer/",
+  "meta": {
+    "title": "Speed Racer",
+    "poster": "https://image.tmdb.org/t/p/w500/x800OyHuJ9JDuhHLtdPLkH1vBjw.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "May. 07, 2008",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Speed Racer is a young and brilliant racing driver. When corruption in the racing leagues costs his brother his life, Speed must team up with the police and the mysterious Racer X to bring an end to the corruption and criminal activities.",
+    "infoFields": {
+      "Original title": "Speed Racer",
+      "IMDb Rating": "6.1 79,509 votes",
+      "TMDb Rating": "6.279 1,536 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Lana Wachowski",
+      "role": "Director",
+      "url": "https://multimovies.city/director/lana-wachowski/",
+      "image": "https://image.tmdb.org/t/p/w92/4nE4ttPQBuw1virOz0LYT08c1Vm.jpg"
+    },
+    {
+      "name": "Emile Hirsch",
+      "role": "Speed Racer",
+      "url": "https://multimovies.city/cast/emile-hirsch/",
+      "image": "https://image.tmdb.org/t/p/w92/qxshYNcE9yYBvdY5oXp9v6lglG0.jpg"
+    },
+    {
+      "name": "Christina Ricci",
+      "role": "Trixie",
+      "url": "https://multimovies.city/cast/christina-ricci/",
+      "image": "https://image.tmdb.org/t/p/w92/dzB58d6fNrTEi7nBAU1tySJc2at.jpg"
+    },
+    {
+      "name": "John Goodman",
+      "role": "Pops Racer",
+      "url": "https://multimovies.city/cast/john-goodman/",
+      "image": "https://image.tmdb.org/t/p/w92/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg"
+    },
+    {
+      "name": "Susan Sarandon",
+      "role": "Mom Racer",
+      "url": "https://multimovies.city/cast/susan-sarandon/",
+      "image": "https://image.tmdb.org/t/p/w92/oHYYL8bNakAREaLUBtMul5uMG0A.jpg"
+    },
+    {
+      "name": "Matthew Fox",
+      "role": "Racer X",
+      "url": "https://multimovies.city/cast/matthew-fox/",
+      "image": "https://image.tmdb.org/t/p/w92/ynb8OvZI4tkoPyovbmtm3HxwvUV.jpg"
+    },
+    {
+      "name": "Benno F\u00fcrmann",
+      "role": "Inspector Detector",
+      "url": "https://multimovies.city/cast/benno-furmann/",
+      "image": "https://image.tmdb.org/t/p/w92/9fpaebMks57Qos5BnO6NyuYYUZz.jpg"
+    },
+    {
+      "name": "Hiroyuki Sanada",
+      "role": "Mr. Musha",
+      "url": "https://multimovies.city/cast/hiroyuki-sanada/",
+      "image": "https://image.tmdb.org/t/p/w92/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg"
+    },
+    {
+      "name": "Rain",
+      "role": "Taejo Togokahn",
+      "url": "https://multimovies.city/cast/rain/",
+      "image": "https://image.tmdb.org/t/p/w92/aXOjIBUxu7fmBOxTJcgYmtTKD1D.jpg"
+    },
+    {
+      "name": "Richard Roundtree",
+      "role": "Ben Burns",
+      "url": "https://multimovies.city/cast/richard-roundtree/",
+      "image": "https://image.tmdb.org/t/p/w92/wPuLgW8PrzJFBrfsB03oon5MT7f.jpg"
+    },
+    {
+      "name": "Karl Yune",
+      "role": "Taejo Body Guard",
+      "url": "https://multimovies.city/cast/karl-yune/",
+      "image": "https://image.tmdb.org/t/p/w92/4GI4p5aPfW0vI20IdJOcxD5BEqr.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kH14XvCHKfMRz1sNsAMY0KpAKb0.jpg",
+    "https://image.tmdb.org/t/p/w300/9sv72zLn2gRK7M5kUUB8lCRMHJ0.jpg",
+    "https://image.tmdb.org/t/p/w300/4lXZkIp40nwcxEYhrCCGjs0qUXw.jpg",
+    "https://image.tmdb.org/t/p/w300/vX2yfqVqw6mgafFhieyKdBU6srj.jpg",
+    "https://image.tmdb.org/t/p/w300/o17ow23s4tOPMAf9QglQsjIylCL.jpg",
+    "https://image.tmdb.org/t/p/w300/gmajPEDdGycl5RF7cnAus84f8LL.jpg",
+    "https://image.tmdb.org/t/p/w300/AisTvcsM1tpQRhR59PUq6t2HNM5.jpg",
+    "https://image.tmdb.org/t/p/w300/A54139JsCa35ZM0rO3eNLwNr4pq.jpg",
+    "https://image.tmdb.org/t/p/w300/tBT7TYaSz9WhOIGoNx7dlyEvuuL.jpg",
+    "https://image.tmdb.org/t/p/w300/yjQqIDQ5ZPRz0tiimKPP71c3o6I.jpg"
+  ],
+  "similar": [],
+  "views": 287,
+  "sources": [
+    "https://www.youtube.com/embed/M_RpBi3W1Eo?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/hwapqif"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 66570,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 66570,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:21:36.269905"
+}
