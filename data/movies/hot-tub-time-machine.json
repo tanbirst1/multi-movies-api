@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hot-tub-time-machine/",
+  "meta": {
+    "title": "Hot Tub Time Machine",
+    "poster": "https://image.tmdb.org/t/p/w500/wjzbVXAes1acbh6k4OO5xVfy5.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Mar. 26, 2010",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Four pals are stuck in a rut in adulthood: Adam has just been dumped, Lou is a hopeless party animal, Craig is a henpecked husband, and Jacob does nothing but play video games in his basement. But they get a chance to brighten their future by changing their past after a night of heavy drinking in a ski-resort hot tub results in their waking up in 1986.",
+    "infoFields": {
+      "Original title": "Hot Tub Time Machine",
+      "IMDb Rating": "6.4 187,291 votes",
+      "TMDb Rating": "6.038 2,384 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Steve Pink",
+      "role": "Director",
+      "url": "https://multimovies.city/director/steve-pink/",
+      "image": "https://image.tmdb.org/t/p/w92/m1JexFpTc8bPFulS2kyXmSup0Vy.jpg"
+    },
+    {
+      "name": "John Cusack",
+      "role": "Adam",
+      "url": "https://multimovies.city/cast/john-cusack/",
+      "image": "https://image.tmdb.org/t/p/w92/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+    },
+    {
+      "name": "Craig Robinson",
+      "role": "Nick",
+      "url": "https://multimovies.city/cast/craig-robinson/",
+      "image": "https://image.tmdb.org/t/p/w92/nWZI2ghokrha2lYnr5Z48agItL7.jpg"
+    },
+    {
+      "name": "Rob Corddry",
+      "role": "Lou",
+      "url": "https://multimovies.city/cast/rob-corddry/",
+      "image": "https://image.tmdb.org/t/p/w92/AjCLr5ZjP6iiP8D6SHQVCZ720nA.jpg"
+    },
+    {
+      "name": "Clark Duke",
+      "role": "Jacob",
+      "url": "https://multimovies.city/cast/clark-duke/",
+      "image": "https://image.tmdb.org/t/p/w92/oNzK0umwm5Wn0wyEbOy6TVJCSBn.jpg"
+    },
+    {
+      "name": "Sebastian Stan",
+      "role": "Blaine",
+      "url": "https://multimovies.city/cast/sebastian-stan/",
+      "image": "https://image.tmdb.org/t/p/w92/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+    },
+    {
+      "name": "Crispin Glover",
+      "role": "Phil",
+      "url": "https://multimovies.city/cast/crispin-glover/",
+      "image": "https://image.tmdb.org/t/p/w92/e6lbvXOnVEGDLn9OpaLQpwMSWe3.jpg"
+    },
+    {
+      "name": "Lyndsy Fonseca",
+      "role": "Jennie",
+      "url": "https://multimovies.city/cast/lyndsy-fonseca/",
+      "image": "https://image.tmdb.org/t/p/w92/nFgo7oEqvwubxejBfNQwHv8Tp3x.jpg"
+    },
+    {
+      "name": "Lizzy Caplan",
+      "role": "April",
+      "url": "https://multimovies.city/cast/lizzy-caplan/",
+      "image": "https://image.tmdb.org/t/p/w92/xOLXlzpSJExsBlKroCyCNGhzQEU.jpg"
+    },
+    {
+      "name": "Collette Wolfe",
+      "role": "Kelly",
+      "url": "https://multimovies.city/cast/collette-wolfe/",
+      "image": "https://image.tmdb.org/t/p/w92/cyX7HFrY1YYgXXrveGlaFGAAmKn.jpg"
+    },
+    {
+      "name": "William Zabka",
+      "role": "Rick",
+      "url": "https://multimovies.city/cast/william-zabka/",
+      "image": "https://image.tmdb.org/t/p/w92/AoTxNif6Kv5KtIk3YdfQUxLrLeR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wwzuxanisjA7GhZOPYaWlfmlCKY.jpg",
+    "https://image.tmdb.org/t/p/w300/eBqWe0pngqkaphoectaxcVP1D4k.jpg",
+    "https://image.tmdb.org/t/p/w300/aMnBqdlb0CMZLsvEghYw9doOSHX.jpg",
+    "https://image.tmdb.org/t/p/w300/spMWCJDrVVc3DpWF24rKyHOmYRG.jpg",
+    "https://image.tmdb.org/t/p/w300/rOaLBR6ERu7zb6otvzw3kt8qC35.jpg",
+    "https://image.tmdb.org/t/p/w300/xGZqk56DoAT6o3ovh1B3a7CzgSV.jpg",
+    "https://image.tmdb.org/t/p/w300/mWrodw1sjDAf7IjFPHCptBUCiiT.jpg"
+  ],
+  "similar": [],
+  "views": 708,
+  "sources": [
+    "https://www.youtube.com/embed/u1FnYvk6KP0?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/tsfcgu6bda8g"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 54330,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 54330,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:42:15.561319"
+}
