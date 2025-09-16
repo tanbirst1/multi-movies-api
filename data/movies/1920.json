@@ -1,0 +1,122 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/1920/",
+  "meta": {
+    "title": "1920",
+    "poster": "https://image.tmdb.org/t/p/w500/i9rva37n3B27xHmcur8oxW8Ludi.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "Sep. 12, 2008",
+    "ratingValue": "5.5",
+    "ratingCount": "2",
+    "synopsis": "The year is 1920 and the house isolated in the wilderness has a secret. It is waiting for the curse to come true. For years, everyone who has bought the house and tried to pull it down has died of mysterious circumstances. It is like the house has a will and a life of its own.",
+    "infoFields": {
+      "Original title": "1920",
+      "IMDb Rating": "6.5 4,495 votes",
+      "TMDb Rating": "5.528 36 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Vikram Bhatt",
+      "role": "Director",
+      "url": "https://multimovies.city/director/vikram-bhatt/",
+      "image": "https://image.tmdb.org/t/p/w92/xK23RuAHLaXx8lU6h9VMRYjVWho.jpg"
+    },
+    {
+      "name": "Rajneesh Duggal",
+      "role": "Arjun Singh Rathod",
+      "url": "https://multimovies.city/cast/rajneesh-duggal/",
+      "image": "https://image.tmdb.org/t/p/w92/70Ym4VWjrApsNWBRX3TVEN9LlYM.jpg"
+    },
+    {
+      "name": "Adah Sharma",
+      "role": "Lisa Singh Rathod",
+      "url": "https://multimovies.city/cast/adah-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/7zODp1yRHDyzcUXsi10ouHYY9IV.jpg"
+    },
+    {
+      "name": "Raj Zutshi",
+      "role": "Father Thomas",
+      "url": "https://multimovies.city/cast/raj-zutshi/",
+      "image": "https://image.tmdb.org/t/p/w92/aJmWL08uj2oVGd2cJmBuzNSO2LY.jpg"
+    },
+    {
+      "name": "Vipin Sharma",
+      "role": "Balwanth",
+      "url": "https://multimovies.city/cast/vipin-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/3TZHbQ1Zi3z1B721jwwTKxAMXqI.jpg"
+    },
+    {
+      "name": "Anjori Alagh",
+      "role": "Gayatri",
+      "url": "https://multimovies.city/cast/anjori-alagh/",
+      "image": "https://image.tmdb.org/t/p/w92/s54g21ulnCvMlAYWRlQ92SUkg4b.jpg"
+    },
+    {
+      "name": "Indraneil Sengupta",
+      "role": "Mohan Kant",
+      "url": "https://multimovies.city/cast/indraneil-sengupta/",
+      "image": "https://image.tmdb.org/t/p/w92/vjigFQVRuIHMd6ztGsR0jeDAT92.jpg"
+    },
+    {
+      "name": "Amin Hajee",
+      "role": "M.K",
+      "url": "https://multimovies.city/cast/amin-hajee/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Shri Vallabh Vyas",
+      "role": "Doctor",
+      "url": "https://multimovies.city/cast/shri-vallabh-vyas/",
+      "image": "https://image.tmdb.org/t/p/w92/5klAtl7eIk6OIcd2AerJRp7dHVF.jpg"
+    },
+    {
+      "name": "Rakhi Sawant",
+      "role": "Jumpa in Song \"Bichua\"",
+      "url": "https://multimovies.city/cast/rakhi-sawant/",
+      "image": "https://image.tmdb.org/t/p/w92/uTgCw0pcfqPf0HLb2vrcJvkwRTi.jpg"
+    },
+    {
+      "name": "Bob Brahmbhatt",
+      "role": "Guest Appearance",
+      "url": "https://multimovies.city/cast/bob-brahmbhatt/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/20B5zpNaZW4lq2A37wOO0i2diVC.jpg"
+  ],
+  "similar": [],
+  "views": 693,
+  "sources": [
+    "https://www.youtube.com/embed/5Mgj2nMoKN4?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/fx4p43v"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 100097,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 100097,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:23:58.306581"
+}
