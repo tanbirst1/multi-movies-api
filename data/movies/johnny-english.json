@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/johnny-english/",
+  "meta": {
+    "title": "Johnny English",
+    "poster": "https://image.tmdb.org/t/p/w500/mmzW88tnkB2MnOV3Un2F9IUxSnZ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Mar. 14, 2003",
+    "ratingValue": "9.4",
+    "ratingCount": "8",
+    "synopsis": "A lowly pencil pusher working for MI7, Johnny English is suddenly promoted to super spy after Agent One is assassinated and every other agent is blown up at his funeral. When a billionaire entrepreneur sponsors the exhibition of the Crown Jewels\u2014and the valuable gems disappear on the opening night and on English\u2019s watch\u2014the newly-designated agent must jump into action to find the thief and recover the missing gems.",
+    "infoFields": {
+      "Original title": "Johnny English",
+      "IMDb Rating": "6.3 179,244 votes",
+      "TMDb Rating": "6.3 3,498 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Peter Chiang",
+      "role": "Director",
+      "url": "https://multimovies.city/director/peter-chiang/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Rowan Atkinson",
+      "role": "Johnny English",
+      "url": "https://multimovies.city/cast/rowan-atkinson/",
+      "image": "https://image.tmdb.org/t/p/w92/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+    },
+    {
+      "name": "Natalie Imbruglia",
+      "role": "Lorna Campbell",
+      "url": "https://multimovies.city/cast/natalie-imbruglia/",
+      "image": "https://image.tmdb.org/t/p/w92/7y56zQpHkbGQ4QPTv7tdOSpcpe5.jpg"
+    },
+    {
+      "name": "Ben Miller",
+      "role": "Bough",
+      "url": "https://multimovies.city/cast/ben-miller/",
+      "image": "https://image.tmdb.org/t/p/w92/ij5nhtBWhCaOl4IEn8XhOYAGqB1.jpg"
+    },
+    {
+      "name": "John Malkovich",
+      "role": "Pascal Sauvage",
+      "url": "https://multimovies.city/cast/john-malkovich/",
+      "image": "https://image.tmdb.org/t/p/w92/5coH0AExljEnbseCXKL4CDOVQj8.jpg"
+    },
+    {
+      "name": "Greg Wise",
+      "role": "Agent One",
+      "url": "https://multimovies.city/cast/greg-wise/",
+      "image": "https://image.tmdb.org/t/p/w92/3yjzOyFVc8TpPW0Q8svr4ykD2kW.jpg"
+    },
+    {
+      "name": "Tasha de Vasconcelos",
+      "role": "Countess Alexandra - Exotic Woman",
+      "url": "https://multimovies.city/cast/tasha-de-vasconcelos/",
+      "image": "https://image.tmdb.org/t/p/w92/z8ciRWUSnzWdeV6zglkMuXd0IQl.jpg"
+    },
+    {
+      "name": "Douglas McFerran",
+      "role": "Carlos Vendetta",
+      "url": "https://multimovies.city/cast/douglas-mcferran/",
+      "image": "https://image.tmdb.org/t/p/w92/427lgCCib6F8FjCexGSExncNPrd.jpg"
+    },
+    {
+      "name": "Steve Nicolson",
+      "role": "Dieter Klein",
+      "url": "https://multimovies.city/cast/steve-nicolson/",
+      "image": "https://image.tmdb.org/t/p/w92/sDKa7APmYXE1t6AjGYImYaWecGt.jpg"
+    },
+    {
+      "name": "Terence Harvey",
+      "role": "Official at Funeral",
+      "url": "https://multimovies.city/cast/terence-harvey/",
+      "image": "https://image.tmdb.org/t/p/w92/p9gjpEFyW6V92sVcd1SF5kXY6rz.jpg"
+    },
+    {
+      "name": "Kevin McNally",
+      "role": "Prime Minister",
+      "url": "https://multimovies.city/cast/kevin-mcnally/",
+      "image": "https://image.tmdb.org/t/p/w92/1QvG7MbfeWxb4LlZrlR4OtwvB8v.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/tGcIy7gA8jwYpi5W2UB1Rxrk2i6.jpg",
+    "https://image.tmdb.org/t/p/w300/gtDuUEprJkTIrzcO2vFsXgdkJ0R.jpg",
+    "https://image.tmdb.org/t/p/w300/pQs5BG6OZsny0zPj2cXlBElafFp.jpg"
+  ],
+  "similar": [],
+  "views": 7173,
+  "sources": [
+    "https://www.youtube.com/embed/7VlpHnog6rw?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/f2w5ivm"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 9484,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 9484,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:38:52.666496"
+}
