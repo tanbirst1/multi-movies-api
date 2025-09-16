@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/martyrs/",
+  "meta": {
+    "title": "Martyrs",
+    "poster": "https://image.tmdb.org/t/p/w500/5yfPA9lXqONtLMgZks87ECob1A5.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jun. 12, 2008",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "A young woman\u2019s quest for revenge against the people who kidnapped and tortured her as a child leads her and her best friend, also a victim of child abuse, on a terrifying journey into a living hell of depravity.",
+    "infoFields": {
+      "Original title": "Martyrs",
+      "IMDb Rating": "7 115,065 votes",
+      "TMDb Rating": "7.3 2,820 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Pascal Laugier",
+      "role": "Director",
+      "url": "https://multimovies.city/director/pascal-laugier/",
+      "image": "https://image.tmdb.org/t/p/w92/1s4nJTsl921VAOwyBoXqByvOS19.jpg"
+    },
+    {
+      "name": "Morjana Alaoui",
+      "role": "Anna Assaoui",
+      "url": "https://multimovies.city/cast/morjana-alaoui/",
+      "image": "https://image.tmdb.org/t/p/w92/7za8OMBWneCRIbJDRtjZzdTbQkm.jpg"
+    },
+    {
+      "name": "Myl\u00e8ne Jampano\u00ef",
+      "role": "Lucie Jurin",
+      "url": "https://multimovies.city/cast/mylene-jampanoi/",
+      "image": "https://image.tmdb.org/t/p/w92/mTEI86ajYXgOLimGrOKxtHFV1Ek.jpg"
+    },
+    {
+      "name": "Catherine B\u00e9gin",
+      "role": "Mademoiselle",
+      "url": "https://multimovies.city/cast/catherine-begin/",
+      "image": "https://image.tmdb.org/t/p/w92/q0Yjn2Xv5ZjpYDonPSe5Paf9K0v.jpg"
+    },
+    {
+      "name": "Robert Toupin",
+      "role": "Father",
+      "url": "https://multimovies.city/cast/robert-toupin/",
+      "image": "https://image.tmdb.org/t/p/w92/stGACej0jp2ErVAMYDlZNAdMbJ4.jpg"
+    },
+    {
+      "name": "Patricia Tulasne",
+      "role": "Mother",
+      "url": "https://multimovies.city/cast/patricia-tulasne/",
+      "image": "https://image.tmdb.org/t/p/w92/2j11ix8yvoINGGfho4U5C96U4C0.jpg"
+    },
+    {
+      "name": "Juliette Gosselin",
+      "role": "Marie",
+      "url": "https://multimovies.city/cast/juliette-gosselin/",
+      "image": "https://image.tmdb.org/t/p/w92/mee5liXgHklccsrP8alyWJw7gGy.jpg"
+    },
+    {
+      "name": "Xavier Dolan",
+      "role": "Antoine",
+      "url": "https://multimovies.city/cast/xavier-dolan/",
+      "image": "https://image.tmdb.org/t/p/w92/sKvDmg9HQ6zauWo5XpsBVR8xBf4.jpg"
+    },
+    {
+      "name": "Jean-Marie Moncelet",
+      "role": "\u00c9tienne",
+      "url": "https://multimovies.city/cast/jean-marie-moncelet/",
+      "image": "https://image.tmdb.org/t/p/w92/g6gNEQnP5zIwCEtWBA0yWJC34Ud.jpg"
+    },
+    {
+      "name": "Jessie Pham",
+      "role": "Young Lucie",
+      "url": "https://multimovies.city/cast/jessie-pham/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Erika Scott",
+      "role": "Young Anna",
+      "url": "https://multimovies.city/cast/erika-scott/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/n8zvKDOUy4JwIzQArjoVBhVaPDp.jpg",
+    "https://image.tmdb.org/t/p/w300/5nFn3UDnudcW96k2MKl1dhJjz3I.jpg",
+    "https://image.tmdb.org/t/p/w300/wGsUJHU7LBMHae6h40Ah2vEXElp.jpg",
+    "https://image.tmdb.org/t/p/w300/7PzMIZkM8IJU6xDZB4DHTouHYvR.jpg",
+    "https://image.tmdb.org/t/p/w300/vtPVngwoUUT5RZCUn8os9S6lGIH.jpg",
+    "https://image.tmdb.org/t/p/w300/8DS016cUgx6hPvjsDvhzahHB07G.jpg",
+    "https://image.tmdb.org/t/p/w300/28yadVSarQyArto0Lab9QE10JXw.jpg",
+    "https://image.tmdb.org/t/p/w300/p9v6G8msDdrXLAtN3eoT24trTod.jpg",
+    "https://image.tmdb.org/t/p/w300/2EBfKRYqEiuRRvmNkNFEMqBq9rQ.jpg",
+    "https://image.tmdb.org/t/p/w300/bJSO32CthGZNIsQuN65b1PszfkM.jpg"
+  ],
+  "similar": [],
+  "views": 1195,
+  "sources": [
+    "https://www.youtube.com/embed/7ifU8X8Ewqk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/wbbccrc"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 95408,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 95408,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:20:35.476878"
+}
