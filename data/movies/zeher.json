@@ -1,0 +1,91 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/zeher/",
+  "meta": {
+    "title": "Zeher",
+    "poster": "https://image.tmdb.org/t/p/w500/yxrLjWjPqHOm6QrXl4kuuhhEBtc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 25, 2005",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Siddharth and Sonia are happily married until Anna walks into Siddharth\u2019s life. Things go from bad to worse, when Anna gets killed and Siddharth finds himself sinking in troubled waters.",
+    "infoFields": {
+      "Original title": "\u091c\u093c\u0939\u0930",
+      "IMDb Rating": "5.6 2,201 votes",
+      "TMDb Rating": "5.3 17 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mohit Suri",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mohit-suri/",
+      "image": "https://image.tmdb.org/t/p/w92/iDAUmTKFKD0XVDyqFNtAyMNzx4W.jpg"
+    },
+    {
+      "name": "Emraan Hashmi",
+      "role": "Siddharth Mehra",
+      "url": "https://multimovies.city/cast/emraan-hashmi/",
+      "image": "https://image.tmdb.org/t/p/w92/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+      "name": "Ninad Kamat",
+      "role": "James",
+      "url": "https://multimovies.city/cast/ninad-kamat/",
+      "image": "https://image.tmdb.org/t/p/w92/egSReKfBGZoxwlS6bBxNd05030b.jpg"
+    },
+    {
+      "name": "Shamita Shetty",
+      "role": "Sonia Mehra",
+      "url": "https://multimovies.city/cast/shamita-shetty/",
+      "image": "https://image.tmdb.org/t/p/w92/y6RaI7U7kDfXKMo1bviKYutE09b.jpg"
+    },
+    {
+      "name": "Udita Goswami",
+      "role": "Anna Verghese",
+      "url": "https://multimovies.city/cast/udita-goswami/",
+      "image": "https://image.tmdb.org/t/p/w92/xilFBmI0d97CI8hzvccHiArF1xB.jpg"
+    },
+    {
+      "name": "Sameer Kochhar",
+      "role": "Sean Verghese",
+      "url": "https://multimovies.city/cast/sameer-kochhar/",
+      "image": "https://image.tmdb.org/t/p/w92/77iaZ0mxIMVWYlwSd9LhcJ5rVOx.jpg"
+    },
+    {
+      "name": "Vishwajeet Pradhan",
+      "role": "Inspetor Shah",
+      "url": "https://multimovies.city/cast/vishwajeet-pradhan/",
+      "image": "https://image.tmdb.org/t/p/w92/fk5mBFnclEBE8AtgUfoa1i79oqt.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/70MVsfZY4g9M5s33Fkm2wkuCU4C.jpg"
+  ],
+  "similar": [],
+  "views": 4891,
+  "sources": [
+    "https://multimoviesshg.com/e/dddiu4egrmds"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26381,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:52:01.094321"
+}
