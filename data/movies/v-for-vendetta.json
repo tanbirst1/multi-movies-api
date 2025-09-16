@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/v-for-vendetta/",
+  "meta": {
+    "title": "V for Vendetta",
+    "poster": "https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Feb. 23, 2006",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as \u201cV\u201d conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+    "infoFields": {
+      "Original title": "V for Vendetta",
+      "IMDb Rating": "8.2 1,176,515 votes",
+      "TMDb Rating": "7.899 13,968 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "James McTeigue",
+      "role": "Director",
+      "url": "https://multimovies.city/director/james-mcteigue/",
+      "image": "https://image.tmdb.org/t/p/w92/8aUklN9PpswTG8DnhVAY92koRMC.jpg"
+    },
+    {
+      "name": "Natalie Portman",
+      "role": "Evey Hammond",
+      "url": "https://multimovies.city/cast/natalie-portman/",
+      "image": "https://image.tmdb.org/t/p/w92/2YFc38KnhSlkw5tj372JdRtu5Um.jpg"
+    },
+    {
+      "name": "Hugo Weaving",
+      "role": "William Rookwood / V",
+      "url": "https://multimovies.city/cast/hugo-weaving/",
+      "image": "https://image.tmdb.org/t/p/w92/t4ScpYIHlXVD41scEyiGdQDYflX.jpg"
+    },
+    {
+      "name": "Stephen Rea",
+      "role": "Chief Inspector Eric Finch",
+      "url": "https://multimovies.city/cast/stephen-rea/",
+      "image": "https://image.tmdb.org/t/p/w92/17ZSGqvJqdvInuw1TlQlkf39yfi.jpg"
+    },
+    {
+      "name": "Stephen Fry",
+      "role": "Gordon Deitrich",
+      "url": "https://multimovies.city/cast/stephen-fry/",
+      "image": "https://image.tmdb.org/t/p/w92/3GFKdR04dECEGvw3rCN4M8ayv2m.jpg"
+    },
+    {
+      "name": "John Hurt",
+      "role": "Chancellor Adam Sutler",
+      "url": "https://multimovies.city/cast/john-hurt/",
+      "image": "https://image.tmdb.org/t/p/w92/kFNlnnjCm7MsRNJ5yzZEH2YJIPC.jpg"
+    },
+    {
+      "name": "Tim Pigott-Smith",
+      "role": "Creedy",
+      "url": "https://multimovies.city/cast/tim-pigott-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/37OZUY7cq8eoWxhKR2VD1ppusJM.jpg"
+    },
+    {
+      "name": "Natasha Wightman",
+      "role": "Valerie Page",
+      "url": "https://multimovies.city/cast/natasha-wightman/",
+      "image": "https://image.tmdb.org/t/p/w92/9G7c9rAL0mt57ckZGF8Fartwz8X.jpg"
+    },
+    {
+      "name": "Rupert Graves",
+      "role": "Dominic Stone",
+      "url": "https://multimovies.city/cast/rupert-graves/",
+      "image": "https://image.tmdb.org/t/p/w92/6tS8XMuTS04xXTfeWFjJED6SFBF.jpg"
+    },
+    {
+      "name": "Roger Allam",
+      "role": "Lewis Prothero",
+      "url": "https://multimovies.city/cast/roger-allam/",
+      "image": "https://image.tmdb.org/t/p/w92/hrtVjATnltwatFCOjhtCZTnN2hW.jpg"
+    },
+    {
+      "name": "Ben Miles",
+      "role": "Dascomb",
+      "url": "https://multimovies.city/cast/ben-miles/",
+      "image": "https://image.tmdb.org/t/p/w92/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+    "https://image.tmdb.org/t/p/w300/7pFgSoKuq3INFBlNUYoK5cx9n9P.jpg",
+    "https://image.tmdb.org/t/p/w300/zu6aqGoLsS7XlfUvfDWWkK88EDj.jpg",
+    "https://image.tmdb.org/t/p/w300/5EKplo61HbA5sMGAN0XAvzdo1MX.jpg",
+    "https://image.tmdb.org/t/p/w300/fxMwQ9FKGrgEjM1qO8f5CW704U5.jpg",
+    "https://image.tmdb.org/t/p/w300/1DsG0ixs8N8vAZsS98zkYNdUXsB.jpg",
+    "https://image.tmdb.org/t/p/w300/gDLCap8mcJ32mNIZWTJyk2KyMLW.jpg",
+    "https://image.tmdb.org/t/p/w300/fv4XvbQW2NDEXV8Zdxhmv0wHuu3.jpg",
+    "https://image.tmdb.org/t/p/w300/uF0yNBvxYeoNM85rfvLrPvIhGrp.jpg",
+    "https://image.tmdb.org/t/p/w300/gp4WysJWDrCYjM5qq16Tv7yBMpX.jpg"
+  ],
+  "similar": [],
+  "views": 813,
+  "sources": [
+    "https://www.youtube.com/embed/V5VGq23aZ-g?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/gzb5onaxcvu9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 46505,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 46505,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:02:12.071614"
+}
