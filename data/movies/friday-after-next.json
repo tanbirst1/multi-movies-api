@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/friday-after-next/",
+  "meta": {
+    "title": "Friday After Next",
+    "poster": "https://image.tmdb.org/t/p/w500/sxHFGPKLWj9e3aaA6wGVxghoiPE.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Nov. 22, 2002",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Craig and his cousin Day Day have finally moved out of their parents\u2019 houses and into their own crib, working nights at a local mall as security guards. When their house is robbed on Christmas Eve they set out to track down the culprit.",
+    "infoFields": {
+      "Original title": "Friday After Next",
+      "IMDb Rating": "5.8 31,774 votes",
+      "TMDb Rating": "6.326 431 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Wayne Witherspoon",
+      "role": "Director",
+      "url": "https://multimovies.city/director/wayne-witherspoon/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Ice Cube",
+      "role": "Craig",
+      "url": "https://multimovies.city/cast/ice-cube/",
+      "image": "https://image.tmdb.org/t/p/w92/ymR7Yll7HjL6i6Z3pt435hYi91T.jpg"
+    },
+    {
+      "name": "Mike Epps",
+      "role": "Day-Day / Old Man with Shotgun",
+      "url": "https://multimovies.city/cast/mike-epps/",
+      "image": "https://image.tmdb.org/t/p/w92/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg"
+    },
+    {
+      "name": "John Witherspoon",
+      "role": "Mr. Jones",
+      "url": "https://multimovies.city/cast/john-witherspoon/",
+      "image": "https://image.tmdb.org/t/p/w92/5clP720NIBWMKT0pwVCzIPjVkxG.jpg"
+    },
+    {
+      "name": "Don Curry",
+      "role": "Uncle Elroy",
+      "url": "https://multimovies.city/cast/don-curry/",
+      "image": "https://image.tmdb.org/t/p/w92/jVWzJTT2ggOqz2RI4HqsU2F2oDX.jpg"
+    },
+    {
+      "name": "Anna Maria Horsford",
+      "role": "Mrs. Jones",
+      "url": "https://multimovies.city/cast/anna-maria-horsford/",
+      "image": "https://image.tmdb.org/t/p/w92/fVA25hLtwmrVsIVrcWOojaPoYEq.jpg"
+    },
+    {
+      "name": "Clifton Powell",
+      "role": "Pinky",
+      "url": "https://multimovies.city/cast/clifton-powell/",
+      "image": "https://image.tmdb.org/t/p/w92/9wGVqDcrjpZnwjlnwB45LMbsJSj.jpg"
+    },
+    {
+      "name": "Bebe Drake",
+      "role": "Mrs. Pearly",
+      "url": "https://multimovies.city/cast/bebe-drake/",
+      "image": "https://image.tmdb.org/t/p/w92/pSIS3aBdOlxlTzw6MKinGqK3OC9.jpg"
+    },
+    {
+      "name": "K.D. Aubert",
+      "role": "Donna",
+      "url": "https://multimovies.city/cast/k-d-aubert/",
+      "image": "https://image.tmdb.org/t/p/w92/elSl5UPcxbAuSzsowWaXHnwkwcQ.jpg"
+    },
+    {
+      "name": "Sommore",
+      "role": "Cookie",
+      "url": "https://multimovies.city/cast/sommore/",
+      "image": "https://image.tmdb.org/t/p/w92/lo42G3oouWaDU0U132LUiV7nI23.jpg"
+    },
+    {
+      "name": "Rickey Smiley",
+      "role": "Santa Claus",
+      "url": "https://multimovies.city/cast/rickey-smiley/",
+      "image": "https://image.tmdb.org/t/p/w92/b0QyJVm9Xeim8OU3iZhxAO6arIb.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bfnQPbcmPAXO2QmDONalx4vNWPB.jpg",
+    "https://image.tmdb.org/t/p/w300/tPltOE6HiKoIrbgXYIr7mrUaCEN.jpg",
+    "https://image.tmdb.org/t/p/w300/kxwD338twFE64BxhLlruPtmqPe8.jpg",
+    "https://image.tmdb.org/t/p/w300/vRL670RNFeoh1jXN2hpj8dWsqdW.jpg"
+  ],
+  "similar": [],
+  "views": 335,
+  "sources": [
+    "https://www.youtube.com/embed/H3g5QQynaJk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/ltnttbi"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 94181,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 94181,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T17:41:02.573537"
+}
