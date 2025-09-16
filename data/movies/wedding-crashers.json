@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/wedding-crashers/",
+  "meta": {
+    "title": "Wedding Crashers",
+    "poster": "https://image.tmdb.org/t/p/w500/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Jul. 13, 2005",
+    "ratingValue": "8",
+    "ratingCount": "1",
+    "synopsis": "John and his buddy, Jeremy are emotional criminals who know how to use a woman\u2019s hopes and dreams for their own carnal gain. Their modus operandi: crashing weddings. Normally, they meet guests who want to toast the romantic day with a random hook-up. But when John meets Claire, he discovers what true love \u2013 and heartache \u2013 feels like.",
+    "infoFields": {
+      "Original title": "Wedding Crashers",
+      "IMDb Rating": "7 382,772 votes",
+      "TMDb Rating": "6.5 4,344 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Dobkin",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-dobkin/",
+      "image": "https://image.tmdb.org/t/p/w92/c1cs3r7rDOzk0n32EDlon1xCGlE.jpg"
+    },
+    {
+      "name": "Owen Wilson",
+      "role": "John Beckwith",
+      "url": "https://multimovies.city/cast/owen-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/ptiUjN2YcXbvCr6xawMFX9lYezk.jpg"
+    },
+    {
+      "name": "Vince Vaughn",
+      "role": "Jeremy Grey",
+      "url": "https://multimovies.city/cast/vince-vaughn/",
+      "image": "https://image.tmdb.org/t/p/w92/A9fJ88dfXZGpgFTnQIK0bOtjMrj.jpg"
+    },
+    {
+      "name": "Christopher Walken",
+      "role": "Secretary William Cleary",
+      "url": "https://multimovies.city/cast/christopher-walken/",
+      "image": "https://image.tmdb.org/t/p/w92/wShPFtq1fjTH4zx7W6SeKsO9Npz.jpg"
+    },
+    {
+      "name": "Rachel McAdams",
+      "role": "Claire Cleary",
+      "url": "https://multimovies.city/cast/rachel-mcadams/",
+      "image": "https://image.tmdb.org/t/p/w92/iDD2hp5WE7xMUPPdCrQnzImOXu.jpg"
+    },
+    {
+      "name": "Isla Fisher",
+      "role": "Gloria Cleary",
+      "url": "https://multimovies.city/cast/isla-fisher/",
+      "image": "https://image.tmdb.org/t/p/w92/zNKTzzuyMYaCGEZKhwhqV1K8ffo.jpg"
+    },
+    {
+      "name": "Jane Seymour",
+      "role": "Kathleen Cleary",
+      "url": "https://multimovies.city/cast/jane-seymour/",
+      "image": "https://image.tmdb.org/t/p/w92/fReTX8gdaXQwSThRKdh7ipfiBAu.jpg"
+    },
+    {
+      "name": "Ellen Albertini Dow",
+      "role": "Grandma Mary Cleary",
+      "url": "https://multimovies.city/cast/ellen-albertini-dow/",
+      "image": "https://image.tmdb.org/t/p/w92/38YChRuDdcSwuJvg8cXbxtxgsFG.jpg"
+    },
+    {
+      "name": "Keir O'Donnell",
+      "role": "Todd Cleary",
+      "url": "https://multimovies.city/cast/keir-odonnell/",
+      "image": "https://image.tmdb.org/t/p/w92/1GYWx3q4QNXIIBdwirZPiSHFFfJ.jpg"
+    },
+    {
+      "name": "Bradley Cooper",
+      "role": "Zachary 'Sack' Lodge",
+      "url": "https://multimovies.city/cast/bradley-cooper/",
+      "image": "https://image.tmdb.org/t/p/w92/thjz5zKrdgjbqYvL56xy5wvjw9e.jpg"
+    },
+    {
+      "name": "Ron Canada",
+      "role": "Randolph",
+      "url": "https://multimovies.city/cast/ron-canada/",
+      "image": "https://image.tmdb.org/t/p/w92/2B8fFweT0PGcA1sj3duMzPpLgD6.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/76aZQJSSQkcLF20Fx2wMrmnOZHJ.jpg",
+    "https://image.tmdb.org/t/p/w300/zgsA31vmiS0d44KDQQ2Fpj7HLLi.jpg",
+    "https://image.tmdb.org/t/p/w300/yEySiSgdwNDXOpLokDf4vKmdHMc.jpg",
+    "https://image.tmdb.org/t/p/w300/iD1Fs5yJ2fCdm9bAJ6FvJvyeP0O.jpg",
+    "https://image.tmdb.org/t/p/w300/6ILo5e1jPGVxNXsFBoZ52ObaSc6.jpg",
+    "https://image.tmdb.org/t/p/w300/38aZpqLLSbmSlMTVkq7EIO7e1OR.jpg",
+    "https://image.tmdb.org/t/p/w300/qyICtdFqbX4p9w0RS7jsNSKVFtr.jpg",
+    "https://image.tmdb.org/t/p/w300/zXWRjRYGMsUk2iyyjfynWEp64pQ.jpg",
+    "https://image.tmdb.org/t/p/w300/ukBsxjbeME1oJMjtP1kQbnQVCUi.jpg",
+    "https://image.tmdb.org/t/p/w300/lb4MAFNyFXfgneEnH2D8HHG56eg.jpg"
+  ],
+  "similar": [],
+  "views": 867,
+  "sources": [
+    "https://www.youtube.com/embed/GnD48PD84-8?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/notagjj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 28795,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 28795,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T18:55:33.098601"
+}
