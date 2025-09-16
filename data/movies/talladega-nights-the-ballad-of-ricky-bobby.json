@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/talladega-nights-the-ballad-of-ricky-bobby/",
+  "meta": {
+    "title": "Talladega Nights: The Ballad of Ricky Bobby",
+    "poster": "https://image.tmdb.org/t/p/w500/3iCiTqsmJz1mO85AHzTiHNkRmb6.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Aug. 04, 2006",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "The fastest man on four wheels, Ricky Bobby is one of the greatest drivers in NASCAR history. A big, hairy American winning machine, Ricky has everything a dimwitted daredevil could want, a luxurious mansion, a smokin\u2019 hot wife and all the fast food he can eat. But Ricky\u2019s turbo-charged lifestyle hits an unexpected speed bump when he\u2019s bested by flamboyant Euro-idiot Jean Girard and reduced to a fear-ridden wreck.",
+    "infoFields": {
+      "Original title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "IMDb Rating": "6.6 199,726 votes",
+      "TMDb Rating": "6.358 1,596 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Adam McKay",
+      "role": "Director",
+      "url": "https://multimovies.city/director/adam-mckay/",
+      "image": "https://image.tmdb.org/t/p/w92/vOyZXNJq7Oo01LPtSD5AZHjctgH.jpg"
+    },
+    {
+      "name": "Will Ferrell",
+      "role": "Ricky Bobby",
+      "url": "https://multimovies.city/cast/will-ferrell/",
+      "image": "https://image.tmdb.org/t/p/w92/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
+    },
+    {
+      "name": "John C. Reilly",
+      "role": "Cal Naughton",
+      "url": "https://multimovies.city/cast/john-c-reilly/",
+      "image": "https://image.tmdb.org/t/p/w92/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "role": "Lucius Washington",
+      "url": "https://multimovies.city/cast/michael-clarke-duncan/",
+      "image": "https://image.tmdb.org/t/p/w92/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg"
+    },
+    {
+      "name": "Sacha Baron Cohen",
+      "role": "Jean Girard",
+      "url": "https://multimovies.city/cast/sacha-baron-cohen/",
+      "image": "https://image.tmdb.org/t/p/w92/8J2LxfW3owPTc9OzbBoUbADFOBb.jpg"
+    },
+    {
+      "name": "Gary Cole",
+      "role": "Reese Bobby",
+      "url": "https://multimovies.city/cast/gary-cole/",
+      "image": "https://image.tmdb.org/t/p/w92/gPxHlVK9vNQSa5DkTFKYvLMASdE.jpg"
+    },
+    {
+      "name": "Jane Lynch",
+      "role": "Lucy Bobby",
+      "url": "https://multimovies.city/cast/jane-lynch/",
+      "image": "https://image.tmdb.org/t/p/w92/nye6D17ZfCHQzr9faYZYyz1CPsZ.jpg"
+    },
+    {
+      "name": "Leslie Bibb",
+      "role": "Carley Bobby",
+      "url": "https://multimovies.city/cast/leslie-bibb/",
+      "image": "https://image.tmdb.org/t/p/w92/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg"
+    },
+    {
+      "name": "Houston Tumlin",
+      "role": "Walker Bobby",
+      "url": "https://multimovies.city/cast/houston-tumlin/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Grayson Russell",
+      "role": "Texas Ranger Bobby",
+      "url": "https://multimovies.city/cast/grayson-russell/",
+      "image": "https://image.tmdb.org/t/p/w92/j0CYCvlIA73rrgYbY2dvyMSFsgZ.jpg"
+    },
+    {
+      "name": "Greg Germann",
+      "role": "Larry Dennit Jr.",
+      "url": "https://multimovies.city/cast/greg-germann/",
+      "image": "https://image.tmdb.org/t/p/w92/cRLbrKwasOiBj68pORvrZTPHRfB.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/oIzZO7oXsU0jsygSJs75M4oPei4.jpg",
+    "https://image.tmdb.org/t/p/w300/qTVgXx0pgBmsGqc8wJsfbd71ppa.jpg",
+    "https://image.tmdb.org/t/p/w300/j7UaggnefRqrKpmN4Q0KCxC5S0k.jpg",
+    "https://image.tmdb.org/t/p/w300/bXBvIaYrlMorGVtM1y032gOD1Sf.jpg",
+    "https://image.tmdb.org/t/p/w300/wzffbW7hz0wOUCcZ5eZXiuaM0jV.jpg",
+    "https://image.tmdb.org/t/p/w300/eUCzXimvdIuDbuSa77BXudDrhaA.jpg",
+    "https://image.tmdb.org/t/p/w300/8M8LHkdmZusOkJ01OWiKNba6pgG.jpg",
+    "https://image.tmdb.org/t/p/w300/kgnfCP7WEuYuo0oGqbsYVJ32I9j.jpg"
+  ],
+  "similar": [],
+  "views": 171,
+  "sources": [
+    "https://www.youtube.com/embed/myKtVl8N7jU?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/sh2l50xk89td"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 49005,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 49005,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:04:36.700532"
+}
