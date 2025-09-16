@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/air-buddies/",
+  "meta": {
+    "title": "Air Buddies",
+    "poster": "https://image.tmdb.org/t/p/w500/7eRiBonjI6PxlXIMGkzxtL2pvU6.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 12, 2006",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "The offspring of sportsman canine Air Bud: B-Dawg, Mudbud, Budderball, Buddha, and Rosebud, uncover a kidnapping plot motivated by a little rich boy\u2019s desire to have the world\u2019s most athletic dog as a pet.",
+    "infoFields": {
+      "Original title": "Air Buddies",
+      "TMDb Rating": "5.9 331 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Robert Vince",
+      "role": "Director",
+      "url": "https://multimovies.city/director/robert-vince/",
+      "image": "https://image.tmdb.org/t/p/w92/vHRpPhzI2hZP8ndPLFtz6acMKFj.jpg"
+    },
+    {
+      "name": "Abigail Breslin",
+      "role": "Rosebud (voice)",
+      "url": "https://multimovies.city/cast/abigail-breslin/",
+      "image": "https://image.tmdb.org/t/p/w92/1MQMfcb3fuN0lC1egdaOnHcTlm8.jpg"
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "role": "Wolf (voice)",
+      "url": "https://multimovies.city/cast/michael-clarke-duncan/",
+      "image": "https://image.tmdb.org/t/p/w92/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg"
+    },
+    {
+      "name": "Josh Flitter",
+      "role": "Budderball (voice)",
+      "url": "https://multimovies.city/cast/josh-flitter/",
+      "image": "https://image.tmdb.org/t/p/w92/x25rkCSSkBbOn4VrhHcNcPO9wOg.jpg"
+    },
+    {
+      "name": "Spencer Fox",
+      "role": "Mudbud (voice)",
+      "url": "https://multimovies.city/cast/spencer-fox/",
+      "image": "https://image.tmdb.org/t/p/w92/vMyWK5qZWEG0GZh4FXCDXx4Jqfm.jpg"
+    },
+    {
+      "name": "Skyler Gisondo",
+      "role": "B-Dawg (voice)",
+      "url": "https://multimovies.city/cast/skyler-gisondo/",
+      "image": "https://image.tmdb.org/t/p/w92/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+    },
+    {
+      "name": "Dominic Scott Kay",
+      "role": "Bud-dha (voice)",
+      "url": "https://multimovies.city/cast/dominic-scott-kay/",
+      "image": "https://image.tmdb.org/t/p/w92/uPg5MQ6QhPKI8SrHclMLWYpmf76.jpg"
+    },
+    {
+      "name": "Don Knotts",
+      "role": "Sniffer (voice)",
+      "url": "https://multimovies.city/cast/don-knotts/",
+      "image": "https://image.tmdb.org/t/p/w92/cr1eyblxpQe4LBafMMuQ6BuOGzR.jpg"
+    },
+    {
+      "name": "Debra Jo Rupp",
+      "role": "Belinda (voice)",
+      "url": "https://multimovies.city/cast/debra-jo-rupp/",
+      "image": "https://image.tmdb.org/t/p/w92/jVGXbJvfIoRI6PtKbwUYGNyiI67.jpg"
+    },
+    {
+      "name": "Tom Everett Scott",
+      "role": "Buddy (voice)",
+      "url": "https://multimovies.city/cast/tom-everett-scott/",
+      "image": "https://image.tmdb.org/t/p/w92/nVDihOvsSm7kmeyHLtAcEzrrSYC.jpg"
+    },
+    {
+      "name": "Molly Shannon",
+      "role": "Molly (voice)",
+      "url": "https://multimovies.city/cast/molly-shannon/",
+      "image": "https://image.tmdb.org/t/p/w92/5ZTbNpJtDRU4ZCH24nJvFRxaqAD.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wlUmvXfvz2mKuh9AoYB1Ea9S9ZA.jpg",
+    "https://image.tmdb.org/t/p/w300/fkda8lOxeAGojUtPvNth8v04czi.jpg",
+    "https://image.tmdb.org/t/p/w300/r4mhy4XJYZQTkJlqS01nghPrRb7.jpg"
+  ],
+  "similar": [],
+  "views": 175,
+  "sources": [
+    "https://www.youtube.com/embed/QP5hSdVmvsI?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/q8zguql"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 92580,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 92580,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-16T19:06:21.945201"
+}
