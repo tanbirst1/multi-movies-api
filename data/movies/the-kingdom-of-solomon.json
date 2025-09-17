@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-kingdom-of-solomon/",
+  "meta": {
+    "title": "The Kingdom of Solomon",
+    "poster": "https://image.tmdb.org/t/p/w500/9lbem03BBF1upBnIXyen9qMLOBS.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "History",
+        "url": "https://multimovies.city/genre/history/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "War",
+        "url": "https://multimovies.city/genre/war/"
+      }
+    ],
+    "firstAirDate": "Oct. 08, 2010",
+    "ratingValue": "5",
+    "ratingCount": "1",
+    "synopsis": "Solomon, Prophet and the King, has asked God to give him an ideal kingdom which has never been given to anybody before. He is told to prepare himself and his subjects with evil and unearthly creatures that haunt the men.",
+    "infoFields": {
+      "Original title": "\u0645\u0644\u06a9 \u0633\u0644\u06cc\u0645\u0627\u0646",
+      "IMDb Rating": "6.1 5,098 votes",
+      "TMDb Rating": "7 15 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Shahriar Bahrani",
+      "role": "Director",
+      "url": "https://multimovies.city/director/shahriar-bahrani/",
+      "image": "https://image.tmdb.org/t/p/w92/7aG10NM0hBGaNFGWYSU8aHoeJtp.jpg"
+    },
+    {
+      "name": "Amin Zendegani",
+      "role": "King Solomon",
+      "url": "https://multimovies.city/cast/amin-zendegani/",
+      "image": "https://image.tmdb.org/t/p/w92/hLsTIjiXdERQ7jDdkvYtIoIYR8u.jpg"
+    },
+    {
+      "name": "Mahmoud Pakniat",
+      "role": "Yazar",
+      "url": "https://multimovies.city/cast/mahmoud-pakniat/",
+      "image": "https://image.tmdb.org/t/p/w92/rK6fa7MYfnEqql0oLartjGe966I.jpg"
+    },
+    {
+      "name": "Elham Hamidi",
+      "role": "Miriam",
+      "url": "https://multimovies.city/cast/elham-hamidi/",
+      "image": "https://image.tmdb.org/t/p/w92/n9e2oJnGHR3J7edVH8jICYU0mso.jpg"
+    },
+    {
+      "name": "Hossein Mahjoub",
+      "role": "Asif ibn Barkhiya",
+      "url": "https://multimovies.city/cast/hossein-mahjoub/",
+      "image": "https://image.tmdb.org/t/p/w92/l4jLGqcLJePC9gHIEd0KlSsnPw1.jpg"
+    },
+    {
+      "name": "Alireza Kamali",
+      "role": "Adonijah",
+      "url": "https://multimovies.city/cast/alireza-kamali/",
+      "image": "https://image.tmdb.org/t/p/w92/fLFwSC9KpoTuuC4nreiI1nCcP4R.jpg"
+    },
+    {
+      "name": "Zahra Saeidi",
+      "role": "Michal",
+      "url": "https://multimovies.city/cast/zahra-saeidi/",
+      "image": "https://image.tmdb.org/t/p/w92/dJLNQ2wiUSA09wwtVbvloVXqlM4.jpg"
+    },
+    {
+      "name": "Mehdi Faghih",
+      "role": "Ara",
+      "url": "https://multimovies.city/cast/mehdi-faghih/",
+      "image": "https://image.tmdb.org/t/p/w92/vkfDnjRQdABWatRGvWAXf7cfqzQ.jpg"
+    },
+    {
+      "name": "Javad Taheri",
+      "role": "Absalom",
+      "url": "https://multimovies.city/cast/javad-taheri/",
+      "image": "https://image.tmdb.org/t/p/w92/54wyP6ETUtxlja0K5sEimO3L0R1.jpg"
+    },
+    {
+      "name": "Sirous Saber",
+      "role": "Joab",
+      "url": "https://multimovies.city/cast/sirous-saber/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Yousef Bakhtiari",
+      "role": "Raeil",
+      "url": "https://multimovies.city/cast/yousef-bakhtiari/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/x21hZjoqMCDC0DqGibINQAzIrEe.jpg"
+  ],
+  "similar": [],
+  "views": 1170,
+  "sources": [
+    "https://www.youtube.com/embed/pOBwmC5XaGA?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/gb1met3"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 75111,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 75111,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:09:10.445119"
+}
