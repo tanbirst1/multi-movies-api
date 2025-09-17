@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/pirates-of-the-caribbean-on-stranger-tides/",
+  "meta": {
+    "title": "Pirates of the Caribbean 4: On Stranger Tides",
+    "poster": "https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Pirates of the Caribbean Collection",
+        "url": "https://multimovies.city/genre/pirates-of-the-caribbean-collection/"
+      }
+    ],
+    "firstAirDate": "May. 15, 2011",
+    "ratingValue": "8.9",
+    "ratingCount": "27",
+    "synopsis": "Captain Jack Sparrow crosses paths with a woman from his past, and he\u2019s not sure if it\u2019s love \u2014 or if she\u2019s a ruthless con artist who\u2019s using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne\u2019s Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn\u2019t know who to fear more: Blackbeard or the woman from his past.",
+    "infoFields": {
+      "Original title": "Pirates of the Caribbean: On Stranger Tides",
+      "IMDb Rating": "6.6 574,726 votes",
+      "TMDb Rating": "6.554 13,908 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rob Marshall",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rob-marshall/",
+      "image": "https://image.tmdb.org/t/p/w92/4cTHkbMpsHHNI23HP3RHNLFoPRz.jpg"
+    },
+    {
+      "name": "Johnny Depp",
+      "role": "Jack Sparrow",
+      "url": "https://multimovies.city/cast/johnny-depp/",
+      "image": "https://image.tmdb.org/t/p/w92/ilPBHd3r3ahlipNQtjr4E3G04jJ.jpg"
+    },
+    {
+      "name": "Pen\u00e9lope Cruz",
+      "role": "Angelica",
+      "url": "https://multimovies.city/cast/penelope-cruz/",
+      "image": "https://image.tmdb.org/t/p/w92/tU2ATiHHBAKn4SHqKOagYqdpHiy.jpg"
+    },
+    {
+      "name": "Geoffrey Rush",
+      "role": "Hector Barbossa",
+      "url": "https://multimovies.city/cast/geoffrey-rush/",
+      "image": "https://image.tmdb.org/t/p/w92/t69hkD07olTK8o2CwuNnC1wg5Es.jpg"
+    },
+    {
+      "name": "Ian McShane",
+      "role": "Edward \"Blackbeard\" Teach",
+      "url": "https://multimovies.city/cast/ian-mcshane/",
+      "image": "https://image.tmdb.org/t/p/w92/q9qKbux5Jo76Sj8g3luxBt6rYtz.jpg"
+    },
+    {
+      "name": "Kevin McNally",
+      "role": "Joshamee Gibbs",
+      "url": "https://multimovies.city/cast/kevin-mcnally/",
+      "image": "https://image.tmdb.org/t/p/w92/1QvG7MbfeWxb4LlZrlR4OtwvB8v.jpg"
+    },
+    {
+      "name": "Sam Claflin",
+      "role": "Philip",
+      "url": "https://multimovies.city/cast/sam-claflin/",
+      "image": "https://image.tmdb.org/t/p/w92/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+    },
+    {
+      "name": "Astrid Berg\u00e8s-Frisbey",
+      "role": "Syrena",
+      "url": "https://multimovies.city/cast/astrid-berges-frisbey/",
+      "image": "https://image.tmdb.org/t/p/w92/2mcTwrg61M7beQv05YQFPLWADmc.jpg"
+    },
+    {
+      "name": "Stephen Graham",
+      "role": "Scrum",
+      "url": "https://multimovies.city/cast/stephen-graham/",
+      "image": "https://image.tmdb.org/t/p/w92/h76Wbzg6Jt9z9DyNBwatrxOZwfW.jpg"
+    },
+    {
+      "name": "Keith Richards",
+      "role": "Captain Teague",
+      "url": "https://multimovies.city/cast/keith-richards/",
+      "image": "https://image.tmdb.org/t/p/w92/t1oa5UsJMmrhNqCIks4jQnAYSQT.jpg"
+    },
+    {
+      "name": "Richard Griffiths",
+      "role": "King George",
+      "url": "https://multimovies.city/cast/richard-griffiths/",
+      "image": "https://image.tmdb.org/t/p/w92/EuV0DyZ5nBh3ZAUWjEqdWlt8sK.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+    "https://image.tmdb.org/t/p/w300/wQ0r0JRs7elHSKg1SFtdWdKTYKi.jpg",
+    "https://image.tmdb.org/t/p/w300/nHW9xtfzUVXtjQqPn0InWUPjxpP.jpg",
+    "https://image.tmdb.org/t/p/w300/t7aX68mIQhML2xVw9y5vsMTsz5N.jpg",
+    "https://image.tmdb.org/t/p/w300/6GrdtatvcrPTJs4DeYuXjrNSHIm.jpg",
+    "https://image.tmdb.org/t/p/w300/9SCdbkKVZwndkd35oMJ1auXdtt8.jpg",
+    "https://image.tmdb.org/t/p/w300/eXst57OEHcJxiOToPzVAFSikGrp.jpg",
+    "https://image.tmdb.org/t/p/w300/3ljP0D1KddRWMVhewxomPv0rvOT.jpg",
+    "https://image.tmdb.org/t/p/w300/4Ygj3qGBQucJa0kpp62IrLf5S9e.jpg"
+  ],
+  "similar": [],
+  "views": 30893,
+  "sources": [
+    "https://www.youtube.com/embed/t5AqJww06bw?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/zevdwu7"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 645,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 645,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:10:54.681159"
+}
