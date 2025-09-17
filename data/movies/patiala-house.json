@@ -1,0 +1,118 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/patiala-house/",
+  "meta": {
+    "title": "Patiala House",
+    "poster": "https://image.tmdb.org/t/p/w500/16Q863XEtms2HH8LaCZQmp3tRoz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Jan. 28, 2011",
+    "ratingValue": "8",
+    "ratingCount": "3",
+    "synopsis": "Parghat Singh \u2018Gattu\u2019 Kahlon is a middle aged shopkeeper who secretly practices bowling at night in order to keep his dream of playing for England alive. Even though his family members despise him for giving up his dreams only due to his father\u2019s wish, they find a ray of hope and convince him to play for England while they plan to hide the truth from his father.",
+    "infoFields": {
+      "Original title": "Patiala House",
+      "IMDb Rating": "5.6 9,734 votes",
+      "TMDb Rating": "6 53 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Nikkhil Advani",
+      "role": "Director",
+      "url": "https://multimovies.city/director/nikkhil-advani/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Parghat Singh Kahlon aka Gattu",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg"
+    },
+    {
+      "name": "Anushka Sharma",
+      "role": "Simran",
+      "url": "https://multimovies.city/cast/anushka-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/8Xmfnwe6pf58duYqxxYv81phs2.jpg"
+    },
+    {
+      "name": "Rishi Kapoor",
+      "role": "Gurtej Singh Kahlon a.k.a. Bauji",
+      "url": "https://multimovies.city/cast/rishi-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/yQOKkmQaksa3hOi72MbPnrqz77k.jpg"
+    },
+    {
+      "name": "Dimple Kapadia",
+      "role": "Guneet Kahlon a.k.a. Bebe",
+      "url": "https://multimovies.city/cast/dimple-kapadia/",
+      "image": "https://image.tmdb.org/t/p/w92/rrISOX9TnetEAiZ5zCosTkmFdh2.jpg"
+    },
+    {
+      "name": "Masha Paur",
+      "role": "Young Bebe",
+      "url": "https://multimovies.city/cast/masha-paur/",
+      "image": "https://image.tmdb.org/t/p/w92/hozGOfmCi07RdqtMcV5GDxQsRqd.jpg"
+    },
+    {
+      "name": "Soni Razdan",
+      "role": "Dimple Bua",
+      "url": "https://multimovies.city/cast/soni-razdan/",
+      "image": "https://image.tmdb.org/t/p/w92/5aXiUbf6GQ0At6VwtmZVmzxGvjG.jpg"
+    },
+    {
+      "name": "Neelu Kohli",
+      "role": "Harleen Chachi",
+      "url": "https://multimovies.city/cast/neelu-kohli/",
+      "image": "https://image.tmdb.org/t/p/w92/dJgzQa8JSwx1HFbwHXwH0pkyqo8.jpg"
+    },
+    {
+      "name": "Hard Kaur",
+      "role": "Komal Chatwal",
+      "url": "https://multimovies.city/cast/hard-kaur/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Tinnu Anand",
+      "role": "Mr. Bedi",
+      "url": "https://multimovies.city/cast/tinnu-anand/",
+      "image": "https://image.tmdb.org/t/p/w92/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg"
+    },
+    {
+      "name": "Nasser Hussain",
+      "role": "himself",
+      "url": "https://multimovies.city/cast/nasser-hussain/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bWgfjwdiU95YozlDHZyIEx1xA6Q.jpg",
+    "https://image.tmdb.org/t/p/w300/qbgDC0m2vhTiEo06lVneyffWxhp.jpg",
+    "https://image.tmdb.org/t/p/w300/v8HUgtpz2HPNgYjxo3itjGEzKTv.jpg",
+    "https://image.tmdb.org/t/p/w300/1O16GiVVTjtEQ7ZnQPt3wf78OyR.jpg"
+  ],
+  "similar": [],
+  "views": 1273,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/imd77fs"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 75663,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:12:09.249745"
+}
