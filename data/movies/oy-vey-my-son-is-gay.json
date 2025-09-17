@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/oy-vey-my-son-is-gay/",
+  "meta": {
+    "title": "Oy Vey! My Son Is Gay!",
+    "poster": "https://image.tmdb.org/t/p/w500/1aP1xTOWG8KUP4t96DmcdYwz17D.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 24, 2010",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "A romantic comedy featuring a Jewish family who struggles coming to terms with their son\u2019s non-Jewish and gay boyfriend. When the gay couple adopts a child and it makes headline news, their families come to defend them and realize how much they love them",
+    "infoFields": {
+      "Original title": "Oy Vey! My Son Is Gay!",
+      "IMDb Rating": "5.2 974 votes",
+      "TMDb Rating": "5.2 24 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Evgeny Afineevsky",
+      "role": "Director",
+      "url": "https://multimovies.city/director/evgeny-afineevsky/",
+      "image": "https://image.tmdb.org/t/p/w92/suuFgBg0KAhQK4xAJKPdjhYhlnE.jpg"
+    },
+    {
+      "name": "Lainie Kazan",
+      "role": "Shirley Hirsch",
+      "url": "https://multimovies.city/cast/lainie-kazan/",
+      "image": "https://image.tmdb.org/t/p/w92/6BpG5cRYtT2Trtaq6IshpLY9jgf.jpg"
+    },
+    {
+      "name": "Saul Rubinek",
+      "role": "Martin Hirsch",
+      "url": "https://multimovies.city/cast/saul-rubinek/",
+      "image": "https://image.tmdb.org/t/p/w92/zK8EaOd82kYW4AAj8mvwcXafKkd.jpg"
+    },
+    {
+      "name": "Vincent Pastore",
+      "role": "Carmine Ferraro",
+      "url": "https://multimovies.city/cast/vincent-pastore/",
+      "image": "https://image.tmdb.org/t/p/w92/dyRRn8POwLUMHT7lIISujioYOym.jpg"
+    },
+    {
+      "name": "John Lloyd Young",
+      "role": "Nelson Hirsch",
+      "url": "https://multimovies.city/cast/john-lloyd-young/",
+      "image": "https://image.tmdb.org/t/p/w92/8JSxbxpJM7va330Rqw2WhTuV6JV.jpg"
+    },
+    {
+      "name": "Jai Rodriguez",
+      "role": "Angelo Ferraro",
+      "url": "https://multimovies.city/cast/jai-rodriguez/",
+      "image": "https://image.tmdb.org/t/p/w92/xwLm4PUXjrcxGW9fUT6T77YVyTk.jpg"
+    },
+    {
+      "name": "Bruce Vilanch",
+      "role": "Uncle Max",
+      "url": "https://multimovies.city/cast/bruce-vilanch/",
+      "image": "https://image.tmdb.org/t/p/w92/2XMRxwHF5uCTxNf9qkq8IKG12Jj.jpg"
+    },
+    {
+      "name": "Carmen Electra",
+      "role": "Sybil Williams",
+      "url": "https://multimovies.city/cast/carmen-electra/",
+      "image": "https://image.tmdb.org/t/p/w92/oiNGbPpboR7uq9K7L2g63UZwyMq.jpg"
+    },
+    {
+      "name": "Shelly Burch",
+      "role": "Teresa Ferraro",
+      "url": "https://multimovies.city/cast/shelly-burch/",
+      "image": "https://image.tmdb.org/t/p/w92/frN0pmykYf5rBZNdqDXr1DV6EqY.jpg"
+    },
+    {
+      "name": "Stanislav 'Slava' Medvedenko",
+      "role": "Russian Host (as Slava Medvedenko)",
+      "url": "https://multimovies.city/cast/stanislav-slava-medvedenko/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Alexandra Mamaliger",
+      "role": "Andrea Hirsch (as Alex Mamaliger)",
+      "url": "https://multimovies.city/cast/alexandra-mamaliger/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/4smvdxkNf5DjbrQCPMhLL0UfiTr.jpg",
+    "https://image.tmdb.org/t/p/w300/k9dcascV0rvmy0ih0A1iI4I84Bs.jpg",
+    "https://image.tmdb.org/t/p/w300/3wIYRxn1hRANwOmwXAc4FFYtutS.jpg",
+    "https://image.tmdb.org/t/p/w300/iHOtxBgJiswR0i3TpgLmsxnsksK.jpg",
+    "https://image.tmdb.org/t/p/w300/vgD0NVMVNgWwRqnKpSC6iyzW8TN.jpg"
+  ],
+  "similar": [],
+  "views": 394,
+  "sources": [
+    "https://multimoviesshg.com/e/gjh0ofzw2ltk"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 41434,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:12:36.706529"
+}
