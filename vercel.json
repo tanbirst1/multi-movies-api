@@ -1,9 +1,5 @@
 {
   "version": 2,
-  "env": {
-    "GITHUB_TOKEN": "@github_token",
-    "TMDB_API_KEY": "@tmdb_api_key"
-  },
   "builds": [
     { "src": "api/**/*.js", "use": "@vercel/node" }
   ],
