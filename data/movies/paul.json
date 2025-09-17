@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/paul/",
+  "meta": {
+    "title": "Paul",
+    "poster": "https://image.tmdb.org/t/p/w500/bX8TP2qRWh2OcmeUHGn1ENDkCu6.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Feb. 14, 2011",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "For the past 60 years, a space-traveling smart-ass named Paul has been locked up in a top-secret military base, advising world leaders about his kind. But when he worries he\u2019s outlived his usefulness and the dissection table is drawing uncomfortably close, Paul escapes on the first RV that passes by his compound in Area 51. Fortunately, it contains the two earthlings who are most likely to rescue and harbor an alien on the run.",
+    "infoFields": {
+      "Original title": "Paul",
+      "TMDb Rating": "6.734 5,924 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Greg Mottola",
+      "role": "Director",
+      "url": "https://multimovies.city/director/greg-mottola/",
+      "image": "https://image.tmdb.org/t/p/w92/A5gy0fV3ndwkaCKnX017CKPNXve.jpg"
+    },
+    {
+      "name": "Simon Pegg",
+      "role": "Graeme Willy",
+      "url": "https://multimovies.city/cast/simon-pegg/",
+      "image": "https://image.tmdb.org/t/p/w92/nOWKXxgADG98RjKyfQ7oSDfns6J.jpg"
+    },
+    {
+      "name": "Nick Frost",
+      "role": "Clive Gollings",
+      "url": "https://multimovies.city/cast/nick-frost/",
+      "image": "https://image.tmdb.org/t/p/w92/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
+    },
+    {
+      "name": "Seth Rogen",
+      "role": "Paul (voice)",
+      "url": "https://multimovies.city/cast/seth-rogen/",
+      "image": "https://image.tmdb.org/t/p/w92/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg"
+    },
+    {
+      "name": "Jason Bateman",
+      "role": "Special Agent Lorenzo Zoil",
+      "url": "https://multimovies.city/cast/jason-bateman/",
+      "image": "https://image.tmdb.org/t/p/w92/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg"
+    },
+    {
+      "name": "Kristen Wiig",
+      "role": "Ruth Buggs",
+      "url": "https://multimovies.city/cast/kristen-wiig/",
+      "image": "https://image.tmdb.org/t/p/w92/43lFW3Ed6tNaVMsr9cwg0eP9n5n.jpg"
+    },
+    {
+      "name": "Bill Hader",
+      "role": "Haggard",
+      "url": "https://multimovies.city/cast/bill-hader/",
+      "image": "https://image.tmdb.org/t/p/w92/bKSllPdMOK2b3duHXKQZtQC5m8c.jpg"
+    },
+    {
+      "name": "Blythe Danner",
+      "role": "Tara Walton",
+      "url": "https://multimovies.city/cast/blythe-danner/",
+      "image": "https://image.tmdb.org/t/p/w92/hO09OUblsKAy81L3B8LupByY51u.jpg"
+    },
+    {
+      "name": "Joe Lo Truglio",
+      "role": "O'Reilly",
+      "url": "https://multimovies.city/cast/joe-lo-truglio/",
+      "image": "https://image.tmdb.org/t/p/w92/6un98WmgjAllrzMwjjZF2Bn8XZc.jpg"
+    },
+    {
+      "name": "John Carroll Lynch",
+      "role": "Moses Buggs",
+      "url": "https://multimovies.city/cast/john-carroll-lynch/",
+      "image": "https://image.tmdb.org/t/p/w92/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg"
+    },
+    {
+      "name": "Jane Lynch",
+      "role": "Pat Stevenson",
+      "url": "https://multimovies.city/cast/jane-lynch/",
+      "image": "https://image.tmdb.org/t/p/w92/nye6D17ZfCHQzr9faYZYyz1CPsZ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/oUvmiw8ow04fnkQMmxNZGj9PzM7.jpg",
+    "https://image.tmdb.org/t/p/w300/kl3rMfydlxyLDsZidSUCEWm8K0M.jpg",
+    "https://image.tmdb.org/t/p/w300/yaH1g4mjxpTIkZNYtelJHmZRHWb.jpg",
+    "https://image.tmdb.org/t/p/w300/gztzdt8GHyra7ta2Fjwydn6MaY.jpg",
+    "https://image.tmdb.org/t/p/w300/3naNiVY02NwVd364wRD3y00y618.jpg",
+    "https://image.tmdb.org/t/p/w300/hCbXhjHYqdF5xKVordGVj6G75QK.jpg",
+    "https://image.tmdb.org/t/p/w300/vETtyxrufl1CCBCDHO8YfN25quN.jpg"
+  ],
+  "similar": [],
+  "views": 5730,
+  "sources": [
+    "https://www.youtube.com/embed/reo7zqvpdi0?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/hhjnuum"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7540,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7540,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:11:49.900513"
+}
