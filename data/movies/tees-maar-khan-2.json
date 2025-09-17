@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tees-maar-khan-2/",
+  "meta": {
+    "title": "Tees Maar Khan",
+    "poster": "https://image.tmdb.org/t/p/w500/salRF4Qjw4SQk5ZcXfktt3WFGDw.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      }
+    ],
+    "firstAirDate": "Dec. 24, 2010",
+    "ratingValue": "8",
+    "ratingCount": "5",
+    "synopsis": "A con artist poses as a film director in a village with the intention of executing a caper with the unwitting help of the villagers.",
+    "infoFields": {
+      "Original title": "\u0924\u0940\u0938 \u092e\u093e\u0930 \u0916\u093e\u0928",
+      "IMDb Rating": "2.6 13,286 votes",
+      "TMDb Rating": "3.96 75 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Farah Khan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/farah-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/yfmm3VIGRZ8RDRQ0pjn3Vizw6WC.jpg"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Tabrez Mirza Khan/Tees Maar Khan",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/gaINfJtR19rNTIsI2cF3KFjyAB7.jpg"
+    },
+    {
+      "name": "Katrina Kaif",
+      "role": "Anya Khan",
+      "url": "https://multimovies.city/cast/katrina-kaif/",
+      "image": "https://image.tmdb.org/t/p/w92/sGxjQQ2ymrrplbRqFjwiJiUdc5w.jpg"
+    },
+    {
+      "name": "Akshaye Khanna",
+      "role": "Atish Kapoor",
+      "url": "https://multimovies.city/cast/akshaye-khanna/",
+      "image": "https://image.tmdb.org/t/p/w92/ywJ1z6LLrXnoovca03SQ5xNl6RU.jpg"
+    },
+    {
+      "name": "Ali Asgar",
+      "role": "Burger",
+      "url": "https://multimovies.city/cast/ali-asgar/",
+      "image": "https://image.tmdb.org/t/p/w92/a1D5cJMDWTnREMaUcer9oARZWnB.jpg"
+    },
+    {
+      "name": "Vijay Maurya",
+      "role": "Soda",
+      "url": "https://multimovies.city/cast/vijay-maurya/",
+      "image": "https://image.tmdb.org/t/p/w92/bv5PBdLWy6MZxpDukrkHbaiLcsL.jpg"
+    },
+    {
+      "name": "Dharampal",
+      "role": "Dollar",
+      "url": "https://multimovies.city/cast/dharampal/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Apara Mehta",
+      "role": "Tabrez's Mother",
+      "url": "https://multimovies.city/cast/apara-mehta/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Sudhir Pandey",
+      "role": "Bunty Baweja",
+      "url": "https://multimovies.city/cast/sudhir-pandey/",
+      "image": "https://image.tmdb.org/t/p/w92/ievuv0Moehpe9QYs5pzWAPobTiz.jpg"
+    },
+    {
+      "name": "Raghu Ram",
+      "role": "Johri Brother #1",
+      "url": "https://multimovies.city/cast/raghu-ram/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Rajiv Laxman",
+      "role": "Johri Brother #2",
+      "url": "https://multimovies.city/cast/rajiv-laxman/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/s8l7HK396cXmCoxYf84VJBxxaOr.jpg",
+    "https://image.tmdb.org/t/p/w300/5ygriIjbMGh2DAm83by3pifJUnX.jpg"
+  ],
+  "similar": [],
+  "views": 5547,
+  "sources": [
+    "https://www.youtube.com/embed/PYmpVwrmKT8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/qlh9ngy9y9i5"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 11297,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 11297,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:12:42.045380"
+}
