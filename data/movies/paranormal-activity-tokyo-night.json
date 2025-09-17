@@ -1,0 +1,117 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/paranormal-activity-tokyo-night/",
+  "meta": {
+    "title": "Paranormal Activity 2 : Tokyo Night",
+    "poster": "https://image.tmdb.org/t/p/w500/mh7j7XlYWo82UnQGhsxcuyolzp.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Nov. 20, 2010",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Koichi takes care of his sister, who has recently returned from a trip abroad in the United States as she is not well. While caring for her, he records evidence of ghosts in their home.",
+    "infoFields": {
+      "Original title": "\u30d1\u30e9\u30ce\u30fc\u30de\u30eb\u30fb\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3 \u7b2c2\u7ae0 TOKYO NIGHT",
+      "IMDb Rating": "5.1 5,330 votes",
+      "TMDb Rating": "6.005 401 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Toshikazu Nagae",
+      "role": "Director",
+      "url": "https://multimovies.city/director/toshikazu-nagae/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Aoi Nakamura",
+      "role": "Koichi Yamano",
+      "url": "https://multimovies.city/cast/aoi-nakamura/",
+      "image": "https://image.tmdb.org/t/p/w92/melP3Udhsm8jpesyHURSFh3gGEL.jpg"
+    },
+    {
+      "name": "Noriko Aoyama",
+      "role": "Haruka Yamano",
+      "url": "https://multimovies.city/cast/noriko-aoyama/",
+      "image": "https://image.tmdb.org/t/p/w92/A88u56QAq9TdNm4rGPxeP4SWDdM.jpg"
+    },
+    {
+      "name": "Kosuke Kujirai",
+      "role": "Jun Nagoshi",
+      "url": "https://multimovies.city/cast/kosuke-kujirai/",
+      "image": "https://image.tmdb.org/t/p/w92/4fFUk9h6Ny9pSYtT1WwOnPLDgze.jpg"
+    },
+    {
+      "name": "Ayako Yoshitani",
+      "role": "Kure Misuzu",
+      "url": "https://multimovies.city/cast/ayako-yoshitani/",
+      "image": "https://image.tmdb.org/t/p/w92/xywTEMYCfKJhMhlwuzyY6uArtaU.jpg"
+    },
+    {
+      "name": "Kazuyoshi Tsumura",
+      "role": "Shigeyuki Yamano",
+      "url": "https://multimovies.city/cast/kazuyoshi-tsumura/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Maaya Morinaga",
+      "role": "Mai Yaguchi",
+      "url": "https://multimovies.city/cast/maaya-morinaga/",
+      "image": "https://image.tmdb.org/t/p/w92/4pGmyt4iUTTE6fYyEyjfGhcwBTX.jpg"
+    },
+    {
+      "name": "T\u014dze Yamada",
+      "role": "Exorcist",
+      "url": "https://multimovies.city/cast/toze-yamada/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Shinji Matsubayashi",
+      "role": "Exorcist's Assistant",
+      "url": "https://multimovies.city/cast/shinji-matsubayashi/",
+      "image": "https://image.tmdb.org/t/p/w92/w23gqzyNLj4GuNk8Hy6ZjBqhKzR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1S6HTRZ8HwuIM8KVNOaycN5WxwX.jpg",
+    "https://image.tmdb.org/t/p/w300/vHZMaOZs1jyrxX1dLxmtCFiRbzw.jpg",
+    "https://image.tmdb.org/t/p/w300/2hUjH0U5XzR1t4ZGJJ9rpDFhxic.jpg",
+    "https://image.tmdb.org/t/p/w300/oBhhjJbRjUlfzs6OQBJcGAafQAw.jpg"
+  ],
+  "similar": [],
+  "views": 1217,
+  "sources": [
+    "https://www.youtube.com/embed/srhgF9_oeK8?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/u2r3elsa5mel"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 38619,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 38619,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:07:39.823661"
+}
