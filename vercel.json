@@ -14,10 +14,5 @@
     { "src": "/api/page", "dest": "/api/page.js" },
     { "src": "/api/(.*)", "dest": "/api/$1.js" }
   ],
-  "crons": [
-    {
-      "path": "/api/h_movies",
-      "schedule": "*/5 * * * *"
-    }
-  ]
+  
 }
