@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-lincoln-lawyer/",
+  "meta": {
+    "title": "The Lincoln Lawyer",
+    "poster": "https://image.tmdb.org/t/p/w500/gOn8Ve9Yi8fxjRkmLr5BZoOc7KV.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 17, 2011",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Mick Haller is a charismatic defense attorney who does business out of his Lincoln Continental sedan. Mick spends most of his time defending petty crooks and other bottom-feeders, so it comes as quite a surprise when he lands the case of a lifetime: defending a Beverly Hills playboy who is accused of attempted murder. However, what Mick initially thinks is an open-and-shut case with a big monetary reward develops into something more sinister.",
+    "infoFields": {
+      "Original title": "The Lincoln Lawyer",
+      "IMDb Rating": "7.3 263,280 votes",
+      "TMDb Rating": "7.199 3,394 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Brad Furman",
+      "role": "Director",
+      "url": "https://multimovies.city/director/brad-furman/",
+      "image": "https://image.tmdb.org/t/p/w92/hqDn42bhmEPdIIX7r6t4gVcl2AU.jpg"
+    },
+    {
+      "name": "Matthew McConaughey",
+      "role": "Mickey Haller",
+      "url": "https://multimovies.city/cast/matthew-mcconaughey/",
+      "image": "https://image.tmdb.org/t/p/w92/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+      "name": "Ryan Phillippe",
+      "role": "Louis Roulet",
+      "url": "https://multimovies.city/cast/ryan-phillippe/",
+      "image": "https://image.tmdb.org/t/p/w92/riNUvjLNsa2JDLrgDIBHH9nze6o.jpg"
+    },
+    {
+      "name": "William H. Macy",
+      "role": "Frank Levin",
+      "url": "https://multimovies.city/cast/william-h-macy/",
+      "image": "https://image.tmdb.org/t/p/w92/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+      "name": "Marisa Tomei",
+      "role": "Maggie McPherson",
+      "url": "https://multimovies.city/cast/marisa-tomei/",
+      "image": "https://image.tmdb.org/t/p/w92/f68nmyE9we5ABfa3YVvv9rZSrq4.jpg"
+    },
+    {
+      "name": "Josh Lucas",
+      "role": "Ted Minton",
+      "url": "https://multimovies.city/cast/josh-lucas/",
+      "image": "https://image.tmdb.org/t/p/w92/mgA2drqb0oAa4XWUNhvkDdB4rMq.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "role": "Val Valenzuela",
+      "url": "https://multimovies.city/cast/john-leguizamo/",
+      "image": "https://image.tmdb.org/t/p/w92/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "name": "Michael Pe\u00f1a",
+      "role": "Jesus Martinez",
+      "url": "https://multimovies.city/cast/michael-pena/",
+      "image": "https://image.tmdb.org/t/p/w92/ft9e3EX4JG9MwK9pXwgbJ8ZvFoV.jpg"
+    },
+    {
+      "name": "Bob Gunton",
+      "role": "Cecil Dobbs",
+      "url": "https://multimovies.city/cast/bob-gunton/",
+      "image": "https://image.tmdb.org/t/p/w92/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+    },
+    {
+      "name": "Frances Fisher",
+      "role": "Mary Windsor",
+      "url": "https://multimovies.city/cast/frances-fisher/",
+      "image": "https://image.tmdb.org/t/p/w92/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg"
+    },
+    {
+      "name": "Trace Adkins",
+      "role": "Eddie Vogel",
+      "url": "https://multimovies.city/cast/trace-adkins/",
+      "image": "https://image.tmdb.org/t/p/w92/9MMbYFI0WL2rp5iQG9DeYL0Pgvl.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/j9QaQVuyQIEwckUbjHpAgA7E4jJ.jpg",
+    "https://image.tmdb.org/t/p/w300/dLXK17n5mohsPExi3uNxme0Itie.jpg",
+    "https://image.tmdb.org/t/p/w300/yQUUD3RmZ3hsnsyDZp077pgrnli.jpg",
+    "https://image.tmdb.org/t/p/w300/uwu4eRvOxUsQvtdR8ZOm9ZzbEXU.jpg",
+    "https://image.tmdb.org/t/p/w300/Ekw90O8k9ivnwRQwel0Naccp82.jpg",
+    "https://image.tmdb.org/t/p/w300/cW5KyKpyEHDbMMakyxEDWi8dn8i.jpg"
+  ],
+  "similar": [],
+  "views": 628,
+  "sources": [
+    "https://www.youtube.com/embed/IFwE3UgCMIk?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/b3ks5yo"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 93322,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 93322,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:13:08.281770"
+}
