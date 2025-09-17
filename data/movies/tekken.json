@@ -32,7 +32,7 @@
       }
     ],
     "firstAirDate": "Mar. 20, 2010",
-    "ratingValue": "9",
+    "ratingValue": "5",
     "ratingCount": "1",
     "synopsis": "In the year of 2039, after World Wars destroy much of the civilization as we know it, territories are no longer run by governments, but by corporations; the mightiest of which is the Mishima Zaibatsu. In order to placate the seething masses of this dystopia, Mishima sponsors Tekken, a tournament in which fighters battle until only one is left standing.",
     "infoFields": {
@@ -123,7 +123,7 @@
     "https://image.tmdb.org/t/p/w300/g9R5iGsaZ6tlTz0SJDsryTjpEci.jpg"
   ],
   "similar": [],
-  "views": 1353,
+  "views": 1358,
   "sources": [
     "https://www.youtube.com/embed/TIJ-oV5ivTQ?autoplay=0&autohide=1",
     "https://gdmirrorbot.nl/embed/eahh8rz"
@@ -143,5 +143,5 @@
     }
   ],
   "cache": false,
-  "last_update": "2025-09-16T19:42:22.704341"
+  "last_update": "2025-09-17T07:03:42.695381"
 }
