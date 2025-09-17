@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/insidious/",
+  "meta": {
+    "title": "Insidious",
+    "poster": "https://image.tmdb.org/t/p/w500/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 31, 2011",
+    "ratingValue": "8",
+    "ratingCount": "11",
+    "synopsis": "A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.",
+    "infoFields": {
+      "Original title": "Insidious",
+      "IMDb Rating": "6.8 352,991 votes",
+      "TMDb Rating": "6.942 6,928 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "James Wan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/james-wan/",
+      "image": "https://image.tmdb.org/t/p/w92/bNJccMIKzCtYnndcOKniSKCzo5Y.jpg"
+    },
+    {
+      "name": "Patrick Wilson",
+      "role": "Josh Lambert",
+      "url": "https://multimovies.city/cast/patrick-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg"
+    },
+    {
+      "name": "Rose Byrne",
+      "role": "Renai Lambert",
+      "url": "https://multimovies.city/cast/rose-byrne/",
+      "image": "https://image.tmdb.org/t/p/w92/4oQWCLK7gd6RNKF0WJipJo7TyFP.jpg"
+    },
+    {
+      "name": "Barbara Hershey",
+      "role": "Lorraine Lambert",
+      "url": "https://multimovies.city/cast/barbara-hershey/",
+      "image": "https://image.tmdb.org/t/p/w92/6swwfge3HlvyBVRSNwroFtMcgNB.jpg"
+    },
+    {
+      "name": "Ty Simpkins",
+      "role": "Dalton Lambert",
+      "url": "https://multimovies.city/cast/ty-simpkins/",
+      "image": "https://image.tmdb.org/t/p/w92/iGPK0aZeKBkyBAjg7zl7AoZ7r2l.jpg"
+    },
+    {
+      "name": "Lin Shaye",
+      "role": "Elise Rainier",
+      "url": "https://multimovies.city/cast/lin-shaye/",
+      "image": "https://image.tmdb.org/t/p/w92/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+    },
+    {
+      "name": "Leigh Whannell",
+      "role": "Specs",
+      "url": "https://multimovies.city/cast/leigh-whannell/",
+      "image": "https://image.tmdb.org/t/p/w92/wvoTbsROOHfCqJ3Voe9zpal429L.jpg"
+    },
+    {
+      "name": "Angus Sampson",
+      "role": "Tucker",
+      "url": "https://multimovies.city/cast/angus-sampson/",
+      "image": "https://image.tmdb.org/t/p/w92/8EX6ul2zyVUg91oDvI3RpYS5szV.jpg"
+    },
+    {
+      "name": "Andrew Astor",
+      "role": "Foster Lambert",
+      "url": "https://multimovies.city/cast/andrew-astor/",
+      "image": "https://image.tmdb.org/t/p/w92/8rXmfA1QfycVOq4gQeSMHpacGtX.jpg"
+    },
+    {
+      "name": "Corbett Tuck",
+      "role": "Nurse Adele / Doll Girl #2",
+      "url": "https://multimovies.city/cast/corbett-tuck/",
+      "image": "https://image.tmdb.org/t/p/w92/n5FVCDTljt8PRorGH1IhRe8LUY3.jpg"
+    },
+    {
+      "name": "Heather Tocquigny",
+      "role": "Nurse Kelly",
+      "url": "https://multimovies.city/cast/heather-tocquigny/",
+      "image": "https://image.tmdb.org/t/p/w92/dc8wsnkfz1zsRjGvoFMvDiuHlf3.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/bylGn5OC2h3BWfGLYFtIcxlYxLy.jpg",
+    "https://image.tmdb.org/t/p/w300/yZP6GyrgzdpjH1AxPHlb8ACLkiA.jpg",
+    "https://image.tmdb.org/t/p/w300/tVyE87cY3DxBecCWPzAUVQG5kUk.jpg",
+    "https://image.tmdb.org/t/p/w300/7bmHtY49XtqYG5lpEKS8Ijxs1F8.jpg",
+    "https://image.tmdb.org/t/p/w300/tJvRdhlkonjBLBUpTqp0RPPujxJ.jpg",
+    "https://image.tmdb.org/t/p/w300/b7375ZJntKTJEU5KExHzfn9b2ZJ.jpg",
+    "https://image.tmdb.org/t/p/w300/6yBW5TXkAwTdOnSDYS4EcAqdeYy.jpg",
+    "https://image.tmdb.org/t/p/w300/anEh7TxYloZh9Sd452miSgkirXg.jpg",
+    "https://image.tmdb.org/t/p/w300/qleeDsNZChRWanUbwUEHYRnDxEA.jpg"
+  ],
+  "similar": [],
+  "views": 13967,
+  "sources": [
+    "https://www.youtube.com/embed/62rpZcMYa0A?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/yuyukie"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 9699,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 9699,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:10:25.930646"
+}
