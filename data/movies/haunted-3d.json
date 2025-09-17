@@ -1,0 +1,114 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/haunted-3d/",
+  "meta": {
+    "title": "Haunted-3D",
+    "poster": "https://image.tmdb.org/t/p/w500/pGh8xHzA6B9IPMjCNfIltta1ZIZ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      }
+    ],
+    "firstAirDate": "May. 05, 2011",
+    "ratingValue": "7.2",
+    "ratingCount": "6",
+    "synopsis": "A realtor finds himself accompanied by two ghostly entities inside a mansion. He learns of a violent event that took place years ago and is sent back in time to prevent it from happening.",
+    "infoFields": {
+      "Original title": "\u0939\u0949\u0928\u094d\u091f\u0947\u0921",
+      "IMDb Rating": "6.3 2,563 votes",
+      "TMDb Rating": "6.3 38 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Vikram Bhatt",
+      "role": "Director",
+      "url": "https://multimovies.city/director/vikram-bhatt/",
+      "image": "https://image.tmdb.org/t/p/w92/xK23RuAHLaXx8lU6h9VMRYjVWho.jpg"
+    },
+    {
+      "name": "Mimoh Chakraborty",
+      "role": "Rehan (as Mahaakshay)",
+      "url": "https://multimovies.city/cast/mimoh-chakraborty/",
+      "image": "https://image.tmdb.org/t/p/w92/5lF07FSxwCn4D4sGv83KXK4edSa.jpg"
+    },
+    {
+      "name": "Tia Bajpai",
+      "role": "Meera Sabharwal",
+      "url": "https://multimovies.city/cast/tia-bajpai/",
+      "image": "https://image.tmdb.org/t/p/w92/kZhf33wwamWoy7Rvl8CWVKNuxvv.jpg"
+    },
+    {
+      "name": "Achint Kaur",
+      "role": "Margaret",
+      "url": "https://multimovies.city/cast/achint-kaur/",
+      "image": "https://image.tmdb.org/t/p/w92/8PUzky4QtI31LnrC6PJqfBWpzH1.jpg"
+    },
+    {
+      "name": "Mohan Kapur",
+      "role": "Priest (as Mohan Kapur)",
+      "url": "https://multimovies.city/cast/mohan-kapur/",
+      "image": "https://image.tmdb.org/t/p/w92/lL0J5DBOwN1pwLCvuo7uQ0ApjF.jpg"
+    },
+    {
+      "name": "Prachee Shah",
+      "role": "Mrs. Stevens",
+      "url": "https://multimovies.city/cast/prachee-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/nCiNfb8VCtQ0PcYzIzzdVI5GlRl.jpg"
+    },
+    {
+      "name": "Arif Zakaria",
+      "role": "Professor Iyer",
+      "url": "https://multimovies.city/cast/arif-zakaria/",
+      "image": "https://image.tmdb.org/t/p/w92/fQx14DwQV2Z2p25t4bogVn9A2c.jpg"
+    },
+    {
+      "name": "Sanjay Sharma",
+      "role": "Baba",
+      "url": "https://multimovies.city/cast/sanjay-sharma/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/zVk7Ixmjv5KVWHCuS1p7gqpvYZL.jpg",
+    "https://image.tmdb.org/t/p/w300/kBvNy5DFyV9i8kpsPxLJgFZ05dS.jpg",
+    "https://image.tmdb.org/t/p/w300/2FC2RSy0SATiIzVJt1Ek4tlPTOA.jpg"
+  ],
+  "similar": [],
+  "views": 7298,
+  "sources": [
+    "https://www.youtube.com/embed/1g8a96rw-Jc?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/ftiya1gf99c9"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 27407,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 27407,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:11:24.769392"
+}
