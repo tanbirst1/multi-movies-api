@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/thor/",
+  "meta": {
+    "title": "Thor",
+    "poster": "https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Marvel Collection",
+        "url": "https://multimovies.city/genre/marvel-collection/"
+      }
+    ],
+    "firstAirDate": "Apr. 21, 2011",
+    "ratingValue": "8.6",
+    "ratingCount": "17",
+    "synopsis": "Against his father Odin\u2019s will, The Mighty Thor \u2013 a powerful but arrogant warrior god \u2013 recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+    "infoFields": {
+      "Original title": "Thor",
+      "IMDb Rating": "7 933,798 votes",
+      "TMDb Rating": "6.769 21,496 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Kenneth Branagh",
+      "role": "Director",
+      "url": "https://multimovies.city/director/kenneth-branagh/",
+      "image": "https://image.tmdb.org/t/p/w92/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "role": "Thor Odinson",
+      "url": "https://multimovies.city/cast/chris-hemsworth/",
+      "image": "https://image.tmdb.org/t/p/w92/jpurJ9jAcLCYjgHHfYF32m3zJYm.jpg"
+    },
+    {
+      "name": "Natalie Portman",
+      "role": "Jane Foster",
+      "url": "https://multimovies.city/cast/natalie-portman/",
+      "image": "https://image.tmdb.org/t/p/w92/luLok04KiKqu3zq5rvKQhpiEDmx.jpg"
+    },
+    {
+      "name": "Tom Hiddleston",
+      "role": "Loki",
+      "url": "https://multimovies.city/cast/tom-hiddleston/",
+      "image": "https://image.tmdb.org/t/p/w92/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "role": "Odin",
+      "url": "https://multimovies.city/cast/anthony-hopkins/",
+      "image": "https://image.tmdb.org/t/p/w92/9ukJS2QWTJ22HcwR1ktMmoJ6RSL.jpg"
+    },
+    {
+      "name": "Stellan Skarsg\u00e5rd",
+      "role": "Erik Selvig",
+      "url": "https://multimovies.city/cast/stellan-skarsgard/",
+      "image": "https://image.tmdb.org/t/p/w92/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg"
+    },
+    {
+      "name": "Kat Dennings",
+      "role": "Darcy Lewis",
+      "url": "https://multimovies.city/cast/kat-dennings/",
+      "image": "https://image.tmdb.org/t/p/w92/jRMgF6T4MH0E8ju1ifWVCnpYrin.jpg"
+    },
+    {
+      "name": "Clark Gregg",
+      "role": "Phil Coulson",
+      "url": "https://multimovies.city/cast/clark-gregg/",
+      "image": "https://image.tmdb.org/t/p/w92/nbxFbr2SaF4Sdc6HdsF193GInvJ.jpg"
+    },
+    {
+      "name": "Colm Feore",
+      "role": "King Laufey",
+      "url": "https://multimovies.city/cast/colm-feore/",
+      "image": "https://image.tmdb.org/t/p/w92/oOxcf1qB1IvVZrBEE1PdrfMiyBK.jpg"
+    },
+    {
+      "name": "Idris Elba",
+      "role": "Heimdall",
+      "url": "https://multimovies.city/cast/idris-elba/",
+      "image": "https://image.tmdb.org/t/p/w92/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "name": "Ray Stevenson",
+      "role": "Volstagg",
+      "url": "https://multimovies.city/cast/ray-stevenson/",
+      "image": "https://image.tmdb.org/t/p/w92/msafbswGI6uisRuNvQ8a1wMF5Ca.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/1wOu8rdvPxU1ObHi20VcRhfNpbo.jpg",
+    "https://image.tmdb.org/t/p/w300/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+    "https://image.tmdb.org/t/p/w300/kri9czQwnVuZYXEwYvYM1k6ebqU.jpg",
+    "https://image.tmdb.org/t/p/w300/rxGVEJaHvbjZUptzC3OXiolF4pw.jpg",
+    "https://image.tmdb.org/t/p/w300/c5tewtijj6aixi8zwwPuYJxifBA.jpg",
+    "https://image.tmdb.org/t/p/w300/239KWoUxiKT0bR3UsmsoX7GsDf9.jpg",
+    "https://image.tmdb.org/t/p/w300/jWAJlgICJbn2kyohrokteRoD3cZ.jpg",
+    "https://image.tmdb.org/t/p/w300/bfV8MCMAGgmCvMxx0jXTC8OyRnX.jpg",
+    "https://image.tmdb.org/t/p/w300/wB9RZa175mevyxJQXDbYZMK0Zlf.jpg",
+    "https://image.tmdb.org/t/p/w300/n5zyJxk4q2dh4ep95MnvKC1y0VC.jpg"
+  ],
+  "similar": [],
+  "views": 20962,
+  "sources": [
+    "https://www.youtube.com/embed/uHBnrJowBZE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/c1iwiby"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 2411,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 2411,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:11:47.924024"
+}
