@@ -1,0 +1,138 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-adjustment-bureau/",
+  "meta": {
+    "title": "The Adjustment Bureau",
+    "poster": "https://image.tmdb.org/t/p/w500/A4wKf04g4DCVAWC67uPGozIJPGw.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Mar. 03, 2011",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "A man glimpses the future Fate has planned for him \u2013 and chooses to fight for his own destiny. Battling the powerful Adjustment Bureau across, under and through the streets of New York, he risks his destined greatness to be with the only woman he\u2019s ever loved.",
+    "infoFields": {
+      "Original title": "The Adjustment Bureau",
+      "IMDb Rating": "7 272,124 votes",
+      "TMDb Rating": "6.752 4,414 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "George Nolfi",
+      "role": "Director",
+      "url": "https://multimovies.city/director/george-nolfi/",
+      "image": "https://image.tmdb.org/t/p/w92/dYr20UCtki5iRg0k2zSKjG36QKy.jpg"
+    },
+    {
+      "name": "Matt Damon",
+      "role": "David Norris",
+      "url": "https://multimovies.city/cast/matt-damon/",
+      "image": "https://image.tmdb.org/t/p/w92/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+    },
+    {
+      "name": "Emily Blunt",
+      "role": "Elise Sellas",
+      "url": "https://multimovies.city/cast/emily-blunt/",
+      "image": "https://image.tmdb.org/t/p/w92/nPJXaRMvu1vh3COG16GzmdsBySQ.jpg"
+    },
+    {
+      "name": "John Slattery",
+      "role": "Richardson",
+      "url": "https://multimovies.city/cast/john-slattery/",
+      "image": "https://image.tmdb.org/t/p/w92/75YCITsSJZTYm9TMqfV5QItIcTo.jpg"
+    },
+    {
+      "name": "Anthony Mackie",
+      "role": "Harry Mitchell",
+      "url": "https://multimovies.city/cast/anthony-mackie/",
+      "image": "https://image.tmdb.org/t/p/w92/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+    },
+    {
+      "name": "Michael Kelly",
+      "role": "Charlie Traynor",
+      "url": "https://multimovies.city/cast/michael-kelly/",
+      "image": "https://image.tmdb.org/t/p/w92/riyeGgTnSWGZGJ9k9qK38lfclz1.jpg"
+    },
+    {
+      "name": "Terence Stamp",
+      "role": "Thompson",
+      "url": "https://multimovies.city/cast/terence-stamp/",
+      "image": "https://image.tmdb.org/t/p/w92/ept9urkuhPbGndVXkERw39R9oid.jpg"
+    },
+    {
+      "name": "Shane McRae",
+      "role": "Adrian Troussant",
+      "url": "https://multimovies.city/cast/shane-mcrae/",
+      "image": "https://image.tmdb.org/t/p/w92/za3YtjDeGNEQxQOdAIU04bH9vTF.jpg"
+    },
+    {
+      "name": "Lisa Thoreson",
+      "role": "Suburban Mom",
+      "url": "https://multimovies.city/cast/lisa-thoreson/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Florence Kastriner",
+      "role": "Suburban Mom",
+      "url": "https://multimovies.city/cast/florence-kastriner/",
+      "image": "https://image.tmdb.org/t/p/w92/paWezrGtjmUtpEj2h7MwLjbINpZ.jpg"
+    },
+    {
+      "name": "Natalie Carter",
+      "role": "Suburban Neighbor",
+      "url": "https://multimovies.city/cast/natalie-carter/",
+      "image": "https://image.tmdb.org/t/p/w92/F9k9xejjQ7mNYrIG7MzBL3j5Mq.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/yPAYpLofITQ9pST80ZNBGIE2pfN.jpg",
+    "https://image.tmdb.org/t/p/w300/x8p7mkmCV9staMwU8eXYfHLNX1x.jpg",
+    "https://image.tmdb.org/t/p/w300/hBZrCMHORO6K6tLNZVCsRNwAalr.jpg",
+    "https://image.tmdb.org/t/p/w300/2xYCusoDXEyYKVW8DTPRuh7amjR.jpg",
+    "https://image.tmdb.org/t/p/w300/ap6OYJTrDeHCjxRrxazSHjn9LTX.jpg",
+    "https://image.tmdb.org/t/p/w300/icmS2IqygSEUYs0gZOKasogMKXD.jpg",
+    "https://image.tmdb.org/t/p/w300/4mF2uajGv5t39fidddw8sN0KO5C.jpg",
+    "https://image.tmdb.org/t/p/w300/cKiHtxQUbSGWlinNPjn71jtHvhh.jpg",
+    "https://image.tmdb.org/t/p/w300/6XM9OUe1QvTU08lEwTI2ZoOuFAN.jpg"
+  ],
+  "similar": [],
+  "views": 1006,
+  "sources": [
+    "https://www.youtube.com/embed/fSeWHl1PaKs?autoplay=0&autohide=1",
+    "https://smoothpre.com/embed/3sckw4a9tgjg"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58291,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58291,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:10:45.850279"
+}
