@@ -1,0 +1,163 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/just-go-with-it/",
+  "meta": {
+    "title": "Just Go with It",
+    "poster": "https://image.tmdb.org/t/p/w500/ez1EDULOCUUCySHOZU6tz97qbtM.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Feb. 10, 2011",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "A plastic surgeon, romancing a much younger schoolteacher, enlists his loyal assistant to pretend to be his soon to be ex-wife, in order to cover up a careless lie. When more lies backfire, the assistant\u2019s kids become involved, and everyone heads off for a weekend in Hawaii that will change all their lives. A remake of Cactus Flower (1969).",
+    "infoFields": {
+      "Original title": "Just Go with It",
+      "IMDb Rating": "6.4 252,107 votes",
+      "TMDb Rating": "6.674 5,093 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Dennis Dugan",
+      "role": "Director",
+      "url": "https://multimovies.city/director/dennis-dugan/",
+      "image": "https://image.tmdb.org/t/p/w92/3QH2wJ1eVBLT3Vi2GNVO5TayXEB.jpg"
+    },
+    {
+      "name": "Adam Sandler",
+      "role": "Danny Maccabee",
+      "url": "https://multimovies.city/cast/adam-sandler/",
+      "image": "https://image.tmdb.org/t/p/w92/5GTTlfSgciVe40GkxKRHVPW8hOz.jpg"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "role": "Katherine Murphy",
+      "url": "https://multimovies.city/cast/jennifer-aniston/",
+      "image": "https://image.tmdb.org/t/p/w92/qPXG41rYdUGldZhMhuZFvmpZKRp.jpg"
+    },
+    {
+      "name": "Nicole Kidman",
+      "role": "Devlin Adams",
+      "url": "https://multimovies.city/cast/nicole-kidman/",
+      "image": "https://image.tmdb.org/t/p/w92/xc4gPenDJN5Ahx4iy3lIL09r2vi.jpg"
+    },
+    {
+      "name": "Nick Swardson",
+      "role": "Eddie Simms",
+      "url": "https://multimovies.city/cast/nick-swardson/",
+      "image": "https://image.tmdb.org/t/p/w92/mkI0t4n0kV3tulTG41syiXGTmZk.jpg"
+    },
+    {
+      "name": "Brooklyn Decker",
+      "role": "Palmer Dodge",
+      "url": "https://multimovies.city/cast/brooklyn-decker/",
+      "image": "https://image.tmdb.org/t/p/w92/x3JWepaXTopE9k0g87Q9diRM5Nc.jpg"
+    },
+    {
+      "name": "Bailee Madison",
+      "role": "Maggie Murphy",
+      "url": "https://multimovies.city/cast/bailee-madison/",
+      "image": "https://image.tmdb.org/t/p/w92/wOW9wzgbO6J1u7QrsswFRuiKyT7.jpg"
+    },
+    {
+      "name": "Vanessa Villalovos",
+      "role": "Saleswoman",
+      "url": "https://multimovies.city/cast/vanessa-villalovos/",
+      "image": "https://image.tmdb.org/t/p/w92/5XH1y9wB71y6gZi06iJSCnwvqVQ.jpg"
+    },
+    {
+      "name": "Kevin Nealon",
+      "role": "Adon",
+      "url": "https://multimovies.city/cast/kevin-nealon/",
+      "image": "https://image.tmdb.org/t/p/w92/5eV3T45dXMzXaKy9A3wE2UueRvx.jpg"
+    },
+    {
+      "name": "Griffin Gluck",
+      "role": "Michael Murphy",
+      "url": "https://multimovies.city/cast/griffin-gluck/",
+      "image": "https://image.tmdb.org/t/p/w92/j7KSBKYLgnLxkZfhQ679HRSDIjj.jpg"
+    },
+    {
+      "name": "Allen Covert",
+      "role": "Soul Patch",
+      "url": "https://multimovies.city/cast/allen-covert/",
+      "image": "https://image.tmdb.org/t/p/w92/7n3euonyxM0wOGfk0T50pgHo06v.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/iMz5ieKyFSFnjZZEci5oE7A9m2p.jpg",
+    "https://image.tmdb.org/t/p/w300/sRJXffIo0tY2acAUlIThoopsxia.jpg",
+    "https://image.tmdb.org/t/p/w300/oFGjiPBB3JRQwmzgNxCmCE1naX6.jpg",
+    "https://image.tmdb.org/t/p/w300/w9a7gdvqEhfOkVquS8lTbTSeVPU.jpg",
+    "https://image.tmdb.org/t/p/w300/jlLKVwLKJ9CTXC0dC0iWQIDb6Yy.jpg",
+    "https://image.tmdb.org/t/p/w300/dTj0QMAHkXHQU7OmlqKPdTfkiao.jpg",
+    "https://image.tmdb.org/t/p/w300/uKlRaVj7L4C7f4lDAOx0ypKPwH3.jpg",
+    "https://image.tmdb.org/t/p/w300/d1721ybPSiiotsDQldbBfBoXguN.jpg",
+    "https://image.tmdb.org/t/p/w300/vSAN7lBQ4sXScoZ8YIZHBXgNhD5.jpg",
+    "https://image.tmdb.org/t/p/w300/4J2G7DDvRD87goVgCLkGZw4GW8d.jpg"
+  ],
+  "similar": [],
+  "views": 2893,
+  "sources": [
+    "https://www.youtube.com/embed/fpj7i2CPt8M?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/3648z0b2un96",
+    "https://sbplay.org/embed-jzw8iflmglbu.html",
+    "https://dood.la/e/rbmsgov92qtx",
+    "https://mixdrop.co/e/n09l3xqqalwlgrq",
+    "https://hydrax.net/watch?v=vCwxUhH3F"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 9193,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 9193,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 9193,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 9193,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 9193,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 9193,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:12:03.456542"
+}
