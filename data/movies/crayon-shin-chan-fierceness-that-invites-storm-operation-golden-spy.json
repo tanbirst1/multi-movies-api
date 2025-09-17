@@ -1,0 +1,107 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/crayon-shin-chan-fierceness-that-invites-storm-operation-golden-spy/",
+  "meta": {
+    "title": "ShinChan Movie The Spy",
+    "poster": "https://image.tmdb.org/t/p/w500/bXorDERG6ARfayQwKNCC4d37OWd.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Hungama",
+        "url": "https://multimovies.city/genre/hungama/"
+      },
+      {
+        "name": "Shinchan Movies",
+        "url": "https://multimovies.city/genre/shinchan-movies/"
+      }
+    ],
+    "firstAirDate": "Apr. 16, 2011",
+    "ratingValue": "9.4",
+    "ratingCount": "7",
+    "synopsis": "A girl named Lemon arrives with a message for Shinnosuke, and he starts training as an action spy. But can he foil double agents and secret plots?",
+    "infoFields": {
+      "Original title": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093 \u5d50\u3092\u547c\u3076\u9ec4\u91d1\u306e\u30b9\u30d1\u30a4\u5927\u4f5c\u6226",
+      "TMDb Rating": "6.7 17 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Souichi Masui",
+      "role": "Director",
+      "url": "https://multimovies.city/director/souichi-masui/",
+      "image": "https://image.tmdb.org/t/p/w92/eRCRldZdRnflFnzRJbSs6QNEmwm.jpg"
+    },
+    {
+      "name": "Akiko Yajima",
+      "role": "Shinnosuke Nohara (voice)",
+      "url": "https://multimovies.city/cast/akiko-yajima/",
+      "image": "https://image.tmdb.org/t/p/w92/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
+    },
+    {
+      "name": "Miki Narahashi",
+      "role": "Misae Nohara",
+      "url": "https://multimovies.city/cast/miki-narahashi/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Keiji Fujiwara",
+      "role": "Hiroshi Nohara",
+      "url": "https://multimovies.city/cast/keiji-fujiwara/",
+      "image": "https://image.tmdb.org/t/p/w92/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+    },
+    {
+      "name": "Satomi Korogi",
+      "role": "Himawari Nohara (voice)",
+      "url": "https://multimovies.city/cast/satomi-korogi/",
+      "image": "https://image.tmdb.org/t/p/w92/k6aNf0zGFGBptCMeFwHV88nlITX.jpg"
+    },
+    {
+      "name": "Rikako Aikawa",
+      "role": "Lemon",
+      "url": "https://multimovies.city/cast/rikako-aikawa/",
+      "image": "https://image.tmdb.org/t/p/w92/cpyaO7u3wqdsEF1p8BPg8fpezBP.jpg"
+    },
+    {
+      "name": "Tomo Sakurai",
+      "role": "Lime",
+      "url": "https://multimovies.city/cast/tomo-sakurai/",
+      "image": "https://image.tmdb.org/t/p/w92/kCbQmfxmXRoYSbtU7u2r6LP4pf.jpg"
+    },
+    {
+      "name": "Kenyu Horiuchi",
+      "role": "Plum",
+      "url": "https://multimovies.city/cast/kenyu-horiuchi/",
+      "image": "https://image.tmdb.org/t/p/w92/qIsrjSbtdhmmUdd3xvpDHNWRuJp.jpg"
+    },
+    {
+      "name": "Fubito Yamano",
+      "role": "Dr. Hegaderu",
+      "url": "https://multimovies.city/cast/fubito-yamano/",
+      "image": "https://image.tmdb.org/t/p/w92/vuv0yGkRfb7eErhbHto4237TVyl.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/obqeCTbgmCjqvj9LWjjrAucTszH.jpg",
+    "https://image.tmdb.org/t/p/w300/bs3KEPRmV8CifWI9k3RrvtjrAQd.jpg"
+  ],
+  "similar": [],
+  "views": 4717,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/m0cn2wn"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26152,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:12:03.828260"
+}
