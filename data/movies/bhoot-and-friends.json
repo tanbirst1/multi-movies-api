@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/bhoot-and-friends/",
+  "meta": {
+    "title": "Bhoot and Friends",
+    "poster": "https://image.tmdb.org/t/p/w500/h25U1FEcZ28F39ylMahSF99YPmv.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Dec. 31, 2010",
+    "ratingValue": "10",
+    "ratingCount": "1",
+    "synopsis": "Four holidaying children go missing, then encounter a ghost and hoodlums in a dense forest.",
+    "infoFields": {
+      "Original title": "Bhoot and Friends",
+      "IMDb Rating": "5.3 142 votes",
+      "TMDb Rating": "6 2 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Jackie Shroff",
+      "role": "Bhanu Pratap Singh",
+      "url": "https://multimovies.city/cast/jackie-shroff/",
+      "image": "https://image.tmdb.org/t/p/w92/1UNJypgEyuihUW2avLLVYj76jie.jpg"
+    },
+    {
+      "name": "Ashwin Mushran",
+      "role": "Gora Sahab",
+      "url": "https://multimovies.city/cast/ashwin-mushran/",
+      "image": "https://image.tmdb.org/t/p/w92/yhUeMqELji0IUD0FQQrqToJXzSg.jpg"
+    }
+  ],
+  "gallery": [],
+  "similar": [],
+  "views": 981,
+  "sources": [
+    "https://multimoviesshg.com/e/ve4fqrcdveor"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 3513,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:12:25.353335"
+}
