@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/take-me-home-tonight/",
+  "meta": {
+    "title": "Take Me Home Tonight",
+    "poster": "https://image.tmdb.org/t/p/w500/nInduPOusI1alDIC0UttFjDIKsO.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Mar. 04, 2011",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Recent MIT grad Matt Franklin should be well on his way to a successful career at a Fortune 500 company, but instead he rebels against maturity by taking a job at a video store. Matt rethinks his position when his unrequited high-school crush, Tori, walks in and invites him to an end-of-summer party. With the help of his twin sister and his best friend, Matt hatches a plan to change the course of his life.",
+    "infoFields": {
+      "Original title": "Take Me Home Tonight",
+      "IMDb Rating": "6.3 55,150 votes",
+      "TMDb Rating": "5.971 638 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Michael Dowse",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-dowse/",
+      "image": "https://image.tmdb.org/t/p/w92/xShST7ecFRhXY8lGGyqmTnbUuXF.jpg"
+    },
+    {
+      "name": "Topher Grace",
+      "role": "Matt Franklin",
+      "url": "https://multimovies.city/cast/topher-grace/",
+      "image": "https://image.tmdb.org/t/p/w92/hvXoqAKI958higegGERDLKaLhj8.jpg"
+    },
+    {
+      "name": "Anna Faris",
+      "role": "Wendy Franklin",
+      "url": "https://multimovies.city/cast/anna-faris/",
+      "image": "https://image.tmdb.org/t/p/w92/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg"
+    },
+    {
+      "name": "Dan Fogler",
+      "role": "Barry Nathan",
+      "url": "https://multimovies.city/cast/dan-fogler/",
+      "image": "https://image.tmdb.org/t/p/w92/w2YaXHeKewEseNCIMgBrLS4SttX.jpg"
+    },
+    {
+      "name": "Teresa Palmer",
+      "role": "Tori Frederking",
+      "url": "https://multimovies.city/cast/teresa-palmer/",
+      "image": "https://image.tmdb.org/t/p/w92/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg"
+    },
+    {
+      "name": "Michelle Trachtenberg",
+      "role": "Kitchelle Storms",
+      "url": "https://multimovies.city/cast/michelle-trachtenberg/",
+      "image": "https://image.tmdb.org/t/p/w92/ieAKGuPjNiSLu5MrIwu1m2YPmjL.jpg"
+    },
+    {
+      "name": "Michael Biehn",
+      "role": "Bill Franklin",
+      "url": "https://multimovies.city/cast/michael-biehn/",
+      "image": "https://image.tmdb.org/t/p/w92/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+      "name": "Chris Pratt",
+      "role": "Kyle Masterson",
+      "url": "https://multimovies.city/cast/chris-pratt/",
+      "image": "https://image.tmdb.org/t/p/w92/83o3koL82jt30EJ0rz4Bnzrt2dd.jpg"
+    },
+    {
+      "name": "Jeanie Hackett",
+      "role": "Libby Franklin",
+      "url": "https://multimovies.city/cast/jeanie-hackett/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Lucy Punch",
+      "role": "Shelly",
+      "url": "https://multimovies.city/cast/lucy-punch/",
+      "image": "https://image.tmdb.org/t/p/w92/n8jcPovXhjbjyurbhKcsF4G7UHd.jpg"
+    },
+    {
+      "name": "Demetri Martin",
+      "role": "Carlos",
+      "url": "https://multimovies.city/cast/demetri-martin/",
+      "image": "https://image.tmdb.org/t/p/w92/5BvSLisPAaoGMjxNen9OPf20lRA.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ldY6WGfnqG2ezRfSgiujPgfPNdD.jpg",
+    "https://image.tmdb.org/t/p/w300/enxf96h8wGxqnByfVg3ZlsPTu7Z.jpg",
+    "https://image.tmdb.org/t/p/w300/9hYB19chYGdZqy9GvHo1gvRiv03.jpg",
+    "https://image.tmdb.org/t/p/w300/nGlzTMR360vofC5U1iVu2orQDU1.jpg",
+    "https://image.tmdb.org/t/p/w300/s11pgN94exARk5DJZzHsOiTg1WC.jpg",
+    "https://image.tmdb.org/t/p/w300/tpIbW7CdjteqBYR5NTVrjLK7Gqf.jpg",
+    "https://image.tmdb.org/t/p/w300/uh4HHTtfKYIXsLDBKrAuwb2LzwE.jpg",
+    "https://image.tmdb.org/t/p/w300/nXdKSfgfAmBDm5nYoQsc8k8A8Wl.jpg",
+    "https://image.tmdb.org/t/p/w300/sqHRCzPZDqIb3FdH08xLmSusRq7.jpg",
+    "https://image.tmdb.org/t/p/w300/tlPgpBdnoOZn9ipNpmYL9lcioou.jpg"
+  ],
+  "similar": [],
+  "views": 1436,
+  "sources": [
+    "https://www.youtube.com/embed/ZsSNCmGUK2I?autoplay=0&autohide=1",
+    "https://smoothpre.com/v/ru0lrs654r47"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 46258,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 46258,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:00:39.161389"
+}
