@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/fast-five/",
+  "meta": {
+    "title": "Fast and Furious 5",
+    "poster": "https://image.tmdb.org/t/p/w500/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Fast and Furious movies",
+        "url": "https://multimovies.city/genre/multimovies-com-fast-and-furious-movies/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Apr. 20, 2011",
+    "ratingValue": "8.1",
+    "ratingCount": "23",
+    "synopsis": "Former cop Brian O\u2019Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they\u2019ve blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.",
+    "infoFields": {
+      "Original title": "Fast Five",
+      "IMDb Rating": "7.3 423,280 votes",
+      "TMDb Rating": "7.24 8,452 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Alexander Witt",
+      "role": "Director",
+      "url": "https://multimovies.city/director/alexander-witt/",
+      "image": "https://image.tmdb.org/t/p/w92/hO1QZ7P3SRNom3Ap4YZPsgESUcx.jpg"
+    },
+    {
+      "name": "Vin Diesel",
+      "role": "Dominic Toretto",
+      "url": "https://multimovies.city/cast/vin-diesel/",
+      "image": "https://image.tmdb.org/t/p/w92/7rwSXluNWZAluYMOEWBxkPmckES.jpg"
+    },
+    {
+      "name": "Paul Walker",
+      "role": "Brian O'Conner",
+      "url": "https://multimovies.city/cast/paul-walker/",
+      "image": "https://image.tmdb.org/t/p/w92/q2PLqKHYCs35HR7QybaNPH3JT96.jpg"
+    },
+    {
+      "name": "Dwayne Johnson",
+      "role": "Luke Hobbs",
+      "url": "https://multimovies.city/cast/dwayne-johnson/",
+      "image": "https://image.tmdb.org/t/p/w92/cgoy7t5Ve075naBPcewZrc08qGw.jpg"
+    },
+    {
+      "name": "Jordana Brewster",
+      "role": "Mia Toretto",
+      "url": "https://multimovies.city/cast/jordana-brewster/",
+      "image": "https://image.tmdb.org/t/p/w92/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+    },
+    {
+      "name": "Tyrese Gibson",
+      "role": "Roman Pearce",
+      "url": "https://multimovies.city/cast/tyrese-gibson/",
+      "image": "https://image.tmdb.org/t/p/w92/yxisC8rYPF7JQGR2u3lXo2eMi09.jpg"
+    },
+    {
+      "name": "Ludacris",
+      "role": "Tej Parker",
+      "url": "https://multimovies.city/cast/ludacris/",
+      "image": "https://image.tmdb.org/t/p/w92/erkJijujhe48vhJ8iCEtVpNEeVn.jpg"
+    },
+    {
+      "name": "Matt Schulze",
+      "role": "Vince",
+      "url": "https://multimovies.city/cast/matt-schulze/",
+      "image": "https://image.tmdb.org/t/p/w92/1dPinwDyFIEN30wUQG9Mm3Emnjh.jpg"
+    },
+    {
+      "name": "Sung Kang",
+      "role": "Han Lue",
+      "url": "https://multimovies.city/cast/sung-kang/",
+      "image": "https://image.tmdb.org/t/p/w92/jCrjAt7L1SO4TOC0O6Nr7ZZU8vS.jpg"
+    },
+    {
+      "name": "Gal Gadot",
+      "role": "Gisele Yashar",
+      "url": "https://multimovies.city/cast/gal-gadot/",
+      "image": "https://image.tmdb.org/t/p/w92/plLfB60M5cJrnog8KvAKhI4UJuk.jpg"
+    },
+    {
+      "name": "Tego Calderon",
+      "role": "Tego Leo",
+      "url": "https://multimovies.city/cast/tego-calderon/",
+      "image": "https://image.tmdb.org/t/p/w92/oFb02nyMg9Jv34BpQGCYvnDer7b.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg",
+    "https://image.tmdb.org/t/p/w300/5P2itbo54N0Aat4ulPtv2WQ8wOY.jpg",
+    "https://image.tmdb.org/t/p/w300/rhYR1pZgG24n4cf99XdcTN4p2fU.jpg",
+    "https://image.tmdb.org/t/p/w300/tQN9JEQ4N4aqej7O6AkQtt0dLpt.jpg",
+    "https://image.tmdb.org/t/p/w300/t7Wug1SDD4nbfFS1kOigJ4unXnY.jpg",
+    "https://image.tmdb.org/t/p/w300/qwDk1mnnlmRJdNV4D7Dnp8leaVM.jpg",
+    "https://image.tmdb.org/t/p/w300/zZ9PDAT509wXpVIyS4Xtxa6Wrvr.jpg",
+    "https://image.tmdb.org/t/p/w300/7Zowg35ViCXmRtTNii6SWV68JZQ.jpg",
+    "https://image.tmdb.org/t/p/w300/8bQL7OEvSIZd1JpQNVlXykGMrzg.jpg",
+    "https://image.tmdb.org/t/p/w300/wHUtZQ1IQv0TPwVhQXZnDMvzzXx.jpg"
+  ],
+  "similar": [],
+  "views": 30587,
+  "sources": [
+    "https://www.youtube.com/embed/uSDNZeRX_1Y?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/qh5nxwe"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 580,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 580,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:11:56.951988"
+}
