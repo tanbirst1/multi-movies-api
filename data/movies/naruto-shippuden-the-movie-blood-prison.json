@@ -1,0 +1,144 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/naruto-shippuden-the-movie-blood-prison/",
+  "meta": {
+    "title": "Naruto Shippuden The Movie 05 : Blood Prison",
+    "poster": "https://image.tmdb.org/t/p/w500/4WT7zYFpe0fsbg6TitppiHddWAh.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime",
+        "url": "https://multimovies.city/genre/anime/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      },
+      {
+        "name": "Naruto Movies",
+        "url": "https://multimovies.city/genre/naruto-movies/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Jul. 30, 2011",
+    "ratingValue": "8.5",
+    "ratingCount": "8",
+    "synopsis": "After his capture for attempted assassination of the Raikage, leader of Kumogakure, as well as killing J\u014dnin from Kirigakure and Iwagakure, Naruto is imprisoned in H\u014dzukijou: A criminal containment facility known as the Blood Prison. Mui, the castle master, uses the ultimate imprisonment technique to steal power from the prisoners, which is when Naruto notices his life has been targeted. Thus begins the battle to uncover the truth behind the mysterious murders and prove Naruto\u2019s innocence.",
+    "infoFields": {
+      "Original title": "\u5287\u5834\u7248 NARUTO -\u30ca\u30eb\u30c8- \u30d6\u30e9\u30c3\u30c9\u30fb\u30d7\u30ea\u30ba\u30f3",
+      "IMDb Rating": "7.1 5,391 votes",
+      "TMDb Rating": "7.282 492 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Masahiko Murata",
+      "role": "Director",
+      "url": "https://multimovies.city/director/masahiko-murata/",
+      "image": "https://image.tmdb.org/t/p/w92/6v7riYc5EeRVWdtmwBHJdST6F3z.jpg"
+    },
+    {
+      "name": "Junko Takeuchi",
+      "role": "Naruto (voice)",
+      "url": "https://multimovies.city/cast/junko-takeuchi/",
+      "image": "https://image.tmdb.org/t/p/w92/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+    },
+    {
+      "name": "Mie Sonozaki",
+      "role": "Ry\u00fbzetsu (voice)",
+      "url": "https://multimovies.city/cast/mie-sonozaki/",
+      "image": "https://image.tmdb.org/t/p/w92/6hCmJAClF1SuWKN16RwnGnzUbIr.jpg"
+    },
+    {
+      "name": "Masaki Terasoma",
+      "role": "Mui (voice)",
+      "url": "https://multimovies.city/cast/masaki-terasoma/",
+      "image": "https://image.tmdb.org/t/p/w92/eol7Ul4buAam9SmJDuFIWln0Cd3.jpg"
+    },
+    {
+      "name": "Chie Nakamura",
+      "role": "Sakura Haruno (voice)",
+      "url": "https://multimovies.city/cast/chie-nakamura/",
+      "image": "https://image.tmdb.org/t/p/w92/evB6vKUbm0CKgBcgikPeFXdwd29.jpg"
+    },
+    {
+      "name": "Rikiya Koyama",
+      "role": "Yamato (voice)",
+      "url": "https://multimovies.city/cast/rikiya-koyama/",
+      "image": "https://image.tmdb.org/t/p/w92/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
+    },
+    {
+      "name": "Kazuhiko Inoue",
+      "role": "Kakashi Hatake (voice)",
+      "url": "https://multimovies.city/cast/kazuhiko-inoue/",
+      "image": "https://image.tmdb.org/t/p/w92/kRndwjOOlNi84NqIGbnitpJCQ6k.jpg"
+    },
+    {
+      "name": "Yuichi Nakamura",
+      "role": "Muku / Satori (voice)",
+      "url": "https://multimovies.city/cast/yuichi-nakamura/",
+      "image": "https://image.tmdb.org/t/p/w92/wb8behVKjBHX9XXrEydvNINCYwH.jpg"
+    },
+    {
+      "name": "Kengo Kawanishi",
+      "role": "Muku (young) (voice)",
+      "url": "https://multimovies.city/cast/kengo-kawanishi/",
+      "image": "https://image.tmdb.org/t/p/w92/fBzVAY4gcUvs5EfRWQMViYgp9xV.jpg"
+    },
+    {
+      "name": "Kosei Hirota",
+      "role": "Kazan (voice)",
+      "url": "https://multimovies.city/cast/kosei-hirota/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Masako Katsuki",
+      "role": "Tsunade",
+      "url": "https://multimovies.city/cast/masako-katsuki/",
+      "image": "https://image.tmdb.org/t/p/w92/szBdXm77jVvvHLaDoxEs9Nl9dtF.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/Abv3ZtGV2NXxPimArb3LDLg2bDH.jpg",
+    "https://image.tmdb.org/t/p/w300/qrhjg5br5Lzri4TIrlQfs1Pz0A7.jpg"
+  ],
+  "similar": [],
+  "views": 11528,
+  "sources": [
+    "https://gdmirrorbot.nl/embed/nlfwi6a"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1855,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:14:15.087643"
+}
