@@ -1,0 +1,111 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/crook/",
+  "meta": {
+    "title": "Crook",
+    "poster": "https://image.tmdb.org/t/p/w500/fR6fRSwxEPOKhm4LpYXBUu0duyC.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Oct. 08, 2010",
+    "ratingValue": "10",
+    "ratingCount": "4",
+    "synopsis": "Corrupt police and racially motivated attacks against Indian students complicate a re-located crook\u2019s life in Australia.",
+    "infoFields": {
+      "Original title": "\u0915\u094d\u0930\u0942\u0915",
+      "IMDb Rating": "5.1 2,301 votes",
+      "TMDb Rating": "4.8 14 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Mohit Suri",
+      "role": "Director",
+      "url": "https://multimovies.city/director/mohit-suri/",
+      "image": "https://image.tmdb.org/t/p/w92/iDAUmTKFKD0XVDyqFNtAyMNzx4W.jpg"
+    },
+    {
+      "name": "Emraan Hashmi",
+      "role": "Jai Dixit / Suraj Bhardwaj",
+      "url": "https://multimovies.city/cast/emraan-hashmi/",
+      "image": "https://image.tmdb.org/t/p/w92/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+      "name": "Neha Sharma",
+      "role": "Suhani",
+      "url": "https://multimovies.city/cast/neha-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/b6Zdva6mDqDLjQxA2uAZH8OlWL5.jpg"
+    },
+    {
+      "name": "Arjan Bajwa",
+      "role": "Samarth",
+      "url": "https://multimovies.city/cast/arjan-bajwa/",
+      "image": "https://image.tmdb.org/t/p/w92/xs3nHpwwc4z46EthrTLJjub5nPs.jpg"
+    },
+    {
+      "name": "Gulshan Grover",
+      "role": "Joseph",
+      "url": "https://multimovies.city/cast/gulshan-grover/",
+      "image": "https://image.tmdb.org/t/p/w92/hmGFOgCnYVUpeY1gTc0gx4QUCOF.jpg"
+    },
+    {
+      "name": "Smiley Suri",
+      "role": "Sheena",
+      "url": "https://multimovies.city/cast/smiley-suri/",
+      "image": "https://image.tmdb.org/t/p/w92/2q8CuVO73jqeh9tz9QEsNnTkvB5.jpg"
+    },
+    {
+      "name": "Kavin Dave",
+      "role": "Romi Latti",
+      "url": "https://multimovies.city/cast/kavin-dave/",
+      "image": "https://image.tmdb.org/t/p/w92/ktPIGYlclbFUuwLDmtQqXLd0UD.jpg"
+    },
+    {
+      "name": "Francis Chouler",
+      "role": "Russell",
+      "url": "https://multimovies.city/cast/francis-chouler/",
+      "image": "https://image.tmdb.org/t/p/w92/bh5AA5BphrALu04tOdKYl7Lf0st.jpg"
+    },
+    {
+      "name": "Shella Alan",
+      "role": "Nicole 'Nikki'",
+      "url": "https://multimovies.city/cast/shella-alan/",
+      "image": "https://image.tmdb.org/t/p/w92/3UaHsn2J721rcuEMSr0WxYggMij.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/nONXiDs9EAfah567KShZeZoDiro.jpg"
+  ],
+  "similar": [],
+  "views": 2201,
+  "sources": [
+    "https://smoothpre.com/embed/nncb5ytbw19m"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 52456,
+      "nume": 1,
+      "title": "Vidhide"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:09:17.818801"
+}
