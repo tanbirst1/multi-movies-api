@@ -1,0 +1,104 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/primal/",
+  "meta": {
+    "title": "Primal",
+    "poster": "https://image.tmdb.org/t/p/w500/mXq7G9GcemHVDpxDmwWDoVULdnQ.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Sep. 22, 2010",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Anja and five friends join anthroplogy student, Dace, on a journey to study a remote, ancient rock painting. Their excitement vanishes when Mel becomes delirious after skinny-dipping in the waterhole. Feverish, bleeding, confused, she physically and mentally regresses to a vicious predatory state. Mel has gone primal. Mel\u2019s lover and friends realise they are the prey as she savagely hunts them down. Before they can escape another one of them starts to regress, posing a hideous choice; kill their friends or be killed by them. Their only hope of survival is through a cave, where Anja learns too late the meaning of the ancient rock art they came to study.",
+    "infoFields": {
+      "Original title": "Primal",
+      "IMDb Rating": "4.9 6,466 votes",
+      "TMDb Rating": "5.124 104 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Josh Reed",
+      "role": "Director",
+      "url": "https://multimovies.city/director/josh-reed/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Zoe Tuckwell-Smith",
+      "role": "Anja",
+      "url": "https://multimovies.city/cast/zoe-tuckwell-smith/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Krew Boylan",
+      "role": "Mel",
+      "url": "https://multimovies.city/cast/krew-boylan/",
+      "image": "https://image.tmdb.org/t/p/w92/xhZ9H8HtDGPGTEyHkTq1JexnR6n.jpg"
+    },
+    {
+      "name": "Will Travel",
+      "role": "Dace",
+      "url": "https://multimovies.city/cast/will-travel/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Damien Freeleagus",
+      "role": "Warren",
+      "url": "https://multimovies.city/cast/damien-freeleagus/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Rebekah Foord",
+      "role": "Kris",
+      "url": "https://multimovies.city/cast/rebekah-foord/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Lindsay Farris",
+      "role": "Chad",
+      "url": "https://multimovies.city/cast/lindsay-farris/",
+      "image": "https://image.tmdb.org/t/p/w92/dvO5IGe1agjyTtT4d45nHTWF9n7.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/yOrrfx66JkfSGKnEqA4e9gKmz5J.jpg",
+    "https://image.tmdb.org/t/p/w300/78oblNv5DMhBqXVJyXsfqEIkJ53.jpg",
+    "https://image.tmdb.org/t/p/w300/2CnWbb6yRuf9kpyDfhuLYKbk4Dm.jpg"
+  ],
+  "similar": [],
+  "views": 612,
+  "sources": [
+    "https://www.youtube.com/embed/pah2u9AXsHU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/tz71zni"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 65702,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 65702,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:10:06.192960"
+}
