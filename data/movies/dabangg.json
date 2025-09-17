@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dabangg/",
+  "meta": {
+    "title": "Dabangg",
+    "poster": "https://image.tmdb.org/t/p/w500/bPI0NEAaVicmpmzWcWUHNRaYSAf.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      }
+    ],
+    "firstAirDate": "Sep. 10, 2010",
+    "ratingValue": "8.8",
+    "ratingCount": "5",
+    "synopsis": "A troubled relationship with his younger half-brother and stepfather compels Chulbul Pandey to become a corrupt but fearless cop whose life changes when he locks horns with a corrupt political leader.",
+    "infoFields": {
+      "Original title": "\u0926\u092c\u0902\u0917\u094d\u0917",
+      "IMDb Rating": "6.2 34,657 votes",
+      "TMDb Rating": "5.844 154 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Abhinav Kashyap",
+      "role": "Director",
+      "url": "https://multimovies.city/director/abhinav-kashyap/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Salman Khan",
+      "role": "Chulbul Pandey",
+      "url": "https://multimovies.city/cast/salman-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/sWmGnYPMMKK2xYfU6gpp13aajLY.jpg"
+    },
+    {
+      "name": "Sonakshi Sinha",
+      "role": "Rajjo Pandey",
+      "url": "https://multimovies.city/cast/sonakshi-sinha/",
+      "image": "https://image.tmdb.org/t/p/w92/7HaI5owaKzOb6Qdtwifp29uhHk2.jpg"
+    },
+    {
+      "name": "Arbaaz Khan",
+      "role": "Makhanchan Pandey",
+      "url": "https://multimovies.city/cast/arbaaz-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/n5iBuvIjx5zuR4DzCfXGtXyv55s.jpg"
+    },
+    {
+      "name": "Sonu Sood",
+      "role": "Cheddi Singh",
+      "url": "https://multimovies.city/cast/sonu-sood/",
+      "image": "https://image.tmdb.org/t/p/w92/rkgASPKqB0PGYfTkfjFOL6fb1RL.jpg"
+    },
+    {
+      "name": "Vinod Khanna",
+      "role": "Prajapati Pandey",
+      "url": "https://multimovies.city/cast/vinod-khanna/",
+      "image": "https://image.tmdb.org/t/p/w92/pwrChfSmvPX4HndI7j3fnAzPvaw.jpg"
+    },
+    {
+      "name": "Dimple Kapadia",
+      "role": "Naini",
+      "url": "https://multimovies.city/cast/dimple-kapadia/",
+      "image": "https://image.tmdb.org/t/p/w92/rrISOX9TnetEAiZ5zCosTkmFdh2.jpg"
+    },
+    {
+      "name": "Mahesh Manjrekar",
+      "role": "Rajo's father",
+      "url": "https://multimovies.city/cast/mahesh-manjrekar/",
+      "image": "https://image.tmdb.org/t/p/w92/rAAlncxpCKpXjUHsd6pfaSaTl96.jpg"
+    },
+    {
+      "name": "Mahie Gill",
+      "role": "Nirmala",
+      "url": "https://multimovies.city/cast/mahie-gill/",
+      "image": "https://image.tmdb.org/t/p/w92/pfln1aBHNO6CfW9WF6KqbG9aCdM.jpg"
+    },
+    {
+      "name": "Om Puri",
+      "role": "Kasturilal Vishkarma",
+      "url": "https://multimovies.city/cast/om-puri/",
+      "image": "https://image.tmdb.org/t/p/w92/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+    },
+    {
+      "name": "Tinnu Anand",
+      "role": "Masterji",
+      "url": "https://multimovies.city/cast/tinnu-anand/",
+      "image": "https://image.tmdb.org/t/p/w92/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/j2WykRK5TvPtPN4v74xzO2DrdP.jpg",
+    "https://image.tmdb.org/t/p/w300/1LOgA6CVzzerJyH4vl0nG1aJYUN.jpg",
+    "https://image.tmdb.org/t/p/w300/i5wCzfJCq71uCHN7qqlgf1dZCOS.jpg",
+    "https://image.tmdb.org/t/p/w300/sTreVV12jySE4oAqMm60OPmG1wi.jpg",
+    "https://image.tmdb.org/t/p/w300/ztHaoPnOl3ZaTdhFHEqKkga5XME.jpg",
+    "https://image.tmdb.org/t/p/w300/jhdqQd4R1oldI8rquy7EsiP57nC.jpg"
+  ],
+  "similar": [],
+  "views": 2701,
+  "sources": [
+    "https://www.youtube.com/embed/BLV4t3VIBh8?autoplay=0&autohide=1",
+    "https://player.videasy.net/movie/tt1620719"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 60277,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 60277,
+      "nume": 1,
+      "title": "vidsrc"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:10:32.089060"
+}
