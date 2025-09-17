@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/harry-potter-and-the-deathly-hallows-part-1/",
+  "meta": {
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "poster": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Harry Potter movies",
+        "url": "https://multimovies.city/genre/multimovies-com-harry-potter-movies/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Oct. 06, 2010",
+    "ratingValue": "8.9",
+    "ratingCount": "48",
+    "synopsis": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort\u2019s bid for immortality. But with Harry\u2019s beloved Dumbledore dead and Voldemort\u2019s unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+    "infoFields": {
+      "Original title": "Harry Potter and the Deathly Hallows: Part 1",
+      "IMDb Rating": "7.7 563,356 votes",
+      "TMDb Rating": "7.767 17,219 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "David Yates",
+      "role": "Director",
+      "url": "https://multimovies.city/director/david-yates/",
+      "image": "https://image.tmdb.org/t/p/w92/hAHOxR0NK4cZDumqNIpDoEdGVAh.jpg"
+    },
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "url": "https://multimovies.city/cast/daniel-radcliffe/",
+      "image": "https://image.tmdb.org/t/p/w92/iPg0J9UzAlPj1fLEJNllpW9IhGe.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "url": "https://multimovies.city/cast/rupert-grint/",
+      "image": "https://image.tmdb.org/t/p/w92/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "url": "https://multimovies.city/cast/emma-watson/",
+      "image": "https://image.tmdb.org/t/p/w92/tvPPRGzAzdQFhlKzLbMO1EpuTJI.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Bellatrix Lestrange",
+      "url": "https://multimovies.city/cast/helena-bonham-carter/",
+      "image": "https://image.tmdb.org/t/p/w92/h3SMnd9GjF2AVaxChgWuVZknutT.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "role": "Rubeus Hagrid",
+      "url": "https://multimovies.city/cast/robbie-coltrane/",
+      "image": "https://image.tmdb.org/t/p/w92/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "role": "Lord Voldemort",
+      "url": "https://multimovies.city/cast/ralph-fiennes/",
+      "image": "https://image.tmdb.org/t/p/w92/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "name": "Michael Gambon",
+      "role": "Albus Dumbledore",
+      "url": "https://multimovies.city/cast/michael-gambon/",
+      "image": "https://image.tmdb.org/t/p/w92/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "name": "Bill Nighy",
+      "role": "Rufus Scrimgeour",
+      "url": "https://multimovies.city/cast/bill-nighy/",
+      "image": "https://image.tmdb.org/t/p/w92/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "name": "Brendan Gleeson",
+      "role": "Alastor \"Mad-Eye\" Moody",
+      "url": "https://multimovies.city/cast/brendan-gleeson/",
+      "image": "https://image.tmdb.org/t/p/w92/379TXtBPRrkBDrEBWPQ5v3up7kT.jpg"
+    },
+    {
+      "name": "Richard Griffiths",
+      "role": "Vernon Dursley",
+      "url": "https://multimovies.city/cast/richard-griffiths/",
+      "image": "https://image.tmdb.org/t/p/w92/EuV0DyZ5nBh3ZAUWjEqdWlt8sK.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+    "https://image.tmdb.org/t/p/w300/fXRXpzxUApE3OuXhIqsdavQjCVa.jpg",
+    "https://image.tmdb.org/t/p/w300/slW0M2G9txC0aUbftCTm1nYX1K8.jpg",
+    "https://image.tmdb.org/t/p/w300/39kg1yGt9qxPwMuG1a5ysfe3gfG.jpg",
+    "https://image.tmdb.org/t/p/w300/qcxcVWakIO8r0zxwUEzEavG7Au1.jpg",
+    "https://image.tmdb.org/t/p/w300/80d10YU1ulzYFva4LbLQISfXJRf.jpg",
+    "https://image.tmdb.org/t/p/w300/5i2QAYnbN5vOZUUolLPYHTb9spe.jpg",
+    "https://image.tmdb.org/t/p/w300/9ZF7MMO3muo8JjaLbi6kZBwxfRc.jpg",
+    "https://image.tmdb.org/t/p/w300/h3LF8053pE4gcT84Y9buaz6SxXV.jpg",
+    "https://image.tmdb.org/t/p/w300/c4glPeWcixhjKEotp1Rq15jFiSY.jpg"
+  ],
+  "similar": [],
+  "views": 42578,
+  "sources": [
+    "https://www.youtube.com/embed/Su1LOpjvdZ4?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/zxzjijd"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 450,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 450,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:09:35.413697"
+}
