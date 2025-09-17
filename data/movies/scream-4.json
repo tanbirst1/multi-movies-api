@@ -1,0 +1,159 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/scream-4/",
+  "meta": {
+    "title": "Scream 4",
+    "poster": "https://image.tmdb.org/t/p/w500/iENnwz4Xa0DDnarnWIFvMdgOJAi.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Mystery",
+        "url": "https://multimovies.city/genre/mystery/"
+      }
+    ],
+    "firstAirDate": "Apr. 11, 2011",
+    "ratingValue": "7",
+    "ratingCount": "1",
+    "synopsis": "Sidney returns home to Woodsboro on the last stop of her book tour, which brings about the return of Ghost Face and puts her family, friends, and the whole town in danger.",
+    "infoFields": {
+      "Original title": "Scream 4",
+      "IMDb Rating": "6.2 161,286 votes",
+      "TMDb Rating": "6.436 3,130 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Wes Craven",
+      "role": "Director",
+      "url": "https://multimovies.city/director/wes-craven/",
+      "image": "https://image.tmdb.org/t/p/w92/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg"
+    },
+    {
+      "name": "David Arquette",
+      "role": "Dewey Riley",
+      "url": "https://multimovies.city/cast/david-arquette/",
+      "image": "https://image.tmdb.org/t/p/w92/1C5sLNLNVZ3P8sMy7HUQ32IKdqX.jpg"
+    },
+    {
+      "name": "Neve Campbell",
+      "role": "Sidney Prescott",
+      "url": "https://multimovies.city/cast/neve-campbell/",
+      "image": "https://image.tmdb.org/t/p/w92/9fDbXBbrM6L10YrzDJUJowDt8U.jpg"
+    },
+    {
+      "name": "Courteney Cox",
+      "role": "Gale Weathers",
+      "url": "https://multimovies.city/cast/courteney-cox/",
+      "image": "https://image.tmdb.org/t/p/w92/3bTVQH9vBXAiwGVHXKLylStz4RT.jpg"
+    },
+    {
+      "name": "Emma Roberts",
+      "role": "Jill Roberts",
+      "url": "https://multimovies.city/cast/emma-roberts/",
+      "image": "https://image.tmdb.org/t/p/w92/87w6fTvmJTQScgKKJFS91hYJ33a.jpg"
+    },
+    {
+      "name": "Hayden Panettiere",
+      "role": "Kirby Reed",
+      "url": "https://multimovies.city/cast/hayden-panettiere/",
+      "image": "https://image.tmdb.org/t/p/w92/zth8bT2zZg3lxPMswfVdrnTbiB1.jpg"
+    },
+    {
+      "name": "Anthony Anderson",
+      "role": "Perkins",
+      "url": "https://multimovies.city/cast/anthony-anderson/",
+      "image": "https://image.tmdb.org/t/p/w92/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+    },
+    {
+      "name": "Adam Brody",
+      "role": "Hoss",
+      "url": "https://multimovies.city/cast/adam-brody/",
+      "image": "https://image.tmdb.org/t/p/w92/aBHrdOtolyYkAOjNX0Bpkat5WX5.jpg"
+    },
+    {
+      "name": "Rory Culkin",
+      "role": "Charlie Walker",
+      "url": "https://multimovies.city/cast/rory-culkin/",
+      "image": "https://image.tmdb.org/t/p/w92/6SkUiLHFlPEEFtKpLc7VrczaqDx.jpg"
+    },
+    {
+      "name": "Mary McDonnell",
+      "role": "Kate Roberts",
+      "url": "https://multimovies.city/cast/mary-mcdonnell/",
+      "image": "https://image.tmdb.org/t/p/w92/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg"
+    },
+    {
+      "name": "Marley Shelton",
+      "role": "Deputy Judy Hicks",
+      "url": "https://multimovies.city/cast/marley-shelton/",
+      "image": "https://image.tmdb.org/t/p/w92/6fqY7QzZI5yoCCJZpvX0MceL6kZ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/c5EmNhLQsTTKAyUHULnKYQjlloz.jpg",
+    "https://image.tmdb.org/t/p/w300/w8fkaXsOiVWiOam0C3hAwHg5s72.jpg",
+    "https://image.tmdb.org/t/p/w300/cBqFgXWDxzurJf8B388MHTgkzlO.jpg",
+    "https://image.tmdb.org/t/p/w300/odkpWz4Q5JasDU8Qe5Rd6jUPuRv.jpg",
+    "https://image.tmdb.org/t/p/w300/uPP2ZUmJmk3pUGuUfc0TEMYqbGu.jpg",
+    "https://image.tmdb.org/t/p/w300/dQhPiJfs4oKl6kEA0dwiR8LQ3jA.jpg",
+    "https://image.tmdb.org/t/p/w300/ckDgg3pvaGIVXncjXnMPVm1HE47.jpg",
+    "https://image.tmdb.org/t/p/w300/rYJCtUB9fn9S4AmuToK4gAWnIVO.jpg",
+    "https://image.tmdb.org/t/p/w300/pitKdYlUshUKjrus8xRUjX0KHAa.jpg",
+    "https://image.tmdb.org/t/p/w300/ykGyn5BuHYS38zgWILCi8HKURAy.jpg"
+  ],
+  "similar": [],
+  "views": 1301,
+  "sources": [
+    "https://www.youtube.com/embed/JKRtyVLWV-E?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/zgmr509szksy",
+    "https://sbplay.org/embed-xq6tekpdk3ob.html",
+    "https://dood.la/e/f39eq7u1cxdt",
+    "https://mixdrop.co/e/dqldxke7f7dmq6o",
+    "https://hydrax.net/watch?v=21g4scShL"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 19828,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 19828,
+      "nume": 1,
+      "title": "Server 01"
+    },
+    {
+      "type": "movie",
+      "post": 19828,
+      "nume": 2,
+      "title": "Server 02"
+    },
+    {
+      "type": "movie",
+      "post": 19828,
+      "nume": 3,
+      "title": "Server 03"
+    },
+    {
+      "type": "movie",
+      "post": 19828,
+      "nume": 4,
+      "title": "Server 04"
+    },
+    {
+      "type": "movie",
+      "post": 19828,
+      "nume": 5,
+      "title": "Server 05"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:12:11.951195"
+}
