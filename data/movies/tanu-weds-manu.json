@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/tanu-weds-manu/",
+  "meta": {
+    "title": "Tanu Weds Manu",
+    "poster": "https://image.tmdb.org/t/p/w500/jSp16ilrwEyeBorFcBdFtYjhMUr.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "Feb. 25, 2011",
+    "ratingValue": "8.1",
+    "ratingCount": "7",
+    "synopsis": "Manu comes to India to find a bride for himself and falls for Tanu at first sight but Tanu, a free spirited girl has no plans of marrying him.",
+    "infoFields": {
+      "Original title": "\u0924\u0928\u0941 \u0935\u0947\u0921\u094d\u0938 \u092e\u0928\u0941",
+      "IMDb Rating": "6.8 16,191 votes",
+      "TMDb Rating": "6.8 84 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Aanand L. Rai",
+      "role": "Director",
+      "url": "https://multimovies.city/director/aanand-l-rai/",
+      "image": "https://image.tmdb.org/t/p/w92/7SSh0FR3KX0T326iH8MOHDS28ns.jpg"
+    },
+    {
+      "name": "R. Madhavan",
+      "role": "Manoj \"Manu\" Sharma",
+      "url": "https://multimovies.city/cast/r-madhavan/",
+      "image": "https://image.tmdb.org/t/p/w92/gaDrAdXxIrbBRCd9cX8YvJDEuLb.jpg"
+    },
+    {
+      "name": "Kangana Ranaut",
+      "role": "Tanuja \"Tanu\" Trivedi",
+      "url": "https://multimovies.city/cast/kangana-ranaut/",
+      "image": "https://image.tmdb.org/t/p/w92/lHT1pojfQdDpAxPZYx0js2eo5KI.jpg"
+    },
+    {
+      "name": "Jimmy Shergill",
+      "role": "Raja Awasthi",
+      "url": "https://multimovies.city/cast/jimmy-shergill/",
+      "image": "https://image.tmdb.org/t/p/w92/A3fJrhIgM7Q5TGwbQYxYBjNsV37.jpg"
+    },
+    {
+      "name": "Eijaz Khan",
+      "role": "Jassi",
+      "url": "https://multimovies.city/cast/eijaz-khan/",
+      "image": "https://image.tmdb.org/t/p/w92/qCcZ1X4TnOSugw5vcJ4lnbHgAmX.jpg"
+    },
+    {
+      "name": "Deepak Dobriyal",
+      "role": "Pappi",
+      "url": "https://multimovies.city/cast/deepak-dobriyal/",
+      "image": "https://image.tmdb.org/t/p/w92/cImSPlrxucfiGS3ICvpFD5XSs64.jpg"
+    },
+    {
+      "name": "Swara Bhasker",
+      "role": "Payal",
+      "url": "https://multimovies.city/cast/swara-bhasker/",
+      "image": "https://image.tmdb.org/t/p/w92/3sFsKzsW8l2BtHl385UWw8Xewyp.jpg"
+    },
+    {
+      "name": "K.K. Raina",
+      "role": "Mr. Sharma",
+      "url": "https://multimovies.city/cast/k-k-raina/",
+      "image": "https://image.tmdb.org/t/p/w92/eh2IJNYaawqClxksenUjeHqxey4.jpg"
+    },
+    {
+      "name": "Rajendra Gupta",
+      "role": "Mr. Trivedi",
+      "url": "https://multimovies.city/cast/rajendra-gupta/",
+      "image": "https://image.tmdb.org/t/p/w92/AkfIGMNBv1dAwhha6Xh7krVjv5o.jpg"
+    },
+    {
+      "name": "Navni Parihar",
+      "role": "Mrs. Trivedi",
+      "url": "https://multimovies.city/cast/navni-parihar/",
+      "image": "https://image.tmdb.org/t/p/w92/lAaMALrKz1cRDX5j0DcXUmE61yG.jpg"
+    },
+    {
+      "name": "Neha Kaul",
+      "role": "Ayushi",
+      "url": "https://multimovies.city/cast/neha-kaul/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/wMEIoMjmn50NvpW1D56m7xE9U0d.jpg",
+    "https://image.tmdb.org/t/p/w300/8QmGergTGYjIzAHVz5kNqsxp8KX.jpg"
+  ],
+  "similar": [],
+  "views": 4409,
+  "sources": [
+    "https://www.youtube.com/embed/AdEFqon_dmM?autoplay=0&autohide=1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 26398,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 26398,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:11:15.678602"
+}
