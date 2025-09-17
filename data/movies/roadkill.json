@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/roadkill/",
+  "meta": {
+    "title": "Roadkill",
+    "poster": "https://image.tmdb.org/t/p/w500/6ZQUotw157KJDRLRKuxa42UYSqz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      },
+      {
+        "name": "TV Movie",
+        "url": "https://multimovies.city/genre/tv-movie/"
+      }
+    ],
+    "firstAirDate": "Apr. 23, 2011",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Six young friends on a road trip in Ireland run afoul of gypsies who curse them for accidentally running down an old woman. The curse takes the form of a terrifying flying beast that tries killing them all.",
+    "infoFields": {
+      "Original title": "Roadkill",
+      "IMDb Rating": "3.8 1,232 votes",
+      "TMDb Rating": "5.7 61 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Johannes Roberts",
+      "role": "Director",
+      "url": "https://multimovies.city/director/johannes-roberts/",
+      "image": "https://image.tmdb.org/t/p/w92/8hHny6atmFXcuNl2m1AP3fIOayz.jpg"
+    },
+    {
+      "name": "Kacey Clarke",
+      "role": "Kate",
+      "url": "https://multimovies.city/cast/kacey-clarke/",
+      "image": "https://image.tmdb.org/t/p/w92/ziG9HoNKyr9cagrn37g6KXqgIoC.jpg"
+    },
+    {
+      "name": "Stephen Rea",
+      "role": "Seamus",
+      "url": "https://multimovies.city/cast/stephen-rea/",
+      "image": "https://image.tmdb.org/t/p/w92/17ZSGqvJqdvInuw1TlQlkf39yfi.jpg"
+    },
+    {
+      "name": "Eliza Bennett",
+      "role": "Hailey",
+      "url": "https://multimovies.city/cast/eliza-bennett/",
+      "image": "https://image.tmdb.org/t/p/w92/szP8byrtGBXC3qFDrIJHXUI1ALF.jpg"
+    },
+    {
+      "name": "Oliver James",
+      "role": "Ryan",
+      "url": "https://multimovies.city/cast/oliver-james/",
+      "image": "https://image.tmdb.org/t/p/w92/yqfKdEexodXGzZZAPMw2CSpVMXq.jpg"
+    },
+    {
+      "name": "Ned Dennehy",
+      "role": "Luca",
+      "url": "https://multimovies.city/cast/ned-dennehy/",
+      "image": "https://image.tmdb.org/t/p/w92/wTacXk4meFOJRK38rED0lrhlLw3.jpg"
+    },
+    {
+      "name": "Diarmuid Noyes",
+      "role": "Chuck",
+      "url": "https://multimovies.city/cast/diarmuid-noyes/",
+      "image": "https://image.tmdb.org/t/p/w92/saynEGgbzlYOyzFaEKfNhvBLKbA.jpg"
+    },
+    {
+      "name": "Eve Macklin",
+      "role": "Drina",
+      "url": "https://multimovies.city/cast/eve-macklin/",
+      "image": "https://image.tmdb.org/t/p/w92/2LaLgZbTBwLy1KojJ8UQivli4fF.jpg"
+    },
+    {
+      "name": "Roisin Murphy",
+      "role": "Anita",
+      "url": "https://multimovies.city/cast/roisin-murphy/",
+      "image": "https://image.tmdb.org/t/p/w92/29BykMWPEOed3Hzmfaxie5hwTxW.jpg"
+    },
+    {
+      "name": "Kobna Holdbrook-Smith",
+      "role": "Tommy",
+      "url": "https://multimovies.city/cast/kobna-holdbrook-smith/",
+      "image": "https://image.tmdb.org/t/p/w92/6KNQjNWVdosnKAehV7FHpxQV2dD.jpg"
+    },
+    {
+      "name": "Keith Burke",
+      "role": "Deputy",
+      "url": "https://multimovies.city/cast/keith-burke/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/F04DzuM2R72foaCUBnK7H8eYfH.jpg"
+  ],
+  "similar": [],
+  "views": 1317,
+  "sources": [
+    "https://vigorto302aed.com/play/tt1637713"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 59132,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:11:43.284539"
+}
