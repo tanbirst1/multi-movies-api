@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/chunin-exam-on-fire-and-naruto-vs-konohamaru/",
+  "meta": {
+    "title": "Chunin Exam on Fire! and Naruto vs. Konohamaru!",
+    "poster": "https://image.tmdb.org/t/p/w500/9gjBGyDOd20GOqXOZxQd6E3MlUg.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Anime Movies",
+        "url": "https://multimovies.city/genre/anime-movies/"
+      },
+      {
+        "name": "Naruto Movies",
+        "url": "https://multimovies.city/genre/naruto-movies/"
+      }
+    ],
+    "firstAirDate": "Jul. 30, 2011",
+    "ratingValue": "4",
+    "ratingCount": "3",
+    "synopsis": "Naruto faces off against his old pupil Konohamaru in a tournament during the chuunin entrance exams.",
+    "infoFields": {
+      "Original title": "\u708e\u306e\u4e2d\u5fcd\u8a66\u9a13! \u30ca\u30eb\u30c8vs\u6728\u30ce\u8449\u4e38!!",
+      "IMDb Rating": "6.7 358 votes",
+      "TMDb Rating": "6.585 41 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Hayato Date",
+      "role": "Director",
+      "url": "https://multimovies.city/director/hayato-date/",
+      "image": "https://image.tmdb.org/t/p/w92/4LEd4MXPgNzJVqf9C4GznaIMOgW.jpg"
+    },
+    {
+      "name": "Junko Takeuchi",
+      "role": "Naruto Uzumaki (voice)",
+      "url": "https://multimovies.city/cast/junko-takeuchi/",
+      "image": "https://image.tmdb.org/t/p/w92/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+    },
+    {
+      "name": "Ikue Otani",
+      "role": "Konohamaru Sarutobi (voice)",
+      "url": "https://multimovies.city/cast/ikue-otani/",
+      "image": "https://image.tmdb.org/t/p/w92/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "name": "Kazuhiko Inoue",
+      "role": "Kakashi Hatake (voice)",
+      "url": "https://multimovies.city/cast/kazuhiko-inoue/",
+      "image": "https://image.tmdb.org/t/p/w92/kRndwjOOlNi84NqIGbnitpJCQ6k.jpg"
+    },
+    {
+      "name": "Akira Ishida",
+      "role": "Gaara (voice)",
+      "url": "https://multimovies.city/cast/akira-ishida/",
+      "image": "https://image.tmdb.org/t/p/w92/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg"
+    },
+    {
+      "name": "Showtaro Morikubo",
+      "role": "Shikamaru Nara (voice)",
+      "url": "https://multimovies.city/cast/showtaro-morikubo/",
+      "image": "https://image.tmdb.org/t/p/w92/3OsBYIbC5XBDIUVnZiDBD1dewHP.jpg"
+    },
+    {
+      "name": "Chie Nakamura",
+      "role": "Sakura Haruno (voice)",
+      "url": "https://multimovies.city/cast/chie-nakamura/",
+      "image": "https://image.tmdb.org/t/p/w92/evB6vKUbm0CKgBcgikPeFXdwd29.jpg"
+    },
+    {
+      "name": "Romi Park",
+      "role": "Temari (voice)",
+      "url": "https://multimovies.city/cast/romi-park/",
+      "image": "https://image.tmdb.org/t/p/w92/fl9vyA3HEkOyTiZBJBhAR3OSmrO.jpg"
+    },
+    {
+      "name": "Yasuyuki Kase",
+      "role": "Kankurou (voice)",
+      "url": "https://multimovies.city/cast/yasuyuki-kase/",
+      "image": "https://image.tmdb.org/t/p/w92/sERtaipUjauSd4WgP9RQwHoAamO.jpg"
+    },
+    {
+      "name": "Kunihiro Kawamoto",
+      "role": "Omoi (voice)",
+      "url": "https://multimovies.city/cast/kunihiro-kawamoto/",
+      "image": "https://image.tmdb.org/t/p/w92/vfoQnMOGWyT9POalpP7R80AbHAb.jpg"
+    },
+    {
+      "name": "Noriko Shitaya",
+      "role": "Moegi Kazamatsuri",
+      "url": "https://multimovies.city/cast/noriko-shitaya/",
+      "image": "https://image.tmdb.org/t/p/w92/dtrD4hJFyKP6mL6qO3oBQ8gVgKg.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/uo4KdQ8nfUw2xLTMP2PO1UCmzWq.jpg"
+  ],
+  "similar": [],
+  "views": 2405,
+  "sources": [
+    "https://filemoon.sx/e/efro3wcnghdh?t=4xnZD%2FYlB1APxA%3D%3D&autostart=true"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 32241,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:14:08.244453"
+}
