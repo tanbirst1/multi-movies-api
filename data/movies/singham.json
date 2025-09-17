@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/singham/",
+  "meta": {
+    "title": "Singham",
+    "poster": "https://image.tmdb.org/t/p/w500/pggLRaurdWwjqX2vkhKIVQSBjXV.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Jul. 22, 2011",
+    "ratingValue": "10",
+    "ratingCount": "6",
+    "synopsis": "An honest, small town cop is transferred to a big city that is controlled by a crime boss that he had once humiliated.",
+    "infoFields": {
+      "Original title": "Singham",
+      "IMDb Rating": "6.8 17,741 votes",
+      "TMDb Rating": "6.686 121 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rohit Shetty",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rohit-shetty/",
+      "image": "https://image.tmdb.org/t/p/w92/ke8kvmtlSa67EYVo8a42US18ok2.jpg"
+    },
+    {
+      "name": "Ajay Devgn",
+      "role": "Bajirao Singham",
+      "url": "https://multimovies.city/cast/ajay-devgn/",
+      "image": "https://image.tmdb.org/t/p/w92/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg"
+    },
+    {
+      "name": "Kajal Agarwal",
+      "role": "Kavya Bhosle",
+      "url": "https://multimovies.city/cast/kajal-agarwal/",
+      "image": "https://image.tmdb.org/t/p/w92/wDzYjnDRNzyigCPBEwc9gf1hZ0Q.jpg"
+    },
+    {
+      "name": "Prakash Raj",
+      "role": "Jaikant Shikre",
+      "url": "https://multimovies.city/cast/prakash-raj/",
+      "image": "https://image.tmdb.org/t/p/w92/QbWfctGpZFmnZySUGYIq2sq5sj.jpg"
+    },
+    {
+      "name": "Ashok Saraf",
+      "role": "Prabhu Bhawalkar",
+      "url": "https://multimovies.city/cast/ashok-saraf/",
+      "image": "https://image.tmdb.org/t/p/w92/mcX2Bi9eNl0nkZjVFtcjbhQyXja.jpg"
+    },
+    {
+      "name": "Sachin Khedekar",
+      "role": "Gautam Bhosle",
+      "url": "https://multimovies.city/cast/sachin-khedekar/",
+      "image": "https://image.tmdb.org/t/p/w92/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg"
+    },
+    {
+      "name": "Murali Sharma",
+      "role": "DSP",
+      "url": "https://multimovies.city/cast/murali-sharma/",
+      "image": "https://image.tmdb.org/t/p/w92/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    },
+    {
+      "name": "Sudhanshu Pandey",
+      "role": "Inspector Rakesh Kadam",
+      "url": "https://multimovies.city/cast/sudhanshu-pandey/",
+      "image": "https://image.tmdb.org/t/p/w92/tDyf76J2riJcIVjQPCuGKPtuPHU.jpg"
+    },
+    {
+      "name": "Sonali Kulkarni",
+      "role": "Megha Kadam",
+      "url": "https://multimovies.city/cast/sonali-kulkarni/",
+      "image": "https://image.tmdb.org/t/p/w92/aQeM6N2JgGFbI5VoltWhkxw6OQC.jpg"
+    },
+    {
+      "name": "Govind Namdeo",
+      "role": "Bajirao Singham's Father",
+      "url": "https://multimovies.city/cast/govind-namdeo/",
+      "image": "https://image.tmdb.org/t/p/w92/4PYvzEHjEXScVjYuiQxVpNpvQ18.jpg"
+    },
+    {
+      "name": "Ankur Nayyar",
+      "role": "Inspector Abbas (uncredited)",
+      "url": "https://multimovies.city/cast/ankur-nayyar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3HnYgndpXpZS0PInke1UYNOCe1r.jpg",
+    "https://image.tmdb.org/t/p/w300/vyO5N1hHZGW2trIOwhrIjoaZrUw.jpg",
+    "https://image.tmdb.org/t/p/w300/zaqcuV1XL5AT0rBvxBLphhWWSEz.jpg",
+    "https://image.tmdb.org/t/p/w300/hEwPNUPLim6XxelWKkH4zGXdenx.jpg"
+  ],
+  "similar": [],
+  "views": 8257,
+  "sources": [
+    "https://www.youtube.com/embed/mp-XqCrCi6I?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/k8ec5cp"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 137,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 137,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:15:20.059823"
+}
