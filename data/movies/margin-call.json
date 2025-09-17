@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/margin-call/",
+  "meta": {
+    "title": "Margin Call (English with Subtitle)",
+    "poster": "https://image.tmdb.org/t/p/w500/pgMIdInSIGw0uSory7yEBFGrvIS.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Feb. 11, 2011",
+    "ratingValue": "5.5",
+    "ratingCount": "2",
+    "synopsis": "A thriller that revolves around the key people at an investment bank over a 24-hour period during the early stages of the financial crisis.",
+    "infoFields": {
+      "Original title": "Margin Call",
+      "IMDb Rating": "7.1 138,087 votes",
+      "TMDb Rating": "6.824 1,542 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "J.C. Chandor",
+      "role": "Director",
+      "url": "https://multimovies.city/director/j-c-chandor/",
+      "image": "https://image.tmdb.org/t/p/w92/6oaCrcLpqAvuWci6kStnuuAc34I.jpg"
+    },
+    {
+      "name": "Kevin Spacey",
+      "role": "Sam Rogers",
+      "url": "https://multimovies.city/cast/kevin-spacey/",
+      "image": "https://image.tmdb.org/t/p/w92/dlVRkUYKyZdJ39AN55cY1LoyXAP.jpg"
+    },
+    {
+      "name": "Zachary Quinto",
+      "role": "Peter Sullivan",
+      "url": "https://multimovies.city/cast/zachary-quinto/",
+      "image": "https://image.tmdb.org/t/p/w92/qFqIaNMcDNd693epUSXo9zOTXev.jpg"
+    },
+    {
+      "name": "Simon Baker",
+      "role": "Jared Cohen",
+      "url": "https://multimovies.city/cast/simon-baker/",
+      "image": "https://image.tmdb.org/t/p/w92/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg"
+    },
+    {
+      "name": "Paul Bettany",
+      "role": "Will Emerson",
+      "url": "https://multimovies.city/cast/paul-bettany/",
+      "image": "https://image.tmdb.org/t/p/w92/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg"
+    },
+    {
+      "name": "Ashley Williams",
+      "role": "Heather Burke",
+      "url": "https://multimovies.city/cast/ashley-williams/",
+      "image": "https://image.tmdb.org/t/p/w92/kaZQMxVAX2Z0M0BKphkg7rT54pi.jpg"
+    },
+    {
+      "name": "Demi Moore",
+      "role": "Sarah Robertson",
+      "url": "https://multimovies.city/cast/demi-moore/",
+      "image": "https://image.tmdb.org/t/p/w92/aUBQvC7om71tUATXTkPfCmy5jIS.jpg"
+    },
+    {
+      "name": "Penn Badgley",
+      "role": "Seth Bregman",
+      "url": "https://multimovies.city/cast/penn-badgley/",
+      "image": "https://image.tmdb.org/t/p/w92/3ekfkoj3YmRlCtez4OOZoVPiO7a.jpg"
+    },
+    {
+      "name": "Jeremy Irons",
+      "role": "John Tuld",
+      "url": "https://multimovies.city/cast/jeremy-irons/",
+      "image": "https://image.tmdb.org/t/p/w92/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+    },
+    {
+      "name": "Mary McDonnell",
+      "role": "Mary Rogers",
+      "url": "https://multimovies.city/cast/mary-mcdonnell/",
+      "image": "https://image.tmdb.org/t/p/w92/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg"
+    },
+    {
+      "name": "Stanley Tucci",
+      "role": "Eric Dale",
+      "url": "https://multimovies.city/cast/stanley-tucci/",
+      "image": "https://image.tmdb.org/t/p/w92/5h1UThnhOiyl4xutmBSaSzPpKOR.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/cvYNTHNw63ljSQCRMq2GxdjzoZQ.jpg",
+    "https://image.tmdb.org/t/p/w300/cn6lPJ8vBIwtyUYzesfG3C4cWAZ.jpg",
+    "https://image.tmdb.org/t/p/w300/goqbNGOKnOPPFRc43QX3sd217gs.jpg",
+    "https://image.tmdb.org/t/p/w300/pahXW77Mse9DF3weimDrJ3OFG5T.jpg",
+    "https://image.tmdb.org/t/p/w300/hZ5Z2nOmTlOjJOyeTsq3e12hrVC.jpg",
+    "https://image.tmdb.org/t/p/w300/iLEKYvV4WOikyjYg4G0XcatorX.jpg",
+    "https://image.tmdb.org/t/p/w300/onVzwYkxPnzf1VIoGDqXVECQ14o.jpg",
+    "https://image.tmdb.org/t/p/w300/7x6KzhqlBseQaI1fOvu9Z0gU9k.jpg"
+  ],
+  "similar": [],
+  "views": 2871,
+  "sources": [
+    "https://www.youtube.com/embed/5RIU83i-WMM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/yage3jtqi4e5"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 21778,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 21778,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:11:56.950450"
+}
