@@ -1,0 +1,139 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader/",
+  "meta": {
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "poster": "https://image.tmdb.org/t/p/w500/z6LVJXEmY8E6s57uf8cV3RlWvws.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Fantasy",
+        "url": "https://multimovies.city/genre/fantasy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      }
+    ],
+    "firstAirDate": "Dec. 02, 2010",
+    "ratingValue": "9.7",
+    "ratingCount": "3",
+    "synopsis": "This time around Edmund and Lucy Pevensie, along with their pesky cousin Eustace Scrubb find themselves swallowed into a painting and on to a fantastic Narnian ship headed for the very edges of the world.",
+    "infoFields": {
+      "Original title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "IMDb Rating": "6.3 158,938 votes",
+      "TMDb Rating": "6.424 5,040 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Michael Apted",
+      "role": "Director",
+      "url": "https://multimovies.city/director/michael-apted/",
+      "image": "https://image.tmdb.org/t/p/w92/8ZLhPKz9CDZdbvFCIBAJMfd9IxE.jpg"
+    },
+    {
+      "name": "Ben Barnes",
+      "role": "Caspian",
+      "url": "https://multimovies.city/cast/ben-barnes/",
+      "image": "https://image.tmdb.org/t/p/w92/yzw4fvNWQ57ThzCb8ZqxT71mj2E.jpg"
+    },
+    {
+      "name": "Skandar Keynes",
+      "role": "Edmund Prevensie",
+      "url": "https://multimovies.city/cast/skandar-keynes/",
+      "image": "https://image.tmdb.org/t/p/w92/pIdgY16c6AzmCD31pXlCR9SjLlM.jpg"
+    },
+    {
+      "name": "Georgie Henley",
+      "role": "Lucy Pevensie",
+      "url": "https://multimovies.city/cast/georgie-henley/",
+      "image": "https://image.tmdb.org/t/p/w92/3G12GqaRzx4ovHYMELUAGwChOCx.jpg"
+    },
+    {
+      "name": "Will Poulter",
+      "role": "Eustace Scrubb",
+      "url": "https://multimovies.city/cast/will-poulter/",
+      "image": "https://image.tmdb.org/t/p/w92/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg"
+    },
+    {
+      "name": "Anna Popplewell",
+      "role": "Susan Pevensie",
+      "url": "https://multimovies.city/cast/anna-popplewell/",
+      "image": "https://image.tmdb.org/t/p/w92/ooYeKc28Ayqo9KW8gOacDXDghVL.jpg"
+    },
+    {
+      "name": "William Moseley",
+      "role": "Peter Pevensie",
+      "url": "https://multimovies.city/cast/william-moseley/",
+      "image": "https://image.tmdb.org/t/p/w92/7a55ifGzqKIw9TbEYQUc0bnHfnq.jpg"
+    },
+    {
+      "name": "Simon Pegg",
+      "role": "Reepicheep (Voice)",
+      "url": "https://multimovies.city/cast/simon-pegg/",
+      "image": "https://image.tmdb.org/t/p/w92/nOWKXxgADG98RjKyfQ7oSDfns6J.jpg"
+    },
+    {
+      "name": "Liam Neeson",
+      "role": "Aslan (voice)",
+      "url": "https://multimovies.city/cast/liam-neeson/",
+      "image": "https://image.tmdb.org/t/p/w92/bboldwqSC6tdw2iL6631c98l2Mn.jpg"
+    },
+    {
+      "name": "Tilda Swinton",
+      "role": "The White Witch",
+      "url": "https://multimovies.city/cast/tilda-swinton/",
+      "image": "https://image.tmdb.org/t/p/w92/gWbX3a7V2MgRMRzekfITNcb27xV.jpg"
+    },
+    {
+      "name": "Laura Brent",
+      "role": "Liliandil",
+      "url": "https://multimovies.city/cast/laura-brent/",
+      "image": "https://image.tmdb.org/t/p/w92/iJ1m7piqcYNimoosSHR1Yha1BMB.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/8LSl2BPsRmookhO0UITB6PStZJX.jpg",
+    "https://image.tmdb.org/t/p/w300/sScP5gPU8NqJXko7eMRKhBbbnwl.jpg",
+    "https://image.tmdb.org/t/p/w300/s2HKYDRGx8Zxo1752wx2K6NGtNP.jpg",
+    "https://image.tmdb.org/t/p/w300/w4NwpMU9M7PzTnQYxWfVsFei6ef.jpg",
+    "https://image.tmdb.org/t/p/w300/a62QPKQOtItxtXSXuGrM8eOT7u8.jpg",
+    "https://image.tmdb.org/t/p/w300/vFzv2t9lHaOU2JDAQ2QhKYJdEAd.jpg",
+    "https://image.tmdb.org/t/p/w300/f3ruvkOcIVgKXRlAOFMnOWcJx2R.jpg",
+    "https://image.tmdb.org/t/p/w300/fBQzVBlWjvTP5QJlkzGclkBqEci.jpg",
+    "https://image.tmdb.org/t/p/w300/pTSFwLTKCKt7U8lt0OOP6k4RmVG.jpg",
+    "https://image.tmdb.org/t/p/w300/d6wDsqpkIrqjSHFNNjbLCViWmU8.jpg"
+  ],
+  "similar": [],
+  "views": 6950,
+  "sources": [
+    "https://www.youtube.com/embed/LuGUVkO0cRM?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/qu7gos563im0"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 6053,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 6053,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T13:57:34.923727"
+}
