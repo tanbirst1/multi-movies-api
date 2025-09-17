@@ -1,0 +1,65 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/satrangee-parachute/",
+  "meta": {
+    "title": "Satrangee Parachute",
+    "poster": "https://image.tmdb.org/t/p/w500/ex9sy9I4Itp024b1HopxJc7omzU.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      }
+    ],
+    "firstAirDate": "Feb. 25, 2011",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Satrangee Parachute is a Hindi-language film released 25 February 2011. The film revolves around an eight-year-old runaway kid who runs away from his village in Nainital to Mumbai with four of his friends.",
+    "infoFields": {
+      "Original title": "Satrangee Parachute",
+      "TMDb Rating": "6 1 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Vineet Khetrapal",
+      "role": "Director",
+      "url": "https://multimovies.city/director/vineet-khetrapal/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/ltAY3H3Xth4eyE9DEbQ6V6JE8ZU.jpg"
+  ],
+  "similar": [],
+  "views": 33,
+  "sources": [
+    "https://www.youtube.com/embed/bgXOzwOyl9I?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/l5xonm1"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 101002,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 101002,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:11:10.085549"
+}
