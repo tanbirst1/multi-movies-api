@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/the-next-three-days/",
+  "meta": {
+    "title": "The Next Three Days",
+    "poster": "https://image.tmdb.org/t/p/w500/wBaRZ3aHa7qoYTSY0ONbXrXYk4B.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Crime",
+        "url": "https://multimovies.city/genre/crime/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Nov. 18, 2010",
+    "ratingValue": "2",
+    "ratingCount": "1",
+    "synopsis": "A married couple\u2019s life is turned upside down when the wife is accused of murdering her boss. Her husband John would spend the next few years trying to get her released, but there\u2019s no evidence that negates the evidence against her. When the strain of being separated from her husband and son gets to her, John decides to find a way to break her out.",
+    "infoFields": {
+      "Original title": "The Next Three Days",
+      "IMDb Rating": "7.3 207,659 votes",
+      "TMDb Rating": "7.1 2,785 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Paul Haggis",
+      "role": "Director",
+      "url": "https://multimovies.city/director/paul-haggis/",
+      "image": "https://image.tmdb.org/t/p/w92/bO2CPKFOtv1uigPM8crWTC071wr.jpg"
+    },
+    {
+      "name": "Russell Crowe",
+      "role": "John Brennan",
+      "url": "https://multimovies.city/cast/russell-crowe/",
+      "image": "https://image.tmdb.org/t/p/w92/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "name": "Elizabeth Banks",
+      "role": "Lara",
+      "url": "https://multimovies.city/cast/elizabeth-banks/",
+      "image": "https://image.tmdb.org/t/p/w92/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg"
+    },
+    {
+      "name": "Brian Dennehy",
+      "role": "George Brennan",
+      "url": "https://multimovies.city/cast/brian-dennehy/",
+      "image": "https://image.tmdb.org/t/p/w92/cg7CwS1vMJXCzZ0FUm4RbrjAJ2t.jpg"
+    },
+    {
+      "name": "RZA",
+      "role": "Mouss",
+      "url": "https://multimovies.city/cast/rza/",
+      "image": "https://image.tmdb.org/t/p/w92/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg"
+    },
+    {
+      "name": "Moran Atias",
+      "role": "Erit",
+      "url": "https://multimovies.city/cast/moran-atias/",
+      "image": "https://image.tmdb.org/t/p/w92/u9w8JZmf6XeeAnjgEJtKm7ZnTFJ.jpg"
+    },
+    {
+      "name": "Olivia Wilde",
+      "role": "Nicole",
+      "url": "https://multimovies.city/cast/olivia-wilde/",
+      "image": "https://image.tmdb.org/t/p/w92/bzn0FaE9pAbZItjVMWYhbGGuVnb.jpg"
+    },
+    {
+      "name": "Jason Beghe",
+      "role": "Detective Quinn",
+      "url": "https://multimovies.city/cast/jason-beghe/",
+      "image": "https://image.tmdb.org/t/p/w92/hrTwOPWek7nkPJgFhh6inFu7vSS.jpg"
+    },
+    {
+      "name": "Nazanin Boniadi",
+      "role": "Elaine",
+      "url": "https://multimovies.city/cast/nazanin-boniadi/",
+      "image": "https://image.tmdb.org/t/p/w92/ftBadbFBgRZJcWn9YfbPv8Btyg0.jpg"
+    },
+    {
+      "name": "Tyrone Giordano",
+      "role": "Mike",
+      "url": "https://multimovies.city/cast/tyrone-giordano/",
+      "image": "https://image.tmdb.org/t/p/w92/5Fy5EcdofPxebkEuWs0Pxc2GG3u.jpg"
+    },
+    {
+      "name": "Ty Simpkins",
+      "role": "Luke",
+      "url": "https://multimovies.city/cast/ty-simpkins/",
+      "image": "https://image.tmdb.org/t/p/w92/38QMrTUxckeZLRoaYu1hiHjvs1o.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/kkuykQHWWTcmJ9yerrLF9elCtkc.jpg",
+    "https://image.tmdb.org/t/p/w300/m3lJ0cuR0EXHSYUqiQsnc6G1pu4.jpg",
+    "https://image.tmdb.org/t/p/w300/4CF7iefJC2zUQeiqrc17jKyC8VQ.jpg",
+    "https://image.tmdb.org/t/p/w300/42hDYzWXlrTh8BJQvP2ajDDz28o.jpg",
+    "https://image.tmdb.org/t/p/w300/jSn9Dx1jRvyX7VaK2BNnfataDvs.jpg",
+    "https://image.tmdb.org/t/p/w300/3g3VtH4mNulBCE4Af7PAEv8iQ3x.jpg",
+    "https://image.tmdb.org/t/p/w300/z1WjtOQc2C8wrTvXfUnCDlKeQEK.jpg",
+    "https://image.tmdb.org/t/p/w300/mbPIKYT60EsBcoFspO9Jb2g8Vdh.jpg",
+    "https://image.tmdb.org/t/p/w300/20cvnsRlkqtTmSxrIbFWMa7ro5g.jpg",
+    "https://image.tmdb.org/t/p/w300/wjfPgCzPoFD16QwWzJCjWvt4cy5.jpg"
+  ],
+  "similar": [],
+  "views": 501,
+  "sources": [
+    "https://www.youtube.com/embed/NwuVV8M_I-s?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/d819fty"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 58239,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 58239,
+      "nume": 1,
+      "title": "gdmirror"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:07:46.409832"
+}
