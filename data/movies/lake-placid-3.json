@@ -1,0 +1,137 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/lake-placid-3/",
+  "meta": {
+    "title": "Lake Placid 3",
+    "poster": "https://image.tmdb.org/t/p/w500/aHH3fy5ZVs4nrzNLZYIe1p2PJSc.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Horror",
+        "url": "https://multimovies.city/genre/horror/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Oct. 06, 2010",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "A game warden moves his family to Lake Placid, once the site of deadly crocodile attacks. Locals assure him the crocs are gone, but his mischievous young son finds a few baby crocs and begins feeding them. They quickly grow into very big adults and start attacking the game warden\u2019s family and nearby town.",
+    "infoFields": {
+      "Original title": "Lake Placid 3",
+      "IMDb Rating": "3.3 5,666 votes",
+      "TMDb Rating": "5 241 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Shelly Stoyanova",
+      "role": "Director",
+      "url": "https://multimovies.city/director/shelly-stoyanova/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Colin Ferguson",
+      "role": "Nathan Bickerman",
+      "url": "https://multimovies.city/cast/colin-ferguson/",
+      "image": "https://image.tmdb.org/t/p/w92/7SGIkq4AsacsqkrsRo95PJ9TiYI.jpg"
+    },
+    {
+      "name": "Yancy Butler",
+      "role": "Reba",
+      "url": "https://multimovies.city/cast/yancy-butler/",
+      "image": "https://image.tmdb.org/t/p/w92/z4IbPBVF4GHJq7IWdLQg71zRcyd.jpg"
+    },
+    {
+      "name": "Kirsty Mitchell",
+      "role": "Susan Bickerman",
+      "url": "https://multimovies.city/cast/kirsty-mitchell/",
+      "image": "https://image.tmdb.org/t/p/w92/sZmpltTVexFkHlvFHgQkfWSafnZ.jpg"
+    },
+    {
+      "name": "Kacey Clarke",
+      "role": "Ellie (as Kacey Barnfield)",
+      "url": "https://multimovies.city/cast/kacey-clarke/",
+      "image": "https://image.tmdb.org/t/p/w92/ziG9HoNKyr9cagrn37g6KXqgIoC.jpg"
+    },
+    {
+      "name": "Michael Ironside",
+      "role": "Sheriff Tony Willinger",
+      "url": "https://multimovies.city/cast/michael-ironside/",
+      "image": "https://image.tmdb.org/t/p/w92/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+    },
+    {
+      "name": "Mark Evans",
+      "role": "Brett",
+      "url": "https://multimovies.city/cast/mark-evans/",
+      "image": "https://image.tmdb.org/t/p/w92/p84kHiy7aoeZ2jYjtG4VuyQm6RH.jpg"
+    },
+    {
+      "name": "Nils Hognestad",
+      "role": "Aaron",
+      "url": "https://multimovies.city/cast/nils-hognestad/",
+      "image": "https://image.tmdb.org/t/p/w92/ffLKQYENGdkYTQ1hf9EmG6P3B0J.jpg"
+    },
+    {
+      "name": "Bianca Ilich",
+      "role": "Vica",
+      "url": "https://multimovies.city/cast/bianca-ilich/",
+      "image": "https://image.tmdb.org/t/p/w92/iAiJAVgfZKY4pYnM6UEOU4W2q3v.jpg"
+    },
+    {
+      "name": "Brian Landon",
+      "role": "Charlie",
+      "url": "https://multimovies.city/cast/brian-landon/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "John Laskowski",
+      "role": "Station Attendant",
+      "url": "https://multimovies.city/cast/john-laskowski/",
+      "image": "https://image.tmdb.org/t/p/w92/vGPB2hA2d3AXNbYBG18U4pvZg5U.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/czhbY7ge7xS5EENLr3k0UTArHFS.jpg",
+    "https://image.tmdb.org/t/p/w300/fx8AC4GrZOfulowIq1RR7cVHkbV.jpg",
+    "https://image.tmdb.org/t/p/w300/ftg3TlGq0OtvreyQplwMUTtHfm8.jpg",
+    "https://image.tmdb.org/t/p/w300/abjQDPZgO6UrnR1WEc4QR4EWWxz.jpg"
+  ],
+  "similar": [],
+  "views": 855,
+  "sources": [
+    "https://www.youtube.com/embed/l9BCyDDm7sU?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/a94nx6k"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 86459,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 86459,
+      "nume": 1,
+      "title": "gd"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:09:28.652391"
+}
