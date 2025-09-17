@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/i-m-24/",
+  "meta": {
+    "title": "I M 24",
+    "poster": "https://image.tmdb.org/t/p/w500/tEL8llpeGNyoxXgtvojTCyKp0cj.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      }
+    ],
+    "firstAirDate": "Oct. 30, 2010",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "Saying the truth was always difficult, and lying, they say, is much simpler. Shubendu lives by the tougher option. But when this honest, 42 year old balding writer falls in love with a 22 year old beauty queen, he is tempted to lie. What\u2019s more, his jerk of a roommate, Gagan, who swears by the magic of lies, helps him cook up stories. What follows is a hilarious ride of lies, cover-ups, goof-ups and contradicting tales. Shubendu begins enjoying this ride. Why didn\u2019t he know that lying was so much fun?! But at some point, the madness has got to stop. The question is: When? This Saurabh Shukla directed romantic comedy will touch all hearts, both young and old.",
+    "infoFields": {
+      "Original title": "I M 24",
+      "IMDb Rating": "6.1 1,264 votes",
+      "TMDb Rating": "3.5 1 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Saurabh Shukla",
+      "role": "Director",
+      "url": "https://multimovies.city/director/saurabh-shukla/",
+      "image": "https://image.tmdb.org/t/p/w92/uFGVBmRIHLAQkYYSI2lSXOxMi4f.jpg"
+    },
+    {
+      "name": "Rajat Kapoor",
+      "role": "Shubendu Roy",
+      "url": "https://multimovies.city/cast/rajat-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/8IF24mMUSspmXHbxCMMbMaz3WRj.jpg"
+    },
+    {
+      "name": "Ranvir Shorey",
+      "role": "Gagandeep Singh",
+      "url": "https://multimovies.city/cast/ranvir-shorey/",
+      "image": "https://image.tmdb.org/t/p/w92/bkJYFpPmBB77GwlbjCIgYE8qVrO.jpg"
+    },
+    {
+      "name": "Neha Dhupia",
+      "role": "Sheela",
+      "url": "https://multimovies.city/cast/neha-dhupia/",
+      "image": "https://image.tmdb.org/t/p/w92/tZh9EOs1pEiu9iqRl4gwTubIfAh.jpg"
+    },
+    {
+      "name": "Manjari Fadnnis",
+      "role": "Kanak",
+      "url": "https://multimovies.city/cast/manjari-fadnnis/",
+      "image": "https://image.tmdb.org/t/p/w92/wqW9wAk3RkRA0UFQthybg4wlkGc.jpg"
+    },
+    {
+      "name": "Saurabh Shukla",
+      "role": "",
+      "url": "https://multimovies.city/cast/saurabh-shukla/",
+      "image": "https://image.tmdb.org/t/p/w92/uFGVBmRIHLAQkYYSI2lSXOxMi4f.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/3T4arcGFPQaA88X54IQOGnCClWO.jpg"
+  ],
+  "similar": [],
+  "views": 345,
+  "sources": [
+    "https://www.youtube.com/embed/1HVJtPfPAuE?autoplay=0&autohide=1",
+    "https://gdmirrorbot.nl/embed/iphhnjp"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 97457,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 97457,
+      "nume": 1,
+      "title": "GD MIRROR"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:08:39.405536"
+}
