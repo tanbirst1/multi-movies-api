@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/dam-999/",
+  "meta": {
+    "title": "Dam 999",
+    "poster": "https://image.tmdb.org/t/p/w500/aDkH6vV7TRMYfY7QXXAYS0RPIdz.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Adventure",
+        "url": "https://multimovies.city/genre/adventure/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Apr. 01, 2011",
+    "ratingValue": "6",
+    "ratingCount": "1",
+    "synopsis": "After many years two mariners return to homeland with the hope of a new beginning, little did they know about a disaster that would change their destiny.",
+    "infoFields": {
+      "Original title": "Dam 999",
+      "IMDb Rating": "3.3 1,088 votes",
+      "TMDb Rating": "3.7 15 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Sohan Roy",
+      "role": "Director",
+      "url": "https://multimovies.city/director/sohan-roy/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Vinay Rai",
+      "role": "Vinay",
+      "url": "https://multimovies.city/cast/vinay-rai/",
+      "image": "https://image.tmdb.org/t/p/w92/8xRUq54pt2p6SHc80ezhXnm9nnf.jpg"
+    },
+    {
+      "name": "Ashish Vidhyarthi",
+      "role": "Durai",
+      "url": "https://multimovies.city/cast/ashish-vidhyarthi/",
+      "image": "https://image.tmdb.org/t/p/w92/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg"
+    },
+    {
+      "name": "Vimala Raman",
+      "role": "Meera",
+      "url": "https://multimovies.city/cast/vimala-raman/",
+      "image": "https://image.tmdb.org/t/p/w92/dnxnNSpn39J1qYzi12p7k4MOxHY.jpg"
+    },
+    {
+      "name": "Thampy Antony",
+      "role": "The Architect",
+      "url": "https://multimovies.city/cast/thampy-antony/",
+      "image": "https://image.tmdb.org/t/p/w92/1XMsckLPZF95hth1977zDnk75PP.jpg"
+    },
+    {
+      "name": "Rajit Kapoor",
+      "role": "Shankaran",
+      "url": "https://multimovies.city/cast/rajit-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/mATIzHiXTeW6xB8IoJVLTD5NDMn.jpg"
+    },
+    {
+      "name": "S P Sreekumar",
+      "role": "",
+      "url": "https://multimovies.city/cast/s-p-sreekumar/",
+      "image": "https://image.tmdb.org/t/p/w92/yUvXyVY0AcuyhJvv4y1Z7dY7Hg2.jpg"
+    },
+    {
+      "name": "Megha Burman",
+      "role": "Raziya",
+      "url": "https://multimovies.city/cast/megha-burman/",
+      "image": "https://image.tmdb.org/t/p/w92/4ZOCk7VfQh4ocEgLe9I7HGgLzh8.jpg"
+    },
+    {
+      "name": "Joshua Fredric Smith",
+      "role": "Captain Fredrick Brown",
+      "url": "https://multimovies.city/cast/joshua-fredric-smith/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Linda Arsenio",
+      "role": "Sandra",
+      "url": "https://multimovies.city/cast/linda-arsenio/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Bineesh Bastin",
+      "role": "Uncredited",
+      "url": "https://multimovies.city/cast/bineesh-bastin/",
+      "image": "https://image.tmdb.org/t/p/w92/x5UWLK94LzR2S7McmAnGHzNq7O3.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/jvWg1aSGvyEjSw4tWpBeBJcoQ9p.jpg"
+  ],
+  "similar": [],
+  "views": 1301,
+  "sources": [
+    "https://multimoviesshg.com/e/mewi9c9tyb1q"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 13143,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:12:33.694293"
+}
