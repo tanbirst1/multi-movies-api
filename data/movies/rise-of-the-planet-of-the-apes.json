@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/rise-of-the-planet-of-the-apes/",
+  "meta": {
+    "title": "Rise of the Planet of the Apes",
+    "poster": "https://image.tmdb.org/t/p/w500/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Drama",
+        "url": "https://multimovies.city/genre/drama/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      },
+      {
+        "name": "Thriller",
+        "url": "https://multimovies.city/genre/thriller/"
+      }
+    ],
+    "firstAirDate": "Aug. 03, 2011",
+    "ratingValue": "9.5",
+    "ratingCount": "8",
+    "synopsis": "A highly intelligent chimpanzee named Caeser has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caeser decides to revolt against those who have harmed him.",
+    "infoFields": {
+      "Original title": "Rise of the Planet of the Apes",
+      "IMDb Rating": "7.6 538,415 votes",
+      "TMDb Rating": "7.3 10,530 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Rupert Wyatt",
+      "role": "Director",
+      "url": "https://multimovies.city/director/rupert-wyatt/",
+      "image": "https://image.tmdb.org/t/p/w92/m3KzS9wnfgAWD0ppIKQEQcTtM1S.jpg"
+    },
+    {
+      "name": "James Franco",
+      "role": "Will Rodman",
+      "url": "https://multimovies.city/cast/james-franco/",
+      "image": "https://image.tmdb.org/t/p/w92/rShzuvrQJJQJ6lXDn3IQX4o0iCE.jpg"
+    },
+    {
+      "name": "Andy Serkis",
+      "role": "Caesar",
+      "url": "https://multimovies.city/cast/andy-serkis/",
+      "image": "https://image.tmdb.org/t/p/w92/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "name": "Freida Pinto",
+      "role": "Caroline Aranha",
+      "url": "https://multimovies.city/cast/freida-pinto/",
+      "image": "https://image.tmdb.org/t/p/w92/fhUEcLvlsy13hHO5xJb0fV3AiYw.jpg"
+    },
+    {
+      "name": "John Lithgow",
+      "role": "Charles Rodman",
+      "url": "https://multimovies.city/cast/john-lithgow/",
+      "image": "https://image.tmdb.org/t/p/w92/eNPYHaQz3QCl4ebhJyHdI3KGe6F.jpg"
+    },
+    {
+      "name": "Brian Cox",
+      "role": "John Landon",
+      "url": "https://multimovies.city/cast/brian-cox/",
+      "image": "https://image.tmdb.org/t/p/w92/yvoAgJTOvuNSPSKegcIcD62ySY9.jpg"
+    },
+    {
+      "name": "Tom Felton",
+      "role": "Dodge Landon",
+      "url": "https://multimovies.city/cast/tom-felton/",
+      "image": "https://image.tmdb.org/t/p/w92/bg5TcioIqc5Kt6CE609wXziZ9Cm.jpg"
+    },
+    {
+      "name": "David Hewlett",
+      "role": "Douglas Hunsiker",
+      "url": "https://multimovies.city/cast/david-hewlett/",
+      "image": "https://image.tmdb.org/t/p/w92/hUcYyssAPCqnZ4GjolhOWXHTWSa.jpg"
+    },
+    {
+      "name": "Tyler Labine",
+      "role": "Robert Franklin",
+      "url": "https://multimovies.city/cast/tyler-labine/",
+      "image": "https://image.tmdb.org/t/p/w92/uTg5k0mflhBju9Q1tOYmYDzdBu6.jpg"
+    },
+    {
+      "name": "David Oyelowo",
+      "role": "Steven Jacobs",
+      "url": "https://multimovies.city/cast/david-oyelowo/",
+      "image": "https://image.tmdb.org/t/p/w92/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+    },
+    {
+      "name": "Jamie Harris",
+      "role": "Rodney",
+      "url": "https://multimovies.city/cast/jamie-harris/",
+      "image": "https://image.tmdb.org/t/p/w92/w4RhAUrejInGkOYc0T4B6Wxpncd.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/v7JTQy194gRbljdlK4OJhwnOypQ.jpg",
+    "https://image.tmdb.org/t/p/w300/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
+    "https://image.tmdb.org/t/p/w300/A5eDTziG6NX3aEaBkO2x1GA8RiV.jpg",
+    "https://image.tmdb.org/t/p/w300/4ZyVdTzUSnxWFl8r4rjHPLVr0Dg.jpg",
+    "https://image.tmdb.org/t/p/w300/fSX71MsfKTOyvtE0bEyCrSbdCea.jpg",
+    "https://image.tmdb.org/t/p/w300/xDpa4rl47if5ixG1VRmzHErzy8h.jpg",
+    "https://image.tmdb.org/t/p/w300/6cCF0KMUO2QmrVsQFujkQduREXX.jpg",
+    "https://image.tmdb.org/t/p/w300/kZuR5hZ1dzXE2EEhOlWBLhcLelj.jpg",
+    "https://image.tmdb.org/t/p/w300/nIXa7nPLTSkZ3oecWxNnzkGxdCk.jpg",
+    "https://image.tmdb.org/t/p/w300/662Qzyr5puD3MydSOFTCNVMBCnr.jpg"
+  ],
+  "similar": [],
+  "views": 8115,
+  "sources": [
+    "https://www.youtube.com/embed/3rqc-cFPYKw?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/9m9qs5xhjyp3"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 7026,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 7026,
+      "nume": 1,
+      "title": "Server 01"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:13:59.874339"
+}
