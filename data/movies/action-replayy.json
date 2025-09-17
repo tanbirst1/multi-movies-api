@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/action-replayy/",
+  "meta": {
+    "title": "Action Replayy",
+    "poster": "https://image.tmdb.org/t/p/w500/8YzWja1cgzIaaKys6Ajk95kJxQY.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Bollywood Movies",
+        "url": "https://multimovies.city/genre/bollywood-movies/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Nov. 05, 2010",
+    "ratingValue": "8.5",
+    "ratingCount": "2",
+    "synopsis": "A young man tries to revive his parents\u2019 wilting marriage by traveling to the 1970s when their romance was budding to help make it bloom: something more complex than he expects.",
+    "infoFields": {
+      "Original title": "Action Replayy",
+      "IMDb Rating": "4.3 6,687 votes",
+      "TMDb Rating": "5.3 61 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Vipul Amrutlal Shah",
+      "role": "Director",
+      "url": "https://multimovies.city/director/vipul-amrutlal-shah/",
+      "image": "https://image.tmdb.org/t/p/w92/gH75umEehoYbiohMwz5xzBtgrq6.jpg"
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Kishen Chopra",
+      "url": "https://multimovies.city/cast/akshay-kumar/",
+      "image": "https://image.tmdb.org/t/p/w92/gaINfJtR19rNTIsI2cF3KFjyAB7.jpg"
+    },
+    {
+      "name": "Aishwarya Rai Bachchan",
+      "role": "Mala Malhotra",
+      "url": "https://multimovies.city/cast/aishwarya-rai-bachchan/",
+      "image": "https://image.tmdb.org/t/p/w92/31L3uTQSeLS5g3EgALNdVbZT1W.jpg"
+    },
+    {
+      "name": "Neha Dhupia",
+      "role": "Hital Dutta",
+      "url": "https://multimovies.city/cast/neha-dhupia/",
+      "image": "https://image.tmdb.org/t/p/w92/tZh9EOs1pEiu9iqRl4gwTubIfAh.jpg"
+    },
+    {
+      "name": "Aditya Roy Kapur",
+      "role": "Bunty",
+      "url": "https://multimovies.city/cast/aditya-roy-kapur/",
+      "image": "https://image.tmdb.org/t/p/w92/5rO5U3JnAUGzJJ4ghCosHYNGPYi.jpg"
+    },
+    {
+      "name": "Randhir Kapoor",
+      "role": "Bob Sinha",
+      "url": "https://multimovies.city/cast/randhir-kapoor/",
+      "image": "https://image.tmdb.org/t/p/w92/92PWRkXqGP6hkIY5eeOnaS1WAcm.jpg"
+    },
+    {
+      "name": "Rannvijay Singha",
+      "role": "Kundanlal",
+      "url": "https://multimovies.city/cast/rannvijay-singha/",
+      "image": "https://image.tmdb.org/t/p/w92/uJdX3RxQnKuhK8dFopcziwEfpG1.jpg"
+    },
+    {
+      "name": "Alok Kumar",
+      "role": "Sri Kumaran",
+      "url": "https://multimovies.city/cast/alok-kumar/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Om Puri",
+      "role": "Rai Bahadur Dhyanchand",
+      "url": "https://multimovies.city/cast/om-puri/",
+      "image": "https://image.tmdb.org/t/p/w92/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/7UjQ5bYDQMZzprL5fUuFZUgZQxc.jpg",
+    "https://image.tmdb.org/t/p/w300/jN9x6a4IfQglf8HNKyOi9dVuw8t.jpg"
+  ],
+  "similar": [],
+  "views": 2654,
+  "sources": [
+    "https://www.youtube.com/embed/342nUdME5_o?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/99dfzl5i8eis"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 29767,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 29767,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:08:10.906648"
+}
