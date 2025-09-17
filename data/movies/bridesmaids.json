@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/bridesmaids/",
+  "meta": {
+    "title": "Bridesmaids",
+    "poster": "https://image.tmdb.org/t/p/w500/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Hollywood",
+        "url": "https://multimovies.city/genre/hollywood/"
+      },
+      {
+        "name": "Romance",
+        "url": "https://multimovies.city/genre/romance/"
+      }
+    ],
+    "firstAirDate": "May. 13, 2011",
+    "ratingValue": "9",
+    "ratingCount": "1",
+    "synopsis": "Annie\u2019s life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian\u2019s maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she\u2019ll show Lillian and her bridesmaids just how far you\u2019ll go for someone you love.",
+    "infoFields": {
+      "Original title": "Bridesmaids",
+      "IMDb Rating": "6.8 306,953 votes",
+      "TMDb Rating": "6.53 4,168 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Paul Feig",
+      "role": "Director",
+      "url": "https://multimovies.city/director/paul-feig/",
+      "image": "https://image.tmdb.org/t/p/w92/lcD0BkGKWKynUwtPSEDLAsFdIJX.jpg"
+    },
+    {
+      "name": "Kristen Wiig",
+      "role": "Annie Walker",
+      "url": "https://multimovies.city/cast/kristen-wiig/",
+      "image": "https://image.tmdb.org/t/p/w92/43lFW3Ed6tNaVMsr9cwg0eP9n5n.jpg"
+    },
+    {
+      "name": "Maya Rudolph",
+      "role": "Lillian Donovan",
+      "url": "https://multimovies.city/cast/maya-rudolph/",
+      "image": "https://image.tmdb.org/t/p/w92/9QTtEfAmQOQcGhD12zzxdouLRh4.jpg"
+    },
+    {
+      "name": "Rose Byrne",
+      "role": "Helen Harris",
+      "url": "https://multimovies.city/cast/rose-byrne/",
+      "image": "https://image.tmdb.org/t/p/w92/4oQWCLK7gd6RNKF0WJipJo7TyFP.jpg"
+    },
+    {
+      "name": "Chris O'Dowd",
+      "role": "Officer Rhodes",
+      "url": "https://multimovies.city/cast/chris-odowd/",
+      "image": "https://image.tmdb.org/t/p/w92/xhfgliN8DInDVBliPq7JDeKNCvz.jpg"
+    },
+    {
+      "name": "Wendi McLendon-Covey",
+      "role": "Rita",
+      "url": "https://multimovies.city/cast/wendi-mclendon-covey/",
+      "image": "https://image.tmdb.org/t/p/w92/d8VKC8Ms3u9XiW4e4jsy2grP02d.jpg"
+    },
+    {
+      "name": "Ellie Kemper",
+      "role": "Becca",
+      "url": "https://multimovies.city/cast/ellie-kemper/",
+      "image": "https://image.tmdb.org/t/p/w92/2PmzhjJTr8zme7VuTIE1Nc1n5YL.jpg"
+    },
+    {
+      "name": "Melissa McCarthy",
+      "role": "Megan Price",
+      "url": "https://multimovies.city/cast/melissa-mccarthy/",
+      "image": "https://image.tmdb.org/t/p/w92/yl0qva0O4u92fvtItakdvKmKrW9.jpg"
+    },
+    {
+      "name": "Jon Hamm",
+      "role": "Ted",
+      "url": "https://multimovies.city/cast/jon-hamm/",
+      "image": "https://image.tmdb.org/t/p/w92/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+      "name": "Jill Clayburgh",
+      "role": "Judy Walker",
+      "url": "https://multimovies.city/cast/jill-clayburgh/",
+      "image": "https://image.tmdb.org/t/p/w92/sgWPu8oxK8H3oRE1hiIAEXJLrzi.jpg"
+    },
+    {
+      "name": "Rebel Wilson",
+      "role": "Brynn",
+      "url": "https://multimovies.city/cast/rebel-wilson/",
+      "image": "https://image.tmdb.org/t/p/w92/6iAFqhVcOSLjeZq83mONpx99NAQ.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/i7ITE05sYhXl5yBT7dW6ythLSBI.jpg",
+    "https://image.tmdb.org/t/p/w300/1pkpV7a02phSfAPeGVmpHaQd99J.jpg",
+    "https://image.tmdb.org/t/p/w300/rwWTboPaB6dc2so3Q7IwDuoOECN.jpg",
+    "https://image.tmdb.org/t/p/w300/dElZQuF0lFbKR5raKzEs4TUJHmV.jpg",
+    "https://image.tmdb.org/t/p/w300/gYwRAqpihxpuMg7lRpcieW5U9gA.jpg",
+    "https://image.tmdb.org/t/p/w300/v58edTGpVifBRfjAyX71E5MB1Xq.jpg",
+    "https://image.tmdb.org/t/p/w300/yfUqr0zWqMhQZCIqr6DnkYxstiG.jpg",
+    "https://image.tmdb.org/t/p/w300/iF26GhLxZXSuJpKrv7MzOTbRUjP.jpg"
+  ],
+  "similar": [],
+  "views": 1157,
+  "sources": [
+    "https://www.youtube.com/embed/FNppLrmdyug?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/40bqdisyuzwl"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 40651,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 40651,
+      "nume": 1,
+      "title": "d"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:10:59.294443"
+}
