@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/megamind/",
+  "meta": {
+    "title": "Megamind",
+    "poster": "https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Action",
+        "url": "https://multimovies.city/genre/action/"
+      },
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      },
+      {
+        "name": "Science Fiction",
+        "url": "https://multimovies.city/genre/science-fiction/"
+      }
+    ],
+    "firstAirDate": "Oct. 28, 2010",
+    "ratingValue": "9.3",
+    "ratingCount": "9",
+    "synopsis": "Bumbling supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.",
+    "infoFields": {
+      "Original title": "Megamind",
+      "IMDb Rating": "7.3 272,489 votes",
+      "TMDb Rating": "6.946 6,069 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Tom McGrath",
+      "role": "Director",
+      "url": "https://multimovies.city/director/tom-mcgrath/",
+      "image": "https://image.tmdb.org/t/p/w92/83lSBvaRShYObPvhE89UDUkUfWo.jpg"
+    },
+    {
+      "name": "Will Ferrell",
+      "role": "Megamind (voice)",
+      "url": "https://multimovies.city/cast/will-ferrell/",
+      "image": "https://image.tmdb.org/t/p/w92/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
+    },
+    {
+      "name": "Tina Fey",
+      "role": "Roxanne Ritchi (voice)",
+      "url": "https://multimovies.city/cast/tina-fey/",
+      "image": "https://image.tmdb.org/t/p/w92/yPTAi1iucXf85UpiFPtyiTSM6do.jpg"
+    },
+    {
+      "name": "Brad Pitt",
+      "role": "Metro Man (voice)",
+      "url": "https://multimovies.city/cast/brad-pitt/",
+      "image": "https://image.tmdb.org/t/p/w92/1k9MVNS9M3Y4KejBHusNdbGJwRw.jpg"
+    },
+    {
+      "name": "Jonah Hill",
+      "role": "Hal Stewart / Tighten (voice)",
+      "url": "https://multimovies.city/cast/jonah-hill/",
+      "image": "https://image.tmdb.org/t/p/w92/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+    },
+    {
+      "name": "David Cross",
+      "role": "Minion (voice)",
+      "url": "https://multimovies.city/cast/david-cross/",
+      "image": "https://image.tmdb.org/t/p/w92/axUqEv0SDlqS20gBEFCTQHwU1hp.jpg"
+    },
+    {
+      "name": "Ben Stiller",
+      "role": "Bernard (voice)",
+      "url": "https://multimovies.city/cast/ben-stiller/",
+      "image": "https://image.tmdb.org/t/p/w92/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "name": "Justin Theroux",
+      "role": "Megaminds's Father (voice)",
+      "url": "https://multimovies.city/cast/justin-theroux/",
+      "image": "https://image.tmdb.org/t/p/w92/6YuPMsLDMoD5BRkzWIjllwFFt5Y.jpg"
+    },
+    {
+      "name": "Jessica Schulte",
+      "role": "Megamind's Mother (voice)",
+      "url": "https://multimovies.city/cast/jessica-schulte/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Tom McGrath",
+      "role": "Lord Scott / Prison Guard (voice)",
+      "url": "https://multimovies.city/cast/tom-mcgrath/",
+      "image": "https://image.tmdb.org/t/p/w92/83lSBvaRShYObPvhE89UDUkUfWo.jpg"
+    },
+    {
+      "name": "Emily Nordwind",
+      "role": "Lady Scott (voice)",
+      "url": "https://multimovies.city/cast/emily-nordwind/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+    "https://image.tmdb.org/t/p/w300/jYfwFrFzzbO7F4pR2v781946b6b.jpg",
+    "https://image.tmdb.org/t/p/w300/waIZRQ9mw497jmN0mAQOS5b4oR3.jpg",
+    "https://image.tmdb.org/t/p/w300/8NXxm2P2Q299vyxunvMpZ0LFhwb.jpg",
+    "https://image.tmdb.org/t/p/w300/22h4lNjlm3XYGJimNaKk61NS3Hj.jpg",
+    "https://image.tmdb.org/t/p/w300/8mqT3bnA7JjPXVxxWkfgeIRFV4s.jpg",
+    "https://image.tmdb.org/t/p/w300/pR4jqQN3LEWTyoyGWtbqtzDjJIA.jpg",
+    "https://image.tmdb.org/t/p/w300/fk4syPg8y1xOK5W7TqBsro2p7SH.jpg",
+    "https://image.tmdb.org/t/p/w300/6bKON265R4JCQ8942cwt8QcyLBW.jpg",
+    "https://image.tmdb.org/t/p/w300/xMmuIByFm2DyGu49Fa5xu4MmClW.jpg"
+  ],
+  "similar": [],
+  "views": 7476,
+  "sources": [
+    "https://www.youtube.com/embed/6CJUQr4Vs40?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/zvorwk85af8m"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1204,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1204,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T07:08:51.880636"
+}
