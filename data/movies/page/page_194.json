@@ -1,1 +1,242 @@
-[]
+[
+  {
+    "title": "Thunderbolt",
+    "link": "https://multimovies.city/movies/thunderbolt/",
+    "date_or_year": "Sep. 08, 1995",
+    "rating": "6.3",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/05/81D5xBlnTAdJs19dbkfw8eK0oWA.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/81D5xBlnTAdJs19dbkfw8eK0oWA.jpg"
+  },
+  {
+    "title": "Clueless",
+    "link": "https://multimovies.city/movies/clueless/",
+    "date_or_year": "Jul. 19, 1995",
+    "rating": "6.9",
+    "original_image": "https://multimovies.city/wp-content/uploads/2024/07/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg"
+  },
+  {
+    "title": "The Usual Suspects",
+    "link": "https://multimovies.city/movies/the-usual-suspects/",
+    "date_or_year": "Jul. 19, 1995",
+    "rating": "8.5",
+    "original_image": "https://multimovies.city/wp-content/uploads/2025/08/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg"
+  },
+  {
+    "title": "Dragon Ball Z: Wrath of the Dragon",
+    "link": "https://multimovies.city/movies/dragon-ball-z-wrath-of-the-dragon/",
+    "date_or_year": "Hindi",
+    "rating": "7.5",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/4ybkLEVCvwQEzh7Lq1zsCmda5A4.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/4ybkLEVCvwQEzh7Lq1zsCmda5A4.jpg"
+  },
+  {
+    "title": "Apollo 13",
+    "link": "https://multimovies.city/movies/apollo-13/",
+    "date_or_year": "Jun. 30, 1995",
+    "rating": "7.7",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/oYUZHYMwNKnE1ef4WE5Hw2a9OAY.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/oYUZHYMwNKnE1ef4WE5Hw2a9OAY.jpg"
+  },
+  {
+    "title": "Coolie No. 1",
+    "link": "https://multimovies.city/movies/coolie-no-1/",
+    "date_or_year": "Jun. 30, 1995",
+    "rating": "6.6",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/pxdbdWA6EQb15YIEhRVt5iIdStA.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/pxdbdWA6EQb15YIEhRVt5iIdStA.jpg"
+  },
+  {
+    "title": "Pocahontas",
+    "link": "https://multimovies.city/movies/pocahontas/",
+    "date_or_year": "Jun. 14, 1995",
+    "rating": "6.7",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/08/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg"
+  },
+  {
+    "title": "Casper",
+    "link": "https://multimovies.city/movies/casper/",
+    "date_or_year": "May. 26, 1995",
+    "rating": "6.2",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/11/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg"
+  },
+  {
+    "title": "Friday",
+    "link": "https://multimovies.city/movies/friday/",
+    "date_or_year": "ENG SUB",
+    "rating": "7.2",
+    "original_image": "https://multimovies.city/wp-content/uploads/2025/07/2lReF53F8trkC68piGSfk0JVwWU.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/2lReF53F8trkC68piGSfk0JVwWU.jpg"
+  },
+  {
+    "title": "The Basketball Diaries",
+    "link": "https://multimovies.city/movies/the-basketball-diaries/",
+    "date_or_year": "ENG SUB",
+    "rating": "7.3",
+    "original_image": "https://multimovies.city/wp-content/uploads/2025/04/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg"
+  },
+  {
+    "title": "Bad Boys",
+    "link": "https://multimovies.city/movies/bad-boys/",
+    "date_or_year": "Apr. 07, 1995",
+    "rating": "6.8",
+    "original_image": "https://multimovies.city/wp-content/uploads/2024/06/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg"
+  },
+  {
+    "title": "Dragon Ball Z: Fusion Reborn",
+    "link": "https://multimovies.city/movies/dragon-ball-z-fusion-reborn/",
+    "date_or_year": "Hindi",
+    "rating": "7.6",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/7AHvaEAeQfkfJ4OqcBePxa2ao09.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/7AHvaEAeQfkfJ4OqcBePxa2ao09.jpg"
+  },
+  {
+    "title": "Doraemon The Movie: Nobita Ki Nayi Duniya",
+    "link": "https://multimovies.city/movies/doraemon-nobitas-diary-on-the-creation-of-the-world/",
+    "date_or_year": "Mar. 04, 1995",
+    "rating": "6.7",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/uxvP8vmnydjGovVGA7KeghnECLJ.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/uxvP8vmnydjGovVGA7KeghnECLJ.jpg"
+  },
+  {
+    "title": "Karan Arjun",
+    "link": "https://multimovies.city/movies/karan-arjun/",
+    "date_or_year": "Jan. 13, 1995",
+    "rating": "6.8",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/uYhjsC9gCKhxiG2enkCJgdLOXjB.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/uYhjsC9gCKhxiG2enkCJgdLOXjB.jpg"
+  },
+  {
+    "title": "Mr Azaad",
+    "link": "https://multimovies.city/movies/mr-azaad/",
+    "date_or_year": "Dec. 23, 1994",
+    "rating": "3.9",
+    "original_image": "https://multimovies.city/wp-content/uploads/2025/08/tOUR1ZJkydnetlhPIXMn5tK324E.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/tOUR1ZJkydnetlhPIXMn5tK324E.jpg"
+  },
+  {
+    "title": "Street Fighter",
+    "link": "https://multimovies.city/movies/street-fighter/",
+    "date_or_year": "Dec. 23, 1994",
+    "rating": "4.1",
+    "original_image": "https://multimovies.city/wp-content/uploads/2025/08/6yh95dD2Y6uWAlPfWCZZygBM1ec.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/6yh95dD2Y6uWAlPfWCZZygBM1ec.jpg"
+  },
+  {
+    "title": "Ri¢hie Ri¢h",
+    "link": "https://multimovies.city/movies/ri%c2%a2hie-ri%c2%a2h/",
+    "date_or_year": "Hindi",
+    "rating": "5.4",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/05/qgGh5d0IHAZRlHIdFS3XWVygumR.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/qgGh5d0IHAZRlHIdFS3XWVygumR.jpg"
+  },
+  {
+    "title": "Dumb and Dumber",
+    "link": "https://multimovies.city/movies/dumb-and-dumber/",
+    "date_or_year": "Dec. 16, 1994",
+    "rating": "7.3",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg"
+  },
+  {
+    "title": "Interview with the Vampire",
+    "link": "https://multimovies.city/movies/interview-with-the-vampire/",
+    "date_or_year": "ENG SUB",
+    "rating": "7.5",
+    "original_image": "https://multimovies.city/wp-content/uploads/2025/04/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/2162lAT2MP36MyJd2sttmj5du5T.jpg"
+  },
+  {
+    "title": "Stargate (English with Subtitle)",
+    "link": "https://multimovies.city/movies/stargate/",
+    "date_or_year": "English",
+    "rating": "7",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/06/kLacy1TrSedHrZcsup1JNHl1upk.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/kLacy1TrSedHrZcsup1JNHl1upk.jpg"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "link": "https://multimovies.city/movies/the-shawshank-redemption/",
+    "date_or_year": "Sep. 23, 1994",
+    "rating": "9.3",
+    "original_image": "https://multimovies.city/wp-content/uploads/2024/03/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+  },
+  {
+    "title": "Timecop",
+    "link": "https://multimovies.city/movies/timecop/",
+    "date_or_year": "Sep. 15, 1994",
+    "rating": "5.9",
+    "original_image": "https://multimovies.city/wp-content/uploads/2025/09/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg"
+  },
+  {
+    "title": "Léon: The Professional",
+    "link": "https://multimovies.city/movies/leon-the-professional/",
+    "date_or_year": "Sep. 14, 1994",
+    "rating": "8.5",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg"
+  },
+  {
+    "title": "Pulp Fiction",
+    "link": "https://multimovies.city/movies/pulp-fiction/",
+    "date_or_year": "ENG SUB",
+    "rating": "0",
+    "original_image": "https://multimovies.city/wp-content/uploads/2024/07/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg"
+  },
+  {
+    "title": "Street Fighter 2 : The Animated Movie",
+    "link": "https://multimovies.city/movies/street-fighter-ii-the-animated-movie/",
+    "date_or_year": "ENG SUB",
+    "rating": "7.2",
+    "original_image": "https://multimovies.city/wp-content/uploads/2025/03/d0WmVroW23YVFB4uLFUqfqiHsYr.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/d0WmVroW23YVFB4uLFUqfqiHsYr.jpg"
+  },
+  {
+    "title": "The Little Rascals",
+    "link": "https://multimovies.city/movies/the-little-rascals/",
+    "date_or_year": "Aug. 05, 1994",
+    "rating": "6.3",
+    "original_image": "https://multimovies.city/wp-content/uploads/2025/08/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg"
+  },
+  {
+    "title": "Hum Aapke Hain Koun..!",
+    "link": "https://multimovies.city/movies/hum-aapke-hain-koun/",
+    "date_or_year": "Aug. 05, 1994",
+    "rating": "7.5",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/v5CutZgZgai1if2U2CPssiig7VW.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/v5CutZgZgai1if2U2CPssiig7VW.jpg"
+  },
+  {
+    "title": "The Mask",
+    "link": "https://multimovies.city/movies/the-mask/",
+    "date_or_year": "Jul. 29, 1994",
+    "rating": "6.9",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/xbbXp9px4o8Oe7IbGd0yIbla8mZ.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/xbbXp9px4o8Oe7IbGd0yIbla8mZ.jpg"
+  },
+  {
+    "title": "Aag",
+    "link": "https://multimovies.city/movies/aag/",
+    "date_or_year": "Jul. 27, 1994",
+    "rating": "4.6",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/c4z6SwWjrcSM7WwP7WdaOMQRl9H.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/c4z6SwWjrcSM7WwP7WdaOMQRl9H.jpg"
+  },
+  {
+    "title": "Aa Gale Lag Jaa",
+    "link": "https://multimovies.city/movies/aa-gale-lag-jaa/",
+    "date_or_year": "Jul. 22, 1994",
+    "rating": "4.5",
+    "original_image": "https://multimovies.city/wp-content/uploads/2023/04/1fpJ9f4Bh5GQJufl1tFpjBbDnCk.jpg",
+    "tmdb_image": "https://image.tmdb.org/t/p/w500/1fpJ9f4Bh5GQJufl1tFpjBbDnCk.jpg"
+  }
+]
