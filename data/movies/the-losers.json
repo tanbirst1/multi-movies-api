@@ -32,7 +32,7 @@
       }
     ],
     "firstAirDate": "Apr. 23, 2010",
-    "ratingValue": "7",
+    "ratingValue": "6",
     "ratingCount": "1",
     "synopsis": "On a mission deep in the Bolivian jungle, a team of elite commandos finds itself on the receiving end of a lethal betrayal. Now presumed dead, the men join forces with a mysterious operative named Aisha to hunt down their enemy and even the score.",
     "infoFields": {
@@ -122,7 +122,7 @@
     "https://image.tmdb.org/t/p/w300/tKoszRwDxZVdv3EyMWqXW7GUsL.jpg"
   ],
   "similar": [],
-  "views": 1251,
+  "views": 1257,
   "sources": [
     "https://www.youtube.com/embed/OmFTjvdrfyY?autoplay=0&autohide=1",
     "https://gdmirrorbot.nl/embed/pn48y4h"
@@ -142,5 +142,5 @@
     }
   ],
   "cache": false,
-  "last_update": "2025-09-16T19:41:35.345080"
+  "last_update": "2025-09-17T07:02:50.301718"
 }
