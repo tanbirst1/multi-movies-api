@@ -20,7 +20,7 @@
       }
     ],
     "firstAirDate": "Mar. 26, 2010",
-    "ratingValue": "8",
+    "ratingValue": "6",
     "ratingCount": "1",
     "synopsis": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
     "infoFields": {
@@ -111,7 +111,7 @@
     "https://image.tmdb.org/t/p/w300/a5kxEyzu1n9ZLlVBfVyMTuYzNRB.jpg"
   ],
   "similar": [],
-  "views": 1209,
+  "views": 1214,
   "sources": [
     "https://www.youtube.com/embed/rFpWpkxsVI8?autoplay=0&autohide=1",
     "https://gdmirrorbot.nl/embed/wgzfne8"
@@ -131,5 +131,5 @@
     }
   ],
   "cache": false,
-  "last_update": "2025-09-16T19:42:08.982504"
+  "last_update": "2025-09-17T07:03:29.930499"
 }
