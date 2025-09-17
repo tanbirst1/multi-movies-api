@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "scrapedFrom": "https://multimovies.city/movies/hop/",
+  "meta": {
+    "title": "Hop",
+    "poster": "https://image.tmdb.org/t/p/w500/hRa9MJTgCbSuL3h2CVPwUdYOWJH.jpg",
+    "networks": [],
+    "genres": [
+      {
+        "name": "Animation",
+        "url": "https://multimovies.city/genre/animation/"
+      },
+      {
+        "name": "Comedy",
+        "url": "https://multimovies.city/genre/comedy/"
+      },
+      {
+        "name": "Family",
+        "url": "https://multimovies.city/genre/family/"
+      }
+    ],
+    "firstAirDate": "Mar. 30, 2011",
+    "ratingValue": "10",
+    "ratingCount": "2",
+    "synopsis": "E.B., the Easter Bunny\u2019s teenage son, heads to Hollywood, determined to become a drummer in a rock \u2018n\u2019 roll band. In L.A., he\u2019s taken in by Fred after the out-of-work slacker hits E.B. with his car.",
+    "infoFields": {
+      "Original title": "Hop",
+      "IMDb Rating": "5.4 35,308 votes",
+      "TMDb Rating": "5.74 1,076 votes"
+    }
+  },
+  "seasons": [],
+  "cast": [
+    {
+      "name": "Thomas E. Ackerman",
+      "role": "Director",
+      "url": "https://multimovies.city/director/thomas-e-ackerman/",
+      "image": "https://multimovies.city/wp-content/themes/dooplay/assets/img/no/cast.png"
+    },
+    {
+      "name": "Russell Brand",
+      "role": "Easter Bunny (voice)",
+      "url": "https://multimovies.city/cast/russell-brand/",
+      "image": "https://image.tmdb.org/t/p/w92/AzRt43rdeK5nH7w6uWyyVwYla0.jpg"
+    },
+    {
+      "name": "James Marsden",
+      "role": "Fred",
+      "url": "https://multimovies.city/cast/james-marsden/",
+      "image": "https://image.tmdb.org/t/p/w92/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+    },
+    {
+      "name": "Kaley Cuoco",
+      "role": "Samantha O'Hare",
+      "url": "https://multimovies.city/cast/kaley-cuoco/",
+      "image": "https://image.tmdb.org/t/p/w92/c01Ma8Jrr2OJ6uoikPwDK34Y8eK.jpg"
+    },
+    {
+      "name": "Hank Azaria",
+      "role": "Carlos / Phil (voice)",
+      "url": "https://multimovies.city/cast/hank-azaria/",
+      "image": "https://image.tmdb.org/t/p/w92/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "name": "Elizabeth Perkins",
+      "role": "Bonnie O'Hare",
+      "url": "https://multimovies.city/cast/elizabeth-perkins/",
+      "image": "https://image.tmdb.org/t/p/w92/vTWYllD9V76rgv9XAbtkkjjeunG.jpg"
+    },
+    {
+      "name": "Gary Cole",
+      "role": "Henry O'Hare",
+      "url": "https://multimovies.city/cast/gary-cole/",
+      "image": "https://image.tmdb.org/t/p/w92/gPxHlVK9vNQSa5DkTFKYvLMASdE.jpg"
+    },
+    {
+      "name": "Hugh Laurie",
+      "role": "E.B.'s Dad (voice)",
+      "url": "https://multimovies.city/cast/hugh-laurie/",
+      "image": "https://image.tmdb.org/t/p/w92/lpu443aKW5aKzVnV4xjiqvD1DnK.jpg"
+    },
+    {
+      "name": "David Hasselhoff",
+      "role": "Himself",
+      "url": "https://multimovies.city/cast/david-hasselhoff/",
+      "image": "https://image.tmdb.org/t/p/w92/d2tUPhLNlS6xZcPLEIvcnpGOUpe.jpg"
+    },
+    {
+      "name": "Chelsea Handler",
+      "role": "Mrs. Beck",
+      "url": "https://multimovies.city/cast/chelsea-handler/",
+      "image": "https://image.tmdb.org/t/p/w92/b9Yljl32sPMJQQd3mQ1eKNsTfu6.jpg"
+    },
+    {
+      "name": "Dustin Ybarra",
+      "role": "Cody",
+      "url": "https://multimovies.city/cast/dustin-ybarra/",
+      "image": "https://image.tmdb.org/t/p/w92/bYMFFOlVotAJ4wtNS1Nyove9Ej7.jpg"
+    }
+  ],
+  "gallery": [
+    "https://image.tmdb.org/t/p/w300/5Vc3uhEhIVY6uE02OHYbjGIbMha.jpg",
+    "https://image.tmdb.org/t/p/w300/h6ZAXpFVNStP6MLbrQgdd1uK77y.jpg",
+    "https://image.tmdb.org/t/p/w300/lqOcVQXfsqba8kUd6dZEJnJIK7T.jpg",
+    "https://image.tmdb.org/t/p/w300/uhKAbj2BfZp96x9X1QDdKdWjbEM.jpg",
+    "https://image.tmdb.org/t/p/w300/xRhO7ON1T46gru2PtJf2tHUfgu7.jpg",
+    "https://image.tmdb.org/t/p/w300/1fW0gXY93ZodDD1w8ZeOsDkef9g.jpg",
+    "https://image.tmdb.org/t/p/w300/jPh34OUI631PDddlLd4Go4qG1qD.jpg",
+    "https://image.tmdb.org/t/p/w300/2JIfrqrieglr7EV32kCobU7JevA.jpg",
+    "https://image.tmdb.org/t/p/w300/ow7DjypgtTTaDzirhZbHkeFCdjy.jpg",
+    "https://image.tmdb.org/t/p/w300/xCiZ51iC2ZLA7J5h2bKdXWZ1Qdn.jpg"
+  ],
+  "similar": [],
+  "views": 818,
+  "sources": [
+    "https://www.youtube.com/embed/Z7M3ofz3TvA?autoplay=0&autohide=1",
+    "https://multimoviesshg.com/e/qgtmh048lpbj"
+  ],
+  "options": [
+    {
+      "type": "movie",
+      "post": 1208,
+      "nume": "trailer",
+      "title": "Watch trailer"
+    },
+    {
+      "type": "movie",
+      "post": 1208,
+      "nume": 1,
+      "title": "v"
+    }
+  ],
+  "cache": false,
+  "last_update": "2025-09-17T14:12:49.480658"
+}
