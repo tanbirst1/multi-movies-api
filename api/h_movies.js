@@ -10,35 +10,35 @@ export default async function handler(req, res) {
   }
 
   try {
-    // 1. Get page from multimovies
-    const baseUrl = `https://multimovies-api-eight.vercel.app/api/page?path=/movies/&page=${page}`;
-    const pageRes = await fetch(baseUrl);
-    const pageData = await pageRes.json();
+    // 1. Get movie list
+    const listUrl = `https://multimovies-api-eight.vercel.app/api/page?path=/movies/&page=${page}`;
+    const listRes = await fetch(listUrl);
+    const listData = await listRes.json();
 
-    if (!pageData.sections || !pageData.sections["Recently added"]) {
-      return res.status(404).json({ error: "No movies found on this page" });
+    if (!listData.sections || !listData.sections["Recently added"]) {
+      return res.status(404).json({ error: "No movies found" });
     }
 
-    let movies = [];
+    let results = [];
 
-    for (let movie of pageData.sections["Recently added"]) {
-      const { title, link, tmdb_image, original_image } = movie;
-
-      // 2. Get details from multimoviesbackup (video src + genres)
-      let video_src = "";
+    // 2. Loop movies
+    for (let movie of listData.sections["Recently added"]) {
+      const { title, link } = movie;
       let genres = [];
+      let video_src = "";
+      let tmdb_id = null;
+
+      // 2a. Get details from backup API
       try {
         const detailRes = await fetch(`https://multimoviesbackup.vercel.app/api/tv?url=${encodeURIComponent(link)}`);
         const detailData = await detailRes.json();
-        video_src = detailData?.video || "";
         genres = detailData?.genres || [];
+        video_src = detailData?.video || "";
       } catch (e) {
-        console.error("Detail fetch error:", e.message);
+        console.error("Detail fetch error for", title, e.message);
       }
 
-      // 3. Search TMDB for ID + poster
-      let tmdb_id = null;
-      let poster_url = tmdb_image || original_image;
+      // 2b. Get TMDB ID
       try {
         const tmdbRes = await fetch(
           `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`
@@ -46,28 +46,23 @@ export default async function handler(req, res) {
         const tmdbData = await tmdbRes.json();
         if (tmdbData.results && tmdbData.results.length > 0) {
           tmdb_id = tmdbData.results[0].id;
-          if (tmdbData.results[0].poster_path) {
-            poster_url = `https://image.tmdb.org/t/p/w500${tmdbData.results[0].poster_path}`;
-          }
         }
       } catch (e) {
-        console.error("TMDB fetch error:", e.message);
+        console.error("TMDB fetch error for", title, e.message);
       }
 
-      movies.push({
+      results.push({
         title,
-        slug: link.replace("https://multimovies.city/movies/", "").replace("/", ""),
         tmdb_id,
         genres,
-        video_src,
-        poster_url
+        video_src
       });
     }
 
     res.status(200).json({
       page: page,
-      total: movies.length,
-      movies
+      total: results.length,
+      movies: results
     });
   } catch (err) {
     res.status(500).json({ error: err.message });
