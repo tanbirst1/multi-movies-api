@@ -22,33 +22,48 @@ export default async function handler(req, res) {
         let video_src = "";
         let tmdb_id = null;
 
+        // ✅ Derive title from link slug if missing
+        let title = m.title;
+        try {
+          if (!title && m.link) {
+            const slug = m.link.split("/").filter(Boolean).pop(); // get last part of URL
+            title = slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()); // nice format
+          }
+        } catch {
+          title = "Unknown Title";
+        }
+
         // ✅ Get genres + video src from tv.js
         try {
           const detailRes = await fetch(
             `https://multimoviesbackup.vercel.app/api/tv?url=${encodeURIComponent(m.link)}`
           );
           const detailData = await detailRes.json();
-          genres = detailData?.genres || [];
+          genres = Array.isArray(detailData?.genres) ? detailData.genres : [];
           video_src = detailData?.video || "";
         } catch (e) {
           console.error("tv.js fetch error:", e.message);
         }
 
-        // ✅ Search TMDB
+        // ✅ Search TMDB with extracted/fallback title
         try {
-          const tmdbRes = await fetch(
-            `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(m.title)}`
-          );
-          const tmdbData = await tmdbRes.json();
-          if (tmdbData.results && tmdbData.results.length > 0) {
-            tmdb_id = tmdbData.results[0].id;
+          if (title) {
+            const tmdbRes = await fetch(
+              `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(
+                title
+              )}`
+            );
+            const tmdbData = await tmdbRes.json();
+            if (tmdbData.results && tmdbData.results.length > 0) {
+              tmdb_id = tmdbData.results[0].id;
+            }
           }
         } catch (e) {
           console.error("TMDB fetch error:", e.message);
         }
 
         return {
-          title: m.title,
+          title,
           tmdb_id,
           genres,
           video_src,
