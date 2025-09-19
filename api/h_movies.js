@@ -1,78 +1,75 @@
-// api/h_movies.js
-import fs from "fs";
-import path from "path";
-
-const BASE_URL = "https://multi-movies-api.vercel.app/api/page?path=/movies/";
-const SLUG_URL = "https://multi-movies-api.vercel.app/api/tv.js?url=";
-
-const DATA_DIR = path.join(process.cwd(), "data/movies/page");
-const SLUG_DIR = path.join(process.cwd(), "data");
-
-async function fetchJSON(url) {
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`Fetch failed ${url}`);
-  return res.json();
-}
-
-// Save file helper
-function saveFile(filePath, data) {
-  fs.mkdirSync(path.dirname(filePath), { recursive: true });
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-}
+// /api/scrape.js
+import fetch from "node-fetch";
 
 export default async function handler(req, res) {
+  const { page } = req.query;
+  const TMDB_API_KEY = process.env.TMDB_API_KEY;
+
+  if (!page) {
+    return res.status(400).json({ error: "Missing page number" });
+  }
+
   try {
-    // Fetch latest movies from page 1
-    const data = await fetchJSON(BASE_URL + "&page=1");
-    const movies = data?.results || [];
+    // 1. Get page from multimovies
+    const baseUrl = `https://multimovies-api-eight.vercel.app/api/page?path=/movies/&page=${page}`;
+    const pageRes = await fetch(baseUrl);
+    const pageData = await pageRes.json();
 
-    if (!movies.length) {
-      return res.status(200).json({ ok: false, msg: "No movies found" });
+    if (!pageData.sections || !pageData.sections["Recently added"]) {
+      return res.status(404).json({ error: "No movies found on this page" });
     }
 
-    // Load existing pages
-    let allMovies = [];
-    const files = fs.existsSync(DATA_DIR) ? fs.readdirSync(DATA_DIR) : [];
-    files.forEach((file) => {
-      const content = JSON.parse(
-        fs.readFileSync(path.join(DATA_DIR, file), "utf-8")
-      );
-      allMovies.push(...content);
-    });
+    let movies = [];
 
-    // Merge latest movies at top (avoid duplicates by link)
-    const seen = new Set(allMovies.map((m) => m.link));
-    const newMovies = movies.filter((m) => !seen.has(m.link));
-    allMovies = [...newMovies, ...allMovies];
+    for (let movie of pageData.sections["Recently added"]) {
+      const { title, link, tmdb_image, original_image } = movie;
 
-    // Split into pages of 20
-    const pages = [];
-    for (let i = 0; i < allMovies.length; i += 20) {
-      pages.push(allMovies.slice(i, i + 20));
-    }
-
-    // Save to /data/movies/page/{n}.json
-    pages.forEach((page, idx) => {
-      const filePath = path.join(DATA_DIR, `${idx + 1}.json`);
-      saveFile(filePath, page);
-    });
-
-    // Also fetch slug details for each new movie
-    for (const movie of newMovies) {
-      const slug = movie.link.split("/movies/")[1]?.replace("/", "");
-      if (slug) {
-        const slugData = await fetchJSON(SLUG_URL + movie.link);
-        saveFile(path.join(SLUG_DIR, `${slug}.json`), slugData);
+      // 2. Get details from multimoviesbackup (video src + genres)
+      let video_src = "";
+      let genres = [];
+      try {
+        const detailRes = await fetch(`https://multimoviesbackup.vercel.app/api/tv?url=${encodeURIComponent(link)}`);
+        const detailData = await detailRes.json();
+        video_src = detailData?.video || "";
+        genres = detailData?.genres || [];
+      } catch (e) {
+        console.error("Detail fetch error:", e.message);
       }
+
+      // 3. Search TMDB for ID + poster
+      let tmdb_id = null;
+      let poster_url = tmdb_image || original_image;
+      try {
+        const tmdbRes = await fetch(
+          `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`
+        );
+        const tmdbData = await tmdbRes.json();
+        if (tmdbData.results && tmdbData.results.length > 0) {
+          tmdb_id = tmdbData.results[0].id;
+          if (tmdbData.results[0].poster_path) {
+            poster_url = `https://image.tmdb.org/t/p/w500${tmdbData.results[0].poster_path}`;
+          }
+        }
+      } catch (e) {
+        console.error("TMDB fetch error:", e.message);
+      }
+
+      movies.push({
+        title,
+        slug: link.replace("https://multimovies.city/movies/", "").replace("/", ""),
+        tmdb_id,
+        genres,
+        video_src,
+        poster_url
+      });
     }
 
-    return res.status(200).json({
-      ok: true,
-      msg: `Updated ${newMovies.length} new movies`,
-      totalPages: pages.length,
+    res.status(200).json({
+      page: page,
+      total: movies.length,
+      movies
     });
-  } catch (e) {
-    console.error(e);
-    return res.status(500).json({ ok: false, error: e.message });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
   }
-  }
+}
