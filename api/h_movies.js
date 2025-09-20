@@ -22,36 +22,41 @@ export default async function handler(req, res) {
         let video_src = "";
         let tmdb_id = null;
 
-        // ✅ Derive title from link slug if missing
+        // ✅ Title fallback from slug if needed
         let title = m.title;
         try {
           if (!title && m.link) {
-            const slug = m.link.split("/").filter(Boolean).pop(); // get last part of URL
-            title = slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()); // nice format
+            const slug = m.link.split("/").filter(Boolean).pop();
+            title = slug
+              .replace(/-/g, " ")
+              .replace(/\b\w/g, (c) => c.toUpperCase());
           }
         } catch {
           title = "Unknown Title";
         }
 
-        // ✅ Get genres + video src from tv.js
+        // ✅ Get details (genres + video_src) from correct API
         try {
           const detailRes = await fetch(
-            `https://multimoviesbackup.vercel.app/api/tv?url=${encodeURIComponent(m.link)}`
+            `https://multi-movies-api.vercel.app/api/tv?url=${encodeURIComponent(m.link)}`
           );
           const detailData = await detailRes.json();
-          genres = Array.isArray(detailData?.genres) ? detailData.genres : [];
+
+          // Normalize genres: pick only names
+          if (Array.isArray(detailData?.meta?.genres)) {
+            genres = detailData.meta.genres.map((g) => g.name);
+          }
+
           video_src = detailData?.video || "";
         } catch (e) {
-          console.error("tv.js fetch error:", e.message);
+          console.error("tv API fetch error:", e.message);
         }
 
-        // ✅ Search TMDB with extracted/fallback title
+        // ✅ Search TMDB
         try {
           if (title) {
             const tmdbRes = await fetch(
-              `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(
-                title
-              )}`
+              `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`
             );
             const tmdbData = await tmdbRes.json();
             if (tmdbData.results && tmdbData.results.length > 0) {
