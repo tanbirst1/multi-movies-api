@@ -19,10 +19,10 @@ export default async function handler(req, res) {
     const movies = await Promise.all(
       data.sections["Recently added"].map(async (m) => {
         let genres = [];
-        let video_src = "";
+        let videos = [];
         let tmdb_id = null;
 
-        // ✅ Title fallback from slug if needed
+        // ✅ Title fallback from slug if missing
         let title = m.title;
         try {
           if (!title && m.link) {
@@ -35,19 +35,43 @@ export default async function handler(req, res) {
           title = "Unknown Title";
         }
 
-        // ✅ Get details (genres + video_src) from correct API
+        // ✅ Get genres + video sources from correct API
         try {
           const detailRes = await fetch(
             `https://multi-movies-api.vercel.app/api/tv?url=${encodeURIComponent(m.link)}`
           );
           const detailData = await detailRes.json();
 
-          // Normalize genres: pick only names
+          // Normalize genres
           if (Array.isArray(detailData?.meta?.genres)) {
             genres = detailData.meta.genres.map((g) => g.name);
           }
 
-          video_src = detailData?.video || "";
+          // Map sources + options
+          if (
+            Array.isArray(detailData?.sources) &&
+            Array.isArray(detailData?.options)
+          ) {
+            const tempVideos = detailData.options.map((opt, idx) => {
+              return {
+                server:
+                  opt.nume === "trailer"
+                    ? "Trailer"
+                    : opt.title || `Server ${idx + 1}`,
+                src: detailData.sources[idx] || "",
+              };
+            });
+
+            // Move trailer to bottom
+            const trailers = tempVideos.filter((v) =>
+              v.server.toLowerCase().includes("trailer")
+            );
+            const normalVideos = tempVideos.filter(
+              (v) => !v.server.toLowerCase().includes("trailer")
+            );
+
+            videos = [...normalVideos, ...trailers];
+          }
         } catch (e) {
           console.error("tv API fetch error:", e.message);
         }
@@ -56,7 +80,9 @@ export default async function handler(req, res) {
         try {
           if (title) {
             const tmdbRes = await fetch(
-              `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`
+              `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(
+                title
+              )}`
             );
             const tmdbData = await tmdbRes.json();
             if (tmdbData.results && tmdbData.results.length > 0) {
@@ -71,7 +97,7 @@ export default async function handler(req, res) {
           title,
           tmdb_id,
           genres,
-          video_src,
+          videos,
         };
       })
     );
