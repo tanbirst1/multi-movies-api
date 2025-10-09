@@ -7,6 +7,23 @@ export default async function handler(req, res) {
     return res.status(400).json({ error: "Missing page number" });
   }
 
+  // Function to decode HTML entities
+  function decodeHtmlEntities(str) {
+    if (!str) return str;
+    return str.replace(/&#(\d+);/g, (_, code) => String.fromCharCode(code));
+  }
+
+  // Function to normalize title for better TMDB search
+  function normalizeTitle(str) {
+    if (!str) return str;
+    str = decodeHtmlEntities(str);
+    str = str.replace(/[\u2013\u2014–—]/g, "-"); // Normalize dashes
+    str = str.replace(/[’‘`]/g, "'"); // Normalize quotes
+    str = str.replace(/[^a-zA-Z0-9\s'-]/g, ""); // Remove other punctuation
+    str = str.replace(/\s+/g, " ").trim(); // Normalize spaces
+    return str;
+  }
+
   try {
     const url = `https://multimovies-api-eight.vercel.app/api/page?path=/movies/&page=${page}`;
     const resp = await fetch(url);
@@ -34,6 +51,9 @@ export default async function handler(req, res) {
         } catch {
           title = "Unknown Title";
         }
+
+        // Normalize title for TMDB
+        const normalizedTitle = normalizeTitle(title);
 
         // ✅ Get genres + video sources from correct API
         try {
@@ -76,12 +96,12 @@ export default async function handler(req, res) {
           console.error("tv API fetch error:", e.message);
         }
 
-        // ✅ Search TMDB
+        // ✅ Search TMDB with normalized title
         try {
-          if (title) {
+          if (normalizedTitle) {
             const tmdbRes = await fetch(
               `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(
-                title
+                normalizedTitle
               )}`
             );
             const tmdbData = await tmdbRes.json();
