@@ -54,8 +54,12 @@ function parseEpisodePage(html, pageUrl, siteRoot) {
   // Remove heavy tags early
   $("script, style, link").remove();
 
-  // Views
-  const viewsText = $("#playernotice").data("text") || "";
+  // Views (try multiple ways)
+  let viewsText = $("#playernotice").data("text") || "";
+  if (!viewsText) {
+    const metaCounter = $("#dooplay-ajax-counter");
+    if (metaCounter.length) viewsText = metaCounter.attr("data-postid") || "";
+  }
   const views = parseInt(String(viewsText).replace(/\D/g, ""), 10) || 0;
 
   // Player options
@@ -70,25 +74,42 @@ function parseEpisodePage(html, pageUrl, siteRoot) {
     });
   });
 
-  // Collect iframe sources
-  const sources = [];
+  // Collect iframe sources (support both new + old HTML)
+  const sources = new Set();
+
+  // Old structure: direct iframe inside div[id^='source-player-']
   $("div[id^='source-player-'] iframe").each((_, iframe) => {
-    let src = $(iframe).attr("src") || "";
-
-    if (!src || src === "about:blank") {
-      src =
-        $(iframe).attr("data-litespeed-src") ||
-        $(iframe).attr("data-src") ||
-        "";
-    }
-
+    let src =
+      $(iframe).attr("src") ||
+      $(iframe).attr("data-src") ||
+      $(iframe).attr("data-litespeed-src") ||
+      "";
     if (src && src !== "about:blank") {
       if (!/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
-      sources.push(src);
+      sources.add(src);
     }
   });
 
-  return { ok: true, scrapedFrom: pageUrl, views, sources, options };
+  // New structure: iframe nested inside .pframe (also catch uppercase tags)
+  $(".pframe iframe, .pframe IFRAME").each((_, iframe) => {
+    let src =
+      $(iframe).attr("src") ||
+      $(iframe).attr("data-src") ||
+      $(iframe).attr("data-litespeed-src") ||
+      "";
+    if (src && src !== "about:blank") {
+      if (!/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
+      sources.add(src);
+    }
+  });
+
+  return {
+    ok: true,
+    scrapedFrom: pageUrl,
+    views,
+    sources: Array.from(sources),
+    options,
+  };
 }
 
 // --------- Handler ---------
