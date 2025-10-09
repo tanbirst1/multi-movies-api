@@ -7,19 +7,18 @@ export default async function handler(req, res) {
     return res.status(400).json({ error: "Missing page number" });
   }
 
-  // Function to decode HTML entities
+  // Function to decode HTML entities (keep punctuation and numbers intact)
   function decodeHtmlEntities(str) {
     if (!str) return str;
     return str.replace(/&#(\d+);/g, (_, code) => String.fromCharCode(code));
   }
 
-  // Function to normalize title for better TMDB search
+  // Function to normalize title for TMDB search only
   function normalizeTitle(str) {
     if (!str) return str;
     str = decodeHtmlEntities(str);
     str = str.replace(/[\u2013\u2014–—]/g, "-"); // Normalize dashes
     str = str.replace(/[’‘`]/g, "'"); // Normalize quotes
-    str = str.replace(/[^\w\s'-]/g, ""); // Keep letters, numbers, spaces, dash, apostrophe
     str = str.replace(/\s+/g, " ").trim(); // Normalize spaces
     return str;
   }
@@ -52,7 +51,10 @@ export default async function handler(req, res) {
           title = "Unknown Title";
         }
 
-        // Normalize title for TMDB search
+        // Decode HTML entities for title output
+        const decodedTitle = decodeHtmlEntities(title);
+
+        // Normalize title for TMDB search (internal)
         const normalizedTitle = normalizeTitle(title);
 
         // ✅ Get genres + video sources from correct API
@@ -114,7 +116,7 @@ export default async function handler(req, res) {
         }
 
         return {
-          title,
+          title: decodedTitle, // ✅ preserve numbers, dashes, colons, etc.
           tmdb_id,
           genres,
           videos,
