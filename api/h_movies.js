@@ -19,7 +19,7 @@ export default async function handler(req, res) {
     str = decodeHtmlEntities(str);
     str = str.replace(/[\u2013\u2014–—]/g, "-"); // Normalize dashes
     str = str.replace(/[’‘`]/g, "'"); // Normalize quotes
-    str = str.replace(/[^a-zA-Z0-9\s'-]/g, ""); // Remove other punctuation
+    str = str.replace(/[^\w\s'-]/g, ""); // Keep letters, numbers, spaces, dash, apostrophe
     str = str.replace(/\s+/g, " ").trim(); // Normalize spaces
     return str;
   }
@@ -52,7 +52,7 @@ export default async function handler(req, res) {
           title = "Unknown Title";
         }
 
-        // Normalize title for TMDB
+        // Normalize title for TMDB search
         const normalizedTitle = normalizeTitle(title);
 
         // ✅ Get genres + video sources from correct API
