@@ -1,18 +1,8 @@
-const fs = require("fs");
-const path = require("path");
-const cheerio = require("cheerio");
-
-// --------- Helpers ---------
+// ---------- Helpers ----------
 function readBaseURL() {
-  const envBase = (process.env.BASE_URL || "").trim();
-  if (/^https?:\/\//i.test(envBase)) return envBase.replace(/\/+$/, "");
-  try {
-    const filePath = path.resolve(process.cwd(), "src", "baseurl.txt");
-    if (fs.existsSync(filePath)) {
-      const txt = fs.readFileSync(filePath, "utf8").trim();
-      if (/^https?:\/\//i.test(txt)) return txt.replace(/\/+$/, "");
-    }
-  } catch (_) {}
+  // Base URL from environment or fallback
+  const base = (process.env.BASE_URL || "").trim();
+  if (/^https?:\/\//i.test(base)) return base.replace(/\/+$/, "");
   return "https://multimovies.pro";
 }
 
@@ -25,105 +15,89 @@ function toAbs(base, href) {
   }
 }
 
-async function fetchHTML(target, timeoutMs = 20000) {
-  const ac = new AbortController();
-  const t = setTimeout(() => ac.abort(), timeoutMs);
+async function fetchHTML(url, timeoutMs = 20000) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), timeoutMs);
+
   try {
-    const resp = await fetch(target, {
+    const res = await fetch(url, {
       method: "GET",
       headers: {
-        "user-agent":
-          "Mozilla/5.0 (compatible; VercelScraper/1.6; +https://vercel.com/)",
-        accept:
+        "User-Agent":
+          "Mozilla/5.0 (compatible; RexScraper/1.0; +https://rex-scraper.dev/)",
+        Accept:
           "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "accept-encoding": "gzip, deflate, br",
       },
-      signal: ac.signal,
+      signal: controller.signal,
     });
-    if (!resp.ok)
-      throw new Error(`Fetch failed ${resp.status} ${resp.statusText}`);
-    return await resp.text();
+
+    if (!res.ok)
+      throw new Error(`fetch failed (${res.status} ${res.statusText})`);
+
+    return await res.text();
+  } catch (err) {
+    throw new Error(`fetch failed: ${err.message}`);
   } finally {
-    clearTimeout(t);
+    clearTimeout(timeout);
   }
 }
 
+// ---------- Parse HTML using regex ----------
 function parseEpisodePage(html, pageUrl, siteRoot) {
-  const $ = cheerio.load(html, { decodeEntities: true });
-
-  // Remove heavy tags early
-  $("script, style, link").remove();
-
-  // Views (try multiple ways)
-  let viewsText = $("#playernotice").data("text") || "";
-  if (!viewsText) {
-    const metaCounter = $("#dooplay-ajax-counter");
-    if (metaCounter.length) viewsText = metaCounter.attr("data-postid") || "";
+  // Views
+  let views = 0;
+  const playerNoticeMatch = html.match(/id=["']playernotice["'].*?data-text=["']([^"']*)["']/i);
+  if (playerNoticeMatch) {
+    views = parseInt(playerNoticeMatch[1].replace(/\D/g, ""), 10) || 0;
+  } else {
+    const metaCounterMatch = html.match(/<meta\s+id=['"]dooplay-ajax-counter['"]\s+data-postid=['"](\d+)['"]/i);
+    if (metaCounterMatch) views = parseInt(metaCounterMatch[1], 10) || 0;
   }
-  const views = parseInt(String(viewsText).replace(/\D/g, ""), 10) || 0;
 
-  // Player options
+  // Options (basic extraction)
   const options = [];
-  $("#playeroptionsul li").each((_, li) => {
-    const $li = $(li);
+  const optionRegex = /<li[^>]*data-type=['"]([^'"]*)['"][^>]*data-post=['"]([^'"]*)['"][^>]*data-nume=['"]([^'"]*)['"][^>]*>(.*?)<\/li>/gi;
+  let m;
+  while ((m = optionRegex.exec(html)) !== null) {
+    const titleMatch = m[4].match(/<[^>]+class=['"]title['"][^>]*>(.*?)<\/[^>]+>/i);
     options.push({
-      type: $li.data("type") || "",
-      post: $li.data("post") || "",
-      nume: $li.data("nume") || "",
-      title: $li.find(".title").text().trim() || "",
+      type: m[1] || "",
+      post: m[2] || "",
+      nume: m[3] || "",
+      title: titleMatch ? titleMatch[1].trim() : "",
     });
-  });
+  }
 
-  // Collect iframe sources (support both new + old HTML)
-  const sources = new Set();
-
-  // Old structure: direct iframe inside div[id^='source-player-']
-  $("div[id^='source-player-'] iframe").each((_, iframe) => {
-    let src =
-      $(iframe).attr("src") ||
-      $(iframe).attr("data-src") ||
-      $(iframe).attr("data-litespeed-src") ||
-      "";
+  // Iframe sources (old + new + uppercase)
+  const sourcesSet = new Set();
+  const iframeRegex = /<iframe[^>]+src=['"]([^'"]+)['"][^>]*>/gi;
+  while ((m = iframeRegex.exec(html)) !== null) {
+    let src = m[1];
     if (src && src !== "about:blank") {
       if (!/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
-      sources.add(src);
+      sourcesSet.add(src);
     }
-  });
-
-  // New structure: iframe nested inside .pframe (also catch uppercase tags)
-  $(".pframe iframe, .pframe IFRAME").each((_, iframe) => {
-    let src =
-      $(iframe).attr("src") ||
-      $(iframe).attr("data-src") ||
-      $(iframe).attr("data-litespeed-src") ||
-      "";
-    if (src && src !== "about:blank") {
-      if (!/^https?:\/\//i.test(src)) src = toAbs(siteRoot, src);
-      sources.add(src);
-    }
-  });
+  }
 
   return {
     ok: true,
     scrapedFrom: pageUrl,
     views,
-    sources: Array.from(sources),
+    sources: Array.from(sourcesSet),
     options,
   };
 }
 
-// --------- Handler ---------
+// ---------- Handler ----------
 module.exports = async function handler(req, res) {
   try {
     const q = req.query || {};
-    const base = (q.base && String(q.base)) || readBaseURL();
+    const base = readBaseURL();
 
     let target = (q.url && String(q.url).trim()) || "";
-
-    // support ?slug=episodes/naruto-shippuden-1x1/
     if (!target && q.slug) {
       const slug = String(q.slug).replace(/^\/+/, "").replace(/\/+$/, "");
-      target = `${base.replace(/\/+$/, "")}/${slug}`;
+      target = `${base}/${slug}`;
     }
 
     if (!target) {
@@ -144,14 +118,12 @@ module.exports = async function handler(req, res) {
     const html = await fetchHTML(target);
     const data = parseEpisodePage(html, target, siteRoot);
 
-    res.setHeader("cache-control", "s-maxage=500, stale-while-revalidate=600");
+    res.setHeader("Cache-Control", "s-maxage=300, stale-while-revalidate=600");
     res.status(200).json(data);
   } catch (err) {
-    const dev = process.env.NODE_ENV !== "production";
     res.status(500).json({
       ok: false,
-      error: err && err.message ? err.message : String(err),
-      stack: dev ? (err && err.stack) : undefined,
+      error: err.message || "Unknown error",
     });
   }
 };
