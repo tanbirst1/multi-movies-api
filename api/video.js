@@ -3,7 +3,7 @@ function readBaseURL() {
   // Base URL from environment or fallback
   const base = (process.env.BASE_URL || "").trim();
   if (/^https?:\/\//i.test(base)) return base.replace(/\/+$/, "");
-  return "https://multimovies.pro";
+  return "https://multimovies.sale/";
 }
 
 function toAbs(base, href) {
