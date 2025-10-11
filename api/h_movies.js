@@ -1,4 +1,6 @@
 // /api/page.js
+import cheerio from "cheerio";
+
 export default async function handler(req, res) {
   const { page } = req.query;
   const TMDB_API_KEY = process.env.TMDB_API_KEY;
@@ -35,45 +37,31 @@ export default async function handler(req, res) {
           title = "Unknown Title";
         }
 
-        // ✅ Get genres + video sources from correct API
+        // ✅ Scrape iframe sources (Cloudflare style)
         try {
-          const detailRes = await fetch(
-            `https://multi-movies-api.vercel.app/api/tv?url=${encodeURIComponent(m.link)}`
-          );
-          const detailData = await detailRes.json();
+          const htmlRes = await fetch(m.link);
+          const html = await htmlRes.text();
+          const $ = cheerio.load(html);
 
-          // Normalize genres
-          if (Array.isArray(detailData?.meta?.genres)) {
-            genres = detailData.meta.genres.map((g) => g.name);
-          }
+          let iframeCount = 0;
+          $("#dooplay_player_content iframe").each((_, el) => {
+            const src = $(el).attr("src");
+            if (src && !src.includes("youtube.com") && !src.includes("youtu.be")) {
+              iframeCount++;
+              videos.push({
+                server: `Server ${iframeCount}`,
+                src: [src], // Always as array
+              });
+            }
+          });
 
-          // Map sources + options
-          if (
-            Array.isArray(detailData?.sources) &&
-            Array.isArray(detailData?.options)
-          ) {
-            const tempVideos = detailData.options.map((opt, idx) => {
-              return {
-                server:
-                  opt.nume === "trailer"
-                    ? "Trailer"
-                    : opt.title || `Server ${idx + 1}`,
-                src: detailData.sources[idx] || "",
-              };
-            });
-
-            // Move trailer to bottom
-            const trailers = tempVideos.filter((v) =>
-              v.server.toLowerCase().includes("trailer")
-            );
-            const normalVideos = tempVideos.filter(
-              (v) => !v.server.toLowerCase().includes("trailer")
-            );
-
-            videos = [...normalVideos, ...trailers];
-          }
-        } catch (e) {
-          console.error("tv API fetch error:", e.message);
+          // ✅ Try extracting genres from meta tags if available
+          $("meta[property='video:tag']").each((_, el) => {
+            const g = $(el).attr("content");
+            if (g) genres.push(g);
+          });
+        } catch (err) {
+          console.error("Scrape error:", err.message);
         }
 
         // ✅ Search TMDB
