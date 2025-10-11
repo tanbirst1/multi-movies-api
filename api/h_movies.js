@@ -57,49 +57,38 @@ export default async function handler(req, res) {
         // Normalize title for TMDB search (internal)
         const normalizedTitle = normalizeTitle(title);
 
-        // ✅ Get genres + video sources from correct API
+        // ✅ Get genres + video sources from new API
         try {
-          const detailRes = await fetch(
-            `https://multi-movies-api.vercel.app/api/tv?url=${encodeURIComponent(
+          const videoRes = await fetch(
+            `https://multi-movies-api.vercel.app/api/video?url=${encodeURIComponent(
               m.link
             )}`
           );
-          const detailData = await detailRes.json();
+          const videoData = await videoRes.json();
 
-          // Normalize genres
-          if (Array.isArray(detailData?.meta?.genres)) {
-            genres = detailData.meta.genres.map((g) => g.name);
+          // Normalize genres if available
+          if (Array.isArray(videoData?.meta?.genres)) {
+            genres = videoData.meta.genres.map((g) => g.name);
           }
 
           // Map sources + options
-          if (Array.isArray(detailData?.sources) && Array.isArray(detailData?.options)) {
-            const tempVideos = detailData.options
-              .map((opt, idx) => {
-                let srcList = detailData.sources[idx];
-                if (!Array.isArray(srcList)) srcList = [srcList]; // support multiple src
-                // Ignore YouTube videos
-                srcList = srcList.filter((s) => !s.includes("youtube.com"));
-                if (srcList.length === 0) return null;
-
-                return {
-                  server: opt.nume === "trailer" ? "Trailer" : opt.title || `Server ${idx + 1}`,
-                  src: srcList,
-                };
-              })
-              .filter(Boolean);
-
-            // Move trailer to bottom
-            const trailers = tempVideos.filter((v) =>
-              v.server.toLowerCase().includes("trailer")
-            );
-            const normalVideos = tempVideos.filter(
-              (v) => !v.server.toLowerCase().includes("trailer")
-            );
-
-            videos = [...normalVideos, ...trailers];
+          if (Array.isArray(videoData?.sources) && Array.isArray(videoData?.options)) {
+            // Filter out YouTube if needed (optional)
+            // const filteredSources = videoData.sources.filter(s => !s.includes("youtube.com"));
+            videos = videoData.options.map((opt, idx) => {
+              let srcList = videoData.sources[idx];
+              if (!Array.isArray(srcList)) srcList = [srcList]; // ensure array
+              return {
+                type: opt.type || "movie",
+                post: opt.post || "",
+                nume: opt.nume || `${idx + 1}`,
+                title: opt.title || `Server ${idx + 1}`,
+                src: srcList,
+              };
+            });
           }
         } catch (e) {
-          console.error("tv API fetch error:", e.message);
+          console.error("video API fetch error:", e.message);
         }
 
         // ✅ Search TMDB with normalized title
@@ -120,10 +109,14 @@ export default async function handler(req, res) {
         }
 
         return {
-          title: decodedTitle, // ✅ preserve numbers, dashes, colons, etc.
+          ok: true,
+          scrapedFrom: m.link,
+          title: decodedTitle,
           tmdb_id,
           genres,
-          videos,
+          views: videoData?.views || 0,
+          sources: videoData?.sources || [],
+          options: videos,
         };
       })
     );
