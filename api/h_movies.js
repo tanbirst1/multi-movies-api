@@ -1,12 +1,26 @@
 // /api/page.js
-import cheerio from "cheerio";
-
 export default async function handler(req, res) {
   const { page } = req.query;
   const TMDB_API_KEY = process.env.TMDB_API_KEY;
 
   if (!page) {
     return res.status(400).json({ error: "Missing page number" });
+  }
+
+  // Function to decode HTML entities (keep punctuation and numbers intact)
+  function decodeHtmlEntities(str) {
+    if (!str) return str;
+    return str.replace(/&#(\d+);/g, (_, code) => String.fromCharCode(code));
+  }
+
+  // Function to normalize title for TMDB search only
+  function normalizeTitle(str) {
+    if (!str) return str;
+    str = decodeHtmlEntities(str);
+    str = str.replace(/[\u2013\u2014–—]/g, "-"); // Normalize dashes
+    str = str.replace(/[’‘`]/g, "'"); // Normalize quotes
+    str = str.replace(/\s+/g, " ").trim(); // Normalize spaces
+    return str;
   }
 
   try {
@@ -37,39 +51,64 @@ export default async function handler(req, res) {
           title = "Unknown Title";
         }
 
-        // ✅ Scrape iframe sources (Cloudflare style)
+        // Decode HTML entities for title output
+        const decodedTitle = decodeHtmlEntities(title);
+
+        // Normalize title for TMDB search (internal)
+        const normalizedTitle = normalizeTitle(title);
+
+        // ✅ Get genres + video sources from correct API
         try {
-          const htmlRes = await fetch(m.link);
-          const html = await htmlRes.text();
-          const $ = cheerio.load(html);
+          const detailRes = await fetch(
+            `https://multi-movies-api.vercel.app/api/tv?url=${encodeURIComponent(m.link)}`
+          );
+          const detailData = await detailRes.json();
 
-          let iframeCount = 0;
-          $("#dooplay_player_content iframe").each((_, el) => {
-            const src = $(el).attr("src");
-            if (src && !src.includes("youtube.com") && !src.includes("youtu.be")) {
-              iframeCount++;
-              videos.push({
-                server: `Server ${iframeCount}`,
-                src: [src], // Always as array
-              });
-            }
-          });
+          // Normalize genres
+          if (Array.isArray(detailData?.meta?.genres)) {
+            genres = detailData.meta.genres.map((g) => g.name);
+          }
 
-          // ✅ Try extracting genres from meta tags if available
-          $("meta[property='video:tag']").each((_, el) => {
-            const g = $(el).attr("content");
-            if (g) genres.push(g);
-          });
-        } catch (err) {
-          console.error("Scrape error:", err.message);
+          // Map sources + options
+          if (
+            Array.isArray(detailData?.sources) &&
+            Array.isArray(detailData?.options)
+          ) {
+            const tempVideos = detailData.options.map((opt, idx) => {
+              const src = detailData.sources[idx] || "";
+              // ✅ Ignore YouTube sources
+              if (src.includes("youtube.com") || src.includes("youtu.be")) {
+                return null;
+              }
+              return {
+                server:
+                  opt.nume === "trailer"
+                    ? "Trailer"
+                    : opt.title || `Server ${idx + 1}`,
+                src,
+              };
+            }).filter(Boolean); // remove nulls
+
+            // Move trailer to bottom
+            const trailers = tempVideos.filter((v) =>
+              v.server.toLowerCase().includes("trailer")
+            );
+            const normalVideos = tempVideos.filter(
+              (v) => !v.server.toLowerCase().includes("trailer")
+            );
+
+            videos = [...normalVideos, ...trailers];
+          }
+        } catch (e) {
+          console.error("tv API fetch error:", e.message);
         }
 
-        // ✅ Search TMDB
+        // ✅ Search TMDB with normalized title
         try {
-          if (title) {
+          if (normalizedTitle) {
             const tmdbRes = await fetch(
               `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(
-                title
+                normalizedTitle
               )}`
             );
             const tmdbData = await tmdbRes.json();
@@ -82,7 +121,7 @@ export default async function handler(req, res) {
         }
 
         return {
-          title,
+          title: decodedTitle, // ✅ preserve numbers, dashes, colons, etc.
           tmdb_id,
           genres,
           videos,
