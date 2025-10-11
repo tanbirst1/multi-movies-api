@@ -60,7 +60,9 @@ export default async function handler(req, res) {
         // ✅ Get genres + video sources from correct API
         try {
           const detailRes = await fetch(
-            `https://multi-movies-api.vercel.app/api/tv?url=${encodeURIComponent(m.link)}`
+            `https://multi-movies-api.vercel.app/api/tv?url=${encodeURIComponent(
+              m.link
+            )}`
           );
           const detailData = await detailRes.json();
 
@@ -70,24 +72,21 @@ export default async function handler(req, res) {
           }
 
           // Map sources + options
-          if (
-            Array.isArray(detailData?.sources) &&
-            Array.isArray(detailData?.options)
-          ) {
-            const tempVideos = detailData.options.map((opt, idx) => {
-              const src = detailData.sources[idx] || "";
-              // ✅ Ignore YouTube sources
-              if (src.includes("youtube.com") || src.includes("youtu.be")) {
-                return null;
-              }
-              return {
-                server:
-                  opt.nume === "trailer"
-                    ? "Trailer"
-                    : opt.title || `Server ${idx + 1}`,
-                src,
-              };
-            }).filter(Boolean); // remove nulls
+          if (Array.isArray(detailData?.sources) && Array.isArray(detailData?.options)) {
+            const tempVideos = detailData.options
+              .map((opt, idx) => {
+                let srcList = detailData.sources[idx];
+                if (!Array.isArray(srcList)) srcList = [srcList]; // support multiple src
+                // Ignore YouTube videos
+                srcList = srcList.filter((s) => !s.includes("youtube.com"));
+                if (srcList.length === 0) return null;
+
+                return {
+                  server: opt.nume === "trailer" ? "Trailer" : opt.title || `Server ${idx + 1}`,
+                  src: srcList,
+                };
+              })
+              .filter(Boolean);
 
             // Move trailer to bottom
             const trailers = tempVideos.filter((v) =>
