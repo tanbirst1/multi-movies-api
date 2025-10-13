@@ -7,13 +7,13 @@ export default async function handler(req, res) {
     return res.status(400).json({ error: "Missing page number" });
   }
 
-  // Function to decode HTML entities (keep punctuation and numbers intact)
+  // Function to decode HTML entities
   function decodeHtmlEntities(str) {
     if (!str) return str;
     return str.replace(/&#(\d+);/g, (_, code) => String.fromCharCode(code));
   }
 
-  // Function to normalize title for TMDB search only
+  // Function to normalize title for TMDB search
   function normalizeTitle(str) {
     if (!str) return str;
     str = decodeHtmlEntities(str);
@@ -37,8 +37,9 @@ export default async function handler(req, res) {
         let genres = [];
         let videos = [];
         let tmdb_id = null;
+        let videoData = {}; // ✅ define before using
 
-        // ✅ Title fallback from slug if missing
+        // ✅ Title fallback
         let title = m.title;
         try {
           if (!title && m.link) {
@@ -51,33 +52,32 @@ export default async function handler(req, res) {
           title = "Unknown Title";
         }
 
-        // Decode HTML entities for title output
+        // Decode & normalize
         const decodedTitle = decodeHtmlEntities(title);
-
-        // Normalize title for TMDB search (internal)
         const normalizedTitle = normalizeTitle(title);
 
-        // ✅ Get genres + video sources from new API
+        // ✅ Fetch video data (safe even if fails)
         try {
           const videoRes = await fetch(
             `https://multi-movies-api.vercel.app/api/video?url=${encodeURIComponent(
               m.link
             )}`
           );
-          const videoData = await videoRes.json();
+          videoData = await videoRes.json();
 
-          // Normalize genres if available
+          // Normalize genres
           if (Array.isArray(videoData?.meta?.genres)) {
             genres = videoData.meta.genres.map((g) => g.name);
           }
 
           // Map sources + options
-          if (Array.isArray(videoData?.sources) && Array.isArray(videoData?.options)) {
-            // Filter out YouTube if needed (optional)
-            // const filteredSources = videoData.sources.filter(s => !s.includes("youtube.com"));
+          if (
+            Array.isArray(videoData?.sources) &&
+            Array.isArray(videoData?.options)
+          ) {
             videos = videoData.options.map((opt, idx) => {
               let srcList = videoData.sources[idx];
-              if (!Array.isArray(srcList)) srcList = [srcList]; // ensure array
+              if (!Array.isArray(srcList)) srcList = [srcList];
               return {
                 type: opt.type || "movie",
                 post: opt.post || "",
@@ -91,7 +91,7 @@ export default async function handler(req, res) {
           console.error("video API fetch error:", e.message);
         }
 
-        // ✅ Search TMDB with normalized title
+        // ✅ TMDB search
         try {
           if (normalizedTitle) {
             const tmdbRes = await fetch(
