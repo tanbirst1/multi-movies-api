@@ -16,7 +16,7 @@ function readBaseURL() {
       if (/^https?:\/\//i.test(txt)) return txt.replace(/\/+$/, "");
     }
   } catch (_) {}
-  return "https://multimovies.lol/";
+  return "https://multimovies.sale/";
 }
 
 function getImgSrc($el) {
