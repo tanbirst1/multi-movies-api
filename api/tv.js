@@ -6,9 +6,42 @@ const cheerio = require("cheerio");
 const cacheStore = new Map(); // key: target URL, value: { data, expiry }
 
 // ------- Helpers -------
-function readBaseURL() {
+
+let cachedRemoteBase = { url: "", expiry: 0 };
+
+async function readBaseURL() {
+  // Priority: ?base param > process.env.BASE_URL > remote baseurl.txt > local src/baseurl.txt > default
   const envBase = (process.env.BASE_URL || "").trim();
   if (/^https?:\/\//i.test(envBase)) return envBase.replace(/\/+$/, "");
+
+  const now = Date.now();
+  // --- Cached remote baseurl.txt ---
+  if (cachedRemoteBase.url && cachedRemoteBase.expiry > now) {
+    return cachedRemoteBase.url;
+  }
+
+  try {
+    // Try fetching from GitHub raw baseurl.txt
+    const remoteURL =
+      "https://raw.githubusercontent.com/tanbirst1/multi-movies-api/refs/heads/main/src/baseurl.txt";
+    const res = await fetch(remoteURL, {
+      headers: {
+        "user-agent": "Mozilla/5.0 (BaseURLFetcher/1.0)",
+      },
+    });
+    if (res.ok) {
+      const txt = (await res.text()).trim();
+      if (/^https?:\/\//i.test(txt)) {
+        const clean = txt.replace(/\/+$/, "");
+        cachedRemoteBase = { url: clean, expiry: now + 10 * 60 * 1000 }; // cache 10min
+        return clean;
+      }
+    }
+  } catch (err) {
+    console.warn("⚠️ Remote baseurl fetch failed:", err.message);
+  }
+
+  // Local fallback
   try {
     const filePath = path.resolve(process.cwd(), "src", "baseurl.txt");
     if (fs.existsSync(filePath)) {
@@ -16,6 +49,8 @@ function readBaseURL() {
       if (/^https?:\/\//i.test(txt)) return txt.replace(/\/+$/, "");
     }
   } catch (_) {}
+
+  // Default fallback
   return "https://multimovies.sale/";
 }
 
@@ -70,7 +105,8 @@ async function fetchHTML(target, timeoutMs = 20000) {
       headers: {
         "user-agent":
           "Mozilla/5.0 (compatible; VercelScraper/1.2; +https://vercel.com/)",
-        accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        accept:
+          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
       },
       signal: ac.signal,
     });
@@ -165,7 +201,9 @@ function parsePage(html, pageUrl, siteRoot) {
       $se.find(".se-q .se-t").first().text().trim() ||
       $se.find(".se-q .se-t.se-o").first().text().trim() ||
       "";
-    const seasonNumber = seasonNumberText ? parseInt(seasonNumberText, 10) : null;
+    const seasonNumber = seasonNumberText
+      ? parseInt(seasonNumberText, 10)
+      : null;
     const seasonTitle = $se.find(".se-q .title").first().text().trim();
 
     const episodes = [];
@@ -234,7 +272,8 @@ function parsePage(html, pageUrl, siteRoot) {
       } catch {}
     }
     seen.add(href);
-    if (href) similar.push({ title: alt || "", url: href, thumbnail: thumb || "" });
+    if (href)
+      similar.push({ title: alt || "", url: href, thumbnail: thumb || "" });
   });
 
   const infoFields = {};
@@ -269,7 +308,7 @@ function parsePage(html, pageUrl, siteRoot) {
 module.exports = async function handler(req, res) {
   try {
     const q = req.query || {};
-    const base = (q.base && String(q.base)) || readBaseURL();
+    const base = (q.base && String(q.base)) || (await readBaseURL());
 
     let target = (q.url && String(q.url).trim()) || "";
 
@@ -280,7 +319,7 @@ module.exports = async function handler(req, res) {
           ok: false,
           cache: false,
           error:
-            "Base URL missing. Provide BASE_URL env, src/baseurl.txt, or ?base= param.",
+            "Base URL missing. Provide BASE_URL env, remote baseurl.txt, or ?base= param.",
         });
         return;
       }
@@ -347,7 +386,7 @@ module.exports = async function handler(req, res) {
     res.status(500).json({
       ok: false,
       cache: false,
-      error: err && err.message ? err.message : String(err),
+      error: err?.message || String(err),
       stack: dev ? err.stack : undefined,
     });
   }
