@@ -2,15 +2,38 @@ export const config = {
   runtime: "edge",
 };
 
-async function deleteMessage(id, address) {
-  const url =
-    `https://api.catchmail.io/api/v1/message/${id}?mailbox=${encodeURIComponent(address)}`;
+async function deleteMessage(id, mailbox) {
+  const url = `https://api.catchmail.io/api/v1/message/${id}?mailbox=${encodeURIComponent(mailbox)}`;
+  const res = await fetch(url, { method: "DELETE" });
+  return res.ok;
+}
 
-  const res = await fetch(url, {
-    method: "DELETE",
-  });
+async function fetchAllMessages(address) {
+  const allMessages = [];
+  let page = 1;
+  const pageSize = 50;
 
-  return res.status;
+  while (true) {
+    const inboxUrl =
+      `https://api.catchmail.io/api/v1/inbox?mailbox=${encodeURIComponent(address)}&page=${page}&page_size=${pageSize}`;
+
+    const inboxRes = await fetch(inboxUrl);
+
+    if (!inboxRes.ok) break;
+
+    const inbox = await inboxRes.json();
+
+    if (!inbox.messages || inbox.messages.length === 0) break;
+
+    allMessages.push(...inbox.messages);
+
+    // If we got fewer messages than page_size, we've reached the last page
+    if (inbox.messages.length < pageSize) break;
+
+    page++;
+  }
+
+  return allMessages;
 }
 
 export default async function handler(req) {
@@ -24,7 +47,7 @@ export default async function handler(req) {
     if (!address) {
       return new Response(
         JSON.stringify({ error: "address required" }),
-        { status: 400 }
+        { status: 400, headers: { "Content-Type": "application/json" } }
       );
     }
 
@@ -32,23 +55,21 @@ export default async function handler(req) {
     // DELETE SINGLE MAIL
     // -------------------
     if (action === "delete") {
-
       if (!id) {
         return new Response(
           JSON.stringify({ error: "id required" }),
-          { status: 400 }
+          { status: 400, headers: { "Content-Type": "application/json" } }
         );
       }
 
-      await deleteMessage(id, address);
+      const ok = await deleteMessage(id, address);
 
-      return new Response(
-        JSON.stringify({
-          success: true,
-          deleted_id: id
-        }),
-        { headers: { "Content-Type": "application/json" } }
-      );
+      return new Response(JSON.stringify({
+        success: ok,
+        deleted: id
+      }), {
+        headers: { "Content-Type": "application/json" }
+      });
     }
 
     // -------------------
@@ -56,49 +77,44 @@ export default async function handler(req) {
     // -------------------
     if (action === "delete_all") {
 
-      const inboxUrl =
-        `https://api.catchmail.io/api/v1/messages?address=${encodeURIComponent(address)}`;
+      // Step 1: Fetch ALL messages across all pages first
+      const allMessages = await fetchAllMessages(address);
 
-      const inboxRes = await fetch(inboxUrl);
-      const inbox = await inboxRes.json();
-
-      if (!inbox.messages || inbox.messages.length === 0) {
-        return new Response(
-          JSON.stringify({
-            success: true,
-            deleted_total: 0
-          }),
-          { headers: { "Content-Type": "application/json" } }
-        );
-      }
-
-      let deleted = 0;
-
-      for (const msg of inbox.messages) {
-        await deleteMessage(msg.id, address);
-        deleted++;
-      }
-
-      return new Response(
-        JSON.stringify({
+      if (allMessages.length === 0) {
+        return new Response(JSON.stringify({
           success: true,
-          deleted_total: deleted
-        }),
-        { headers: { "Content-Type": "application/json" } }
+          deleted_total: 0,
+          message: "Inbox already empty"
+        }), {
+          headers: { "Content-Type": "application/json" }
+        });
+      }
+
+      // Step 2: Delete all fetched messages (in parallel for speed)
+      const results = await Promise.all(
+        allMessages.map((msg) => deleteMessage(msg.id, address))
       );
+
+      const totalDeleted = results.filter(Boolean).length;
+
+      return new Response(JSON.stringify({
+        success: true,
+        found: allMessages.length,
+        deleted_total: totalDeleted
+      }), {
+        headers: { "Content-Type": "application/json" }
+      });
     }
 
     return new Response(
       JSON.stringify({ error: "invalid action" }),
-      { status: 400 }
+      { status: 400, headers: { "Content-Type": "application/json" } }
     );
 
   } catch (err) {
-
     return new Response(
       JSON.stringify({ error: err.message }),
-      { status: 500 }
+      { status: 500, headers: { "Content-Type": "application/json" } }
     );
-
   }
 }
