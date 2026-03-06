@@ -2,6 +2,14 @@ export const config = {
   runtime: "edge",
 };
 
+async function deleteMessage(id, mailbox) {
+  const url = `https://api.catchmail.io/api/v1/message/${id}?mailbox=${encodeURIComponent(mailbox)}`;
+
+  await fetch(url, {
+    method: "DELETE",
+  });
+}
+
 export default async function handler(req) {
   try {
     const { searchParams } = new URL(req.url);
@@ -11,83 +19,81 @@ export default async function handler(req) {
     const address = searchParams.get("address");
 
     if (!address) {
-      return new Response(JSON.stringify({ error: "Missing address" }), {
-        status: 400,
-      });
-    }
-
-    // -----------------------
-    // DELETE SINGLE MESSAGE
-    // -----------------------
-    if (action === "delete") {
-      if (!id) {
-        return new Response(JSON.stringify({ error: "Missing id" }), {
-          status: 400,
-        });
-      }
-
-      const apiUrl = `https://api.catchmail.io/api/v1/message/${id}?mailbox=${encodeURIComponent(
-        address
-      )}`;
-
-      const res = await fetch(apiUrl, { method: "DELETE" });
-
       return new Response(
-        JSON.stringify({
-          success: true,
-          deleted_id: id,
-          status: res.status,
-        }),
-        { headers: { "Content-Type": "application/json" } }
+        JSON.stringify({ error: "address required" }),
+        { status: 400 }
       );
     }
 
-    // -----------------------
-    // DELETE ALL MESSAGES
-    // -----------------------
-    if (action === "delete_all") {
-      const inboxUrl = `https://api.catchmail.io/api/v1/inbox?mailbox=${encodeURIComponent(
-        address
-      )}`;
+    // -------------------
+    // DELETE SINGLE MAIL
+    // -------------------
+    if (action === "delete") {
 
-      const inboxRes = await fetch(inboxUrl);
-      const inboxData = await inboxRes.json();
-
-      if (!inboxData.messages || inboxData.messages.length === 0) {
+      if (!id) {
         return new Response(
-          JSON.stringify({ success: true, message: "Inbox already empty" }),
-          { headers: { "Content-Type": "application/json" } }
+          JSON.stringify({ error: "id required" }),
+          { status: 400 }
         );
       }
 
-      let deleted = [];
+      await deleteMessage(id, address);
 
-      for (const msg of inboxData.messages) {
-        const deleteUrl = `https://api.catchmail.io/api/v1/message/${msg.id}?mailbox=${encodeURIComponent(
-          address
-        )}`;
+      return new Response(JSON.stringify({
+        success: true,
+        deleted: id
+      }), {
+        headers: { "Content-Type": "application/json" }
+      });
 
-        await fetch(deleteUrl, { method: "DELETE" });
-
-        deleted.push(msg.id);
-      }
-
-      return new Response(
-        JSON.stringify({
-          success: true,
-          deleted_count: deleted.length,
-          deleted_ids: deleted,
-        }),
-        { headers: { "Content-Type": "application/json" } }
-      );
     }
 
-    return new Response(JSON.stringify({ error: "Invalid action" }), {
-      status: 400,
-    });
+    // -------------------
+    // DELETE ALL MAILS
+    // -------------------
+    if (action === "delete_all") {
+
+      let totalDeleted = 0;
+
+      while (true) {
+
+        const inboxUrl =
+          `https://api.catchmail.io/api/v1/inbox?mailbox=${encodeURIComponent(address)}`;
+
+        const inboxRes = await fetch(inboxUrl);
+        const inbox = await inboxRes.json();
+
+        if (!inbox.messages || inbox.messages.length === 0) {
+          break;
+        }
+
+        for (const msg of inbox.messages) {
+          await deleteMessage(msg.id, address);
+          totalDeleted++;
+        }
+
+      }
+
+      return new Response(JSON.stringify({
+        success: true,
+        deleted_total: totalDeleted
+      }), {
+        headers: { "Content-Type": "application/json" }
+      });
+
+    }
+
+    return new Response(
+      JSON.stringify({ error: "invalid action" }),
+      { status: 400 }
+    );
+
   } catch (err) {
-    return new Response(JSON.stringify({ error: err.message }), {
-      status: 500,
-    });
+
+    return new Response(
+      JSON.stringify({ error: err.message }),
+      { status: 500 }
+    );
+
   }
 }
