@@ -17,23 +17,34 @@ async function fetchAllMessages(address) {
     const inboxUrl =
       `https://api.catchmail.io/api/v1/inbox?mailbox=${encodeURIComponent(address)}&page=${page}&page_size=${pageSize}`;
 
-    const inboxRes = await fetch(inboxUrl);
+    let inboxRes;
+    try {
+      inboxRes = await fetch(inboxUrl);
+    } catch (fetchErr) {
+      return { error: `Network error on page ${page}: ${fetchErr.message}`, messages: allMessages };
+    }
 
-    if (!inboxRes.ok) break;
+    const rawText = await inboxRes.text();
 
-    const inbox = await inboxRes.json();
+    if (!inboxRes.ok) {
+      return { error: `API returned ${inboxRes.status}: ${rawText}`, messages: allMessages };
+    }
+
+    let inbox;
+    try {
+      inbox = JSON.parse(rawText);
+    } catch (parseErr) {
+      return { error: `JSON parse failed: ${rawText.slice(0, 200)}`, messages: allMessages };
+    }
 
     if (!inbox.messages || inbox.messages.length === 0) break;
 
     allMessages.push(...inbox.messages);
-
-    // If we got fewer messages than page_size, we've reached the last page
     if (inbox.messages.length < pageSize) break;
-
     page++;
   }
 
-  return allMessages;
+  return { messages: allMessages };
 }
 
 export default async function handler(req) {
@@ -52,6 +63,21 @@ export default async function handler(req) {
     }
 
     // -------------------
+    // DEBUG: RAW INBOX
+    // -------------------
+    if (action === "debug_inbox") {
+      const inboxUrl = `https://api.catchmail.io/api/v1/inbox?mailbox=${encodeURIComponent(address)}&page=1&page_size=50`;
+      const res = await fetch(inboxUrl);
+      const raw = await res.text();
+      return new Response(JSON.stringify({
+        http_status: res.status,
+        raw_response: raw
+      }, null, 2), {
+        headers: { "Content-Type": "application/json" }
+      });
+    }
+
+    // -------------------
     // DELETE SINGLE MAIL
     // -------------------
     if (action === "delete") {
@@ -62,11 +88,16 @@ export default async function handler(req) {
         );
       }
 
-      const ok = await deleteMessage(id, address);
+      // Also log the delete response for debugging
+      const url = `https://api.catchmail.io/api/v1/message/${id}?mailbox=${encodeURIComponent(address)}`;
+      const res = await fetch(url, { method: "DELETE" });
+      const body = await res.text();
 
       return new Response(JSON.stringify({
-        success: ok,
-        deleted: id
+        success: res.ok,
+        deleted: id,
+        api_status: res.status,
+        api_response: body
       }), {
         headers: { "Content-Type": "application/json" }
       });
@@ -77,30 +108,48 @@ export default async function handler(req) {
     // -------------------
     if (action === "delete_all") {
 
-      // Step 1: Fetch ALL messages across all pages first
-      const allMessages = await fetchAllMessages(address);
+      const result = await fetchAllMessages(address);
+
+      if (result.error) {
+        return new Response(JSON.stringify({
+          success: false,
+          fetch_error: result.error
+        }), {
+          status: 500,
+          headers: { "Content-Type": "application/json" }
+        });
+      }
+
+      const allMessages = result.messages;
 
       if (allMessages.length === 0) {
         return new Response(JSON.stringify({
-          success: true,
-          deleted_total: 0,
-          message: "Inbox already empty"
+          success: false,
+          message: "API returned 0 messages from Edge function",
+          hint: "Call ?action=debug_inbox&address=YOUR_ADDRESS to see the raw API response"
         }), {
           headers: { "Content-Type": "application/json" }
         });
       }
 
-      // Step 2: Delete all fetched messages (in parallel for speed)
-      const results = await Promise.all(
-        allMessages.map((msg) => deleteMessage(msg.id, address))
+      // Delete all in parallel, capture individual results
+      const deleteResults = await Promise.allSettled(
+        allMessages.map(async (msg) => {
+          const url = `https://api.catchmail.io/api/v1/message/${msg.id}?mailbox=${encodeURIComponent(address)}`;
+          const res = await fetch(url, { method: "DELETE" });
+          return { id: msg.id, ok: res.ok, status: res.status };
+        })
       );
 
-      const totalDeleted = results.filter(Boolean).length;
+      const settled = deleteResults.map(r => r.value || r.reason);
+      const totalDeleted = settled.filter(r => r.ok).length;
 
       return new Response(JSON.stringify({
         success: true,
         found: allMessages.length,
-        deleted_total: totalDeleted
+        deleted_total: totalDeleted,
+        failed: allMessages.length - totalDeleted,
+        details: settled
       }), {
         headers: { "Content-Type": "application/json" }
       });
@@ -113,7 +162,7 @@ export default async function handler(req) {
 
   } catch (err) {
     return new Response(
-      JSON.stringify({ error: err.message }),
+      JSON.stringify({ error: err.message, stack: err.stack }),
       { status: 500, headers: { "Content-Type": "application/json" } }
     );
   }
