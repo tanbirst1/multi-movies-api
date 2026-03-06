@@ -2,12 +2,15 @@ export const config = {
   runtime: "edge",
 };
 
-async function deleteMessage(id, mailbox) {
-  const url = `https://api.catchmail.io/api/v1/message/${id}?mailbox=${encodeURIComponent(mailbox)}`;
+async function deleteMessage(id, address) {
+  const url =
+    `https://api.catchmail.io/api/v1/message/${id}?mailbox=${encodeURIComponent(address)}`;
 
-  await fetch(url, {
+  const res = await fetch(url, {
     method: "DELETE",
   });
+
+  return res.status;
 }
 
 export default async function handler(req) {
@@ -39,13 +42,13 @@ export default async function handler(req) {
 
       await deleteMessage(id, address);
 
-      return new Response(JSON.stringify({
-        success: true,
-        deleted: id
-      }), {
-        headers: { "Content-Type": "application/json" }
-      });
-
+      return new Response(
+        JSON.stringify({
+          success: true,
+          deleted_id: id
+        }),
+        { headers: { "Content-Type": "application/json" } }
+      );
     }
 
     // -------------------
@@ -53,34 +56,36 @@ export default async function handler(req) {
     // -------------------
     if (action === "delete_all") {
 
-      let totalDeleted = 0;
+      const inboxUrl =
+        `https://api.catchmail.io/api/v1/messages?address=${encodeURIComponent(address)}`;
 
-      while (true) {
+      const inboxRes = await fetch(inboxUrl);
+      const inbox = await inboxRes.json();
 
-        const inboxUrl =
-          `https://api.catchmail.io/api/v1/inbox?mailbox=${encodeURIComponent(address)}`;
-
-        const inboxRes = await fetch(inboxUrl);
-        const inbox = await inboxRes.json();
-
-        if (!inbox.messages || inbox.messages.length === 0) {
-          break;
-        }
-
-        for (const msg of inbox.messages) {
-          await deleteMessage(msg.id, address);
-          totalDeleted++;
-        }
-
+      if (!inbox.messages || inbox.messages.length === 0) {
+        return new Response(
+          JSON.stringify({
+            success: true,
+            deleted_total: 0
+          }),
+          { headers: { "Content-Type": "application/json" } }
+        );
       }
 
-      return new Response(JSON.stringify({
-        success: true,
-        deleted_total: totalDeleted
-      }), {
-        headers: { "Content-Type": "application/json" }
-      });
+      let deleted = 0;
 
+      for (const msg of inbox.messages) {
+        await deleteMessage(msg.id, address);
+        deleted++;
+      }
+
+      return new Response(
+        JSON.stringify({
+          success: true,
+          deleted_total: deleted
+        }),
+        { headers: { "Content-Type": "application/json" } }
+      );
     }
 
     return new Response(
